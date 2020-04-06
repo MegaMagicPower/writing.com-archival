@@ -329,7 +329,6 @@
             template: '#info-template'
         })
 
-        //I assume outline is sorted. Is it sorted?
         const outline_view = Vue.component('info-view', {
             template: '#outline-template'
         })
@@ -425,6 +424,13 @@
                 fetch("./archive/" + to.params.story + "/story.json")
                     .then(r => r.json())
                     .then(story => {
+                        const sortedChapters = {};
+                        //Sort the chapters just in case they're not sorted 
+                        Object.keys(story.chapters).sort().forEach(function(key) {
+                            sortedChapters[key] = story.chapters[key];
+                        });
+                        story.chapters = sortedChapters;
+
                         Vue.prototype.$story = story;
                         //TODO proper title stuff
                         document.title = story.info.pretty_title;
