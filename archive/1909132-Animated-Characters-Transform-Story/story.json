@@ -25232,6 +25232,81 @@
             "created":1586149200,
             "id":2814082,
             "title":"No! Go with some other choice!"
+        },
+        "155332222222222222222222222222222322222222222222223222222222222222222223222222221":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Little Bear",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which character should we focus on?</span></div></span></div>",
+            "created":1586149200,
+            "id":2814090,
+            "title":"Little Bear"
+        },
+        "1553322222222222222222222222222223222222222222222232222222222222222222232222222211":{
+            "author_id":"jobobo19",
+            "author_name":"carl.a.pruuitt",
+            "choices":[
+                "Age change",
+                "Size change",
+                "He. Turn into a human",
+                "Gain muscles",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What's going to happen to little bear?</span></div></span></div>",
+            "created":1586149200,
+            "id":2814301,
+            "title":"Little Bear"
+        },
+        "1553322222222222222222222222222223222222222222222232222222222222222222232222222212":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Could we try an original character?</span></div></span></div>",
+            "created":1586149200,
+            "id":2814092,
+            "title":"Someone else"
+        },
+        "15533222222222222222222222222222232222222222222222322222222222222222222322222222121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Can it be a little boy who was transformed into a bear cub?</span></div></span></div>",
+            "created":1586149200,
+            "id":2814163,
+            "title":"Yes"
+        },
+        "155332222222222222222222222222222322222222222222223222222222222222222223222222221211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "A magical artifact",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How could he become a bear cub?</span></div></span></div>",
+            "created":1586149200,
+            "id":2814312,
+            "title":"Yes"
+        },
+        "1553322222222222222222222222222223222222222222222232222222222222222222232222222212111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "An amulet",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of artifact?</span></div></span></div>",
+            "created":1586149200,
+            "id":2814330,
+            "title":"A magical artifact"
         }
     },
     "info":{
@@ -25242,7 +25317,7 @@
         "description":"<td align=\"left\" class=\"norm\">Inspired by Hidden in a Box's transform stories, here's my attempt.<br>\r\n<br>\r\nHere, you can have characters from your favorite anime and cartoons undergo whatever kind of changes you want them to. You can focus on groups or individuals, and if you do use groups, be aware that not every character has to be affected by all the same changes.<br>\r\n<br>\r\nNow then, some rules:<br>\r\n<br>\r\nNo sex, vore, futa, or unbirthing (let's keep it clean)<br>\r\nNo killing characters<br>\r\nNo ending the story<br>\r\nExcept for additional suggestions, all entries must be at least one paragraph long<br>\r\nTry to use proper grammar<br>\r\nBe consistent<br>\r\n<br>\r\nAside from that, everything is acceptable.<br>\r\n<br>\r\nAnd of course, have fun!</td>",
         "id":1909132,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1586161500,
+        "modified":1586195820,
         "pretty_title":"Animated Characters Transform Story"
     }
 }

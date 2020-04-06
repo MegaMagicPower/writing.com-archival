@@ -12792,6 +12792,30 @@
             "id":2657445,
             "title":"yes"
         },
+        "11313221122111223422121312131122121121221121111221122222121122221212":{
+            "author_id":"mbrody",
+            "author_name":"MBrody",
+            "choices":[
+                "She loves it but she would like to have some pants.",
+                "She hates it and throws a tantrum."
+            ],
+            "content":"<div class=\"\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0You set Denise down on the floor, then allowed her to age up. However, you stopped aging her when she was about three years old. She now wore a long-sleeved red shirt and a pink Cinderella pull-up. She was barefoot and was wearing no pants. She didn't even come up to your waist, and you couldn't resist smiling. She was so adorable.<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\"So,\" you said, \"how do you like being three?\"<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0What is Denise's reaction?</span></div></div>",
+            "created":1586149200,
+            "id":2814482,
+            "title":"three"
+        },
+        "113132211221112234221213121311221211212211211112211222221211222212121":{
+            "author_id":"mbrody",
+            "author_name":"MBrody",
+            "choices":[
+                "have some pants materialize on your sister.",
+                "change reality so Denise is supposed to be three."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\"It's act'willy not bad,\" said Denise, speaking with an adorable toddler's lisp. \"I could get used to t'is for a bit. But I would wike some pants.\"<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0You then used the remote to...</span></div></span></div>",
+            "created":1586149200,
+            "id":2814493,
+            "title":"She loves it but she would like to have some pa..."
+        },
         "11313221122111223422121312131122121121221121111221122222121122222":{
             "author_id":"mbrody",
             "author_name":"MBrody",
@@ -18725,6 +18749,18 @@
             "created":1536037200,
             "id":2542856,
             "title":"one of your or Yvonne's exes"
+        },
+        "113132211221112234221213222":{
+            "author_id":"mbrody",
+            "author_name":"MBrody",
+            "choices":[
+                "male",
+                "female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Yvonne wanted to use the remote to mess with one of her exes. Is her ex male or female?</span></div></span></div>",
+            "created":1586149200,
+            "id":2814388,
+            "title":"Yvonne's."
         },
         "11313221122111223422122":{
             "author_id":"magicdream",
@@ -31001,7 +31037,7 @@
         "description":"<td align=\"left\" class=\"norm\">The real world remote controller <br>\r\n<br>\r\nYou find a box in the ground and open it has a remote that has a his and hers switch. On the bottom of the box is a book and it says you can only control one being at a time. You can pre-set up to 5 and will reset itself ever 2 years\tyou see on the box it says 1996 on the box\t<br>\r\nWho do you want to control with the remote? <br>\r\n1.\t best friend (female)<br>\r\n2.\tbest friend (male)\t<br>\r\n3.\tsister\t<br>\r\n4.\tbrother<br>\r\n5.\tboyfriend or girlfriend<br>\r\n</td>",
         "id":1875153,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1585081680,
+        "modified":1586211000,
         "pretty_title":"The real world remote controller "
     }
 }

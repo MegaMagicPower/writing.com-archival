@@ -40,6 +40,18 @@
             "id":2585593,
             "title":"Tommy hasn't gone this morning yet, I shoul..."
         },
+        "1122":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Dil pooped his diaper earlier, so he probably needs it more.<br>\r\n<br>\r\nWill Tommy wait his turn?</span></div></span></div>",
+            "created":1586149200,
+            "id":2814127,
+            "title":"Change Dil first"
+        },
         "113":{
             "author_id":null,
             "author_name":null,
@@ -579,6 +591,18 @@
             "created":1561093200,
             "id":2676845,
             "title":"Not when it looks like she's about to leave..."
+        },
+        "1321":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Hold off until later",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>Kira saw that Kimi was almost done, so she decided to let her finish<br>\r\nand then change her when she was done. Kira knew her daughter<br>\r\nwouldn't be in the mood to deal with something like potty-training<br>\r\nafter this, so what will she do now? Will she hold off on trying to <br>\r\npotty-train Kimi until another time?<br>\r\n<br>\r\n</span></div></div>",
+            "created":1586149200,
+            "id":2814129,
+            "title":"Allowed her to continue"
         },
         "14":{
             "author_id":"cmc38",
@@ -1979,6 +2003,18 @@
             "created":1585890000,
             "id":2812743,
             "title":"Baby supply store"
+        },
+        "151111121211221211111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Angelica want a crib?</span></div></span></div>",
+            "created":1586149200,
+            "id":2814284,
+            "title":"A crib"
         },
         "1512":{
             "author_id":"supreme123",
@@ -5691,7 +5727,7 @@
         "description":"<td align=\"left\" class=\"norm\">Stories about The Rugrats using their diapers/underwear and failing at potty training.<br>\r\n<br>\r\nRules<br>\r\n<br>\r\nJust stay on topic and <b>add detail, don't just add 1 or 2 sentences</b><br>\r\nWetting and messing is the focus, don't go crazy with other things.<br>\r\n<br>\r\nNotice: After being messaged a request, I've added an All Grown Up option under Tommy's path for those who want to use it. Feel free to add on to it. <br>\r\n<br>\r\nAlso thank you for 35k chapter views. I didn't know how this would do when creating it. So thanks to those that read or add chapters to this story.</td>",
         "id":2160516,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1586148300,
+        "modified":1586187480,
         "pretty_title":"Rugrats Diaper Tales"
     }
 }

@@ -751,6 +751,43 @@
             "id":2532809,
             "title":"Derek goes home to his confused parents"
         },
+        "1113":{
+            "author_id":"mbrody",
+            "author_name":"MBrody",
+            "choices":[
+                "Both their ages freeze at 10.",
+                "Derek's age freezes at 10, but Stacey continues to regress.",
+                "Either just Derek or both Derek and Stacey starts to get older."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0On an impulse, Stacey kissed Derek again. As a result...</span></div></span></div>",
+            "created":1586149200,
+            "id":2814379,
+            "title":"Stacey kisses Derek again"
+        },
+        "11133":{
+            "author_id":"mbrody",
+            "author_name":"MBrody",
+            "choices":[
+                "yes",
+                "no, she either continues to regress or stays 10."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0At Stacey's kiss, Derek stopped started getting older. Does Stacey as well?</span></div></span></div>",
+            "created":1586149200,
+            "id":2814385,
+            "title":"Either just Derek or both Derek and Stacey star..."
+        },
+        "111331":{
+            "author_id":"mbrody",
+            "author_name":"MBrody",
+            "choices":[
+                "yes",
+                "no, they are still younger or have gotten even older than they were."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0As a result of the kiss, Derek and Stacey started to get older again. Do they return to normal?</span></div></span></div>",
+            "created":1586149200,
+            "id":2814407,
+            "title":"yes"
+        },
         "112":{
             "author_id":"spooky1",
             "author_name":"Spooky",
@@ -1805,7 +1842,7 @@
         "description":"<td align=\"left\" class=\"norm\">At first glance, Stacey Calborne seems like the perfect girl. She's funny, smart, flirty, and considered quite attractive by the boys in her school. Her lips especially are considered to be the nicest set of lips on any girl in her school, but they also carry a strange curse..</td>",
         "id":1498481,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1558199940,
+        "modified":1586203200,
         "pretty_title":"With the Touch of a Kiss"
     }
 }

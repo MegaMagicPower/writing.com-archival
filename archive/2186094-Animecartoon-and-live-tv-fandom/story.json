@@ -3019,6 +3019,18 @@
             "id":2812657,
             "title":"Drew"
         },
+        "1211331111113121211211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was Drew happy that Angelica's a baby again?</span></div></span></div>",
+            "created":1586149200,
+            "id":2814252,
+            "title":"Writer's Choice 1"
+        },
         "121133111111312121122":{
             "author_id":"johnny2",
             "author_name":"littlejohn",
@@ -3030,6 +3042,18 @@
             "created":1585890000,
             "id":2812659,
             "title":"Charlotte"
+        },
+        "1211331111113121211221":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was Charlotte happy that Angelica's a baby again?</span></div></span></div>",
+            "created":1586149200,
+            "id":2814254,
+            "title":"Writer's Choice 1"
         },
         "121133111111312122":{
             "author_id":"johnny2",
@@ -3066,6 +3090,18 @@
             "created":1585976400,
             "id":2813450,
             "title":"Unborn"
+        },
+        "12113311221":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was it because of a wish?</span></div></span></div>",
+            "created":1586149200,
+            "id":2814147,
+            "title":"Magic"
         },
         "1212":{
             "author_id":"jobobo19",
@@ -3153,6 +3189,18 @@
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which character of this show should we focus on?</span></div></span></div>",
             "created":1586149200,
             "id":2814060,
+            "title":"Little Bear"
+        },
+        "121333211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does he get a flea?</span></div></span></div>",
+            "created":1586149200,
+            "id":2814255,
             "title":"Little Bear"
         },
         "122":{
@@ -5726,7 +5774,7 @@
         "description":"<td align=\"left\" class=\"norm\">Rules <br>\r\n1 anime and cartoon crossovers some with live tv are welcome.<br>\r\n2 any feithes are welcome as well just give a warning if any sex is up coming.<br>\r\n3 don't end the story and have fun.</td>",
         "id":2186094,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1586156400,
+        "modified":1586182680,
         "pretty_title":"Anime/cartoon and live tv fandom."
     }
 }

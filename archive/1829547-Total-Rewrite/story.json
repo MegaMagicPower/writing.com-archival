@@ -2420,6 +2420,18 @@
             "id":2812421,
             "title":"Yes"
         },
+        "12533222221211212":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was the regression caused by some sort of machine?</span></div></span></div>",
+            "created":1586149200,
+            "id":2814165,
+            "title":"Science"
+        },
         "12533222221212":{
             "author_id":"johnny2",
             "author_name":"littlejohn",
@@ -2443,6 +2455,18 @@
             "created":1585630800,
             "id":2810888,
             "title":"She gets naked"
+        },
+        "1253322222121211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Surprised",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does she feel about having to spend the <br>\r\nrest of the day in her birthday suit?</span></div></span></div>",
+            "created":1586149200,
+            "id":2814166,
+            "title":"All her clothes are in the laundry"
         },
         "1253322222121212":{
             "author_id":"johnny2",
@@ -2479,6 +2503,30 @@
             "created":1585803600,
             "id":2812486,
             "title":"Yes"
+        },
+        "12533222221212211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Angelica drink a magic potion?</span></div></span></div>",
+            "created":1586149200,
+            "id":2814169,
+            "title":"Magic"
+        },
+        "1253322222121222":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will it be an alternate storyline to \"Angelica's Birthday?\"</span></div></span></div>",
+            "created":1586149200,
+            "id":2814139,
+            "title":"Something else"
         },
         "12533222221213":{
             "author_id":"jobobo19",
@@ -4870,7 +4918,7 @@
         "description":"<td align=\"left\" class=\"norm\">Just follow the usual rules about grammar and sticking with the rating and you should do fine.<br>\r\n<br>\r\nIn this interactive, you pick something you know and love and then change the fabric of its reality. The characters may or may not notice this. This is not, I repeat \"not\", limited to transformations, although that also works here. Be welcome to be nutty with the changes.</td>",
         "id":1829547,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1586135400,
+        "modified":1586176020,
         "pretty_title":"Total Rewrite"
     }
 }

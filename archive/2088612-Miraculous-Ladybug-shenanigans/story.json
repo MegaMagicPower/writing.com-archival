@@ -1991,6 +1991,43 @@
             "id":2396795,
             "title":"Adrien swaps bodies with an animal"
         },
+        "15133212":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "A Lion",
+                "A Tiger",
+                "Some other choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of zoo animal will Adrien swap bodies with?</span></div></span></div>",
+            "created":1586149200,
+            "id":2814296,
+            "title":"A wild animal (from the zoo)"
+        },
+        "151332122":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What gender is the tiger that he swaps bodies with?</span></div></span></div>",
+            "created":1586149200,
+            "id":2814305,
+            "title":"A Tiger"
+        },
+        "1513321222":{
+            "author_id":"mysterykid18",
+            "author_name":"Mysteryguy18",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><div> <span>Will Adrien have to deal with a male tiger that wanted to mate with the tiger Adrien swapped bodies with, but has always refused him in the past?<br>\r\n<br>\r\nIn other words, will Adrien learn how Ladybug feels as a result of having to experience his own behavior from the other perspective?</span></div></div>",
+            "created":1586149200,
+            "id":2814344,
+            "title":"Female"
+        },
         "1513322":{
             "author_id":"mrmasterplan",
             "author_name":"MrMasterplan",
@@ -2465,6 +2502,19 @@
             "created":1506920400,
             "id":2395585,
             "title":"Awesome!"
+        },
+        "15533211":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "Marinette",
+                "Adrien",
+                "Some other character"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who gets to be the one to transform into an animal?</span></div></span></div>",
+            "created":1586149200,
+            "id":2814260,
+            "title":"Full animal transformation "
         },
         "1553322":{
             "author_id":"jonwii",
@@ -3197,6 +3247,45 @@
             "id":2314972,
             "title":"no thank you"
         },
+        "1553322221":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "Marinette",
+                "Adrien",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who will be the victim of a clothes-swap?</span></div></span></div>",
+            "created":1586149200,
+            "id":2814285,
+            "title":"Yes, Clothes Swap"
+        },
+        "15533222211":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "Nino",
+                "Adrien",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who does she end up swapping clothes with?</span></div></span></div>",
+            "created":1586149200,
+            "id":2814286,
+            "title":"Marinette"
+        },
+        "15533222212":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "Marinette",
+                "Cloe",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who does he end up swapping clothes with?</span></div></span></div>",
+            "created":1586149200,
+            "id":2814287,
+            "title":"Adrien"
+        },
         "1553322222":{
             "author_id":"potter0129",
             "author_name":"Mm",
@@ -3316,6 +3405,19 @@
             "created":1569301200,
             "id":2722800,
             "title":"A piece of clothing (or full outfit)"
+        },
+        "1553322222222111":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "Yes, she turns into his shirt",
+                "No, but she turns into Adrian's full outfit instead!",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Marinette really become Adrian's shirt, or is it something else?</span></div></span></div>",
+            "created":1586149200,
+            "id":2814238,
+            "title":"Marinette become Adrien's shirt"
         },
         "1553322222222112":{
             "author_id":"kameron94",
@@ -3450,6 +3552,45 @@
             "created":1557723600,
             "id":2659430,
             "title":"Alright then but a choice has to be made some time"
+        },
+        "1553322222222222":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Perhaps someone will aquire the power to let their spirit leave their body, which in turn allows them to possess other people?</span></div></span></div>",
+            "created":1586149200,
+            "id":2814292,
+            "title":"Phantom Powers?"
+        },
+        "15533222222222221":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "Marinette",
+                "Adrien",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who will aquire these powers?</span></div></span></div>",
+            "created":1586149200,
+            "id":2814294,
+            "title":"Yes"
+        },
+        "155332222222222213":{
+            "author_id":"mysterykid18",
+            "author_name":"Mysteryguy18",
+            "choices":[
+                "Tikki",
+                "Plagg",
+                "Other kwami",
+                "More options"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about a kwami?</span></div></span></div>",
+            "created":1586149200,
+            "id":2814347,
+            "title":"More"
         }
     },
     "info":{
@@ -3460,7 +3601,7 @@
         "description":"<td align=\"left\" class=\"norm\">Everything aside from Scat and Watersports is allowed (Farts are allowed, and in fact encouraged)</td>",
         "id":2088612,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1584461460,
+        "modified":1586197680,
         "pretty_title":"Miraculous Ladybug shenanigans"
     }
 }

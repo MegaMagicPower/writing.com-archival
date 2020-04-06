@@ -576,6 +576,42 @@
             "id":2717737,
             "title":"\"I thought your sister was older than this...."
         },
+        "11412121122211111112":{
+            "author_id":"mbrody",
+            "author_name":"MBrody",
+            "choices":[
+                "yes",
+                "no"
+            ],
+            "content":"<div class=\"\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Jake sighed. \"You're right. My sister did used to be twelve. My family and I were in the woods. She found this strange stream, and I don't know what it was, but it turned her back into a baby. On the way over here, she had an accident, and since we didn't have any diapers, my parents left me in charge of her while they went to go buy some.\"<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0The entire time he spoke, Adrienne just stared at him. Does she believe him?</span></div></div>",
+            "created":1586149200,
+            "id":2814414,
+            "title":"He 'fesses up and tells her about the fount..."
+        },
+        "114121211222111111122":{
+            "author_id":"mbrody",
+            "author_name":"MBrody",
+            "choices":[
+                "Adrienne thinks Jake has gone mad and kidnapped some random baby.",
+                "Jake's parents return with diapers."
+            ],
+            "content":"<div class=\"\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Jake could tell that Adrienne did not believe his story.<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\"Come on, Jake,\" she said. \"Seriously, who is this baby?\"<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\"I just told you,\" said Jake. \"It's Dawn -- she found the fountain of youth or something.\"<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0At that moment...</span></div></div>",
+            "created":1586149200,
+            "id":2814416,
+            "title":"no"
+        },
+        "1141212112221111111222":{
+            "author_id":"mbrody",
+            "author_name":"MBrody",
+            "choices":[
+                "follow baby Dawn's perspective",
+                "follow Jake and Adrienne's trip to the fountain of youth"
+            ],
+            "content":"<div class=\"\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0At that moment, Jake's parents returned with packages of diapers.<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\"Oh, hi, Adrienne,\" said his mom. \"Well, this is a pleasant surprise. Can you hand me the baby? I need to get her diaper on.\"<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Adrienne handed Dawn to her mother, who laid her on the hood of car and placed her in a new diaper. As she did so, Adrienne said, \"So, Jake was trying to convince me that's his sister Dawn, who's supposed to be twelve.\"<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\"Oh, it is,\" said their mom. \"She ran into some weird creek. I don't know what it was, but she's a baby now.\"<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Adrienne blinked. \"You mean, it's true? But -- but --\" She didn't know what to say.<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\"We're not far from where she found it,\" Jake said. \"I can show it to you if you want.\"<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0With permission from his parents then, Jake set back out into the woods with Adrienne while they continued on home with baby Dawn. What happens now?</span></div></div>",
+            "created":1586149200,
+            "id":2814419,
+            "title":"Jake's parents return with diapers."
+        },
         "1141212112221111112":{
             "author_id":"mbrody",
             "author_name":"MBrody",
@@ -1794,7 +1830,7 @@
         "description":"<td align=\"left\" class=\"norm\">The legendary fountain of youth has been discovered ! But by who, how, and for what is yours to decide ! But remember that any chapter that doesn't follow these rules will be deleted : <br>\r\n<br>\r\n-Do not kill characters unless you make them come back one way or another<br>\r\n-No sex<br>\r\n-No toilet stuff or other nasty things like this<br>\r\n-Please develop the actions and situations as much as possible<br>\r\n-Only age regression. No age progression.<br>\r\n-Do not end the story too early. Please wait until you reach the chapter N*10.<br>\r\n<br>\r\nPlease follow these rules, and enjoy the story !</td>",
         "id":1569266,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1568412660,
+        "modified":1586204340,
         "pretty_title":"The fountain of youth"
     }
 }
