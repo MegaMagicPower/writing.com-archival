@@ -296,9 +296,9 @@
                         search = this.search.toLowerCase()
                         return this.sorted_list.filter(
                             (story_id) => {
-                                return this.storylist[story_id].brief_description.toLowerCase().includes(this.search) ||
-                                this.storylist[story_id].author.toLowerCase().includes(this.search)||
-                                this.storylist[story_id].pretty_title.toLowerCase().includes(this.search)
+                                return this.storylist[story_id].brief_description.toLowerCase().includes(search) ||
+                                this.storylist[story_id].author.toLowerCase().includes(search)||
+                                this.storylist[story_id].pretty_title.toLowerCase().includes(search)
                             }
                         )
                     }
