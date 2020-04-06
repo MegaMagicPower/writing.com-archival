@@ -21,5 +21,5 @@ for root, dirs, files in os.walk(path):
         results[root[10:]] = info
 
 file = open('storylist.json','w')
-file.write(json.dumps(results, indent=None, sort_keys=True, separators=(',',':')))
+file.write(json.dumps(results, indent=4, sort_keys=True, separators=(',',':')))
 file.close()
