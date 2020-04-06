@@ -1,0 +1,212 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"rockthedragon",
+            "author_name":"rockthedragon ",
+            "choices":[
+                "Legends",
+                "Canon"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which canon do you want to follow?</span></div></span></div>",
+            "created":1579150800,
+            "id":2774708,
+            "title":"A long time ago, in a galaxy far far away"
+        },
+        "12":{
+            "author_id":"rockthedragon",
+            "author_name":"rockthedragon ",
+            "choices":[
+                "The Old Republic",
+                "Prequels (I-III; Clone Wars)",
+                "In between Prequels and Original Trilogy (Rebels, Solo, Rouge One)",
+                "Original Trilogy (IV-VI)",
+                "Later"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which era will this story take place in?</span></div></span></div>",
+            "created":1579150800,
+            "id":2774710,
+            "title":"Canon"
+        },
+        "122":{
+            "author_id":"rockthedragon",
+            "author_name":"rockthedragon ",
+            "choices":[
+                "The Phantom Menace",
+                "Attack of The Clones",
+                "Clone Wars or Revenge of the Sith"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Alright. Where specifically?</span></div></span></div>",
+            "created":1579150800,
+            "id":2774712,
+            "title":"Every Journey has a beginning...."
+        },
+        "1221":{
+            "author_id":"rockthedragon",
+            "author_name":"rockthedragon ",
+            "choices":[
+                "Qui-Gon Jin",
+                "Anakin Skywalker",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which character is regressed?</span></div></span></div>",
+            "created":1579150800,
+            "id":2774715,
+            "title":"Turmoil has engulfed the Galactic Republic"
+        },
+        "1222":{
+            "author_id":"rockthedragon",
+            "author_name":"rockthedragon ",
+            "choices":[
+                "Anakin Skywalker ",
+                "Obi-Wan Kenobi",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who is getting regressed?</span></div></span></div>",
+            "created":1579150800,
+            "id":2774716,
+            "title":"There is unrest in the Galactic Senate....also san"
+        },
+        "1223":{
+            "author_id":"rockthedragon",
+            "author_name":"rockthedragon ",
+            "choices":[
+                "Clone Wars",
+                "Revenge of the Sith"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Clone Wars or Revenge of the Sith?</span></div></span></div>",
+            "created":1579150800,
+            "id":2774713,
+            "title":"The conflict leading to the fall..."
+        },
+        "12232":{
+            "author_id":"rockthedragon",
+            "author_name":"rockthedragon ",
+            "choices":[
+                "Anakin Skywalker/Darth Vader",
+                "Obi-Wan Kenobi",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who is getting regressed?</span></div></span></div>",
+            "created":1579150800,
+            "id":2774717,
+            "title":"War! The Republic is crumbling"
+        },
+        "123":{
+            "author_id":"rockthedragon",
+            "author_name":"rockthedragon ",
+            "choices":[
+                "Rebels",
+                "Solo",
+                "Rouge One"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which series of events specifically?</span></div></span></div>",
+            "created":1579150800,
+            "id":2774720,
+            "title":"In between Prequels and Original Trilogy (Rebel..."
+        },
+        "1231":{
+            "author_id":"ccarmine",
+            "author_name":"Kilokhan",
+            "choices":[
+                "Ahsoka ",
+                "Ezra",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which character</span></div></span></div>",
+            "created":1579323600,
+            "id":2775099,
+            "title":"Rebels"
+        },
+        "124":{
+            "author_id":"rockthedragon",
+            "author_name":"rockthedragon ",
+            "choices":[
+                "A New Hope",
+                "Empire Strikes Back",
+                "Return of the Jedi"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where in the Trilogy shall we begin?</span></div></span></div>",
+            "created":1579150800,
+            "id":2774721,
+            "title":"A boy, a girl, a galaxy"
+        },
+        "1241":{
+            "author_id":"rockthedragon",
+            "author_name":"rockthedragon ",
+            "choices":[
+                "Luke Skywalker",
+                "Darth Vader",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who is getting regressed?</span></div></span></div>",
+            "created":1579150800,
+            "id":2774724,
+            "title":"It is a period of civil war."
+        },
+        "1242":{
+            "author_id":"rockthedragon",
+            "author_name":"rockthedragon ",
+            "choices":[
+                "Luke Skywalker",
+                "Darth Vader",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who is getting regressed?</span></div></span></div>",
+            "created":1579237200,
+            "id":2774852,
+            "title":"It is a dark time for the Rebellion"
+        },
+        "1243":{
+            "author_id":"rockthedragon",
+            "author_name":"rockthedragon ",
+            "choices":[
+                "Luke Skywalker",
+                "Darth Vader/Anakin Skywalker ",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which character is getting regressed?</span></div></span></div>",
+            "created":1579237200,
+            "id":2774853,
+            "title":"Luke Skywalker has returned to his home planet"
+        },
+        "12431":{
+            "author_id":"rockthedragon",
+            "author_name":"rockthedragon ",
+            "choices":[
+                "Rescue of Han Solo",
+                "At the rebel base",
+                "On Endor",
+                "During the fight with Vader",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>When exactly does this occur?</span></div></span></div>",
+            "created":1579237200,
+            "id":2775016,
+            "title":"Luke Skywalker"
+        },
+        "125":{
+            "author_id":"rockthedragon",
+            "author_name":"rockthedragon ",
+            "choices":[
+                "After Return of the Jedi but before the Force Awakens",
+                "Sequel Trilogy (VII-IX)",
+                "After Rise of Skywalker"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The Empire has been vanquished....but is this before Tge First Order?</span></div></span></div>",
+            "created":1579150800,
+            "id":2774711,
+            "title":"Later"
+        }
+    },
+    "info":{
+        "author_id":"rockthedragon",
+        "author_name":"rockthedragon ",
+        "brief_description":"The force us making characters younger",
+        "created":1579230900,
+        "description":"<td align=\"left\" class=\"norm\">Basically what's on the tin. Your favorite Star Wars characters are getting younger. Ground rules:<br>\r\n<br>\r\nNo graphic descriptions of nudity<br>\r\nPreferably, the clothes do not shrink with the one being regressed<br>\r\nOnly Age Regression and Age Progression are allowed, though the focus is on regression.<br>\r\nPlease do not make endless choice chapters. It's important when establishing, but make sure there's not a chapter and choice for every small movement<br>\r\nNo regression to unbirth<br>\r\nBe descriptive. <br>\r\nProofread<br>\r\n<br>\r\nHave fun! May the forces be with you....</td>",
+        "id":2210486,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "modified":1579336440,
+        "pretty_title":"Star Wars Age Regression"
+    }
+}

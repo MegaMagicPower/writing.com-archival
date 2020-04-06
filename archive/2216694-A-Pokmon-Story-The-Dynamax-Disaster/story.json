@@ -1,0 +1,150 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"5orathegreat",
+            "author_name":"Super5ora",
+            "choices":[
+                "Main series",
+                "Anime",
+                "Spin-offs",
+                "Manga",
+                "Others, If there are any?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Now before we begin this adventure, what \"Pokemon Universe\" will the story take place</span></div></span></div>",
+            "created":1584853200,
+            "id":2805443,
+            "title":"The Dynamax Disaster"
+        },
+        "11":{
+            "author_id":"5orathegreat",
+            "author_name":"Super5ora",
+            "choices":[
+                "Galar",
+                "Kanto",
+                "Johto",
+                "Hoenn",
+                "Other regions"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Main series eh? very good, gotta start somewhere familiar. And what region will this be happening?</span></div></span></div>",
+            "created":1584853200,
+            "id":2805446,
+            "title":"Main series"
+        },
+        "111":{
+            "author_id":"5orathegreat",
+            "author_name":"Super5ora",
+            "choices":[
+                "Gloria (The Main Female Protagonist)",
+                "Sonia",
+                "more"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So were going to Galar, where Dynamax originated? Very good. Now who is going to be effected?</span></div></span></div>",
+            "created":1584939600,
+            "id":2805628,
+            "title":"Galar"
+        },
+        "112":{
+            "author_id":"5orathegreat",
+            "author_name":"Super5ora",
+            "choices":[
+                "Leaf/Green",
+                "Nurse Joy",
+                "More Choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ah yes. The region where the Pokemon franchise started, you can't go wrong in the original.(even though they keep shoving it down our throat.) Now who is our <font class=\"size1\" style=\"\"><span style=\"text-decoration:line-through\">un</span></font>lucky lady today?</span></div></span></div>",
+            "created":1585026000,
+            "id":2806063,
+            "title":"Kanto"
+        },
+        "113":{
+            "author_id":"5orathegreat",
+            "author_name":"Super5ora",
+            "choices":[
+                "Kris/Lyra",
+                "Whitney",
+                "More Choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Johto, a favorite among many fans, \"ESPECIALLY\" the remakes, now who will you choose?</span></div></span></div>",
+            "created":1585026000,
+            "id":2806092,
+            "title":"Johto"
+        },
+        "114":{
+            "author_id":"5orathegreat",
+            "author_name":"Super5ora",
+            "choices":[
+                "May",
+                "Roxanne",
+                "More Choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Hoenn. a land filled with many unique native Pokemon. But were not talking about them! Were talking about the trainers. Who will you pick?</span></div></span></div>",
+            "created":1585026000,
+            "id":2806096,
+            "title":"Hoenn"
+        },
+        "115":{
+            "author_id":"5orathegreat",
+            "author_name":"Super5ora",
+            "choices":[
+                "Sinnoh",
+                "Unova",
+                "Others"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>We still have a few more existing regions don't we? Well, take your pick.</span></div></span></div>",
+            "created":1584853200,
+            "id":2805447,
+            "title":"Other Regions (The best two, fight me.)"
+        },
+        "1153":{
+            "author_id":"5orathegreat",
+            "author_name":"Super5ora",
+            "choices":[
+                "Kalos",
+                "Alola"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>And here are the last two regions for this sections. Until GameFreak Spits out another main series game.</span></div></span></div>",
+            "created":1584853200,
+            "id":2805449,
+            "title":"The Last Two, For Now."
+        },
+        "13":{
+            "author_id":"5orathegreat",
+            "author_name":"Super5ora",
+            "choices":[
+                "Pokemon Rangers",
+                "Colosseum/EX (The Shadow Series)",
+                "Conquest",
+                "Pokemon GO",
+                "More games(There's a lot of them)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Going with the spin-off series? Excellent choice my friend. The side games need a bit of more love. Pick the game of your choice.</span></div></span></div>",
+            "created":1584853200,
+            "id":2805455,
+            "title":"Spin-offs"
+        },
+        "135":{
+            "author_id":"5orathegreat",
+            "author_name":"Super5ora",
+            "choices":[
+                "Pokemon Masters",
+                "Pokemon Duel (R.I.P.)",
+                "There is another..."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>There is a plentiful amount of spin-off games in Pokemon, (Arceus have mercy on us.)</span></div></span></div>",
+            "created":1584853200,
+            "id":2805457,
+            "title":"More games(There's a lot of them)"
+        }
+    },
+    "info":{
+        "author_id":"5orathegreat",
+        "author_name":"Super5ora",
+        "brief_description":"The power of Dynamax has slipped itself into the other regions, and is effecting humans.",
+        "created":1584937680,
+        "description":"<td align=\"left\" class=\"norm\">Introduction Scenario:<br>\r\n<br>\r\nIt seems the new <span style=\"text-decoration:line-through\">gimmick</span> power of <span class=\"clred\">Dynamax</span> has started to spread across the other regions in the world of Pok\u00e9mon, and whats worse <i>(or better, I guess?)</i> is that its starting to slowly effect humans. This whole phenomenon will ether end terribly, or just might take some time getting use to.<br>\r\n<br>\r\nDescription:<br>\r\n<br>\r\nHey. I'm making a new interactive, about Pokemon, and the new Dynamax \"feature\". Because despite being the obvious candidate for macro material, no one on this site seems to want to make a interactive story for it, so i guess I'm filling in the space here.<br>\r\n<br>\r\nHere's a few rules and clarifications before we start:<br>\r\n<br>\r\n-This interactive is mainly going to focus on giantess material, but unlike my last story(which is not doing to well.) this can also have male giants to, so a little something for everyone. Pokemon (except Zacian &amp; Zamazenta, For \"lore\" reasons.) can be effected, but they aren't the main focus here.<br>\r\n<br>\r\n-Clothing can be effected by Dynamax in this story, so they can grow with the user, but don't let that stop you from having it tear off during the growth sequence. Just don't make them entirely nude. <font class=\"size1\" style=\"\">(please?)</font><br>\r\n<br>\r\n-This won't just be restricted to the main series games. This story can take place in the anime, manga, and spin-offs, as long as it's Pokemon related. (Smash Bros. might be a stretch, I'll get back to you on that.)<br>\r\n<br>\r\n-Dynamax is usually instantaneous, has a set height, and last for three turns (however long that is in real time), but the growth can be slow or fast, last as long as you want, and they can be any height you want as well. This is a Fanfiction, GO NUTS!<br>\r\n<br>\r\nSo that should cover everything, hope you consider contributing and enjoy this story, and I am honored to be the first person to make a Dynamax Interactive for this website. <font class=\"size2\" style=\"\">(If that's considered an an honor for some reason)</font></td>",
+        "id":2216694,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "modified":1585038900,
+        "pretty_title":"A Pok\u00e9mon Story: The Dynamax Disaster"
+    }
+}

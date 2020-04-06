@@ -1,0 +1,68 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"zoroark101",
+            "author_name":"A.A",
+            "choices":[
+                "The Kanto Region",
+                "The Johto Region",
+                "The Hoenn Region",
+                "The Sinnoh Region",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You Were walking home from school/work when you were walking home you notice it started getting foggy. It was so dense you couldn't even see whats Infront of you. after some wandering around the fog begins clear and you find yourself In</span></div></span></div>",
+            "created":1492405200,
+            "id":2306268,
+            "title":"The Start of your Adventure"
+        },
+        "15":{
+            "author_id":"zoroark101",
+            "author_name":"A.A",
+            "choices":[
+                "The Unova Region",
+                "The Kolos Region",
+                "The Alola Region"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You find yourself in</span></div></span></div>",
+            "created":1492405200,
+            "id":2306270,
+            "title":"Where am i?"
+        },
+        "152":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "Lumiose City",
+                "Vaniville Town",
+                "Somewhere else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where exactly are you in the Kalos Region?</span></div></span></div>",
+            "created":1513746000,
+            "id":2430634,
+            "title":"The Kalos Region"
+        },
+        "1522":{
+            "author_id":"kaijumay",
+            "author_name":"May",
+            "choices":[
+                "Serena",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>As you are walking  you see a girl walk by you, yell out the words um excuse me, the girl turned around its?</span></div></span></div>",
+            "created":1533790800,
+            "id":2531366,
+            "title":"Vaniville Town"
+        }
+    },
+    "info":{
+        "author_id":"zoroark101",
+        "author_name":"A.A",
+        "brief_description":"This is a Pokemon TF Interactive where you get to decide what happens next",
+        "created":1492413840,
+        "description":"<td align=\"left\" class=\"norm\">You were Walking around the forest to find your not at home anymore but in the pokemon world<br>\r\n<br>\r\nPlease Message me If you have any ideas or if you want to help me continue</td>",
+        "id":2118829,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "modified":1533874380,
+        "pretty_title":"Pokemon TF Interactive"
+    }
+}

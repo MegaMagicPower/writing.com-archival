@@ -1,0 +1,107 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"chaosqueen",
+            "author_name":"WWEAnime",
+            "choices":[
+                "Ranma 1/2",
+                "DragonBall, DBZ or DBGT",
+                "Naruto",
+                "Pokemon ",
+                "More Anime"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Character from which series?<br>\r\n<br>\r\n</span></div></span></div>",
+            "created":1391835600,
+            "id":1741562,
+            "title":"1:It Begins"
+        },
+        "11":{
+            "author_id":"chaosqueen",
+            "author_name":"WWEAnime",
+            "choices":[
+                "In control",
+                "Victim"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which path will you go?</span></div></span></div>",
+            "created":1391835600,
+            "id":1741578,
+            "title":"Ranma 1/2"
+        },
+        "111":{
+            "author_id":"chaosqueen",
+            "author_name":"WWEAnime",
+            "choices":[
+                "Ranma",
+                "One of the Tendo sisters",
+                "Another Ranma cast member"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who gains the power to swap?</span></div></span></div>",
+            "created":1433653200,
+            "id":1988946,
+            "title":"In control"
+        },
+        "1111":{
+            "author_id":"mary5000",
+            "author_name":"Mary5000",
+            "choices":[
+                "All types",
+                "One type",
+                "Can only activate the power & who it\u2019s with  but can\u2019t choose what the swap is"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is it all types of swap or just one type</span></div></span></div>",
+            "created":1579928400,
+            "id":2778099,
+            "title":"Ranma"
+        },
+        "112":{
+            "author_id":"chaoticanime",
+            "author_name":"SlimerRules",
+            "choices":[
+                "Akane",
+                "Nabiki",
+                "Kasumi"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which sister is it?</span></div></span></div>",
+            "created":1431666000,
+            "id":1978249,
+            "title":"Chose a Tendo "
+        },
+        "115":{
+            "author_id":"wwemania81",
+            "author_name":"WWEis#1",
+            "choices":[
+                "Kuno or Kodachi",
+                "Hiroshi, Daisuke, Yuka or Sayuri",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who gains the power to swap or who is effected by the swap?</span></div></span></div>",
+            "created":1431666000,
+            "id":1978250,
+            "title":"Someone Else"
+        },
+        "12":{
+            "author_id":"chaoticanime",
+            "author_name":"SlimerRules",
+            "choices":[
+                "Dragonball ",
+                "Dragonball Z",
+                "Dragonball GT"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which Series will the character get swapping powers or be the victim of swapping powers?</span></div></span></div>",
+            "created":1431666000,
+            "id":1978247,
+            "title":"DragonBall, DBZ or DBGT"
+        }
+    },
+    "info":{
+        "author_id":"chaosqueen",
+        "author_name":"WWEAnime",
+        "brief_description":"Controller or Victim which Path do you go",
+        "created":1391870700,
+        "description":"<td align=\"left\" class=\"norm\">Anime characters either gain the power to swap or are the victims of a swap which can be any of the following <br>\r\n<br>\r\nHead Swap<br>\r\nGender Swap<br>\r\nSpecies Swap<br>\r\nClothing Swap<br>\r\nOccupation Swap <br>\r\nLife Swap <br>\r\nMouth/Voice Swap <br>\r\nAge Swap<br>\r\nPersonality Swap<br>\r\nBody Swap<br>\r\nIQ Swap<br>\r\n<br>\r\nIf the character is the swapy they can decide if people know or not however if the character is the victim they will not know about the swap<br>\r\n</td>",
+        "id":1976184,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "modified":1579934220,
+        "pretty_title":"Anime Swap"
+    }
+}

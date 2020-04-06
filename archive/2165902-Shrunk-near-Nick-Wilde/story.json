@@ -1,0 +1,55 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"madeinamerica1",
+            "author_name":"Jake",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are you a male or a female?</span></div></span></div>",
+            "created":1533963600,
+            "id":2531873,
+            "title":"What Gender?"
+        },
+        "11":{
+            "author_id":"madeinamerica1",
+            "author_name":"Jake",
+            "choices":[
+                "Wolf",
+                "Bunny",
+                "Lion",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What species?</span></div></span></div>",
+            "created":1533963600,
+            "id":2531874,
+            "title":"What species?"
+        },
+        "12":{
+            "author_id":"madeinamerica1",
+            "author_name":"Jake",
+            "choices":[
+                "Bunny",
+                "Vixen",
+                "Tiger",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What animal?</span></div></span></div>",
+            "created":1533963600,
+            "id":2531876,
+            "title":"Species?"
+        }
+    },
+    "info":{
+        "author_id":"madeinamerica1",
+        "author_name":"Jake",
+        "brief_description":"A lovable former con artist gets a little surprise and goes to his new home for fun.",
+        "created":1533980040,
+        "description":"<td align=\"left\" class=\"norm\">Anything goes. But Nick stays normal as a character of the movie or yourself gets shrunk somehow. Have fun.</td>",
+        "id":2165902,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "modified":1533983160,
+        "pretty_title":"Shrunk near Nick Wilde"
+    }
+}

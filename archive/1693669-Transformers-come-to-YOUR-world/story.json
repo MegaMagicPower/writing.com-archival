@@ -1,0 +1,89 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"mickeyknight",
+            "author_name":"Nick Knight",
+            "choices":[
+                "Adult Male",
+                "Adult Female",
+                "Teenage Male",
+                "Teenage Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>First off, who are you?</span></div></span></div>",
+            "created":1280120400,
+            "id":924839,
+            "title":"One shall stand......one shall fall."
+        },
+        "11":{
+            "author_id":"mickeyknight",
+            "author_name":"Nick Knight",
+            "choices":[
+                "Zach",
+                "Tyrone",
+                "Jack",
+                "Vince",
+                "Alex"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What's your name?</span></div></span></div>",
+            "created":1365224400,
+            "id":1566285,
+            "title":"Adult Male"
+        },
+        "12":{
+            "author_id":"mickeyknight",
+            "author_name":"Nick Knight",
+            "choices":[
+                "Ashley",
+                "Tracy ",
+                "Jessica",
+                "Rachel",
+                "Laura"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What's your name?</span></div></span></div>",
+            "created":1365224400,
+            "id":1566287,
+            "title":"Adult Female"
+        },
+        "13":{
+            "author_id":"mickeyknight",
+            "author_name":"Nick Knight",
+            "choices":[
+                "Chris",
+                "Jacob",
+                "Sean",
+                "Brent",
+                "Tyler"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What's your name?</span></div></span></div>",
+            "created":1365224400,
+            "id":1566288,
+            "title":"Teenage Male"
+        },
+        "14":{
+            "author_id":"mickeyknight",
+            "author_name":"Nick Knight",
+            "choices":[
+                "Sarah",
+                "Cindy",
+                "Bethany",
+                "Larissa",
+                "Katherine"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What's your name?<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n</span></div></span></div>",
+            "created":1365224400,
+            "id":1566290,
+            "title":"Teenage Female"
+        }
+    },
+    "info":{
+        "author_id":"mickeyknight",
+        "author_name":"Nick Knight",
+        "brief_description":"The Transformers have come to Earth.  What happens?",
+        "created":1280168820,
+        "description":"<td align=\"left\" class=\"norm\">The Autobots and Decepticons have brought there thousand year war to Earth.  And your caught in the middle of it.  What will happen?<br>\r\n<br>\r\nHere are the rules to this interactive<br>\r\nThis story is based off of the live-action film series<br>\r\nI'll allow some adult content, but don't go overboard<br>\r\nUse the movie characters or create your own <br>\r\nThe main character (you) should stay human  <br>\r\nTry to use proper grammar <br>\r\nThats it, Enjoy.</td>",
+        "id":1693669,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "modified":1577244960,
+        "pretty_title":"Transformers come to YOUR world."
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"shooter243",
+            "author_name":"Death",
+            "choices":[
+                "Anime ",
+                "Cart\u00f6\u00f6ns ",
+                "Tv shows ",
+                "Movies "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Pick which setting you would like </span></div></span></div>",
+            "created":1581829200,
+            "id":2788310,
+            "title":"Choices "
+        },
+        "11":{
+            "author_id":"shooter243",
+            "author_name":"Death",
+            "choices":[
+                "Soul eater ",
+                "Fairytail",
+                "Sword art online ",
+                "Fire force ",
+                "More "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about </span></div></span></div>",
+            "created":1581829200,
+            "id":2788313,
+            "title":"Anime "
+        },
+        "12":{
+            "author_id":"shooter243",
+            "author_name":"Death",
+            "choices":[
+                "Star Wars the clone wars ",
+                "Fairly odd parents",
+                "victorious",
+                "Icarly ",
+                "More "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about </span></div></span></div>",
+            "created":1581829200,
+            "id":2788314,
+            "title":"Cart\u00f6\u00f6ns "
+        },
+        "13":{
+            "author_id":"shooter243",
+            "author_name":"Death",
+            "choices":[
+                "Two broke girls ",
+                "Modern family ",
+                "Community ",
+                "Mad men",
+                "More choices "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about </span></div></span></div>",
+            "created":1581829200,
+            "id":2788312,
+            "title":"Tv shows "
+        }
+    },
+    "info":{
+        "author_id":"shooter243",
+        "author_name":"Death",
+        "brief_description":"Your favorite characters expand in many ways ",
+        "created":1581891840,
+        "description":"<td align=\"left\" class=\"norm\">Any type of expansion is allowed </td>",
+        "id":2213156,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "modified":1581892260,
+        "pretty_title":"Tv shows/cartoons/anime expansions "
+    }
+}

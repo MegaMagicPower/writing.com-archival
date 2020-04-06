@@ -1,0 +1,1455 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Check in on your uncle",
+                "Call your parents back and let them know you can't do it"
+            ],
+            "content":"<div class=\"\"><div> <span>Growing up you thought that you had met all of your family at all the various gatherings, but yesterday, your parents called you.<br>\r\n<br>\r\n\"Hey kiddo! We know you might be busy, but we're worried about a family member. You have a great uncle, and his estate is pretty close by to where you're at right now. We never told you about him because he was a bit of an odd duck. Any-who, we're concerned for him. We haven't heard from him in years. We'd like you to try to do a wellness check. We'll text you the address and security codes he gave us the last time we spoke. Hopefully they'll still work. If you don't feel comfortable about trying to visit him, just call us back and let us know. Love you kiddo! Bye!\"<br>\r\n<br>\r\nAs you exited the voicemail of your phone you decided to think about your parents' request. <br>\r\n<br>\r\nShould you check in on this never-before-heard-of great uncle?</span></div></div>",
+            "created":1565931600,
+            "id":2703627,
+            "title":"Getting on your way..."
+        },
+        "11":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Nathan (35 year old male)",
+                "Abby (32 year old female)",
+                "Tim (19 year old male)",
+                "Jennifer (19 year old female)",
+                "Someone else..."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>As you head towards the address, your mind starts to wander...<br>\r\n<br>\r\nAbout your life...<br>\r\nAbout your family...<br>\r\nHow long you've lived...<br>\r\n<br>\r\nWho are you?</span></div></span></div>",
+            "created":1565931600,
+            "id":2703629,
+            "title":"Speaking of which"
+        },
+        "111":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "There was a buzzing noise, and the gates opened",
+                "Nothing happened..."
+            ],
+            "content":"<div class=\"\"><div> <span>You had long since graduated from college by the time you'd moved here. Your current job is not particularly difficult, but you get paid well enough to be comfortable. You're a bit tall, but since college you've gained weight that you just can't get rid of anymore.<br>\r\n<br>\r\nAs you look at the address on the phone, you realize you've noticed this place before! It's a large house with a tall gated fence and security cameras all over. You'd wondered for a while what kind of person lived here. Who knew it was family?<br>\r\n<br>\r\n<br>\r\nAs you got up to the gate, you entered the code your parents sent... and...</span></div></div>",
+            "created":1565931600,
+            "id":2703630,
+            "title":"Nathan (35 year old male)"
+        },
+        "1111":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Check upstairs",
+                "Check this floor",
+                "Check the basement"
+            ],
+            "content":"<div class=\"\"><div> <span>After you parked, you headed to the nearest door to enter the next code. Just like the first one, it worked like a charm.<br>\r\n<br>\r\nAs you entered, you realized that you had come in through the kitchen. You heard the door click shut behind you. At that time you noticed that there were odd noises coming from all over the house.<br>\r\n<br>\r\n\"HELLO?\", you yelled out, but no response.<br>\r\n<br>\r\nTime to investigate the house...</span></div></div>",
+            "created":1565931600,
+            "id":2703634,
+            "title":"Entering the mansion"
+        },
+        "11112":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Call your best friend Mike",
+                "Go ask the neighbor",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>Upon entering the house, you realize that this place is absolutely massive! How did he afford such a place? If he's in a state where he can't respond, it could take too long to find him in this place. <br>\r\n<br>\r\nIt might be a good idea to call in some help...</span></div></div>",
+            "created":1579064400,
+            "id":2773963,
+            "title":"Check this floor"
+        },
+        "111121":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Your hear a loud noise from downstairs",
+                "You hear a yell from downstairs",
+                "You hear a noise from above you"
+            ],
+            "content":"<div class=\"\"><div> <span>Mike gets there in just a few minutes.<br>\r\n<br>\r\nTurns out he was bored and out for a drive, which meant he just so happened to be in the area.<br>\r\n<br>\r\nNathan - \"Alright, you check this floor, I'll check upstairs. Yell if you find anything.\" <br>\r\n<br>\r\nMike - \"Sure thing, hope he's okay...\"<br>\r\n<br>\r\nNathan - \"Me too...\"<br>\r\n<br>\r\nAs you head upstairs, you notice that it is considerably quieter up here. There aren't and sounds of tech or anything coming from the rooms up here.<br>\r\n<br>\r\nChecking room by room, you find bedroom after bedroom, and occasionally another bathroom. Eventually, you find the master-bedroom, but it looks like it (like the other bedrooms) hasn't seen use in a long while.<br>\r\n<br>\r\nChecking your watch, you realize that it's been a few hours since you started your search.<br>\r\n<br>\r\nDeciding that this floor is clear, you start to head back downstairs when...</span></div></div>",
+            "created":1579064400,
+            "id":2773966,
+            "title":"Call your best friend Mike"
+        },
+        "1111212":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "A sci-fi looking arm bracer",
+                "A remote",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>Running downstairs, you find Mike waiting for you.<br>\r\n<br>\r\nMike - \"I've checked this floor and the basement, there's no-one here. I can't even find any clues as to where he might have gone, but I did find some cool stuff in his Archive room.\"<br>\r\n<br>\r\nMike leads the way to a room with a vault-like door that's been left open.<br>\r\n<br>\r\nMike - \"Here check this out...\"<br>\r\n<br>\r\nMike turns around and hands you...</span></div></div>",
+            "created":1579064400,
+            "id":2773968,
+            "title":"You hear a yell from downstairs"
+        },
+        "11112121":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "You begin to change",
+                "The bracer starts sparking",
+                "Mike calls you back"
+            ],
+            "content":"<div class=\"\"><div> <span>Taking it, you look it over. It looks like it has electrodes all over the inside. Noticing Mike's expectant look, you put the bracer on.<br>\r\n<br>\r\nNathan - \"What is this thing, a shield generator?\"<br>\r\n<br>\r\nMike - \"Nope, the manual says it's a prototype for something called a <i>Transmogrifier</i>. Using this kiosk to control it, it can change the wearer into whatever the computer says!\"<br>\r\n<br>\r\nYou give him a blank look.<br>\r\n<br>\r\nMike - \"No really! Here, I'll show you!\"<br>\r\n<br>\r\nAs he fiddles with the computer, you turn to leave and remove the bracer, when suddenly...</span></div></div>",
+            "created":1579064400,
+            "id":2773971,
+            "title":"A sci-fi looking arm bracer"
+        },
+        "111121211":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Female",
+                "Shorter",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>You feel a surge of energy pass into you from the bracer. It feels like you are burning! Wait... that's not you... your clothes are burning!<br>\r\n<br>\r\nThe sensation quickly ends (both the energy and burning) and you find that you are not only naked, you've changed!<br>\r\n<br>\r\nYou are now...</span></div></div>",
+            "created":1579064400,
+            "id":2773973,
+            "title":"You begin to change"
+        },
+        "1111212111":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Begrudgingly listen to him",
+                "Kick him in the balls and try to change back",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>Before you even have a chance to take stock of the change, Mike runs over and yanks the bracer off your arm and backs away. You stumble for a moment until you back into a short table in the hall. Looking down, you see that, well...<br>\r\n<br>\r\n<a rel=\"nofollow\" href=\"https://cdn.erocurves.com/galleries/33551/9_big.jpg\" target=\"_blank\">https://cdn.erocurves.com/galleries/3355...</a><br>\r\n<br>\r\n...<br>\r\n<br>\r\n...<br>\r\n<br>\r\nAfter a while of silently staring at your new body, the shock begins to wear off. Looking up, you notice that Mike has been staring as well.<br>\r\n<br>\r\n\"What... THE... FUCK!?!? Why and how did you turn me into a girl!?!?\" you yell at him.<br>\r\n<br>\r\n\"Well,\" he says, breaking eye contact with your body, \"I was trying to prove it was real, and this was like, the first option.\"<br>\r\n<br>\r\n\"Okay, but then why did you yank that thing off of me afterwards?\" you ask.<br>\r\n<br>\r\n\"Oh! Well that's easy! The bracer causes the change, and when it's not on you, you can't change back.\"<br>\r\n<br>\r\nYou glare at him, \"Change me back now!\"<br>\r\n<br>\r\n\"Hold on! Hold on! I need you to listen first!\"</span></div></div>",
+            "created":1579150800,
+            "id":2774344,
+            "title":"Female"
+        },
+        "11112121111":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "He needs help with a class",
+                "He needs help with social life",
+                "He needs some other help"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\"Don't worry, I'll change you back. First though, I need a favor. If you do this for me, I'll do anything that you want! I promise!\"<br>\r\n<br>\r\n\"Alright, I'll at least hear you out.\" You await his request.</span></div></span></div>",
+            "created":1579150800,
+            "id":2774346,
+            "title":"Begrudgingly listen to him"
+        },
+        "111121211111":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Art",
+                "Theater",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\"Alright,\" he starts, \"I've got a class that I need help with, and after seeing this device I had an idea. The class I need help in is...\"</span></div></span></div>",
+            "created":1579150800,
+            "id":2774347,
+            "title":"He needs help with a class"
+        },
+        "1111212111111":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Fine...",
+                "No way dude!",
+                "Maybe"
+            ],
+            "content":"<div class=\"\"><div> <span>\"So, you want me to, what? Model for you?\" you ask.<br>\r\n<br>\r\n\"Something like that. I need to have my art displayed in a public place, and I don't have much time left to finish. I have everything figured out, but I still need help. Will you do it?\" he asks.</span></div></div>",
+            "created":1579150800,
+            "id":2774349,
+            "title":"Art"
+        },
+        "11112121111111":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Mike is ready and came to fetch you...",
+                "Mike is nowhere to be seen",
+                "Mike isn't ready yet"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Awesome!\" he exclaims. \"Alright, I'll get this set up. You should go get some clothes on. We'll be leaving a little before midnight. It'll be less embarrassing that way; less traffic in the area we'll be setting up.\"<br>\r\n<br>\r\n\"Wait, we're doing this tonight? Can't you turn me back until then?\" <br>\r\n<br>\r\n\"Nah, this is easier. Plus, the machine has a bit of a cooldown time.\" <br>\r\n<br>\r\nAfter a moment, you sigh. \"Fine, but don't get any funny ideas. It's still me in here.\"<br>\r\n<br>\r\n\"Yeah yeah...\" he non-noncommittally replies, already fully engrossed in what he's doing with the machine.<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\nAfter searching for a little while, you find something that fits well enough in the master-bedroom closet. It's not really meant for a female body type. Especially one shaped like yours.<br>\r\n<br>\r\nA few hours pass, and...</span></div></div>",
+            "created":1579150800,
+            "id":2774350,
+            "title":"Fine..."
+        },
+        "111121211111111":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "He hands you some clothes",
+                "You feel the bracer changing you",
+                "You hear someone else outside the curtain"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Alright,\" he says, handing you a jacket and some rubber boots you remember being near the door when you first arrived here.<br>\r\n\"So, we'll get there, I'll set up a curtain, and then you'll change. Everything is set up already here, so let's head out.\"<br>\r\n<br>\r\nGetting into his car, you ask, \"So, is this some sort of performance art?\"<br>\r\n<br>\r\nBacking down the driveway, he pauses, \"Yeah, I guess it is. You'll understand when it's time to change.\"<br>\r\n<br>\r\nAfter driving for a few moment, you arrive at the walking park next to the college campus. He grabs a large bag from the trunk, and starts dragging it towards the most open area of the park in the middle. <br>\r\n<br>\r\nSurveying the area, and seeing no one else around, he opens the bag. You can see now that it's some sort of standing curtain. <br>\r\n<br>\r\nAll the while, you see him glancing at his watch, checking the time.<br>\r\n<br>\r\nOnce the curtain is erected, he motions for you to enter. \"Alright, once you're in there, put this on, and get undressed.\" <br>\r\n<br>\r\nAs you enter the curtain, he hands you the bracer.<br>\r\n<br>\r\nAfter putting it on and disrobing, you ask, \"So... now what?\"<br>\r\n<br>\r\n\"Hold on just a little bit longer...\"<br>\r\n<br>\r\nA chill runs down your spine as...</span></div></div>",
+            "created":1579150800,
+            "id":2774353,
+            "title":"Mike is ready and came to fetch you..."
+        },
+        "1111212111111112":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "The next day",
+                "A week later",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>This time, as the energy surges into you, you start to feel a strange sensation in your chest and nether region. You gently touch your left breast and groin to explore the feeling, and suddenly periodic pulses of pleasure and ecstasy wash through your body. In a panic, you try to pull them away, but find that they are now stuck in place. You try to escape the curtain, but find that you left foot is now stuck to the ground for some reason. You also begin to notice that the curtain isn't as tall as it was. Or, more accurately, you are much larger.<br>\r\n<br>\r\nAs your head crests the top of the curtain, Mike notices, and begins to disassemble the curtain from around you, leaving you bare to the world. You try to protest, but all you can exclaim with what's happening is, \"Ahn!\"<br>\r\n<br>\r\nYour body begins to take on a metallic sheen as your body begins arching back from pleasure. As the waves become more frequent, you find it harder to concentrate on... well, anything really. <br>\r\n<br>\r\nSoon your body is so arched back, that your hair is contacting the ground, and apparently now rigid enough to support your weight. As your body freezes into place, the waves have turned into a constant state of sexual pleasure, and it's showing on your face.<br>\r\n<br>\r\n<a rel=\"nofollow\" href=\"https://i0.wp.com/farm9.staticflickr.com/8031/8058855478_9468c293ca_z.jpg\" target=\"_blank\">https://i0.wp.com/farm9.staticflickr.com...</a><br>\r\n<br>\r\nYou can feel the bracer that was increasingly straining with your growing size snap off and land on your stomach, sending a new shock of pleasure with the contact. It seems that any contact of any kind induces further pleasure in your now statuesque body.<br>\r\n<br>\r\n<br>\r\nYou can feel something climbing your body, and then hop off with the bracer.<br>\r\n<br>\r\nYou can hear them say something, but it's muffled by all of the sensations, and your mind is way too pre-occupied to care what they're saying.<br>\r\n<br>\r\n<br>\r\n<a rel=\"nofollow\" href=\"https://d2jv9003bew7ag.cloudfront.net/uploads/Jeju-Park-South-Korea-865x577.jpg\" target=\"_blank\">https://d2jv9003bew7ag.cloudfront.net/up...</a></span></div></div>",
+            "created":1579150800,
+            "id":2774360,
+            "title":"You feel the bracer changing you"
+        },
+        "11112121111111121":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "You begin changing",
+                "The climber leaves",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>After what seemed like an eternity of unending pleasure from being touched by passers-by, you feel someone climbing onto your stomach and messing with your arm.<br>\r\n<br>\r\nAfter a few minutes of struggle...</span></div></span></div>",
+            "created":1579496400,
+            "id":2776120,
+            "title":"The next day"
+        },
+        "111121211111111211":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "At your uncle's place",
+                "Mike's",
+                "Right where you were"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You can feel the metal returning to a fleshy state, when suddenly, in a burst of arousal, you pass out.<br>\r\n<br>\r\nYou wake up...</span></div></span></div>",
+            "created":1579496400,
+            "id":2776125,
+            "title":"You begin changing"
+        },
+        "1111212111111112113":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Wait here",
+                "Find somewhere nearby and hide",
+                "Run after his car in all your glory"
+            ],
+            "content":"<div class=\"\"><div> <span>You begin to sit up, shaky and exhausted, when you notice something wrong...<br>\r\n<br>\r\nEverything's too small... er... You're too big!<br>\r\n<br>\r\nLooking down, you see that the bracer popped off mid-transformation, leaving you the size of the statue, and still female!<br>\r\n<br>\r\nLooking around, you spot Mike, giving you a sheepish look.<br>\r\n<br>\r\n\"Uh...hi?\" he says, scratching his cheek. \"We should get back to the lab to see what the control terminal says happened, but I'm pretty sure you won't fit into my car... being like, 50 ft tall and all...\"</span></div></div>",
+            "created":1579496400,
+            "id":2776127,
+            "title":"Right where you were"
+        },
+        "11112121111111121131":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Put it on your finger",
+                "Try to get it on your arm",
+                "Try swallowing it"
+            ],
+            "content":"<div class=\"\"><div> <span>\"You should wait here and try to get the bracer back on. I'll go back to the control system and try to restart the change.\" Mike says as he runs to his car.<br>\r\n<br>\r\n\"Easy for you to say... you're not the one who's a giant nude woman in the night air...\" you mumble under your breath.<br>\r\n<br>\r\nPicking up the bracer, you try to examine it, but can only do so near a park lamp since it's so dark. You can barely make out that part of the clasp for the bracer is broken, likely from the last time it was put on. The rest seems to still work from what you can see though.<br>\r\n<br>\r\nThinking about how to go about putting this tiny thing on your arm, you wonder if it even needs to be your arm, or just something that fits...</span></div></div>",
+            "created":1579669200,
+            "id":2776927,
+            "title":"Wait here"
+        },
+        "111121211111111211311":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "The change has resumed",
+                "Nothing is happening"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You easily get the bracer on your finger, and immediately notice...</span></div></span></div>",
+            "created":1579669200,
+            "id":2776928,
+            "title":"Put it on your finger"
+        },
+        "1111212111111112113111":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "You hold it on...",
+                "It falls off..."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You find yourself slowly returning to normal size, but as you shrink back down, the bracer becomes more and more loose on your finger...</span></div></span></div>",
+            "created":1581224400,
+            "id":2785128,
+            "title":"The change has resumed"
+        },
+        "11112121111111121131111":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Leave the bracer on so you don't have to carry it.",
+                "Take the bracer off so Mike doesn't accidentally change you."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Soon, you're small enough again to have the bracer on your wrist. Having changed back to your previous form, you decide to...</span></div></span></div>",
+            "created":1581224400,
+            "id":2785130,
+            "title":"You hold it on..."
+        },
+        "11113":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Check the displays",
+                "Check a door",
+                "Go back upstairs"
+            ],
+            "content":"<div class=\"\"><div> <span>As you approached the basement, you noticed that some of the sounds were mechanical, but most were digital beeps and bops. As you reached the base of the stairs, you realized that you were now in some kind of display room, with other doors leading off.</span></div></div>",
+            "created":1565931600,
+            "id":2703635,
+            "title":"The basement"
+        },
+        "111131":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "NSFW",
+                "SFW",
+                "Jars"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Looking at the displays, you realized that all of them were...</span></div></span></div>",
+            "created":1565931600,
+            "id":2703637,
+            "title":"The displays"
+        },
+        "1111311":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Figurines",
+                "Sex dolls",
+                "Sex toys"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>He has tons of lewd on display... but what kind?</span></div></span></div>",
+            "created":1565931600,
+            "id":2703639,
+            "title":"NSFW"
+        },
+        "11113111":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Check that door",
+                "Check a different door"
+            ],
+            "content":"<div class=\"\"><div> <span>Some were partially clothed, but most weren't. <br>\r\n<br>\r\n<a rel=\"nofollow\" href=\"https://e-hentai.org/s/e641cd3353/484581-16\" target=\"_blank\">https://e-hentai.org/s/e641cd3353/484581...</a><br>\r\n<br>\r\n<br>\r\nA lot of them were housed in display cases, but as you got nearer to one of the doors at the end, you were find some that were still in packaging.<br>\r\n<br>\r\nBehind the door is where most of the electronic sounds were coming. Check to see what if anything is behind door number 1?</span></div></div>",
+            "created":1565931600,
+            "id":2703646,
+            "title":"Hentai!"
+        },
+        "111131111":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "The Chamber",
+                "The Ray",
+                "The Computer"
+            ],
+            "content":"<div class=\"\"><div> <span>As you opened the door, the aesthetic changed entirely from that of a house, to that of a pristine laboratory. There was equipment everywhere. <br>\r\n<br>\r\nMost notably:<br>\r\n<br>\r\nA chamber with the door slightly ajar...<br>\r\nWhat looks like a ray gun pointed at a target...<br>\r\nA large mainframe looking computer...<br>\r\n<br>\r\nYour great uncle is obviously not in here... might as well investigate something while you're here...</span></div></div>",
+            "created":1565931600,
+            "id":2703651,
+            "title":"The Lab"
+        },
+        "1111311111":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Try to pick up the figurine",
+                "Look somewhere else"
+            ],
+            "content":"<div class=\"\"><div> <span>As you approached the chamber, you realized that it was actually a pair of chambers. You tried to see into the closed one, but the glass was all fogged up. As you opened the other one, you saw that there was another one of those lewd figurines just sitting in the bottom. Unfortunately, you couldn't really tell what character it was supposed to be from here...</span></div></div>",
+            "created":1565931600,
+            "id":2703662,
+            "title":"The Chamber"
+        },
+        "11113111111":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Yes",
+                "No, it was a different one"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>As you leaned in, you braced yourself with the chamber door...<br>\r\n<br>\r\nIs this the figure you saw?<br>\r\n<br>\r\n<a rel=\"nofollow\" href=\"https://e-hentai.org/s/0752b87930/1328110-34\" target=\"_blank\">https://e-hentai.org/s/0752b87930/132811...</a></span></div></span></div>",
+            "created":1565931600,
+            "id":2703663,
+            "title":"Try to pick up the figurine"
+        },
+        "111131111112":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "That's the one",
+                "Still no..."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about this one?<br>\r\n<br>\r\n<a rel=\"nofollow\" href=\"https://e-hentai.org/s/827abad5a4/173480-27\" target=\"_blank\">https://e-hentai.org/s/827abad5a4/173480...</a></span></div></span></div>",
+            "created":1565931600,
+            "id":2703665,
+            "title":"No, it was a different one"
+        },
+        "1111311111121":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "You couldn't move",
+                "You could move, but something changed",
+                "Nothing seemed different"
+            ],
+            "content":"<div class=\"\"><div> <span>As you picked it up, you gripped harder on the door, but suddenly it moved!<br>\r\n<br>\r\nThe sudden movement of the door caused you to lose you balance and fall into the chamber...door shutting behind you sealing you in...<br>\r\n<br>\r\nYou suddenly heard a digital voice calling out, \"Chamber secured... Initiating Matter Conversion... Error...Uncompensated Mass Inside Chamber... Re-Calibrating For New Mass...Re-Calibration Successful...Activation In... 3... 2... 1...\"<br>\r\n<br>\r\nA bright light filled the chamber as you felt like your entire being was being pulled apart. <br>\r\n<br>\r\nMoments later, when the light began to dissipate, you heard the computer again, \"Matter Conversion Successful... Opening Chamber Door For Next Conversion Sequence...\"<br>\r\n<br>\r\nAs the smoke cleared the chamber through the door, you realized that...</span></div></div>",
+            "created":1565931600,
+            "id":2703667,
+            "title":"That's the one"
+        },
+        "11113111111211":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "You mind begins to wander",
+                "You hear noises from outside the chamber",
+                "You try to move"
+            ],
+            "content":"<div class=\"\"><div> <span>You noticed that you couldn't see out the glass any more, and you also couldn't move at all. As the smoke cleared, and you saw the reflection off the metal interior of the chamber below the window, you realized why.<br>\r\n<br>\r\n<a rel=\"nofollow\" href=\"https://e-hentai.org/s/6dcaa34c96/173480-47\" target=\"_blank\">https://e-hentai.org/s/6dcaa34c96/173480...</a><br>\r\n<br>\r\nYou were now the figurine! That Matter Conversion thing must have changed you, but what now? How do you change back?<br>\r\n<br>\r\nAs you stared at your own reflection...</span></div></div>",
+            "created":1565931600,
+            "id":2703669,
+            "title":"You couldn't move"
+        },
+        "111131111112112":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "A robot...",
+                "An old man",
+                "A man in his 20's"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Noises? They didn't sound like the ones from earlier...<br>\r\n<br>\r\nSuddenly, you felt yourself being lifted up and out of the chamber. When you were spun around to face your captor, you saw...</span></div></span></div>",
+            "created":1565931600,
+            "id":2703670,
+            "title":"You hear noises from outside the chamber"
+        },
+        "1111311111121123":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "You",
+                "The other one"
+            ],
+            "content":"<div class=\"\"><div> <span>As he looked you over, he had a frown. He set you down on a counter for a moment, and went away. You couldn't see where he went because you weren't facing the right way, but you heard a sound like something de-pressurizing.<br>\r\n<br>\r\nMoments later, the man came over and picked you up again. This time, he was holding an identical figurine in his other hand. As he inspected both you and the other one extremely closely, his frown relaxed and turned into a smile. Although, having his inspect you so closely made you feel extremely embarrassed. You'd be blushing if you were still capable.<br>\r\n<br>\r\n\"Alright, looks like this one was a success as well. Guess I'll flip a coin to see which one I'm keeping this time.\" <br>\r\n<br>\r\nThe man set you both down and walked out of range to see or hear. Moments later he came back with accessories and packing.<br>\r\n<br>\r\nHe picked up...</span></div></div>",
+            "created":1565931600,
+            "id":2703674,
+            "title":"A man in his 20's"
+        },
+        "11113111111211231":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "A day later...",
+                "A week later...",
+                "You lost track of time..."
+            ],
+            "content":"<div class=\"\"><div> <span>Within moments, he quickly had you dressed in the accessories and placed into the plastic packaging.<br>\r\n<br>\r\n<a rel=\"nofollow\" href=\"https://e-hentai.org/s/5eae7d932f/173480-2\" target=\"_blank\">https://e-hentai.org/s/5eae7d932f/173480...</a><br>\r\n<br>\r\nYou quickly found it harder to hear than before, which was made worse by him then putting you into the box the original came in. A few more moments of shuffling, and the box was placed with its plastic window facing another box. It was kind of dark, but there were plastic side windows as well, you just couldn't see out of them.<br>\r\n<br>\r\nAs time passed, you could only hear muffled shuffling and see that the lights were on or off. You tried to keep your mind occupied, but was hard given the near sensory deprived state you were in.</span></div></div>",
+            "created":1566018000,
+            "id":2703949,
+            "title":"You"
+        },
+        "111131111112112313":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "You're really losing it...",
+                "Keep it together! Don't lose hope!"
+            ],
+            "content":"<div class=\"\"><div> <span>You started to wonder if this was just going to be your existence from now on...<br>\r\n<br>\r\nWould you ever turn back? <br>\r\n<br>\r\nIs this all there ever will be?<br>\r\n<br>\r\nIs this all there ever was?<br>\r\n<br>\r\nWas your life up to this point just imagined?<br>\r\n<br>\r\nSurely it couldn't have been...<br>\r\n<br>\r\nIf only I was on display! At least then I'd be able to see what's going on around here...</span></div></div>",
+            "created":1566018000,
+            "id":2703950,
+            "title":"You lost track of time..."
+        },
+        "1111311111121123131":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Your pleas have been answered!",
+                "An eternity of darkness..."
+            ],
+            "content":"<div class=\"\"><div> <span>Who knows how long it's been now...<br>\r\n<br>\r\nWhy am I just sitting here in the dark? Why would he leave me here?<br>\r\n<br>\r\nPlease, someone, just take me out! I want to see!<br>\r\n<br>\r\nI know I'm pretty cute... I just wish someone would notice me!<br>\r\n<br>\r\nIf anyone can hear me...I'll do whatever you want! I'll stand naked! I'll even call you my owner! Just please let me out!<br>\r\n<br>\r\nI swear I'm a good figure...<br>\r\n<br>\r\nI promise... I won't believe that I was human before!<br>\r\n<br>\r\nI'm a good doll...<br>\r\n<br>\r\nI'm a good doll...<br>\r\n<br>\r\nI'm a good doll...</span></div></div>",
+            "created":1566018000,
+            "id":2703951,
+            "title":"You're really losing it..."
+        },
+        "11113111111211231311":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":null,
+            "content":"<div class=\"\"><div> <span>Tom was excited as he opened the FedEx package. He'd been waiting weeks to afford the figurine from that guy's E-Bay shop, and now it's finally here!<br>\r\n<br>\r\nHe pulled the figurine out of its packaging and admired it for a bit, before placing it on a shelf by another figure he'd gotten recently. He'd decided to keep the accessories on for now while it was on display, but it wouldn't likely stay that way for long. It was a pretty good figure.<br>\r\n<br>\r\nHe was happy with his purchase, and if he'd been able to hear the statue's thoughts, he'd know that she was happy too!<br>\r\n<br>\r\n\"Thank you owner! I'm so happy to be on display! I'm a good doll! Please, look at me more!\"<br>\r\n<br>\r\n<a rel=\"nofollow\" href=\"https://e-hentai.org/s/5265b5947d/173480-3\" target=\"_blank\">https://e-hentai.org/s/5265b5947d/173480...</a></span></div></div>",
+            "created":1566018000,
+            "id":2703956,
+            "title":"Your pleas have been answered!"
+        },
+        "11113112":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Check that door",
+                "Search the room",
+                "Go back upstairs"
+            ],
+            "content":"<div class=\"\"><div> <span>It actually startled you for a moment, but then you quickly realized that none of the bodies in the room were actually people...<br>\r\n<br>\r\n<a rel=\"nofollow\" href=\"https://e-hentai.org/s/919f285058/1318225-93\" target=\"_blank\">https://e-hentai.org/s/919f285058/131822...</a><br>\r\n<br>\r\n...just semi-realistic sex dolls.<br>\r\n<br>\r\nEither your Uncle really needs to get a life, or he has some odd hobbies...<br>\r\n<br>\r\nThere's a door at the end of the room... check it?<br>\r\n<br>\r\n</span></div></div>",
+            "created":1569214800,
+            "id":2722652,
+            "title":"Sex dolls"
+        },
+        "111131121":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Check the chambers",
+                "Check the \"death ray\"",
+                "Look around the room"
+            ],
+            "content":"<div class=\"\"><div> <span>As you opened the door, you could tell that this was the source of most of the noises you were hearing earlier.<br>\r\n<br>\r\nIt appeared to be some kind of lab with all sorts of equipment strewn about the room.<br>\r\n<br>\r\nMost prominent in the room was a pair of chambers, and what can only be described as a death ray.</span></div></div>",
+            "created":1569214800,
+            "id":2722654,
+            "title":"Check that door"
+        },
+        "1111311211":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "You tripped",
+                "You saw the chamber was occupied"
+            ],
+            "content":"<div class=\"\"><div> <span>As you walked up the the chambers, you could see the closer chamber was sealed and completely fogged up. The other chamber was only accessible by way of obstacle course through the various cables and ducts.<br>\r\n<br>\r\nAs you rounded the second chamber...</span></div></div>",
+            "created":1569214800,
+            "id":2722655,
+            "title":"Check the chambers"
+        },
+        "11113112111":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "The chamber closes",
+                "The chamber stays open"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Trying to catch yourself from falling, you grabbed for the nearest thing... a cable hanging from the ceiling.<br>\r\n<br>\r\nAs you pulled yourself upright, the cable detached from the ceiling, making you stumble backwards into the open chamber.</span></div></span></div>",
+            "created":1569214800,
+            "id":2722659,
+            "title":"You tripped"
+        },
+        "111131121111":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "The chamber is opening",
+                "You're waking up"
+            ],
+            "content":"<div class=\"\"><div> <span>The cable falling from the ceiling knocked a series of gas canisters over, which in turn knocked the chamber door shut.<br>\r\n<br>\r\nWithin moments, a computerized voice can be heard:<br>\r\n<br>\r\n\"Initializing sequence... in 3...2...1...\"<br>\r\n<br>\r\nSuddenly a blinding flash!<br>\r\n<br>\r\nNext thing you know...</span></div></div>",
+            "created":1569214800,
+            "id":2722660,
+            "title":"The chamber closes"
+        },
+        "1111311211111":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "You exit the chamber",
+                "You can't move"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The door begins to open as you hear:<br>\r\n<br>\r\n\"Sequence complete... Awaiting next sequence\"<br>\r\n<br>\r\nAs your vision clears...</span></div></span></div>",
+            "created":1569214800,
+            "id":2722661,
+            "title":"The chamber is opening"
+        },
+        "11113112111111":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Look for a place to take a nap",
+                "Continue checking around the place",
+                "GTFO"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Everything seems normal as you check yourself over, but you feel pretty tired. Not quite so tired that you NEED to sleep right now, but tired enough to sleep if you wanted...</span></div></span></div>",
+            "created":1569214800,
+            "id":2722662,
+            "title":"You exit the chamber"
+        },
+        "1111311213":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Check the cabinets",
+                "Check the computer",
+                "Head out of the room"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Checking around the hanging cables and tables, you notice a wall with small cabinets and electronic locks, though all of the appear to be shut.<br>\r\n<br>\r\nYou also notice a computer further into the room.</span></div></span></div>",
+            "created":1569387600,
+            "id":2723492,
+            "title":"Look around the room"
+        },
+        "11113112132":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "There's a sex doll behind the desk",
+                "The computer is broken",
+                "The computer isn't connected"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>As you near the computer desk, you notice something odd...</span></div></span></div>",
+            "created":1569387600,
+            "id":2723494,
+            "title":"Check the computer"
+        },
+        "111131121321":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Its head was missing",
+                "One leg bent sideways",
+                "It's face was pushed in like a deflated ball"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Looking at the doll, it looks like it was sitting in the office chair, but fell off onto the floor. It was frozen in a seated position, except for one thing...</span></div></span></div>",
+            "created":1569387600,
+            "id":2723504,
+            "title":"There's a sex doll behind the desk"
+        },
+        "1111311213211":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Look for the head...",
+                "Check the computer...",
+                "Try out the doll..."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>If the head was on before if fell over, it probably just popped off and rolled somewhere else.<br>\r\n<br>\r\n</span></div></span></div>",
+            "created":1569387600,
+            "id":2723506,
+            "title":"Its head was missing"
+        },
+        "11113112132111":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "By sight",
+                "By smell"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>It ended up being a very short search. How did you find the head?</span></div></span></div>",
+            "created":1569387600,
+            "id":2723508,
+            "title":"Look for the head..."
+        },
+        "111131121321111":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Attempt to crack the password",
+                "Look around the room a bit more",
+                "Check somewhere else"
+            ],
+            "content":"<div class=\"\"><div> <span>Glancing around for a moment, you spot the head. It seems it rolled under the desk. Getting the doll out of the way, you hang the head and body from a nearby rack.<br>\r\n<br>\r\n<a rel=\"nofollow\" href=\"https://cdn.shopify.com/s/files/1/0012/4066/2101/products/5ft7_170cm_D-Cup_Hot_Lover_Sex_Doll_-_Reina_27_2000x.jpg?v=1558514187\" target=\"_blank\">https://cdn.shopify.com/s/files/1/0012/4...</a><br>\r\n<br>\r\nHeading back over to the computer, it seems that it is now locked. Who knows what the password could be...</span></div></div>",
+            "created":1579064400,
+            "id":2773962,
+            "title":"By sight"
+        },
+        "111131121321112":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Find a new head",
+                "Take another look around the lab"
+            ],
+            "content":"<div class=\"\"><div> <span>As you passed the headless doll, you started to smell something like burnt plastic or rubber. Searching for the scent, you found a radiator nearby, and a puddle of hot, flesh colored rubber and a pair of half melted plastic eyeballs. The hair seems to have shriveled and melted completely into a charcoal mess.<br>\r\n<br>\r\nYou turned off the radiator for fear of a fire hazard. It's a wonder the place hadn't caught on fire already.<br>\r\n<br>\r\nYou remembered there being some spare heads in that initial display room. Maybe one of those would suit the doll?<br>\r\n<br>\r\nOf course, nothing said the doll had to be put back together right?<br>\r\n<br>\r\nYou could always check something else in the lab...</span></div></div>",
+            "created":1569387600,
+            "id":2723514,
+            "title":"By smell"
+        },
+        "1111311213211122":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Examine the open compartment",
+                "Check the computer for compartment controls",
+                "Continue checking the lab"
+            ],
+            "content":"<div class=\"\"><div> <span>After waiting for the mess to cool down, you clean up the rubber and plastic mess into the trash, and hang the headless body on a nearby doll rack.<br>\r\n<br>\r\nFire hazard taken care of, you begin to look around the lab some more. That's when you notice a wall covered in various small panels. You can see that all of them are labeled with an alpha-numeric pairing coordinate (i.e. A-Z down side, 1-26 along the length). There doesn't appear to be a way to open them from here though, no handles or buttons. <br>\r\n<br>\r\nOddly, there does appear to be one that is slightly ajar.</span></div></div>",
+            "created":1571029200,
+            "id":2733004,
+            "title":"Take another look around the lab"
+        },
+        "11113112132111222":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Check the Reversal ray (might as well, its open already)",
+                "Check the Follicle Stickers",
+                "Check a different gadget"
+            ],
+            "content":"<div class=\"\"><div> <span>Sitting down at the computer, you notice that the last thing that was done was to open one of the compartments. It looks like you just enter the coordinates for the cell you want, and out it pops.<br>\r\n<br>\r\nLooking through the storage listing, you note that not all compartments are full, but there's still a lot of gadgets in them.<br>\r\n<br>\r\nThere are things like...<br>\r\n<br>\r\nReversal ray<br>\r\n<br>\r\nFollicle Stickers<br>\r\n<br>\r\nSubmission bands<br>\r\n<br>\r\nTranslocator Prototype<br>\r\n<br>\r\nTranslation Implant<br>\r\n<br>\r\nand more!</span></div></div>",
+            "created":1571029200,
+            "id":2733009,
+            "title":"Check the computer for compartment controls"
+        },
+        "111131121321112223":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Check the Translator Implant",
+                "Check the Submission bands",
+                "Check a different gadget"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You could try the Translation Implant, or the Submission bands...</span></div></span></div>",
+            "created":1571029200,
+            "id":2733012,
+            "title":"Check a different gadget"
+        },
+        "1111311213213":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Try out the doll",
+                "Check the computer"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Seeing as the head appeared to be detachable, you gave a quick tug, and it popped off. Reaching into the void of its head, you popped its face back to normal. After re-affixing its head, you decided to...</span></div></span></div>",
+            "created":1569387600,
+            "id":2723518,
+            "title":"It's face was pushed in like a deflated ball"
+        },
+        "11113112132132":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Open the first one",
+                "Open a random one",
+                "Open the last one"
+            ],
+            "content":"<div class=\"\"><div> <span>As you sat down at the computer, you noticed that some sort of recording program had crashed. Closing the errors, you saw that there were tons of folders listed. Sorting by date, you accessed the most recent folder, and found that it was full of video recordings.</span></div></div>",
+            "created":1569819600,
+            "id":2726142,
+            "title":"Check the computer"
+        },
+        "111131121321323":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "It must just be a practical joke",
+                "Is this real?"
+            ],
+            "content":"<div class=\"\"><div> <span>The video started, pointed at the chamber setup across the lab, but suddenly swung around to face the computer chair.<br>\r\n<br>\r\nSitting in the chair was a young woman wearing tattered clothing that was seemingly fusing/disappearing into her body.<br>\r\n<br>\r\n\"It has now been approximately minutes since I accidentally activated the chamber while inside it. I seem to slowly be taking on the form of the test subject from chamber 1. I am already observably lighter than I was as previous, and my dermis appears to be attaining the properties of the composite material that the test subject is fashioned from. I can already feel my movements slowing as my muscles and bones also adjust to the format of the internal structure of the subject.\"<br>\r\n<br>\r\nAs her clothes finished disappearing, she glanced to the machine.<br>\r\n<br>\r\n\"Unfortunately, if my assumptions are correct, I will likely lose all mobility within the next hour or so. I need to find a way to slow, or reverse the changes.\"<br>\r\n<br>\r\nHer arm squeaked as she adjusted the camera.<br>\r\n<br>\r\n\"If you are watching this, please find a way to return me to my natural state. I... aaaammmm....\", her voice slowed as her jaw squeaked. She tried to stick her tongue out a little, but her mouth froze like that. As quickly as she was able, she ended the recording.<br>\r\n<br>\r\nYou looked to the floor where the doll lay. Picking her up and straightening her out, she definitely looked like the girl from the video.<br>\r\n<br>\r\n<a rel=\"nofollow\" href=\"https://e-hentai.org/s/47c4327fd1/1318143-59\" target=\"_blank\">https://e-hentai.org/s/47c4327fd1/131814...</a><br>\r\n<br>\r\nStill, it's impossible for a person to just be turned into a doll... right?</span></div></div>",
+            "created":1569819600,
+            "id":2726151,
+            "title":"Open the last one"
+        },
+        "1111311213213231":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "The doll was gone",
+                "The doll was in a different position"
+            ],
+            "content":"<div class=\"\"><div> <span>Well, if someone's going to fuck with you. Might as well fuck with them, right?<br>\r\n<br>\r\nFinding a bed in an adjacent room, you carry the doll in and lock the door.<br>\r\n<br>\r\nAdjusting the position to properly get at her, you screw the doll for a while.<br>\r\n<br>\r\n<a rel=\"nofollow\" href=\"https://e-hentai.org/s/386129a7a8/1318143-57\" target=\"_blank\">https://e-hentai.org/s/386129a7a8/131814...</a><br>\r\n<br>\r\nAfter exhausting yourself, you leave the soiled doll on the bed and start looking around again.<br>\r\n<br>\r\nAfter about half an hour of looking around, you go back to the room with the doll to clean up, and then head out.<br>\r\n<br>\r\nHowever, you noticed something odd as you came back in...</span></div></div>",
+            "created":1569819600,
+            "id":2726155,
+            "title":"It must just be a practical joke"
+        },
+        "11113112132132311":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "This has to be just a really elaborate prank, right?",
+                "Wait... is this real?"
+            ],
+            "content":"<div class=\"\"><div> <span>Looking around for a bit, you found the doll again... at the computer desk... creepy.<br>\r\n<br>\r\nNow it seemed to be wearing glasses, and as you approached the computer, you noticed a message typed out.<br>\r\n<br>\r\n\"Log entry 1: In my current state, I seem to have maintained all of my senses. Most notably, I can feel the female genitalia that I now possess. This is intriguing as my current form has no nervous system nor brain. My vision seems to have stayed at previous levels, but my sense of taste is most odd. <br>\r\nWhen the intruder adjusted the shape of my head, I was able to taste his hands from the tongue component inside the vacant space now within my head. Oddly, I was also still able to maintain all sensation even when my head was detached.<br>\r\n<br>\r\nAs to why I seem to have regained mobility, further testing will be needed. If my hypothessssssssssssssssssssiiiiiiiiiiiiiiiiiiiiiiiisssssssssssssssssssssssssss                                                                                                                     iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\"<br>\r\n<br>\r\nYou notice that the doll's finger was pressing the \"i\" key and still adding to the message. You swat the doll's arm away from the computer and spin the chair to look at the doll.</span></div></div>",
+            "created":1569819600,
+            "id":2726162,
+            "title":"The doll was gone"
+        },
+        "111131121321323111":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "The garbage",
+                "A safe you found open upstairs"
+            ],
+            "content":"<div class=\"\"><div> <span>Grabbing the doll's head, you pop it off. <br>\r\n<br>\r\nIf they're going to keep this up, let's make a mess of things!<br>\r\n<br>\r\nAfter fucking the two holes on the doll's body, you hang it on a rack with another head hanging upside down next to it.<br>\r\n<br>\r\n<a rel=\"nofollow\" href=\"https://cdn10.bigcommerce.com/s-y2in5g/products/320/images/8866/storagekit_only__98904.1448318707.600.600.png?c=2\" target=\"_blank\">https://cdn10.bigcommerce.com/s-y2in5g/p...</a><br>\r\n<br>\r\n<br>\r\nLeaving the room with the doll's head in hand, you realize that, with a gentle tug, the tongue comes out. With the tongue out of the way, you make a few deposits by getting a doll blowjob. <br>\r\n<br>\r\nAfter half filling the head cavity, you pop the eyes inside the head and carry it around like a soupy bowling ball. <br>\r\n<br>\r\nNow, the best place to put the head is...</span></div></div>",
+            "created":1569819600,
+            "id":2726166,
+            "title":"This has to be just a really elaborate prank, r..."
+        },
+        "111131121321323112":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Test the hypothesis",
+                "Get out of this crazy place"
+            ],
+            "content":"<div class=\"\"><div> <span>This is impossible. There's no way that a human can turn into a sex doll... right?<br>\r\n<br>\r\nThen there's the fact that she was temporarily able to move again... How was that even possible, and why?<br>\r\n<br>\r\nIt sat still until you got there to the house.<br>\r\n<br>\r\nIt didn't move when you put the head back on.<br>\r\n<br>\r\nIt didn't do anything when you were watching the recording.<br>\r\n<br>\r\nIt only moved after... sex? Could that be it?</span></div></div>",
+            "created":1569992400,
+            "id":2727169,
+            "title":"Wait... is this real?"
+        },
+        "1111311213213231121":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Nothing happened",
+                "The doll slowly squeaked into motion"
+            ],
+            "content":"<div class=\"\"><div> <span>Quickly, you lay down on the floor, pulling the doll on top of you as you begin to try going at it again.<br>\r\n<br>\r\n<a rel=\"nofollow\" href=\"https://e-hentai.org/s/fb346ad249/1318143-56\" target=\"_blank\">https://e-hentai.org/s/fb346ad249/131814...</a><br>\r\n<br>\r\nIt took longer this time since you had just recently done it earlier.<br>\r\n<br>\r\nAfter ejaculating, you propped her sitting up against the wall.<br>\r\n<br>\r\nAfter a few minutes...</span></div></div>",
+            "created":1569992400,
+            "id":2727171,
+            "title":"Test the hypothesis"
+        },
+        "11113112132132311212":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "and nods",
+                "and shakes her head",
+                "and freezes"
+            ],
+            "content":"<div class=\"\"><div> <span>It's movements were stiff, but it slowly got up and sat at the computer again. Following it to see the screen, you watch as it types out, \"My hypothesis seems to have been confirmed. Sexual fluids appear to temporarily re-animate me. Although, without lungs, or vocal chords, I am still unable to speak.\"<br>\r\n<br>\r\n\"Hey! How do we turn you back?\" you ask the doll. \"Should I just toss you back into the chamber again?\"<br>\r\n<br>\r\nThe doll turns her head to face you...</span></div></div>",
+            "created":1569992400,
+            "id":2727172,
+            "title":"The doll slowly squeaked into motion"
+        },
+        "111131121321323112121":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "The chamber slowly opens",
+                "The chamber remains shut"
+            ],
+            "content":"<div class=\"\"><div> <span>The doll points to you, and then the chamber that's currently closed, then herself and the chamber that's currently open.<br>\r\n<br>\r\nYou walk over and open the first chamber to find an identical doll to the one that sits at the computer right now. After putting the doll out of the chamber, you head a thud from nearby. When you look, you find that the doll has frozen up again and fallen over. Picking her up, you place her in the chamber and close it.<br>\r\n<br>\r\nWhen you get into the other chamber and close it, the sequence fires up and completes in just a few seconds.<br>\r\n<br>\r\nStepping out of the chamber, you wait for the other occupant to exit.</span></div></div>",
+            "created":1569992400,
+            "id":2727176,
+            "title":"Not quite an \"undo button\""
+        },
+        "1111311213213231121211":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "A human!",
+                "You!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You watch as a rubberized hand opens the chamber, dropping the glasses the doll was using earlier. <br>\r\n<br>\r\nBefore your eyes, you saw a sex doll shifting form into...</span></div></span></div>",
+            "created":1569992400,
+            "id":2727179,
+            "title":"The chamber slowly opens"
+        },
+        "1111311213213231121212":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "The doll",
+                "A human",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Hoping that nothing has gone wrong, you run over to the chamber that the semi-living doll was in and opened it.<br>\r\n<br>\r\nYou were briefly blinded by the smoke from the chamber, but once it cleared, you saw...</span></div></span></div>",
+            "created":1577336400,
+            "id":2765063,
+            "title":"The chamber remains shut"
+        },
+        "11113112132132311212123":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Yep",
+                "Nope",
+                "Let me check again.... Nope..."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was it even humanoid?</span></div></span></div>",
+            "created":1577336400,
+            "id":2765065,
+            "title":"Something else"
+        },
+        "111131121321323112121232":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Check the slime for signs of life",
+                "Try to clean the chamber",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>After the smoke cleared, you noticed that the entire bottom of the chamber was now full of some kind of pink slime fluid. Sickened by the fact that, whoever that was, there was no way they were still alive like that... right?<br>\r\n<br>\r\n</span></div></span></div>",
+            "created":1577336400,
+            "id":2765068,
+            "title":"Nope"
+        },
+        "1111311213213231121212321":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Take the gloves off",
+                "Try something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You grab some nearby rubber gloves and a pencil and try poking the slime. Seeing how viscous and not tacky the slime appears to be, you try poking your finger in... but quickly realize you can't feel anything with the gloves on.</span></div></span></div>",
+            "created":1577336400,
+            "id":2765071,
+            "title":"Check the slime for signs of life"
+        },
+        "11113112132132311212123211":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Nothing...",
+                "Movement...",
+                "Heat..."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Carefully, you poke a single bare finger into the slime to see if you can feel anything from it (movement, heat, etc.). A few seconds after you stuck you finger in, you realize that you feel...</span></div></span></div>",
+            "created":1577336400,
+            "id":2765074,
+            "title":"Take the gloves off"
+        },
+        "111131121321323112121232112":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "It scoops away easily.",
+                "You can't seem to separate any of it."
+            ],
+            "content":"<div class=\"\"><div> <span>It feels like it's trying to pull on your finger, but it's such a weak movement, and lacks any tackiness to achieve anything. It's like its trying to give your finger a blowjob at best.<br>\r\n<br>\r\nYou get an idea and try to scoop up some into a nearby beaker...</span></div></div>",
+            "created":1577336400,
+            "id":2765076,
+            "title":"Movement..."
+        },
+        "1111311213213231121212321121":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Scientifically!",
+                "Sexually!",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Since it seems to react to human contact, you decide to test a sample of it. Question is, how?</span></div></span></div>",
+            "created":1577336400,
+            "id":2765079,
+            "title":"It scoops away easily."
+        },
+        "11113112132132311212123211212":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Personal slime!",
+                "Selling sex slime!",
+                "The slime is doing something!"
+            ],
+            "content":"<div class=\"\"><div> <span>Yup! Test number one is: Stick your dick in it!<br>\r\n<br>\r\nAs soon as you insert your flaccid penis into the beaker of slime, you realize that it works just like you hoped! What you now hold in your hands is essentially a portable blowjob! <br>\r\n<br>\r\nAs soon as you climax into the the slime, the semen begins to disappear into it.<br>\r\n<br>\r\nSetting the glass on the counter, you think for a moment to decide what to do now?<br>\r\n<br>\r\nKeep it to yourself?<br>\r\n<br>\r\nTry to sell it?<br>\r\n<br>\r\nOr does \"it\" have other ideas?</span></div></div>",
+            "created":1577336400,
+            "id":2765081,
+            "title":"Sexually!"
+        },
+        "111131121321323112121232112122":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Continue following the seller",
+                "Follow a buyer"
+            ],
+            "content":"<div class=\"\"><div> <span>A few days later...<br>\r\n<br>\r\nA posting for a new sex product appears:<br>\r\n<br>\r\nSuper sex slime!<br>\r\nMale use only!<br>\r\nSelf cleaning!<br>\r\nUse with any container you wish! (Suggested use with onahole or sex doll)<br>\r\n<br>\r\nLimited quantities! Once it runs out, it's gone!<br>\r\n<br>\r\nWithin days, a few reviews started popping up praising the mysterious slime product. Shortly thereafter, the slime was sold out. Supposedly, the seller kept one for himself though.</span></div></div>",
+            "created":1577336400,
+            "id":2765083,
+            "title":"Selling sex slime!"
+        },
+        "1111311213213231121212321121221":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Check its utility",
+                "Check the chambers",
+                "Check the flavor"
+            ],
+            "content":"<div class=\"\"><div> <span>Your own personal slime batch was poured into an onahole after you had gotten the idea. Unsure if the slime would perish if it starved, you \"fed\" it daily, sometimes even more frequently.<br>\r\n<br>\r\nNow you were rich, had the greatest onahole in the world, and an awesome house to boot! That is, assuming that the slime/doll was formerly your Great Uncle you were sent to check in on. <br>\r\n<br>\r\nAfter about a month of living the good life, you became curious about the slime again... Things like, did it possibly have other utility you could take advantage of? Is it possible to make another batch? What's it taste like?</span></div></div>",
+            "created":1577336400,
+            "id":2765086,
+            "title":"Continue following the seller"
+        },
+        "11113112132132311212123211212213":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Strawberries!",
+                "Uh oh!",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>What's the worst that could happen? It has no adhesion when you use it, so worst off, you'd get an awful taste. Though, it could taste amazing... who knows?<br>\r\n<br>\r\nAs you tentatively lick it, you can't get any flavor from it, good or bad. Thinking that maybe you'd taste something further back on your tongue, you stick your tongue deeper...</span></div></div>",
+            "created":1577336400,
+            "id":2765087,
+            "title":"Check the flavor"
+        },
+        "111131121321323112121232112122132":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Manage to throw up",
+                "Swallow it"
+            ],
+            "content":"<div class=\"\"><div> <span>Suddenly, the slime writhes around your tongue and starts climbing into your mouth! What!?!? It's actually sticking to your tongue now and you can't get it off!<br>\r\n<br>\r\nWithin moments, the slime has migrated into your mouth and forced its way into your throat. Gagging, you...</span></div></div>",
+            "created":1577336400,
+            "id":2765088,
+            "title":"Uh oh!"
+        },
+        "1111311213213231121212321121221322":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Try to get it out!",
+                "Oh well, it will digest eventually..."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You feel it slide down your throat and into your stomach. Unfortunately, it continues to move around in there, giving you a constant state of nausea.</span></div></span></div>",
+            "created":1577336400,
+            "id":2765090,
+            "title":"Swallow it"
+        },
+        "11113112132132311212123211212213222":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Better",
+                "Nausea"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Feeling nauseous, you lay down, hoping that after a nap it will have settled down.<br>\r\n<br>\r\n<br>\r\nHours later you wake up feeling...</span></div></span></div>",
+            "created":1577336400,
+            "id":2765091,
+            "title":"Oh well, it will digest eventually..."
+        },
+        "111131121321323112121232112122132221":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Your hair looks different",
+                "Your skin seems weird",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>After waking up and going to the bathroom, you wash your hands and notice...</span></div></span></div>",
+            "created":1577336400,
+            "id":2765095,
+            "title":"Better"
+        },
+        "1111312":{
+            "author_id":"spunky",
+            "author_name":"Ace Jones",
+            "choices":[
+                "Different formulas.",
+                "Spell Books.",
+                "Other."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>He's got tons of safe stuff on display but what is it exactly that's on display?</span></div></span></div>",
+            "created":1571374800,
+            "id":2734733,
+            "title":"SFW"
+        },
+        "1112":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "\"What do y- oops!\"",
+                "\"Finally!\"",
+                "*ZAP*"
+            ],
+            "content":"<div class=\"\"><div> <span>You tried pressing the \"Call\" button on the gate controls, and after about 5 more minutes, it opened.<br>\r\n<br>\r\nGood timing, since you were about to leave.<br>\r\n<br>\r\nDriving into the lot, you parked the car and went to the front door.<br>\r\n<br>\r\nMoments after pressing the doorbell, the door suddenly swung open.<br>\r\n<br>\r\nBefore even having a chance to figure out WHO had opened the door, you hear...</span></div></div>",
+            "created":1571374800,
+            "id":2734689,
+            "title":"Nothing happened..."
+        },
+        "11122":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Let him continue",
+                "Try to interrupt",
+                "Wander away"
+            ],
+            "content":"<div class=\"\"><div> <span>You see a wild eyed scientist with crazy hair and lab coat. <br>\r\n<br>\r\n\"Well? Are you coming in?\" he says in an impatient tone.<br>\r\n<br>\r\nAs you begin to step forward, he immediately spins about-face and stomps off into the house, obviously expecting you to follow.<br>\r\n<br>\r\nAs you catch up to him, he starts to explain.<br>\r\n<br>\r\n\"I've been waiting for your damn agency to send me a new one of you guys since that last one stopped showing up!\"</span></div></div>",
+            "created":1572757200,
+            "id":2741600,
+            "title":"\"Finally!\""
+        },
+        "111221":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Sit down",
+                "Ask him something",
+                "Refuse"
+            ],
+            "content":"<div class=\"\"><div> <span>As he continues to storm through the hallways, you see him grabbing miscellaneous objects from the tables along the hall and start assembling them.<br>\r\n<br>\r\n\"Whatever you do, only touch what I tell you, when I tell you. Understand?\"<br>\r\n<br>\r\nYou nod as the two of you enter a large room.<br>\r\n<br>\r\n\"Now go sit in that seat over there.\" He motions to a large chair that almost seems reminiscent of \"The Thinker's\" chair from The Flash TV show, except this one isn't flying.<br>\r\n<br>\r\n</span></div></div>",
+            "created":1572757200,
+            "id":2741605,
+            "title":"Let him continue"
+        },
+        "1112211":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Hyper-Realistic VR system",
+                "SCIENCE Ray!",
+                "Teleport Chair"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>As soon as you sit down, the chair clamps down on your arms and legs.<br>\r\n<br>\r\n\"Alright, prepare for the 1st test of the...\"</span></div></span></div>",
+            "created":1572757200,
+            "id":2741609,
+            "title":"Sit down"
+        },
+        "11122113":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "You are gone (Your perspective)",
+                "The test subject is gone (Uncle's perspective)",
+                "You're still there."
+            ],
+            "content":"<div class=\"\"><div> <span>Before you have a chance to protest, he flips a lever and the chair begins to vibrate and get progressively louder.<br>\r\n<br>\r\nAs the chair begins to shake more, you start seeing sparks of light, that grow brighter and brighter until the room is enveloped in light.<br>\r\n<br>\r\nSuddenly, everything stops.</span></div></div>",
+            "created":1572757200,
+            "id":2741614,
+            "title":"Teleport Chair"
+        },
+        "111221131":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Civilization",
+                "The wilderness",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The last thing you saw before blacking out was that bright light, but now...<br>\r\n<br>\r\nWhere are you waking up?</span></div></span></div>",
+            "created":1573189200,
+            "id":2744110,
+            "title":"You are gone (Your perspective)"
+        },
+        "1112211311":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Indoors",
+                "In a town",
+                "Near a town"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What can you make out? Where are you?</span></div></span></div>",
+            "created":1573362000,
+            "id":2744726,
+            "title":"Civilization"
+        },
+        "11122113113":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Near",
+                "In",
+                "On"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are you near, in, or on a building?</span></div></span></div>",
+            "created":1574830800,
+            "id":2752352,
+            "title":"Near a town"
+        },
+        "111221131133":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "It opens...",
+                "It doesn't budge...",
+                "It causes you to lose your balance..."
+            ],
+            "content":"<div class=\"\"><div> <span>As your vision begins to clear, and your senses begin to return, you immediately realize that something is extremely wrong. You shiver as the breeze hits the bare skin of your entire body. Your body feels completely different. It feels smaller, softer, more... feminine? In a daze, you realize that you're not even male any more!<br>\r\n<br>\r\nAs you begin to move, you roll to your stomach to find that you are on a small ledge off the side of a building!<br>\r\n<br>\r\n<a rel=\"nofollow\" href=\"https://photos.freeones.com/v_various/Sex_Art/Little_Caprice_003/images/SexArt_Berezia_Caprice-A_medium_0109.jpg\" target=\"_blank\">https://photos.freeones.com/v_various/Se...</a><br>\r\n<br>\r\n<br>\r\nAs you stand up, you try to grasp the edge of the door-frame that's attached to the ledge so you can look around. Wherever you are, it seems pretty rural...<br>\r\n<br>\r\n<a rel=\"nofollow\" href=\"https://photos.freeones.com/v_various/Sex_Art/Little_Caprice_003/images/SexArt_Berezia_Caprice-A_medium_0076.jpg\" target=\"_blank\">https://photos.freeones.com/v_various/Se...</a><br>\r\n<br>\r\nAs you re-position yourself, you realize that there are other buildings of a similar structure to the sides! You're on a fucking windmill!<br>\r\n<br>\r\n<a rel=\"nofollow\" href=\"https://photos.freeones.com/v_various/Sex_Art/Little_Caprice_003/images/SexArt_Berezia_Caprice-A_medium_0070.jpg\" target=\"_blank\">https://photos.freeones.com/v_various/Se...</a><br>\r\n<br>\r\nStarting to feel the vertigo, as well as the chill of being nude outside, you try pushing on the door to get in...</span></div></div>",
+            "created":1574830800,
+            "id":2752355,
+            "title":"On"
+        },
+        "1112211311331":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Approach the shed.",
+                "Look a bit more.",
+                "Head back to the mill."
+            ],
+            "content":"<div class=\"\"><div> <span>With little light inside the windmill, you stumble around inside until you manage to find a ladder and climb down to ground level. As you exit the building, you look around to see it there is anywhere to get some clothing, or a clue as to where you are...<br>\r\n<br>\r\nAfter walking away from mill for a bit, you spot a small woodshed and bench.</span></div></div>",
+            "created":1574830800,
+            "id":2752742,
+            "title":"It opens..."
+        },
+        "11122113113311":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "There's no evidence of anyone at all",
+                "You hear giggling behind the woodpile"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>As you near the shed, you notice a simple dress on the bench.<br>\r\n<br>\r\nWhen you reach the bench, you look around to see if anyone is near, or if it is simply unaccompanied.<br>\r\n<br>\r\n<a rel=\"nofollow\" href=\"http://n6.femjoy.com/free/114685_izf518_iwf228/pics/006.jpg\" target=\"_blank\">http://n6.femjoy.com/free/114685_izf518_...</a></span></div></span></div>",
+            "created":1574830800,
+            "id":2752743,
+            "title":"Approach the shed."
+        },
+        "111221131133112":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Don the dress",
+                "Ask for help",
+                "Get out of here"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Shortly after hearing the giggling, you decide to...</span></div></span></div>",
+            "created":1574830800,
+            "id":2752746,
+            "title":"You hear giggling behind the woodpile"
+        },
+        "1112211311331121":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Take the sandals and jewelry",
+                "Take the sandals",
+                "Take nothing else"
+            ],
+            "content":"<div class=\"\"><div> <span><a rel=\"nofollow\" href=\"http://n6.femjoy.com/free/114685_izf518_iwf228/pics/001.jpg\" target=\"_blank\">http://n6.femjoy.com/free/114685_izf518_...</a><br>\r\n<br>\r\nDonning the dress, you begin to here moaning from where you previously heard the giggling... Yup... Someone's doing the deed.<br>\r\n<br>\r\nLooking around, you also spot some jewelry and sandals. Maybe you could sell the jewelry later on, so you decide to...</span></div></div>",
+            "created":1574830800,
+            "id":2752748,
+            "title":"Don the dress"
+        },
+        "11122113113311211":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "They understand, and agree",
+                "They understand, and refuse",
+                "They don't understand"
+            ],
+            "content":"<div class=\"\"><div> <span>Taking the last few items, you high tail it out of there and put it on after you're a safe distance.<br>\r\n<br>\r\nWandering into town, you notice that all of the signs are in a foreign language (foreign to you at least). Waving someone down, you try to ask where you are, to which they reply, \"Promi\u0148, nerozum\u00edm.\"<br>\r\n<br>\r\nSlightly exasperated, and a little panicky, you try to use gestures to ask if you can use their phone.</span></div></div>",
+            "created":1575435600,
+            "id":2755193,
+            "title":"Take the sandals and jewelry"
+        },
+        "111221131133112111":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Your parents",
+                "Your best friend Mike",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><div> <span>They pull out a smartphone, sign into it, and hand it over. You quickly access the map app and recognize none of the names on the map. Zooming out quite a bit, you realize that you've somehow ended up in Czechia! Zooming back in, you find the name of the town you're in and see that you're apparently somewhat west of Prague.<br>\r\n<br>\r\nFuck...<br>\r\n<br>\r\nStuck in a foreign country, and no language skills to speak of...<br>\r\n<br>\r\nYou need help...<br>\r\n<br>\r\nYou decide to try calling...<br>\r\n<br>\r\n</span></div></div>",
+            "created":1575435600,
+            "id":2755196,
+            "title":"They understand, and agree"
+        },
+        "1112211311331121112":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Make your way to Prague (the embassy)",
+                "Try to find someone here who will help you...",
+                "Try to find a way to get some money..."
+            ],
+            "content":"<div class=\"\"><div> <span>After a few moments of ringing, you hear Mike pick up.<br>\r\n<br>\r\nM -Hello?<br>\r\n<br>\r\nN- Hi Mike, you're not going to believe me, but this is Nathan. I need help.<br>\r\n<br>\r\nA few moments of silence pass...<br>\r\n<br>\r\nN- Hello? Mike?<br>\r\n<br>\r\nM- *sigh* Forgetting the fact that you're trying to impersonate my friend, when you're obviously a girl. How am I supposed to help?<br>\r\n<br>\r\nN- I somehow ended up in Czechia, and I need to get back home. I have no money, and I don't know the language either.<br>\r\n<br>\r\nAnother moment of silence passes.<br>\r\n<br>\r\nM- Are you an idiot? Just go to the American Embassy, they'll get you back home. Sneak onto a train if you have to.<br>\r\n<br>\r\nN- What if they find me? I won't have a ticket...<br>\r\n<br>\r\nM- Jeezus! Just flash your tits or something! I don't know! Now leave me alone!<br>\r\n<br>\r\nWith that, he hangs up.<br>\r\n<br>\r\nReturning the phone to the person you borrowed it from, you now need to decide what you're going to do...</span></div></div>",
+            "created":1575435600,
+            "id":2755197,
+            "title":"Your best friend Mike"
+        },
+        "11122113113311211121":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Try to get a ticket somehow",
+                "Sneak onto the train",
+                "Find another way to Prague"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>After performing you best gestures, while managing your skirt in the breeze, you manage to get directions to the nearest train station.<br>\r\n<br>\r\nYou see that the station is mostly empty, save for the ticket salesman.</span></div></span></div>",
+            "created":1575435600,
+            "id":2755199,
+            "title":"Make your way to Prague (the embassy)"
+        },
+        "111221131133112111212":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Try to wait out the train ride",
+                "Take a look at your new body"
+            ],
+            "content":"<div class=\"\"><div> <span>When you see no-one watching, you sneak into a car on the train. Finding an empty cabin, you think you might be safe from any conductors patrolling for tickets. The door to the cabin was kind of squeaky too, so you should be able to tell when someone comes into the car.<br>\r\n<br>\r\nAs you start to relax, you realize that its been about 2 hours since you were transported and changed, and you haven't even taken a closer look at your new body! That, and paradoxically, your lower abdomen has had a strange warmth to it even though you have nothing on down below.</span></div></div>",
+            "created":1575435600,
+            "id":2755200,
+            "title":"Sneak onto the train"
+        },
+        "1112211311331121112122":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "A young train conductor",
+                "An old train conductor",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><div> <span>You unbutton you dress and examine your breasts.<br>\r\n<br>\r\n<a rel=\"nofollow\" href=\"http://www.nudeinpublicblog.com/watch4beauty/little-caprice/choo-choo/watch4beauty-little-caprice-01.jpg\" target=\"_blank\">http://www.nudeinpublicblog.com/watch4be...</a><br>\r\n<br>\r\nIf you had to estimate, you'd guess that they're somewhere in the B range.<br>\r\n<br>\r\nFlipping up your skirt, you try to examine your new equipment. Realizing you're not getting a good view of it, you scoot down in your seat, and put you legs up on the mini-table. Yup, definitely a vagina...<br>\r\n<br>\r\nAfter a moment, you notice a presence nearby...<br>\r\n<br>\r\nYou look up, and it's</span></div></div>",
+            "created":1575435600,
+            "id":2755202,
+            "title":"Take a look at your new body"
+        },
+        "11122113113311211121221":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Double down",
+                "Re-dress yourself",
+                "Just continue staring as is..."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Staring at him for a minute, neither of you moves.<br>\r\n<br>\r\n<a rel=\"nofollow\" href=\"http://www.nudeinpublicblog.com/watch4beauty/little-caprice/choo-choo/watch4beauty-little-caprice-09.jpg\" target=\"_blank\">http://www.nudeinpublicblog.com/watch4be...</a><br>\r\n<br>\r\nGlancing at his crotch, you can see quite clearly that he's getting a hard-on.<br>\r\n<br>\r\nLooking back into his eyes, you...</span></div></span></div>",
+            "created":1575435600,
+            "id":2755203,
+            "title":"A young train conductor"
+        },
+        "111221131133112111212211":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Tell them the truth (Mostly)",
+                "Tell them a bald faced lie"
+            ],
+            "content":"<div class=\"\"><div> <span>You decide to double down, and hope for the best.<br>\r\n<br>\r\n<a rel=\"nofollow\" href=\"http://www.nudeinpublicblog.com/watch4beauty/little-caprice/choo-choo/watch4beauty-little-caprice-07.jpg\" target=\"_blank\">http://www.nudeinpublicblog.com/watch4be...</a><br>\r\n<br>\r\nHis eyes widen like saucers, and he immediately runs for the bathroom. 15 Minutes later, he comes back out, and you notice a sizable wet spot on his crotch.<br>\r\n<br>\r\nHe glances at you, and immediately hurries out of the car.<br>\r\n<br>\r\nThe rest of the train ride is uneventful, though you do notice the conductor peeking in from time to time.<br>\r\n<br>\r\nArriving at the station in Prague, you immediately head to the embassy. <br>\r\n<br>\r\nUpon reaching the embassy, the guards let you into the waiting area.<br>\r\n<br>\r\nAfter waiting for an hour, they are ready to see you.</span></div></div>",
+            "created":1575435600,
+            "id":2755204,
+            "title":"Double down"
+        },
+        "1112211311331121112122111":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "They tell you you're going home!",
+                "They tell you they can't help.",
+                "They have an offer that will enable you to get home..."
+            ],
+            "content":"<div class=\"\"><div> <span>You tell the officials your story:<br>\r\n<br>\r\nAbout how you last remember being in America...<br>\r\n<br>\r\nHow you woke up in the middle of nowhere...<br>\r\n<br>\r\nHow you snuck onto a train to get to the embassy...<br>\r\n<br>\r\nHowever, having no corroborating evidence to back your story up doesn't bode well. The officials debate for a bit in a side room and when they come back...</span></div></div>",
+            "created":1576299600,
+            "id":2759394,
+            "title":"Tell them the truth (Mostly)"
+        },
+        "1112211312":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "In a forest",
+                "On a beach",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You can't hear or see any signs of civilization, but as your senses come into focus you realize where you are (generally speaking).<br>\r\n<br>\r\nYou find yourself...</span></div></span></div>",
+            "created":1573362000,
+            "id":2744723,
+            "title":"The wilderness"
+        },
+        "11122113123":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "A desert",
+                "Adrift at sea",
+                "A mountain"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Somewhere more extreme?</span></div></span></div>",
+            "created":1573362000,
+            "id":2744724,
+            "title":"Other"
+        },
+        "1112211313":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "The sky is wrong",
+                "The animals are wrong",
+                "You can't breath"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>As you begin to regain your senses and wake up, you notice...</span></div></span></div>",
+            "created":1573189200,
+            "id":2744112,
+            "title":"Other"
+        },
+        "11122113131":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Wrong number of suns",
+                "Wrong number of moons",
+                "Wrong color"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Eh? The sky is wrong? What's wrong with it?</span></div></span></div>",
+            "created":1573275600,
+            "id":2744119,
+            "title":"The sky is wrong"
+        },
+        "111221132":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "No one at the site",
+                "He sees the subject at the site",
+                "He see someone, but not the subject at the site"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Success! The subject has vanished! Now to check the landing site!<br>\r\n<br>\r\nAs the old man turns on the tv linked to the on-site camera for the landing site, he sees...</span></div></span></div>",
+            "created":1572757200,
+            "id":2741615,
+            "title":"The test subject is gone (Uncle's perspective)"
+        },
+        "1112211321":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "The subject",
+                "The subject, but much older",
+                "A woman"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>As he is examining the footage, he hears the gate alarm go off again.<br>\r\n<br>\r\n\"Hrm? Did they send another subject so soon?\"<br>\r\n<br>\r\nWhen he reached the door to let them in, he saw that it was...</span></div></span></div>",
+            "created":1572757200,
+            "id":2741616,
+            "title":"No one at the site"
+        },
+        "11122113213":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Older than the subject",
+                "Younger than the subject",
+                "The same age as the subject"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The woman seemed to have an exhausted look in here eyes.<br>\r\n<br>\r\n\"I 'm finally back!\"<br>\r\n<br>\r\nAs he eyed the woman, he noticed that she was...</span></div></span></div>",
+            "created":1572757200,
+            "id":2741617,
+            "title":"A woman"
+        },
+        "1112211323":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "a man",
+                "a woman",
+                "not human"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The quality of the camera he was using made it a little difficult to discern at first, but he eventually realized it was...</span></div></span></div>",
+            "created":1572930000,
+            "id":2742521,
+            "title":"He see someone, but not the subject at the site"
+        },
+        "12":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":null,
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>After you hang up with your parents, you feel a little more relaxed.<br>\r\n<br>\r\nA few days later, you heard that he was fine, but had no time for family any more.<br>\r\n<br>\r\nThere was only time for SCIENCE!</span></div></span></div>",
+            "created":1565931600,
+            "id":2703628,
+            "title":"End of the line"
+        }
+    },
+    "info":{
+        "author_id":"zionixion",
+        "author_name":"D-MentedOne",
+        "brief_description":"Visit your mad scientist great uncle and see what kind of inventions he's created.",
+        "created":1566009180,
+        "description":"<td align=\"left\" class=\"norm\">You've heard very little over the years about your great uncle, until yesterday. Your parents have grown concerned since they haven't heard from him in a few years. They usually left him to his own devices as he's a bit eccentric. <br>\r\n<br>\r\nNow they want you to do a wellness check on him at his estate.</td>",
+        "id":2198386,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "modified":1581306420,
+        "pretty_title":"Master of Invention(s)"
+    }
+}

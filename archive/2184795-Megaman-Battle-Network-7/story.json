@@ -1,0 +1,73 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"shadow_lord",
+            "author_name":"skyler00",
+            "choices":[
+                "Human male",
+                "Human female",
+                "Navi male",
+                "Navi female",
+                "Other?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who will we be following?</span></div></span></div>",
+            "created":1551934800,
+            "id":2627560,
+            "title":"Loading....."
+        },
+        "11":{
+            "author_id":"shadow_lord",
+            "author_name":"skyler00",
+            "choices":[
+                "Lan Hikari",
+                "Chaud Blaze",
+                "Other",
+                "Other",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which character?</span></div></span></div>",
+            "created":1556600400,
+            "id":2652978,
+            "title":"Human male"
+        },
+        "111":{
+            "author_id":"shadow_lord",
+            "author_name":"skyler00",
+            "choices":[
+                "Waking up",
+                "Battling viruses",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where do we start with him?</span></div></span></div>",
+            "created":1560834000,
+            "id":2675543,
+            "title":"Lan Hikari"
+        },
+        "12":{
+            "author_id":"shadow_lord",
+            "author_name":"skyler00",
+            "choices":[
+                "Mayl Sakurai",
+                "Yai",
+                "Jasmine",
+                "Princess Pride",
+                "Etc"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who will we be following?</span></div></span></div>",
+            "created":1558242000,
+            "id":2661529,
+            "title":"Human female"
+        }
+    },
+    "info":{
+        "author_id":"shadow_lord",
+        "author_name":"skyler00",
+        "brief_description":"A Rockman.EXE / Megaman NT Warrior/ Mega man Battle Network Interactive.",
+        "created":1552014300,
+        "description":"<td align=\"left\" class=\"norm\">Create your own story with the Megaman Battle Network/ Rockman Axess/ Stream/ Beast franchise. Anything goes! All kinks! All fetishes! Do anything you want, just make sure there's multiple options!<br>\r\n<br>\r\nGood adds will get reward points!</td>",
+        "id":2184795,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "modified":1560919200,
+        "pretty_title":"Megaman Battle Network 7"
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"redwolf12",
+            "author_name":"wolfbood",
+            "choices":[
+                "Arthur Reed",
+                "D.W Reed",
+                "Jane Reed",
+                "David Reed",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which character do you want to thansfom first?</span></div></span></div>",
+            "created":1585630800,
+            "id":2811026,
+            "title":"Let's start"
+        },
+        "12":{
+            "author_id":"jobobo19",
+            "author_name":"carl.a.pruuitt",
+            "choices":[
+                "Age change",
+                "Size change",
+                "Gain weight ",
+                "Gain muscles",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What is going to happen to D.W?</span></div></span></div>",
+            "created":1585630800,
+            "id":2811346,
+            "title":"D.W Reed"
+        }
+    },
+    "info":{
+        "author_id":"redwolf12",
+        "author_name":"wolfbood",
+        "brief_description":"Everyone from Arthur get transformation",
+        "created":1585677540,
+        "description":"<td align=\"left\" class=\"norm\">Play as Arthur or anyone else who get transfom.<br>\r\n<br>\r\nRules to follow.<br>\r\n<br>\r\n1. No Deaths<br>\r\n<br>\r\n2. No toilet stuff<br>\r\n<br>\r\n3. No means stuff<br>\r\n<br>\r\n4. Have fun<br>\r\n<br>\r\nThat's all and good luck.</td>",
+        "id":2217631,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "modified":1585716420,
+        "pretty_title":"Arthur transformation story"
+    }
+}

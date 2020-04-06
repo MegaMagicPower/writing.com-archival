@@ -1,0 +1,515 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"frown",
+            "author_name":"sup",
+            "choices":[
+                "Expanditis(Weight Gain, Expansion)",
+                "Size Disorder(Shrinking, Growth)",
+                "Gender Bender(Gender)",
+                "Aegitis(Age Progression and Regression",
+                "More"
+            ],
+            "content":"<div class=\"\"><div> <span>You have now entered the world of plagues. Now before you all get off  and start writing...what sort of virus has infected the world?<br>\r\n<br>\r\nExpanditis: A disease that causes the infected to rapidly gain weight and have an increase in appetite. Transmitted through saliva and bites.<br>\r\n<br>\r\nSize Disorder A disease that alters the infected's size in some way. Size Disorder S causes the infected to shrink and Size Disorder G causes growth. Caution: those with G have more heightened emotions.<br>\r\n<br>\r\nGender Bender Virus: A disease that changes the gender of those who contract it. Gender Bender Virus B changes women into men, men are unaffected. Gender Bender Virus G changes men into women, women are unaffected.<br>\r\n<br>\r\nAgeitis: A disease that directly effects the aging process. Those with the R strain slowly grow younger until they either hit childhood or baby age. P strain makes them grow older until they eventually die of old age.<br>\r\n<br>\r\nBe sure you choose wisely because once you pick a virus, there is no adding any of the others.</span></div></div>",
+            "created":1585285200,
+            "id":2808164,
+            "title":"Welcome to Plagues"
+        },
+        "12":{
+            "author_id":"frown",
+            "author_name":"sup",
+            "choices":[
+                "Size Disorder S (Shrink)",
+                "Size Disorder G (Growth)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Now before you continue...which strain? The Growth or the Shrink?</span></div></span></div>",
+            "created":1585285200,
+            "id":2808167,
+            "title":"Size Disorder"
+        },
+        "13":{
+            "author_id":"frown",
+            "author_name":"sup",
+            "choices":[
+                "Gender Bender Virus M (Women into men)",
+                "Gender Bender Virus F (Men into Women)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which strain of Gender Bender?</span></div></span></div>",
+            "created":1585285200,
+            "id":2808168,
+            "title":"Gender Bender"
+        },
+        "14":{
+            "author_id":"frown",
+            "author_name":"sup",
+            "choices":[
+                "R Strain (Age Regression)",
+                "P Strain (Age Progression)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which strain of Ageitis?</span></div></span></div>",
+            "created":1585285200,
+            "id":2808171,
+            "title":"Ageitis"
+        },
+        "15":{
+            "author_id":"frown",
+            "author_name":"sup",
+            "choices":[
+                "Blue Fever",
+                "Toonmonia",
+                "Clown Flu",
+                "Anthropomophism",
+                "More"
+            ],
+            "content":"<div class=\"\"><div> <span>Blue Fever: Those who have contracted this disease find themselves turning blue as their bodies slowly fill out with a strange substance called juice. Touching or drinking the juice is highly ill advised as the juice contains the virus.<br>\r\n<br>\r\nToonmonia: A bizarre disease that changes a persons entire physiology, transforming them into a living cartoon. Starts with sneezing until they become a full toon. What kind they become is based on personality.<br>\r\n<br>\r\nClown Flu: A disease that disrupts a persons train of thought while coloring their skin a chalk white and increase growth in their nose and feet as well as other funny changes.<br>\r\n<br>\r\nAnthropomophism: A bizarre disease that causes those who catch it to slowly change into anthro animals.</span></div></div>",
+            "created":1585285200,
+            "id":2808172,
+            "title":"Plagues Deux"
+        },
+        "151":{
+            "author_id":"arkham0025",
+            "author_name":"DJ",
+            "choices":[
+                "A doctor trying to cure it.",
+                "A normal citizen trying to avoid infection.",
+                "An infected citizen trying to infect others."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So, Blue Fever. A disease that causes the infected to slowly bloat with juice. Quite the disease. Now, what role are you playing in this bizarre plague?</span></div></span></div>",
+            "created":1585717200,
+            "id":2811904,
+            "title":"Blue Fever"
+        },
+        "1512":{
+            "author_id":"frown",
+            "author_name":"sup",
+            "choices":[
+                "An abandoned convenience store",
+                "an old motel",
+                "An abandoned car"
+            ],
+            "content":"<div class=\"\"><div> <span>Things quickly changed after the disease started to spread. A new blue world where the infected hunted for the uninfected. Certain countries and island territories remain sealed off in order to keep the virus from spreading.<br>\r\n<br>\r\nAs for those countries that are infected, people continue to run and hide in order to avoid the rapid spread of this blue plague on the world itself. The rich live it up inside their protected borders while the poor...they fend for themselves.<br>\r\n<br>\r\nIn a ruined city where some life still clings for normalcy, a mother and her young daughter run through the streets while avoiding large pools of blue liquid as well as keep themselves hidden from incoming blue beings.<br>\r\n<br>\r\n\"Mommy...where are we going?\" her daughter asked.<br>\r\n<br>\r\n\"Don't worry about a thing, Gwen. I'm...going to find us a place where we can hide out.\" her mother assured her as she scanned the area for any good hiding spots where they could hide out. All seemed like a hopeless endeavor before she eyed what she had desired.</span></div></div>",
+            "created":1585803600,
+            "id":2811943,
+            "title":"Hard to Stay Healthy"
+        },
+        "15123":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "An Infected person",
+                "An uninfected person"
+            ],
+            "content":"<div class=\"\"><div> <span>An abandoned car, ripe for the picking. It was parked in the near empty lot unblemished from the world's surroundings. Fiona,for that was the mother's name, gawked at the sight.<br>\r\n<br>\r\n\"Gwen, come with me.\" She spoke to her daughter. She raced over with her daughter in tow.Fiona heart beat like a drum in her chest. Her eyes scanned the horizon, noting multiple people transforming in strange ways. She quickly covered her daughter's eyes to shield her from the sights.<br>\r\n<br>\r\n\"Don't worry baby.\" She offered as some sort of soothing. Finally she reached her destination and stopped to take her hands away from her daughter's face. Quickly she went over to the car and began to open it, she hoped in her dearest heart she could start the thing.<br>\r\n<br>\r\n\"Hey.\" A voice called from her side. \"What are you doing with my car?\"<br>\r\n<br>\r\nFiona turned her head and was shocked to see an...</span></div></div>",
+            "created":1586062800,
+            "id":2813820,
+            "title":"An abandoned car"
+        },
+        "155":{
+            "author_id":"frown",
+            "author_name":"sup",
+            "choices":[
+                "Toyitis",
+                "Bimboitis"
+            ],
+            "content":"<div class=\"\"><div> <span>These will be the last of the Plagues...for now anyway.<br>\r\n<br>\r\nToyitis: A bizarre little disease that slowly turns anyone who catches it into a living toy.<br>\r\n<br>\r\nBimboitis A disease that transforms the infected into a ditzy blond bombshell. Disease is transmitted through kissing and sexual conduct.</span></div></div>",
+            "created":1585285200,
+            "id":2808174,
+            "title":"Part Trois"
+        },
+        "1552":{
+            "author_id":"arkham0025",
+            "author_name":"DJ",
+            "choices":[
+                "A scientist trying to cure the disease.",
+                "A normal citizen trying to avoid infection.",
+                "An infected citizen trying to infect others."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ah, so we're going with the virus that turns you into a bimbo. OK, so who are you?</span></div></span></div>",
+            "created":1586062800,
+            "id":2813653,
+            "title":"Bimboitis"
+        },
+        "15521":{
+            "author_id":"frown",
+            "author_name":"sup",
+            "choices":[
+                "She starts experimenting with a possible cure",
+                "Her urges are starting to take over",
+                "She does a full physical of herself."
+            ],
+            "content":"<div class=\"\"><div> <span>\"Okay...so...you take this part and...like...ugh...I said it again.\" a woman in a lab coat groaned as she held her head as her breasts jiggled.<br>\r\n<br>\r\nThis was formerly doctor Martin Smith...now Marsha. When the disease surfaced, it was a wave that spread across the world. Women started to become ditzy and dim witted, craving sex and pleasure. Men infected with the disease slowly transform into women and become just like the women they are trying to cure, dimwitted and sex crazed bimbos. Marsha was not like more doctors and believed you needed to be injected with the disease in order to cure it, so she took a blood sample from a patient and injected herself. She lost her gender as a man and gained a body exactly like the women that was starting to plague the world.<br>\r\n<br>\r\n\"Ugh...this was a mistake.\" Marsha groaned. \"Apparently while the symptons aren't all there at the start, they do slowly begin to like totally...I mean start to show up.\" she groaned once more. \"Hopefully I can make some sure before I end up like them.\"</span></div></div>",
+            "created":1586062800,
+            "id":2813662,
+            "title":"Fighting it"
+        },
+        "155211":{
+            "author_id":"arkham0025",
+            "author_name":"DJ",
+            "choices":[
+                "...her breasts to swell to immense sizes.",
+                "...her mind to repair itself, and fast.",
+                "...her hair to get even longer."
+            ],
+            "content":"<div class=\"\"><div> <span>It took about 20 minutes, and she had to keep forcing herself to stay focused, but Marsha was able to synthesis something that she hoped would be a cure. If not a cure, then at least something that would halt the mental change and hopefully reduce her new urges.<br>\r\n<br>\r\n\"OK, this had better work, or we are, like, totally- GAH! Or we are screwed.\" Marsha said. The change to her speech patterns was really beginning to drive her up a wall.<br>\r\n<br>\r\nShe set the serum down, and turned on a nearby TV to the news. Things were not looking good. There were more and more ditzy, sex-crazed infected running around. Even the newsanchor had streaks of blonde running in her hair, and her breasts had started to swell.<br>\r\n<br>\r\n\"Government officials are urging citizens to remain indoors, and not make contact with any infected individuals, no matter how much of a, like, total cutie they are.\" The newsanchor said, before covering her mouth at what she said as the newsfeed cut off.<br>\r\n<br>\r\n\"Crap.\" Marsha muttered. \"Things are really getting bad. I should test the serum. Thankfully, like, I totes made enough to share and- SHIT!\"<br>\r\n<br>\r\nMarsha went to the serum, and after examining it for a moment, drank it. For a moment, it seemed like there wasn't much of an effect. But soon there was. The serum was causing...</span></div></div>",
+            "created":1586062800,
+            "id":2813697,
+            "title":"Marsha's first cure attempt"
+        },
+        "1552111":{
+            "author_id":"frown",
+            "author_name":"sup",
+            "choices":[
+                "She was able to hold on and work",
+                "She gives in and goes hunting",
+                "Before she does anything, the virus mutates again"
+            ],
+            "content":"<div class=\"\"><div> <span>She saw her bust jiggling rapidly before they grew larger and larger and burst right out of her bra as she was forced to hug the wall just to make herself stable as they jiggled there like two gigantic yoga balls.<br>\r\n<br>\r\n\"Ugh...great. I totes failed. Instead of making them smaller, I made boobies bigger.\" Marsha said before covering her mouth. \"What's worst is I think I like mutated the virus.\"<br>\r\n<br>\r\nShe knew now that with these two balloons in front of her, she was now going to have an even harder time finding a cure. She would either need to call an assistant or turn herself over to the hospital. \"No...a hospital would take too long. The virus might mutate further if I wait for an ambulance.\" she said. \"Besides I like totally have...I mean I have no telling what is going to happen. No use. I'll have to make do.\" she said before going back to her work. She soon saw new thoughts racing through her mind like hot men and getting in bed with them as she tries to fight against the symptoms. In the end...</span></div></div>",
+            "created":1586062800,
+            "id":2813704,
+            "title":"Unexpected side effect"
+        },
+        "15521111":{
+            "author_id":"arkham0025",
+            "author_name":"DJ",
+            "choices":[
+                "...some infected broke into her lab.",
+                "...her boobs swelled further, pinning her to the bed.",
+                "...the virus mutated again, making her body even more bimbo like."
+            ],
+            "content":"<div class=\"\"><div> <span>Marsha was eventually able to fight back her urges by mentally reciting various formulas and old poem verses, and got back to work on a cure. As she figured, though, it was much harder now. Her new, yoga-ball sized boobs made it incredibly difficult to move around her fairly small lab, and she had to manuver her body in a way that her boobs wouldn't knock over her equipment.<br>\r\n<br>\r\nAfter a while, though, she wasn't able to make much more progress. Though she was keeping herself focused, Marsha found that the virus's genetic make-up made no sense, even without her having issues with her mind. What's worse, she ran a test on herself, and found that the virus and her earlier cure attempt were interacting strangely. She was worried her boobs might grow even further.<br>\r\n<br>\r\n\"Uh, I'm getting nowhere.\" Marsha muttered. \"I'll barricade the lab, and try again tomorrow. I know I'll totes get something right, and hopefully my boobies don't blow up more, though that sounds totes sexy, and- RAAAH! FOCUS!\"<br>\r\n<br>\r\nMarsha proceeded to barricade her lab, and went to the bed that she had set up, so she wouldn't have to leave and risk further infection. She also took a medication that surpressed dreaming, since she didn't want her urges to mutate during the night. With that done, she laid down on the bed, and drifted off to sleep.<br>\r\n------<br>\r\nThe next morning, Marsha awoke to a worrying sight. During the night...</span></div></div>",
+            "created":1586062800,
+            "id":2813712,
+            "title":"Night Night"
+        },
+        "155211113":{
+            "author_id":"frown",
+            "author_name":"sup",
+            "choices":[
+                "She needed to capture Patient Zero",
+                "She needed to find someone immune",
+                "Before she can do anything, someone breaks in"
+            ],
+            "content":"<div class=\"\"><div> <span>She quickly rushed into the bathroom to get a full look at herself. To her shock and horror, her hair had become a brighter blond, almost as blond as all of the infected roaming the streets and flaunting themselves like ladies of the night. She also noticed her breasts were a bit bigger and her hips had become wider as she groaned before noticing her skin looked a little tanned in the right light.<br>\r\n<br>\r\n\"Ugh...this is just what I like need. And this skin...possibly some like major side effect. My skins become more tender and will make it easier for me to get aroused. As if I needed that. And my virus research is going to go down the drain. I have no choice. I need to keep...oh that mail man outside in the mornings is usually so hawt.\" she said before covering her mouth. She tried to keep her mind focused but found it difficult as some knowledge had been forgotten. \"Damn it! What now? Its getting harder and harder to think.\" she groaned before an idea came into her mind just then. It was difficult but...</span></div></div>",
+            "created":1586062800,
+            "id":2813724,
+            "title":"One Hot Bod"
+        },
+        "1552111131":{
+            "author_id":"arkham0025",
+            "author_name":"DJ",
+            "choices":[
+                "...an uninfected woman.",
+                "...an infected woman.",
+                "...a group of infected women."
+            ],
+            "content":"<div class=\"\"><div> <span>Marsha decided that her best bet to fix all this was to locate Patient Zero. If she managed that, she might be able to find out what caused the virus to appear in the first place, and potentially be able to synthesis a cure. If she could keep her mind on track that was.<br>\r\nShe unlocked her lab, and grabbed what she felt was the more covering outfit she could find: a huge grey trenchcoat, baggy jeans, and a massive hat. She soon found, though, that the jeans were skin-tight against her hips, and the trenchcoat did nothing to hide her immense bosom. The hat at least could hide all of her blonde hair.<br>\r\n<br>\r\n\"OK, this outbreak first happened in Texas, so Patient Zero is likely there. Maybe along the way, I'll find some total hotties to snag and- NO! FOCUS!\" Marsha yelled. But it was proving to be much harder to think. Thankfully, before she infected herself, Marsha had written down notes about what had been learned about the virus, in-case something like this happened to her. She grabbed the notes, and made her way out of her lab.<br>\r\n<br>\r\nOutside, in the city, it was dead quiet. Marsha couldn't see anyone around. As she made her way around, she finally heard footsteps. Turning, she saw they belonged to...</span></div></div>",
+            "created":1586062800,
+            "id":2813728,
+            "title":"Searching for Patient Zero"
+        },
+        "15521111312":{
+            "author_id":"frown",
+            "author_name":"sup",
+            "choices":[
+                "Take me to the one who infected you",
+                "tell me where the others are",
+                "lead me to some hot guys"
+            ],
+            "content":"<div class=\"\"><div> <span>She saw a large and busty bimbo standing behind her as she giggled. \"Like, hey girl.\" she said.<br>\r\n<br>\r\n\"Oh...hey girl. Like what's up?\" Marsha said as she giggled back.<br>\r\n<br>\r\n\"Oh you know. Just looking around for hunky guys to get my arms around. You know, just finding anyone who's sexy and ready for a little love.\" she said with a giggle.<br>\r\n<br>\r\n\"I get it now. I'm infected right now. She has no idea that I still have some thought left. In short, I actually have the advantage of surprise...I mean element of surprise. I better get out of here fast.\" she thought.<br>\r\n<br>\r\n\"Oh...your boobies are like, so big.\" the bimbo said staring at Marsha's breasts.<br>\r\n<br>\r\n\"Oh yeah. When I was like boring and smart, I ended up like, blowing them up like balloons with a like serum thingy.\" Marsha said before an idea came to mind. She still had some of that serum left. \"Would you like, wanna be like me? A hot and sexy little number that can snag about any guy?\" she asked.<br>\r\n<br>\r\n\"Oh my gosh, like totally!\" the bimbo cheered.<br>\r\n<br>\r\n\"Okay but first you gotta like...\"</span></div></div>",
+            "created":1586062800,
+            "id":2813736,
+            "title":"Unexpected Camouflage"
+        },
+        "155211113121":{
+            "author_id":"arkham0025",
+            "author_name":"DJ",
+            "choices":[
+                "...downing the serum.",
+                "...forcing Marsha to drink the rest of the serum."
+            ],
+            "content":"<div class=\"\"><div> <span>\"In... fec... ted?\" The infected woman said, sounding out the word.<br>\r\n<br>\r\n\"The person who made you this super-sexy woman?\" Marsha explained.<br>\r\n<br>\r\n\"Oh yeah!\" The infected woman replied. \"You mean Mimi! She's, like, got this super-neato penthouse in the city. She invited me over, and now I've got this totes hot bod.\"<br>\r\n<br>\r\n'Maybe this can help. I hope.' Marsha thought. \"Alright, mind if I go see her?\"<br>\r\n<br>\r\n\"Nuh-uh.\" The woman replied. \"First, I want that serum thingy.\"<br>\r\n<br>\r\nMarsha sighed, and took the serum out of her pocket, having grabbed it before heading out. She handed it over to the woman.<br>\r\n<br>\r\nThe woman looked it over, and smiled. \"Oh, it's so pink!\" She said. \"Totes cute!\"<br>\r\n<br>\r\n\"Yeah, I made it before I became totes sexy.\" Marsha said. That wasn't a total lie. She'd been working on the cure before she infected herself.<br>\r\n<br>\r\n\"So, like, it'll make my boobies even bigger and sexier?\" The woman asked.<br>\r\n<br>\r\n\"Totally!\" Marsha replied. In her head, she was rapidly thinking of whatever formula she could remember, since she was worried engaging in more valley talk would accelerate the mental change. Thankfully, it wasn't.<br>\r\n<br>\r\n\"That's totally sweet.\" The infected woman said, right before...</span></div></div>",
+            "created":1586062800,
+            "id":2813745,
+            "title":"Info/Serum Trade"
+        },
+        "1552111131212":{
+            "author_id":"frown",
+            "author_name":"sup",
+            "choices":[
+                "Mimi's penthouse",
+                "A large pit",
+                "before they could, a truck intercepts them"
+            ],
+            "content":"<div class=\"\"><div> <span>To Marsha's surprise however, the woman went and dumped it down Marsha's throat instead, forcing her to gulp it down. \"You like think we're all like stupid huh?\" the bimbo said giggling.<br>\r\n<br>\r\n\"You...you like aren't?!\" Marsha said as her breasts ballooned bigger.<br>\r\n<br>\r\n\"No. There are like, a number of us who remain smarty enough to not fall for like tricks like this.\" the woman said as Marsha found herself pinned to the ground by her now large bosom, completely unable to move with her heavy load.<br>\r\n<br>\r\n\"What like...what are you going to do to me?\" Marsha asked in worry.<br>\r\n<br>\r\n\"Well I could like leave you here and let your brain slowly melt away. But we like...have a better idea.\" the bimbo said.<br>\r\n<br>\r\n\"We?\" Marsha said before seeing more of the infected coming out of hiding and quickly started hoisting her up. \"There were like more of you?\"<br>\r\n<br>\r\n\"Thing about us? We tend to travel in packs.\" the bimbo said flicking Marsha's nose. \"Okay gals. Carry her off.\" she said.<br>\r\n<br>\r\nThe bimbos then went and carried her off towards...</span></div></div>",
+            "created":1586062800,
+            "id":2813758,
+            "title":"Turned Tables"
+        },
+        "15521111312123":{
+            "author_id":"arkham0025",
+            "author_name":"DJ",
+            "choices":[
+                "...only throughout the US.",
+                "...throughout North, Central, and South America.",
+                "...to every country on the planet."
+            ],
+            "content":"<div class=\"\"><div> <span>Before the group could make any real progress, however, a huge military style truck suddenly sped up to them. Before anyone could react, a smoke pellet was thrown out of the truck and exploded, blinding the group. A few figures ran out of the truck, grabbed Marsha, and hoisted her up, taking her to the truck as fast as they could. Once she was on, the truck drove off.<br>\r\n<br>\r\nNow that Marsha could see, she noticed that the truck had 7 people in it, all women. 3 of them looked infected, but surprisingly kept a serious look on their faces. The other 4 women looked normal.<br>\r\n<br>\r\n\"Um, thanks for the save.\" Marsha said, laying on top of her beanbag-chair sized boobs.<br>\r\n<br>\r\n\"Not a problem, Dr. Smith.\" One of the uninfected women replied. \"Yeah, we know you. We've been following your work on a cure. It was pretty dumb to infect yourself.\"<br>\r\n<br>\r\n\"I thought it would help me understand the virus better.\" Marsha replied. \"But all it did was give me this totes bangin' bod, and- GODDAMMIT! I can't help talking like that! I've only kept most of mind through force of will alone!\"<br>\r\n<br>\r\n\"A lot have. Some, however, had a different change.\" Another uninfected woman replied. She then gestured towards one of the infected soldiers. \"Take Private Cane here. She got the full bimbo body, but she didn't lose all of her mental faculties.\"<br>\r\n<br>\r\n\"Nope, I'm totes still one of the best soldiers here.\" Private Cane replied. \"The bimbo talk sucks ass though. It's, like, SOOOO annoying.\"<br>\r\n<br>\r\n\"Don't I know it.\" Marsha muttered.<br>\r\n<br>\r\n\"We're nearing a facility now. Staffed only by women at the moment, to minimize risk of infection. Most of the male staff were infected anyway.\" The uninfected woman replied. \"You will be put in quarentine, but we're hoping you can help with a cure.\"<br>\r\n------<br>\r\nA little while later, Marsha had been set-up in a lab at the facility, and given a special flat cart to carry her immense bosom around. She got to know the 7 women quickly.<br>\r\n<br>\r\nThe 3 infected women were Private Cane, Private Matthews, and Corporal Vink. The 4 uninfected were Privates Kellerman and Wise, Captain Lake, and General Marks. At the moment, they were the authority at the facility.<br>\r\n<br>\r\nAs Marsha went about her lab, working on her potential cure, she had learned at least two things: one about her current infection and the effects of the serum, and one about the spread of the virus. First, she learned that her breast growth was completely irreversable. Second, she learned that the virus had spread...</span></div></div>",
+            "created":1586062800,
+            "id":2813769,
+            "title":"Help Arrives"
+        },
+        "155211113121231":{
+            "author_id":"frown",
+            "author_name":"sup",
+            "choices":[
+                "Capture of Mimi",
+                "Extermination of 100% infected",
+                "Help from other countries"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Okay...so far the virus is only contained within the US. Other countries have blocked off their borders. That's like totes incredible. But if there are bimbos as smart as those from the city are...that will change.\" Marsha said.<br>\r\n<br>\r\n\"But like...how are we supposed to stop the virus?\" Cane asked.<br>\r\n<br>\r\n\"I think a cure is still possible. I can't reverse the gender changes or the breasts...but it will give sense and reason back to all of us, making thinking like not so hard as 1 + 1.\" Marsha giggled.<br>\r\n<br>\r\n\"But how are we supposed to do that?\" Lake asked.<br>\r\n<br>\r\n\"Mimi, the bimbo who infected those others. She might be patient zero of this entire virus.\" Marsha said. \"If we had her we might be able to create a cure.\"<br>\r\n<br>\r\n\"Which is incredibly difficult since the entire city is crawling around with those bimbos.\" Wise said. \"Thank goodness the virus can't become airborne.\"<br>\r\n<br>\r\n\"Well...either way, things are not looking so good for the human race if it spreads beyond the US. Our only hope right now is this.\" Marsha said.</span></div></div>",
+            "created":1586062800,
+            "id":2813782,
+            "title":"Contained....for now."
+        },
+        "1552111131212311":{
+            "author_id":"arkham0025",
+            "author_name":"DJ",
+            "choices":[
+                "\"...Private Wise.\"",
+                "\"...Captain Lake.\"",
+                "\"...me.\""
+            ],
+            "content":"<div class=\"\"><div> <span>\"Asking for help from the other countries would be totes bad, since it could spread the infection.\" Marsha said. \"So I think our best bet is to capture Mimi. With her, we might be able to make a cure.\"<br>\r\n<br>\r\n\"Great.\" Marks said. \"I'll send Cane, Matthews, and Vink. Since they're already infected, they might be able to get through the hoards without much trouble.\"<br>\r\n<br>\r\n\"Awesome!\" Marsha replied. \"I'll get to work on studying the virus. There's gotta be something in it that causes are brains to go all bimbo-y.\" She frowned once she realized what she said, and went back to her lab.<br>\r\n-----<br>\r\nMarsha found that working was a bit easier then before. Mostly due to the fact that she could use her now mammoth mammaries as a table. The jiggling was an issue, but one she got used to. As she worked in her lab/quarentine area, she heard the door open. General Marks entered, wearing a hazmat suit that concealed her face and figure.<br>\r\n<br>\r\n\"Hey Marks.\" Marsha said. \"I'm making a little progress. There is something in the virus that causes the mental change. Haven't figured out what yet, but it makes me totes giddy that I made progress.\"<br>\r\n<br>\r\n\"Well, we might have an issue right now.\" Marks said.<br>\r\n<br>\r\n\"What?\" Marsha asked, worried.<br>\r\n<br>\r\n\"There was a brief quarentine breach. We contained it, but someone got infected.\" Marks explained.<br>\r\n<br>\r\n\"Oh no.\" Marsha said. \"Who?\"<br>\r\n<br>\r\nMarks sighed. \"The person infected was...\"</span></div></div>",
+            "created":1586062800,
+            "id":2813797,
+            "title":"Catching Patient Zero"
+        },
+        "15521111312123112":{
+            "author_id":"frown",
+            "author_name":"sup",
+            "choices":[
+                "Dissecting the dead infected",
+                "Checking up on Lake"
+            ],
+            "content":"<div class=\"\"><div> <span>\"She went to take care of the infected. She neutralized it but not before being kissed and infected.\" Marks said. \"We're disinfecting the entire area. And we'll get rid of the infected.\"<br>\r\n<br>\r\n\"No...don't.\" Marsha said. \"Bring the body to my lab. I like might learn something if I pick her brains...like literally.\"<br>\r\n<br>\r\n\"Really?\" Marks asked curiously. \"Can that actually be done?\"<br>\r\n<br>\r\n\"Yeah. You like do it with animals in order to see what kind of like viruses they carry.\" Marsha said. \"It has to be the same with humans. Now about Lake. How is she?\"<br>\r\n<br>\r\n\"So far her mind hasn't fully deteriorated but her body is drastically changing. There's a chance she might end up like the others.\" Marks said.<br>\r\n<br>\r\n\"Hmm. I see. For now, keep her in a quarantine until I can like give her a full physical. Until then, please like leave me be.\" Marsha said as Marks left her alone. \"Wow...things like...totally change in only a couple of hours of alone time and like stuff.\" she said with a giggle before slapping herself in the face.</span></div></div>",
+            "created":1586062800,
+            "id":2813809,
+            "title":"Bimbo Lake"
+        },
+        "155211113121231122":{
+            "author_id":"arkham0025",
+            "author_name":"DJ",
+            "choices":[
+                "\"...she hasn't changed at all. Even her speech is the same.\"",
+                "\"...she got slightly ditzy, but stopped after that.\"",
+                "\"...she's somehow even dumber then other infected.\""
+            ],
+            "content":"<div class=\"\"><div> <span>After running a couple more tests, Marsha saw the deceased body of the infected woman get wheeled into her lab. The body was covered in a tarp. Marsha wanted to start cutting into it as soon as she could, but she was worried about Captain Lake. She asked the guard to let her see Captain Lake. The guard was wary, but relented. She also asked the guard to preserve the body for an autopsy later.<br>\r\n<br>\r\nWith two guards flanking her, Marsha wheeled her way into the new quarentine zone where Lake was being held. Entering, she saw General Marks, and behind some glass, Captain Lake. And she certainly had changed.<br>\r\n<br>\r\nHer previously red hair was now so platinum blonde it was practically white. Her lips had turned big and pink. Her breasts had ballooned to the size Marsha had been when she first tried her failed serum. Her waist had somewhat shrunk, and her hips were quite wide. Her legs had grown quite long, and her skin was tanned.<br>\r\n<br>\r\n\"Her body changed pretty damn quickly.\" Marks said. \"Got her in quarantine as soon as we saw streaks of blonde hair.\"<br>\r\n<br>\r\n\"I see.\" Marsha said. \"What about her mind? She turn into a sex crazed ditz?\"<br>\r\n<br>\r\nMarks sighed. \"Well, in regards to her brain...\"</span></div></div>",
+            "created":1586062800,
+            "id":2813822,
+            "title":"An Infected Lake"
+        },
+        "1552111131212311223":{
+            "author_id":"frown",
+            "author_name":"sup",
+            "choices":[
+                "Lake is executed",
+                "Marks cannot do it",
+                "The recon returns with Mimi"
+            ],
+            "content":"<div class=\"\"><div> <span>\"She's even dumber and hornier than all the infected we've encountered so far.\" Marks said as they saw her going to town on a mannequin that looked like a man as she moaned and cooed as she went at it.<br>\r\n<br>\r\n\"Hmm. I like totally theorized this. Its very slim but there's a chance the virus could make them so bimbo like that they're too dumb for words. They just follow their sex crazed instincts.\" Marsha said. \"I don't think there's any hope of saving her. But...\"<br>\r\n<br>\r\n\"But?\" Marks asked.<br>\r\n<br>\r\n\"If we could cut into her brain, it could make it easier to synthasize a cure and free us from this horny nightmare.\" Marsha said.<br>\r\n<br>\r\n\"But...Lake she's...\" Marks said looking at her former compatriot in concern. \"There has to be some hope, right?\"<br>\r\n<br>\r\n\"I'm sorry but when they go totes bimbo, its nearly impossible to get back her brain function.\" Marsha said. \"Putting her out of her misery is usually the best option.\"<br>\r\n<br>\r\nMarks looked at her gun in concern wondering if it was really right to just exterminate her former friend.</span></div></div>",
+            "created":1586062800,
+            "id":2813831,
+            "title":"No hope for Lake"
+        },
+        "15521111312123112233":{
+            "author_id":"arkham0025",
+            "author_name":"DJ",
+            "choices":[
+                "\"...like, your so hot.\" (She's a typical ditzy bimbo).",
+                "\"...um, it's nice to meet you.\" (She's of normal intelligence).",
+                "\"...oh, I KNOW your work, Dr. Smith.\" (She's highly intelligent and dangerous)."
+            ],
+            "content":"<div class=\"\"><div> <span>Marks looked at the completely bimbofied Lake as she continued going to town on the manniquin. Marks felt like there was no way she could kill Lake. They'd been through so much together.<br>\r\n<br>\r\nBefore Marks could really say anything, a guard entered the room.<br>\r\n<br>\r\n\"General Marks, the recon team has returned. They've capture Mimi.\" The guard said.<br>\r\n<br>\r\n\"Awesome!\" Marsha said. \"I, like, wanna meet her as soon as possible.\"<br>\r\n<br>\r\nMarks nodded, and the group left the room. Marks, however, stopped and took one last look at Lake, before leaving the infected woman.<br>\r\n-----<br>\r\nMarsha and Marks entered the facilities holding cells, which had been convereted into quarantine cells. They arrivied at a cell that held who they knew was Mimi.<br>\r\n<br>\r\nMimi was exceptionally tall and beautiful. Her blonde hair reached her lower back, and her piercing green eyes stared at the visitors. Her full red lips were smiling. She had a P cup bust in a pink tube top, a narrow waist and wide hips in a microskirt, and long legs in pink go-go boots.<br>\r\n<br>\r\n\"So, this is Mimi. You think she's Patient Zero?\" Marks asked.<br>\r\n<br>\r\n\"Maybe. If not, we can at least take a blood sample.\" Marsha replied. She then wheeled herself closer to the cell door. \"Hiya, I'm, like, Dr. Marsha Smith. Can you understand me? Is your brain still smarty smart?\"<br>\r\n<br>\r\nMimi smiled and spoke. \"Marsha...\"</span></div></div>",
+            "created":1586062800,
+            "id":2813837,
+            "title":"Mimi"
+        },
+        "155211113121231122333":{
+            "author_id":"frown",
+            "author_name":"sup",
+            "choices":[
+                "An army of infected are marching their way here",
+                "Several drones have targeted us",
+                "The 3 we sent are starting to infect others"
+            ],
+            "content":"<div class=\"\"><div> <span>\"I know your work quite well.\" she smirked.<br>\r\n<br>\r\n\"So you like do still have your brain.\" Marsha said.<br>\r\n<br>\r\n\"And you still have yours...barely.\" Mimi chuckled a bit.<br>\r\n<br>\r\n\"So is she Patient Zero or not?\" Marks asked.<br>\r\n<br>\r\n\"Oh I am much more than patient Zero...I'm the one who created the virus in general.\" Mimi said.<br>\r\n<br>\r\n\"What? But...but why?\" Marsha demanded.<br>\r\n<br>\r\n\"In the beginning, it was all a simple goal...to create a special serum to give woman the perfect figure that would attract any man as well as satisfy their urges.\" Mimi moaned just thinking about it. \"You should have seen that first night. So much went on. Oh it was absolute heaven!\" she said.<br>\r\n<br>\r\n\"You're just a psychopathic pervert who wanted to get laid. That's about as sick as a person can get. Now...is there a cure or not?\" Marks asked.<br>\r\n<br>\r\n\"There will be. Since she admitted she's patient zero, by taking her blood, we can create a cure for everyone she infected.\" Marsha said.<br>\r\n<br>\r\n\"Oh I wouldn't go counting your chickens before they hatch darling.\" Mimi smirked.<br>\r\n<br>\r\n\"Mam! We have a problem!\" a guard said.</span></div></div>",
+            "created":1586062800,
+            "id":2813845,
+            "title":"The Busty Mastermind"
+        },
+        "1552111131212311223333":{
+            "author_id":"arkham0025",
+            "author_name":"DJ",
+            "choices":[
+                "Marks changed physically, but not mentally.",
+                "Marks changed physically, and became just as dumb as Lake.",
+                "Marks... didn't change? Is she immune?"
+            ],
+            "content":"<div class=\"\"><div> <span>\"It's the three we sent. Cane, Matthews, and Vink started infecting the others. They got Kellerman, but Wise escaped.\" The guard said.<br>\r\n<br>\r\n\"WHAT?! But none of them were ditzy like the other infected. They KNEW not to infect anyone!\" Marks yelled.<br>\r\n<br>\r\nMarsha glared at Mimi, who was smirking. \"Like, what did you do to them?\" She asked, furious.<br>\r\n<br>\r\n\"Oh, when they showed up at my penthouse, I used an altered version of my formula to completely turn Vink and Matthews into total ditzes. Couldn't get Cane, but two out of three isn't bad.\" Mimi said. \"By my estimate, the compound will be totally overrun with sex-crazed bimbos in about... oh, 3 hours.\"<br>\r\n<br>\r\n\"DAMMIT!\" Marks yelled. \"Evacuate as many non-infected personal as possible! Dr. Smith, we need to get you out of here!\"<br>\r\n\"What about Mimi's blood sample?\" Marsha asked.<br>\r\n<br>\r\n\"It won't be much help if your brain is completely fried!\" Marks asked.<br>\r\n<br>\r\nMarsha frowned, but followed Marks as they escaped the holding cells.<br>\r\n<br>\r\n\"Let the mayhem begin.\" Mimi said, smirking still.<br>\r\n-----<br>\r\nAs Marsha and Marks ran through the halls, narrowly avoiding infected personal, they ran into Private Cane... literally, in Marsha's case.<br>\r\n<br>\r\n\"WAIT! Like, I'm not like Vink and Matthews!\" Cane yelled, panicking \"I didn't infect anyone! I bolted as soon as Vink kissed a guard! Like, please don't leave me here!\"<br>\r\n<br>\r\nMarks looked at Cane' pleading face, and sighed. \"Fine. But the instant you show signs of getting dumber, we're leaving you.\" She said.<br>\r\n<br>\r\n\"Yay!\" Cane yelled.<br>\r\n<br>\r\nThe three continued to run through the infected halls. Eventually, they got to a truck. Cane and Marks hoisted Marsha into the truck, before entering themselves. Thankfully, the driver wasn't infected, and they escaped the facility.<br>\r\n<br>\r\n\"This is a disaster.\" Marks said. \"We lost a compound and Patient Zero! We've got nothing now!\"<br>\r\n<br>\r\nMarsha was going to say something, but noticed something on Marks exposed leg. A pink lip mark!<br>\r\n<br>\r\n\"Marks, like, I think you got infected!\" Marsha said.<br>\r\n<br>\r\nMarks looked at her leg and panicked. \"NO! NO!\" She yelled.<br>\r\n<br>\r\nThus, during the ride...</span></div></div>",
+            "created":1586062800,
+            "id":2813862,
+            "title":"Lost Compound"
+        },
+        "15521111312123112233333":{
+            "author_id":"frown",
+            "author_name":"sup",
+            "choices":[
+                "They hide in an old lab",
+                "They hide out in the desert",
+                "Another truck chases after them"
+            ],
+            "content":"<div class=\"\"><div> <span>However, during the whole hour they were driving, Marks did not show a single sign of changing as they drove farther and farther out. \"Well...when are the changes supposed to happen? Is it like time released or what?\" Marks asked. <br>\r\n<br>\r\n\"From all the cases, the changes happen the moment the subject is like kissed or had the night of their lives.\" Marsha said. \"If you haven't changed...Cane...kiss her!\" Marsha said.<br>\r\n<br>\r\n\"What? I don't swing like that.\" Cane said.<br>\r\n<br>\r\n\"Just do it. You're as infectious as all of us right now.\" Marsha said.<br>\r\n<br>\r\n\"Fine.\" Cane said kissing Marks right on the lips. Marks spat out the kiss as soon as it happened.<br>\r\n<br>\r\n\"Ew. So sweet it stinks.\" Marks said.<br>\r\n<br>\r\n\"And she didn't change once.\" Marsha said. \"That proves it. You're immune to Bimboitis.\"<br>\r\n<br>\r\n\"What? For real?\" Marks said shocked.<br>\r\n<br>\r\n\"I'm like totally shocked as you. To think there was a woman who was like never gonna get dumb like us. Ugh. You're the key to the cure. We don't need patient zero if we have someone immune.\" Marsha said as they kept driving.</span></div></div>",
+            "created":1586062800,
+            "id":2813869,
+            "title":"A Possible Immunity"
+        },
+        "155211113121231122333331":{
+            "author_id":"arkham0025",
+            "author_name":"DJ",
+            "choices":[
+                "\"...we need a sample of Patient Zero's blood.\"",
+                "\"...we need at least 10 different infected blood samples.\"",
+                "\"...we need equipment this lab doesn't have.\""
+            ],
+            "content":"<div class=\"\"><div> <span>Eventually, the truck stopped at an old lab on the outskirts of the city. Cane and Marks got off the truck, and helped Marsha off as well. Cane went off to look for something Marsha could use to carry her boobs, while the truck driver, a woman around Marsha's age, walked up to them.<br>\r\n<br>\r\n\"Thanks for the lift... Um, what's your name?\" Marsha asked.<br>\r\n<br>\r\n\"Private White.\" White replied. \"I was doing repairs on the truck when I heard the alarm. Got in the truck before any of the infected got in. So, I overheard your conversation. You're really immune, General Marks?\"<br>\r\n<br>\r\n\"Seems so, and thank God for that.\" Marks replied. \"Marsha here still has some of her brain, so with my immunity, we might be able to find a cure for this.\"<br>\r\n<br>\r\nCane returned with a utility cart, and helped ease Marsha's bust into it. With that taken care of, the four entered the lab.<br>\r\n------<br>\r\nThe lab was totally empty, which meant no chance for another outbreak. Once they got set up in the main lab, and confirmed the machinery still worked, Marsha got to work. She took a sample of Marks's blood, and began examineing it. After about a half-hour, Marsha looked up from her work.<br>\r\n<br>\r\n\"So, like, you want the good news, or the bad news?\" Marsha asked.<br>\r\n<br>\r\n\"The good news.\" Marks replied.<br>\r\n<br>\r\n\"Like, we can make a cure with your blood. It won't fix the physical changes, but it can at least stop us from becoming total airheads, and it, like, totes wipes out infectivity.\"<br>\r\n<br>\r\n\"That's great.\" Marks said. \"What's the bad news?\"<br>\r\n<br>\r\nMarsha frowned. \"To make the cure...\"</span></div></div>",
+            "created":1586062800,
+            "id":2813897,
+            "title":"The Old Lab"
+        },
+        "1552111131212311223333311":{
+            "author_id":"frown",
+            "author_name":"sup",
+            "choices":[
+                "Lure her out with Marks",
+                "Offer to give her the cure",
+                "Convince her to let them join her."
+            ],
+            "content":"<div class=\"\"><div> <span>\"I'm sorry but I think I might have misheard you.\" Cane said.<br>\r\n<br>\r\n\"No. I'm totes serious. I need a sample of Mimi's blood in order to make this work.\" Marsha said.<br>\r\n<br>\r\n\"But why? You said Marks blood could be used for a cure.\" Cane said.<br>\r\n<br>\r\n\"It can but in order to make sure for a complete eradication of the virus from the subjects...I'll need a unique strange, er strand from a subject. Specifically...a bimbo who has a hot bod and like all her smarty smarts.\" Marsha said.<br>\r\n<br>\r\n\"So in a sense, we can't save the world without blood from Marsha. Would it be okay to just kill her outright?\" Marks asked.<br>\r\n<br>\r\n\"No arguments about it. She would likely try and repeat all of this again anyway. Totes uncool.\" Marsha said before groaning. \"We'll need to do it fast. I can feel my brain slowly melting away. We need her here now.\"<br>\r\n<br>\r\n\"But how are we going to do that? No way she's going to let us anywhere near the base when she just took it over and made it her penthouse.\" Marks said.<br>\r\n<br>\r\n\"We don't have to go on in...we just need to lure her out.\" Marsha said.</span></div></div>",
+            "created":1586062800,
+            "id":2813912,
+            "title":"The Immune and the Diseased"
+        },
+        "15521111312123112233333113":{
+            "author_id":"arkham0025",
+            "author_name":"DJ",
+            "choices":[
+                "\"...you'll have to try harder then that.\"",
+                "\"...I'm sending someone to get you. I don't fully trust you.\"",
+                "\"...I'll be down shortly.\""
+            ],
+            "content":"<div class=\"\"><div> <span>\"I think I have a totes awesome idea on how to lure out Mimi.\" Marsha said. \"If we, like, convince her that we want to join her in her crusade, we should be able to get close enough to get blood sample. And, like, we won't have to kill anyone.\"<br>\r\n<br>\r\n\"That sounds like a plan.\" Marks said. \"But how do we do that?\"<br>\r\n<br>\r\n\"We just call her, and tell her we changed our minds.\" Marsha said. \"She'll probably come down personally to, like, collect us.\"<br>\r\n<br>\r\n\"Then I can deal with the lunatic myself, get that blood sample, and stop the virus once and for all.\" Marks said.<br>\r\n<br>\r\n\"Correctamundo!\" Marsha yelled, before realizing what she just said. \"Please, like, smack me if I ever say that again.\"<br>\r\n<br>\r\n\"White, you go and hide. I'm immune, but your probably not, so we can't risk you being infected.\" Marks said. White nodded, and ran off. Marks sighed. \"Alright, I'll call the base, and you talk to her.\"<br>\r\n<br>\r\nMarks and Marsha then walked up to a phone on the wall, and picked it up. She dialed the number of the base, and handed the phone. After a few rings, there was an answer.<br>\r\n<br>\r\n\"Mimi speaking.\" Mimi said on the other end.<br>\r\n<br>\r\n\"Mimi? It's, like, Marsha.\" Marsha replied. \"We changed our mind. We think what your doing is totes hot, and we wanna join!\" It was a blatant lie, but she hoped Mimi would buy it.<br>\r\n<br>\r\nThere was silence on the other end, as if Mimi was thinking. Marsha was worried. Mimi was smart, so she might not fall for the lie. Eventually, Mimi finally answered.<br>\r\n<br>\r\n\"Marsha.\" Mimi said \"...\"</span></div></div>",
+            "created":1586062800,
+            "id":2813920,
+            "title":"Pretend to Join"
+        },
+        "155211113121231122333331132":{
+            "author_id":"frown",
+            "author_name":"sup",
+            "choices":[
+                "Kill Mimi",
+                "Stop the transports"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Right...\" Marsha said as they hung up.<br>\r\n<br>\r\nA while later, a bimbo approached the lab before being captured and trapped inside of a makeshift cell.<br>\r\n<br>\r\n\"Well so much for that plan. Guess the virus is affecting my ability to think things through.\" Marsha sighed. \"She's like...never going to come to us now.\"<br>\r\n<br>\r\n\"So we go with the original plan. Luckily...I know how it'll be done.\" Marks said before Cane saw something on TV.<br>\r\n<br>\r\n\"Uh...girls? Like...look at this.\" Cane said as they looked on TV and saw a few bimbos taking away a few planes and landing them near the base as some others were commandeering some boats.<br>\r\n<br>\r\n\"Damn. I was like afraid of this. They're getting ready to like, go viral...I mean global. No viral works too.\" Marsha said. \"If they go global, the world will be one dummy after another and Mimi gets her way.\"<br>\r\n<br>\r\n\"Like I said...we go with the original plan. We blow a hole in her head and get this whole thing over with.\" Marks said.<br>\r\n<br>\r\nMarsha sighed. \"Okay. Options are limited but...we have no choice.\"</span></div></div>",
+            "created":1586062800,
+            "id":2813931,
+            "title":"Failed Trap."
+        },
+        "1552111131212311223333311322":{
+            "author_id":"arkham0025",
+            "author_name":"DJ",
+            "choices":[
+                "...works perfectly. Her mind and speech are normal again.",
+                "...works partially. Her mind is cured, but the speech remains.",
+                "...returns her mind, but causes even more boob growth."
+            ],
+            "content":"<div class=\"\"><div> <span>\"We CANNOT let the infected get out of the US.\" Marsha said. \"We, like, need to find some way to stop them from leaving.\"<br>\r\n<br>\r\n\"Already on that.\" Marks said, as she immediately began dialing a number. \"I've got some friends in high places who aren't infected. Besides, I really doubt they know how to fly planes or use boats. Look at the TV again.\"<br>\r\n<br>\r\nMarsha and Cane did just that. They saw uninfected people being pulled out of the transports. Pilots and boat captains, who were then almost immediately infected, along with anyone unlucky enough to be on the planes or boats.<br>\r\n<br>\r\n\"Oh! Like, duh!\" Marsha said. \"They can't use those transports without someone smart enough to control them. That should buy us about... um...uh... tons of time!\"<br>\r\n<br>\r\n\"Right. I've got some other ideas too.\" Marks said, as she heard someone pick up the phone on the other end. \"Hey, Hicks. It's Marks. Can you get the Air Force to do something for me?\"<br>\r\n------<br>\r\nAbout an hour later, Marsha was hard at work in the lab. Marks had convinced the Air Force, the NAVY, and the general Army to cut off all borders exiting the US to stop the infection. It would take some time, but since very few of the infected could use a plane or boat, they had plenty of time.<br>\r\n<br>\r\n\"Marsha, how's that test cure coming?\" Marks asked.<br>\r\n<br>\r\n\"Totally dunzo!\" Marsha said. \"I can't wipe out the infection, but I can at least stop my mind from totally bimbofying!\"<br>\r\n<br>\r\n\"You're, like, sure it'll work?\" Cane asked.<br>\r\n<br>\r\n\"I hope.\" Marsha said, before injecting the cure into herself.<br>\r\n<br>\r\n\"Dr. Smith!\" Marks yelled.<br>\r\n<br>\r\n\"Chillax.\" Marsha said. \"No better test subject then myself.\" She could feel the cure having an effect on her. The cure...</span></div></div>",
+            "created":1586062800,
+            "id":2813940,
+            "title":"No Exit for the Virus"
+        },
+        "15521111312123112233333113222":{
+            "author_id":"frown",
+            "author_name":"sup",
+            "choices":[
+                "Create a rival queen",
+                "send a kill signal on the wavelength she's using"
+            ],
+            "content":"<div class=\"\"><div> <span>She blinked for a moment before sighing. \"Sweet sweet thoughts. I'm like so glad you're back.\" Marsha sighed. \"While my way of speaking is like still totes messed up.\" she groaned.<br>\r\n<br>\r\n\"At least your brain isn't turning to mush anymore.\" Marks said.<br>\r\n<br>\r\n\"Yes. While not a full cure. It should at least keep me from deteriorating into like a hot girl with a smokin pair on her.\" Marsha said as she groaned. \"This is not going to be totes easy to get used to.\"<br>\r\n<br>\r\n\"Okay. So the army guys have like grounded all the planes and boats and totally captured the infected trying to like take them.\" Cane said.<br>\r\n<br>\r\n\"That's good. Now...next problem...we need to deal with Mimi. She was able to control those bimbos into doing that. No way they were smart enough to know about the rest of the world.\" Marks said.<br>\r\n<br>\r\n\"Unless...hivemind!\" Marsha said. \"Think about it. Bees like have hives. But Mimi is Patient Zero. She could have like, made herself like a queen. She can easily control those she herself has infected.\"<br>\r\n<br>\r\n\"But then its impossible to beat her then.\" Marks said.<br>\r\n<br>\r\n\"Not quite. We can if we...\"</span></div></div>",
+            "created":1586062800,
+            "id":2813953,
+            "title":"Partial Success"
+        },
+        "155211113121231122333331132221":{
+            "author_id":"arkham0025",
+            "author_name":"DJ",
+            "choices":[
+                "\"If you insist.\"",
+                "\"I'm not putting you at risk.\""
+            ],
+            "content":"<div class=\"\"><div> <span>\"A... rival queen?\" Marks asked, confused.<br>\r\n<br>\r\n\"Yeah. If we, like, get the original virus, we can use that to make an new Patient Zero. That should totally confuse the infected.\" Marsha said. \"We get them outta the way, we can get to Mimi no problem.\"<br>\r\n<br>\r\n\"That sounds like a good plan, but we have three problems.\" Marks said. \"One, we don't know where Mimi made the original virus. Two, we don't even know if using the originl virus will have that effect. And three, who the hell are we gonna use as a rival queen?\"<br>\r\n<br>\r\n\"Well, I just stopped my mind from going all mushy, so I'm out. And you're immune Marks, so you're a no-go. That leaves Cane, or White.\" Marsha said.<br>\r\n<br>\r\nIt was at that moment White returned to the room. She had heard most of the conversation.<br>\r\n<br>\r\n\"I'll do it.\" White said. \"I'm willing to sacrifice myself for the good of the world.\"<br>\r\n<br>\r\n\"You're not dying, babe.\" Marsha said. \"You're just gonna turn into a total hottie with a bangin' bod.\"<br>\r\n<br>\r\n\"...right.\" White replied, not sure how to react to that.<br>\r\n<br>\r\n\"OK, we got a potential queen. We still need that original virus.\" Marks said. \"You think it might be in the original penthouse, or with Mimi herself?\"<br>\r\n<br>\r\n\"Well, Mimi already infected herself, so she, like, probably didn't need it anymore.\" Marsha said. \"So it's probably in her old penthouse.\"<br>\r\n<br>\r\n\"Right, I'll go there and look for it, since I'm immune.\" Marks replied.<br>\r\n<br>\r\n\"Wait, I'm coming too.\" Marsha said. \"I wanna study how she originally made the virus!\"<br>\r\n<br>\r\nMarks looked at Marsha, and replied with...</span></div></div>",
+            "created":1586062800,
+            "id":2813959,
+            "title":"Rival Queen Bee"
+        },
+        "1552111131212311223333311322211":{
+            "author_id":"frown",
+            "author_name":"sup",
+            "choices":[
+                "Found a formula sheet",
+                "Found a tape containing Mimi's logs",
+                "found a beaker with a small amount of the original virus"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Fine but stay close. We have no idea what we might encounter.\" Marks said as the two of them headed out.<br>\r\n<br>\r\nIt wasn't too long before they returned to the pent house in the city and found it completely barren. \"Looks like our queen bee is like totally gone.\" Marsha said.<br>\r\n<br>\r\n\"Probably ditched the place the moment she took over our base. Though seems she lived in quite the luxury.\" Marks said. \"But this place looks normal. No sign of a lab anywhere.\"<br>\r\n<br>\r\n\"Not necessarily. We thinky girls...I mean scientists. We tend to work in secret. Its not like, gonna be exposed like my boobies. She'd like have it hidden...right here.\" Marsha said tilting a painting as a doorway opened up in the wall.<br>\r\n<br>\r\nThey headed down the stairs before finding an entire lab set up in what appeared to be a secret subterranean lair.<br>\r\n<br>\r\n\"Wow...talk about going all out with the classics.\" Marks said looking around.<br>\r\n<br>\r\n\"Hmm...some of these are like, totally covered in dust.\" Marsha said before noticing something in the trash. She looked in and...</span></div></div>",
+            "created":1586062800,
+            "id":2813976,
+            "title":"The Bimbo and the Soldier"
+        },
+        "15521111312123112233333113222112":{
+            "author_id":"arkham0025",
+            "author_name":"DJ",
+            "choices":[
+                "\"...see if the lab has a secret passage.\"",
+                "\"...try to escape through the next building.\"",
+                "\"...hide you in my cleavage, and I'll pretend to be fully turned.\""
+            ],
+            "content":"<div class=\"\"><div> <span>\"Hey, look at this.\" Marsha said, pulling out what looked like a box of cassett tapes. \"Maybe these'll tell us about Mimi.\"<br>\r\n<br>\r\nMarks looked around the room, and found a cassett player. She and Marsha walked over to the player. Marsha opened the box of tapes. There were only 3 inside, each with a date on it. Marks took the earliest labeled tape, placed it in the player, and hit play. Instantly, the tape starting playing.<br>\r\n<br>\r\n'These are the research notes of Doctor Miriam Whickland. I've been working on a formula that will hopefully revolutionize the cosmetics market. This formula will allow women to reshape their bodies into any shape, giving them the dream body they alway wanted. With this, I can hopefully cut down on dangerous surgeries, and help women look their best.'<br>\r\n<br>\r\n\"So, Mimi- er, Miriam, was lying about her original intentions?\" Marks asked. \"Why?\"<br>\r\n<br>\r\n\"Maybe the next tape'll tell us.\" Marsha said, taken the next tape out of the box. She ejected the first tape, placed the second in, and hit play.<br>\r\n<br>\r\n'The formula. Something's... wrong with it. It reshapes bodies, yes, but it forcibly changes the body into a hyper-sexualized one. Not only that, but it causes sever mental decay, and increases sexual urges to insane levels. This is... fascinating. I'm going to work more on the formula, see if I can fix these issues.'<br>\r\n<br>\r\n\"So the whole turning into a sex-crazed bimbo was an accident?\" Marks asked, now concerned.<br>\r\n<br>\r\nMarsha took the latest tape out, ejected the second tape, put the latest one in, and hit play.<br>\r\n<br>\r\n'This is Miriam... no, this is Mimi. I injected myself with the formula. I look absolutely gorgeous, and I'm still a genius. I think I'm going to enjoy this. I'm going to invite some friends over to show off the new me, and hopefully have a night of fun.'<br>\r\n<br>\r\n\"Well, we know where Mimi came from now.\" Marks said. \"But where's the formula?\"<br>\r\n<br>\r\nMarsha looked around, and saw a book on the nearby table. Going over to it, she opened it and saw the formula.<br>\r\n<br>\r\n\"Right here!\" Marsha said. \"Let's get going!\" She then stuffed the book into her 4 foot cleavage, and both she and Marks exited the lab and re-entered the penthouse.<br>\r\n<br>\r\nAs they did, Marks looked out the window, and became worried.<br>\r\n<br>\r\n\"Um, Marsha, we have a problem.\" Marks said, pointing out the window. They were several floors up, but on the ground Marks could see an entire horde of infected. They likely weren't being controlled by Mimi, but it was still a problem.<br>\r\n<br>\r\n\"Crap!\" Marsha yelled. \"We, like, can't go in that horde. I might get infected again, and turn into a total airhead!\" She then thought for a moment. \"I have a plan. Let's...\"</span></div></div>",
+            "created":1586062800,
+            "id":2813986,
+            "title":"Dr. Miriam Whickland"
+        },
+        "155211113121231122333331132221122":{
+            "author_id":"frown",
+            "author_name":"sup",
+            "choices":[
+                "They create the serum and help arrives",
+                "They create the serum but Mimi arrives with her army"
+            ],
+            "content":"<div class=\"\"><div> <span>\"What? Is that even possible given your...\" Marks said.<br>\r\n<br>\r\n\"It'll be fine. The roof is right next to an office building. Those are made of glass. If you ride on my breasts, we can like, glide like a birdie.\" Marsha said.<br>\r\n<br>\r\n\"But won't we get cut up by millions of glass shards?\" Marks asked.<br>\r\n<br>\r\n\"We will get a few cuts and scrapes but the only way to access is like, with the magic box, I mean elevator.\" Marsha said. \"Just ride and be ready to like...jump with it.\" she giggled.<br>\r\n<br>\r\nThe two of them headed up to the roof as they got the cart in position. Marks climbed up on top of Marsha's breasts as the two of them charged at the window at high speed, leading right off the building and through the window, shattering it into a million pieces as they crash landed right in the middle of a work station. \"Thank god the city was blocked off.\" Marks said.<br>\r\n<br>\r\n\"Okay we should like be totally safe up here until I can like make the bimbo juice. Ugh. Serum! God I hate my voice now.\" Marsha said as she headed over to the break room to work with what they had.</span></div></div>",
+            "created":1586062800,
+            "id":2814023,
+            "title":"Bimbo Skating"
+        }
+    },
+    "info":{
+        "author_id":"frown",
+        "author_name":"sup",
+        "brief_description":"A brand new epidemic sweeps across the world and how it reacts all depends on you.",
+        "created":1304828640,
+        "description":"<td align=\"left\" class=\"norm\">A brand new virus has just been released into the world and its about to cause a lot of strange things to happen. How will you handle it? Will you be a doctor trying to cure the disease, some bystander trying to survive, or one of the infected trying to spread the virus as far as they can. You decide.<br>\r\n<br>\r\nRules:<br>\r\n<br>\r\nYou can only use one virus per path.<br>\r\n<br>\r\nA minimum of 1000 characters per addition.<br>\r\n<br>\r\nAnd...I think thats it for now so...have fun.</td>",
+        "id":1774607,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "modified":1586148300,
+        "pretty_title":"Plagues: A TF Virus Interactive"
+    }
+}

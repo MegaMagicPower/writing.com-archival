@@ -1,0 +1,728 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"dipe",
+            "author_name":"einstein",
+            "choices":[
+                "A family man!",
+                "A male student!",
+                "A female student!",
+                "More!",
+                "Original German Version (by Kafoll)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>In this story, someone invents a device that can transform you freely!<br>\r\nWho made it?</span></div></span></div>",
+            "created":1380258000,
+            "id":1670788,
+            "title":"One Day..."
+        },
+        "11":{
+            "author_id":"dipe",
+            "author_name":"einstein",
+            "choices":[
+                "Large Transformation Machine (approximate translation)",
+                "A smartphone-like device",
+                "Transformation train (aprroximate translation)",
+                "The Transformation Generator",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So, in this story, a father invents a transformation device!  What is it?</span></div></span></div>",
+            "created":1380258000,
+            "id":1670798,
+            "title":"A Family Man!"
+        },
+        "111":{
+            "author_id":"dipe",
+            "author_name":"einstein",
+            "choices":[
+                "The first transformation did not quite go according to plan...",
+                "He is testing the invention with...",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>Mark was a father and inventor.  He had recently completed his latest invention, the Transformation Machine!<br>\r\n<br>\r\n<a rel=\"nofollow\" href=\"http://s10.postimg.org/n16rep9tl/34gnej4.jpg\" target=\"_blank\">http://s10.postimg.org/n16rep9tl/34gnej4...</a><br>\r\n<br>\r\nWith this machine he could convert matter into new forms.  However, he had to capture and save the form with a scanner that reached a third of a mile, or 500 meters, away.</span></div></div>",
+            "created":1380258000,
+            "id":1670800,
+            "title":"Large Transformation Machine!"
+        },
+        "1111":{
+            "author_id":"dipe",
+            "author_name":"einstein",
+            "choices":[
+                "Yes!",
+                "No!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The first transformation didn't quite go according to plan, because...<br>\r\nHe now looks like this?<br>\r\n<a rel=\"nofollow\" href=\"http://s13.postimg.org/55ovjr1vr/redirect_php.jpg\" target=\"_blank\">http://s13.postimg.org/55ovjr1vr/redirec...</a></span></div></span></div>",
+            "created":1380344400,
+            "id":1671298,
+            "title":"Oops..."
+        },
+        "11111":{
+            "author_id":"dipe",
+            "author_name":"einstein",
+            "choices":[
+                "Worse still:  The machine is broken!",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>Mark it could still not believe it!  The machine really worked, though not quite as he imagined.<br>\r\n<br>\r\n10 minutes ago he started a risky experiment.  Then, he climbed into the machine, wanting to turn into a doppelganger of his son.<br>\r\nHowever, while the scanner of the machine probably captures the shape of a bystander on the street - and has turned him into a duplicate of this woman!<br>\r\n<br>\r\n<a rel=\"nofollow\" href=\"http://s8.postimg.org/5002tz6np/redirect_php.jpg\" target=\"_blank\">http://s8.postimg.org/5002tz6np/redirect...</a><br>\r\n<br>\r\n<br>\r\nOriginal chapter:  Kafoll</span></div></div>",
+            "created":1382763600,
+            "id":1684516,
+            "title":"Yes!"
+        },
+        "111111":{
+            "author_id":"dipe",
+            "author_name":"einstein",
+            "choices":[
+                "...his male voice!",
+                "...a woman's voice!"
+            ],
+            "content":"<div class=\"\"><div> <span>Worse still:  The machine was broken!  An important part of the flux-capacitor was blown!  Without it, the machine couldn't transform anything or anyone anymore!<br>\r\n<br>\r\nMark now felt feverish, so he called to order a spare part from Japan.  \"Konnichiwa!\"<br>\r\n\"Hello, you speak English?\" asked Mark on the phone - in...<br>\r\n<br>\r\n<br>\r\nOriginal:  Kafoll</span></div></div>",
+            "created":1382763600,
+            "id":1684529,
+            "title":"Worse still:  The machine is broken!"
+        },
+        "1111112":{
+            "author_id":"dipe",
+            "author_name":"einstein",
+            "choices":[
+                "The part is no longer in stock",
+                "Shipping will take around 8 weeks"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>...and the answer came through:<br>\r\n<br>\r\n<br>\r\nOriginal:  rosenheimer</span></div></span></div>",
+            "created":1382763600,
+            "id":1684530,
+            "title":"...a woman's voice!"
+        },
+        "11111121":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "yes",
+                "no"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>but can it be reordered</span></div></span></div>",
+            "created":1431493200,
+            "id":1977560,
+            "title":"The part is no longer in stock"
+        },
+        "111111211":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "continue",
+                "continue"
+            ],
+            "content":"<div class=\"\"><div> <span>They spoke English and Mark could explain what happened and share some technical details.<br>\r\nAfter some moments they found out which part needs to be reordered, but it will have huge costs and will take up to 3 month to be ready and shipped.<br>\r\nSince Mark had no other choice he placed the order.<br>\r\n</span></div></div>",
+            "created":1571634000,
+            "id":2736171,
+            "title":"place a reorder"
+        },
+        "1111112111":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "find something",
+                "fail"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>But what to do these 3 month wherein was no option to change back. How could Mark explain this to his wife?</span></div></span></div>",
+            "created":1571720400,
+            "id":2736740,
+            "title":"what to do for such a long time"
+        },
+        "11112":{
+            "author_id":"norman33",
+            "author_name":"Norman33",
+            "choices":[
+                "yes",
+                "no"
+            ],
+            "content":"<div class=\"\"><div> <span>Mark it could still not believe it! The machine really worked, though not quite as he imagined.<br>\r\n<br>\r\n 10 minutes ago he started a risky experiment. Then, he climbed into the machine, wanting to turn into a doppelganger of his son. He had locked onto what he thought was his son. Unknown to him until he transformed as that his son had his girlfriend over. Mark now has become his son's girlfriend.<br>\r\n<br>\r\n Does she look like this?<br>\r\n<br>\r\n<a rel=\"nofollow\" href=\"http://dickpound.com/wp-content/uploads/2013/02/photo-Asian-Big-Tits-836263795.jpg\" target=\"_blank\">http://dickpound.com/wp-content/uploads/...</a></span></div></div>",
+            "created":1431406800,
+            "id":1977250,
+            "title":"No!"
+        },
+        "111121":{
+            "author_id":"norman33",
+            "author_name":"Norman33",
+            "choices":[
+                "The machine starts right up",
+                "The machine trips the power off"
+            ],
+            "content":"<div class=\"\"><div> <span>\"What the fuck\", Mark exclaims! Staring at her new breasts. Mark recognizes her new voice as belonging to her sons girlfriend, Sujan. What's even worse is that she's naked. The machine should have reproduced everything to included clothing. The only answer is that the real Sujan isn't wearing anything. She quickly deduces what her son is up to. \"Damn it, she mutters. Mark takes note to include a visual and DNA scanner before testing the machine gain. She had planned on including these before testing the machine, but became impatient. The parts were backordered until next week. She sits at the machine to start the reversal process. She has to adjust the chair on the account of her new stature. </span></div></div>",
+            "created":1431406800,
+            "id":1977252,
+            "title":"yes"
+        },
+        "1111212":{
+            "author_id":"norman33",
+            "author_name":"Norman33",
+            "choices":[
+                "No one else is there",
+                "She bumps into someone"
+            ],
+            "content":"<div class=\"\"><div> <span>As soon as she hits the on button the light flickers off. \"Damn\", Mark mutters. The breaker panel is upstairs. It's a design that Mark has not been happy with. She has had to make several trips upstairs since working on this project. The homes electrical systems have been a constant problem. Mark begins ascending the stairs cursing her short Sujan legs and large Sujan breasts. \"Women's bodies are poorly designed\", Mark mutters. The novelty of having a female body is lost on her. Other men would be still in the basement playing with their selves. Wandering through a dark house naked doesn't even bother her. The only other people in the house is her son and girlfriend. She makes her way to the laundry room where the panel is.  </span></div></div>",
+            "created":1431406800,
+            "id":1977258,
+            "title":"The machine trips the power off"
+        },
+        "11112122":{
+            "author_id":"norman33",
+            "author_name":"Norman33",
+            "choices":[
+                "She pushes him off",
+                "She goes with it overcome by teenage hormones"
+            ],
+            "content":"<div class=\"\"><div> <span>\"There we go\", Mark says to herself while flipping the main breaker back on. She turns and bumps right into the smiling face of her son. \"Jeff\", she says startled? Jeff smiles and grabs her by the waist, pulling her close. \"Babe, I told you to wait upstairs while I grabbed the condoms\", Jeff says. Mark stands there shocked for a minute and then reasons it out. He had only picked up one life form in Jeff's room because Jeff was getting condoms. He left Sujan alone. \"Ah, the power went off and I came down to turn the breaker back on\", Mark replies quickly. Jeff attempts a kiss. Mark goes with it not wanting to tip Jeff off that something is wrong. \"Oh gawd\", Mark thinks as Jeff grabs his ass. She can feel Jeff's erection pressing into her. Jeff finally pulls back and says, \"I don't know if I can wait to have you. Why don't we do it right here?\" Mark barely keeps from screaming in response. If he agrees to go up stairs he'll see her and the real Sujan together. If he agrees to stay here, well that creates all kinds of problems. Her young teenage body is already reacting in a way she's not comfortable with. She feels a wetness growing between her legs and her nipples are as hard as rocks. Jeff doesn't wait for an answer, going right for her breasts. \"Oh shit\", Mark thinks. Jeff goes for another kiss and his fingers wander down between her legs. </span></div></div>",
+            "created":1431406800,
+            "id":1977267,
+            "title":"She bumps into someone"
+        },
+        "111121222":{
+            "author_id":"norman33",
+            "author_name":"Norman33",
+            "choices":[
+                "She cums",
+                "He cums"
+            ],
+            "content":"<div class=\"\"><div> <span>Mark is appalled, but very turned on at the same time. There doesn't seem to be a way to avoid this. Jeff is very persistent. The real Sujan may also come looking for him. That is also not a good thing. Mark doesn't really have time to think of an alternative plan. Good thing Jeff is a teenage boy, that doesn't believe in foreplay. He slides a condom onto his cock and then even more eagerly slides his cock into Mark's wet Asian pussy. \"Oh fuck\", Mark exclaims shocked by the feeling of having Jeff's pulsating cock in her. Jeff clumsily fondles her breasts and sucks her nipples. What he lacks in experience he more than makes up with in shear size. To Mark it feels like Jeff is parking a truck between her legs.</span></div></div>",
+            "created":1431406800,
+            "id":1977270,
+            "title":"She goes with it overcome by teenage hormones"
+        },
+        "1111212222":{
+            "author_id":"norman33",
+            "author_name":"Norman33",
+            "choices":[
+                "She climaxes",
+                "Jeff pulls out done"
+            ],
+            "content":"<div class=\"\"><div> <span>Jeff's expression changes and his cock goes from pulsating to throbbing. \"He's cumin, he's cumin inside me\", Mark thinks to herself. She then remembers to condom with some relief. He thrusts into her harder, pushing her near the edge. Mark's mind numbs as she feels her first orgasm as a woman coming.</span></div></div>",
+            "created":1431406800,
+            "id":1977274,
+            "title":"He cums"
+        },
+        "11112122222":{
+            "author_id":"norman33",
+            "author_name":"Norman33",
+            "choices":[
+                "Neighbor's wife",
+                "Carrie"
+            ],
+            "content":"<div class=\"\"><div> <span>Mark squeezes her thighs instinctively wanting to experience her own orgasm. Jeff's cock begins to go flaccid and he pulls out leaving Mark wanting. \"I haven't cum yet\", she gasps! Part of her is disgusted and appalled by what she has just done, but another part of her wants this experience. She tries to rationalize it as teenage hormones. She's not thinking straight, but it doesn't change the fact that the body she now has needs satisfying. \"Sorry, I'll be ready again in a few minutes\", Jeff says apologetically. Mark sees her out. \"I'll see you in the bedroom. Get me something to drink and meet me there. We'll pretend this didn't happen\", she states reluctantly. \"Ok, babe\", Jeff replies. Mark watches as Jeff turns and heads for the kitchen. She tries to bury the aching need to be filled as she watches him walk away. \"I need to get out of this body\", she mutters as she heads back to the basement.<br>\r\n<br>\r\n The memory of Jeff fucking her is the only thing on her mind as she descends the stairs. Mark has always been rational. He has rarely explored his sexuality. It's amazing he had children at all. Then again his wife was always the aggressor in bed. Now after the experience she just had all she can think about is sex. She regrets not staring there and letting Jeff finish her off. It is irrational of course. The real Sujan would have probably come looking for him soon. Mark gropes her own breasts as she sits in front of the machine again. She can smell her own feminine juices as the cooling fans from the computers blast under the desk. \"I should change back right now before\", she says to herself. Despite her trying to rationalize her way out of it she slides her fingers between her legs and starts rubbing her clit. She begins panting and remembering what Jeff's cock felt like in there. \"Yes, yes\", she moans as she fingers herself. She starts panting and her mind numbs as it did earlier. She feels it coming and starts twisting her stiff nipples on top of her massive breasts with her free hand. It then hits like a wave. Wave after of wave of pure ecstasy washes over her. Each wave greater than the one before. Mark feels as if she'll pass out just as the start to ebb. \"That was amazing\", she moans feeling like jello. Her body continues to experience little aftershocks of ecstasy. <br>\r\n<br>\r\n   Mark's little self pleasuring took the edge off, but she would still like to experience the real thing. His son's girlfriend's body is not the best choice. He thinks about the neighbors house. His wife just drove off to work. She works within range of the generator. \"She could come home early\", Mark muses. Mark attempts to demise the thought, it is insane. The rational choice would be to change back and wait till Carrie (Mark's wife) comes home. He could explain it to her and see if she would like to experiment. She has an incredible body. She works out and is great shape. What nature didn't her was breasts, but a doctor fixed that years ago. Truth be told she did it to get Mark to notice her. Until now it hasn't worked. Now Mark is thinking about swapping bodies with his wife and letting her have her way with him. The thought of having her body with her huge firm fake breasts turns her on.</span></div></div>",
+            "created":1431406800,
+            "id":1977275,
+            "title":"Jeff pulls out done"
+        },
+        "111121222221":{
+            "author_id":"kabaa2978",
+            "author_name":"kabaa",
+            "choices":[
+                "Make the change and go straight to her house",
+                "Do you change your mind or think this through more",
+                "Oops, in your haste you swapped with either her daughter or husband"
+            ],
+            "content":"<div class=\"\"><div> <span>Jennifer, that was the neighbors wife, Jennifer Schlage. She worries a few blocks away at a local real estate firm. You had seen her leave this morning a couple hours ago, which meant that if she (you) came home early you\u2019d have at least a couple hours alone before she would actually be done working for the day. <br>\r\n<br>\r\nEven though you had just orgasmed from fingering yourself you couldn\u2019t help feeling denied the true pleasure of being fucked and even just running through the possibility in your head of using her body to seduce her husband kept your fire burning. <br>\r\n<br>\r\nYou had been to plenty of neighborhood functions and bbqs that she\u2019s been at and seen her here and there around town. She was an attractive woman, not a model but a fine wine. She had a lightly tanned skin tone, just dark enough you imagine she\u2019d have lightly visible tan lines. She had wavy auburn hair, light blue eyes, high cheek bones and an inviting smile. She was fit but had some weather from age, nothing flabby or loose, just some very minor age appropriate wrinkles and some very cute freckling. It was a perfect body for all the sharp women\u2019s suits and sundresses she wore. <br>\r\n<br>\r\nYou found yourself rubbing your push again just thinking s out it now. It was a foregone conclusion at this point. You practically run to the machine to make yourself her.  </span></div></div>",
+            "created":1571634000,
+            "id":2736162,
+            "title":"Neighbor's wife"
+        },
+        "1111212222211":{
+            "author_id":"kabaa2978",
+            "author_name":"kabaa",
+            "choices":[
+                "It went perfectly",
+                "The breaker tripped before 100% done",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>Thankfully Jennifer worked just close enough Mark could scan her. Once he had locked everything in he acrivated the machine. Once it was done the breaker tripped again but in the dark Mark was able to get back to the breaker to flip it on and get the lights back on. <br>\r\n<br>\r\nWhen the power was back and he could assess things he saw that...</span></div></div>",
+            "created":1571634000,
+            "id":2736169,
+            "title":"Make the change and go straight to her house"
+        },
+        "1111212222213":{
+            "author_id":"kabaa2978",
+            "author_name":"kabaa",
+            "choices":[
+                "Paul",
+                "Samantha",
+                "Different option"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was it her husband, Paul?<br>\r\n<br>\r\nOr her daughter Samantha?</span></div></span></div>",
+            "created":1572757200,
+            "id":2741858,
+            "title":"Oops, in your haste you swapped with either her..."
+        },
+        "11112122222131":{
+            "author_id":"kabaa2978",
+            "author_name":"kabaa",
+            "choices":[
+                "Go to their house and snoop",
+                "Go about the day as Paul",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>You hurried over to the machine and turned it on while making the necessary adjustments to focus in on her as the target. You then activated the machine, initiating the change. as you felt the change begin you felt your body retching and changing until the process was complete.<br>\r\n<br>\r\nWhen you looked down to inspect Jennifer's mature body you were surprised to find that you were still male! You couldn't figure out what had happened and why you hadn't changed. \"What the hell?!\" you uttered in disappointment, only to startle yourself as a different voice left your lips! you hurried over to the mirror to find you hand somehow changed into the body of Jennifer's husband, Paul!<br>\r\n<br>\r\nHow had this happened? Why were you Paul and not Jennifer as intended? \"Oh well\" you said, \"I can just reset the machine and try again.\" Unfortunately the power had gone out again you needed to go reset it. Just after you flipped the breakers and were ready to go try again your son once again came into the garage, he saw you and said \"Mr. Sclage? what are you doing in our garage?\" caught off guard you stammered for a second and then replied \"Oh hey Bud, your dad said i could borrow a tool of his I needed. I was just putting it back and the power went out.\" <br>\r\n<br>\r\nYour son said it was the second time today the power had gone out, and then walked you to the door and locked it on your way out! Since you had swapped you didn't house keys in your pocket for your own garage! You parted ways heading towards the Schlage's house.<br>\r\n<br>\r\nWhat were you going to do now while you couldn't get back to the machine and appeared to be your neighbor's husband, Paul Schlage?<br>\r\n</span></div></div>",
+            "created":1574226000,
+            "id":2749149,
+            "title":"Paul"
+        },
+        "11112122222132":{
+            "author_id":"kabaa2978",
+            "author_name":"kabaa",
+            "choices":[
+                "The device appears to be broken",
+                "Be Samantha for now",
+                "Try again to become Jennifer"
+            ],
+            "content":"<div class=\"\"><div> <span>You initiated the process of the machine and the transformation started. You could feel the intense pain of the changing size and shapes of your bones and stretching and shrinking of your musculature. It was intense and felt like a long time but was in fact mere seconds. Then the process was complete.<br>\r\n<br>\r\nYou looked down at yourself and your view was obstructed by breasts, but only slightly. \u201cThat\u2019s strange\u201d you thought, Jennifer had bigger tits than that \u201cMust be the angle\u201d you said aloud and We\u2019re surprised at your new feminine voice. You were even more surprised that it wasn\u2019t the mature voice of Your neighbor, Jennifer. You darted to the mirror to see who you had become and weren\u2019t totally disappointed to find you had become her daughter, Samantha.<br>\r\n<br>\r\nHow had that happened you swore you had all the correct parameters to make the change. Did something go totally wrong or did you screw up somehow. And what were you going to do now, use this opportunity or try again?</span></div></div>",
+            "created":1574226000,
+            "id":2749411,
+            "title":"Samantha"
+        },
+        "1112":{
+            "author_id":"dipe",
+            "author_name":"einstein",
+            "choices":[
+                "Trying it out on himself",
+                "Testing it on a family member",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>He decided to test his invention by...</span></div></span></div>",
+            "created":1380344400,
+            "id":1671303,
+            "title":"He is testing the invention with..."
+        },
+        "11123":{
+            "author_id":"kafoll",
+            "author_name":"Kafoll",
+            "choices":[
+                "... a homeless bum from the street.",
+                "Somebody else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>He decided to test his invention on...</span></div></span></div>",
+            "created":1380776400,
+            "id":1673523,
+            "title":"Something else"
+        },
+        "111231":{
+            "author_id":"kafoll",
+            "author_name":"Kafoll",
+            "choices":[
+                "Yes!",
+                "No!"
+            ],
+            "content":"<div class=\"\"><div> <span>For the first test, he decided to take no risk! Just imagine what would happen if he or a family member was stuck in the transformed body, or worse!<br>\r\nSo he decided to test it on a bum from the street!<br>\r\n<br>\r\nHe quickly found a \"volunteer\"! All he needed to do was to wave a 20 dollar bill ...<br>\r\nAs the foul-smelling, scruffy, big bum disappeared in the chamber Mark chose a figure from the database, which he had obtained by scanning pedestrians in the vicinity of his home ...<br>\r\n<br>\r\nDid he use her shape?<br>\r\n<a rel=\"nofollow\" href=\"http://s14.postimg.org/h111u4c3l/image.jpg\" target=\"_blank\">http://s14.postimg.org/h111u4c3l/image.j...</a> </span></div></div>",
+            "created":1380776400,
+            "id":1673524,
+            "title":"... a homeless bum from the street."
+        },
+        "1112312":{
+            "author_id":null,
+            "author_name":null,
+            "choices":[
+                "Yes?",
+                "No?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Mark noticed the bums clothes have gone and standing there instead of <a rel=\"nofollow\" href=\"http://img5.visualizeus.com/thumbs/89/67/homeless,man,old-8967028df8d0f1ccc7b9e8b2c9d2593a_h.jpg\" target=\"_blank\">http://img5.visualizeus.com/thumbs/89/67...</a> was <a rel=\"nofollow\" href=\"http://babes.pinkems.com/pics/18-years-old-erin-taylor.jpg.\" target=\"_blank\">http://babes.pinkems.com/pics/18-years-o...</a><br>\r\n<br>\r\n<br>\r\ndid the bum change into this?</span></div></span></div>",
+            "created":1432530000,
+            "id":1982768,
+            "title":"No!"
+        },
+        "1113":{
+            "author_id":"dipe",
+            "author_name":"einstein",
+            "choices":[
+                "He is transformed regularly into...",
+                "Something else",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What happened?</span></div></span></div>",
+            "created":1380344400,
+            "id":1671306,
+            "title":"Something else"
+        },
+        "11131":{
+            "author_id":"kafoll",
+            "author_name":"Kafoll",
+            "choices":[
+                "Persons!",
+                "Objects!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Using the device, he transforms regularly into...</span></div></span></div>",
+            "created":1380776400,
+            "id":1673507,
+            "title":"He transforms regularly into..."
+        },
+        "111311":{
+            "author_id":"kafoll",
+            "author_name":"Kafoll",
+            "choices":[
+                "Yes!",
+                "No!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>He transforms regularly into a prostitute named Susan?<br>\r\n<a rel=\"nofollow\" href=\"https://imageshack.us/a/img526/7629/hk1om.jpg\" target=\"_blank\">https://imageshack.us/a/img526/7629/hk1o...</a></span></div></span></div>",
+            "created":1380776400,
+            "id":1673508,
+            "title":"Persons!"
+        },
+        "1113111":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "yes",
+                "no"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>does he follow her profession?</span></div></span></div>",
+            "created":1381294800,
+            "id":1676469,
+            "title":"Yes!"
+        },
+        "1113112":{
+            "author_id":"kafoll",
+            "author_name":"Kafoll",
+            "choices":[
+                "Yes!",
+                "No!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Into a student called Tina?<br>\r\n<a rel=\"nofollow\" href=\"https://imageshack.us/a/img803/2886/hck1.jpg\" target=\"_blank\">https://imageshack.us/a/img803/2886/hck1...</a></span></div></span></div>",
+            "created":1380776400,
+            "id":1673509,
+            "title":"Student Tina?"
+        },
+        "11131122":{
+            "author_id":"kafoll",
+            "author_name":"Kafoll",
+            "choices":[
+                "Yes!",
+                "No!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Or into his own son's girlfriend?<br>\r\n<a rel=\"nofollow\" href=\"http://s15.postimg.org/lwynye8ez/image.jpg\" target=\"_blank\">http://s15.postimg.org/lwynye8ez/image.j...</a></span></div></span></div>",
+            "created":1380776400,
+            "id":1673510,
+            "title":"His own son's girlfriend?"
+        },
+        "111311221":{
+            "author_id":"kafoll",
+            "author_name":"Kafoll",
+            "choices":[
+                "Yes!",
+                "No!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was his son aware of the fact who his girlfriend really is?</span></div></span></div>",
+            "created":1381035600,
+            "id":1674988,
+            "title":"Father as girlfriend!"
+        },
+        "1113112211":{
+            "author_id":"kafoll",
+            "author_name":"Kafoll",
+            "choices":[
+                "... his voice did not change!",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Of course his son knew who his girlfriend really was! Mark could not hide it because...</span></div></span></div>",
+            "created":1381035600,
+            "id":1674989,
+            "title":"Dad's my girlfriend :O"
+        },
+        "11131122111":{
+            "author_id":"kafoll",
+            "author_name":"Kafoll",
+            "choices":[
+                "Yes!",
+                "No!"
+            ],
+            "content":"<div class=\"\"><div> <span>Mark could not hide it because his voice did not change with the transformation!<br>\r\n<br>\r\nAnd so, one day Martin's father in the form of Marie stood naked in front of his bed ...<br>\r\n<br>\r\n<a rel=\"nofollow\" href=\"http://s22.postimg.org/86cuc6l3z/image.jpg\" target=\"_blank\">http://s22.postimg.org/86cuc6l3z/image.j...</a><br>\r\n<br>\r\n\"Son, do you want to do it with me now, yes or no?\".</span></div></div>",
+            "created":1381035600,
+            "id":1674990,
+            "title":"... his voice did not change!"
+        },
+        "111311221112":{
+            "author_id":"kafoll",
+            "author_name":"Kafoll",
+            "choices":[
+                "He's turned off by her voice and the fact she was his dad!",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>But his son Martin did not want to do her! \"Sorry Dad, I... I can't!\".</span></div></span></div>",
+            "created":1381035600,
+            "id":1674993,
+            "title":"No!"
+        },
+        "11131122112":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "his som is gay",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>they had an agreement, because </span></div></span></div>",
+            "created":1571634000,
+            "id":2736170,
+            "title":"agrement"
+        },
+        "1113112212":{
+            "author_id":"kabaa2978",
+            "author_name":"kabaa",
+            "choices":[
+                "The plan works but both seem to start catching feelings",
+                "Temptation",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>No, not at first. When the change occurred the two weren\u2019t together so his son Steven couldn\u2019t have noticed. And Mark couldn\u2019t fix it right away since not only did the breaker trip it actually blew and would need to be replaced. After doing all he could he decided to go into the house appearing to completely be Steven\u2019s girlfriend April. <br>\r\n<br>\r\nHe got himself a glass of water and threw some peanut butter on a slice of bread to eat since he\u2019d been out a while. Just then Steven came into the kitchen and was surprised to see \u201cApril\u201d there. Steven said \u201cHey babe, what are you doing here?! Why didn\u2019t you tell me you were coming over?\u201d <br>\r\n<br>\r\nMark looked up and said \u201cOh, hey kiddo!\u201d stopping Steven in his tracks just as he was pressing his lips to \u201chers\u201d. Mark them piped up saying \u201cwell that was a little awkward. I\u2019m sorry kiddo, I know this must be nuts to you. It sure doesn\u2019t look good.\u201d Then after moment he said \u201cwell, actually it does look good right, haha.\u201d The joke went right passed Steven who said \u201c<i>dad</i>??\u201d<br>\r\n<br>\r\nThen Mark explained that he had been working in a project and clearly it didn\u2019t work as intended. He didn\u2019t explain that it actually almost had worked perfectly, the only problem was he sounded like himself still. <br>\r\n<br>\r\nSteven was baffled but eventually calmed down. Mark was going to have play this off for a while and knew his wife could definitely not handle it. So he had Steven call her and tell her that Mark had forgotten a Out some conference and would be gone for a couple days for it last minute. In the meantime Mark would have to pretend to be Stevens girlfriend and just not talk much in front of his wife Sandy. </span></div></div>",
+            "created":1571634000,
+            "id":2736184,
+            "title":"No!"
+        },
+        "113":{
+            "author_id":"dipe",
+            "author_name":"einstein",
+            "choices":[
+                "Married with 1 daughter",
+                "Married with 2 sons",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>This is the story of Mark.  Mark was an inventor who was...</span></div></span></div>",
+            "created":1380258000,
+            "id":1670805,
+            "title":"Transformation Train(?)"
+        },
+        "114":{
+            "author_id":"dipe",
+            "author_name":"einstein",
+            "choices":[
+                "Freshly divorced",
+                "Married with 2 sons and 1 daughter",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The Transformation Generator was a refrigerator-sized device.  It could take any form matter within 2 kilometers and turn it into something else!<br>\r\nLet's go back to Mark, who was...</span></div></span></div>",
+            "created":1380258000,
+            "id":1670813,
+            "title":"The Transformation Generator"
+        },
+        "115":{
+            "author_id":"dipe",
+            "author_name":"einstein",
+            "choices":[
+                "A transformation vibrator!  (approximate translation)",
+                "Something else",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So what was it?</span></div></span></div>",
+            "created":1380258000,
+            "id":1670818,
+            "title":"More"
+        },
+        "13":{
+            "author_id":"dipe",
+            "author_name":"einstein",
+            "choices":[
+                "Rebecca, 21, physics student",
+                "Reader's Choice",
+                "Reader's Choice",
+                "Reader's Choice",
+                "Reader's Choice"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>It was...<br>\r\n<br>\r\n<br>\r\nNote:  Add whatever you want to the \"Reader's Choice\" options, as long as they are relevant.  The original has only one option here, so I will provide 4 more!!!</span></div></span></div>",
+            "created":1380258000,
+            "id":1670821,
+            "title":"A female student!"
+        },
+        "131":{
+            "author_id":"dipe",
+            "author_name":"einstein",
+            "choices":[
+                "The Transformation-Vibrator!",
+                "Something else",
+                "Reader's Choice"
+            ],
+            "content":"<div class=\"\"><div> <span>This is the story of 21-year-old physics student Rebecca.<br>\r\n(The link in the original was pornographic, so I am not including it.)<br>\r\nShe had recently invented something...<br>\r\n<br>\r\n<br>\r\nNote:  Add what you want to the Reader's Choice option.  The original had an option that only made sense with the link, so I am removing it.</span></div></div>",
+            "created":1380258000,
+            "id":1670825,
+            "title":"Rebecca, 21, physics student"
+        },
+        "1312":{
+            "author_id":"kafoll",
+            "author_name":"Kafoll",
+            "choices":[
+                "... reading her mind.",
+                "... wireless link to her mobile phone.",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What she did invent though was a transformation suit.<br>\r\n<br>\r\n<a rel=\"nofollow\" href=\"http://sherryzentai.blog.com/files/2012/09/11.png\" target=\"_blank\">http://sherryzentai.blog.com/files/2012/...</a><br>\r\n<br>\r\nIt allowed her to transform by...</span></div></span></div>",
+            "created":1380344400,
+            "id":1671053,
+            "title":"English-version exclusive"
+        },
+        "13122":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "test it",
+                "hestitate"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>and she had an app on her smartphone, where she could define the desired transformation...</span></div></span></div>",
+            "created":1381294800,
+            "id":1676470,
+            "title":"... wireless link to her mobile phone."
+        },
+        "131221":{
+            "author_id":"kafoll",
+            "author_name":"Kafoll",
+            "choices":[
+                "... a person.",
+                "... an object."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Now she decided to test it by becoming.. </span></div></span></div>",
+            "created":1381381200,
+            "id":1676821,
+            "title":"test it"
+        },
+        "1312211":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "a boy",
+                "a girl"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>who does she decide to become?</span></div></span></div>",
+            "created":1381381200,
+            "id":1676856,
+            "title":"... a person."
+        },
+        "13122111":{
+            "author_id":"kafoll",
+            "author_name":"Kafoll",
+            "choices":[
+                "A surfer dude called Brad!",
+                "Somebody else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Now she decided to look for pictures of guys on the Internet!</span></div></span></div>",
+            "created":1381381200,
+            "id":1676861,
+            "title":"a boy"
+        },
+        "131221111":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "right now",
+                "later"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>she found some really nice pic of this surfer dude and decided to become him for a while</span></div></span></div>",
+            "created":1381467600,
+            "id":1677421,
+            "title":"A surfer dude called Brad!"
+        },
+        "13122112":{
+            "author_id":"kafoll",
+            "author_name":"Kafoll",
+            "choices":[
+                "Girl!",
+                "She-Male!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>A girl or a shemale?</span></div></span></div>",
+            "created":1381381200,
+            "id":1676857,
+            "title":"A girl or..."
+        },
+        "1313":{
+            "author_id":"rjh-kk",
+            "author_name":"Mr. George",
+            "choices":[
+                "Rebecca pushed her hand into the grey-green haze.",
+                "Holding her breath, Rebecca stepped through.",
+                "Rebecca swallowed a scream as a man stepped out of her portal.",
+                "Something else..."
+            ],
+            "content":"<div class=\"\"><div> <span>Rebecca walked slowly around the portal, a faint hum, and a tinge of ozone filled the air. Stopping as she reached the cables snaking back to the computer, she'd admired her work from every angle. The arch in the centre looked like any other doorframe, if a little too modern with electronics plastered to it in places.<br>\r\n<br>\r\nA faint glow was visible within, that was slightly grey-green when she looked through. Her work on high-energy physics had a minor interaction at the low end of the energy scale. She had created a link between this world and another.<br>\r\n<br>\r\nLips rather too dry, she tried to moisten them. Rebecca's mouth was as parched as her lips, and she took a swallow from the bottle she was nervously tapping against her thigh. There was only one way to test it, and only one person here to test it.</span></div></div>",
+            "created":1562994000,
+            "id":2686047,
+            "title":"Rebecca's portal..."
+        },
+        "14":{
+            "author_id":"dipe",
+            "author_name":"einstein",
+            "choices":[
+                "Yes",
+                "No, it's your mother",
+                "No, it's another relative",
+                "It's a woman you know",
+                "Someone else altogether"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is it your friend?</span></div></span></div>",
+            "created":1380258000,
+            "id":1670827,
+            "title":"More!"
+        },
+        "141":{
+            "author_id":"dipe",
+            "author_name":"einstein",
+            "choices":[
+                "She is a highly intelligent and versatile inventor",
+                "She has found something",
+                "Something quite different"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How could she have created this transformation device?</span></div></span></div>",
+            "created":1380258000,
+            "id":1670830,
+            "title":"I meant girlfriend...I think..."
+        },
+        "142":{
+            "author_id":"dipe",
+            "author_name":"einstein",
+            "choices":[
+                "A transformation gun",
+                "A transformation belt",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So, your mother...<br>\r\nWhat has she invented?</span></div></span></div>",
+            "created":1380258000,
+            "id":1670832,
+            "title":"No, it's your mother"
+        },
+        "144":{
+            "author_id":"dipe",
+            "author_name":"einstein",
+            "choices":[
+                "A slut from the street",
+                "A homeless person",
+                "Other idea"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who is she?</span></div></span></div>",
+            "created":1380258000,
+            "id":1670833,
+            "title":"It's a woman you know"
+        },
+        "1443":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "yes",
+                "no",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>she is one of your ex girlfriends</span></div></span></div>",
+            "created":1571634000,
+            "id":2736172,
+            "title":"Other idea"
+        },
+        "15":{
+            "author_id":"dipe",
+            "author_name":"einstein",
+            "choices":null,
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Keep in mind that the original is completely in German.<br>\r\n<br>\r\n<a rel=\"nofollow\" href=\"http://www.writing.com/main/interact/item_id/1937362-Das-Verwandlungsger\" target=\"_blank\">http://www.writing.com/main/interact/ite...</a></span></div></span></div>",
+            "created":1380258000,
+            "id":1670791,
+            "title":"Link to the original"
+        }
+    },
+    "info":{
+        "author_id":"dipe",
+        "author_name":"einstein",
+        "brief_description":"One day, someone invents a device that can transform people!  (original by Kafoll)",
+        "created":1380318900,
+        "description":"<td align=\"left\" class=\"norm\">I've been wanting to read this German interactive for a while, and I finally realized how I might be able to:  Translate it myself!<br>\r\nI've taken great liberties to keep this translation as close to the original as possible, while also correcting inconsistencies in the translation process (German apparently translates into English extremely poorly...).<br>\r\nI will include a link to the original here and within the Interactive.  Please tell me if you like what I'm doing.<br>\r\nIn an effort to stay true to the original, I would highly appreciate it if you held back from adding to this.  I know, this is a highly unusual request, but just bear with me.  I would, however, like it if you notify me of mistakes I may have missed.  In the process of translation, grammer breaks the world, and there is no way I can catch everything myself.<br>\r\n<br>\r\nExpect this project of mine to take several weeks to complete.<br>\r\n<br>\r\n<a class=\"blue2roll\" rel=\"nofollow\" href=\"http://www.writing.com/main/interact/item_id/1937362-Das-Verwandlungsger\" target=\"_blank\">http://www.writing.com/main/interact/item_id/1937362-Das-Verwandlungsger</a><br>\r\n<br>\r\nI mean Kafoll no offense by effectively ripping off his Interactive - I am simply attempting to bring it to a wider audience.<br>\r\nCredit to the original authors of each chapter will be added at a later date.</td>",
+        "id":1954972,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "modified":1574289480,
+        "pretty_title":"A Transformation Device!"
+    }
+}

@@ -1,0 +1,272 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"starcrydragon1",
+            "author_name":"starcrydragon1",
+            "choices":[
+                "Yugioh",
+                "Yugioh GX",
+                "Yugioh 5Ds",
+                "Yugioh ZEXAL",
+                "More Choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which season of Yugioh are you working with?</span></div></span></div>",
+            "created":1282712400,
+            "id":943722,
+            "title":"Yugioh Generations"
+        },
+        "11":{
+            "author_id":"starcrydragon1",
+            "author_name":"starcrydragon1",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which Gender Do You Want?</span></div></span></div>",
+            "created":1282712400,
+            "id":943724,
+            "title":"Gender"
+        },
+        "111":{
+            "author_id":"starcrydragon1",
+            "author_name":"starcrydragon1",
+            "choices":[
+                "Yugi Muto",
+                "Yami Yugi / Pharaoh Atem",
+                "Other Characters"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which male character are you?</span></div></span></div>",
+            "created":1282712400,
+            "id":943725,
+            "title":"Yugioh Male Character"
+        },
+        "1113":{
+            "author_id":"starcrydragon1",
+            "author_name":"starcrydragon1",
+            "choices":[
+                "Joey Wheeler",
+                "Seto Kaiba",
+                "More Characters"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do these characters interest you?</span></div></span></div>",
+            "created":1525150800,
+            "id":2486747,
+            "title":"Other Characters"
+        },
+        "11133":{
+            "author_id":"starcrydragon1",
+            "author_name":"starcrydragon1",
+            "choices":[
+                "Tristan Taylor",
+                "Mokuba Kaiba",
+                "Maximillion Pegasus",
+                "More Characters"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about these characters?</span></div></span></div>",
+            "created":1525150800,
+            "id":2486750,
+            "title":"More Characters"
+        },
+        "111334":{
+            "author_id":"starcrydragon1",
+            "author_name":"starcrydragon1",
+            "choices":[
+                "Marik Ishtar",
+                "Ryou Bakura",
+                "Tristan Taylor",
+                "More Characters"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Even more characters!</span></div></span></div>",
+            "created":1525150800,
+            "id":2486751,
+            "title":"More Characters"
+        },
+        "112":{
+            "author_id":"starcrydragon1",
+            "author_name":"starcrydragon1",
+            "choices":[
+                "T\u00e9a Gardner",
+                "Mai Valentine",
+                "More Characters"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which person are you?</span></div></span></div>",
+            "created":1282712400,
+            "id":943727,
+            "title":"Yugioh Female Character"
+        },
+        "1123":{
+            "author_id":"starcrydragon1",
+            "author_name":"starcrydragon1",
+            "choices":[
+                "Ishizu Ishtar",
+                "Dark Magician Girl",
+                "More Characters"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which person are you?</span></div></span></div>",
+            "created":1282712400,
+            "id":943728,
+            "title":"More Characters"
+        },
+        "11233":{
+            "author_id":"starcrydragon1",
+            "author_name":"starcrydragon1",
+            "choices":[
+                "Reader's Choice",
+                "Reader's Choice",
+                "Reader's Choice",
+                "Reader's Choice"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which person are you?</span></div></span></div>",
+            "created":1282712400,
+            "id":943729,
+            "title":"More"
+        },
+        "113":{
+            "author_id":"starcrydragon1",
+            "author_name":"starcrydragon1",
+            "choices":[
+                "Yusei",
+                "Jack",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which person are you?</span></div></span></div>",
+            "created":1282712400,
+            "id":943730,
+            "title":"Yugioh 5ds"
+        },
+        "1133":{
+            "author_id":"starcrydragon1",
+            "author_name":"starcrydragon1",
+            "choices":[
+                "Leo",
+                "Goodwin"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which person are you?</span></div></span></div>",
+            "created":1282712400,
+            "id":943731,
+            "title":"More"
+        },
+        "11331":{
+            "author_id":"inflationking",
+            "author_name":"The man with the plan",
+            "choices":[
+                "simple means (Eatting, Forcefeeding, ECT.)",
+                "other means (magic, technological device, ECT)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How will Lua (Leo in the English Dub) Gain weight?</span></div></span></div>",
+            "created":1293598800,
+            "id":1024729,
+            "title":"Leo"
+        },
+        "113311":{
+            "author_id":"inflationking",
+            "author_name":"The man with the plan",
+            "choices":[
+                "normal eatting",
+                "Force feeding"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So does he gain by just eatting, or does someone force feed him</span></div></span></div>",
+            "created":1293598800,
+            "id":1024730,
+            "title":"simple means (Eatting, Forcefeeding, ECT.)"
+        },
+        "1133111":{
+            "author_id":"inflationking",
+            "author_name":"The man with the plan",
+            "choices":[
+                "Thin",
+                "fat"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>ok, one more question, should he start thin or Fat?</span></div></span></div>",
+            "created":1293598800,
+            "id":1024732,
+            "title":"normal eatting"
+        },
+        "1133112":{
+            "author_id":"inflationking",
+            "author_name":"The man with the plan",
+            "choices":[
+                "Luca (his sister)",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>ok, one last question, who forces Lua to get fat?</span></div></span></div>",
+            "created":1293598800,
+            "id":1024731,
+            "title":"Force feeding"
+        },
+        "11331122":{
+            "author_id":"inflationking",
+            "author_name":"The man with the plan",
+            "choices":[
+                "sure",
+                "maybe someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>why not Aki/Akiza?</span></div></span></div>",
+            "created":1425445200,
+            "id":1943608,
+            "title":"Someone else"
+        },
+        "12":{
+            "author_id":"starcrydragon1",
+            "author_name":"starcrydragon1",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which gender do you choose?</span></div></span></div>",
+            "created":1282712400,
+            "id":943734,
+            "title":"Yugioh GX Characters"
+        },
+        "121":{
+            "author_id":"starcrydragon1",
+            "author_name":"starcrydragon1",
+            "choices":[
+                "Jaden Yuki",
+                "Cyrus Trusdale",
+                "More Characters"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which person are you?</span></div></span></div>",
+            "created":1282712400,
+            "id":943736,
+            "title":"Yugioh GX Male Characters"
+        },
+        "122":{
+            "author_id":"starcrydragon1",
+            "author_name":"starcrydragon1",
+            "choices":[
+                "Alexis",
+                "Blare",
+                "More Characters"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which person are you?</span></div></span></div>",
+            "created":1282712400,
+            "id":943737,
+            "title":"Yugioh GX Female Character"
+        },
+        "15":{
+            "author_id":"starcrydragon1",
+            "author_name":"starcrydragon1",
+            "choices":[
+                "Yugioh ARC-V",
+                "Yugioh VRAINS",
+                "Yugioh Season Zero"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Here are more seasons of Yugioh to choose from!</span></div></span></div>",
+            "created":1525150800,
+            "id":2486753,
+            "title":"More Yugioh Generations"
+        }
+    },
+    "info":{
+        "author_id":"starcrydragon1",
+        "author_name":"starcrydragon1",
+        "brief_description":"Choose characters from all the Yugioh series to gain weight.",
+        "created":1282751340,
+        "description":"<td align=\"left\" class=\"norm\">The guys and girls of Yugioh, Yugioh GX, Yugioh 5Ds, and onwards are all gaining weight. You decide who does, who doesn't and pretty much everything else.<br>\r\n<br>\r\n-RULES-<br>\r\nNo huge gains at one time, like 150-700, without some exposition.<br>\r\nMagic is allowed, but you need to explain how it works (doesn't have to be thorough, just don't throw out \"Magic\" as an answer).<br>\r\nChapters cannot be a few words or sentences but have to be at least 1 paragraph, please.<br>\r\n<br>\r\n<br>\r\nOther than that, add away!!</td>",
+        "id":1702282,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "modified":1525189440,
+        "pretty_title":"Yugioh weight gain"
+    }
+}

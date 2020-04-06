@@ -1,0 +1,197 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"spunky",
+            "author_name":"Ace Jones",
+            "choices":[
+                "Nickelodeon",
+                "Disney",
+                "Warner Bros",
+                "Your Choice",
+                "Your Choice"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Choose a network or studio</span></div></span></div>",
+            "created":1570338000,
+            "id":2729138,
+            "title":"The start."
+        },
+        "12":{
+            "author_id":"ryguy0228",
+            "author_name":"Ryguy0228",
+            "choices":[
+                "Movie",
+                "Television show"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Movie or Tv.</span></div></span></div>",
+            "created":1572584400,
+            "id":2741049,
+            "title":"Disney"
+        },
+        "121":{
+            "author_id":"andrewisback",
+            "author_name":"AndrewTheWolf2019",
+            "choices":[
+                "Lady and the Tramp",
+                "101 Dalmatians",
+                "More Choices!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Here are two choices of these movies.</span></div></span></div>",
+            "created":1575694800,
+            "id":2756692,
+            "title":"Movie"
+        },
+        "1212":{
+            "author_id":"spunky",
+            "author_name":"Ace Jones",
+            "choices":[
+                "101 Dalmatians.",
+                "101 Dalmatians II: Patch's London Adventure."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>As there are two 101 Dalmatians movies which one will you choose?</span></div></span></div>",
+            "created":1575694800,
+            "id":2756694,
+            "title":"101 Dalmatians"
+        },
+        "122":{
+            "author_id":"spunky",
+            "author_name":"Ace Jones",
+            "choices":[
+                "101 Dalmatians the series.",
+                "101 Dalmatian Street",
+                "Your own choice."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Now then what television show will you choose?</span></div></span></div>",
+            "created":1572584400,
+            "id":2741061,
+            "title":"Television show"
+        },
+        "14":{
+            "author_id":"rana-mcneil",
+            "author_name":"Thunder",
+            "choices":[
+                "Balto 1-3",
+                "All Dogs go to Heaven 1+2",
+                "More Choices!",
+                "More Choices!",
+                "More Choices!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Choose one or more of the following options.</span></div></span></div>",
+            "created":1580014800,
+            "id":2778536,
+            "title":"Your Choice"
+        },
+        "141":{
+            "author_id":"andrewisback",
+            "author_name":"AndrewTheWolf2020",
+            "choices":[
+                "Balto 1",
+                "Balto 2: Wolf Quest",
+                "Balto 3: Wings of Change"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So here are three of Balto's films. Which one will you pick?</span></div></span></div>",
+            "created":1580014800,
+            "id":2778738,
+            "title":"Balto 1-3"
+        },
+        "1411":{
+            "author_id":"spunky",
+            "author_name":"Ace Jones",
+            "choices":[
+                "Balto.",
+                "Steele.",
+                "Dixie and Sylvie."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Now then who will you choose?</span></div></span></div>",
+            "created":1580014800,
+            "id":2778741,
+            "title":"Balto 1"
+        },
+        "142":{
+            "author_id":"spunky",
+            "author_name":"Ace Jones",
+            "choices":[
+                "All Dogs Go To Heaven.",
+                "All Dogs Go To Heaven 2."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Now then which one will you choose?</span></div></span></div>",
+            "created":1580014800,
+            "id":2778580,
+            "title":"All Dogs go to Heaven 1+2"
+        },
+        "1421":{
+            "author_id":"andrewisback",
+            "author_name":"AndrewTheWolf2020",
+            "choices":[
+                "Charlie B. Barkin",
+                "Itchy Itchiford",
+                "More Choices!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Here are the characters you can choose.</span></div></span></div>",
+            "created":1580014800,
+            "id":2778742,
+            "title":"All Dogs Go To Heaven."
+        },
+        "1422":{
+            "author_id":"andrewisback",
+            "author_name":"AndrewTheWolf2020",
+            "choices":[
+                "Charlie B. Barkin.",
+                "Sasha La Fleur.",
+                "More Choices!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Here's some characters you can choose from.</span></div></span></div>",
+            "created":1580014800,
+            "id":2778743,
+            "title":"All Dogs Go To Heaven 2."
+        },
+        "14221":{
+            "author_id":"spunky",
+            "author_name":"Ace Jones",
+            "choices":[
+                "Charlie and the worldwide sumo wrestling dog tournament.",
+                "Charlie tips the scales.",
+                "Your own choice."
+            ],
+            "content":"<div class=\"\"><div> <span>How will Charlie Barkin gain weight?<br>\r\n<br>\r\nCharlie and the worldwide sumo wrestling dog tournament: One day Charlie hears something about a worldwide sumo wrestling tournament that's made for male and female dogs.<br>\r\n<br>\r\nBut before he can sign up and compete in the tournament itself Charlie must gain enough weight and start training for the tournament itself as he one day finds a sumo stable for dogs in San Francisco's Japan Town section.<br>\r\n<br>\r\nCharlie tips the scales: Charlie starts packing on the pounds for some unknown reason.<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n</span></div></div>",
+            "created":1580014800,
+            "id":2778787,
+            "title":"Charlie B. Barkin."
+        },
+        "14223":{
+            "author_id":"cyanlaser",
+            "author_name":"Daft Punk",
+            "choices":[
+                "Yes ",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about Charlie\u2019s sidekick and best friend, Itchy</span></div></span></div>",
+            "created":1580101200,
+            "id":2779136,
+            "title":"More Choices!"
+        },
+        "142231":{
+            "author_id":"spunky",
+            "author_name":"Ace Jones",
+            "choices":[
+                "He's gaining weight for a reason.",
+                "Open choice chapter.",
+                "Open choice chapter."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Now then why will Itchy gain weight?</span></div></span></div>",
+            "created":1580101200,
+            "id":2779187,
+            "title":"Yes "
+        }
+    },
+    "info":{
+        "author_id":"spunky",
+        "author_name":"Ace Jones",
+        "brief_description":"Cartoon Dogs themselves gain weight and whatnot.",
+        "created":1570403880,
+        "description":"<td align=\"left\" class=\"norm\">Cartoon dogs gain weight and whatnot as it was because of two Writing.com authors mainly z23-mnb who sadly is no longer here with us on this website and PH0220. <br>\r\n<br>\r\nNow for the rules.<br>\r\n<br>\r\nAll interactive chapters must be relevant to a plot that will be outlined.<br>\r\n<br>\r\nNo Spoilsports allowed.<br>\r\n<br>\r\nMake sure your chapters are appropriate.<br>\r\n<br>\r\nNo cussing either.<br>\r\n<br>\r\n</td>",
+        "id":2202427,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "modified":1580142600,
+        "pretty_title":"Fat Cartoon Dogs."
+    }
+}

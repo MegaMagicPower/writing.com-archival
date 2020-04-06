@@ -1,0 +1,45 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"inujon",
+            "author_name":"Inujon",
+            "choices":[
+                "Go to the Park",
+                "stand still",
+                "Go to the Movies",
+                "Look Around you",
+                "go home"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What do you do with such power?</span></div></span></div>",
+            "created":1549515600,
+            "id":2614189,
+            "title":"Lets Begin"
+        },
+        "15":{
+            "author_id":"inujon",
+            "author_name":"Inujon",
+            "choices":[
+                "Your Mom (47 Years old)",
+                "Your Older Sister (25 Years Old)",
+                "Your Twin Sister (17 Years Old)",
+                "Your Baby Sister (7 Months Old)",
+                "No One "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>you head home... who is there</span></div></span></div>",
+            "created":1554267600,
+            "id":2639343,
+            "title":"Nothing (For Now)"
+        }
+    },
+    "info":{
+        "author_id":"inujon",
+        "author_name":"Inujon",
+        "brief_description":"You get the power to swap anything about you with anything from any person or character!",
+        "created":1549569960,
+        "description":"<td align=\"left\" class=\"norm\">You get the power to swap anything about you with anything from any person or character!</td>",
+        "id":2182069,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "modified":1554319380,
+        "pretty_title":"The Ultimate Swap"
+    }
+}

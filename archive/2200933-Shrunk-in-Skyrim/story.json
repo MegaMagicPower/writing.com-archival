@@ -1,0 +1,39 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"coolio5509",
+            "author_name":"desk",
+            "choices":[
+                "A city",
+                "A dungeon with your follower"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where were you when you were shrunk? </span></div></span></div>",
+            "created":1568782800,
+            "id":2720417,
+            "title":"Where were you shrunk?"
+        },
+        "12":{
+            "author_id":"coolio5509",
+            "author_name":"desk",
+            "choices":[
+                "Lydia",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which follower? </span></div></span></div>",
+            "created":1568782800,
+            "id":2720421,
+            "title":"A dungeon with your follower"
+        }
+    },
+    "info":{
+        "author_id":"coolio5509",
+        "author_name":"desk",
+        "brief_description":"Shrunk in skyrim",
+        "created":1568858400,
+        "description":"<td align=\"left\" class=\"norm\">Due to some strange magic, you've been shrunk in the world of Skyrim.</td>",
+        "id":2200933,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "modified":1568858700,
+        "pretty_title":"Shrunk in Skyrim"
+    }
+}

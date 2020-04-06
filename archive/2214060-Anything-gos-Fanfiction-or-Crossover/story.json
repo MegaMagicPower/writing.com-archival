@@ -1,0 +1,42 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"redwolf12",
+            "author_name":"wolfbood",
+            "choices":[
+                "Fanfiction",
+                "Crossover"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where should we started first?</span></div></span></div>",
+            "created":1582606800,
+            "id":2793005,
+            "title":"Let's start"
+        },
+        "11":{
+            "author_id":"jobobo19",
+            "author_name":"carl.a.pruuitt",
+            "choices":[
+                "Cartoon ",
+                "Movie ",
+                "Videogame ",
+                "Tv show",
+                "Book/comic"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where should we started for the fanfiction?</span></div></span></div>",
+            "created":1582693200,
+            "id":2793364,
+            "title":"Fanfiction"
+        }
+    },
+    "info":{
+        "author_id":"redwolf12",
+        "author_name":"wolfbood",
+        "brief_description":"Anything go's for you.",
+        "created":1582691280,
+        "description":"<td align=\"left\" class=\"norm\">Here you can do anything except:<br>\r\n<br>\r\nNo death <br>\r\n<br>\r\nNo toilet stuff<br>\r\n<br>\r\nNo being mean<br>\r\n<br>\r\nAnd always have fun</td>",
+        "id":2214060,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "modified":1582752840,
+        "pretty_title":"Anything go's Fanfiction or Crossover."
+    }
+}
