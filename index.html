@@ -162,13 +162,13 @@
                 </div>
 
                 <div class="list-group list-group-flush">
-                    <router-link v-for="(chapter, index) in $story.chapters" v-bind:key="index" class="py-1 text-truncate list-group-item list-group-item-action"
+                    <router-link v-for="(index) in sorted_keys" v-bind:key="index" class="py-1 text-truncate list-group-item list-group-item-action"
                         v-bind:to="{ path: index}">
                         <small>
                             {{ index }}
                         </small>
                         <br>
-                        #{{ index.length }}: {{ chapter.title }}
+                        #{{ index.length }}: {{ $story.chapters[index].title }}
                     </router-link>
                     </ul>
                 </div>
@@ -330,7 +330,13 @@
         })
 
         const outline_view = Vue.component('info-view', {
-            template: '#outline-template'
+            template: '#outline-template',
+            computed: {
+                //Javascript seems to store order of properties the object, so we have to get the keys and sort it
+                sorted_keys: function() {
+                    return Object.keys(this.$story.chapters).sort()
+                }
+            }
         })
 
         const recent_view = Vue.component('recent-view', {
@@ -424,13 +430,6 @@
                 fetch("./archive/" + to.params.story + "/story.json")
                     .then(r => r.json())
                     .then(story => {
-                        const sortedChapters = {};
-                        //Sort the chapters just in case they're not sorted 
-                        Object.keys(story.chapters).sort().forEach(function(key) {
-                            sortedChapters[key] = story.chapters[key];
-                        });
-                        story.chapters = sortedChapters;
-
                         Vue.prototype.$story = story;
                         //TODO proper title stuff
                         document.title = story.info.pretty_title;
