@@ -296,6 +296,58 @@
             "id":2785130,
             "title":"You hold it on..."
         },
+        "111121211113":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Help with an event",
+                "Help with a party",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does he need help with an event? What about a party?</span></div></span></div>",
+            "created":1586408400,
+            "id":2815967,
+            "title":"He needs some other help"
+        },
+        "1111212111131":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "a cosplay contest",
+                "a robotics competition",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\"So, there's an event I'm going to, and I need your help! I'm going to...</span></div></span></div>",
+            "created":1586408400,
+            "id":2815971,
+            "title":"Help with an event"
+        },
+        "11112121111312":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "agree",
+                "agree with conditions",
+                "disagree"
+            ],
+            "content":"<div class=\"\"><div> <span>\"I don't see how I can help with robotics... I don't know anything about it.\" you state.<br>\r\n<br>\r\n\"That's the beauty of it! You don't have to! I just need you to become a robot, and I'll study it, and then turn you back! Like, 2 days tops!\" he exclaims, growing more and more excited as he speaks.<br>\r\n<br>\r\nLooking at him now, it almost feels like refusing him would be like stealing a puppy's toy and hiding it forever.<br>\r\n<br>\r\nYou decide to...</span></div></div>",
+            "created":1586408400,
+            "id":2815977,
+            "title":"a robotics competition"
+        },
+        "111121211113121":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "You suddenly begin to change",
+                "Mike runs into the room",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Great!\" he shouts as he slaps the bracer back on your arm. He dashes over to the console and begins typing for a while before noticing you still standing there... nude.<br>\r\n<br>\r\n\"Oh, um... this might take a bit. You should grab a blanket or something to cover up. Not clothes though. We don't want to destroy any more,\" he says glancing at the ashes of your former clothes, \"than we had to.\"<br>\r\n<br>\r\nRolling your eyes, you walk to the nearest bedroom and grab the comforter off the top to wrap yourself with.<br>\r\n<br>\r\nEventually, after wandering for a while, you find the living room and flop down on the couch. <br>\r\n<br>\r\nAfter watching tv for a few hours...</span></div></div>",
+            "created":1586408400,
+            "id":2816000,
+            "title":"Becoming a robot"
+        },
         "11113":{
             "author_id":"zionixion",
             "author_name":"D-MentedOne",
@@ -1449,7 +1501,7 @@
         "description":"<td align=\"left\" class=\"norm\">You've heard very little over the years about your great uncle, until yesterday. Your parents have grown concerned since they haven't heard from him in a few years. They usually left him to his own devices as he's a bit eccentric. <br>\r\n<br>\r\nNow they want you to do a wellness check on him at his estate.</td>",
         "id":2198386,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1581306420,
+        "modified":1586418960,
         "pretty_title":"Master of Invention(s)"
     }
 }

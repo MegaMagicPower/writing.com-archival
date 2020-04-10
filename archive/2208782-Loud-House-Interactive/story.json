@@ -1444,6 +1444,49 @@
             "id":2768452,
             "title":"A bottle of formula."
         },
+        "1411111":{
+            "author_id":"magicdream",
+            "author_name":"Abracadabra.",
+            "choices":[
+                "Play with Lily.",
+                "Read to Lily.",
+                "Watch TV with Lily.",
+                "Play in the sandbox with Lily.",
+                "Other."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Lily drank and drank until she'd finished the whole bottle.<br>\r\nThen, she gave a loud burp.<br>\r\n\"Good girl, Lily!\", cooed Margo.<br>\r\nThen, the girls decided to...</span></div></span></div>",
+            "created":1586408400,
+            "id":2816012,
+            "title":"All of it."
+        },
+        "14111112":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Margo",
+                "Both."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was it Lynn that read to her, though?</span></div></span></div>",
+            "created":1586408400,
+            "id":2816115,
+            "title":"Read to Lily."
+        },
+        "1411112":{
+            "author_id":"magicdream",
+            "author_name":"Abracadabra.",
+            "choices":[
+                "Play with Lily.",
+                "Talk.",
+                "Take Lily outside for a bit.",
+                "Read to Lily.",
+                "Other."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Lily drank the formula, but when she got about halfway, she decided she'd had enough.<br>\r\n\"OK, I'll put the rest in the fridge for later,\" said Lynn.<br>\r\nWhat do they do now?</span></div></span></div>",
+            "created":1586408400,
+            "id":2816015,
+            "title":"Half."
+        },
         "14112":{
             "author_id":"magicdream",
             "author_name":"Abracadabra.",
@@ -1471,6 +1514,49 @@
             "id":2768480,
             "title":"Put powder on Lily."
         },
+        "1411231":{
+            "author_id":"magicdream",
+            "author_name":"Abracadabra.",
+            "choices":[
+                "Feed her.",
+                "Play with Lily.",
+                "Watch TV with Lily.",
+                "Play with the pets and Lily.",
+                "Other."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Margo put the baby powder on Lily.<br>\r\nLily giggled, then Lynn put the new diaper on her.<br>\r\nWhat do they do now?</span></div></span></div>",
+            "created":1586408400,
+            "id":2816017,
+            "title":"Yeah"
+        },
+        "14112311":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Margo wants to try her hand at it.",
+                "Lynn"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do both do this?</span></div></span></div>",
+            "created":1586408400,
+            "id":2816124,
+            "title":"Feed her."
+        },
+        "1411232":{
+            "author_id":"magicdream",
+            "author_name":"Abracadabra.",
+            "choices":[
+                "Play with Lily.",
+                "Feed Lily.",
+                "Read to Lily.",
+                "Take Lily for a walk in her stroller.",
+                "Other."
+            ],
+            "content":"<div class=\"\"><div> <span>\"Can you give me an assist, Lynn-sanity?\" said Margo, \"Lily's too wriggly.\"<br>\r\n\"Sure,\" said Lynn, who'd changed Lily's diapers before, and she distracted Lily with her teddy bear.<br>\r\nWhen that was over, the girls managed to get Lily's diaper changed.<br>\r\nWhat do they do now?</span></div></div>",
+            "created":1586408400,
+            "id":2816020,
+            "title":"No, moved around."
+        },
         "14113":{
             "author_id":"magicdream",
             "author_name":"Abracadabra.",
@@ -1497,6 +1583,49 @@
             "created":1577941200,
             "id":2768489,
             "title":"Putting Lily down for a nap."
+        },
+        "1411321":{
+            "author_id":"magicdream",
+            "author_name":"Abracadabra.",
+            "choices":[
+                "Talk.",
+                "Shoot hoops in the yard.",
+                "Watch TV.",
+                "Play with the pets.",
+                "Other."
+            ],
+            "content":"<div class=\"\"><div> <span>\"Okay, Margo,\" said Lynn, \"It's Lily's nap time now, so you rock her while I heat up the milk.\"<br>\r\nWhile Lynn went downstairs and Margo began to rock Lily gently in her arms.<br>\r\nLynn came back with the milk and fed it to her, then Lily fell asleep.<br>\r\n<br>\r\nWhat do the girls do while Lily's napping?</span></div></div>",
+            "created":1586408400,
+            "id":2816021,
+            "title":"Yeah"
+        },
+        "14113213":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "A boxing match",
+                "A hockey game",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Lynn channel surfed until she found...</span></div></span></div>",
+            "created":1586408400,
+            "id":2816130,
+            "title":"Watch TV."
+        },
+        "1411322":{
+            "author_id":"magicdream",
+            "author_name":"Abracadabra.",
+            "choices":[
+                "Talk.",
+                "Go outside and practice hockey.",
+                "Eat a snack.",
+                "Watch TV.",
+                "Other."
+            ],
+            "content":"<div class=\"\"><div> <span>\"Hey, Margo,\" said Lynn, \"It's Lily's nap time, so I'll just heat up some milk while you sing a lullaby.\"<br>\r\n<br>\r\nMargo took Lily in her arms and began singing an improvised lullaby to the tune of Brahms' Lullaby.<br>\r\nShe hadn't had much experience singing lullabies, so the lyrics came out rather silly:<br>\r\n<br>\r\n\"<i>Lullaby, lullaby,<br>\r\nGo to sleep, little Lily,<br>\r\nYou are fine,<br>\r\nSo am I,<br>\r\nBut I need less sleep than you,<br>\r\nWhen you get,<br>\r\nTo be five,<br>\r\nYou won't need as much sleep,<br>\r\nBut for now,<br>\r\nYou need round,<br>\r\nAbout fourteen hours sleep</i>\"<br>\r\n<br>\r\nLily giggled sleepily, then had her milk and fell asleep.<br>\r\nWhat do the girls do while Lily's asleep?</span></div></div>",
+            "created":1586408400,
+            "id":2816022,
+            "title":"Singing to her."
         },
         "142":{
             "author_id":"magicdream",
@@ -1549,6 +1678,46 @@
             "created":1577941200,
             "id":2768416,
             "title":"Was sleepy."
+        },
+        "1421121":{
+            "author_id":"magicdream",
+            "author_name":"Abracadabra.",
+            "choices":[
+                "Heat up Lily's milk.",
+                "Tuck Lily in.",
+                "Rock Lily.",
+                "Sing to Lily.",
+                "Read to Lily."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\"Margo,\" said Lynn, \"It's Lily's nap time, so could you help me out?\"<br>\r\n\"Sure,\" said Margo, \"What do I do?\"<br>\r\nLynn had Margo...</span></div></span></div>",
+            "created":1586408400,
+            "id":2816023,
+            "title":"Yeah, right away."
+        },
+        "14211213":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Try to get away.",
+                "Point to Lynn, or SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Margo gently began to rock Lily in her arms. Lily's reaction to being rocked by someone she didn't know was to start crying?</span></div></span></div>",
+            "created":1586408400,
+            "id":2816132,
+            "title":"Rock Lily."
+        },
+        "1421122":{
+            "author_id":"magicdream",
+            "author_name":"Abracadabra.",
+            "choices":[
+                "Did it on her own and showed Margo.",
+                "Waited awhile."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Lynn didn't let Margo help Lily sleep. Instead she...</span></div></span></div>",
+            "created":1586408400,
+            "id":2816024,
+            "title":"Not at first."
         },
         "14212":{
             "author_id":"magicdream",
@@ -3667,7 +3836,7 @@
         "description":"<td align=\"left\" class=\"norm\">Hi there! This is about the Nickelodeon show <i>The Loud House</i>, however, I do have some rules, so please read this carefully if you want to join in:<br>\r\n<br>\r\n1. <b>No permanent changes to the status quo.</b> This means that things such as deaths (except in the cases of canonically-dead characters such as Harriet), permanent moves (except for the Santiagos' canonical move), permanent breakups, and the like are prohibited. Temporary lovers' quarrels, plots where it looks like a character might move, etc, are fine, and so are things such as dimension-hopping, transformations, and time travel (looking at you, Lucy and Lisa) as long as they're eventually reversed.<br>\r\n<br>\r\n2. <b>Don't rewrite a character's personality</b>, for instance, saying that Luan is secretly a psychopath, or that Lincoln secretly wishes he was a baby again, or having Lana give up car repair. Keep everyone recognisable. If Lisa makes an experiment that changes someone's personality or whatever, that's fine, as long as the changes are reversed.<br>\r\n<br>\r\n3. <b>Nothing too sexual.</b> Nudity in a nonsexual context is fine (heck, a running gag in the show is Lily taking her diaper off), but don't describe it in a pervy way. No explicit sex, no pedophilia (things like Clyde's crush on Lori are fine but no actual romance with a significant age gap where someone's underage, and no one should perv on someone much younger than them), NO INCEST. Also, while there are no strict rules since I have trouble telling who has a kink and who doesn't, I'm going to make a blanket rule and say that if you have a kink for something, don't write about it, but if you don't have a kink, don't worry about accidentally coming off as kinky. (For instance, if you don't have a kink, then you can write about one of the sisters growing to be a giant for comedy or plot value, but if you have the giantess fetish, just don't.)<br>\r\n<br>\r\nOther than that, run wild. As Lincoln would say, let's do this!</td>",
         "id":2208782,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1585258920,
+        "modified":1586437260,
         "pretty_title":"Loud House Interactive"
     }
 }

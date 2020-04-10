@@ -743,6 +743,32 @@
             "id":2693232,
             "title":"A haunted amulet"
         },
+        "12312":{
+            "author_id":"elrick",
+            "author_name":"Elrick",
+            "choices":[
+                "Amy go back home",
+                "Amy put on the neckless.",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>As she looked down the aisles, Amy's gaze was instantly drawn to a strange amulet. At first glance, the amulet seemed harmless; a simple silver chain ending in a pendant designed to accommodate a photo inside. However, the mechanism was locked, and its contents remained a mystery. There was a note on the back, engraved into the metal:<br>\r\n<br>\r\n<i>Here lies imprisoned the witch Cassandre. Anyone who wears this pendant will gains the power to send, with a simple kiss, a copy of his mind into the body of another, merging the two spirits together. Anyone transformed this way will also gain the same power. But beware. If the pendant is opened, Cassandre\u2019s mind shall enter the body of the first one to lay eyes on her picture and merge with his mind until they become one. They will then go forth and find new victims and Cassandre coven of witches will rise once more</i>. <br>\r\n<br>\r\nAfter having read the inscription with curiosity, Amy chooses to take it without really believing in what was written there. Only a Halloween ghost story, she taught. But the neckless was quite pretty. She then continued to look for a costume and ended up choosing a simple witch costume to go with the pendant. With her purchases in hand, Amy paid at the counter before going back home; not realizing what she really had in her hands: The dangers that awaited her and everybody else if the pendant fell into the wrong hands ...<br>\r\n</span></div></div>",
+            "created":1586149200,
+            "id":2814574,
+            "title":"An evil spirit who want to corrupt the living. "
+        },
+        "123121":{
+            "author_id":"elrick",
+            "author_name":"Elrick",
+            "choices":[
+                "Amy accidentally used the amulet",
+                "Someone steals the amulet",
+                "Amy opens the pendant, freeing the witch trap inside. "
+            ],
+            "content":"<div class=\"\"><div> <span>After completing her purchases, Amy returned home and put the costume away for the time being. As for the pendant, she put it on her dresser. The rest of the day went by as usual. Amy took a walk with her two friends, the redheaded Bet and the nerdy Laura, watched TV in the evening and went to bed by 10 o\u2019clock.<br>\r\n<br>\r\nThe next morning, she dressed for school as usual, wearing a pink sweater with black legging, but this time she choses to put on the amulet, finding it quite pretty. As soon as it touched her neck, Amy felt a shiver going down her spine. <br>\r\n<br>\r\nUnbeknownst to her, the powers of the amulet had been transferred to her; allowing her to put copy of her own mind into the body of others, maybe even possessed them. A power she was now bringing to school with her\u2026 <br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n</span></div></div>",
+            "created":1586322000,
+            "id":2815511,
+            "title":"Amy go back home"
+        },
         "1232":{
             "author_id":"elrick",
             "author_name":"Elrick",
@@ -1962,7 +1988,7 @@
         "description":"<td align=\"left\" class=\"norm\">Halloween is fast approaching and for the occasion, a costume party has been organized and all the people from the school have been invited. It was for this occasion that you went to the costume shop to find an adequate disguise. What you did not know was that, in this shop, are costumes with unique properties. Masks, makeup and clothes that have the power to transform your life forever. And that's exactly what they will do!</td>",
         "id":2181760,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1579443060,
+        "modified":1586368020,
         "pretty_title":"The haunted costume"
     }
 }

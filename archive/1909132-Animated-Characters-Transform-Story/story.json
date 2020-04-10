@@ -12386,6 +12386,30 @@
             "id":2814039,
             "title":"Immediately"
         },
+        "1553322222222222222112121212211111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "A smaller dress and diaper",
+                "A t-shirt and diaper"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What did they change into?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815311,
+            "title":"Yes"
+        },
+        "15533222222222222221121212122111112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was Angelica happy that the potion worked?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815651,
+            "title":"A t-shirt and diaper"
+        },
         "155332222222222222211212122":{
             "author_id":"magicdream",
             "author_name":"Abracadabra.",
@@ -25260,6 +25284,18 @@
             "id":2814301,
             "title":"Little Bear"
         },
+        "15533222222222222222222222222222232222222222222222322222222222222222222322222222115":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Could a flea camp out in his fur?</span></div></span></div>",
+            "created":1586235600,
+            "id":2814714,
+            "title":"Something else"
+        },
         "1553322222222222222222222222222223222222222222222232222222222222222222232222222212":{
             "author_id":"johnny2",
             "author_name":"littlejohn",
@@ -25307,6 +25343,80 @@
             "created":1586149200,
             "id":2814330,
             "title":"A magical artifact"
+        },
+        "15533222222222222222222222222222232222222222222222322222222222222222222322222222122":{
+            "author_id":"redwolf12",
+            "author_name":"wolfbood",
+            "choices":[
+                "Emily",
+                "Mother Bear",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which character do you want?</span></div></span></div>",
+            "created":1586235600,
+            "id":2814956,
+            "title":"No"
+        },
+        "155332222222222222222222222222222322222222222222223222222222222222222223222222221221":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Could she become a bear cub?</span></div></span></div>",
+            "created":1586235600,
+            "id":2815035,
+            "title":"Emily"
+        },
+        "1553322222222222222222222222222223222222222222222232222222222222222222232222222212211":{
+            "author_id":"redwolf12",
+            "author_name":"wolfbood",
+            "choices":[
+                "A wish",
+                "A potion",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How did she become a bear cub?</span></div></span></div>",
+            "created":1586235600,
+            "id":2815158,
+            "title":"Yes"
+        },
+        "15533222222222222222222222222222232222222222222222322222222222222222222322222222122111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did she make the wish herself?</span></div></span></div>",
+            "created":1586235600,
+            "id":2815161,
+            "title":"A wish"
+        },
+        "155332222222222222222222222222222322222222222222223222222222222222222223222222221221111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "A star",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What did she make the wish on?</span></div></span></div>",
+            "created":1586235600,
+            "id":2815164,
+            "title":"Yes"
+        },
+        "1553322222222222222222222222222223222222222222222232222222222222222222232222222212211111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Immediately",
+                "In her sleep"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>When did the magic happen?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815309,
+            "title":"A star"
         }
     },
     "info":{
@@ -25317,7 +25427,7 @@
         "description":"<td align=\"left\" class=\"norm\">Inspired by Hidden in a Box's transform stories, here's my attempt.<br>\r\n<br>\r\nHere, you can have characters from your favorite anime and cartoons undergo whatever kind of changes you want them to. You can focus on groups or individuals, and if you do use groups, be aware that not every character has to be affected by all the same changes.<br>\r\n<br>\r\nNow then, some rules:<br>\r\n<br>\r\nNo sex, vore, futa, or unbirthing (let's keep it clean)<br>\r\nNo killing characters<br>\r\nNo ending the story<br>\r\nExcept for additional suggestions, all entries must be at least one paragraph long<br>\r\nTry to use proper grammar<br>\r\nBe consistent<br>\r\n<br>\r\nAside from that, everything is acceptable.<br>\r\n<br>\r\nAnd of course, have fun!</td>",
         "id":1909132,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1586195820,
+        "modified":1586381400,
         "pretty_title":"Animated Characters Transform Story"
     }
 }

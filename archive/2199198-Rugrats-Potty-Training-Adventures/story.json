@@ -42,6 +42,18 @@
             "id":2805273,
             "title":"Story 1"
         },
+        "112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will his parents let him go naked during potty-training?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815779,
+            "title":"Story 2"
+        },
         "12":{
             "author_id":"nicholas1998",
             "author_name":"Nick98",
@@ -68,6 +80,18 @@
             "created":1567054800,
             "id":2709738,
             "title":"Story 1"
+        },
+        "1212":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Could we look at this story through Chuckie's point of view?</span></div></span></div>",
+            "created":1586408400,
+            "id":2815969,
+            "title":"Not bad, but, let's try other ideas."
         },
         "13":{
             "author_id":"nicholas1998",
@@ -127,6 +151,18 @@
             "id":2708604,
             "title":"Angelica Pickles"
         },
+        "1511":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Could we talk about when Angelica first started potty-training?</span></div></span></div>",
+            "created":1586408400,
+            "id":2815970,
+            "title":"Story 1"
+        },
         "152":{
             "author_id":"nicholas1998",
             "author_name":"Nick98",
@@ -179,6 +215,30 @@
             "id":2808032,
             "title":"No"
         },
+        "153121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did she run away?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815776,
+            "title":"Writer's Choice 1"
+        },
+        "1531211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Tommy's house",
+                "Somewhere else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where did Kimi run away to?</span></div></span></div>",
+            "created":1586408400,
+            "id":2816126,
+            "title":"Yes"
+        },
         "154":{
             "author_id":"nicholas1998",
             "author_name":"Nick98",
@@ -201,8 +261,8 @@
         "created":1566927180,
         "description":"<td align=\"left\" class=\"norm\">This story was once someone else's, but it was sadly deleted for some reason 6 years ago, i believe.<br>\r\n<br>\r\nJust follow these rules.<br>\r\n<br>\r\n1.Keep it clean.<br>\r\n2. Diaper changes are allowed.<br>\r\n3. no weight gain<br>\r\n4. pooping and peeing in the diaper or training toilet is one of the main focuses.<br>\r\n5. Have fun!</td>",
         "id":2199198,
-        "image_url":"https://www.writing.com/main/images/action/display/ver/1585277696/item_id/2199198.png",
-        "modified":1585281240,
+        "image_url":"https://www.writing.com/main/images/action/display/ver/1586433241/item_id/2199198.png",
+        "modified":1586436840,
         "pretty_title":"Rugrats Potty Training Adventures"
     }
 }

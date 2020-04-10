@@ -6387,6 +6387,18 @@
             "id":2630746,
             "title":"The Simpsons"
         },
+        "15533222222222211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will she go back to the womb?</span></div></span></div>",
+            "created":1586235600,
+            "id":2815123,
+            "title":"Lisa Simpson"
+        },
         "1553322222222222":{
             "author_id":"dragonwriter45",
             "author_name":"Dragonwriter45",
@@ -7459,6 +7471,30 @@
             "id":2814283,
             "title":"Writer's Choice 1"
         },
+        "155332222222222222222222211121112111111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will he put Angelica in a diaper?</span></div></span></div>",
+            "created":1586235600,
+            "id":2815124,
+            "title":"Writer's Choice 1"
+        },
+        "155332222222222222222222211121112111112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will he give Angelica a bath?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815316,
+            "title":"Writer's Choice 2"
+        },
         "1553322222222222222222222111211122":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
@@ -7507,6 +7543,18 @@
             "created":1586149200,
             "id":2814272,
             "title":"Yes"
+        },
+        "15533222222222222222222221112311":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Her parents",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who made the wish?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815318,
+            "title":"A wish"
         },
         "1553322222222222222222222112":{
             "author_id":"jobobo19",
@@ -7743,6 +7791,18 @@
             "created":1586149200,
             "id":2814269,
             "title":"Yes"
+        },
+        "1553322222222222222222222112122111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Immediately",
+                "In his sleep"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>When does the magic happen?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815320,
+            "title":"A star"
         },
         "15533222222222222222222221122":{
             "author_id":"supreme123",
@@ -9356,7 +9416,7 @@
         "description":"<td align=\"left\" class=\"norm\">Watch as Characters from your favorite animes, video games or cartoons grow up or become younger through a mysterious process. Other transformations are allowed to, but the mian focus has to be either Age Progression or age Regression<br>\r\n<br>\r\nNote as of 2/22/10, you can do cartoon shows, movies and video games</td>",
         "id":1721217,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1586187300,
+        "modified":1586328900,
         "pretty_title":"Anime, Video Games and Cartoon  AP/AR"
     }
 }

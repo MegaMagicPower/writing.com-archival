@@ -21951,6 +21951,102 @@
             "id":2814456,
             "title":"clothes for a child her brother's age"
         },
+        "1251211111111211222111211222221222121212":{
+            "author_id":"mbrody",
+            "author_name":"MBrody",
+            "choices":[
+                "an adult.",
+                "a teenager."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0The clothes Jane was now wearing would look at home on...</span></div></span></div>",
+            "created":1586149200,
+            "id":2814500,
+            "title":"clothes for an adult or a teenager"
+        },
+        "12512111111112112221112112222212221212121":{
+            "author_id":"mbrody",
+            "author_name":"MBrody",
+            "choices":[
+                "also for an adult woman.",
+                "for an adult man."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Jane, like her brother, was now wearing adult clothing. Her clothes were...</span></div></span></div>",
+            "created":1586149200,
+            "id":2814501,
+            "title":"an adult."
+        },
+        "12512111111112112221112112222212221212122":{
+            "author_id":"mbrody",
+            "author_name":"MBrody",
+            "choices":[
+                "a teenage boy",
+                "a different kind of teenage girl than she was"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Jane's clothes were definitely geared toward someone her age, but a different kind of fifteen-year-old than she was. What kind of teenager is she dressed as?</span></div></span></div>",
+            "created":1586149200,
+            "id":2814502,
+            "title":"a teenager."
+        },
+        "125121111111121122211121122222122212121221":{
+            "author_id":"mbrody",
+            "author_name":"MBrody",
+            "choices":[
+                "yes",
+                "no"
+            ],
+            "content":"<div class=\"\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Jane noticed then that she was wearing a black Batman T-shirt, a jacket about the same color, and a pair of dark jeans. The style, she noted, seemed more at home for many of the boys at her school. She soon realized that she now was starting to become a boy.<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\"Well, at least you're not a toddler anymore,\" said Robert. <br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Are Jane and Robert fine with these changes?</span></div></div>",
+            "created":1586149200,
+            "id":2814504,
+            "title":"a teenage boy"
+        },
+        "125121111111121122211121122222122212121222":{
+            "author_id":"mbrody",
+            "author_name":"MBrody",
+            "choices":[
+                "of a different style she typically wore.",
+                "for a girl an age other than fifteen."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Jane noticed she was once again dressed like a teenage girl, which she was. However, something still didn't seem right. These were teen girl clothing, but...</span></div></span></div>",
+            "created":1586149200,
+            "id":2814521,
+            "title":"a different kind of teenage girl than she was"
+        },
+        "1251211111111211222111211222221222121212221":{
+            "author_id":"mbrody",
+            "author_name":"MBrody",
+            "choices":[
+                "a girly cheerleader type -- she is wearing a pink dress.",
+                "a loner type -- she is wearing punk-style clothing."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Jane noticed she was once again dressed like a teenage girl, which she was. However, something still didn't seem right. These were teen girl clothing, but the style seemed off. Jane was now dressed like...</span></div></span></div>",
+            "created":1586408400,
+            "id":2816052,
+            "title":"of a different style she typically wore."
+        },
+        "1251211111111211222111211222221222121212222":{
+            "author_id":"mbrody",
+            "author_name":"MBrody",
+            "choices":[
+                "older than fifteen.",
+                "younger than fifteen."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Jane noticed she was once again dressed like a teenage girl, which she was. However, something still didn't seem right. These were teen girl clothing, but they looked more suited for a girl...</span></div></span></div>",
+            "created":1586408400,
+            "id":2816050,
+            "title":"for a girl an age other than fifteen."
+        },
+        "125121111111121122211121122222122212122":{
+            "author_id":"mbrody",
+            "author_name":"MBrody",
+            "choices":[
+                "two years old.",
+                "one year old."
+            ],
+            "content":"<div class=\"\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Jane should have been more careful about her words, because suddenly she found herself looking up at Robert. The entire world seemed gigantic. Her babyish clothes had shrunk to fit her smaller frame. She was no longer turning into a toddler -- she was a toddler. Right now, she could be no older than...</span></div></div>",
+            "created":1586408400,
+            "id":2816077,
+            "title":"Jane is no longer becoming a toddler -- she is ..."
+        },
         "1251211111111211222111211222222":{
             "author_id":"mbrody",
             "author_name":"MBrody",
@@ -28525,6 +28621,19 @@
             "created":1488171600,
             "id":2282863,
             "title":"Jane change his diaper"
+        },
+        "125121111122222122":{
+            "author_id":"themaster223",
+            "author_name":"MASTER234",
+            "choices":[
+                "They were left in storytime",
+                "They found a baby ride",
+                "SE"
+            ],
+            "content":"<div class=\"\"><div> <span>The parents whimpered as they walked bare foot back to Robert, both blushing red as they try to cover themselves but no success as everyone can see them. A passing mother and daughter walked by as the little girl point at them, 'Mummy, why are those people babies?'<br>\r\n<br>\r\nThe mother just look at them as she covered her daughter's eyes, 'Just ignore them sweetie, they are special people with special needs' she said as she look disgusted at these retards just waddling around, 'look there's an ice cream shop over there' she said as she drag her to the ice cream. The daughter smile as she look up at her mummy, then sniffing the air as she look down to her poofy butt, knowing that somebody's gonna need a change.<br>\r\n<br>\r\nRobert came up to his family as he look up at his parents, 'Aw, guess you try next time kiddo' he said as he pat his father's diaper, Richard just sob, he calls his son that! Karen cried as their kids lead them to the next ride.<br>\r\n<br>\r\nThe parents waddle behind the children, both looking very embarrassed, Richard whispered to Karen 'We should run' he said<br>\r\n<br>\r\nKaren gave him a shocked face, 'But they are our children!' she whispered back 'Why can't you just man up for once in your life'<br>\r\n<br>\r\nRichard glared at her, 'Man up? I think our attire says different about that' <br>\r\n<br>\r\nJane look back as the adults stop talking, fearing that spanking they kept quiet as they got to the roller coaster. Robert is excited to go on, but Karen and Richard can't go on since they are too young. 'What do you mean?' ask Karen<br>\r\n<br>\r\nJane sigh, 'well guess you can't read yet' she took them to the sign and point, 'see?' she said as she made them look, Karen and Richard looked, dropping their jaws as they read, with Jane reading it out loud, 'People over the age of 21 are forbidden to go on since they are too young and fragile, and to avoid any messy accidents on the ride'<br>\r\n<br>\r\nRichard and Karen stood dumbstruck, 'But.. what do we do?' ask Richard</span></div></div>",
+            "created":1586235600,
+            "id":2815209,
+            "title":"Richard and Karen beg to get their clothes back"
         },
         "1251211111222222":{
             "author_id":"themaster223",
@@ -38428,7 +38537,7 @@
         "description":"<td align=\"left\" class=\"norm\">Who doesn't love Disney World? It is a truly magical place, where seemingly anything can happen. and now, you're going to make it literally magic. What if some of that Disney magic seeped out into the real world, transforming one of those millions of guests in some for or another?<br>\r\n<br>\r\n<br>\r\nSome ground rules:<br>\r\n<br>\r\n- No murder or killing of our main characters<br>\r\n<br>\r\n- Keep it clean. You can have the occassional swear, and of course the romantic encounter, but let's keep it light on the hardcore profanity and sex, alright?<br>\r\n<br>\r\n- I'm going to allow weight gain in the story, but only if it is to a realistic extent. I don't want any characters becoming 900 pounds. The 300 pound range is perfectly fine.<br>\r\n<br>\r\n- Have fun! Disney is a big place. So go wild!</td>",
         "id":1960607,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1586207820,
+        "modified":1586429820,
         "pretty_title":"Transforming in Walt Disney World"
     }
 }

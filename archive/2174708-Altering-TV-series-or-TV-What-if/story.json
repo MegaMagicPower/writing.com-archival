@@ -2039,6 +2039,78 @@
             "id":2807350,
             "title":"Others"
         },
+        "11523113114321231":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Magic",
+                "Science"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How will Angelica go back into the womb?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815269,
+            "title":"Yes"
+        },
+        "115231131143212311":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "A wish",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of magic?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815270,
+            "title":"Magic"
+        },
+        "1152311311432123112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was it a magic potion?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815769,
+            "title":"Something else"
+        },
+        "11523113114321231121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Her parents",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who gave Angelica the potion?</span></div></span></div>",
+            "created":1586408400,
+            "id":2815965,
+            "title":"Yes"
+        },
+        "115231131143212311211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did they tell Angelica the truth about what it was?</span></div></span></div>",
+            "created":1586408400,
+            "id":2816123,
+            "title":"Her parents"
+        },
+        "1152311311432123112111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Angelica drink the potion anyway?</span></div></span></div>",
+            "created":1586494800,
+            "id":2816511,
+            "title":"Yes"
+        },
         "1152312":{
             "author_id":"magicdream",
             "author_name":"Abracadabra.",
@@ -2162,6 +2234,18 @@
             "id":2812598,
             "title":"Dirty"
         },
+        "115231211111221":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Angelica relax as he changed her?</span></div></span></div>",
+            "created":1586408400,
+            "id":2815966,
+            "title":"Yes"
+        },
         "11523122":{
             "author_id":"spunky",
             "author_name":"Ace Jones",
@@ -2235,6 +2319,18 @@
             "created":1585803600,
             "id":2812101,
             "title":"Free Choice Chapter."
+        },
+        "11523122221131":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does she decide to go naked like her cousin?</span></div></span></div>",
+            "created":1586235600,
+            "id":2814739,
+            "title":"Yes"
         },
         "11523122223":{
             "author_id":"johnny2",
@@ -3185,6 +3281,18 @@
             "created":1586149200,
             "id":2814056,
             "title":"Writer's Choice 1"
+        },
+        "1152313323121211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Tommy's house",
+                "Somewhere else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where did she go?</span></div></span></div>",
+            "created":1586235600,
+            "id":2814740,
+            "title":"Yes"
         },
         "115231333":{
             "author_id":"magicdream",
@@ -12452,6 +12560,30 @@
             "id":2804850,
             "title":"codename kids next door"
         },
+        "1153322333322332243223":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "The Simpsons",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What about this?</span></div></span></div>",
+            "created":1586149200,
+            "id":2814622,
+            "title":"something else"
+        },
+        "11533223333223322432232":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is Family Guy okay?</span></div></span></div>",
+            "created":1586235600,
+            "id":2815054,
+            "title":"Something else"
+        },
         "12":{
             "author_id":"magicdream",
             "author_name":"Abracadabra.",
@@ -14146,6 +14278,18 @@
             "id":2749381,
             "title":"yeah"
         },
+        "125333322242322221232":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "RC 1",
+                "RC 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How to alter this episode?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815556,
+            "title":"Ihate Sam's boyfriend"
+        },
         "125333322242322221233":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
@@ -14231,6 +14375,143 @@
             "created":1574312400,
             "id":2749769,
             "title":"yeah"
+        },
+        "12533332224232222123332":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Iwant more viewers",
+                "Iwon't cancel the show",
+                "Another episode"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What other Icarly episode do we work with?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815534,
+            "title":"something else"
+        },
+        "125333322242322221233321":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Either Carly, Sam or both dressing like babies for a skit.",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>This episode is altered how?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815536,
+            "title":"Iwant more viewers"
+        },
+        "125333322242322221233322":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup",
+                "Any other ideas."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Hmm, instead of Baby Spencer, is it Baby Carly?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815538,
+            "title":"Iwon't cancel the show"
+        },
+        "125333322242322221233323":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Idream of dance",
+                "Another episode"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What other episode of icarly do we work with?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815552,
+            "title":"Another episode"
+        },
+        "1253333222423222212333231":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Carly's",
+                "Sam's.",
+                "Freddie's."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who's dream do we follow?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815553,
+            "title":"Idream of dance"
+        },
+        "12533332224232222123332311":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "She's in diapers",
+                "She's Sam's mother",
+                "Another dream scenario"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What's different about Carly's dream?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815562,
+            "title":"Carly's"
+        },
+        "125333322242322221233323111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is Sam changing her?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815566,
+            "title":"She's in diapers"
+        },
+        "125333322242322221233323112":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Changing her",
+                "Doing something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>In the dream, she's showing Sam how to dance?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815564,
+            "title":"She's Sam's mother"
+        },
+        "12533332224232222123332312":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "She's in diapers",
+                "She's Carly's mother",
+                "Another dream scenario"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What's different about Sam's dream?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815563,
+            "title":"Sam's."
+        },
+        "125333322242322221233323121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is Carly putting her into a new diaper?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815570,
+            "title":"She's in diapers"
+        },
+        "125333322242322221233323122":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She's feeding Carly like a baby in the dream?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815571,
+            "title":"She's Carly's mother"
         },
         "125333322242322222":{
             "author_id":"supreme123",
@@ -15726,7 +16007,7 @@
         "description":"<td align=\"left\" class=\"norm\">Each category is broken down into two sections <br>\r\nAlter = change anything i.e: TG TF AR AP etc<br>\r\nWhat if = change the story line i.e: Johnny Test stuck as a dog<br>\r\n<br>\r\nSo any series Live Action, Cartoon or Anime, you can do anything you want however there\u2019s two exceptions <br>\r\n<br>\r\n1) Sex is fine but don\u2019t get to graphic <br>\r\n2) NO Vore <br>\r\n<br>\r\n<br>\r\n</td>",
         "id":2174708,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1586182440,
+        "modified":1586495580,
         "pretty_title":"Altering TV series or TV What if "
     }
 }

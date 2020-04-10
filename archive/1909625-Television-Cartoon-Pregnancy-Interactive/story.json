@@ -463,6 +463,30 @@
             "created":1561179600,
             "id":2677075,
             "title":"The loud house"
+        },
+        "1553323":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "As told by Ginger",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about this</span></div></span></div>",
+            "created":1586235600,
+            "id":2815118,
+            "title":"Let's think of more options that could work."
+        },
+        "15533232":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "The Powerpuff Girls",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Would this be okay?</span></div></span></div>",
+            "created":1586235600,
+            "id":2815120,
+            "title":"Something else"
         }
     },
     "info":{
@@ -473,7 +497,7 @@
         "description":"<td align=\"left\" class=\"norm\">You decide which female characters from various cartoon shows become rapidly pregnant.<br>\r\n<br>\r\nRules: <br>\r\n<br>\r\nNon-detailed sex is OK.<br>\r\n<br>\r\nGood grammar/spelling<br>\r\n<br>\r\nNo entries shorter than six sentences.<br>\r\n<br>\r\nHave fun!</td>",
         "id":1909625,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1564505820,
+        "modified":1586301600,
         "pretty_title":"Television Cartoon Pregnancy Interactive"
     }
 }

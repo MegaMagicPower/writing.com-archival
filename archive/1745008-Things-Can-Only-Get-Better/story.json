@@ -474,6 +474,19 @@
             "created":1295845200,
             "id":1041444,
             "title":"Go to your older sister\u2019s room."
+        },
+        "132":{
+            "author_id":"timmysmomsgas",
+            "author_name":"Timmys Mom's Gas",
+            "choices":[
+                "Park",
+                "Try and go back in",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You could do something else? Maybe try and go back in your sister's room? Or park if you really want to.</span></div></span></div>",
+            "created":1586235600,
+            "id":2815132,
+            "title":"Something else maybe?"
         }
     },
     "info":{
@@ -484,7 +497,7 @@
         "description":"<td align=\"left\" class=\"norm\">This is something I started for my website but never finished.<br>\r\n<br>\r\nNo author specific rules, just enjoy. <br>\r\n<br>\r\n<br>\r\nUPDATE 2012: I only realize now that the concept doesn't quite work here since these interactive stories only go in a single direction; they cannot go back to old premises mentioned in previous chapters. This idea was based off the old Goosebumps Choose Your Path books. Consider this, experimental.</td>",
         "id":1745008,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1514805240,
+        "modified":1586302680,
         "pretty_title":"Things Can Only Get Better"
     }
 }

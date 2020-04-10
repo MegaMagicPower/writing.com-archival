@@ -3707,6 +3707,43 @@
             "id":2407737,
             "title":"Continue"
         },
+        "115222222":{
+            "author_id":"chenix",
+            "author_name":"Cool Guy",
+            "choices":[
+                "Enter it",
+                "Keep goin"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You find a door with a sign saying \"The hybrid room.\"</span></div></span></div>",
+            "created":1586408400,
+            "id":2816348,
+            "title":"Move on"
+        },
+        "1152222221":{
+            "author_id":"chenix",
+            "author_name":"Cool Guy",
+            "choices":[
+                "Scenario 1",
+                "Scenario 2",
+                "Scenario 3"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You decide to enter it, as the name peaks your interest. Entering the room, it looked like a greenhouse. It was mostly filled with fruit. You see a purple looking fruit, and it was basically an apple. You were hungry, so you decide to eat it.</span></div></span></div>",
+            "created":1586408400,
+            "id":2816357,
+            "title":"Enter it"
+        },
+        "1152222222":{
+            "author_id":"chenix",
+            "author_name":"Cool Guy",
+            "choices":[
+                "Look inside",
+                "keep going"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Walking further down, you see a door half open.</span></div></span></div>",
+            "created":1586408400,
+            "id":2816466,
+            "title":"Keep going"
+        },
         "12":{
             "author_id":"starwars13",
             "author_name":"Lord Hugo Prosperio",
@@ -8646,6 +8683,18 @@
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You see a huge door, and it was at least 30 feet tall. </span></div></span></div>",
             "created":1583643600,
             "id":2798547,
+            "title":"Keep going"
+        },
+        "135322222":{
+            "author_id":"chenix",
+            "author_name":"Cool Guy",
+            "choices":[
+                "Enter it",
+                "Keeps going"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You find a room labeled \"Room of trade.\"</span></div></span></div>",
+            "created":1586408400,
+            "id":2816341,
             "title":"Keep going"
         },
         "14":{
@@ -15876,7 +15925,7 @@
         "description":"<td align=\"left\" class=\"norm\">You are an 18 Female who stumbles on the famed Transformansion, home of Lord Hugo Prosperio, and changes galore. How will you change or how will you change our female subject?</td>",
         "id":1113385,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1583784240,
+        "modified":1586490600,
         "pretty_title":"The TranforMansion: A Girl's Tale"
     }
 }

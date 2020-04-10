@@ -2016,6 +2016,31 @@
             "id":2814305,
             "title":"A Tiger"
         },
+        "1513321221":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "The tiger still acts like a wild animal... just with Adrien's human body...",
+                "Somehow, the tiger is able to imitate human behavior perfectly..."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>One more thing: After the swap, will the tiger in Adrien's body still behave like a wild animal, or is it somehow able to imitate him perfectly?</span></div></span></div>",
+            "created":1586149200,
+            "id":2814556,
+            "title":"Male"
+        },
+        "15133212211":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "A deliberate act by an Akumatized Villain",
+                "An accident with a brand-new Miraculous",
+                "Some other method"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Now for the most important part of all; How exactly does Adrien Agreste end up swapping bodies with a tiger???</span></div></span></div>",
+            "created":1586149200,
+            "id":2814560,
+            "title":"Now for the most important part..."
+        },
         "1513321222":{
             "author_id":"mysterykid18",
             "author_name":"Mysteryguy18",
@@ -3601,7 +3626,7 @@
         "description":"<td align=\"left\" class=\"norm\">Everything aside from Scat and Watersports is allowed (Farts are allowed, and in fact encouraged)</td>",
         "id":2088612,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1586197680,
+        "modified":1586216880,
         "pretty_title":"Miraculous Ladybug shenanigans"
     }
 }

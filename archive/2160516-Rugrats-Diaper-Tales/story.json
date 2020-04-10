@@ -1860,6 +1860,18 @@
             "id":2808698,
             "title":"Something else"
         },
+        "1511111212111111121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will she find some music for her show?</span></div></span></div>",
+            "created":1586235600,
+            "id":2814736,
+            "title":"Her toys"
+        },
         "1511111212111112":{
             "author_id":"johnny2",
             "author_name":"littlejohn",
@@ -1871,6 +1883,18 @@
             "created":1585458000,
             "id":2809940,
             "title":"Something else"
+        },
+        "15111112121111121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Writer's Choice 1",
+                "Writer's Choice 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What will be her first decree?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815910,
+            "title":"Yes"
         },
         "15111112121112":{
             "author_id":"johnny2",
@@ -1919,6 +1943,30 @@
             "created":1585026000,
             "id":2806324,
             "title":"Something else"
+        },
+        "15111112121121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Charlotte lay down a few rules?</span></div></span></div>",
+            "created":1586235600,
+            "id":2815249,
+            "title":"Yes"
+        },
+        "151111121211211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "No potty",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What was the first rule?</span></div></span></div>",
+            "created":1586408400,
+            "id":2816110,
+            "title":"Yes"
         },
         "15111112121122":{
             "author_id":"johnny2",
@@ -2015,6 +2063,30 @@
             "created":1586149200,
             "id":2814284,
             "title":"A crib"
+        },
+        "1511111212112212111111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did they get more diapers and changing supplies?</span></div></span></div>",
+            "created":1586235600,
+            "id":2815248,
+            "title":"Yes"
+        },
+        "15111112121122121111111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did they get anything else?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815657,
+            "title":"Yes"
         },
         "1512":{
             "author_id":"supreme123",
@@ -2329,6 +2401,18 @@
             "created":1556686800,
             "id":2653025,
             "title":"Yes."
+        },
+        "1521111":{
+            "author_id":"nerdman123",
+            "author_name":"Pastaman",
+            "choices":[
+                "She Keeps Playing Until Didi Comes In",
+                "She Has To Go Potty Again"
+            ],
+            "content":"<div class=\"\"><div> <span>After Putting Her Diaper On She Had A Very Big Urge To Go Potty. She Then Told Tommy Who The Told Her You Can Go Potty Here You Do Have A Diapie On. She Couldn't Hold It So She Squatted Down And Started Pooping In Her Diaper. When She Was Done Pooping She Went Back To Playing.</span></div></div>",
+            "created":1586408400,
+            "id":2816270,
+            "title":"Susie goes potty in her diaper while playing."
         },
         "152112":{
             "author_id":"mouse108",
@@ -5727,7 +5811,7 @@
         "description":"<td align=\"left\" class=\"norm\">Stories about The Rugrats using their diapers/underwear and failing at potty training.<br>\r\n<br>\r\nRules<br>\r\n<br>\r\nJust stay on topic and <b>add detail, don't just add 1 or 2 sentences</b><br>\r\nWetting and messing is the focus, don't go crazy with other things.<br>\r\n<br>\r\nNotice: After being messaged a request, I've added an All Grown Up option under Tommy's path for those who want to use it. Feel free to add on to it. <br>\r\n<br>\r\nAlso thank you for 35k chapter views. I didn't know how this would do when creating it. So thanks to those that read or add chapters to this story.</td>",
         "id":2160516,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1586187480,
+        "modified":1586463420,
         "pretty_title":"Rugrats Diaper Tales"
     }
 }

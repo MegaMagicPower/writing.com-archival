@@ -73128,6 +73128,78 @@
             "id":2811824,
             "title":"SE"
         },
+        "15513211121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did they tell Angelica the truth about what it was?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815340,
+            "title":"Yes"
+        },
+        "155132111211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Angelica drink it anyway?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815341,
+            "title":"Yes"
+        },
+        "1551321112111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Immediately",
+                "In her sleep"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>When did she start to feel the effects?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815716,
+            "title":"Yes"
+        },
+        "15513211121111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did her clothes change with her?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815750,
+            "title":"Immediately"
+        },
+        "155132111211111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "A smaller dress and a diaper",
+                "A T-shirt and a diaper"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What did her clothes change into?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815751,
+            "title":"Yes"
+        },
+        "1551321112111112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was Angelica happy that the potion worked?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815879,
+            "title":"A T-shirt and a diaper"
+        },
         "155132112":{
             "author_id":"johnny2",
             "author_name":"littlejohn",
@@ -73478,6 +73550,18 @@
             "created":1586062800,
             "id":2813776,
             "title":"The crib"
+        },
+        "1551321311121111112221121211111111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "The changing table",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She's actually looking forward to sleeping in a crib again?<br>\r\n<br>\r\nWhat did her parents show her next?</span></div></span></div>",
+            "created":1586408400,
+            "id":2816232,
+            "title":"Yes"
         },
         "155132131112111111222112121111112":{
             "author_id":"johnny2",
@@ -73878,7 +73962,7 @@
         "description":"<td align=\"left\" class=\"norm\">Hello Everyone! Through request I have made a female version of my Days As A Diaper Boy. In this story you can diaper any female character from shows, movies, comics ect. and even create your own characters to diaper. <br>\r\n<br>\r\nRules:<br>\r\n<br>\r\nNo Sex: I have rated this story 13+ so please don't include any explicit sex scenes. You can imply it happened but don't go into detail about it.<br>\r\n<br>\r\nFemales only: This is more to keep starting options down since what happens is that lots of people add character options but never actually go through with them. Males in diapers can appear but they can't be the focus. A male version of this story can be found here: <a class=\"blue2roll\" rel=\"nofollow\" href=\"https://www.writing.com/main/interact/item_id/2142178-Days-As-A-Diaper-Boy\" target=\"_blank\">https://www.writing.com/main/interact/item_id/2142178-Days-As-A-Diaper-Boy</a><br>\r\n<br>\r\nHave fun: Pretty self-explanatory and it is why we're all here after all. <br>\r\n</td>",
         "id":2175335,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1586134140,
+        "modified":1586454840,
         "pretty_title":"Days As A Diaper Gal"
     }
 }

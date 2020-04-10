@@ -1644,6 +1644,97 @@
             "id":2811368,
             "title":"Younger"
         },
+        "1412122221132":{
+            "author_id":"littleleo",
+            "author_name":"KitCat27",
+            "choices":[
+                "She bursts out crying",
+                "She holds her tears and looks for her Aunt",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She's shrunk all the way down to 3 years old!<br>\r\n<br>\r\nBetween wetting the bed, the diaper being stuck, and now being a baby again?<br>\r\n<br>\r\nHow does Sandy React?</span></div></span></div>",
+            "created":1586235600,
+            "id":2815213,
+            "title":"Age 3, back to Diapers/Potty Training"
+        },
+        "14121222211321":{
+            "author_id":"littleleo",
+            "author_name":"KitCat27",
+            "choices":[
+                "Sandy-bear, what's wrong?(she doesn't seem bothered by Sandy being 3)",
+                "Oh Dear, you opened the closet",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Sandy is overwhelemed and starts crying.<br>\r\n<br>\r\nAfter a bit her Aunt rushes in, having heard her Neice Wailing.<br>\r\n<br>\r\nHow does she respond to the Regressed Sandy?<br>\r\n<br>\r\n<br>\r\n<br>\r\n</span></div></span></div>",
+            "created":1586235600,
+            "id":2815231,
+            "title":"She bursts out crying"
+        },
+        "141212222113212":{
+            "author_id":"littleleo",
+            "author_name":"KitCat27",
+            "choices":[
+                "She's a Witch, and:",
+                "She's an Inventor, and:",
+                "More Options"
+            ],
+            "content":"<div class=\"\"><div> <span>Sandy's Aunt immediately notices what happened as she comes into the bathroom.<br>\r\n<br>\r\n\"Oh dear, you opened the closet.\" She says. \"Well at least it's this and not something else\" she adds.<br>\r\n<br>\r\nSandy stops crying a little and asks her Aunt what happened!<br>\r\n<br>\r\nHer Aunt Explains:</span></div></div>",
+            "created":1586235600,
+            "id":2815234,
+            "title":"Oh Dear, you opened the closet"
+        },
+        "1412122221132121":{
+            "author_id":"littleleo",
+            "author_name":"KitCat27",
+            "choices":[
+                "Enchanted",
+                "Cursed",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Her Aunt explains that she's a Witch, and that the stuff in the closet was:<br>\r\n</span></div></span></div>",
+            "created":1586235600,
+            "id":2815235,
+            "title":"She's a Witch, and:"
+        },
+        "14121222211321211":{
+            "author_id":"littleleo",
+            "author_name":"KitCat27",
+            "choices":[
+                "She asks Sandy if she'd like to stay like this for a bit",
+                "She punishes Sandy for disobeying her",
+                "More Options"
+            ],
+            "content":"<div class=\"\"><div> <span>She reveals that some of the stuff in the closet is Enchanted.<br>\r\n<br>\r\nShe explains the Diapers were Enchanted to regress the wearer to an age suitable for wearing diapers.<br>\r\n<br>\r\nAs a side-effect, the wearer can't take one off once they've used it.<br>\r\n<br>\r\nShe explains that as long as she doesn't wear one of the enchanted ones tonight, Sandy will be back to her original age the next morning.<br>\r\n<br>\r\nWhat happens Next?</span></div></div>",
+            "created":1586235600,
+            "id":2815239,
+            "title":"Enchanted"
+        },
+        "141212222113212111":{
+            "author_id":"littleleo",
+            "author_name":"KitCat27",
+            "choices":[
+                "YES!",
+                "Maybe(add changes)",
+                "No"
+            ],
+            "content":"<div class=\"\"><div> <span>Sandy's aunt then says something shocking.<br>\r\n<br>\r\nShe asks Sandy if she'd like to stay as a toddler for a while.<br>\r\n<br>\r\n\"it doesn't have to the entire Summer, but since you were curious about wearing one, I thought you might like to try it for a bit.\"<br>\r\n<br>\r\nWhat does Sandy say to her offer?</span></div></div>",
+            "created":1586235600,
+            "id":2815243,
+            "title":"She asks Sandy if she'd like to stay like t..."
+        },
+        "1412122221132121112":{
+            "author_id":"littleleo",
+            "author_name":"KitCat27",
+            "choices":[
+                "Can be Older than 3 instead",
+                "Can be Younger than 3 insteax",
+                "More Options"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Sandy asks her Aunt if they can tweak the deal.<br>\r\n<br>\r\nShe asks if she:</span></div></span></div>",
+            "created":1586235600,
+            "id":2815244,
+            "title":"Maybe(add changes)"
+        },
         "14122":{
             "author_id":"littleleo",
             "author_name":"KitCat27",
@@ -6314,7 +6405,7 @@
         "description":"<td align=\"left\" class=\"norm\">Please add full paragraphs unless more options need to be added. </td>",
         "id":2200188,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1585995720,
+        "modified":1586319600,
         "pretty_title":"Magical diapers"
     }
 }

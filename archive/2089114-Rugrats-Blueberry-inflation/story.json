@@ -144,6 +144,66 @@
             "id":2691580,
             "title":"More Story Choices"
         },
+        "1151":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Blueberry",
+                "Apple",
+                "Grape",
+                "Blackberry",
+                "some other fruits"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What Fruit will Tommy Inflate into?</span></div></span></div>",
+            "created":1586408400,
+            "id":2816362,
+            "title":"Story 5"
+        },
+        "11511":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Your Choice",
+                "Reader's Choice",
+                "Reader's Choice",
+                "Reader's choice",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How will Tommy Inflate into a blueberry?</span></div></span></div>",
+            "created":1586408400,
+            "id":2816369,
+            "title":"Blueberry"
+        },
+        "1152":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Blueberry",
+                "Apple",
+                "Grape",
+                "Watermelon",
+                "Next set of fruits"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What Fruit will Tommy inflate into in story 6?</span></div></span></div>",
+            "created":1586408400,
+            "id":2816365,
+            "title":"Story 6"
+        },
+        "11521":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Reader's Choice",
+                "Reader's Choice",
+                "Reader's Choice",
+                "Something Else",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How Will Tommy Inflate into a blueberry</span></div></span></div>",
+            "created":1586408400,
+            "id":2816367,
+            "title":"Blueberry"
+        },
         "1153":{
             "author_id":"nicholas1998",
             "author_name":"Nick98",
@@ -156,6 +216,49 @@
             "created":1563944400,
             "id":2691581,
             "title":"Other stories"
+        },
+        "11531":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Apple",
+                "Blueberry",
+                "Blackberry",
+                "Watermelon",
+                "Next set of fruits"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What type of Fruit will Tommy Become?</span></div></span></div>",
+            "created":1586408400,
+            "id":2816393,
+            "title":"Story 7"
+        },
+        "115311":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Red Apple",
+                "Green Apple",
+                "Other color apples"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What type of apple will Tommy become?</span></div></span></div>",
+            "created":1586408400,
+            "id":2816394,
+            "title":"Apple"
+        },
+        "11532":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Apple",
+                "Blueberry",
+                "grape",
+                "Reader's choice",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What type of fruit will Tommy become by your choice?</span></div></span></div>",
+            "created":1586408400,
+            "id":2816397,
+            "title":"Story 8"
         },
         "11533":{
             "author_id":"nicholas1998",
@@ -329,6 +432,66 @@
             "created":1572843600,
             "id":2742057,
             "title":"Story 1"
+        },
+        "1215":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Stick with Blueberry Stories",
+                "Apple",
+                "Grape",
+                "Watermelon",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Before You add more stories, Do you still want Blueberry or Next fruit?</span></div></span></div>",
+            "created":1586408400,
+            "id":2816375,
+            "title":"Other Stories"
+        },
+        "122":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Blueberry",
+                "Apple",
+                "Watermelon ",
+                "Grape",
+                "Next set of fruits"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do you want to go with Blueberry or other fruits?</span></div></span></div>",
+            "created":1586408400,
+            "id":2816371,
+            "title":"Story 2"
+        },
+        "1221":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Reader's Choice",
+                "Reader's Choice",
+                "Reader's Choice",
+                "Something Else",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How will Chuckie become a blueberry?</span></div></span></div>",
+            "created":1586408400,
+            "id":2816372,
+            "title":"Blueberry"
+        },
+        "1222":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Your Choice",
+                "Reader's Choice",
+                "Reader's Choice",
+                "Reader's choice",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How will Chuckie become an apple?</span></div></span></div>",
+            "created":1586408400,
+            "id":2816373,
+            "title":"Apple"
         },
         "125":{
             "author_id":"nicholas1998",
@@ -528,6 +691,21 @@
             "created":1572843600,
             "id":2742060,
             "title":"Story 1"
+        },
+        "1315":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Blueberry",
+                "Apple",
+                "Strawberry",
+                "Grape",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do you still want Blueberry or another fruit?</span></div></span></div>",
+            "created":1586408400,
+            "id":2816378,
+            "title":"Other Stories"
         },
         "135":{
             "author_id":"nicholas1998",
@@ -819,6 +997,21 @@
             "id":2742063,
             "title":"Story 2"
         },
+        "143":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Reader's Choice",
+                "Reader's Choice",
+                "Reader's Choice",
+                "Other fruits to chose",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How Will Lil Become a blueberry?</span></div></span></div>",
+            "created":1586408400,
+            "id":2816380,
+            "title":"Story 3"
+        },
         "145":{
             "author_id":"nicholas1998",
             "author_name":"Nick98",
@@ -1042,6 +1235,21 @@
             "created":1563944400,
             "id":2691594,
             "title":"More Other stories"
+        },
+        "15131":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Blueberry",
+                "Apple",
+                "Grape",
+                "Blackberry",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will Dil Become a blue or another fruit?</span></div></span></div>",
+            "created":1586408400,
+            "id":2816383,
+            "title":"Story 3"
         },
         "15133":{
             "author_id":"nicholas1998",
@@ -1432,6 +1640,34 @@
             "id":2691599,
             "title":"Other stories"
         },
+        "15231":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Blueberry ",
+                "Apple",
+                "Grape",
+                "Watermelon",
+                "Next set of fruits"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will Angelica become blueberry or another fruit?<br>\r\n<br>\r\n</span></div></span></div>",
+            "created":1586408400,
+            "id":2816387,
+            "title":"Story 3"
+        },
+        "152313":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Green grape",
+                "Purple grape",
+                "Other color grapes"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What Type of Grape?</span></div></span></div>",
+            "created":1586408400,
+            "id":2816388,
+            "title":"Grape"
+        },
         "15233":{
             "author_id":"nicholas1998",
             "author_name":"Nick98",
@@ -1613,6 +1849,36 @@
             "created":1467435600,
             "id":2174244,
             "title":"Susie Carmicheal"
+        },
+        "1531":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Blueberry",
+                "Apple",
+                "Blackberry",
+                "Watermelon",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will Susie become Blue or another fruit color?</span></div></span></div>",
+            "created":1586408400,
+            "id":2816385,
+            "title":"Story 1"
+        },
+        "15311":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Reader's Choice",
+                "Reader's Choice",
+                "Some Other stories",
+                "Reader's choice",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How will Susie become Blue?</span></div></span></div>",
+            "created":1586408400,
+            "id":2816386,
+            "title":"Blueberry"
         },
         "1533":{
             "author_id":"nicholas1998",
@@ -2052,6 +2318,21 @@
             "id":2691608,
             "title":"Other stories"
         },
+        "15431":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Blueberry",
+                "Grape",
+                "Apple",
+                "Watermelon",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will Kimi become a Blueberry or Something else?</span></div></span></div>",
+            "created":1586408400,
+            "id":2816391,
+            "title":"Story 3"
+        },
         "15433":{
             "author_id":"nicholas1998",
             "author_name":"Nick98",
@@ -2227,10 +2508,10 @@
         "author_name":"Nick98",
         "brief_description":"Turn any of your favorite babies from Rugrats into a blueberry or any other fruit.",
         "created":1467490500,
-        "description":"<td align=\"left\" class=\"norm\">Rules: <br>\r\n<br>\r\n1: Excellent Grammar <br>\r\n2: More then just one paragraph<br>\r\n3: Excellent sentences<br>\r\n4: Only the baby characters can be turned into a blueberry<br>\r\n5: Keep it clean<br>\r\n6: ripped clothes are allowed when the Blueberry Transformation happens<br>\r\n7: The Blueberry Transformation must be slowly with Details<br>\r\n8: Have fun!</td>",
+        "description":"<td align=\"left\" class=\"norm\">Rules: <br>\r\n<br>\r\n1: Excellent Grammar <br>\r\n2: More then just one paragraph<br>\r\n3: Excellent sentences<br>\r\n4: Only the baby characters can be turned into a blueberry<br>\r\n5: Keep it clean<br>\r\n6: ripped clothes are allowed when the Blueberry Transformation happens<br>\r\n7: The Blueberry Transformation must be slowly with Details<br>\r\n8: Blueberries are not the only fruit inflation allowed. That means you can have strawberry, grape and other types of fruit to inflate the babies.<br>\r\n9: Have fun!</td>",
         "id":2089114,
-        "image_url":"https://www.writing.com/main/images/action/display/ver/1585234119/item_id/2089114.png",
-        "modified":1585237680,
+        "image_url":"https://www.writing.com/main/images/action/display/ver/1586475587/item_id/2089114.png",
+        "modified":1586479140,
         "pretty_title":"Rugrats Blueberry inflation"
     }
 }

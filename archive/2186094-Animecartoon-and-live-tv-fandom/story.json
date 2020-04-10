@@ -2457,6 +2457,18 @@
             "id":2806450,
             "title":"Something else"
         },
+        "1211113333222121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did they need help?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815278,
+            "title":"Yes"
+        },
         "1211113333222122":{
             "author_id":"johnny2",
             "author_name":"littlejohn",
@@ -2492,6 +2504,30 @@
             "created":1585112400,
             "id":2806770,
             "title":"Kimi"
+        },
+        "121111333322212222":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Writer's Choice 1",
+                "Writer's Choice 2"
+            ],
+            "content":"<div class=\"\"><div> <span>Kimi took off her boots first. Then, she unbuttoned her dress<br>\r\nand pulled it and her shirt off and placed them in a pile. <br>\r\nFinally, she unfastened the tapes of her diaper and let it <br>\r\nfall to her feet as she sighed at the feeling of cool air on <br>\r\nher bare bottom.<br>\r\n<br>\r\nWhat happen next?</span></div></div>",
+            "created":1586235600,
+            "id":2814731,
+            "title":"No"
+        },
+        "1211113333222122221":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Were Tommy and/or Chuckie surprised and curious about Kimi's privates?</span></div></span></div>",
+            "created":1586494800,
+            "id":2816508,
+            "title":"Writer's Choice 1"
         },
         "12111133332222":{
             "author_id":"johnny2",
@@ -2787,6 +2823,30 @@
             "id":2810092,
             "title":"No. She loved her diapers "
         },
+        "121131323221":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did she run away?</span></div></span></div>",
+            "created":1586235600,
+            "id":2815046,
+            "title":"Writer's Choice 1"
+        },
+        "1211313232211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Tommy's house",
+                "Somewhere else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where did Kimi run away to?</span></div></span></div>",
+            "created":1586408400,
+            "id":2815947,
+            "title":"Yes"
+        },
         "121132":{
             "author_id":"nicholas1998",
             "author_name":"Nick98",
@@ -3031,6 +3091,18 @@
             "id":2814252,
             "title":"Writer's Choice 1"
         },
+        "12113311111131212112111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was he happy because he think it's another chance to raise her right?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815678,
+            "title":"Yes"
+        },
         "121133111111312121122":{
             "author_id":"johnny2",
             "author_name":"littlejohn",
@@ -3054,6 +3126,18 @@
             "created":1586149200,
             "id":2814254,
             "title":"Writer's Choice 1"
+        },
+        "12113311111131212112211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was Charlotte happy because she thinks it's another change to raise Angelica right?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815680,
+            "title":"Yes"
         },
         "121133111111312122":{
             "author_id":"johnny2",
@@ -3202,6 +3286,30 @@
             "created":1586149200,
             "id":2814255,
             "title":"Little Bear"
+        },
+        "1213332111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "A circus",
+                "Somewhere else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where did the flea come from?</span></div></span></div>",
+            "created":1586235600,
+            "id":2815133,
+            "title":"Yes"
+        },
+        "121333212":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Emily",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who else would you want to alter?</span></div></span></div>",
+            "created":1586408400,
+            "id":2816114,
+            "title":"Someone else"
         },
         "122":{
             "author_id":"ridley23",
@@ -3723,6 +3831,18 @@
             "created":1566363600,
             "id":2705532,
             "title":"Sure."
+        },
+        "12411314":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will it be when she was still in the womb?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815281,
+            "title":"Four years ago, when she was zero."
         },
         "1241132":{
             "author_id":"jobobo19",
@@ -5774,7 +5894,7 @@
         "description":"<td align=\"left\" class=\"norm\">Rules <br>\r\n1 anime and cartoon crossovers some with live tv are welcome.<br>\r\n2 any feithes are welcome as well just give a warning if any sex is up coming.<br>\r\n3 don't end the story and have fun.</td>",
         "id":2186094,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1586182680,
+        "modified":1586495340,
         "pretty_title":"Anime/cartoon and live tv fandom."
     }
 }

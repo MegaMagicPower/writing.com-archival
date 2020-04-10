@@ -1899,6 +1899,18 @@
             "id":2599264,
             "title":"Makoto tested the app"
         },
+        "151211":{
+            "author_id":"persona4golden",
+            "author_name":"TheObserver",
+            "choices":[
+                "Guy",
+                "Girl"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did she choose one of the guys or one of the girls?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815446,
+            "title":"A Phantom Thief "
+        },
         "15122":{
             "author_id":"persona4golden",
             "author_name":"TheObserver",
@@ -2467,6 +2479,18 @@
             "id":2762430,
             "title":"Of course!"
         },
+        "154311122":{
+            "author_id":"persona4golden",
+            "author_name":"TheObserver",
+            "choices":[
+                "Makoto",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did he choose Makoto?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815444,
+            "title":"Maybe for later..."
+        },
         "155":{
             "author_id":"ocarinaplayer",
             "author_name":"ocarinaplayer",
@@ -2586,7 +2610,7 @@
         "description":"<td align=\"left\" class=\"norm\">Keep this story T rated<br>\r\n<br>\r\nNo ending the Story! There is always a way it can continue!<br>\r\n<br>\r\nNo killing off characters.<br>\r\n<br>\r\nNo mental changes! characters may like another person's life more, but not think they are the other person<br>\r\n<br>\r\nIf a chapter is really badly written. It will be deleted</td>",
         "id":2144095,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1585726860,
+        "modified":1586350080,
         "pretty_title":"Persona 5 Possession"
     }
 }

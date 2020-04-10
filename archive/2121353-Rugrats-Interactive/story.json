@@ -176,6 +176,43 @@
             "id":2580213,
             "title":"Yes."
         },
+        "1152":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Chuckie",
+                "Kimi",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who else is with him?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815662,
+            "title":"Tommy goes on an imaginary Adventure in the Bat..."
+        },
+        "11522":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will they be nakey on this adventure?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815663,
+            "title":"Kimi"
+        },
+        "115221":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Naked boating adventure",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of adventure are they on?</span></div></span></div>",
+            "created":1586408400,
+            "id":2815972,
+            "title":"Yes"
+        },
         "1153":{
             "author_id":"nicholas1998",
             "author_name":"Nick98",
@@ -554,6 +591,18 @@
             "id":2813738,
             "title":"Stu"
         },
+        "11533332322322212122111111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did he freak out?</span></div></span></div>",
+            "created":1586235600,
+            "id":2815042,
+            "title":"Writer's Choice 1"
+        },
         "1153333232232221212211112":{
             "author_id":"johnny2",
             "author_name":"littlejohn",
@@ -565,6 +614,18 @@
             "created":1586062800,
             "id":2813739,
             "title":"Didi"
+        },
+        "11533332322322212122111121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did she freak out?</span></div></span></div>",
+            "created":1586235600,
+            "id":2815045,
+            "title":"Writer's Choice 1"
         },
         "115333323223222122":{
             "author_id":"johnny2",
@@ -1478,6 +1539,18 @@
             "id":2812944,
             "title":"Yes"
         },
+        "1511122121111111111112121111111111111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Were the babies taken outside?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815790,
+            "title":"Writer's Choice 1"
+        },
         "15111221211111111111122":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
@@ -1638,6 +1711,18 @@
             "created":1585976400,
             "id":2813255,
             "title":"Yes"
+        },
+        "15111221211111111111122331212111212":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Tommy",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Whose diaper was changed first?</span></div></span></div>",
+            "created":1586408400,
+            "id":2816129,
+            "title":"No"
         },
         "151112212111112":{
             "author_id":"supreme123",
@@ -2264,6 +2349,18 @@
             "id":2702131,
             "title":"Naked Tommy Extended Version"
         },
+        "15433321":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Tommy got the idea after seeing Spike yank off his sweater.  Will Kimi join him?</span></div></span></div>",
+            "created":1586235600,
+            "id":2815260,
+            "title":"Tommy"
+        },
         "15433322":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
@@ -2444,6 +2541,42 @@
             "id":2814058,
             "title":"Writer's Choice 1"
         },
+        "1543332222212111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Stu",
+                "Didi"
+            ],
+            "content":"<div class=\"\"><div> <span>Right at the moment Kimi finished teaching Tommy, <br>\r\nSpike jumped into the playpen. Tommy then climbed<br>\r\non top on his back with Kimi taking a seat behind him.<br>\r\nSpike then started to walk around giving the two a <br>\r\nlittle piggyback ride when one of Tommy's parents<br>\r\nwas coming back to check up on them.<br>\r\n<br>\r\nWhich of Tommy's parents came in?</span></div></div>",
+            "created":1586235600,
+            "id":2814729,
+            "title":"Yes"
+        },
+        "15433322222121111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did he freak out?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815667,
+            "title":"Stu"
+        },
+        "15433322222121112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did she freak out?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815668,
+            "title":"Didi"
+        },
         "1543332222212112":{
             "author_id":"johnny2",
             "author_name":"littlejohn",
@@ -2455,6 +2588,18 @@
             "created":1586149200,
             "id":2814187,
             "title":"Something else"
+        },
+        "15433322222121121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Stu",
+                "Didi"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who came in for a big surprise?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815665,
+            "title":"Yes"
         },
         "1543333":{
             "author_id":"gilligfan",
@@ -2490,8 +2635,8 @@
         "created":1494561240,
         "description":"<td align=\"left\" class=\"norm\">There are a some rules that You must obey.<br>\r\n<br>\r\n1. keep it clean.<br>\r\n2. Diaper changes are allowed.<br>\r\n3. Nothing rude.<br>\r\n4. Every chapter must be appropriate.<br>\r\n5. Their must never be a mean chapter or it will be deleted.<br>\r\n6. This is the only way the story can stay alive.<br>\r\n7. No Weight gain.<br>\r\n8. If you want to Have the characters get age regressed, You must have excellent grammar with details.<br>\r\n9. No age Progression.<br>\r\n10. Potty training is allowed as well as alternate episodes that must appropriate. <br>\r\n11. The Rugrats can remove their clothes only if they take a bath or go nakie like in Naked Tommy. But, that must never be inappropriate.<br>\r\n12. Have fun!<br>\r\n<br>\r\n</td>",
         "id":2121353,
-        "image_url":"https://www.writing.com/main/images/action/display/ver/1586174606/item_id/2121353.jpeg",
-        "modified":1586178180,
+        "image_url":"https://www.writing.com/main/images/action/display/ver/1586433388/item_id/2121353.jpeg",
+        "modified":1586436960,
         "pretty_title":"Rugrats Interactive"
     }
 }

@@ -78,6 +78,18 @@
             "id":2805835,
             "title":"Yes"
         },
+        "1111112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Secret agent",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What else would Tommy imagine he is?</span></div></span></div>",
+            "created":1586235600,
+            "id":2815036,
+            "title":"Something else"
+        },
         "111112":{
             "author_id":"johnny2",
             "author_name":"littlejohn",
@@ -641,6 +653,18 @@
             "id":2814180,
             "title":"Writer's Choice 1"
         },
+        "111331122221221311211311111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "They enjoy it",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Angelica was actually quite curious to see how the other babies<br>\r\nfeel about getting their diapers changed.<br>\r\n<br>\r\nWhat did she find out?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815658,
+            "title":"Yes"
+        },
         "111331122221221311211312":{
             "author_id":"johnny2",
             "author_name":"littlejohn",
@@ -689,6 +713,66 @@
             "created":1584162000,
             "id":2801468,
             "title":"Something Else"
+        },
+        "111352":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Angelica go through age regression?</span></div></span></div>",
+            "created":1586235600,
+            "id":2815250,
+            "title":"No, something else"
+        },
+        "1113521":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Magic",
+                "Science"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What causes her regression?</span></div></span></div>",
+            "created":1586235600,
+            "id":2815252,
+            "title":"Yes"
+        },
+        "11135211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was it caused by a magic potion?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815912,
+            "title":"Magic"
+        },
+        "111352111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "She found it",
+                "Someone gave it to her"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How did Angelica get the potion?</span></div></span></div>",
+            "created":1586408400,
+            "id":2816105,
+            "title":"Yes"
+        },
+        "1113521112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did her parents give her the potion?</span></div></span></div>",
+            "created":1586408400,
+            "id":2816500,
+            "title":"Someone gave it to her"
         },
         "112":{
             "author_id":"nicholas1998",
@@ -1186,8 +1270,8 @@
         "created":1584053100,
         "description":"<td align=\"left\" class=\"norm\">Rules<br>\r\n<br>\r\n1. Tommy Pickles and The Gang are always babies. ( Not All Grown Up ) <br>\r\n2. The Grown Ups are welcomed since they are the parents.<br>\r\n3. The Choices are either wearing Diapers or try to do Potty Training.<br>\r\n4. Nothing evil or Dirty, Ever!<br>\r\n5. Chuckie, Susie and Angelica Maybe the old ones in The series, But They are welcomed to join the Comfort of Wearing Diapers.<br>\r\n6. Age Regression or Progression are not the reasons how The Oldest of The Gang of Rugrats can fail at Potty Training or going back to Diapies. ( They can Either wear Diapers or try to potty Train by Either Decisions by Themselves, To support against Bed wetting, or By changes in life)<br>\r\n7. One sentence is welcomed but try to make sure it tells a story.<br>\r\n8. Have fun!<br>\r\n<br>\r\n</td>",
         "id":2215655,
-        "image_url":"https://www.writing.com/main/images/action/display/ver/1586173407/item_id/2215655.jpeg",
-        "modified":1586176980,
+        "image_url":"https://www.writing.com/main/images/action/display/ver/1586490252/item_id/2215655.jpeg",
+        "modified":1586493840,
         "pretty_title":"Rugrats Diaper Adventures Interactive"
     }
 }

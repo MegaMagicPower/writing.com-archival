@@ -104,6 +104,19 @@
             "id":2810950,
             "title":"Another transformation"
         },
+        "113":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Sure",
+                "Phil only",
+                "Lil only."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who of the twins transforms, both of them?</span></div></span></div>",
+            "created":1586235600,
+            "id":2814981,
+            "title":"Phil and Lil"
+        },
         "114":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
@@ -129,6 +142,70 @@
             "created":1585717200,
             "id":2811581,
             "title":"Dil, or anyone else."
+        },
+        "1152":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "She regresses in age",
+                "Shrinks",
+                "More TF ideas."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What happens to Susie?</span></div></span></div>",
+            "created":1586235600,
+            "id":2814982,
+            "title":"Susie"
+        },
+        "11521":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Sure",
+                "magic",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She regresses thanks to an experiment by Edwin?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815494,
+            "title":"She regresses in age"
+        },
+        "11523":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Age progression",
+                "Life change",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What other transformations does Susie go through?</span></div></span></div>",
+            "created":1586235600,
+            "id":2814985,
+            "title":"More TF ideas."
+        },
+        "115231":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "17",
+                "23",
+                "Other ages."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Her age becomes what number as she progresses?</span></div></span></div>",
+            "created":1586235600,
+            "id":2814989,
+            "title":"Age progression"
+        },
+        "115232":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "More life changes."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does she end up as the mother to one of the other kids?</span></div></span></div>",
+            "created":1586235600,
+            "id":2814990,
+            "title":"Life change"
         }
     },
     "info":{
@@ -139,7 +216,7 @@
         "description":"<td align=\"left\" class=\"norm\">Bringing this back, once again. Rules. No drugs, no sex. No insulting characters. No unborn or back to the womb. Nothing over the top. All transformations are allowed, save the one above.</td>",
         "id":2217543,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1585756200,
+        "modified":1586362200,
         "pretty_title":"Rugrats TF Adventures reborn"
     }
 }

@@ -615,6 +615,42 @@
             "id":2813863,
             "title":"Wet"
         },
+        "1251122121121213111211111111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "She cried",
+                "She was happy"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How did Angelica react to this?</span></div></span></div>",
+            "created":1586235600,
+            "id":2814704,
+            "title":"Yes"
+        },
+        "12511221211212131112111111112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "She looks for Didi",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She actually enjoyed the warm feeling coming from her wet diaper.<br>\r\n<br>\r\nWhat happens next?</span></div></span></div>",
+            "created":1586408400,
+            "id":2815942,
+            "title":"She was happy"
+        },
+        "125112212112121311121111111121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Angelica ask her to change her diaper?</span></div></span></div>",
+            "created":1586408400,
+            "id":2816502,
+            "title":"She looks for Didi"
+        },
         "125112212112121311121111112":{
             "author_id":"johnny2",
             "author_name":"littlejohn",
@@ -626,6 +662,18 @@
             "created":1586062800,
             "id":2813864,
             "title":"Dirty"
+        },
+        "1251122121121213111211111121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "She cried",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How did Angelica react to this?</span></div></span></div>",
+            "created":1586235600,
+            "id":2815039,
+            "title":"Yes"
         },
         "12511221211212131112112":{
             "author_id":"johnny2",
@@ -734,6 +782,18 @@
             "created":1585198800,
             "id":2807729,
             "title":"Writer's Choice 1"
+        },
+        "12511312121211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Tommy's house",
+                "Somewhere else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where did Kimi run away to?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815273,
+            "title":"Yes"
         },
         "1251132":{
             "author_id":"kameron94",
@@ -1158,6 +1218,18 @@
             "id":2814144,
             "title":"Didi"
         },
+        "12512111111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did she freak out?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815677,
+            "title":"Writer's Choice 1"
+        },
         "1251211112":{
             "author_id":"johnny2",
             "author_name":"littlejohn",
@@ -1254,6 +1326,42 @@
             "created":1586062800,
             "id":2814028,
             "title":"Age regression"
+        },
+        "125123111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will it be caused by a magic potion?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815274,
+            "title":"Magic"
+        },
+        "1251231111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "She found it",
+                "Someone gave it to her"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How did Angelica get the potion?</span></div></span></div>",
+            "created":1586408400,
+            "id":2816107,
+            "title":"Yes"
+        },
+        "12512311112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did her parents give her the potion?</span></div></span></div>",
+            "created":1586408400,
+            "id":2816501,
+            "title":"Someone gave it to her"
         },
         "12512312":{
             "author_id":"johnny2",
@@ -2704,6 +2812,18 @@
             "id":2621848,
             "title":"A character."
         },
+        "153111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Readers choice 1",
+                "Readers choice 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>We alter Lily how?</span></div></span></div>",
+            "created":1586235600,
+            "id":2815062,
+            "title":"Lily"
+        },
         "153112":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
@@ -2779,6 +2899,18 @@
             "created":1550898000,
             "id":2621903,
             "title":"Tiffany"
+        },
+        "15312":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Sure",
+                "More episodes to choose from."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Hmmm. Little Boys?</span></div></span></div>",
+            "created":1586235600,
+            "id":2815059,
+            "title":"An episode."
         },
         "1532":{
             "author_id":"supreme123",
@@ -5773,7 +5905,7 @@
         "description":"<td align=\"left\" class=\"norm\">You have been granted unlimited powers but before you can do anything you need to do two things<br>\r\n<br>\r\n1) Choose an Universe to enter<br>\r\n2) Decide if you change a character or situation/episode   <br>\r\n<br>\r\nThe Rules at this time are...<br>\r\nYou can do anything you want except vore, <br>\r\nDon\u2019t get to descriptive with any sex scenes<br>\r\n&amp; <br>\r\nAll chapters must have at least one option that is <br>\r\nSomething else or Start a new <br>\r\n<br>\r\n</td>",
         "id":2178633,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1586175300,
+        "modified":1586494620,
         "pretty_title":"Alter Realities "
     }
 }

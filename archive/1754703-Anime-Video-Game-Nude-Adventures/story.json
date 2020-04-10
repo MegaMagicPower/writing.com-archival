@@ -2295,6 +2295,18 @@
             "id":2527556,
             "title":"More please"
         },
+        "1253322212222":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Could we try Sally Acorn?</span></div></span></div>",
+            "created":1586408400,
+            "id":2816426,
+            "title":"Someone else"
+        },
         "125332222":{
             "author_id":"yatsu89",
             "author_name":"jericho",
@@ -3053,6 +3065,42 @@
             "id":2814233,
             "title":"All her clothes are in the laundry"
         },
+        "153331111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did she plan to hide in her room?</span></div></span></div>",
+            "created":1586149200,
+            "id":2814647,
+            "title":"Writer's Choice 1"
+        },
+        "1533311111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "In her bed",
+                "In the closet"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What specific spot of her room did Angelica hide in?</span></div></span></div>",
+            "created":1586149200,
+            "id":2814648,
+            "title":"Yes"
+        },
+        "15333111112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Angelica hoped to hide in the closet until she has something to wear again?<br>\r\n<br>\r\nDo her parents find her?</span></div></span></div>",
+            "created":1586408400,
+            "id":2816236,
+            "title":"In the closet"
+        },
         "1533312":{
             "author_id":"jobobo19",
             "author_name":"carl.a.pruuitt",
@@ -3102,6 +3150,18 @@
             "id":2814356,
             "title":"Yes"
         },
+        "15333121212":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did one of her parenting books say so?</span></div></span></div>",
+            "created":1586408400,
+            "id":2816219,
+            "title":"Other"
+        },
         "15333122":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
@@ -3150,6 +3210,30 @@
             "created":1586149200,
             "id":2814236,
             "title":"She likes it"
+        },
+        "15333122211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "When it's hot",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>When do they let Kimi have a little nakey time?</span></div></span></div>",
+            "created":1586235600,
+            "id":2815121,
+            "title":"Yes"
+        },
+        "153331222112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do they let Kimi run around naked after her bath?</span></div></span></div>",
+            "created":1586408400,
+            "id":2816140,
+            "title":"Something else"
         },
         "1533312223":{
             "author_id":"johnny2",
@@ -3512,6 +3596,18 @@
             "id":2543811,
             "title":"Something else"
         },
+        "153332221122":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was she trying to bond with her daughter?</span></div></span></div>",
+            "created":1586408400,
+            "id":2816420,
+            "title":"Something else"
+        },
         "153332222":{
             "author_id":"adventchild",
             "author_name":"AdventChild",
@@ -3752,6 +3848,18 @@
             "id":2543816,
             "title":"Yes"
         },
+        "1533322222222222211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will she take a solo trip to a nudist resort?</span></div></span></div>",
+            "created":1586408400,
+            "id":2816227,
+            "title":"Peg "
+        },
         "153332222222222222":{
             "author_id":"jobobo19",
             "author_name":"carl.a.pruuitt",
@@ -3788,6 +3896,30 @@
             "created":1586149200,
             "id":2814178,
             "title":"Others."
+        },
+        "153332222222222222321":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Little Bear",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which character should we focus on?</span></div></span></div>",
+            "created":1586408400,
+            "id":2816042,
+            "title":"Yes"
+        },
+        "1533322222222222223211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will someone ask him why he never wears clothes?</span></div></span></div>",
+            "created":1586408400,
+            "id":2816159,
+            "title":"Little Bear"
         },
         "153332222222222222322":{
             "author_id":"johnny2",
@@ -3860,6 +3992,102 @@
             "created":1586149200,
             "id":2814265,
             "title":"Yes"
+        },
+        "153332222222222222322212":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>We could also focus on all three if you like.</span></div></span></div>",
+            "created":1586408400,
+            "id":2816224,
+            "title":"One of the Chipettes"
+        },
+        "1533322222222222223222121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will the Chipettes try skinny-dipping?</span></div></span></div>",
+            "created":1586408400,
+            "id":2816225,
+            "title":"Yes"
+        },
+        "15333222222222222232222":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Would The Simpsons be alright?</span></div></span></div>",
+            "created":1586149200,
+            "id":2814635,
+            "title":"Something else"
+        },
+        "153332222222222222322221":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Marge Simpson",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who shall be naked first?</span></div></span></div>",
+            "created":1586408400,
+            "id":2816427,
+            "title":"Yes"
+        },
+        "1533322222222222223222212":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Lisa Simpson",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Anyone else from the Simpson family you want naked?</span></div></span></div>",
+            "created":1586408400,
+            "id":2816429,
+            "title":"Someone else"
+        },
+        "153332222222222222322222":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Family Guy then?</span></div></span></div>",
+            "created":1586149200,
+            "id":2814636,
+            "title":"Something else"
+        },
+        "1533322222222222223222221":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Meg Griffin",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who shall get naked first?</span></div></span></div>",
+            "created":1586408400,
+            "id":2816430,
+            "title":"Yes"
+        },
+        "1533322222222222223222222":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What about the Powerpuff Girls?</span></div></span></div>",
+            "created":1586235600,
+            "id":2815084,
+            "title":"Something else"
         },
         "154":{
             "author_id":"dinocoat",
@@ -3970,7 +4198,7 @@
         "description":"<td align=\"left\" class=\"norm\">Fictional characters (male or female) find themselves in situations that causes them to be naked. The story goes on from there! You can humiliate them or whatever. Anything goes except killing!<br>\r\n<br>\r\nPlease try to add more than one-liners.</td>",
         "id":1754703,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1586198220,
+        "modified":1586484480,
         "pretty_title":"Anime/ Video Game Nude Adventures"
     }
 }

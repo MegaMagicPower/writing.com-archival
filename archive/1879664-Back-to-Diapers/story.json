@@ -5168,6 +5168,30 @@
             "id":2814314,
             "title":"Yes"
         },
+        "12521211312212111112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was Angelica happy that the potion worked?</span></div></span></div>",
+            "created":1586235600,
+            "id":2815167,
+            "title":"A t-shirt and diaper"
+        },
+        "125212113122121111121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Writer's Choice 1",
+                "Writer's Choice 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Angelica and her parents were overjoyed to see Angelica back in babyhood.<br>\r\n<br>\r\nWhat did they do next?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815296,
+            "title":"Yes"
+        },
         "12521212":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
@@ -5264,6 +5288,30 @@
             "id":2814158,
             "title":"Department store"
         },
+        "1252121211111112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Angelica really want a crib?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815687,
+            "title":"A crib"
+        },
+        "12521212111111121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "A changing table",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Angelica liked the idea of sleeping in a crib again.<br>\r\n<br>\r\nWhat else did they get?</span></div></span></div>",
+            "created":1586408400,
+            "id":2815962,
+            "title":"Yes"
+        },
         "1252121211112":{
             "author_id":"johnny2",
             "author_name":"littlejohn",
@@ -5348,6 +5396,30 @@
             "created":1542776400,
             "id":2580318,
             "title":"someoe else"
+        },
+        "12521222221":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will Kimi from \"All Grown Up\" become a baby again?</span></div></span></div>",
+            "created":1586408400,
+            "id":2816120,
+            "title":"Kimi finster."
+        },
+        "125212222211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Magic",
+                "Science"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What causes Kimi's regression?</span></div></span></div>",
+            "created":1586494800,
+            "id":2816513,
+            "title":"Yes"
         },
         "12521222222":{
             "author_id":"kameron94",
@@ -80079,7 +80151,7 @@
         "description":"<td align=\"left\" class=\"norm\">In this interactive story i only ask to keep graphics to a low level and to remember characters must be diapered other than that ANYTHING GOES </td>",
         "id":1879664,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1586192340,
+        "modified":1586495760,
         "pretty_title":"Back to Diapers"
     }
 }
