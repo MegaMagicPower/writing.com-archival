@@ -82,12 +82,12 @@
     <script type="text/x-template" id="index-template">
         <div class="col mt-1 mb-3">
             <div class="d-flex justify-content-between">
-                <h3>Writing.com archive
+                <h3>Writing.com archive <small>Page {{ page }} / {{ total_pages }} </small>
                 </h3>
 
                 <div class="dropdown">
-                    Sory by:
-                    <select v-model="sort" class="form-control" lazy>
+                    Sort by:
+                    <select v-model="sort_field" class="form-control" lazy>
                         <option value="oldest">Oldest</option>
                         <option value="newest">Newest</option>
                         <option value="longest">Longest</option>
@@ -99,13 +99,14 @@
 
 
             <div class="mb-3 d-flex justify-content-between">
-                <button v-on:click="page--" :disabled="page == 1" class="btn btn-secondary">Previous page</button>
+                <router-link class="btn btn-secondary" v-bind:class="[(page == 1) ? 'disabled' : '']" v-bind:to="{ name: 'search', params: buildParams('page', page - 1) }">Previous page</router-link>
 
                 <div class="">
-                <input v-model="search" type="search" class="form-control" placeholder="Search">
+                <input v-model="search_field" type="search" class="form-control" placeholder="Search">
                 </div>
 
-                <button v-on:click="page++" class="btn btn-primary">Next page</button>
+                <router-link class="btn btn-primary" v-bind:class="[(page >= total_pages) ? 'disabled' : '']" v-bind:to="{ name: 'search', params: buildParams('page', page + 1)}">Next page</router-link>
+
             </div>
 
             <div class="card-deck pb-3" v-for="chunk in current_page_chunked">
@@ -248,12 +249,19 @@
 
     <script>
         const index_view = Vue.component('index-view', {
+            props: {
+                page: {
+                    type: Number,
+                    default: 1 
+                }, sort: {
+                    default: "recent"
+                }, search: {
+                    default: ""
+                }
+            },
             data: function () {
                 return {
-                    "storylist": {},
-                    "page": 1,
-                    "sort": "recent",
-                    "search": ""
+                    "storylist": {}
                 }
             },
             template: '#index-template',
@@ -309,11 +317,47 @@
                 },
                 current_page_chunked: function() {
                     return _.chunk(this.current_page, 3)
+                },
+                total_pages: function() {
+                    return Math.ceil(this.filtered_list.length / 30);
+                },
+                sort_field: {
+                    get() { return this.sort },
+                    set(v) {
+                        this.$router.push({
+                            name: 'search',
+                            params: this.buildParams('sort', v)
+                        })
+                    }
+                },
+                search_field: {
+                    get() { return this.search },
+                    set(v) {
+                        this.$router.push({
+                            name: 'search',
+                            params: this.buildParams('search', v)
+                        })
+                    }
                 }
             },
             methods: {
                 date: function(date) {
                     return moment.unix(date).format('MMM Do YYYY [at] h:mm a')
+                },
+                //Build a parameter object to pass to router links for just single changes
+                buildParams: function(change, value) {
+                    //Get current params that isn't optional
+                    params = {
+                        page: this.page,
+                        sort: this.sort
+                    }
+                    //Get search if it exists. Vue Router doesn't like "" as a parameter
+                    if (this.search !== "") {
+                        params.search = this.search;
+                    }
+                    //Change whatever needs to be changed
+                    params[change] = value;
+                    return params;
                 }
             },
             created() {
@@ -397,9 +441,18 @@
 
         const routes = [
             { path: '/', component: index_view },
+            { 
+                path: '/search/:sort/:page/:search?', 
+                component: index_view, name: 'search', 
+                props: (route) => ({
+                    page: Number.parseInt(route.params.page, 10) || 1,
+                    search: route.params.search,
+                    sort: route.params.sort
+                })
+            },
             { path: '/:story/', component: info_view },
-            { path: '/:story/recent', component: recent_view, props: true},
-            { path: '/:story/outline', component: outline_view, props: true},
+            { path: '/:story/recent', component: recent_view},
+            { path: '/:story/outline', component: outline_view},
             { path: '/:story/:current_index', component: chapter_view, props: true },
         ]
 
