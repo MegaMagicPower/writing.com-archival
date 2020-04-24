@@ -143,6 +143,30 @@
             "id":1270818,
             "title":"More cartoons."
         },
+        "11133":{
+            "author_id":"oyvey",
+            "author_name":"oyvey",
+            "choices":[
+                "Starfire",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So which of the Titans girls are going to get the B.E. treatment?</span></div></span></div>",
+            "created":1587618000,
+            "id":2823242,
+            "title":"Teen Titans"
+        },
+        "111332":{
+            "author_id":"oyvey",
+            "author_name":"oyvey",
+            "choices":[
+                "Raven",
+                "Next choice"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about Raven? She's got magic and empathic abilities.</span></div></span></div>",
+            "created":1587618000,
+            "id":2823245,
+            "title":"Next choice"
+        },
         "112":{
             "author_id":"adventchild",
             "author_name":"AdventChild",
@@ -574,6 +598,30 @@
             "created":1544850000,
             "id":2589519,
             "title":"An individual character."
+        },
+        "1213123":{
+            "author_id":"ridley23",
+            "author_name":"writer49er",
+            "choices":[
+                "Sam",
+                "Another girl"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The obvious third choice would be Sam.</span></div></span></div>",
+            "created":1587618000,
+            "id":2823446,
+            "title":"More"
+        },
+        "12131232":{
+            "author_id":"ridley23",
+            "author_name":"writer49er",
+            "choices":[
+                "Mandy",
+                "next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Maybe Mandy?</span></div></span></div>",
+            "created":1587618000,
+            "id":2823448,
+            "title":"Another girl"
         },
         "12133":{
             "author_id":"mariomaster88",
@@ -2400,6 +2448,90 @@
             "id":2724268,
             "title":"Other"
         },
+        "154133":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "The Simpsons",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Can they also come from this show?</span></div></span></div>",
+            "created":1586754000,
+            "id":2817970,
+            "title":"More"
+        },
+        "1541331":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Lisa Simpson",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who will get pregnant first?</span></div></span></div>",
+            "created":1586754000,
+            "id":2818413,
+            "title":"The Simpsons"
+        },
+        "15413311":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will it be an adult Lisa?</span></div></span></div>",
+            "created":1586926800,
+            "id":2819182,
+            "title":"Lisa Simpson"
+        },
+        "154133111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "The old-fashioned way",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How will Lisa get pregnant?</span></div></span></div>",
+            "created":1587358800,
+            "id":2821447,
+            "title":"Yes"
+        },
+        "1541332":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about The Powerpuff Girls?</span></div></span></div>",
+            "created":1586926800,
+            "id":2819264,
+            "title":"Something else"
+        },
+        "15413322":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Maybe Family Guy?</span></div></span></div>",
+            "created":1587358800,
+            "id":2821446,
+            "title":"Something else"
+        },
+        "154133221":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Meg Griffin",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which character do you want pregnant first?</span></div></span></div>",
+            "created":1587618000,
+            "id":2823450,
+            "title":"Yes"
+        },
         "155":{
             "author_id":"dragonwriter45",
             "author_name":"Dragonwriter45",
@@ -2580,7 +2712,7 @@
         "description":"<td align=\"left\" class=\"norm\">Like the title says, girls from anything animated can be expanded however you like! You can pick girls from anime, disney movies, or cartoons and make them as big as you want. The only rules are no death or gore, and no short only a few sentence chapters. More rules may need to be added depending on how this goes. </td>",
         "id":1751672,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1584569460,
+        "modified":1587683880,
         "pretty_title":"Animated Girls Expansion"
     }
 }

@@ -552,6 +552,109 @@
             "id":2735164,
             "title":"Other"
         },
+        "1152322":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What about The Powerpuff Girls?</span></div></span></div>",
+            "created":1587013200,
+            "id":2819979,
+            "title":"No, go back to listing shows"
+        },
+        "11523222":{
+            "author_id":"ridley23",
+            "author_name":"writer49er",
+            "choices":[
+                "Yes",
+                "Another show"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Maybe Ed Edd n Eddy?</span></div></span></div>",
+            "created":1587099600,
+            "id":2820177,
+            "title":"Something else"
+        },
+        "115232221":{
+            "author_id":"jobobo19",
+            "author_name":"carl.a.pruuitt",
+            "choices":[
+                "Eddy",
+                "Edd",
+                "Ed",
+                "Nazz",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who should we started first?</span></div></span></div>",
+            "created":1587099600,
+            "id":2820238,
+            "title":"Yes"
+        },
+        "1152322214":{
+            "author_id":"redwolf12",
+            "author_name":"wolfbood",
+            "choices":[
+                "Age change",
+                "Size change",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What going to happen to Nazz?</span></div></span></div>",
+            "created":1587272400,
+            "id":2821135,
+            "title":"Nazz"
+        },
+        "11523222143":{
+            "author_id":"jobobo19",
+            "author_name":"carl.a.pruuitt",
+            "choices":[
+                "Life change ",
+                "Animal change",
+                "Gain weight ",
+                "Gain muscles",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What going to happen to Nazz?</span></div></span></div>",
+            "created":1587358800,
+            "id":2821688,
+            "title":"Something else"
+        },
+        "1152322215":{
+            "author_id":"ridley23",
+            "author_name":"writer49er",
+            "choices":[
+                "Cul-de-Sac kids",
+                "Kankers or Eddy\u2019s brother"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, do you want one of the remaining kids from the Cul-de-Sac, or the Kankers?<br>\r\n<br>\r\nI suppose you could pick Eddy\u2019s brother, but I\u2019m not sure who would or why. Oh well, I\u2019m not here to judge.</span></div></span></div>",
+            "created":1587186000,
+            "id":2820431,
+            "title":"Someone else"
+        },
+        "11523222152":{
+            "author_id":"ridley23",
+            "author_name":"writer49er",
+            "choices":[
+                "Kankers",
+                "Older Brother with no official name"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which will it be?</span></div></span></div>",
+            "created":1587186000,
+            "id":2820432,
+            "title":"Kankers or Eddy\u2019s brother"
+        },
+        "115232221521":{
+            "author_id":"ridley23",
+            "author_name":"writer49er",
+            "choices":[
+                "One",
+                "All"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>One of them, or all of them?</span></div></span></div>",
+            "created":1587186000,
+            "id":2820435,
+            "title":"Kankers"
+        },
         "12":{
             "author_id":"ultran6500",
             "author_name":"Ultran6500",
@@ -1103,6 +1206,66 @@
             "id":1827332,
             "title":"A baby.. duh"
         },
+        "1241112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Could we do a story in where Tommy fell victim to a science experiment gone wrong?</span></div></span></div>",
+            "created":1587013200,
+            "id":2819981,
+            "title":"Start another story"
+        },
+        "12411121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Could Tommy fall into a youth restoration chamber?</span></div></span></div>",
+            "created":1587099600,
+            "id":2820254,
+            "title":"Yes"
+        },
+        "124111211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "A laboratory",
+                "Somewhere else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where was he at this time?</span></div></span></div>",
+            "created":1587186000,
+            "id":2820665,
+            "title":"Yes"
+        },
+        "1241112111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Field Trip",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What was Tommy doing in a laboratory in the first place?</span></div></span></div>",
+            "created":1587272400,
+            "id":2820979,
+            "title":"A laboratory"
+        },
+        "12411121111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "He tripped and fell in",
+                "He saw someone stuck in there"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Tommy's science class were on a field trip in a laboratory when Tommy<br>\r\nfound a machine they called a youth restoration chamber. <br>\r\n<br>\r\nWhat happens to him next?</span></div></span></div>",
+            "created":1587272400,
+            "id":2821342,
+            "title":"Field Trip"
+        },
         "1242":{
             "author_id":"ultran6500",
             "author_name":"Ultran6500",
@@ -1282,6 +1445,66 @@
             "created":1405314000,
             "id":1827631,
             "title":"A 1 year old, isn't it obvious?"
+        },
+        "12422122112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did she fall into some kind of age changing machine?</span></div></span></div>",
+            "created":1587013200,
+            "id":2819978,
+            "title":"Other."
+        },
+        "124221221121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "A laboratory",
+                "Somewhere else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where was she at this time?</span></div></span></div>",
+            "created":1587186000,
+            "id":2820664,
+            "title":"Yes"
+        },
+        "1242212211211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Field Trip",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Why was Kimi in a laboratory?</span></div></span></div>",
+            "created":1587531600,
+            "id":2822984,
+            "title":"A laboratory"
+        },
+        "124221221122":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did she drink a magic potion?</span></div></span></div>",
+            "created":1587186000,
+            "id":2820437,
+            "title":"Something else"
+        },
+        "1242212211222":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did she make a wish?</span></div></span></div>",
+            "created":1587358800,
+            "id":2821808,
+            "title":"Something else"
         },
         "125":{
             "author_id":"ultran6500",
@@ -1689,7 +1912,7 @@
         "description":"<td align=\"left\" class=\"norm\">In this story you can inflate by body/belly/breasts/butt as well as change a character's gender/size/age or making them pregnant<br>\r\nYou will start off choosing a station.<br>\r\n<br>\r\nplease:<br>\r\nNo hardcore material please: gay/lesbian, erotica, etc.<br>\r\nNo cursing<br>\r\nNo Vore<br>\r\nNo male characters TF unless turned into a girl<br>\r\nNo killing off or making a character no longer existing<br>\r\nNo popping unless the character returns to normal<br>\r\nNo ending the story quickly, try to have at least fifteen chapters(not including tf options) before ending the story and have the secondary option of keeping the story going<br>\r\nplease try to add as much detail to the transformation as possible<br>\r\n<br>\r\n<br>\r\nI'VE EDITED OUT A FEW SHOWS AS WELL ADDED SOME NEW ONES AND CHANGED SOME RULES..</td>",
         "id":1144374,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1571473080,
+        "modified":1587617460,
         "pretty_title":"Cartoon Inflation/shrinking/etc"
     }
 }

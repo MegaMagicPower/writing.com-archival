@@ -30,6 +30,51 @@
             "id":2713536,
             "title":"Movie Options "
         },
+        "111":{
+            "author_id":"triplestories",
+            "author_name":"Triplestories",
+            "choices":[
+                "Tony Stark ",
+                "Steve Rodgers ",
+                "Natasha Romanoff ",
+                "More MCU characters ",
+                "Follow a original character "
+            ],
+            "content":"<div class=\"\"><div> <span>How about a story based in the Marvel Cinematic Universe? <br>\r\n<br>\r\nCreate and start your own story anyway you would like. A story that changes events from the movies or a different storyline. <br>\r\n<br>\r\nOr maybe creating a new story with characters going off on a mission or something drastically happen to them. <br>\r\n<br>\r\nChoice is up to you, <br>\r\n<br>\r\nBut first, who would you like the story to focus on? </span></div></div>",
+            "created":1586667600,
+            "id":2817947,
+            "title":"The Marvel Cinematic Universe "
+        },
+        "1115":{
+            "author_id":"triplestories",
+            "author_name":"Triplestories",
+            "choices":[
+                "Custom Character Slot 1 ",
+                "Custom Character Slot 2",
+                "Custom Character Slot 3",
+                "Custom Character Slot 4",
+                "Custom Character Slot 5 and more"
+            ],
+            "content":"<div class=\"\"><div> <span>Create an original character and introduce them to the Marvel Cinematic Universe, they can be a superhero, a supervillain or just an ordinary citizen who stumbles onto a hero. <br>\r\n<br>\r\nYou could have something happen to them that doesn't tie into any heroes. <br>\r\n<br>\r\nA character with abilities, a character who finds a tiny hero, a character who grows, someone who travels into space. <br>\r\n<br>\r\nThe choice is up to you. </span></div></div>",
+            "created":1586667600,
+            "id":2817948,
+            "title":"Original MCU Character "
+        },
+        "11151":{
+            "author_id":"triplestories",
+            "author_name":"Triplestories",
+            "choices":[
+                "Charlie wakes up the next morning ",
+                "Charlie gets woken up by his house moving ",
+                "Charlie gets woken by a knock at the door ",
+                "Charlie wakes up in the middle of the night ",
+                "Something else "
+            ],
+            "content":"<div class=\"\"><div> <span>Charlie sighs as he crawls into a little cardboard box that is resting near a playground, its currently raining but Charlie has turned this cardboard box into his home. It wasn't the best thing in the world but he did enjoy it, it was made even better due to him being able to change sizes. He prefers sticking to five inches tall as it made the cardboard box feel like a mansion to him and finding food so much better as half a cookie is a large amount at five inches. <br>\r\n<br>\r\nCharlie White is seventeen years old with short black hair and born with inhuman genes. Charlie has had a rough couple of months. It all started around his seventeenth birthday. His family was getting ready to celebrate his birthday but his older brother didn't make things easy on him. He was always picked on by him causing him to feel insecure about himself and super shy. <br>\r\n<br>\r\nOn his seventeenth birthday He had friends over as well as extended family there to celebrate. While he was open with people and did talk to people quiet well he always felt the need to retreat to a safe spot whenever he felt uncomfortable or embarrassed. He had a decent amount of friends but did suffer a bit from anxiety and having the occasional panic attacks. <br>\r\n<br>\r\nRight when his mother brought the cake out and everyone sung happy birthday his older brother made a snarky and mean quote towards Charlie that caused a few people to laugh, some out of nervous and others were genuine. Charlie felt super embarrassed and felt his anxiety slowly rise. He thought he was about to have a panic attack but instead something else happened to him. He started to shrink right before everyone. Everyone freaked out and screamed bloody Mary. Charlie was unsure what to do as he was panicking just as much as everyone else. Everyone got up and left faster than a rocket but he managed to grow back in the end. <br>\r\n<br>\r\nHis parents weren't too happy. His mother broke down in tears and his father was yelling and screaming. He tried to explain that he didn't mean to do this but they didn't care. Before he knew it he was tossed out of the house with no where to go. He tried to crash at a friends place but they rejected him. No one would take him in, after what he's seen on TV and the news about Inhumans and people abilities who weren't Avengers, who would? <br>\r\n<br>\r\nCharlie found a small cardboard box beside a playground, he moves it inside a bush out of sight and shrunk to five inches tall crawling inside. <br>\r\n<br>\r\nThat was a couple of months ago, ever since that day he has remained five inches tall and would occasionally grow at nights when no one is around to try to control and understand his powers. Because he was living close to a playground he would sneak out at night and pick up some lost toys for his new home making it look more like a home. He would bathe in the fountain down the road and pick up some doll clothes to wear. <br>\r\n<br>\r\nHe had no idea what he wanted to do in the future or how to get there, his trauma has got him down quite a bit as he feels he'll never get anywhere in life due to the person he is now. <br>\r\n<br>\r\nCharlie climbs into his custom made bed pulling the sheets up to his neck snuggling in. He sighs and just lays there listening to the rain fall, hitting the leaves of the bush above and land on the roof of his home. Luckily he had put a bit of plastic on the roof to stop it getting wet. <br>\r\n<br>\r\n\"I guess my life can't get any worse.\" Charlie sighs. <br>\r\n<br>\r\nCharlie rolls on his side and drifts off to sleep.</span></div></div>",
+            "created":1586754000,
+            "id":2818038,
+            "title":"Charlie White "
+        },
         "115":{
             "author_id":"atomsize",
             "author_name":"Tinkerbell\u00e2\u0080\u0099s Lover ",
@@ -441,6 +486,18 @@
             "id":2806654,
             "title":"Once Upon A Time"
         },
+        "1253233":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about Rugrats/All Grown Up?</span></div></span></div>",
+            "created":1587186000,
+            "id":2820668,
+            "title":"Other options"
+        },
         "13":{
             "author_id":"triplestories",
             "author_name":"Triplestories",
@@ -506,6 +563,19 @@
             "created":1581397200,
             "id":2786007,
             "title":"Big Love"
+        },
+        "134111":{
+            "author_id":"atomsize",
+            "author_name":"Tinkerbell\u2019s Lover ",
+            "choices":[
+                "Clifford takes Emily Elizabeth to his dog house ",
+                "Emily Elizabeth plays with Clifford ;)",
+                "Someone antagonizes Clifford "
+            ],
+            "content":"<div class=\"\"><div> <span>It was Emily Elizabeth's 15th birthday. She got up excited as she normally did. She looked out her window and saw her giant red dog's eye looking in on her.<br>\r\n<br>\r\n\"Good morning, Clifford. How's the best boy in the world doing?\" <br>\r\n<br>\r\nClifford barked his loud booming bark in approval.<br>\r\n<br>\r\n\"You know what today is? It's my birthday. We're gonna get all of my friends together and we're gonna swim in the pool today.\" <br>\r\n<br>\r\nClifford barked.<br>\r\n<br>\r\n\"You can't swim though Clifford, the pool's too small for you.\"<br>\r\n<br>\r\nClifford was saddened but Emily Elizabeth tried to lightly pat his soccer ball sized nose. <br>\r\n<br>\r\n\"Hey, don't worry Clifford. We'll still play.\" <br>\r\n<br>\r\nAs the day went on, Clifford would stroll around the house greeting Emily Elizabeth's friends. As Emily Elizabeth came outside, she was wearing a brand new one piece light blue swimsuit that perfectly fit in her cute butt and perky a cup boobs. Clifford's big red dick got really hard as he noticed his owner's swimsuit. It's true that Emily Elizabeth was a human and a relatively small one at that, but Clifford's love and primal instincts gave him an animalistic desire for the tiny blonde 15 year old human. <br>\r\n<br>\r\nAs Emily Elizabeth splashed around in her one piece bathing suit, she looked up and saw her towering red dog standing over her and her friends blocking out the son, with his mouth wide open drooling at her. Emily Elizabeth was always in awe of how gigantic and wonderful her dog was. It was her love that made him so big. Clifford wasn't just a dog, he was like a godly creature, towering red and smiling down at her. <br>\r\n<br>\r\nWhat happens next? </span></div></div>",
+            "created":1587272400,
+            "id":2820936,
+            "title":"Emily Elizabeth's Birthday"
         },
         "13413":{
             "author_id":"redwolf12",
@@ -630,6 +700,66 @@
             "created":1567659600,
             "id":2713544,
             "title":"More Options "
+        },
+        "151":{
+            "author_id":"triplestories",
+            "author_name":"Triplestories",
+            "choices":[
+                "Marvel",
+                "DC ",
+                "Image ",
+                "Dark Horse ",
+                "More comic comapies"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about stories set in the comic universes, this will strictly be the comics. <br>\r\n<br>\r\nMarvel? <br>\r\n<br>\r\nDC? <br>\r\n<br>\r\nImage? <br>\r\n<br>\r\nDark Horse? </span></div></span></div>",
+            "created":1586754000,
+            "id":2818022,
+            "title":"Comic Universes "
+        },
+        "1512":{
+            "author_id":"triplestories",
+            "author_name":"Triplestories",
+            "choices":[
+                "Superman ",
+                "Batman",
+                "Wonder Woman ",
+                "Batgirl ",
+                "More options "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What DC character would you like to chose to create a new story for them?<br>\r\n<br>\r\nSuperman? <br>\r\n<br>\r\nBatman? <br>\r\n<br>\r\nWonder Woman?<br>\r\n<br>\r\nBatgirl? </span></div></span></div>",
+            "created":1586754000,
+            "id":2818433,
+            "title":"DC Characters "
+        },
+        "15124":{
+            "author_id":"triplestories",
+            "author_name":"Triplestories",
+            "choices":[
+                "Batgirl Story 1",
+                "Bargirl Story 2",
+                "Batgirl Story 3",
+                "Batgirl Story 4",
+                "Story 5 and more "
+            ],
+            "content":"<div class=\"\"><div> <span>Start and create a story revolving around the iconic Batgirl, it's up to you what happens to her. <br>\r\n<br>\r\nIt's up to you to chose who is under the mask. <br>\r\n<br>\r\nBarbara Grodon, Cassandra Cain, Stephanie Brown, its you to you. </span></div></div>",
+            "created":1586754000,
+            "id":2818437,
+            "title":"Batgirl Selection "
+        },
+        "151241":{
+            "author_id":"triplestories",
+            "author_name":"Triplestories",
+            "choices":[
+                "Barbara wakes up fine ",
+                "Barbara wakes up with vines wrapped around her ",
+                "Barbara wakes up back home",
+                "Barbara wakes up in a bed ",
+                "Something else "
+            ],
+            "content":"<div class=\"\"><div> <span>\u201cI've got Catwoman, you take Ivy.\u201d Nightwing instructs. <br>\r\n<br>\r\n\u201cOn it.\u201d Batgirl says. <br>\r\n<br>\r\nBarbara Gordon pulls out a grappling hook out from her belt shooting it at the large old building in front of her. She jumps as it latches on and swings though the city to chase down Ivy. <br>\r\n<br>\r\nDick and Barbra are on patrol at Gotham city while Batman is away for the evening doing some sort of mission. They were never told what he was going to be doing besides he\u2019ll be away. While this happens nearly every time Barbra didn\u2019t mind as she normally had enough to keep her preoccupied. Barbara is annoyed that her date with Dick was cut short but she knew that once Catwoman and Ivy are caught the two of them can get back to it. <br>\r\n<br>\r\n\u201cWhere are you Ivy?\u201d Barbra groans as she lands on the roof of a building. <br>\r\n<br>\r\nHer eyes scan the area, she smirks as she sees a glimpse of the green red head duck into a large building trying to sneak in unseen. Barbara jumps down landing at the door, she kicks the door down with style and storms in only to find that the place is quiet. Barbara sighs as she looks around, the place is coated in vines and flowers. THe place looks like it\u2019s been abandoned for a while. <br>\r\n<br>\r\n\u201cCome out Ivy,\u201d Barbara calls. \u201cThere\u2019s no where to run.\u201d <br>\r\n<br>\r\n\u201cFoolish girl.\u201d Ivy calls form the distance. <br>\r\n<br>\r\nBarbara bolts to the direction she hears Ivy with no hesitation, she stops instantly seeing that Ivy is nowhere to be seen. She calls out again only to find an echo coming from the other side of the building. Barbara slowly heads over this time not wanting to scare her off. <br>\r\n<br>\r\n\u201cSurprise.\u201d Ivy purrs popping out form behind a large vine. <br>\r\n<br>\r\nBefore Barbara could react Ivy holds out her hand and blows some sort of dust all over Barbara\u2019s face. Barbara tries to shake it all away but she ends up inhaling quite a bit. She stumbles and falls to the ground as she feels it travel though her body causing her to go weak. <br>\r\n<br>\r\n\u201cWhat\u2019s wrong little Bat?\u201d Ivy smiles standing over her.<br>\r\n<br>\r\nBarbara rolls onto her side and tries to cough up the powder, she feels her lungs slowly fill up making it hard for her to breathe. Barbara whimpers as she feels that this could be it for her, she takes one last gasp of air before passing out. </span></div></div>",
+            "created":1586754000,
+            "id":2818501,
+            "title":"Batgirl's Hunt "
         },
         "152":{
             "author_id":"atomsize",
@@ -814,6 +944,21 @@
             "created":1575435600,
             "id":2755514,
             "title":"A Teenage Boy finds Brie Larson "
+        },
+        "1522411":{
+            "author_id":"triplestories",
+            "author_name":"Triplestories",
+            "choices":[
+                "He picks her up and plays with her ",
+                "He gives her a time out ",
+                "He strips Brie ",
+                "He gives her a hard flick ",
+                "Something else "
+            ],
+            "content":"<div class=\"\"><div> <span>Brie is curled up at the bottom of the bed nearly crying herself dry, as the boy heads home. She sighs as she knows that what is coming next wont be best. Because she is found by a teenager she is expecting nothing but the worst. She's expecting that the first thing she is going to see is his giant teen cock and being curled around it right away. <br>\r\n<br>\r\n\"We're home Brie.\" The boy calls out gently setting his bag down. <br>\r\n<br>\r\nBrie sits up with her heart sinking, the bag unzips and a giant hand reaches in curling its massive digits around Brie's tiny waist. Brie lets out a little whimper as she is slowly raised in the air. She closes her eyes tight excepting to see a cock. She hears the boy sit down on a chair just as he is unzipping something.<br>\r\n<br>\r\n\"Don't you dare!\" Brie screams. <br>\r\n<br>\r\n\"What?\" The boy asks with a frown. <br>\r\n<br>\r\nBrie opens her eyes with a glare only to find that she is still in the boy's hand being held up to his giant face. Brie whimpers and slowly looks down, his pants are still on and sees his jacket on the floor. That must be what she heard. <br>\r\n<br>\r\n\"Um, nothing.\" Brie says softly. <br>\r\n<br>\r\n\"I'm just so glad I can finally meet you Brie,\" The boy smiles. \"I've been wanting to meet you for a while now but I had never had the change because, well. I'm so happy I can meet you even though you are the size of a barbie.\" <br>\r\n<br>\r\n\"Un, yeah.\" Brie says a little confused. <br>\r\n<br>\r\nBrie looks up and could tell that the boy was nervous as hell, she could see him trembling a bit but did his best to remain clam. Brie wines quite a bit as she feels the boys hand that is enveloping her slowly become wet. <br>\r\n<br>\r\n\"Um, sorry about that.\" He apologises as he sets her down on his desk. \"My palms get sweaty when I'm nervous.\" <br>\r\n<br>\r\n\"I can see that,\" Brie sighs trying to wipe his sweat off her. \"So gross.\" <br>\r\n<br>\r\n\"Need some help?\" He asks reaching out towards her. <br>\r\n<br>\r\n\"Don't touch me!\" Brie squeaks smacking his hand. <br>\r\n<br>\r\n\"Alright.\" He sighs. <br>\r\n<br>\r\nBrie sighs and continues to wipe the sweat off her but turns her back to the teen, she felt extremely dirty from that and she has only been held. All of this feels super gross to her, she is happy that she hasn't been fucked or molested yet but there is still time. Brie sighs feeling a little cleaner, she turns around and sees the boy with his head on the desk just staring at her. Brie blushes sightly as her eyes make contact with his. She has to admit that she loves his eyes, they are dark brown and look very kind, hopefully the rest of him is like that. <br>\r\n<br>\r\n\"What?\" Brie asks breaking the long silence. <br>\r\n<br>\r\n\"Nothing,\" He smirks. \"I just like looking at you.\" <br>\r\n<br>\r\n\"Well it's super creepy, please don't.\" Brie says folding her arms. <br>\r\n<br>\r\nThe boy just smiles and continues to stare at the half naked barbie sized Brie Larsen standing in front of him. Brie sighs rolling her eyes and turns her back to him. She stands there tapping her foot hoping he would look away but nothing. Brie frowns and spins around ready to tell him off. <br>\r\n<br>\r\n\"You are a lot prettier than I thought.\" He smiles. <br>\r\n<br>\r\n\"I'm sorry?\" Brie asks with a blush. <br>\r\n<br>\r\n\"I always thought you were pretty Brie,\" He smiles and blushes. \"I just think you're a lot prettier in person.\" <br>\r\n<br>\r\nBrie smiles sightly and blushes, she's used to kind comments but not like this. She gasps when she feels a giant finger collide with her back, Brie is about to tell him off when he starts to gently rub her back gently massaging it. Brie bites her bottom lip doing her best to hold back a moan, she has to admit that it did feel pretty good. Brie's eyes widen as she feels his finger get lower and lower. She turns around and smacks his finger just before he reaches her ass. <br>\r\n<br>\r\n\"What the fuck do you think you are doing?!\" Brie shouts. <br>\r\n<br>\r\n\"I'm just trying to pat you.\" The boys says lifting his head up. <br>\r\n<br>\r\n\"You were trying to molest me!\" Brie squeaks backing up a bit. <br>\r\n<br>\r\n\"No I wasn't.\" The boy says backing up a bit. <br>\r\n<br>\r\n\"Yes you were!\" Brie shouts. \"Ever since you found me I can tell that you want nothing more than to touch me and use me as a toy, you're a disgusting pig!\" <br>\r\n<br>\r\nThe boy sighs and flops back in his chair. </span></div></div>",
+            "created":1586754000,
+            "id":2818518,
+            "title":"The Teen's Home "
         },
         "1522412":{
             "author_id":"atomsize",
@@ -1066,6 +1211,54 @@
             "id":2718798,
             "title":"Cartoon shows."
         },
+        "15412":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "\"Naked Tommy\"",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which episode should we re-write?</span></div></span></div>",
+            "created":1587186000,
+            "id":2820726,
+            "title":"Rugrats."
+        },
+        "154121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "By including Kimi",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How will we alter this episode?</span></div></span></div>",
+            "created":1587186000,
+            "id":2820870,
+            "title":"\"Naked Tommy\""
+        },
+        "154122":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about \"Angelica's Birthday?\"</span></div></span></div>",
+            "created":1587186000,
+            "id":2820727,
+            "title":"Something else"
+        },
+        "1541221":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Angelica wants to stay a baby",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How do we alter this episode?</span></div></span></div>",
+            "created":1587186000,
+            "id":2820873,
+            "title":"Yes"
+        },
         "15413":{
             "author_id":"redwolf12",
             "author_name":"wolfbood",
@@ -1129,6 +1322,42 @@
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about these two?</span></div></span></div>",
             "created":1583643600,
             "id":2798558,
+            "title":"Something else"
+        },
+        "15413253":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What about Little Bear?</span></div></span></div>",
+            "created":1587186000,
+            "id":2820722,
+            "title":"Something else"
+        },
+        "154132531":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Story 1",
+                "Story 2 "
+            ],
+            "content":"<div class=\"\"><div> <span>I have a couple of ideas for a story:<br>\r\n<br>\r\n1. An acrobat flea cant handle the circus life anymore, so she escapes and<br>\r\nfinds sanctuary deep in Little Bear's fur. Will Little Bear and his parents let<br>\r\nher stay? Will Little Bear and the flea be friends?<br>\r\n<br>\r\n2. Emily wanted to know what it's like to be a bear, so she makes a wish<br>\r\nupon a star. When she woke up the next morning, she finds out her wish<br>\r\ncame true? Has her whole reality changed along with her? Will she go<br>\r\nnaked like Little Bear?<br>\r\n<br>\r\nWhich of these do you like?</span></div></div>",
+            "created":1587186000,
+            "id":2820877,
+            "title":"Yes"
+        },
+        "154132532":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Maybe As Told by Ginger?</span></div></span></div>",
+            "created":1587272400,
+            "id":2821255,
             "title":"Something else"
         },
         "1542":{
@@ -1691,7 +1920,7 @@
         "description":"<td align=\"left\" class=\"norm\">Create a new story in fictional worlds. Movies, TV Shows, Books, Video-games. Straight up fictional, a shrinking story, transformation story, crossovers, romantic you name it. Anything goes. <br>\r\n<br>\r\nRules:<br>\r\n1. No ending stories <br>\r\n2. Be respectful towards others stories if they have written a long story with many chapters <br>\r\n3. Make each chapter reasonably long <br>\r\n4. No children to in romantic or sexual situations (13 is the youngest age) <br>\r\n5. Put some effort into chapters chapters please, if there are too many couple word chapters that lead to nothing they will be delated<br>\r\n6. Have fun <br>\r\n<br>\r\nBreak any rules I'll delete your chapters. Any problems or questions send me a email. </td>",
         "id":2199871,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1586469600,
+        "modified":1587336360,
         "pretty_title":"Rewriting Fiction "
     }
 }

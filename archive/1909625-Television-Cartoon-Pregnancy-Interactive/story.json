@@ -29,6 +29,68 @@
             "id":1492393,
             "title":"Family Guy"
         },
+        "112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "magic",
+                "science",
+                "The old-fashioned way"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How will Meg get pregnant?</span></div></span></div>",
+            "created":1586494800,
+            "id":2816831,
+            "title":"Meg"
+        },
+        "1123":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "At Meg's wedding",
+                "In Meg's womb",
+                "Somewhere else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where will we begin this story?</span></div></span></div>",
+            "created":1587186000,
+            "id":2820512,
+            "title":"The old-fashioned way"
+        },
+        "11231":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Jeff Campbell (the nudist)",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who will Meg marry?</span></div></span></div>",
+            "created":1587186000,
+            "id":2820662,
+            "title":"At Meg's wedding"
+        },
+        "11232":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "A group of sperm looking for an egg",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What is the first thing we see in there?</span></div></span></div>",
+            "created":1587186000,
+            "id":2820886,
+            "title":"In Meg's womb"
+        },
+        "112321":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will one of these sperm be out narrator?</span></div></span></div>",
+            "created":1587358800,
+            "id":2821457,
+            "title":"A group of sperm looking for an egg"
+        },
         "12":{
             "author_id":"c619",
             "author_name":"a",
@@ -97,6 +159,78 @@
             "id":2694634,
             "title":"She's amazed"
         },
+        "1224":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Before we continue with this story, would it be okay if we branch off to a different one?</span></div></span></div>",
+            "created":1586667600,
+            "id":2817639,
+            "title":"Barts reality warping powers."
+        },
+        "12241":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Could we try a story with Lisa as an adult?</span></div></span></div>",
+            "created":1586667600,
+            "id":2817640,
+            "title":"Yes"
+        },
+        "122411":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "The old-fashioned way",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How will adult Lisa get pregnant?</span></div></span></div>",
+            "created":1586667600,
+            "id":2817939,
+            "title":"Yes"
+        },
+        "1224111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Could we also look at the pregnancy from the <br>\r\nunborn child's perspective like in the movie<br>\r\n\"Look Who's Talking?\"</span></div></span></div>",
+            "created":1586754000,
+            "id":2818010,
+            "title":"The old-fashioned way"
+        },
+        "12241111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "In Lisa's womb",
+                "Somewhere else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where will our story begin?</span></div></span></div>",
+            "created":1587186000,
+            "id":2820663,
+            "title":"Yes"
+        },
+        "122411111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "An egg traveling down one of Lisa's fallopian tubes",
+                "A group of sperm looking for an egg"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What is the first thing we find in there?</span></div></span></div>",
+            "created":1587272400,
+            "id":2820945,
+            "title":"In Lisa's womb"
+        },
         "13":{
             "author_id":"c619",
             "author_name":"a",
@@ -109,6 +243,19 @@
             "created":1356066000,
             "id":1492395,
             "title":"American Dad"
+        },
+        "132":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "When Hayley decides to have a baby",
+                "In Hayley's womb at the time of conception",
+                "Somewhere else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where will we begin this story?</span></div></span></div>",
+            "created":1587186000,
+            "id":2820519,
+            "title":"Hayley"
         },
         "14":{
             "author_id":"c619",
@@ -188,6 +335,19 @@
             "created":1356066000,
             "id":1492404,
             "title":"Danny Phantom"
+        },
+        "1543":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Maddie Fenton",
+                "Pamela Manson",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who else from Danny phantom should we try?</span></div></span></div>",
+            "created":1587013200,
+            "id":2819819,
+            "title":"Other"
         },
         "155":{
             "author_id":"c619",
@@ -464,6 +624,66 @@
             "id":2677075,
             "title":"The loud house"
         },
+        "1553322":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Rugrats",
+                "All Grown Up"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which show would you want?</span></div></span></div>",
+            "created":1586494800,
+            "id":2816826,
+            "title":"Nah, Rugrats or All Grown Up."
+        },
+        "15533221":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Could we look at each pregnancy through the babie's perspectives?</span></div></span></div>",
+            "created":1586494800,
+            "id":2816828,
+            "title":"Rugrats"
+        },
+        "155332211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Didi's",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which pregnancy shall we focus on first?</span></div></span></div>",
+            "created":1586494800,
+            "id":2816968,
+            "title":"Yes"
+        },
+        "1553322111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Tommy",
+                "Dil"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will we talk about when she was pregnant with Tommy or with Dil?</span></div></span></div>",
+            "created":1586667600,
+            "id":2817641,
+            "title":"Didi's"
+        },
+        "15533221111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Didi's",
+                "Tommy's"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Whose perspective should we focus on?</span></div></span></div>",
+            "created":1587272400,
+            "id":2821253,
+            "title":"Tommy"
+        },
         "1553323":{
             "author_id":"johnny2",
             "author_name":"littlejohn",
@@ -476,6 +696,54 @@
             "id":2815118,
             "title":"Let's think of more options that could work."
         },
+        "15533231":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will we focus on Ginger or any of her friends in their adult years?</span></div></span></div>",
+            "created":1586494800,
+            "id":2816836,
+            "title":"As told by Ginger"
+        },
+        "155332311":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Shall we focus on an adult Ginger Foutley?</span></div></span></div>",
+            "created":1586581200,
+            "id":2817032,
+            "title":"Yes"
+        },
+        "1553323111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "The old-fashioned way",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How will she get pregnant?</span></div></span></div>",
+            "created":1586667600,
+            "id":2817940,
+            "title":"Yes"
+        },
+        "15533231111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Could we also look at the pregnancy through the <br>\r\nunborn child's perspective like in the movie<br>\r\n\"Look Who's Talking?\"</span></div></span></div>",
+            "created":1586667600,
+            "id":2817941,
+            "title":"The old-fashioned way"
+        },
         "15533232":{
             "author_id":"johnny2",
             "author_name":"littlejohn",
@@ -487,6 +755,90 @@
             "created":1586235600,
             "id":2815120,
             "title":"Something else"
+        },
+        "155332321":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will we focus on the girls themselves in their adult years?</span></div></span></div>",
+            "created":1586494800,
+            "id":2816834,
+            "title":"The Powerpuff Girls"
+        },
+        "1553323211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Blossom",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which of the girls shall we focus on?</span></div></span></div>",
+            "created":1586754000,
+            "id":2818414,
+            "title":"Yes"
+        },
+        "15533232111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Teenager",
+                "Adult"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will Blossom be a teenager or adult in this story?</span></div></span></div>",
+            "created":1587013200,
+            "id":2819807,
+            "title":"Blossom"
+        },
+        "155332321112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "The old-fashioned way",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How will Blossom get pregnant?</span></div></span></div>",
+            "created":1587013200,
+            "id":2819971,
+            "title":"Adult"
+        },
+        "1553323211121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will Blossom be married at this time?</span></div></span></div>",
+            "created":1587186000,
+            "id":2820463,
+            "title":"The old-fashioned way"
+        },
+        "15533232111211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Writer's Choice 1",
+                "Writer's Choice 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who is Blossom married to?</span></div></span></div>",
+            "created":1587272400,
+            "id":2821260,
+            "title":"Yes"
+        },
+        "15533232112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Bubbles",
+                "Buttercup"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which of the other two Powerpuffs do you want pregnant?</span></div></span></div>",
+            "created":1587013200,
+            "id":2819935,
+            "title":"Someone else"
         }
     },
     "info":{
@@ -497,7 +849,7 @@
         "description":"<td align=\"left\" class=\"norm\">You decide which female characters from various cartoon shows become rapidly pregnant.<br>\r\n<br>\r\nRules: <br>\r\n<br>\r\nNon-detailed sex is OK.<br>\r\n<br>\r\nGood grammar/spelling<br>\r\n<br>\r\nNo entries shorter than six sentences.<br>\r\n<br>\r\nHave fun!</td>",
         "id":1909625,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1586301600,
+        "modified":1587369960,
         "pretty_title":"Television Cartoon Pregnancy Interactive"
     }
 }

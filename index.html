@@ -46,7 +46,7 @@
                         v-bind:href="'https://www.writing.com/main/portfolio/view/' + $story.info.author_id">{{ $story.info.author_name }}</a>
                 </h4>
                 <div class="btn-group btn-group-sm">
-                    <router-link v-bind:to="'/' + $storyID" class="btn btn-success" append>
+                    <router-link v-bind:to="{ name: 'info', params: {story: this.$storyID} }" class="btn btn-success">
                         <svg class="bi bi-info-square" width="1em" height="1em" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
                             <path fill-rule="evenodd" d="M14 1H2a1 1 0 00-1 1v12a1 1 0 001 1h12a1 1 0 001-1V2a1 1 0 00-1-1zM2 0a2 2 0 00-2 2v12a2 2 0 002 2h12a2 2 0 002-2V2a2 2 0 00-2-2H2z" clip-rule="evenodd"/>
                             <path d="M8.93 6.588l-2.29.287-.082.38.45.083c.294.07.352.176.288.469l-.738 3.468c-.194.897.105 1.319.808 1.319.545 0 1.178-.252 1.465-.598l.088-.416c-.2.176-.492.246-.686.246-.275 0-.375-.193-.304-.533L8.93 6.588z"/>
@@ -54,20 +54,20 @@
                           </svg>
                     </router-link>
 
-                    <router-link to="1" class="btn btn-warning">
+                    <router-link v-bind:to="{ name: 'chapter', params: {story: this.$storyID, current_index: '1' } }" class="btn btn-warning">
                         <svg class="bi bi-skip-backward" width="1em" height="1em" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
                             <path fill-rule="evenodd" d="M.5 3.5A.5.5 0 011 4v3.248l6.267-3.636c.52-.302 1.233.043 1.233.696v2.94l6.267-3.636c.52-.302 1.233.043 1.233.696v7.384c0 .653-.713.998-1.233.696L8.5 8.752v2.94c0 .653-.713.998-1.233.696L1 8.752V12a.5.5 0 01-1 0V4a.5.5 0 01.5-.5zm7 1.133L1.696 8 7.5 11.367V4.633zm7.5 0L9.196 8 15 11.367V4.633z" clip-rule="evenodd"/>
                         </svg>
                     </router-link>
 
-                    <router-link to="outline" class="btn btn-primary">
+                    <router-link v-bind:to="{ name: 'outline', params: {story: this.$storyID } }" class="btn btn-primary">
                         <svg class="bi bi-book" width="1em" height="1em" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
                             <path fill-rule="evenodd" d="M3.214 1.072C4.813.752 6.916.71 8.354 2.146A.5.5 0 018.5 2.5v11a.5.5 0 01-.854.354c-.843-.844-2.115-1.059-3.47-.92-1.344.14-2.66.617-3.452 1.013A.5.5 0 010 13.5v-11a.5.5 0 01.276-.447L.5 2.5l-.224-.447.002-.001.004-.002.013-.006a5.017 5.017 0 01.22-.103 12.958 12.958 0 012.7-.869zM1 2.82v9.908c.846-.343 1.944-.672 3.074-.788 1.143-.118 2.387-.023 3.426.56V2.718c-1.063-.929-2.631-.956-4.09-.664A11.958 11.958 0 001 2.82z" clip-rule="evenodd"/>
                             <path fill-rule="evenodd" d="M12.786 1.072C11.188.752 9.084.71 7.646 2.146A.5.5 0 007.5 2.5v11a.5.5 0 00.854.354c.843-.844 2.115-1.059 3.47-.92 1.344.14 2.66.617 3.452 1.013A.5.5 0 0016 13.5v-11a.5.5 0 00-.276-.447L15.5 2.5l.224-.447-.002-.001-.004-.002-.013-.006-.047-.023a12.582 12.582 0 00-.799-.34 12.96 12.96 0 00-2.073-.609zM15 2.82v9.908c-.846-.343-1.944-.672-3.074-.788-1.143-.118-2.387-.023-3.426.56V2.718c1.063-.929 2.631-.956 4.09-.664A11.956 11.956 0 0115 2.82z" clip-rule="evenodd"/>
                         </svg>
                     </router-link>
 
-                    <router-link to="recent" class="btn btn-info">
+                    <router-link v-bind:to="{ name: 'recent', params: {story: this.$storyID } }" class="btn btn-info">
                         <svg class="bi bi-clock-history" width="1em" height="1em" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
                             <path fill-rule="evenodd" d="M8.515 1.019A7 7 0 008 1V0a8 8 0 01.589.022l-.074.997zm2.004.45a7.003 7.003 0 00-.985-.299l.219-.976c.383.086.76.2 1.126.342l-.36.933zm1.37.71a7.01 7.01 0 00-.439-.27l.493-.87a8.025 8.025 0 01.979.654l-.615.789a6.996 6.996 0 00-.418-.302zm1.834 1.79a6.99 6.99 0 00-.653-.796l.724-.69c.27.285.52.59.747.91l-.818.576zm.744 1.352a7.08 7.08 0 00-.214-.468l.893-.45a7.976 7.976 0 01.45 1.088l-.95.313a7.023 7.023 0 00-.179-.483zm.53 2.507a6.991 6.991 0 00-.1-1.025l.985-.17c.067.386.106.778.116 1.17l-1 .025zm-.131 1.538c.033-.17.06-.339.081-.51l.993.123a7.957 7.957 0 01-.23 1.155l-.964-.267c.046-.165.086-.332.12-.501zm-.952 2.379c.184-.29.346-.594.486-.908l.914.405c-.16.36-.345.706-.555 1.038l-.845-.535zm-.964 1.205c.122-.122.239-.248.35-.378l.758.653a8.073 8.073 0 01-.401.432l-.707-.707z" clip-rule="evenodd"/>
                             <path fill-rule="evenodd" d="M8 1a7 7 0 104.95 11.95l.707.707A8.001 8.001 0 118 0v1z" clip-rule="evenodd"/>
@@ -207,6 +207,47 @@
             </div>
         </div>
     </script>
+
+    <script type="text/x-template" id="single-chapter-template">
+        <div class="pb-3">
+            <div class="card-body py-0">
+                <div class="d-flex justify-content-between">
+                    <h4><small>Chapter {{current_index.length}}:</small> {{ chapter.title }}</h4>
+
+                    <router-link v-if="current_index != '1'" v-bind:to="{ name: 'history', params: {current_index : current_index} }" class="btn btn-link">
+                        <svg class="bi bi-clock-fill" width="1em" height="1em" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                            <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zM8 3.5a.5.5 0 00-1 0V9a.5.5 0 00.252.434l3.5 2a.5.5 0 00.496-.868L8 8.71V3.5z" clip-rule="evenodd"/>
+                        </svg>
+                    </router-link>
+                </div>
+                <h5>
+                    <template v-if="chapter.author_id">
+                        by: 
+                        <a v-bind:href="'https://www.writing.com/main/portfolio/view/' + chapter.author_id">
+                            {{ chapter.author_name }}
+                        </a>
+                    </template>
+                    <template v-else-if="chapter.author_name">
+                        by: {{ chapter.author_name }}
+                    </template>
+
+                    <small class="text-muted"> on {{ created }} </small>
+                </h5>
+            </div>
+
+            <div class="card-body" v-html="chapter.content"></div>
+
+            <div class="list-group list-group-flush">
+
+                <router-link v-for="(choice, index) in chapter.choices" v-bind:key="choice"
+                    v-bind:class="{ disabled: notExist(index), active: index == selected }" class="list-group-item list-group-item-action"
+                    v-bind:to="{ name: 'chapter', params: {current_index: current_index + (index + 1) } }">
+                    {{ choice }}
+                </router-link>
+                </ul>
+            </div>
+        </div>
+    </script>
     
     <script type="text/x-template" id="chapter-view-template">
         <div class="col mt-1 mb-3">
@@ -214,7 +255,7 @@
                 <story-header></story-header>
         
                 <div class="card-body pb-0">
-                    <h6 class="py-0 my-0" v-if="current_index.length != '1'">
+                    <h6 class="py-0 my-0" v-if="current_index.length != '1' && !show_history">
                         <router-link v-bind:to="{ path: current_index.substring(0, current_index.length - 1) }">
                         <svg class="bi bi-arrow-90deg-up" width="1em" height="1em" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
                             <path fill-rule="evenodd" d="M2.646 6.854a.5.5 0 00.708 0L6 4.207l2.646 2.647a.5.5 0 10.708-.708l-3-3a.5.5 0 00-.708 0l-3 3a.5.5 0 000 .708z" clip-rule="evenodd"/>
@@ -222,27 +263,10 @@
                           </svg> Up a chapter
                         </router-link>
                     </h6>
-                    <h4><small>Chapter {{current_index.length}}:</small> {{ chapter.title }}</h4>
-                    <h5 v-if="chapter.author_name">
-                        by: 
-                        <a v-bind:href="'https://www.writing.com/main/portfolio/view/' + chapter.author_id">
-                            {{ chapter.author_name }}
-                        </a>
+                </div>
 
-                        <small class="text-muted"> on {{ created }} </small>
-                    </h5>
-                </div>
-        
-                <div class="card-body" v-html="chapter.content"></div>
-        
-                <div class="list-group list-group-flush">
-                    <router-link v-for="(choice, index) in chapter.choices" v-bind:key="choice"
-                        v-bind:class="{ disabled: notExist(index) }" class="list-group-item list-group-item-action"
-                        v-bind:to="{ path: current_index + (index + 1)}">
-                        {{ choice }}
-                    </router-link>
-                    </ul>
-                </div>
+                <single-chapter v-for="chapter in show_chapters" v-bind:selected="chapter.selected" v-bind:key="chapter.index" v-bind:current_index="chapter.index"></single-chapter>
+
             </div>
         </div>
     </script>
@@ -416,14 +440,9 @@
             }
         })
 
-        const chapter_view = Vue.component('chapter-view', {
-            props: ['current_index'],
-            data: function () {
-                return {
-
-                }
-            },
-            template: '#chapter-view-template',
+        const single_chapter = Vue.component('single-chapter', {
+            props: ['current_index', 'selected'],
+            template: '#single-chapter-template',
             computed: {
                 chapter: function () {
                     return this.$story.chapters[this.current_index]
@@ -439,21 +458,123 @@
             }
         })
 
+        const chapter_view = Vue.component('chapter-view', {
+            props: ['current_index', 'show_history'],
+            data: function () {
+                return {
+
+                }
+            },
+            template: '#chapter-view-template',
+            computed: {
+                chapter: function () {
+                    return this.$story.chapters[this.current_index]
+                },
+                created: function() {
+                    return moment.unix(this.chapter.created).format('MMM Do YYYY')
+                },
+                show_chapters: function() {
+                    if (this.show_history) {
+                        //Build up history for current index
+
+                        var chapters = []
+                        split = this.current_index.split("");
+                        split.forEach((element, index) => {
+                            chapters.push({
+                                index: split.slice(0, index + 1).join('')
+                            })
+                            if (index != split.length - 1) {
+                                chapters[chapters.length - 1].selected = split[index + 1] - 1;
+                            }
+                        });
+                    } else {
+                        var chapters = [ { index: this.current_index, selected: -1 }];
+                    }
+                    idx = this.current_index;
+
+                    while (true) {
+                        var current_chapter = this.$story.chapters[idx]
+
+                        //No more choices, we're done
+                        if (current_chapter.choices == null) {
+                            return chapters;
+                        }
+                        
+                        //Count number of next open chapters
+                        var hasNext = 0, next = 0;
+                        
+                        //Check how many choices we've got
+                        current_chapter.choices.forEach((element, index) => {
+                            if (this.notExist(idx + (index + 1)) == false) { 
+                                hasNext++;
+                                next = index + 1;
+                            }
+                        });
+
+                        //If there's only one choice, then add it to the list
+                        if (hasNext == 1) {
+                            //Set the selected chapter so that we can pass it as a prop and highlight it
+                            chapters[chapters.length - 1].selected = next - 1;
+
+                            //Add new chapter to list to redner
+                            idx = idx + next;
+                            chapters.push({index: idx, selected: -1});
+                        //Otherwise we done
+                        } else {
+                            return chapters;
+                        }
+                    }
+                    return chapters;
+                }
+            },
+            methods: {
+                notExist: function (index) {
+                    return typeof (this.$story.chapters[index]) === 'undefined';
+                }
+            }
+        })
+
         const routes = [
             { path: '/', component: index_view },
             { 
                 path: '/search/:sort/:page/:search?', 
-                component: index_view, name: 'search', 
+                component: index_view,
+                name: 'search', 
                 props: (route) => ({
                     page: Number.parseInt(route.params.page, 10) || 1,
                     search: route.params.search,
                     sort: route.params.sort
                 })
             },
-            { path: '/:story/', component: info_view },
-            { path: '/:story/recent', component: recent_view},
-            { path: '/:story/outline', component: outline_view},
-            { path: '/:story/:current_index', component: chapter_view, props: true },
+            { 
+                path: '/:story/', 
+                component: info_view,
+                name: 'info', 
+            },
+            { 
+                path: '/:story/recent', 
+                component: recent_view,
+                name: 'recent',
+            },
+            { 
+                path: '/:story/outline', 
+                component: outline_view,
+                name: 'outline',
+            },
+            { 
+                path: '/:story/:current_index/history', 
+                name: 'history',
+                component: chapter_view, props: (route) => ({
+                    current_index: route.params.current_index,
+                    show_history: true
+                })
+            },
+            { 
+                path: '/:story/:current_index', 
+                name: 'chapter',
+                component: chapter_view, 
+                props: true 
+            },
         ]
 
         const router = new VueRouter({

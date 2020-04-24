@@ -182,6 +182,19 @@
             "created":1551330000,
             "id":2624116,
             "title":"Other Career Choices"
+        },
+        "153":{
+            "author_id":"themicroboy",
+            "author_name":"The Mystical Explorer",
+            "choices":[
+                "Actor",
+                "Investigator",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about these</span></div></span></div>",
+            "created":1587531600,
+            "id":2822549,
+            "title":"Other"
         }
     },
     "info":{
@@ -192,7 +205,7 @@
         "description":"<td align=\"left\" class=\"norm\">With the economy booming, hundreds of jobs are now available for both giants and tinies. Choose your career path and see what kind of situations you will get into in the workplace.<br>\r\n<br>\r\nRules<br>\r\n<br>\r\nMale interaction only.<br>\r\n<br>\r\nDepending on the options you choose, you can either have a first person or a third person POV, but don't do both for one option.<br>\r\n<br>\r\nAll fetishes allowed except for scat.</td>",
         "id":2183992,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1570501200,
+        "modified":1587549240,
         "pretty_title":"The Giant Workplace"
     }
 }

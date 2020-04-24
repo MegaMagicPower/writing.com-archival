@@ -43,6 +43,19 @@
             "id":1864243,
             "title":"Boulder"
         },
+        "1143":{
+            "author_id":"tealord",
+            "author_name":"Kingme",
+            "choices":[
+                "aang",
+                "sokka",
+                "more"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what these choices?</span></div></span></div>",
+            "created":1587013200,
+            "id":2819970,
+            "title":"More"
+        },
         "12":{
             "author_id":"cooldude9404",
             "author_name":"The Boy",
@@ -676,10 +689,10 @@
         "author_name":"The Boy",
         "brief_description":"Inspired by \"Nicktoons Farts\"",
         "created":1329866640,
-        "description":"<td align=\"left\" class=\"norm\">\u00e2\u0080\u00a2 Inspired by the deleted story Nicktoon Farts<br>\r\n\u00e2\u0080\u00a2 Only men can fart<br>\r\n\u00e2\u0080\u00a2 <span style=\"text-decoration:line-through\">Sexual antics are accepted, but don't go too far (ex. tea-bagging is okay, taking dick out of pants=not okay)</span><br>\r\nEDIT: So I've decided that all sexual activity is okay.<br>\r\n\u00e2\u0080\u00a2 Mostly Butt and Fart torture<br>\r\n\u00e2\u0080\u00a2 No Abrupt Ending<br>\r\n\u00e2\u0080\u00a2 No death<br>\r\n* Have fun</td>",
+        "description":"<td align=\"left\" class=\"norm\">\u2022 Inspired by the deleted story Nicktoon Farts<br>\r\n\u2022 Only men can fart<br>\r\n\u2022 <span style=\"text-decoration:line-through\">Sexual antics are accepted, but don't go too far (ex. tea-bagging is okay, taking dick out of pants=not okay)</span><br>\r\nEDIT: So I've decided that all sexual activity is okay.<br>\r\n\u2022 Mostly Butt and Fart torture<br>\r\n\u2022 No Abrupt Ending<br>\r\n\u2022 No death<br>\r\n* Have fun</td>",
         "id":1849810,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1572303120,
+        "modified":1587095820,
         "pretty_title":"Nicktoons guys STINK"
     }
 }

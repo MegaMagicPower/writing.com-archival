@@ -212,6 +212,43 @@
             "id":2810085,
             "title":"Another Option?"
         },
+        "14522":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What if Little Bear gets a flea?</span></div></span></div>",
+            "created":1586754000,
+            "id":2818420,
+            "title":"Something else"
+        },
+        "145221":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "A circus",
+                "Somewhere else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where would this flea come from?</span></div></span></div>",
+            "created":1586840400,
+            "id":2818975,
+            "title":"Yes"
+        },
+        "145222":{
+            "author_id":"spunky",
+            "author_name":"Ace Jones",
+            "choices":[
+                "Far Out Dalmatians.",
+                "Dylan Dalmatian Pumps Up.",
+                "Other."
+            ],
+            "content":"<div class=\"\"><div> <span>Here are two never before seen interactive stories to choose from as one never before seen interactive story happens to be a parody or spoof of a classic episode of The Munsters titled Far Out Dalmatians.<br>\r\n<br>\r\nAnd the other never before seen interactive story happens to be a never before seen episode titled Dylan Dalmatian Pumps Up.<br>\r\n<br>\r\nFar Out Dalmatians: In this send up parody and or spoof of Far Out Munsters, a rock and roll dog band pays the dalmatian family an exorbitant fee to use their house for the weekend.<br>\r\n<br>\r\nBut the family's unable to adjust to being at a different place and they return home only to find out there's a wild party going on, while at the party Doug improvises a clever beatnik poem, Delilah sings Jerusalem, and the kids get to perform with the band.<br>\r\n<br>\r\nDylan Dalmatian Pumps Up: In this never before seen episode Dylan signs up for a fitness competition for dogs and in order to get into shape, Dylan starts a crash fitness exercise program.<br>\r\n<br>\r\nBut however this hurts every muscle in his body and with those sore muscles of his, Dylan may not able to compete.<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n</span></div></div>",
+            "created":1586840400,
+            "id":2818923,
+            "title":"Something Else."
+        },
         "15":{
             "author_id":"nicholas1998",
             "author_name":"Nick98",
@@ -386,7 +423,7 @@
         "description":"<td align=\"left\" class=\"norm\">These are requested stories. Enjoy.<br>\r\n<br>\r\nRULES:<br>\r\nNO Sexual Content or ANYTHING Inappropriate!<br>\r\nNO Bad Language!<br>\r\nHas to be related to a CHAPTER!<br>\r\nHave fun!</td>",
         "id":1909473,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1585553700,
+        "modified":1586918100,
         "pretty_title":"Request Stories"
     }
 }

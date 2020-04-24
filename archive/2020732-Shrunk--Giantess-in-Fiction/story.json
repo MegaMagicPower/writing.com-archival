@@ -11809,6 +11809,19 @@
             "id":2678805,
             "title":"no"
         },
+        "144":{
+            "author_id":"kemaox",
+            "author_name":"otonman",
+            "choices":[
+                "Red",
+                "Sliver",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So which Pok\u00e9mon game are you in?</span></div></span></div>",
+            "created":1586754000,
+            "id":2818394,
+            "title":"Pokemon"
+        },
         "145":{
             "author_id":"patnewworld",
             "author_name":"ReducedExpectations",
@@ -17737,6 +17750,18 @@
             "id":1920289,
             "title":"Other Cartoon"
         },
+        "15131":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Amy Wong",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who do you want to shrink or enlarge?</span></div></span></div>",
+            "created":1587013200,
+            "id":2819953,
+            "title":"futurama"
+        },
         "15132":{
             "author_id":"ghostknows46",
             "author_name":"Ghostknows",
@@ -17883,6 +17908,18 @@
             "created":1433739600,
             "id":1989597,
             "title":"no"
+        },
+        "15133221":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Grow",
+                "Shrink"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Should Lisa grow or shrink?</span></div></span></div>",
+            "created":1587013200,
+            "id":2819955,
+            "title":"yes"
         },
         "15133222":{
             "author_id":null,
@@ -19867,7 +19904,7 @@
         "description":"<td align=\"left\" class=\"norm\">You are a background character from a popular work of fiction.  A book, a television show, a movie, it's entirely up to you.  When all of a sudden you find yourself in the presence of a female character who appears to you as a giant!  Whether through her growing or you shrinking, you have to survive at your relatively smaller size, while also taking advantage of the fact that you can see these lovely ladies in a whole new way!  <br>\r\n<br>\r\nI AM LOOKING FOR CONTRIBUTIONS / CHAPTER ADDITIONS!<br>\r\n<br>\r\nYou can add onto any existing branch, I just ask that once you pick a path to go down, the chapters detailing actual interaction be a full paragraph MINIMUM.  <br>\r\n<br>\r\nNo male giants, no scat.  Everything else is fair game.  Have fun!</td>",
         "id":2020732,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1584937980,
+        "modified":1587093480,
         "pretty_title":"Shrunk / Giantess in Fiction!"
     }
 }

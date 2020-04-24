@@ -13104,6 +13104,78 @@
             "id":2650203,
             "title":"thirteen."
         },
+        "1131322112211122342212131213112212112122112111122112222212212122":{
+            "author_id":"mbrody",
+            "author_name":"MBrody",
+            "choices":[
+                "\"Mom? Is that you?\" (feign shock and disbelief)",
+                "\"Yeah, I think I might know what happened to you.\" (tell her the truth)"
+            ],
+            "content":"<div class=\"\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0As you stepped in the kitchen, you noticed that your mother seemed just as shocked as you were. But she also seemed a bit, confused.<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\"Andrew,\" she said, and you couldn't believe how young and childlike her voice now sounded. \"I don't know what happened to me -- I just woke up like this. I'm a fucking kid again.\"<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0What do you say in return?</span></div></div>",
+            "created":1587186000,
+            "id":2820706,
+            "title":"like an adult in a child's body"
+        },
+        "11313221122111223422121312131122121121221121111221122222122121222":{
+            "author_id":"mbrody",
+            "author_name":"MBrody",
+            "choices":[
+                "\"It's actually not bad.\"",
+                "\"I didn't like being thirteen the first time around.\""
+            ],
+            "content":"<div class=\"\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\"Yeah,\" you said. \"I think I know what might have happened to you.\" And you explained to her all about the device you found. \"It must gone off overnight and regressed you.\"<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Your mom was silent a moment, then she said, \"Well... that wasn't what I was expecting.\"<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\"So,\" you said, \"how do you like being thirteen again?\"<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0How does his mom respond?</span></div></div>",
+            "created":1587186000,
+            "id":2820715,
+            "title":"\"Yeah, I think I might know what happened t..."
+        },
+        "113132211221112234221213121311221211212211211112211222221221212221":{
+            "author_id":"mbrody",
+            "author_name":"MBrody",
+            "choices":[
+                "You leave to meet up with Yvonne.",
+                "Denise enters, having heard the whole thing."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\"It's actually not bad,\" your mom responded. \"I'm only a year older than my daughter. This is so weird.\"<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0What happens now?</span></div></span></div>",
+            "created":1587186000,
+            "id":2820742,
+            "title":"\"It's actually not bad.\""
+        },
+        "113132211221112234221213121311221211212211211112211222221221212222":{
+            "author_id":"mbrody",
+            "author_name":"MBrody",
+            "choices":[
+                "yes",
+                "no"
+            ],
+            "content":"<div class=\"\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\"I didn't like being thirteen the first time,\" your mom complained. \"I'm only a year older than my daughter. That's not right.\"<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\"Do you want me to return you back to normal?\" you asked.<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Your mom responded...</span></div></div>",
+            "created":1587186000,
+            "id":2820745,
+            "title":"\"I didn't like being thirteen the first..."
+        },
+        "1131322112211122342212131213112212112122112111122112222212212122222":{
+            "author_id":"mbrody",
+            "author_name":"MBrody",
+            "choices":[
+                "older than thirteen but still younger than I was before.",
+                "younger even than thirteen."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\"No,\" your mom decided. \"I think I'd like to be...\"</span></div></span></div>",
+            "created":1587186000,
+            "id":2820747,
+            "title":"no"
+        },
+        "11313221122111223422121312131122121121221121111221122222122121222222":{
+            "author_id":"mbrody",
+            "author_name":"MBrody",
+            "choices":[
+                "a preteen or grade school age.",
+                "a baby."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\"No,\" you mom decided. \"I think I'd actually like to be...\"</span></div></span></div>",
+            "created":1587186000,
+            "id":2820785,
+            "title":"younger even than thirteen."
+        },
         "11313221122111223422121312131122121121221121111221122222122122":{
             "author_id":"mbrody",
             "author_name":"MBrody",
@@ -31037,7 +31109,7 @@
         "description":"<td align=\"left\" class=\"norm\">The real world remote controller <br>\r\n<br>\r\nYou find a box in the ground and open it has a remote that has a his and hers switch. On the bottom of the box is a book and it says you can only control one being at a time. You can pre-set up to 5 and will reset itself ever 2 years\tyou see on the box it says 1996 on the box\t<br>\r\nWho do you want to control with the remote? <br>\r\n1.\t best friend (female)<br>\r\n2.\tbest friend (male)\t<br>\r\n3.\tsister\t<br>\r\n4.\tbrother<br>\r\n5.\tboyfriend or girlfriend<br>\r\n</td>",
         "id":1875153,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1586211000,
+        "modified":1587247680,
         "pretty_title":"The real world remote controller "
     }
 }

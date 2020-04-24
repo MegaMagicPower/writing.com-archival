@@ -2423,6 +2423,96 @@
             "id":2763310,
             "title":"...toilets. And it just so happens your house n..."
         },
+        "1152":{
+            "author_id":"chumbus",
+            "author_name":"grumbus",
+            "choices":[
+                "Dr. Wonder himself!",
+                "An employee of the park!",
+                "A guest!",
+                "Someone who has snuck into the park!",
+                "Someone else!"
+            ],
+            "content":"<div class=\"\"><div> <span>The innocuous name \u2018Wondertainment\u2019 belies a savagely litigious corporation dead set on dominating every media market they can. Owned and operated by the eccentric but brilliant Walter Wonder, the company has as many business ventures as it has outstanding lawsuits.<br>\r\n<br>\r\nIn an odd move around eight-or-so years ago, Walter (or Dr. Wonder, as he likes to be known) purchased the pharmaceutical company Meconstruction, a contender in the growing industry of automated plastic surgery. Investors and the public were puzzled at the new move, some postulating that they were pivoting away from entertainment altogether. <br>\r\n<br>\r\nMostly though, it was forgotten and dismissed as one of Walter\u2019s insane pet projects. It was a massive surprise to all parties when the 23rd annual Wondercon was not centered around movie-promotion, but the opening of WonderWorld; \u2018The Theme Park of the Future, Today!\u2019<br>\r\n<br>\r\nThe park boasted a variety of environments to immerse their guests in: Wonder-City, a sprawling metropolis populated by a plethora of caped heroes and spandex-clad villains; Wonder-Kingdom, a medieval land of sword and sorcery, its forests populated with mysterious elves, and rocky plains inhabited by savage monsters; Wonder-Academy, a venture into the vast amounts of intellectual property purchased from Japan, where improbably-colored hairstyles are the norm and the genre can change at the drop of a hat. <br>\r\n<br>\r\n(Other boroughs are pending, of course.)<br>\r\n<br>\r\nThe roar of mouth-frothing fans drowned out the announcement of the extraordinarily exorbitant priceline.<br>\r\n<br>\r\nIncluded in the base package are three days in the Wonder-Place of your choice and a free body-resculpting to match the locals. Additionally, you are given a basic \u2018Plotline\u2019 to follow; a recently recruited hero for Wonder-City, a new adventurer for Wonder-Kingdom, a transfer student for Wonder-Academy, etc. etc. Packages have to be upgraded if you want to inhabit the role of an established character.<br>\r\n<br>\r\nAny hanky-panky above PG-13 or violence beyond mild-roughhousing is strictly prohibited from both staff and guests \u2014 though one can bypass the former through underground channels. The actors in the park are well-trained, however, and can easily fake a dramatic death or budding romance at the drop of the hat. <br>\r\n<br>\r\nAs with anything owned by Wondertainment, the cheery facade masks a dark underbelly. The staff, by necessity, has been organized into a strict hierarchy; with management at the top; technicians, writers, and actors a rung lower on the ladder; and sanitation, maintenance, and grunt workers at the bottom. Bright eyes dazzled by the magical prospects touted by employment ads and the roaring river of Wonder-media usually leave the park glassy and disillusioned.<br>\r\n<br>\r\nActors are the most sought-after positions; for both the prestige of such a position and the benefits afterward. Contracts are set for five years at the minimum, and anyone who makes it through that crucible can get any Wondertainment-owned role they desire. The selection and training process is rigorous too, a strict regimen of lessons to teach them how to stay in-character no matter their form or situation.<br>\r\n<br>\r\nMany a proud graduate of that program have been bitterly disappointed by the nature of their assignment. Gender, age, height: all these and more are no barrier to the Wondrous\u2122 auto-surgeons of Meconstruction!<br>\r\n<br>\r\n(Rumors swapped amongst the maintenance staff suggest that willingness is equally dismissable, as exemplified by the impetuous thespians who left their \u2018disciplinary sessions\u2019 as legendary method actors.)<br>\r\n<br>\r\nWriters are assigned to create exciting new Plotlines for their awaiting guests. There are a few that create Wonderful\u2122 experiences every time they put pen to paper, but a fair amount of the writer\u2019s room is burnt out, and just rehash usual tropes for their none-the-wiser guests. A few luminaries are employed as coaches for the actors, watching plots unfold through contact-lens cameras whilst whispering plot twists and story directions into the actor\u2019s cleverly hidden earpieces. Whether the actors listen or not is a bit of a toss-up.<br>\r\n<br>\r\nTechnicians are stretched to their creative limit as well by Wondertainment\u2019s nigh-unmeetable quota: designing new animatronics for creatures and roles unoccupiable by humans; new gadgets to enhance the realism of each environment; and pushing the envelope of Meconstruction\u2019s technology. <br>\r\n<br>\r\n(There are rumblings of discontent among the actors about artificially intelligent robots created to take their starring roles in the park, but those are mostly dismissed with much rolling of the eyes and scoffs of \u2018Science fiction!\u2019)<br>\r\n<br>\r\nWonder-World\u2019s mantra is \u2018customer-obsession\u2019, after all. Who needs to follow labor laws when you have mountains of cash?<br>\r\n<br>\r\nThat being said, who are you?<br>\r\n<br>\r\nDr. Wonder himself!<br>\r\n</span></div></div>",
+            "created":1586581200,
+            "id":2817092,
+            "title":"WonderWorld!"
+        },
+        "11521":{
+            "author_id":"chumbus",
+            "author_name":"grumbus",
+            "choices":[
+                " Touring the facilities \u2014 undercover!",
+                " Conversing with his board of directors.",
+                " Staying in the WondResort adjacent to the park, bored out of his mind.",
+                "Something else.",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What could the good doctor himself be doing in regards to his own fine establishment?<br>\r\n</span></div></span></div>",
+            "created":1586581200,
+            "id":2817093,
+            "title":"Dr. Wonder himself!"
+        },
+        "11522":{
+            "author_id":"chumbus",
+            "author_name":"grumbus",
+            "choices":[
+                "Actor.",
+                "Technician.",
+                "Writer.",
+                "Grunt-work.",
+                "Management."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>In which sector of the park are you employed?<br>\r\n</span></div></span></div>",
+            "created":1586581200,
+            "id":2817094,
+            "title":"An employee of the park!"
+        },
+        "115221":{
+            "author_id":"chumbus",
+            "author_name":"grumbus",
+            "choices":[
+                "Wonder-City.",
+                "Wonder-Kingdom.",
+                "Wonder-Academy.",
+                "A borough not listed here.",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><div> <span>The lifeblood that pumps through the veins of WonderLand; all the park's a stage, with you and all your coworkers merely players!<br>\r\nUnfortunately for you, getting yourself out of a role is much more difficult than getting yourself in one.<br>\r\nWhich Wonder-Land do you work in?<br>\r\n<br>\r\n</span></div></div>",
+            "created":1586581200,
+            "id":2817101,
+            "title":"Actor."
+        },
+        "1152211":{
+            "author_id":"chumbus",
+            "author_name":"grumbus",
+            "choices":[
+                "Captain Capable.",
+                "Mighty Maid.",
+                "Black Sable.",
+                "Someone else.",
+                "Someone from another cast of characters."
+            ],
+            "content":"<div class=\"\"><div> <span>Here are a few of the many roles you may find yourself playing in the sleek metropolis of Wonder-City:<br>\r\n<br>\r\n<b>Captain Capable</b>; the archetypical \u2018flying brick\u2019 with a cornucopia of other Plotline-convenient superpowers and one of the founding members of the \u2018Utopian Alliance\u2019, he\u2019s a bit of a boyscout: humble in his accomplishments but steadfast in the face of the evil. His civilian identity is Chet Tompkins, a mild-mannered insurance salesman.<br>\r\n<br>\r\nThe actors that are chosen to play him usually aren\u2019t nearly as humble or kind, however. It\u2019s one of the most sought-after positions for many a reason: the well-muscled athletic physique, the uncountable female Guests hanging off their arms, and the center-stage focus in many a storyline. <br>\r\n<br>\r\nOf course, all this means that the actors for the Captain are easily shunted off to other roles, what with all the eager mummers in queue behind them\u2026<br>\r\n<br>\r\n<b>Mighty Maid</b>; She\u2019s also a founding member of the Utopian Alliance, though you\u2019d never guess it. In her civilian identity, she goes by the name Margot Marseille, a young thing who has earned the dubious honor of the cities\u2019 top maid with inconspicuous use of her \u2018super-cleaning\u2019 powers. With an auburn bob topped by a ruffled headband, a ridiculous French accent,  a nigh-physically-impossible hourglass-figure, and a penchant for getting caught in the most basic of traps, her detractors claim that she sets feminism and the reputation of a certain Western European country back fifty years. <br>\r\n<br>\r\nWonder-Land, of course, dismissed these opinions outright. Hundreds of trust-fund teens and lecherous old men paid out the nose for a chance to ogle the \u2018Servant of the People,\u2019 with the Writers and Technicians eagerly obliging: the former managing to get a checkbox for \u2018Mighty Maid romance,\u2019 on the Wonder-City guest application, and the latter designing intentional flaws into her corset for more wardrobe malfunctions.<br>\r\n<br>\r\nIn fact, Mighty Maid was the focal point of one of the company\u2019s few legal losses : the sight of a sniffling young thing tearfully telling tales about mincing around for the hungry eyes of the elite was a bit too much for the public and courts to stomach.<br>\r\n<br>\r\nThe financial loss was relatively minor, in the scope of all things, but Wondertainment vowed to never let it happen again. So now, if you carefully watch the graduation ceremony of the Actor Training Program, you can see one or two young men goggling at the contents of their enveloped assignment. If you choose to follow them to the auto-surgeon, you can watch them wobble out of their appointment looking markedly different; a good amount of their former mass flushed down the medical waste chute, save for a specially preserved piece. Even if they talk after their contracts are up, who would believe them? <br>\r\n<br>\r\nOnly the actor, direct coworkers, and management are privy to this secret, the former two threatened with immediate severance without pay nor form reinstitution if they disclose the secret to any guest or refuse to play their part. Despite this, you can find quite the number of red-tressed doppelgangers in nearby cities. To this date, no one outside of Wondertainment has quite connected the dots.<br>\r\n<br>\r\n<b>Black Sable</b>; real name: Carmilla Yahontov, a rich heiress who moonlights as a super-villain, pilfering the contents of vaults with usage of her super-intangibility (Which is realized in the park by cleverly hidden secret passages.)<br>\r\n<br>\r\nThough many female actor aspirants try to snag the role of the Sterling Scoundrel with the hope of being the full-fledged badass she is on the silver screen, most are disappointed by the steady stream of moneyed masochists who come to be degraded by the near-amazon. <br>\r\n<br>\r\nSome are fine with it, of course.<br>\r\n<br>\r\n<br>\r\nWho shall you be playing the part of, then?</span></div></div>",
+            "created":1586581200,
+            "id":2817139,
+            "title":"Wonder-City."
+        },
+        "11523":{
+            "author_id":"chumbus",
+            "author_name":"grumbus",
+            "choices":[
+                "Part of the upper crust of society, on your fifth-or-so circuit through the park",
+                "A lucky lottery winner who would never have seen the park otherwise.",
+                "A sullen teen, in the park on some family package.",
+                "Someone else.",
+                "Someone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of Wondrous\u2122 guest could you be?</span></div></span></div>",
+            "created":1586581200,
+            "id":2817095,
+            "title":"A guest!"
+        },
         "12":{
             "author_id":"yote",
             "author_name":"Yote",
@@ -6931,8 +7021,8 @@
         "created":1369499340,
         "description":"<td align=\"left\" class=\"norm\">Chemical, surgical, and mechanical transformations are the order of the day in the far-flung future. <br>\r\n<br>\r\nThis is is a fantasy science story, so while no far-fetched or explicitly magical technology is allowed, the boundaries of what classes as \"science\" are very generous. If it wouold go unnoticed in Star Trek or Star Wars, consider it acceptable, though if you wish to be very scientifically rigorous with a hard sci-fi slant, that works. If you want to write Flash Gordon-esque pulp, that's cool too!<br>\r\n<br>\r\nIf contributed chapters are short or have poor grammar then I may edit them but I usually endeavor to ask first. As always, I will be giving out GP for any contributions.</td>",
         "id":1934990,
-        "image_url":"https://www.writing.com/main/images/action/display/ver/1585717514/item_id/1934990.png",
-        "modified":1585721100,
+        "image_url":"https://www.writing.com/main/images/action/display/ver/1586608659/item_id/1934990.png",
+        "modified":1586612220,
         "pretty_title":"Science fiction transformations"
     }
 }

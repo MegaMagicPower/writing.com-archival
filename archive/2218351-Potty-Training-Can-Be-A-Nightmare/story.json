@@ -82,6 +82,21 @@
             "id":2815421,
             "title":"They throw tantrums and fits about the potty."
         },
+        "1122":{
+            "author_id":"chrisern",
+            "author_name":"ShadowBlade",
+            "choices":[
+                "If he doesn't want to potty, let him. Put him back in diapers.",
+                "A visit from a potty trained friend or cousin could make the potty cool again...",
+                "What's making the potty so bad for him? Is it cold? Hard? Let's solve the issue.",
+                "Remind him of what a big boy he is, and that big boys use the potty.",
+                "Other."
+            ],
+            "content":"<div class=\"\"><div> <span>Raphael's discovery of the word 'No' caused many problems. 'No' was the new, big answer to anything Raphael didn't like. The car seat, vegetables, naptime, bedtime, clothing that was itchy or restricting, and most especially, the potty.<br>\r\n<br>\r\nRaphael had been doing well, all things considered, before then. In training pants, except for the diaper at nap and bedtime, self-initiated a decent amount of tricks, didn't have any problems with either pee or poo, even had some days where he was dry and clean!<br>\r\n<br>\r\nBut that all changed when the \"NO!\" attacked.<br>\r\n<br>\r\nSuddenly, Raphael hated the potty. He cried. He screamed. He threw tantrums. And 'dry all day' became 'wet and poopy all day', with days where he never even tried to go.<br>\r\n<br>\r\nDad was at his wit's end. He was thinking about some ideas of what to do...</span></div></div>",
+            "created":1586667600,
+            "id":2817736,
+            "title":"\u2026Raphael."
+        },
         "114":{
             "author_id":"rm6932",
             "author_name":"Danshi",
@@ -209,6 +224,20 @@
             "id":2815518,
             "title":"Other?"
         },
+        "11545":{
+            "author_id":"chrisern",
+            "author_name":"ShadowBlade",
+            "choices":[
+                "Finds the potty boring or uninteresting. Would rather be playing.",
+                "Is lazy, depends on parent taking them to the potty.",
+                "Has trouble communicating need to go.",
+                "Other."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What issues does the child have?</span></div></span></div>",
+            "created":1586581200,
+            "id":2817296,
+            "title":"Other."
+        },
         "12":{
             "author_id":"chrisern",
             "author_name":"ShadowBlade",
@@ -274,7 +303,7 @@
         "description":"<td align=\"left\" class=\"norm\">For every potty wonder child who takes to it like a fish to water, there's a kid who doesn't. Whether it's because they take forever, throw massive fits, are two-steps-forward-one-step-back, have a ton of accidents, backslide after making progress, or some other reason, these kids are not easy trainers.<br>\r\n<br>\r\nQuick and easy rules: Don't be a creep, be logical, do your homework, and try to keep it realistic.</td>",
         "id":2218351,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1586406360,
+        "modified":1586724360,
         "pretty_title":"Potty Training Can Be A Nightmare!"
     }
 }

@@ -402,6 +402,18 @@
             "id":2815659,
             "title":"Someone else"
         },
+        "11544":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Could it be a universe where Angelica is <br>\r\nabout the same age as Tommy?</span></div></span></div>",
+            "created":1586581200,
+            "id":2817182,
+            "title":"It's set in a parallel universe."
+        },
         "11545":{
             "author_id":"johnny2",
             "author_name":"littlejohn",
@@ -800,6 +812,18 @@
             "created":1586235600,
             "id":2815254,
             "title":"No"
+        },
+        "12221":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Is Kimi included?",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How can we alter this episode?</span></div></span></div>",
+            "created":1586494800,
+            "id":2816627,
+            "title":"Yes"
         },
         "13":{
             "author_id":"supreme123",
@@ -1416,6 +1440,18 @@
             "id":2815257,
             "title":"Yes"
         },
+        "131311212211212211111211221111112211111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was Angelica happy about the redecoration?</span></div></span></div>",
+            "created":1586494800,
+            "id":2816948,
+            "title":"Yes"
+        },
         "1313112122112122111112112211112":{
             "author_id":"johnny2",
             "author_name":"littlejohn",
@@ -1694,6 +1730,30 @@
             "id":2815259,
             "title":"No"
         },
+        "132221":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Tommy",
+                "Angelica"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who will get naked first?</span></div></span></div>",
+            "created":1586581200,
+            "id":2817183,
+            "title":"Yes"
+        },
+        "132222":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Could we look at this episode from Tommy's perspective?</span></div></span></div>",
+            "created":1586581200,
+            "id":2817188,
+            "title":"Something else"
+        },
         "1323":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
@@ -1742,7 +1802,7 @@
         "description":"<td align=\"left\" class=\"norm\">There are a some rules that You must obey.<br>\r\n<br>\r\n<br>\r\n1. keep it clean.<br>\r\n2. Diaper changes are allowed.<br>\r\n3. Nothing rude.<br>\r\n4. Every chapter must be appropriate.<br>\r\n5. Their must never be a mean chapter or it will be deleted.<br>\r\n6. This is the only way the story can stay alive.<br>\r\n7. No Weight gain.<br>\r\n8. If you want to Have the characters get age regressed, You must have excellent grammar with details.<br>\r\n9. No age Progression.<br>\r\n10. Potty training is allowed as well as well as if in alternate episodes that must appropriate.<br>\r\n11. The Rugrats can remove their clothes only if they take a bath or go nakie like in Naked Tommy. But, that must never be inappropriate.<br>\r\n11. This series have had nine seasons. So Keep in that 9 seasoned universe<br>\r\n12. Strange things can happen as well.<br>\r\n13. No age Progression (Which means no all grown up)<br>\r\n14.  No Violence or any thing that is wrong.<br>\r\n15. Anywhere around the world is perfect for The Rugrats to go to on adventures.<br>\r\n16. They can meet the thornberrys family again.<br>\r\n17. Have fun!<br>\r\n<br>\r\n<br>\r\n</td>",
         "id":2202340,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1586494860,
+        "modified":1586620740,
         "pretty_title":"Rugrats: The Alternate Series"
     }
 }

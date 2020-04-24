@@ -30,6 +30,21 @@
             "id":2808340,
             "title":"Lucy"
         },
+        "14":{
+            "author_id":"frown",
+            "author_name":"sup",
+            "choices":[
+                "Issues with the Soda Fountain",
+                "A leak in the milk pumps",
+                "Problems with the cotton candy spinner",
+                "A top secret problem in the research lab",
+                "Engine trouble with the company blimp"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Ah...nothing like starting a new job to make you feel so...fresh.\" said a slim young girl with short black hair as she awoke from a small cot in a garage outside of the town.<br>\r\n<br>\r\nMegan was a young little mechanic who has been itching to start working on things other than cars. Luckily, the new candy factory that opened in town was the perfect opportunity to let her exercise her curiosity and technological know how. After seeing her work disassembling and reassembling a broken down old machine, the factory knew right away she was perfect as their new worker to help with their machinery.<br>\r\n<br>\r\n\"I can't wait to get there!\" Megan said as she grabbed her tool kit and tossed it right into the back of her truck as she got on in and drove off quickly. She seemed to rush down the road like a rocket heading into outer space as she soon made it to the factory parking lot to find it almost empty. \"Huh. Must be the first one here.\" she shrugged as she grabbed her tools. She then heard a buzz as she saw it was the pager she was given. \"Yes! First job!\" she said taking a look at the problem.</span></div></div>",
+            "created":1587704400,
+            "id":2823612,
+            "title":"Megan the Mechanic"
+        },
         "15":{
             "author_id":"skeletorio",
             "author_name":"expandor",
@@ -54,7 +69,7 @@
         "description":"<td align=\"left\" class=\"norm\">A new Candy Factory with a sinister secret causes expansive changes in it's unsuspecting employees...<br>\r\n<br>\r\n</td>",
         "id":2213068,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1585328220,
+        "modified":1587716760,
         "pretty_title":"Candy Factory Weight Gain and Expansion "
     }
 }

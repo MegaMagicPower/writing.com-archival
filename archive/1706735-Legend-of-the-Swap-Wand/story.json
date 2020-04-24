@@ -703,6 +703,18 @@
             "id":1657535,
             "title":"More Links"
         },
+        "115331":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "During the events of the game",
+                "After the events of the game"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does the Skyward Sword version of Link find the Swap Wand during the events of the game, or after?</span></div></span></div>",
+            "created":1587099600,
+            "id":2820089,
+            "title":"Skyward Sword Link"
+        },
         "115332":{
             "author_id":"mrmatttree",
             "author_name":"BakaMedli",
@@ -9034,7 +9046,7 @@
         "description":"<td align=\"left\" class=\"norm\">Read the first chapter for some information on the wand, the setup, and so on. Let's try to keep the number of branches in this one down. There's no need to pick a game before choosing a character; all the toon games cross over with each other, and so do all the non-toon ones.</td>",
         "id":1706735,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1586086440,
+        "modified":1587121680,
         "pretty_title":"Legend of the Swap Wand"
     }
 }

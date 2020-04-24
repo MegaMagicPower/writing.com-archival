@@ -6399,6 +6399,18 @@
             "id":2815123,
             "title":"Lisa Simpson"
         },
+        "155332222222222111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "magic",
+                "science"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How will Lisa become unborn again?</span></div></span></div>",
+            "created":1586581200,
+            "id":2817389,
+            "title":"Yes"
+        },
         "1553322222222222":{
             "author_id":"dragonwriter45",
             "author_name":"Dragonwriter45",
@@ -7482,6 +7494,30 @@
             "created":1586235600,
             "id":2815124,
             "title":"Writer's Choice 1"
+        },
+        "1553322222222222222222222111211121111111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "To her bedroom",
+                "To the bathroom"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where will Drew take Angelica?</span></div></span></div>",
+            "created":1586581200,
+            "id":2817390,
+            "title":"Yes"
+        },
+        "15533222222222222222222221112111211111111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Her bed",
+                "A changing table"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What will he place Angelica on?</span></div></span></div>",
+            "created":1586667600,
+            "id":2817967,
+            "title":"To her bedroom"
         },
         "155332222222222222222222211121112111112":{
             "author_id":"johnny2",
@@ -9416,7 +9452,7 @@
         "description":"<td align=\"left\" class=\"norm\">Watch as Characters from your favorite animes, video games or cartoons grow up or become younger through a mysterious process. Other transformations are allowed to, but the mian focus has to be either Age Progression or age Regression<br>\r\n<br>\r\nNote as of 2/22/10, you can do cartoon shows, movies and video games</td>",
         "id":1721217,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1586328900,
+        "modified":1586753580,
         "pretty_title":"Anime, Video Games and Cartoon  AP/AR"
     }
 }

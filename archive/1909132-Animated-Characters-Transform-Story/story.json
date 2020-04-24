@@ -423,6 +423,19 @@
             "id":2413363,
             "title":"Yuma"
         },
+        "11411":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "Tori Meadows",
+                "Reginald 'Shark' Castle",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who does Yuma swap bodies with?</span></div></span></div>",
+            "created":1586581200,
+            "id":2817030,
+            "title":"He swaps bodies with someone"
+        },
         "11413":{
             "author_id":"mrmasterplan",
             "author_name":"MrMasterplan",
@@ -3485,6 +3498,31 @@
             "created":1569992400,
             "id":2726755,
             "title":"Bonnie"
+        },
+        "15533212121":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "A wish",
+                "A potion",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does Bonnie regress in age?</span></div></span></div>",
+            "created":1587013200,
+            "id":2819684,
+            "title":"Yeah."
+        },
+        "155332121212":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "SE aboutthem."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is it given to her?</span></div></span></div>",
+            "created":1587013200,
+            "id":2819921,
+            "title":"A potion"
         },
         "1553321213":{
             "author_id":"nana2015",
@@ -12302,6 +12340,18 @@
             "id":2812463,
             "title":"Yes"
         },
+        "15533222222222222221121212113311":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Immediately",
+                "In her sleep"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>When does the magic happen?</span></div></span></div>",
+            "created":1586840400,
+            "id":2818732,
+            "title":"A star"
+        },
         "15533222222222222221121212113312":{
             "author_id":"johnny2",
             "author_name":"littlejohn",
@@ -12409,6 +12459,18 @@
             "created":1586322000,
             "id":2815651,
             "title":"A t-shirt and diaper"
+        },
+        "155332222222222222211212121221111121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Her parents came in",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She was overjoyed that the potion made her a baby again?<br>\r\n<br>\r\nWhat happens next?</span></div></span></div>",
+            "created":1586926800,
+            "id":2819199,
+            "title":"Yes"
         },
         "155332222222222222211212122":{
             "author_id":"magicdream",
@@ -12765,6 +12827,30 @@
             "created":1585803600,
             "id":2811921,
             "title":"Nought."
+        },
+        "155332222222222222211212132":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "A wish",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How will Angelica go back to the womb?</span></div></span></div>",
+            "created":1586926800,
+            "id":2819198,
+            "title":"Unborn"
+        },
+        "1553322222222222222112121321":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Her parents",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who wished for Angelica to be unborn again?</span></div></span></div>",
+            "created":1587099600,
+            "id":2820274,
+            "title":"A wish"
         },
         "1553322222222222222112122":{
             "author_id":"magicdream",
@@ -14037,6 +14123,18 @@
             "id":2812457,
             "title":"magic"
         },
+        "1553322222222222222121122223111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "He found it",
+                "Someone gave it to him"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How did Tommy get the potion?</span></div></span></div>",
+            "created":1587099600,
+            "id":2820276,
+            "title":"A potion"
+        },
         "155332222222222222212112222312":{
             "author_id":"johnny2",
             "author_name":"littlejohn",
@@ -14048,6 +14146,30 @@
             "created":1585976400,
             "id":2813165,
             "title":"science"
+        },
+        "1553322222222222222121122223121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "An age changing ray",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of machine?</span></div></span></div>",
+            "created":1586926800,
+            "id":2819043,
+            "title":"Yes"
+        },
+        "15533222222222222221211222231212":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Could it be a youth restoration chamber?</span></div></span></div>",
+            "created":1586926800,
+            "id":2819197,
+            "title":"Something else"
         },
         "1553322222222222222122":{
             "author_id":null,
@@ -16268,6 +16390,42 @@
             "created":1531976400,
             "id":2522040,
             "title":"Younger "
+        },
+        "1553322222222222222222222222221212112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "A wish",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How else will D.W. get younger?</span></div></span></div>",
+            "created":1586840400,
+            "id":2818733,
+            "title":"No, SE."
+        },
+        "15533222222222222222222222222212121121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will D.W. make the wish herself?</span></div></span></div>",
+            "created":1586840400,
+            "id":2818734,
+            "title":"A wish"
+        },
+        "155332222222222222222222222222121211211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "A star",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What did D.W. make the wish on?</span></div></span></div>",
+            "created":1587618000,
+            "id":2823547,
+            "title":"Yes"
         },
         "155332222222222222222222222222121212":{
             "author_id":"jobobo19",
@@ -21542,6 +21700,30 @@
             "id":2524339,
             "title":"No"
         },
+        "155332222222222222222222222222222322222222221232322":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about The Lion King?</span></div></span></div>",
+            "created":1586926800,
+            "id":2819042,
+            "title":"No"
+        },
+        "1553322222222222222222222222222223222222222212323222":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Would All Dogs Go to Heaven be okay?</span></div></span></div>",
+            "created":1586926800,
+            "id":2819435,
+            "title":"Something else"
+        },
         "155332222222222222222222222222222322222222222":{
             "author_id":"nana2015",
             "author_name":"Derek Robson",
@@ -25344,6 +25526,18 @@
             "id":2814330,
             "title":"A magical artifact"
         },
+        "1553322222222222222222222222222223222222222222222232222222222222222222232222222212112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did he make a wish?</span></div></span></div>",
+            "created":1586926800,
+            "id":2819072,
+            "title":"Something else"
+        },
         "15533222222222222222222222222222232222222222222222322222222222222222222322222222122":{
             "author_id":"redwolf12",
             "author_name":"wolfbood",
@@ -25417,6 +25611,30 @@
             "created":1586322000,
             "id":2815309,
             "title":"A star"
+        },
+        "15533222222222222222222222222222232222222222222222322222222222222222222322222222122111112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Writer's Choice 1",
+                "Writer's Choice 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What did Emily see when she woke up?</span></div></span></div>",
+            "created":1586494800,
+            "id":2816768,
+            "title":"In her sleep"
+        },
+        "155332222222222222222222222222222322222222222222223222222222222222222223222222221221111121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was she still in her bedroom?</span></div></span></div>",
+            "created":1587618000,
+            "id":2823545,
+            "title":"Writer's Choice 1"
         }
     },
     "info":{
@@ -25427,7 +25645,7 @@
         "description":"<td align=\"left\" class=\"norm\">Inspired by Hidden in a Box's transform stories, here's my attempt.<br>\r\n<br>\r\nHere, you can have characters from your favorite anime and cartoons undergo whatever kind of changes you want them to. You can focus on groups or individuals, and if you do use groups, be aware that not every character has to be affected by all the same changes.<br>\r\n<br>\r\nNow then, some rules:<br>\r\n<br>\r\nNo sex, vore, futa, or unbirthing (let's keep it clean)<br>\r\nNo killing characters<br>\r\nNo ending the story<br>\r\nExcept for additional suggestions, all entries must be at least one paragraph long<br>\r\nTry to use proper grammar<br>\r\nBe consistent<br>\r\n<br>\r\nAside from that, everything is acceptable.<br>\r\n<br>\r\nAnd of course, have fun!</td>",
         "id":1909132,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1586381400,
+        "modified":1587703320,
         "pretty_title":"Animated Characters Transform Story"
     }
 }

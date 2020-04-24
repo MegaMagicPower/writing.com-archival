@@ -650,6 +650,30 @@
             "id":2655175,
             "title":"Let The Diaper Ritual Begin"
         },
+        "1211121111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did it involve age regression?</span></div></span></div>",
+            "created":1586926800,
+            "id":2819162,
+            "title":"Readers choice 1"
+        },
+        "12111212":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did she want to be back in diapers?</span></div></span></div>",
+            "created":1586840400,
+            "id":2818699,
+            "title":"Angelica."
+        },
         "12112":{
             "author_id":"nicholas1998",
             "author_name":"Nick98",
@@ -794,6 +818,30 @@
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What did her clothes change into?</span></div></span></div>",
             "created":1586408400,
             "id":2815953,
+            "title":"Yes"
+        },
+        "121121322111112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did the potion only alter her body?</span></div></span></div>",
+            "created":1586494800,
+            "id":2816955,
+            "title":"A t-shirt and diaper"
+        },
+        "1211213221111121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Angelica's mental state was left unaffected. <br>\r\nWas she happy that the potion worked?</span></div></span></div>",
+            "created":1586840400,
+            "id":2818548,
             "title":"Yes"
         },
         "121122":{
@@ -996,6 +1044,18 @@
             "created":1586494800,
             "id":2816509,
             "title":"Yes"
+        },
+        "12112211111111121111211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "A crib",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What was first on their list?</span></div></span></div>",
+            "created":1586581200,
+            "id":2817184,
+            "title":"Department store"
         },
         "1211222":{
             "author_id":"supreme123",
@@ -1340,6 +1400,18 @@
             "created":1586322000,
             "id":2815684,
             "title":"Science"
+        },
+        "121132331121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "An age changing ray",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of machine was it?</span></div></span></div>",
+            "created":1586494800,
+            "id":2816631,
+            "title":"Yes"
         },
         "1212":{
             "author_id":"supreme123",
@@ -26821,6 +26893,78 @@
             "created":1581310800,
             "id":2785651,
             "title":"NEXT!"
+        },
+        "125332222232233322222322322222222":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about Arthur?</span></div></span></div>",
+            "created":1586667600,
+            "id":2817598,
+            "title":"Next"
+        },
+        "1253322222322333222223223222222221":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Arthur",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who will be back in diapers?</span></div></span></div>",
+            "created":1586667600,
+            "id":2817919,
+            "title":"Yes"
+        },
+        "12533222223223332222232232222222212":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "D.W.",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who else shall we put back in diapers?</span></div></span></div>",
+            "created":1586840400,
+            "id":2818989,
+            "title":"Someone else"
+        },
+        "125332222232233322222322322222222121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Age regression",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How will D.W. get back in diapers?</span></div></span></div>",
+            "created":1586926800,
+            "id":2819164,
+            "title":"D.W."
+        },
+        "1253322222322333222223223222222221211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Magic",
+                "Science"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What causes her regression?</span></div></span></div>",
+            "created":1586926800,
+            "id":2819417,
+            "title":"Age regression"
+        },
+        "12533222223223332222232232222222212111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "A wish",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of magic?</span></div></span></div>",
+            "created":1587013200,
+            "id":2819785,
+            "title":"Magic"
         }
     },
     "info":{
@@ -26831,7 +26975,7 @@
         "description":"<td align=\"left\" class=\"norm\">Rules:<br>\r\n<br>\r\n#1: No vore. No fating. No death.<br>\r\n<br>\r\n#2: Any gender of your main character is allowed.<br>\r\n<br>\r\n#3: Peeping and Pooping in diapers is allowed. <br>\r\n<br>\r\n#4: characters from Cartoons and Anime is allowed.<br>\r\n<br>\r\n</td>",
         "id":2189662,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1586495460,
+        "modified":1587066120,
         "pretty_title":"In Diaper"
     }
 }

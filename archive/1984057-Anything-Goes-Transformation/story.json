@@ -1247,6 +1247,90 @@
             "id":2031162,
             "title":"Rugrats universe."
         },
+        "1243":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Before we continue with this, can't we try some other story?</span></div></span></div>",
+            "created":1586494800,
+            "id":2816755,
+            "title":"Your choice."
+        },
+        "12431":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Tommy",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which character should we focus on?</span></div></span></div>",
+            "created":1586840400,
+            "id":2818725,
+            "title":"Yes"
+        },
+        "124312":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Angelica",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who else should we alter?</span></div></span></div>",
+            "created":1586926800,
+            "id":2819181,
+            "title":"Someone else"
+        },
+        "1243121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Age regression",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of transformation will Angelica undergo?</span></div></span></div>",
+            "created":1587358800,
+            "id":2821397,
+            "title":"Angelica"
+        },
+        "12431211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "1 Year Old",
+                "Other ages"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How much younger will Angelica become?</span></div></span></div>",
+            "created":1587358800,
+            "id":2821414,
+            "title":"Age regression"
+        },
+        "124312111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "A wish",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How would Angelica become 1 year old again?</span></div></span></div>",
+            "created":1587445200,
+            "id":2822391,
+            "title":"1 Year Old"
+        },
+        "1243121112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did she drink a magic potion?</span></div></span></div>",
+            "created":1587618000,
+            "id":2823543,
+            "title":"Something else"
+        },
         "125":{
             "author_id":"animecsi",
             "author_name":"Archie Comics Lover",
@@ -13034,6 +13118,42 @@
             "created":1489986000,
             "id":2292614,
             "title":"Yes."
+        },
+        "12533222222222222222221212122211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "She cries",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does she react to this?</span></div></span></div>",
+            "created":1586840400,
+            "id":2818716,
+            "title":"D.W. wets herself."
+        },
+        "125332222222222222222212121222111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Jane",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who came to see what's wrong?</span></div></span></div>",
+            "created":1587272400,
+            "id":2821320,
+            "title":"She cries"
+        },
+        "12533222222222222222221212122212":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Writer's Choice 1",
+                "Writer's Choice 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What did they say to D.W.?</span></div></span></div>",
+            "created":1586840400,
+            "id":2818715,
+            "title":"D.W. finds that she can understand Kate and Pal..."
         },
         "125332222222222222222212122":{
             "author_id":"jobobo19",
@@ -28580,6 +28700,30 @@
             "id":2815346,
             "title":"A star"
         },
+        "125332222222222222222222222222222222222222222232314111112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Writer's Choice 1",
+                "Writer's Choice 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What did Emily see when she woke up?</span></div></span></div>",
+            "created":1586667600,
+            "id":2817664,
+            "title":"In her sleep"
+        },
+        "1253322222222222222222222222222222222222222222323141111121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was she still in her bedroom?</span></div></span></div>",
+            "created":1587358800,
+            "id":2821401,
+            "title":"Writer's Choice 1"
+        },
         "125332222222222222222222222222222222222222222232314112":{
             "author_id":"johnny2",
             "author_name":"littlejohn",
@@ -28603,6 +28747,18 @@
             "created":1586149200,
             "id":2814311,
             "title":"Someone else"
+        },
+        "1253322222222222222222222222222222222222222222323151":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Could it be a human kid who was transformed into a bear cub?</span></div></span></div>",
+            "created":1586840400,
+            "id":2818723,
+            "title":"Yes"
         },
         "12533222222222222222222222222222222222222222223232":{
             "author_id":"spunky",
@@ -35566,6 +35722,19 @@
             "id":2124568,
             "title":"Fox McCloud"
         },
+        "15211122222112":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "He swaps bodies with someone",
+                "His changes has something to do with clothes",
+                "Some other choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What else could happen to Fox?</span></div></span></div>",
+            "created":1586581200,
+            "id":2817159,
+            "title":"Other"
+        },
         "152111222222":{
             "author_id":"adventchild",
             "author_name":"AdventChild",
@@ -38538,6 +38707,15 @@
             "id":2404113,
             "title":"Your own story."
         },
+        "15431":{
+            "author_id":"superprince",
+            "author_name":"Superprince",
+            "choices":null,
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Strange things start to happen</span></div></span></div>",
+            "created":1587358800,
+            "id":2821670,
+            "title":"A mythical creature has babies in your yard."
+        },
         "15433":{
             "author_id":"spunky",
             "author_name":"Ace Jones",
@@ -38583,7 +38761,7 @@
         "description":"<td align=\"left\" class=\"norm\">Characters from Anime, Cartoons, Manga, Comics, Books, TV shows, Movies, Video Games...etc undergo transformations<br>\r\n<br>\r\nGender Bender (Any kind of swap Body, Clothes, Face...etc)<br>\r\nAge Regression/Progression<br>\r\nInanimate Objects (Clothes, Furniture, Toys...etc)<br>\r\nAnimal (Real, Fictional &amp; Mythical)</td>",
         "id":1984057,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1586370180,
+        "modified":1587702660,
         "pretty_title":"Anything Goes Transformation"
     }
 }

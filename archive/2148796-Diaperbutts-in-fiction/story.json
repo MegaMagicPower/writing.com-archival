@@ -401,6 +401,18 @@
             "id":2813425,
             "title":"Coco Bandicoot"
         },
+        "1232322":{
+            "author_id":"babyrouge7x",
+            "author_name":"Amy",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about sonic?</span></div></span></div>",
+            "created":1586840400,
+            "id":2818831,
+            "title":"What else"
+        },
         "13":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
@@ -441,6 +453,18 @@
             "created":1531026000,
             "id":2516656,
             "title":"Clover."
+        },
+        "13113":{
+            "author_id":"babyrouge7x",
+            "author_name":"Amy",
+            "choices":[
+                "Hypnosis ",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What else?</span></div></span></div>",
+            "created":1586840400,
+            "id":2818832,
+            "title":"Other reasons"
         },
         "132":{
             "author_id":"supreme123",
@@ -540,6 +564,30 @@
             "id":2816476,
             "title":"Yes"
         },
+        "13211112111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Immediately",
+                "In her sleep"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Angelica secretly wanted to join her cousin Tommy and her friends<br>\r\nin babyhood, so she drank every last drop of the potion?<br>\r\n<br>\r\nWhen did she start to feel the effects?</span></div></span></div>",
+            "created":1586926800,
+            "id":2819037,
+            "title":"Yes"
+        },
+        "132111121111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did the potion affect her mind as well?</span></div></span></div>",
+            "created":1586926800,
+            "id":2819183,
+            "title":"Immediately"
+        },
         "13212":{
             "author_id":"johnny2",
             "author_name":"littlejohn",
@@ -563,6 +611,18 @@
             "created":1586408400,
             "id":2816161,
             "title":"Angelica wants to stay a baby"
+        },
+        "1321211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will they let her keep the baby clothes she's already got on?</span></div></span></div>",
+            "created":1586840400,
+            "id":2819033,
+            "title":"Yes"
         },
         "13213":{
             "author_id":"johnny2",
@@ -1959,6 +2019,54 @@
             "id":2465221,
             "title":"More cartoons to choose from."
         },
+        "1352331":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Arthur",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who gets stuck in diapers?</span></div></span></div>",
+            "created":1586840400,
+            "id":2818783,
+            "title":"Yes."
+        },
+        "13523312":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about his sister D.W.?</span></div></span></div>",
+            "created":1586840400,
+            "id":2818784,
+            "title":"Someone else"
+        },
+        "135233121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Age regression",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How will she be put back in diapers?</span></div></span></div>",
+            "created":1586840400,
+            "id":2819031,
+            "title":"Yes"
+        },
+        "1352331211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Magic",
+                "Science"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What causes her regression?</span></div></span></div>",
+            "created":1586926800,
+            "id":2819039,
+            "title":"Age regression"
+        },
         "1352333":{
             "author_id":null,
             "author_name":null,
@@ -2951,6 +3059,71 @@
             "created":1519016400,
             "id":2454755,
             "title":"Comics"
+        },
+        "142":{
+            "author_id":"babyrouge7x",
+            "author_name":"Amy",
+            "choices":[
+                "Harley Quinn ",
+                "Wonderwoman ",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What character?</span></div></span></div>",
+            "created":1586840400,
+            "id":2818815,
+            "title":"DC"
+        },
+        "1421":{
+            "author_id":"babyrouge7x",
+            "author_name":"Amy",
+            "choices":[
+                "Mental regression ",
+                "Humiliation ",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Why Harley?</span></div></span></div>",
+            "created":1586840400,
+            "id":2818818,
+            "title":"Harley Quinn "
+        },
+        "14213":{
+            "author_id":"babyrouge7x",
+            "author_name":"Amy",
+            "choices":[
+                "Age regression",
+                "Reality warp",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What else?</span></div></span></div>",
+            "created":1586840400,
+            "id":2818821,
+            "title":"Other"
+        },
+        "1422":{
+            "author_id":"babyrouge7x",
+            "author_name":"Amy",
+            "choices":[
+                "Mental regression ",
+                "Humiliation ",
+                "Other "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Why Diana?</span></div></span></div>",
+            "created":1586840400,
+            "id":2818825,
+            "title":"Wonderwoman "
+        },
+        "14223":{
+            "author_id":"babyrouge7x",
+            "author_name":"Amy",
+            "choices":[
+                "Age regression ",
+                "Reality alter",
+                "Other "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What else?</span></div></span></div>",
+            "created":1586840400,
+            "id":2818827,
+            "title":"Other "
         },
         "15":{
             "author_id":"supreme123",
@@ -59501,6 +59674,106 @@
             "id":2530799,
             "title":"Nah, maybe Lindsey Willows, Catherine's dau..."
         },
+        "154333232322322223332322222":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "power rangers",
+                "just role with it",
+                "another show"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>how about the massive power rangers series?</span></div></span></div>",
+            "created":1587272400,
+            "id":2821098,
+            "title":"No, Something Else"
+        },
+        "1543332323223222233323222221":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Sure",
+                "Hmm, someone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Kimberly is our focus here?</span></div></span></div>",
+            "created":1587272400,
+            "id":2821108,
+            "title":"power rangers"
+        },
+        "15433323232232222333232222211":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "School Project",
+                "Another Reason"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Why is Kimberly the original pink ranger in diapers?</span></div></span></div>",
+            "created":1587272400,
+            "id":2821144,
+            "title":"Sure"
+        },
+        "154333232322322223332322222111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Another type of project."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>A Home Economics assignment, where part of the class are parents, others babies?</span></div></span></div>",
+            "created":1587272400,
+            "id":2821145,
+            "title":"School Project"
+        },
+        "15433323232232222333232222212":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Trini,the first yellow ranger",
+                "kat,the second pink ranger",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what other power rangers characters could we try?</span></div></span></div>",
+            "created":1587272400,
+            "id":2821115,
+            "title":"Hmm, someone else."
+        },
+        "154333232322322223332322222122":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>This is part of a Home Economics class assignment?</span></div></span></div>",
+            "created":1587272400,
+            "id":2821138,
+            "title":"kat,the second pink ranger"
+        },
+        "1543332323223222233323222223":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Henry danger",
+                "drake and Josh",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>how about these shows?</span></div></span></div>",
+            "created":1587272400,
+            "id":2821114,
+            "title":"another show"
+        },
+        "15433323232232222333232222232":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Mindy",
+                "Others."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Hmm, is it Megan that's diapered?</span></div></span></div>",
+            "created":1587272400,
+            "id":2821139,
+            "title":"drake and Josh"
+        },
         "155":{
             "author_id":"kameron94",
             "author_name":"Kameron",
@@ -60746,7 +61019,7 @@
         "description":"<td align=\"left\" class=\"norm\">Essentially, this is one for any fictional character you like to be getting diapered, humiliated and even babies<br>\r\n<br>\r\nWhat's not allowed (* = you can if you can make it interesting)<br>\r\nMental Regression* (it's always more fun to have them unwilling)<br>\r\nGore or violent stuff<br>\r\noutright sex or anything similar<br>\r\n<br>\r\nThings encouraged<br>\r\nDiapers stuff, obviously<br>\r\nPhysical regression<br>\r\nAll forms of babying<br>\r\nurine/scat (just about any kind)<br>\r\nMore or less anything I didn't mention in the What's not allowed section<br>\r\n<br>\r\nAnd, of course, have fun</td>",
         "id":2148796,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1586491260,
+        "modified":1587315240,
         "pretty_title":"Diaperbutts in fiction"
     }
 }

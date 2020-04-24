@@ -1545,6 +1545,30 @@
             "id":2815087,
             "title":"something else"
         },
+        "121332221":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will they be taking a bath together?</span></div></span></div>",
+            "created":1586494800,
+            "id":2816699,
+            "title":"Yes"
+        },
+        "1213322212":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will Marge teach Lisa about the wonders of the female body?</span></div></span></div>",
+            "created":1586926800,
+            "id":2819058,
+            "title":"Something else"
+        },
         "122":{
             "author_id":"mariods01",
             "author_name":"MarioDS01",
@@ -1582,6 +1606,55 @@
             "created":1322629200,
             "id":1232459,
             "title":"South Park"
+        },
+        "124":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Meg is married to Jeff Campbell (the nudist)",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What should we change first?</span></div></span></div>",
+            "created":1587186000,
+            "id":2820885,
+            "title":"Family Guy"
+        },
+        "1241":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Can we make this a spin-off series that focuses on <br>\r\nMeg's new life with the Campbells?</span></div></span></div>",
+            "created":1587272400,
+            "id":2820951,
+            "title":"Meg is married to Jeff Campbell (the nudist)"
+        },
+        "12411":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Could this take place in town populated only by nudists?</span></div></span></div>",
+            "created":1587272400,
+            "id":2821353,
+            "title":"Yes"
+        },
+        "1242":{
+            "author_id":"jobobo19",
+            "author_name":"carl.a.pruuitt",
+            "choices":[
+                "Brian married Luis",
+                "Brian want to try Stewie's semulation",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What should we change first?</span></div></span></div>",
+            "created":1587358800,
+            "id":2821678,
+            "title":"Something else"
         },
         "125":{
             "author_id":"destroyer9573",
@@ -2432,6 +2505,30 @@
             "id":2816150,
             "title":"Something else"
         },
+        "1253322222121111221":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did they let Tommy and Kimi take their clothes off by themselves?</span></div></span></div>",
+            "created":1586926800,
+            "id":2819061,
+            "title":"Yes"
+        },
+        "1253322222121111222":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will this be an alternate storyline to the episode \"Naked Tommy?\"</span></div></span></div>",
+            "created":1587186000,
+            "id":2820585,
+            "title":"Something else"
+        },
         "125332222212112":{
             "author_id":"johnny2",
             "author_name":"littlejohn",
@@ -2467,6 +2564,18 @@
             "created":1586149200,
             "id":2814165,
             "title":"Science"
+        },
+        "125332222212112121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "An age changing ray",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of machine?</span></div></span></div>",
+            "created":1586581200,
+            "id":2817168,
+            "title":"Yes"
         },
         "12533222221212":{
             "author_id":"johnny2",
@@ -2684,6 +2793,78 @@
             "created":1586062800,
             "id":2813774,
             "title":"Potty training"
+        },
+        "125332222212131222":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Writer's Choice 1",
+                "Writer's Choice 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Kimi loved her diapers too much. What will she do to avoid the potty?</span></div></span></div>",
+            "created":1586494800,
+            "id":2816754,
+            "title":"No"
+        },
+        "1253322222122":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Tommy",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which character shall we focus on?</span></div></span></div>",
+            "created":1586926800,
+            "id":2819059,
+            "title":"All Grown Up"
+        },
+        "12533222221221":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Age regression",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What will we do to him?</span></div></span></div>",
+            "created":1586926800,
+            "id":2819178,
+            "title":"Tommy"
+        },
+        "125332222212211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Magic",
+                "Science"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What causes Tommy's regression?</span></div></span></div>",
+            "created":1587186000,
+            "id":2820539,
+            "title":"Age regression"
+        },
+        "1253322222122112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was the regression caused by some kind of machine?</span></div></span></div>",
+            "created":1587358800,
+            "id":2821934,
+            "title":"Science"
+        },
+        "12533222221221121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "An age changing ray",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of machine was it?</span></div></span></div>",
+            "created":1587531600,
+            "id":2822960,
+            "title":"Yes"
         },
         "12533222222":{
             "author_id":"15nmcbride",
@@ -3180,6 +3361,78 @@
             "id":2709394,
             "title":"No "
         },
+        "1253322222222224332223":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about Little Bear?</span></div></span></div>",
+            "created":1586840400,
+            "id":2818777,
+            "title":"Another show"
+        },
+        "12533222222222243322231":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Little Bear was born a human",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What will be different?</span></div></span></div>",
+            "created":1587186000,
+            "id":2820544,
+            "title":"Yes"
+        },
+        "125332222222222433222311":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "A wish",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Little Bear actually used to be an orphaned human boy, <br>\r\nbut how did he become a bear cub?</span></div></span></div>",
+            "created":1587186000,
+            "id":2820546,
+            "title":"Little Bear was born a human"
+        },
+        "1253322222222224332223111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "A star",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What did he make the wish on?</span></div></span></div>",
+            "created":1587186000,
+            "id":2820635,
+            "title":"A wish"
+        },
+        "1253322222222224332223112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was it by a magical artifact?</span></div></span></div>",
+            "created":1587186000,
+            "id":2820643,
+            "title":"Something else"
+        },
+        "125332222222222433222312":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Would Emily be a bear cub?</span></div></span></div>",
+            "created":1587186000,
+            "id":2820883,
+            "title":"Something else"
+        },
         "125332222222222433223":{
             "author_id":"johnny2",
             "author_name":"littlejohn",
@@ -3203,6 +3456,30 @@
             "created":1586408400,
             "id":2816180,
             "title":"Yes"
+        },
+        "12533222222222243322311":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will she become a nudist as well?</span></div></span></div>",
+            "created":1586581200,
+            "id":2817192,
+            "title":"Yes"
+        },
+        "1253322222222224332232":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about the Powerpuff Girls?</span></div></span></div>",
+            "created":1587618000,
+            "id":2823473,
+            "title":"The Powerpuff Girls"
         },
         "13":{
             "author_id":"destroyer9573",
@@ -4978,7 +5255,7 @@
         "description":"<td align=\"left\" class=\"norm\">Just follow the usual rules about grammar and sticking with the rating and you should do fine.<br>\r\n<br>\r\nIn this interactive, you pick something you know and love and then change the fabric of its reality. The characters may or may not notice this. This is not, I repeat \"not\", limited to transformations, although that also works here. Be welcome to be nutty with the changes.</td>",
         "id":1829547,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1586442120,
+        "modified":1587688260,
         "pretty_title":"Total Rewrite"
     }
 }

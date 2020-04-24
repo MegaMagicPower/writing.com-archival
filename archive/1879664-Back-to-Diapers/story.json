@@ -4987,6 +4987,18 @@
             "id":2810990,
             "title":"Yes"
         },
+        "12521131212":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Could it be a youth restoration chamber?</span></div></span></div>",
+            "created":1586667600,
+            "id":2817920,
+            "title":"Something else"
+        },
         "125212":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
@@ -5192,6 +5204,18 @@
             "id":2815296,
             "title":"Yes"
         },
+        "1252121131221211111211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did they go shopping for baby supplies?</span></div></span></div>",
+            "created":1586840400,
+            "id":2818986,
+            "title":"Writer's Choice 1"
+        },
         "12521212":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
@@ -5312,6 +5336,42 @@
             "id":2815962,
             "title":"Yes"
         },
+        "125212121111111211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did they also get diapers and changing supplies?</span></div></span></div>",
+            "created":1586494800,
+            "id":2816958,
+            "title":"A changing table"
+        },
+        "1252121211111112111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did they get anything else?</span></div></span></div>",
+            "created":1586840400,
+            "id":2818560,
+            "title":"Yes"
+        },
+        "12521212111111121112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Go back home",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>After everything was paid for, what did Angelica's parents do next?</span></div></span></div>",
+            "created":1586926800,
+            "id":2819158,
+            "title":"No"
+        },
         "1252121211112":{
             "author_id":"johnny2",
             "author_name":"littlejohn",
@@ -5419,6 +5479,30 @@
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What causes Kimi's regression?</span></div></span></div>",
             "created":1586494800,
             "id":2816513,
+            "title":"Yes"
+        },
+        "1252122222112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was it caused by a machine of some kind?</span></div></span></div>",
+            "created":1586494800,
+            "id":2816640,
+            "title":"Science"
+        },
+        "12521222221121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "An age changing ray",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of machine?</span></div></span></div>",
+            "created":1586581200,
+            "id":2817185,
             "title":"Yes"
         },
         "12521222222":{
@@ -6651,6 +6735,42 @@
             "created":1542085200,
             "id":2577120,
             "title":"Females "
+        },
+        "125333221121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Age regression",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How is D.W. back in diapers?</span></div></span></div>",
+            "created":1586667600,
+            "id":2817599,
+            "title":"Yup."
+        },
+        "1253332211211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "A wish",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does D.W. get regressed?</span></div></span></div>",
+            "created":1586754000,
+            "id":2818361,
+            "title":"Age regression"
+        },
+        "12533322112111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did D.W. make the wish herself?</span></div></span></div>",
+            "created":1586926800,
+            "id":2819412,
+            "title":"A wish"
         },
         "125333222":{
             "author_id":"dannyboy135",
@@ -80151,7 +80271,7 @@
         "description":"<td align=\"left\" class=\"norm\">In this interactive story i only ask to keep graphics to a low level and to remember characters must be diapered other than that ANYTHING GOES </td>",
         "id":1879664,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1586495760,
+        "modified":1587000480,
         "pretty_title":"Back to Diapers"
     }
 }

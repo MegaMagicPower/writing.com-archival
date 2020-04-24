@@ -419,6 +419,18 @@
             "id":2212252,
             "title":"Try Again"
         },
+        "11532221":{
+            "author_id":"iliketv",
+            "author_name":"Whowantstoknow?",
+            "choices":[
+                "Just is lazy",
+                "Choice "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What does she do?</span></div></span></div>",
+            "created":1586667600,
+            "id":2817699,
+            "title":"sure"
+        },
         "13":{
             "author_id":"bmaged",
             "author_name":"DmageD",
@@ -460,6 +472,19 @@
             "created":1313989200,
             "id":1172871,
             "title":"Other"
+        },
+        "152":{
+            "author_id":"iliketv",
+            "author_name":"Whowantstoknow?",
+            "choices":[
+                "She makes a wish",
+                "She\u2019s just lazy",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What happens?</span></div></span></div>",
+            "created":1586667600,
+            "id":2817695,
+            "title":"Scarlet Witch"
         }
     },
     "info":{
@@ -470,7 +495,7 @@
         "description":"<td align=\"left\" class=\"norm\">The female characters from the X-Men comics (including X-Force, X-Factor, and all other related series) go through slob transformations. Such as getting fat, smelly, gassy, losing IQ points, and more. Pick your character or characters or teams and have fun. <br>\r\n<br>\r\n-Please choose adult characters<br>\r\n-Female and Male characters can be used<br>\r\n-Please don't let a storyline end unless you leave options for people to continue it in the chapter before it</td>",
         "id":1712993,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1586426640,
+        "modified":1586713440,
         "pretty_title":"X-Slobs"
     }
 }

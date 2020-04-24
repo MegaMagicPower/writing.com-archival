@@ -814,6 +814,19 @@
             "id":2111075,
             "title":"Use the diaper"
         },
+        "1121112":{
+            "author_id":"abdwb",
+            "author_name":"Jake",
+            "choices":[
+                "saw someone in the doorway of the bathroom",
+                "flushed and washed your hands",
+                "something else"
+            ],
+            "content":"<div class=\"\"><div> <span>You decided that you didn't want to use the diaper.  You went into the bathroom.  You closed the door behind you.<br>\r\n<br>\r\nYou were able to pull the diaper down.  Then you sat on the toilet.  You did your business.  Then, you stood up.<br>\r\n<br>\r\nYou pulled your diaper back into place.  Then you....</span></div></div>",
+            "created":1586581200,
+            "id":2817376,
+            "title":"Use the toilet"
+        },
         "112112":{
             "author_id":"sillybaby",
             "author_name":"SillyBaby",
@@ -3227,7 +3240,7 @@
         "description":"<td align=\"left\" class=\"norm\">If you like reading or writing interactive stories with AB/DL themes please join our Google Group:<br>\r\n<a class=\"blue2roll\" rel=\"nofollow\" href=\"https://groups.google.com/forum/#\" target=\"_blank\">https://groups.google.com/forum/#</a>!forum/thicklypadded<br>\r\n<br>\r\nYou are Brett Gibson, a teenage boy.<br>\r\n<br>\r\nIt's just been you and your father, Stephen, for years but now he's met someone and they're getting married.<br>\r\n<br>\r\nHis fiancee Joanne Clark has two daughter named Susan and Lisa. Susan is about your age and Lisa is almost 3. You don't dislike them but you also don't see them as your family and aren't comfortable with the idea of all four of you moving in together.<br>\r\n<br>\r\nJoanne has a plan to help you accept her as your mother. Unfortunately for you that plan starts with treating you like a baby.</td>",
         "id":1866664,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1583377080,
+        "modified":1586654040,
         "pretty_title":"Stepmother"
     }
 }

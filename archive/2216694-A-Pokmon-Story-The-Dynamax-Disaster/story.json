@@ -159,6 +159,47 @@
             "id":2816034,
             "title":"Alola"
         },
+        "12":{
+            "author_id":"5orathegreat",
+            "author_name":"Super5ora",
+            "choices":[
+                "Galar",
+                "Kanto (and the Orange League)",
+                "Johto",
+                "Hoenn (and the Battle Frontier)",
+                "More Regions"
+            ],
+            "content":"<div class=\"\"><div> <span>Alright, even though I watched the anime whenever I got the chance, I'm not really an expert on the Pokemon anime. so I'm just gonna go by the regions.<br>\r\n<br>\r\nThis will be just for the anime exclusive characters and the characters already in the game with different motives and personality's from the anime.<br>\r\n(I mean, those personalty's and motives can also be in the main series section, but what do i know?)</span></div></div>",
+            "created":1587272400,
+            "id":2821356,
+            "title":"Anime"
+        },
+        "125":{
+            "author_id":"5orathegreat",
+            "author_name":"Super5ora",
+            "choices":[
+                "Sinnoh",
+                "Unova",
+                "Even MORE Regions (or eras)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Just a few more regions. (or are they called Eras? Eh, I don't really care...)</span></div></span></div>",
+            "created":1587272400,
+            "id":2821359,
+            "title":"More Regions"
+        },
+        "1253":{
+            "author_id":"5orathegreat",
+            "author_name":"Super5ora",
+            "choices":[
+                "Kalos",
+                "Alola",
+                "Other Anime Related stuff."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, Last of the regions,eras,whatever. After this it up to you. <span class=\"cpteal\"><font class=\"size1\" style=\"\"><i>(because I'm lazy)</i></font></span></span></div></span></div>",
+            "created":1587272400,
+            "id":2821360,
+            "title":"Even MORE Regions (or eras)"
+        },
         "13":{
             "author_id":"5orathegreat",
             "author_name":"Super5ora",
@@ -186,6 +227,88 @@
             "created":1584853200,
             "id":2805457,
             "title":"More games(There's a lot of them)"
+        },
+        "1353":{
+            "author_id":"5orathegreat",
+            "author_name":"Super5ora",
+            "choices":[
+                "Pokken Tournament",
+                "Super Smash Bros.",
+                "More Choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, so there weren't as many Pokemon spin-off games with humans as I thought there were, so this is the last chapter I'll do on this section.</span></div></span></div>",
+            "created":1586581200,
+            "id":2817028,
+            "title":"There is another..."
+        },
+        "13532":{
+            "author_id":"5orathegreat",
+            "author_name":"Super5ora",
+            "choices":[
+                "Readers Choice",
+                "Readers Choice",
+                "Readers Choice"
+            ],
+            "content":"<div class=\"\"><div> <span>So I originally had a long thought if I should include the smash series, ultimately <font class=\"size1\" style=\"\">(hee)</font> I decided \"Eh, why not? It's got Pokemon characters.\" and are now allowing it, with one minor rule.<br>\r\n<br>\r\n-Only Pokemon characters can Dynamax<br>\r\n<br>\r\n<span class=\"cred\">Yeah, sue me.</span><br>\r\n<br>\r\nAnyway, go nuts!</span></div></div>",
+            "created":1586581200,
+            "id":2817036,
+            "title":"The Super Smash Bros Clause"
+        },
+        "14":{
+            "author_id":"5orathegreat",
+            "author_name":"Super5ora",
+            "choices":[
+                "Galar",
+                "Kanto",
+                "Johto",
+                "Hoenn",
+                "More Regions"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>With the Pokemon manga, I'm in the same situation as I was with the anime, except I know absolutely nothing about said manga. So again, I'll just categorize by region, and let someone who actually knows about the manga series take the wheel.</span></div></span></div>",
+            "created":1587618000,
+            "id":2822990,
+            "title":"Manga"
+        },
+        "145":{
+            "author_id":"5orathegreat",
+            "author_name":"Super5ora",
+            "choices":[
+                "Sinnoh",
+                "Unova",
+                "More Regions"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Some more reigons for the manga section.</span></div></span></div>",
+            "created":1587618000,
+            "id":2822991,
+            "title":"More Regions (Manga)"
+        },
+        "1453":{
+            "author_id":"5orathegreat",
+            "author_name":"Super5ora",
+            "choices":[
+                "Kalos",
+                "Alola",
+                "More of... whatever the mangas have"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Last of the regions for this section.</span></div></span></div>",
+            "created":1587618000,
+            "id":2822992,
+            "title":"Even More Regions (Manga)"
+        },
+        "15":{
+            "author_id":"5orathegreat",
+            "author_name":"Super5ora",
+            "choices":[
+                "Reader's Choice",
+                "Reader's Choice",
+                "Reader's Choice",
+                "Reader's Choice",
+                "Reader's Choice"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>There Isn't a lot more forms of media I can put here, so it basically free choice here.</span></div></span></div>",
+            "created":1587618000,
+            "id":2823039,
+            "title":"Others"
         }
     },
     "info":{
@@ -193,10 +316,10 @@
         "author_name":"Super5ora",
         "brief_description":"The power of Dynamax has slipped itself into the other regions, and is effecting humans.",
         "created":1584937680,
-        "description":"<td align=\"left\" class=\"norm\">Introduction Scenario:<br>\r\n<br>\r\nIt seems the new <span style=\"text-decoration:line-through\">gimmick</span> power of <span class=\"clred\">Dynamax</span> has started to spread across the other regions in the world of Pok\u00e9mon, and whats worse <i>(or better, I guess?)</i> is that its starting to slowly effect humans. This whole phenomenon will ether end terribly, or just might take some time getting use to.<br>\r\n<br>\r\nDescription:<br>\r\n<br>\r\nHey. I'm making a new interactive, about Pokemon, and the new Dynamax \"feature\". Because despite being the obvious candidate for macro material, no one on this site seems to want to make a interactive story for it, so i guess I'm filling in the space here.<br>\r\n<br>\r\nHere's a few rules and clarifications before we start:<br>\r\n<br>\r\n-This interactive is mainly going to focus on giantess material, but unlike my last story(which is not doing to well.) this can also have male giants to, so a little something for everyone. Pokemon (except Zacian &amp; Zamazenta, For \"lore\" reasons.) can be effected, but they aren't the main focus here.<br>\r\n<br>\r\n-Clothing can be effected by Dynamax in this story, so they can grow with the user, but don't let that stop you from having it tear off during the growth sequence. Just don't make them entirely nude. <font class=\"size1\" style=\"\">(please?)</font><br>\r\n<br>\r\n-This won't just be restricted to the main series games. This story can take place in the anime, manga, and spin-offs, as long as it's Pokemon related. (Smash Bros. might be a stretch, I'll get back to you on that.)<br>\r\n<br>\r\n-Dynamax is usually instantaneous, has a set height, and last for three turns (however long that is in real time), but the growth can be slow or fast, last as long as you want, and they can be any height you want as well. This is a Fanfiction, GO NUTS!<br>\r\n<br>\r\nSo that should cover everything, hope you consider contributing and enjoy this story, and I am honored to be the first person to make a Dynamax Interactive for this website. <font class=\"size2\" style=\"\">(If that's considered an an honor for some reason)</font></td>",
+        "description":"<td align=\"left\" class=\"norm\">Introduction Scenario:<br>\r\n<br>\r\nIt seems the new <span style=\"text-decoration:line-through\">gimmick</span> power of <span class=\"clred\">Dynamax</span> has started to spread across the other regions in the world of Pok\u00e9mon, and whats worse <i>(or better, I guess?)</i> is that its starting to slowly effect humans. This whole phenomenon will ether end terribly, or just might take some time getting use to.<br>\r\n<br>\r\nDescription:<br>\r\n<br>\r\nHey. I'm making a new interactive, about Pokemon, and the new Dynamax \"feature\". Because despite being the obvious candidate for macro material, no one on this site seems to want to make a interactive story for it, so i guess I'm filling in the space here.<br>\r\n<br>\r\nHere's a few rules and clarifications before we start:<br>\r\n<br>\r\n-This interactive is mainly going to focus on giantess material, but unlike my last story(which is not doing to well.) this can also have male giants to, so a little something for everyone. Pokemon (except Zacian &amp; Zamazenta, For \"lore\" reasons.) can be effected, but they aren't the main focus here.<br>\r\n<br>\r\n-Clothing can be effected by Dynamax in this story, so they can grow with the user, but don't let that stop you from having it tear off during the growth sequence. Just don't make them entirely nude. <font class=\"size1\" style=\"\">(please?)</font><br>\r\n<br>\r\n-This won't just be restricted to the main series games. This story can take place in the anime, manga, and spin-offs, as long as it's Pokemon related.<br>\r\n<br>\r\n-Dynamax is usually instantaneous, has a set height, and last for three turns (however long that is in real time), but the growth can be slow or fast, last as long as you want, and they can be any height you want as well. This is a Fanfiction, GO NUTS!<br>\r\n<br>\r\nSo that should cover everything, hope you consider contributing and enjoy this story, and I am honored to be the first person to make a Dynamax Interactive for this website. <font class=\"size2\" style=\"\">(If that's considered an an honor for some reason)</font></td>",
         "id":2216694,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1586423100,
+        "modified":1587624420,
         "pretty_title":"A Pok\u00e9mon Story: The Dynamax Disaster"
     }
 }

@@ -1480,6 +1480,19 @@
             "id":1133736,
             "title":"Friend's Power"
         },
+        "131":{
+            "author_id":"luftvaffe",
+            "author_name":"Smarty",
+            "choices":[
+                "They can change the reality",
+                "They coerce you to act like a young girl",
+                "They are a scientist with real technical experiments"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What is the cause of the change?</span></div></span></div>",
+            "created":1587272400,
+            "id":2821364,
+            "title":"Is your true new Japanese/Chinese/Korean reality?"
+        },
         "133":{
             "author_id":"taytaywilliams",
             "author_name":"taytaywilliams",
@@ -2261,7 +2274,7 @@
         "description":"<td align=\"left\" class=\"norm\">You are a normal American. This is the story for how you change into a Asian girl.<br>\r\n<br>\r\nAdditions will be awarded generously. </td>",
         "id":1788184,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1585318980,
+        "modified":1587355440,
         "pretty_title":"To Be Asian"
     }
 }

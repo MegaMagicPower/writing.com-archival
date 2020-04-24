@@ -1682,6 +1682,18 @@
             "id":2811229,
             "title":" Ash thinks of another way to get retribution"
         },
+        "115211211122":{
+            "author_id":"pokefan987654",
+            "author_name":"fjdsjkffg",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does he give her an atomic wedgie instead?</span></div></span></div>",
+            "created":1587186000,
+            "id":2820411,
+            "title":"No, something else"
+        },
         "11521122":{
             "author_id":"pokefan9876",
             "author_name":"Rex",
@@ -3311,6 +3323,78 @@
             "id":2816114,
             "title":"Someone else"
         },
+        "1213332121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will she transform into a bear cub?</span></div></span></div>",
+            "created":1586581200,
+            "id":2817015,
+            "title":"Emily"
+        },
+        "12133321211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "A wish",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What causes her transformation?</span></div></span></div>",
+            "created":1586581200,
+            "id":2817190,
+            "title":"Yes"
+        },
+        "121333212111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Emily make the wish herself?</span></div></span></div>",
+            "created":1586581200,
+            "id":2817420,
+            "title":"A wish"
+        },
+        "1213332121111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "A star",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What did she make the wish on?</span></div></span></div>",
+            "created":1586667600,
+            "id":2817604,
+            "title":"Yes"
+        },
+        "12133321211111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Immediately",
+                "In her sleep"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>When did the magic happen?</span></div></span></div>",
+            "created":1586667600,
+            "id":2817935,
+            "title":"A star"
+        },
+        "121333212111112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Writer's Choice 1",
+                "Writer's Choice 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What did Emily see when she woke up?</span></div></span></div>",
+            "created":1586754000,
+            "id":2818373,
+            "title":"In her sleep"
+        },
         "122":{
             "author_id":"ridley23",
             "author_name":"writer49er",
@@ -3438,6 +3522,30 @@
             "created":1566363600,
             "id":2705954,
             "title":"Other."
+        },
+        "122143":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "The Powerpuff Girls",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What about this?</span></div></span></div>",
+            "created":1586494800,
+            "id":2816630,
+            "title":"Another show"
+        },
+        "1221431":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "The girls themselves",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will we alter the girls themselves or one of the supporting characters?</span></div></span></div>",
+            "created":1587618000,
+            "id":2823020,
+            "title":"The Powerpuff Girls"
         },
         "1222":{
             "author_id":"supreme123",
@@ -3832,6 +3940,30 @@
             "id":2705532,
             "title":"Sure."
         },
+        "12411312":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will we talk about when she started potty-training?</span></div></span></div>",
+            "created":1586840400,
+            "id":2818561,
+            "title":"Two years ago, when she was two."
+        },
+        "124113121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did D.W. want to be potty-trained?</span></div></span></div>",
+            "created":1587618000,
+            "id":2823009,
+            "title":"Yes"
+        },
         "12411314":{
             "author_id":"johnny2",
             "author_name":"littlejohn",
@@ -3843,6 +3975,42 @@
             "created":1586322000,
             "id":2815281,
             "title":"Four years ago, when she was zero."
+        },
+        "124113141":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will we look at what she did when she was unborn?</span></div></span></div>",
+            "created":1586840400,
+            "id":2818703,
+            "title":"Yes"
+        },
+        "1241131411":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will this be like the movie \"Look Who's Talking?\"</span></div></span></div>",
+            "created":1586926800,
+            "id":2819418,
+            "title":"Yes"
+        },
+        "12411314111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "First trimester",
+                "Somewhere else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>At what stage of D.W's development will we come in?</span></div></span></div>",
+            "created":1587618000,
+            "id":2823013,
+            "title":"Yes"
         },
         "1241132":{
             "author_id":"jobobo19",
@@ -3935,6 +4103,42 @@
             "created":1569646800,
             "id":2724642,
             "title":"Something else"
+        },
+        "124113234323":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about D.W. goes through age regression?</span></div></span></div>",
+            "created":1586840400,
+            "id":2818991,
+            "title":"Something else"
+        },
+        "1241132343231":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "magic",
+                "science"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What causes her regression?</span></div></span></div>",
+            "created":1586926800,
+            "id":2819165,
+            "title":"Yes"
+        },
+        "12411323432311":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "A wish",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of magic?</span></div></span></div>",
+            "created":1587013200,
+            "id":2819786,
+            "title":"magic"
         },
         "12412":{
             "author_id":"supreme123",
@@ -4367,6 +4571,68 @@
             "created":1557205200,
             "id":2656515,
             "title":"Icarly"
+        },
+        "1331":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Sure",
+                "Nah, SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Hmmm. Will Carly have a diaper fetish?</span></div></span></div>",
+            "created":1586667600,
+            "id":2817620,
+            "title":"Sure."
+        },
+        "1332":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "diapers",
+                "wedgies",
+                "another fetish"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what fetish will be used with Sam from Icarly?</span></div></span></div>",
+            "created":1586667600,
+            "id":2817609,
+            "title":"Nah, Sam."
+        },
+        "13321":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Carly",
+                "Melanie",
+                "Others."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She likes to be babied and diapered, but by whom?</span></div></span></div>",
+            "created":1586667600,
+            "id":2817615,
+            "title":"diapers"
+        },
+        "13323":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "RC 1",
+                "RC 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Other fetish ideas for Sam are...</span></div></span></div>",
+            "created":1586667600,
+            "id":2817745,
+            "title":"another fetish"
+        },
+        "133231":{
+            "author_id":"ridley23",
+            "author_name":"writer49er",
+            "choices":[
+                "One of the three",
+                "Combo or other ideas"
+            ],
+            "content":"<div class=\"\"><div> <span>Alright, here are some options.<br>\r\nFutanari: Sam either grows a dick, or secretly always had one<br>\r\nGTS/size: Sam grows or other people shrink, either way she\u2019s much bigger than somebody else.<br>\r\nGross: Sam is stinky and filthy. Basically the slob fetish you see in some weight gain interactives, just without a big focus on getting fatter, just the other parts.<br>\r\nCombination: Either pick two or all three of the above options and have them in the same path, or take one or more of the above options and add other fetishes to mix in with it<br>\r\nOther: Just pick some other ideas.</span></div></div>",
+            "created":1586667600,
+            "id":2817776,
+            "title":"RC 1"
         },
         "1333":{
             "author_id":"kameron94",
@@ -5894,7 +6160,7 @@
         "description":"<td align=\"left\" class=\"norm\">Rules <br>\r\n1 anime and cartoon crossovers some with live tv are welcome.<br>\r\n2 any feithes are welcome as well just give a warning if any sex is up coming.<br>\r\n3 don't end the story and have fun.</td>",
         "id":2186094,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1586495340,
+        "modified":1587621720,
         "pretty_title":"Anime/cartoon and live tv fandom."
     }
 }

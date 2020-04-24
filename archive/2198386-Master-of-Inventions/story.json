@@ -1148,6 +1148,45 @@
             "id":2741609,
             "title":"Sit down"
         },
+        "11122111":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "You wake up",
+                "You gently land",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>As soon as he finishes the sentence, and before you can react, it suddenly feels like all of your nerves are on fire! Then, just as abruptly, it turns to silence and darkness. You can't even feel anything anymore.<br>\r\n<br>\r\nIn the dark void, after what seems like an hour, a booming voice calls out, \"SELECT YOUR AVATAR!\"<br>\r\n<br>\r\n...<br>\r\n<br>\r\n<br>\r\n...<br>\r\n<br>\r\n<br>\r\nUh... how? You can't see or feel anything. So how is that supposed to work?<br>\r\n<br>\r\n...<br>\r\n<br>\r\n<br>\r\n...<br>\r\n<br>\r\n<br>\r\nAfter an even longer time, the voice calls out again, \"NO SELECTION MADE. PROCEEDING WITH RANDOMIZED AVATAR!\"<br>\r\n<br>\r\n<br>\r\nSuddenly, you feel as though you are falling at an extremely rapid pace. You try to brace yourself when...</span></div></div>",
+            "created":1586754000,
+            "id":2817995,
+            "title":"Hyper-Realistic VR system"
+        },
+        "111221111":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "In a modern bedroom",
+                "In a more rustic bedroom",
+                "Somewhere else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Waking up, you realize that you are able to feel and see again. Looking around, you find that you are currently...</span></div></span></div>",
+            "created":1586754000,
+            "id":2817997,
+            "title":"A whole new game"
+        },
+        "1112211113":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "In a very spartan room",
+                "In a hospital bed",
+                "Maybe not a bed?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You instead find yourself...</span></div></span></div>",
+            "created":1586754000,
+            "id":2817999,
+            "title":"Somewhere else"
+        },
         "11122113":{
             "author_id":"zionixion",
             "author_name":"D-MentedOne",
@@ -1501,7 +1540,7 @@
         "description":"<td align=\"left\" class=\"norm\">You've heard very little over the years about your great uncle, until yesterday. Your parents have grown concerned since they haven't heard from him in a few years. They usually left him to his own devices as he's a bit eccentric. <br>\r\n<br>\r\nNow they want you to do a wellness check on him at his estate.</td>",
         "id":2198386,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1586418960,
+        "modified":1586757600,
         "pretty_title":"Master of Invention(s)"
     }
 }

@@ -771,6 +771,42 @@
             "id":2813900,
             "title":"The machine was broken"
         },
+        "115333323223222122112111111111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will Tommy and his parents accept this and go home?</span></div></span></div>",
+            "created":1586581200,
+            "id":2817416,
+            "title":"Writer's Choice 1"
+        },
+        "1153333232232222":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about if Tommy decides to go nakey again?</span></div></span></div>",
+            "created":1586581200,
+            "id":2817189,
+            "title":"Something else"
+        },
+        "11533332322322221":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "It was hot",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Why would he want to do that again?</span></div></span></div>",
+            "created":1586667600,
+            "id":2817602,
+            "title":"Yes"
+        },
         "12":{
             "author_id":"nicholas1998",
             "author_name":"Nick98",
@@ -2003,6 +2039,18 @@
             "id":2814053,
             "title":"Yes"
         },
+        "1513333232":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Could we do an alternative storyline to \"Angelica's Birthday?\"</span></div></span></div>",
+            "created":1586840400,
+            "id":2818696,
+            "title":"Something else"
+        },
         "152":{
             "author_id":"nicholas1998",
             "author_name":"Nick98",
@@ -2167,6 +2215,18 @@
             "created":1517893200,
             "id":2449999,
             "title":"Kimi in Every season of Rugrats"
+        },
+        "154311":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Tommy's First Birthday",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What episode shall we put Kimi in first?</span></div></span></div>",
+            "created":1586840400,
+            "id":2818536,
+            "title":"Here, Chaz was married to Kira before the serie..."
         },
         "15432":{
             "author_id":"bellyinflater2",
@@ -2336,6 +2396,30 @@
             "created":1584853200,
             "id":2805402,
             "title":"Stop a rampaging sea monster"
+        },
+        "1543331112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will they still be naked during this adventure?</span></div></span></div>",
+            "created":1586494800,
+            "id":2816515,
+            "title":"Deep-sea diving adventure"
+        },
+        "15433311121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "A new kind of fish",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What will they be diving for?</span></div></span></div>",
+            "created":1586840400,
+            "id":2819025,
+            "title":"Yes"
         },
         "1543332":{
             "author_id":"johnny2",
@@ -2626,6 +2710,30 @@
             "created":1513486800,
             "id":2429365,
             "title":"More choices "
+        },
+        "154333333":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will Kimi start potty-training?</span></div></span></div>",
+            "created":1586494800,
+            "id":2816641,
+            "title":"More choices or scenarios please "
+        },
+        "1543333331":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does she want to be potty-trained?</span></div></span></div>",
+            "created":1586494800,
+            "id":2816962,
+            "title":"Yes"
         }
     },
     "info":{
@@ -2635,8 +2743,8 @@
         "created":1494561240,
         "description":"<td align=\"left\" class=\"norm\">There are a some rules that You must obey.<br>\r\n<br>\r\n1. keep it clean.<br>\r\n2. Diaper changes are allowed.<br>\r\n3. Nothing rude.<br>\r\n4. Every chapter must be appropriate.<br>\r\n5. Their must never be a mean chapter or it will be deleted.<br>\r\n6. This is the only way the story can stay alive.<br>\r\n7. No Weight gain.<br>\r\n8. If you want to Have the characters get age regressed, You must have excellent grammar with details.<br>\r\n9. No age Progression.<br>\r\n10. Potty training is allowed as well as alternate episodes that must appropriate. <br>\r\n11. The Rugrats can remove their clothes only if they take a bath or go nakie like in Naked Tommy. But, that must never be inappropriate.<br>\r\n12. Have fun!<br>\r\n<br>\r\n</td>",
         "id":2121353,
-        "image_url":"https://www.writing.com/main/images/action/display/ver/1586433388/item_id/2121353.jpeg",
-        "modified":1586436960,
+        "image_url":"https://www.writing.com/main/images/action/display/ver/1586921488/item_id/2121353.jpeg",
+        "modified":1586925060,
         "pretty_title":"Rugrats Interactive"
     }
 }

@@ -999,6 +999,18 @@
             "id":2293566,
             "title":"Something Else"
         },
+        "11131222":{
+            "author_id":"undertaker972",
+            "author_name":"The Undertaker",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What if their preferences for clothing changes? The boys want to wear girly clothes and the girls want to dress as boys?</span></div></span></div>",
+            "created":1586926800,
+            "id":2819439,
+            "title":"Clothing Preference"
+        },
         "11132":{
             "author_id":"burningking",
             "author_name":"Hidden in a Box",
@@ -2286,6 +2298,18 @@
             "created":1494565200,
             "id":2318231,
             "title":"Thinking they've swapped, but in fact they haven't"
+        },
+        "11213222222221":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "The Human World",
+                "The Digital World"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where are they when this swap happens?</span></div></span></div>",
+            "created":1587013200,
+            "id":2819543,
+            "title":"Tai and Agumon simply THINKING they are in each..."
         },
         "11213222222222":{
             "author_id":"mrmasterplan",
@@ -13602,7 +13626,7 @@
         "description":"<td align=\"left\" class=\"norm\">The characters of the many Digimon series undergo changes. Physical, mental, any kind really. Just keep things consistant. Also, the changes don't always need to affect everybody. They can also swap lives or turn into characters from other anime series or video games.<br>\r\n<br>\r\nAs for changes, don't always try to make everything lead to the same conclusion. Be creative and with similar stuff, don't always make it go the same direction as other paths.<br>\r\n<br>\r\nAlso, unless teleported away from them like into another world, try not to ignore their Digimon partners if they're present. At least at the start of things, a person's partner digimon wilbe present. Whether its affected by anything or not is up to the options.<br>\r\n<br>\r\nNo sex<br>\r\nNo killing off characters<br>\r\nNo ending the story<br>\r\nPlease try to have good grammar and such<br>\r\n<br>\r\nAnd of course, have fun!</td>",
         "id":1855556,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1583707980,
+        "modified":1587018360,
         "pretty_title":"Digimon Transform Story"
     }
 }

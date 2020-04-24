@@ -410,6 +410,18 @@
             "id":2812939,
             "title":"Something else"
         },
+        "1251122121111111121112221":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Angelica want a crib?</span></div></span></div>",
+            "created":1586926800,
+            "id":2819421,
+            "title":"A crib"
+        },
         "1251122121111111121112222":{
             "author_id":"johnny2",
             "author_name":"littlejohn",
@@ -651,6 +663,18 @@
             "id":2816502,
             "title":"She looks for Didi"
         },
+        "1251122121121213111211111111211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What did Didi say?</span></div></span></div>",
+            "created":1586926800,
+            "id":2819167,
+            "title":"Yes"
+        },
         "125112212112121311121111112":{
             "author_id":"johnny2",
             "author_name":"littlejohn",
@@ -866,6 +890,18 @@
             "created":1585198800,
             "id":2807960,
             "title":"Added in"
+        },
+        "1251132121111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Tommy",
+                "Kimi"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who decides to get naked first?</span></div></span></div>",
+            "created":1586667600,
+            "id":2817931,
+            "title":"At the beginning"
         },
         "125113212112":{
             "author_id":"johnny2",
@@ -1363,6 +1399,30 @@
             "id":2816501,
             "title":"Someone gave it to her"
         },
+        "125123111121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did they tell Angelica the truth about what it was?</span></div></span></div>",
+            "created":1586494800,
+            "id":2816628,
+            "title":"Yes"
+        },
+        "1251231111211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Angelica drink it anyway?</span></div></span></div>",
+            "created":1586581200,
+            "id":2817404,
+            "title":"Yes"
+        },
         "12512312":{
             "author_id":"johnny2",
             "author_name":"littlejohn",
@@ -1459,6 +1519,30 @@
             "created":1585285200,
             "id":2808697,
             "title":"Between Seasons 2 & 3"
+        },
+        "125123311221":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Should we put Kimi in the episode \"Naked Tommy?\"</span></div></span></div>",
+            "created":1586667600,
+            "id":2817926,
+            "title":"Writer's Choice 1"
+        },
+        "1251233112211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "At the beginning",
+                "Somewhere else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where in the episode should Kimi show up?</span></div></span></div>",
+            "created":1586840400,
+            "id":2818695,
+            "title":"Yes"
         },
         "125123312":{
             "author_id":"jobobo19",
@@ -2241,6 +2325,150 @@
             "created":1584594000,
             "id":2803916,
             "title":"Alter the movie"
+        },
+        "1253332323":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about The Simpsons?</span></div></span></div>",
+            "created":1586494800,
+            "id":2816951,
+            "title":"something else"
+        },
+        "12533323232":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Then what about The Powerpuff Girls?</span></div></span></div>",
+            "created":1586581200,
+            "id":2817141,
+            "title":"Something else"
+        },
+        "125333232322":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is Little Bear okay?</span></div></span></div>",
+            "created":1586667600,
+            "id":2817600,
+            "title":"Something else"
+        },
+        "1253332323221":{
+            "author_id":"redwolf12",
+            "author_name":"wolfbood",
+            "choices":[
+                "The episode",
+                "The characters"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Should we altered the episode or the characters?</span></div></span></div>",
+            "created":1586667600,
+            "id":2817686,
+            "title":"Yes"
+        },
+        "12533323232211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Could we make a new episode?</span></div></span></div>",
+            "created":1586754000,
+            "id":2818371,
+            "title":"The episode"
+        },
+        "125333232322111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Could it be an episode in which Little Bear gets a flea?</span></div></span></div>",
+            "created":1586926800,
+            "id":2819423,
+            "title":"Yes"
+        },
+        "125333232322112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "\"Little Bear's New Friend\"",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which episode shall we alter?</span></div></span></div>",
+            "created":1586926800,
+            "id":2819424,
+            "title":"No"
+        },
+        "1253332323221121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Emily is now a bear cub",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How will we alter this episode?</span></div></span></div>",
+            "created":1587186000,
+            "id":2820865,
+            "title":"\"Little Bear's New Friend\""
+        },
+        "12533323232211211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will she be naked like Little Bear?</span></div></span></div>",
+            "created":1587186000,
+            "id":2820866,
+            "title":"Emily is now a bear cub"
+        },
+        "12533323232212":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Little Bear",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which character will we alter first?</span></div></span></div>",
+            "created":1586667600,
+            "id":2817687,
+            "title":"The characters"
+        },
+        "125333232322122":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Emily",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who else shall we alter?</span></div></span></div>",
+            "created":1586926800,
+            "id":2819422,
+            "title":"Someone else"
+        },
+        "1253332323222":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about Arthur?</span></div></span></div>",
+            "created":1586840400,
+            "id":2818993,
+            "title":"Something else"
         },
         "13":{
             "author_id":"supreme123",
@@ -3297,6 +3525,19 @@
             "created":1564290000,
             "id":2693738,
             "title":"something else"
+        },
+        "153332222":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "iDream of Dance",
+                "Any more."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do we alter iPsycho?</span></div></span></div>",
+            "created":1586840400,
+            "id":2818836,
+            "title":"Another episode."
         },
         "153333":{
             "author_id":"jd88237",
@@ -5905,7 +6146,7 @@
         "description":"<td align=\"left\" class=\"norm\">You have been granted unlimited powers but before you can do anything you need to do two things<br>\r\n<br>\r\n1) Choose an Universe to enter<br>\r\n2) Decide if you change a character or situation/episode   <br>\r\n<br>\r\nThe Rules at this time are...<br>\r\nYou can do anything you want except vore, <br>\r\nDon\u2019t get to descriptive with any sex scenes<br>\r\n&amp; <br>\r\nAll chapters must have at least one option that is <br>\r\nSomething else or Start a new <br>\r\n<br>\r\n</td>",
         "id":2178633,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1586494620,
+        "modified":1587260160,
         "pretty_title":"Alter Realities "
     }
 }

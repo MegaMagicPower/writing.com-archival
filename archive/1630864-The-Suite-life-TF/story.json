@@ -176,6 +176,32 @@
             "id":2739183,
             "title":"potion"
         },
+        "1142":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Age regression",
+                "Body swap",
+                "Another transformation"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What does the spell do to Maddie?</span></div></span></div>",
+            "created":1586494800,
+            "id":2816633,
+            "title":"spell book"
+        },
+        "11421":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "2 years old.",
+                "Newborn",
+                "More ages."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>It regresses her to what age?</span></div></span></div>",
+            "created":1586494800,
+            "id":2816634,
+            "title":"Age regression"
+        },
         "115":{
             "author_id":"fivefooteight",
             "author_name":"tom darcenn",
@@ -749,6 +775,80 @@
             "id":1154474,
             "title":"London"
         },
+        "1232":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Magic of some kind."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>This happens via a science experiment of some sort?</span></div></span></div>",
+            "created":1586494800,
+            "id":2816597,
+            "title":"regression"
+        },
+        "1233":{
+            "author_id":null,
+            "author_name":null,
+            "choices":[
+                "The machine's creator",
+                "Another student",
+                "An adult"
+            ],
+            "content":"<div class=\"\"><div> <span>There was a Science Fair happening on the ship. Each student was required to bring in something them made. London stopped by the class room to drop off her project, a literal money tree (which is just money taped to a tree). She gets to the classroom, and puts her tree down. As she was leaving, she spots another project, a machine with two helmets attached to it. The machine was shiny so that instantly attracted London to it. <br>\r\n<br>\r\n\"Oh! Shiny!\" she says as she puts one of the helmets on<br>\r\n<br>\r\nSomeone sees her do this, who is it?</span></div></div>",
+            "created":1586494800,
+            "id":2816535,
+            "title":"Body Swap"
+        },
+        "12331":{
+            "author_id":null,
+            "author_name":null,
+            "choices":[
+                "Bailey",
+                "Cody"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who made the machine?</span></div></span></div>",
+            "created":1586494800,
+            "id":2816536,
+            "title":"The machine's creator"
+        },
+        "123311":{
+            "author_id":null,
+            "author_name":null,
+            "choices":[
+                "They swap",
+                "something went wrong"
+            ],
+            "content":"<div class=\"\"><div> <span>While London is trying on the helmet, Bailey comes out of the storage room<br>\r\n<br>\r\n\"What the... London??\" <br>\r\n<br>\r\n\"Oh! Hi Bailey! What do you think of my hat?\" she says fidgeting with it<br>\r\n<br>\r\n\"What? No! London, this is my science project\"<br>\r\n<br>\r\n\"Well you should have come to me. These hats could use some jewels. Fortunately, I have some with me!\" see says as she take some out of her purse and starts putting them on the other helmet<br>\r\n<br>\r\n\"No London. This is my science project. It's---\" she is interrupted by London putting the other helmet on Bailey<br>\r\n<br>\r\n\"There! Don't those gems look nice?\" London says, feeling accomplishing. Putting her arm against the machine, which starts activating<br>\r\n<br>\r\n\"No London! You hit the ON Butto--\" Bailey said trying to get her helmet off in time, but it was too late<br>\r\n<br>\r\n</span></div></div>",
+            "created":1586494800,
+            "id":2816540,
+            "title":"Bailey"
+        },
+        "1233112":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "They swap bodies, but with other people",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What ends up going wrong?</span></div></span></div>",
+            "created":1586494800,
+            "id":2816596,
+            "title":"something went wrong"
+        },
+        "12332":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Cody",
+                "Someone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is it Bailey that spots her?</span></div></span></div>",
+            "created":1586494800,
+            "id":2816594,
+            "title":"Another student"
+        },
         "124":{
             "author_id":"salo90",
             "author_name":"adust",
@@ -1097,7 +1197,7 @@
         "description":"<td align=\"left\" class=\"norm\">You have seen the shows now watch the characters change.<br>\r\n<br>\r\nAny tf is allowed except animal, weight gain or object change apart from that they can tf anything.<br>\r\n<br>\r\nhere is the plot line, for some unexplained reason (you can explain it later if you want) one member of the cast from one of the shows TF in some way or a other and they now have to find away out of this adventure<br>\r\n<br>\r\nRules:<br>\r\nno sex<br>\r\nno nudity<br>\r\nno drug use or referance<br>\r\nno swearing (I will except beep and !%*&amp;(\"$)<br>\r\ndon't end the story quickly<br>\r\nno insulting any religon<br>\r\nno sexis or racism<br>\r\nno toilet stuff<br>\r\nno killing characters<br>\r\nand do not go over my limits.</td>",
         "id":1630864,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1572223260,
+        "modified":1586528100,
         "pretty_title":"The Suite life TF "
     }
 }
