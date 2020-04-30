@@ -43,6 +43,21 @@
             "id":2805628,
             "title":"Galar"
         },
+        "1113":{
+            "author_id":"ejones312",
+            "author_name":"ejones312",
+            "choices":[
+                "Nessa",
+                "Bea",
+                "Melony",
+                "Marnie",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which of these Gym Leaders are going to be affected by the Dynamax?</span></div></span></div>",
+            "created":1588136400,
+            "id":2826740,
+            "title":"More"
+        },
         "112":{
             "author_id":"5orathegreat",
             "author_name":"Super5ora",
@@ -173,6 +188,44 @@
             "created":1587272400,
             "id":2821356,
             "title":"Anime"
+        },
+        "122":{
+            "author_id":"tomsketchit",
+            "author_name":"TomSketchit",
+            "choices":[
+                "Misty",
+                "Delia Ketchum",
+                "Someone Else"
+            ],
+            "content":"<div class=\"\"><div> <span>Following a strange meteor shower, in which strange glowing particles could be seen falling from the sky, the region of Kanto began experiencing a phenomenon thought to only happen in the Galar region: Power Spots began appearing, locations where Dynamax energy leaked out to be harnessed by Pokemon with a Wishing Stone. However, something was strange about this energy that baffled researchers, something they couldn't quite place... that is, until one person stumbled upon one of these spots.<br>\r\n<br>\r\n(It was taking too long for one of these branches to go anywhere.)</span></div></div>",
+            "created":1588050000,
+            "id":2826597,
+            "title":"Kanto Characters"
+        },
+        "1223":{
+            "author_id":"tomsketchit",
+            "author_name":"TomSketchit",
+            "choices":[
+                "Jessie",
+                "Cassidy",
+                "Someone Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>More options, Team Rocket girls.</span></div></span></div>",
+            "created":1588050000,
+            "id":2826599,
+            "title":"Someone Else"
+        },
+        "12233":{
+            "author_id":"tomsketchit",
+            "author_name":"TomSketchit",
+            "choices":[
+                "Nurse Joy or Officer Jenny",
+                "Someone Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The choices are getting too narrow, this is as far as I go with this.</span></div></span></div>",
+            "created":1588050000,
+            "id":2826600,
+            "title":"Someone Else Again"
         },
         "125":{
             "author_id":"5orathegreat",
@@ -319,7 +372,7 @@
         "description":"<td align=\"left\" class=\"norm\">Introduction Scenario:<br>\r\n<br>\r\nIt seems the new <span style=\"text-decoration:line-through\">gimmick</span> power of <span class=\"clred\">Dynamax</span> has started to spread across the other regions in the world of Pok\u00e9mon, and whats worse <i>(or better, I guess?)</i> is that its starting to slowly effect humans. This whole phenomenon will ether end terribly, or just might take some time getting use to.<br>\r\n<br>\r\nDescription:<br>\r\n<br>\r\nHey. I'm making a new interactive, about Pokemon, and the new Dynamax \"feature\". Because despite being the obvious candidate for macro material, no one on this site seems to want to make a interactive story for it, so i guess I'm filling in the space here.<br>\r\n<br>\r\nHere's a few rules and clarifications before we start:<br>\r\n<br>\r\n-This interactive is mainly going to focus on giantess material, but unlike my last story(which is not doing to well.) this can also have male giants to, so a little something for everyone. Pokemon (except Zacian &amp; Zamazenta, For \"lore\" reasons.) can be effected, but they aren't the main focus here.<br>\r\n<br>\r\n-Clothing can be effected by Dynamax in this story, so they can grow with the user, but don't let that stop you from having it tear off during the growth sequence. Just don't make them entirely nude. <font class=\"size1\" style=\"\">(please?)</font><br>\r\n<br>\r\n-This won't just be restricted to the main series games. This story can take place in the anime, manga, and spin-offs, as long as it's Pokemon related.<br>\r\n<br>\r\n-Dynamax is usually instantaneous, has a set height, and last for three turns (however long that is in real time), but the growth can be slow or fast, last as long as you want, and they can be any height you want as well. This is a Fanfiction, GO NUTS!<br>\r\n<br>\r\nSo that should cover everything, hope you consider contributing and enjoy this story, and I am honored to be the first person to make a Dynamax Interactive for this website. <font class=\"size2\" style=\"\">(If that's considered an an honor for some reason)</font></td>",
         "id":2216694,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1587624420,
+        "modified":1588157460,
         "pretty_title":"A Pok\u00e9mon Story: The Dynamax Disaster"
     }
 }

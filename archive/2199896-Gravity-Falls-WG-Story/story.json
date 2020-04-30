@@ -374,6 +374,68 @@
             "created":1568955600,
             "id":2721237,
             "title":"Story 1"
+        },
+        "1514":{
+            "author_id":"theroux3105",
+            "author_name":"Umbra Sombra",
+            "choices":[
+                "Yes! Let's continue!",
+                "No... Move on..."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What do you thank? Ford and Stan?</span></div></span></div>",
+            "created":1588050000,
+            "id":2826304,
+            "title":"Other"
+        },
+        "152":{
+            "author_id":"theroux3105",
+            "author_name":"Umbra Sombra",
+            "choices":[
+                "Robbie",
+                "Soos ",
+                "Or others"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What's about...</span></div></span></div>",
+            "created":1588050000,
+            "id":2826298,
+            "title":"Other individual characters"
+        },
+        "1523":{
+            "author_id":"theroux3105",
+            "author_name":"Umbra Sombra",
+            "choices":[
+                "Grunkle Stan",
+                "Grunkle Ford ",
+                "Others?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Grunkle Stan, Ford... hmmm...</span></div></span></div>",
+            "created":1588050000,
+            "id":2826299,
+            "title":"Or others"
+        },
+        "15231":{
+            "author_id":"theroux3105",
+            "author_name":"Umbra Sombra",
+            "choices":[
+                "Addict in food ",
+                "He meets a witch "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How he will gain weight?</span></div></span></div>",
+            "created":1588050000,
+            "id":2826302,
+            "title":"Grunkle Stan"
+        },
+        "15233":{
+            "author_id":"theroux3105",
+            "author_name":"Umbra Sombra",
+            "choices":[
+                "Sheriff Blubs ",
+                "Gideon"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What's about these characters?</span></div></span></div>",
+            "created":1588050000,
+            "id":2826300,
+            "title":"Others?"
         }
     },
     "info":{
@@ -383,8 +445,8 @@
         "created":1567700880,
         "description":"<td align=\"left\" class=\"norm\">Rules apply as always, no gore, transformation (unless it's futa) or scat, and age regression is fine :3<br>\r\n<br>\r\nEnjoy! :D</td>",
         "id":2199896,
-        "image_url":"https://www.writing.com/main/images/action/display/ver/1586266049/item_id/2199896.png",
-        "modified":1586269620,
+        "image_url":"https://www.writing.com/main/images/action/display/ver/1588089324/item_id/2199896.png",
+        "modified":1588092900,
         "pretty_title":"Gravity Falls WG Story"
     }
 }

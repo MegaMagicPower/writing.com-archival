@@ -2045,6 +2045,29 @@
             "id":2758839,
             "title":"Pick her up"
         },
+        "14211":{
+            "author_id":"trfp",
+            "author_name":"TRFP",
+            "choices":[
+                "Swallow"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You place the shrunken Lugia on your tongue and prepare to swallow...</span></div></span></div>",
+            "created":1588136400,
+            "id":2826698,
+            "title":"Put her in your mouth."
+        },
+        "14212":{
+            "author_id":"trfp",
+            "author_name":"TRFP",
+            "choices":[
+                "Front",
+                "Back"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You put her down your pants, question is, front or back?</span></div></span></div>",
+            "created":1588136400,
+            "id":2826699,
+            "title":"Put her down your pants."
+        },
         "15":{
             "author_id":"cooling999",
             "author_name":"cooling999",
@@ -2652,7 +2675,7 @@
         "description":"<td align=\"left\" class=\"norm\">Its your choice on what the lugia does to you so add.<br>\r\n<br>\r\nBig thanks to Cooling999 for adding 7 chapters to this.</td>",
         "id":1811426,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1587638700,
+        "modified":1588148760,
         "pretty_title":"Your Lugia"
     }
 }

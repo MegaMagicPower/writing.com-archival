@@ -2222,6 +2222,30 @@
             "id":815888,
             "title":"The Paladin`s Sword"
         },
+        "13111122211":{
+            "author_id":"cornsnacks",
+            "author_name":"Sakuya Kawakami",
+            "choices":[
+                "You do what the paladin says",
+                "Distrustful, you keep the sword for yourself"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Okay!\" You yell to the paladin. \"You can take the sword, I don't want any trouble.\" The sword remains in the bag with only the hilt at your grasp. It is one of the most impressive objects you've seen during your brief time in this magical word. <br>\r\n<br>\r\nWhoever or whatever crafted the weapon seemed to have done so by utilizing elements of pure light: a flawless omnipotent, it was glowing with a radiance that made it hard to stare at it for too long.<br>\r\n<br>\r\nEven with your invitation to take the sword, the paladin maintains a large amount of space, only taking small steps. <br>\r\n\"So you can touch it, huh? Roll it over to me.\" He steps forward, his long hair flowing over his shoulders. As he approaches, you can see the similarity between the armor he wears and the sword. But why does he seem hesitant?<br>\r\n<br>\r\n\"You deaf, boy? Bring it closer to me, no treachery or deception unless you want me to end your life.\" </span></div></div>",
+            "created":1587963600,
+            "id":2825623,
+            "title":"Finders versus Keepers"
+        },
+        "131111222111":{
+            "author_id":"cornsnacks",
+            "author_name":"Sakuya Kawakami",
+            "choices":[
+                "You go back for the sword",
+                "You leave it behind and head elsewhere"
+            ],
+            "content":"<div class=\"\"><div> <span>You don't want any trouble with this paranoid paladin and you have your own arrow and bow to use in case there's any trouble. <br>\r\n\"Cover all of the blade and slide it over. The sword is cursed and touching it will <br>\r\nmake you wish you were dead.\" <br>\r\n<br>\r\nThe paladin says with his bright eyes flashing, his tone urgent and serious. <br>\r\n\"Only a member of the Brotherhood can dispose of it properly and without grave harm.\" <br>\r\n<br>\r\nYou shrug, hoping that once this exchange is over, the paladin can take the sword and get far away from you and your path to complete this mysterious journey. You cover the blade up to the hilt as the paladin continues to keep a distance, reminding you to tie it tightly so it doesn't fall out. <br>\r\n<br>\r\n\"Pass it to me and we will both be on our way.\" He comes up more confidently so that all you have to do is push slightly towards him. Up close, something about the paladin makes you extremely suspicious. <br>\r\n<br>\r\nThe brightness in his eyes flickers in a supernatural way. Before he can grab the weapon on his end, you kick the bag up and the sword tumbles onto his unprotected hand. <br>\r\n<br>\r\nLike a wild creature, the paladin hisses and contorts his legs and arms into twisted limbs that flail like tails. He screeches in an incomprehensible language, his hand pinned beneath the blade of the sword. You get up and run in the opposite direction as his flesh sizzles and smokes until a blinding flame spreads throughout the white haired warrior.<br>\r\n<br>\r\nAs you keep running, you can't help but glance back at the gruesome scene. Whatever wanted the sword was no paladin - and the leftovers are a gnarled pale being, its pseudo-armor turnt to ash. At its corpse, the sword glows wildly. <br>\r\n<br>\r\nWas it truly cursed or did it fulfill its true purpose?<br>\r\n</span></div></div>",
+            "created":1588050000,
+            "id":2826072,
+            "title":"Passing of the sword"
+        },
         "13112":{
             "author_id":null,
             "author_name":null,
@@ -7572,7 +7596,7 @@
         "description":"<td align=\"left\" class=\"norm\">This is a fantasy story - your choices will determine your fate and your destiny.  <br>\r\nChoose your character and start reading!  <br>\r\nYou will be faced with many choices and how you \"live\" is up to you.  There's some action/adventure, romance (or at least a chance at it), and of course, a chance for you to be a part by adding on!  <br>\r\n<br>\r\n***If you choose to add, please think about what you are adding.  Do not add a chapter with one or two sentances - please write something with at least a little substance and meaning.  I want you to add, but if it's something that is way out there or doesn't fit in the story, I will edit it (or delete, whichever the case may be).  This is for the enjoyment of the entire story and readers.  Thanks.***<br>\r\n<br>\r\nHere is a map/layout of the area description.<br>\r\nYou start out in the center of The Great Dark Forest.<br>\r\n<br>\r\nNorth:  The Swamp of the Ghost River.  Legend has it this was once a great river, but the forest was jealous and dammed it up on two ends, creating a stagnant, dead swampland.  Many disappearances have been attributed to this swamp.  Inhabitants: Unknown.<br>\r\n<br>\r\nFurther North:  The Cascading Mountains.  These snowy mountains are breathtaking, but a dangerous trek.  Inhabitants: Goblins and Dwarves.<br>\r\n<br>\r\nEven Further North:  The Empire of Light.  One of the destinations - a real jewel of a city.  Inhabitants:  Wizards.<br>\r\n<br>\r\nNorth East:  Ending of the Swamp of the Ghost River and beginning of a dried up river bed. Inhabitants: Unknown.<br>\r\n<br>\r\nFurther North East:  Undergound Caverns and rolling hillsides.  Inhabitants: Goblins in the caverns.<br>\r\n<br>\r\nEast:  Underground Caverns and a dry riverbed.  Inhabitants: Goblins in the caverns.<br>\r\n<br>\r\nFurther East:  Very rocky terrain that turns into deep valleys.  Inhabitants: Orcs.<br>\r\n<br>\r\nFurther East:  The Valley of Zar, one of the destinations.  A place full of shadows - better watch your back.  Inhabitants: Dark Elves.<br>\r\n<br>\r\nSouth East:  Forest until it runs out!  Ends in a mess.....Tree Miners.  Inhabitants: Orcs and Dark Elves.<br>\r\n<br>\r\nFurther South East:  Rocky, dead terrain.<br>\r\n<br>\r\nSouth:  Lush, dense forest all the way until you reach the village of Dan'ne Dale (or Dora Moore - depending on your story).  Inhabitants:  Woodland (good) Elves.<br>\r\n<br>\r\nFurther South:  Deep hills and beautiful forest (not dark).  A giant, mighty river (The Great River) that splits 4 different times.<br>\r\n<br>\r\nFurther South:  The Rivers of Dan (all the forks in the Great river), one of the destinations.  Inhabitants:  Wise Elves<br>\r\n<br>\r\nSouth West:  Forest that eventually ends in sharp, drastic cliffs.  A river is at the bottom of the cliffs (part of the Great river).<br>\r\n<br>\r\nWest:  Dry river bed with increasingly rocky terrain.<br>\r\n<br>\r\nFurther West:  Drastic cliffs and more rocky terrain.<br>\r\n<br>\r\nEven Further West:  The Dark Castle, one of the destinations.  Inhabitants: Humans.<br>\r\n<br>\r\nNorth West:  One end of the Swamp of the Ghost River and the beginning of a dry riverbed.  Inhabitants: Unknown.<br>\r\n<br>\r\nFurther North West:  Mines.  Inhabitants: Goblins and Dwarves.</td>",
         "id":609481,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1505786160,
+        "modified":1588059840,
         "pretty_title":"Mystical Forest"
     }
 }

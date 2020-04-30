@@ -7596,6 +7596,19 @@
             "id":2801453,
             "title":"A Cranky Plea"
         },
+        "15211222222111211":{
+            "author_id":"hardharkoopa",
+            "author_name":"Da King",
+            "choices":[
+                "Peach decides to sail back home.",
+                "Peach tries to sail back home, but is captured by K. Rool.",
+                "Something else happens."
+            ],
+            "content":"<div class=\"\"><div> <span>Immediately, one of Cranky Kong\u2019s hairy hands hit his face. \u201cThat was a Golden Banana.\u201d The name rang a tiny bell in Peach\u2019s head, but she couldn\u2019t for the life of her remember how or why. \u201cThey\u2019re pretty important to my good-for-nothing grandson. Problem is, if a non-Kong eats \u2018em, they turn into a Kong.\u201d That covered the first half of Peach\u2019s question, but not the second. \u201cAs for how to turn back, I\u2019ve got no clue!\u201d<br>\r\n<br>\r\n\u201cReally?!\u201d Peach shouted, anger rising. \u201cI thought you were supposed to be smart or something?!\u201d Then, without waiting for a reply, she turned and walked out, slamming the door behind her. Only once she was out did Peach realize how out of character that was for her. She normally never raised her voice like that, especially to respected elders!<br>\r\n<br>\r\nIt was seeming as though the change came with more than just physical changes. Putting that aside for the moment, Peach considered what to do now. She could try talking to Donkey Kong about the issue, but it wasn\u2019t likely the big lug knew anything more about it than his grandfather did. Maybe it would be best, she considered, to sail back home, and see if anyone in the Mushroom Kingdom knew a cure.</span></div></div>",
+            "created":1588050000,
+            "id":2826424,
+            "title":"Ohhhhh...Banana!"
+        },
         "1521122222211123":{
             "author_id":"thepirate1",
             "author_name":"The pirate",
@@ -8339,6 +8352,30 @@
             "created":1586754000,
             "id":2818086,
             "title":"Gradual"
+        },
+        "1521122222222222222222222222221121":{
+            "author_id":"mindlessdog",
+            "author_name":"Draxus",
+            "choices":[
+                "Princess Shroob",
+                "A Doctor Shroob"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Peach paces up and down her cell, waiting to learn her fate at the hand of the vile Shroobs. Suddenly, the door opens and an unwelcome figure enters</span></div></span></div>",
+            "created":1587704400,
+            "id":2823645,
+            "title":"Peach has been captured by the Shroobs (during ..."
+        },
+        "15211222222222222222222222222211211":{
+            "author_id":"mindlessdog",
+            "author_name":"Draxus",
+            "choices":[
+                "Yes, they're just a little late",
+                "No, she is oddly alone for some reason."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is she accompanied by her usual army of regular Shroobs</span></div></span></div>",
+            "created":1587704400,
+            "id":2823646,
+            "title":"Princess Shroob"
         },
         "15212":{
             "author_id":null,
@@ -14085,7 +14122,7 @@
         "description":"<td align=\"left\" class=\"norm\">Well, this is an interactive where you can do ANYTHING you want to the lovely mushroom princess. No rules, anything goes. Please add.<br>\r\n<br>\r\nEDIT: 50 chapters! Thanks everyone! Now let's shoot for 100!</td>",
         "id":1203849,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1587600240,
+        "modified":1588110000,
         "pretty_title":"Princess Peach Interactive"
     }
 }

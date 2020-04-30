@@ -121,6 +121,18 @@
             "id":2821948,
             "title":"Yes"
         },
+        "12121111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Immediately",
+                "In her sleep"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>When did the magic happen?</span></div></span></div>",
+            "created":1587877200,
+            "id":2825279,
+            "title":"A star"
+        },
         "12123":{
             "author_id":"johnny2",
             "author_name":"littlejohn",
@@ -203,6 +215,19 @@
             "created":1587013200,
             "id":2819708,
             "title":"Francine"
+        },
+        "155":{
+            "author_id":"fadude",
+            "author_name":"Fatdude",
+            "choices":[
+                "Buster",
+                "Sue Ellen",
+                "Anyone Else?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who would be a good transformation target?</span></div></span></div>",
+            "created":1587877200,
+            "id":2825084,
+            "title":"Someone else"
         }
     },
     "info":{
@@ -213,7 +238,7 @@
         "description":"<td align=\"left\" class=\"norm\">Play as Arthur or anyone else who get transfom.<br>\r\n<br>\r\nRules to follow.<br>\r\n<br>\r\n1. No Deaths<br>\r\n<br>\r\n2. No toilet stuff<br>\r\n<br>\r\n3. No means stuff<br>\r\n<br>\r\n4. Have fun<br>\r\n<br>\r\nThat's all and good luck.</td>",
         "id":2217631,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1587444480,
+        "modified":1587944100,
         "pretty_title":"Arthur transformation story"
     }
 }

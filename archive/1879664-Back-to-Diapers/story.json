@@ -1136,6 +1136,18 @@
             "id":1663197,
             "title":"Down the road"
         },
+        "1152322222222222":{
+            "author_id":"coolkid1",
+            "author_name":"coolerthanU",
+            "choices":[
+                "Gatomon",
+                "A different choice"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>We missed Gatomon.<br>\r\n</span></div></span></div>",
+            "created":1588136400,
+            "id":2826661,
+            "title":"Season 3 choices"
+        },
         "1153":{
             "author_id":"smoothie75",
             "author_name":"Smoothie75",
@@ -5215,6 +5227,18 @@
             "created":1586840400,
             "id":2818986,
             "title":"Writer's Choice 1"
+        },
+        "12521211312212111112111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Department store",
+                "Somewhere else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where did they go?</span></div></span></div>",
+            "created":1588136400,
+            "id":2826668,
+            "title":"Yes"
         },
         "12521212":{
             "author_id":"supreme123",
@@ -80271,7 +80295,7 @@
         "description":"<td align=\"left\" class=\"norm\">In this interactive story i only ask to keep graphics to a low level and to remember characters must be diapered other than that ANYTHING GOES </td>",
         "id":1879664,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1587000480,
+        "modified":1588142940,
         "pretty_title":"Back to Diapers"
     }
 }

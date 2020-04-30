@@ -8941,6 +8941,90 @@
             "id":1970438,
             "title":"No! More options"
         },
+        "12533222222222222222222222222222222221":{
+            "author_id":"deltablast476",
+            "author_name":"DeltaBlast476",
+            "choices":[
+                "1 or 2",
+                "X"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Xenoblade 1, 2 or X</span></div></span></div>",
+            "created":1588050000,
+            "id":2826002,
+            "title":"Xenoblade Chronicles"
+        },
+        "125332222222222222222222222222222222211":{
+            "author_id":"deltablast476",
+            "author_name":"DeltaBlast476",
+            "choices":[
+                "1",
+                "2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Xenoblade 1 or 2</span></div></span></div>",
+            "created":1588050000,
+            "id":2826003,
+            "title":"1 or 2"
+        },
+        "1253322222222222222222222222222222222112":{
+            "author_id":"deltablast476",
+            "author_name":"DeltaBlast476",
+            "choices":[
+                "Blade",
+                "Driver"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Blade or driver</span></div></span></div>",
+            "created":1588050000,
+            "id":2826004,
+            "title":"2"
+        },
+        "12533222222222222222222222222222222221121":{
+            "author_id":"deltablast476",
+            "author_name":"DeltaBlast476",
+            "choices":[
+                "Aegis",
+                "Normal"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Aegis or normal</span></div></span></div>",
+            "created":1588050000,
+            "id":2826006,
+            "title":"Blade"
+        },
+        "125332222222222222222222222222222222211211":{
+            "author_id":"deltablast476",
+            "author_name":"DeltaBlast476",
+            "choices":[
+                "Malos",
+                "pyra/mythra/pnuema"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Malos or pyra/mythra/pnuema</span></div></span></div>",
+            "created":1588050000,
+            "id":2826009,
+            "title":"Aegis"
+        },
+        "1253322222222222222222222222222222222112112":{
+            "author_id":"deltablast476",
+            "author_name":"DeltaBlast476",
+            "choices":[
+                "Pyra/mythra",
+                "Pnuema"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Pyra/mythra or pnuema</span></div></span></div>",
+            "created":1588050000,
+            "id":2826010,
+            "title":"pyra/mythra/pnuema"
+        },
+        "12533222222222222222222222222222222221121121":{
+            "author_id":"deltablast476",
+            "author_name":"DeltaBlast476",
+            "choices":[
+                "Pyra",
+                "Mythra"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Cute red head pyra or fiesty blond mythra.</span></div></span></div>",
+            "created":1588050000,
+            "id":2826011,
+            "title":"Pyra/mythra"
+        },
         "12533222222222222222222222222222222222":{
             "author_id":"le_swappr",
             "author_name":"clockworkMelody",
@@ -13195,6 +13279,19 @@
             "created":1554872400,
             "id":2642891,
             "title":"Fairy"
+        },
+        "14532222222111":{
+            "author_id":"eternallylosta",
+            "author_name":"EternallyLostAuthor",
+            "choices":[
+                "Follow the instructions",
+                "Try the 'Fairy Dust' on it's own",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Jake would probably get a kick out of this.\" you noted bemused, shame was a foreign notion to you as long as it was in the service of getting a laugh. You glance at the size and raise an eyebrow. '\"One size fits all?\" you looking the waifish leaf dress and back to the size tag. \"Guaranteed? Must be super stretchy or something. Sure why not.\" You shrug and take the dress out from the racks, with a little searching you manage to find a dressing room that's open. Locking it behind you to hanger the costume up and giving it another look over... Pulling on the material it is amazingly stretchy despite not looking it, granted you'd end up looking more like a green sausage then a fairy but all for the sake of comedy. The 'fairy dust' also had instructions on it.<br>\r\n<br>\r\n\"Put on accompanying costume and then sprinkling liberally on top of your head.\" You mutter shaking the packet of glitter with interest.</span></div></div>",
+            "created":1588050000,
+            "id":2826282,
+            "title":"Try on the Classic Fairy"
         },
         "14532222222113":{
             "author_id":"eternallylosta",
@@ -17723,7 +17820,7 @@
         "description":"<td align=\"left\" class=\"norm\">You were heading home when you noticed a new costume shop along the road. You never noticed it, so you decided to go in. You needed a costume for your friend's birthday party after all. Unfortunately for you, the store has a dark secret... nobody who enters will leave unchanged.<br>\r\n<br>\r\n1. You are a boy <br>\r\n2. No sex<br>\r\n3. Nobody dies<br>\r\n<br>\r\n<br>\r\n.</td>",
         "id":1548346,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1587668640,
+        "modified":1588090680,
         "pretty_title":"The costume shop."
     }
 }

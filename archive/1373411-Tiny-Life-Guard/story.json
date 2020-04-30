@@ -2674,6 +2674,32 @@
             "id":1181652,
             "title":"Next morning"
         },
+        "115132":{
+            "author_id":"jambot",
+            "author_name":"Herms",
+            "choices":[
+                "I Ride a Lonely Slide",
+                "Try and Buddy Up Down",
+                "Step Master"
+            ],
+            "content":"<div class=\"\"><div> <span>You decide the stairs were the safer option despite their length. You make your way over to the many steps, trying to avoid Juli's line of sight, and stand on the edge. You're just about to leap down when an ebony foot slammed down right next to you, causing you to stumble over backwards due to the shock. You look up to the foot beholder and see a beautiful black woman who had a slightly pudgier but still great figure with short afro hair and looked to be in her early to late twenties.<br>\r\n<br>\r\nThe slammed foot made you maybe reconsider your approach. Maybe you should just take the slide down anyway? Or, maybe ask to be taxied down with this mystery lady? Or just take your chances and the stairs?</span></div></div>",
+            "created":1587790800,
+            "id":2824529,
+            "title":"The Stairs Option"
+        },
+        "1151322":{
+            "author_id":"jambot",
+            "author_name":"Herms",
+            "choices":[
+                "Reach out and tap at the foot and get her attention",
+                "You've taken too long and she shifts her foot on top of you",
+                "She gets bored and sits on the step (again, on top of you)"
+            ],
+            "content":"<div class=\"\"><div> <span>You cautiously sidle up to the ebony girls bare foot in attempt to get her attention.<br>\r\n<br>\r\nAs a person of your <i>unique</i> stature, you've grown a habit of examining the small details of the human body the the people of average height tend to miss. Particularly, as they stand closest to you, the feet. You see the micro hairs, the subtle blemishes and pigment changes, and the pores move and stretch by the small, unnoticable twitches by the woman above.<br>\r\n<br>\r\nYou've gotten caught in a daydream. If you don't make a move quick, something unfortunate might happen. As usual.</span></div></div>",
+            "created":1587790800,
+            "id":2824536,
+            "title":"Try and Buddy Up Down"
+        },
         "1152":{
             "author_id":null,
             "author_name":null,
@@ -17160,7 +17186,7 @@
         "description":"<td align=\"left\" class=\"norm\">Your name is Jim you are 18 years old and you are about an inch and a half tall. You never grew bigger than that but your tiny body is very durable and can be flattened and stretched without causing any permanent damage.<br>\r\n<br>\r\nJuli, also 18, She has long brown hair and blue eyes, She is your lifeguard partner and a bit of a clutz accidentally squishing you sometimes.<br>\r\n<br>\r\nKim, 19 years old, She is a hot asian girl who is also a lifeguard but she sees herself as a rival of Juli and she loves to make your life miserable whenever she can.<br>\r\n<br>\r\nYou can add as many characters as you want but no male interaction. Also only Jim is little, no additional shrinking or people growing and don't have Jim get stuck to someone forever. Please add and enjoy!</td>",
         "id":1373411,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1583743560,
+        "modified":1587851280,
         "pretty_title":"Tiny Life Guard"
     }
 }

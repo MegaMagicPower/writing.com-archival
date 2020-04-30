@@ -154,6 +154,19 @@
             "id":2797734,
             "title":"More "
         },
+        "152":{
+            "author_id":"jfoxx",
+            "author_name":"Johnny Foxx",
+            "choices":[
+                "RPG world",
+                "Life: The MMO",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, so what kind of videogame are we talking about? A fantasy RPG, with elves, dragons and monsters? Or maybe more of a Ready Player One sort of thing, where your life in general is like a game.</span></div></span></div>",
+            "created":1588050000,
+            "id":2826005,
+            "title":"A videogame-like reality"
+        },
         "153":{
             "author_id":"spunky",
             "author_name":"Ace Jones",
@@ -176,7 +189,7 @@
         "description":"<td align=\"left\" class=\"norm\">Let's face it, reality sucks. Don't you ever wish things in our reality were different? For example, a world where magic was real. Or maybe one where superheroes really existed. Well, in this story you can visit these worlds and many more! Whether it's an alternate history scenario, such as the dinosaurs never going extinct, or alternate reality like mentioned above, feel free to run wild with it! </td>",
         "id":2215105,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1587452040,
+        "modified":1588050300,
         "pretty_title":"Alternate Earths"
     }
 }

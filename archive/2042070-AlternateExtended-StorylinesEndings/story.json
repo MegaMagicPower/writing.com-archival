@@ -486,6 +486,18 @@
             "id":2813779,
             "title":"Yes, to either."
         },
+        "12533222323231222111211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Angelica need her diaper changed?</span></div></span></div>",
+            "created":1587963600,
+            "id":2825424,
+            "title":"Change Angelica's diaper"
+        },
         "12533222323231222111212":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
@@ -1135,6 +1147,30 @@
             "id":2823600,
             "title":"Yes"
         },
+        "125332223232312221112211121111111212111111111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Just one of them"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Were all the other babies in the playpen with her?</span></div></span></div>",
+            "created":1587704400,
+            "id":2823864,
+            "title":"Yes"
+        },
+        "1253322232323122211122111211111112121111111111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Angelica explain to them why she's still dressed as a baby?</span></div></span></div>",
+            "created":1587963600,
+            "id":2825961,
+            "title":"Yes"
+        },
         "12533222323231223":{
             "author_id":"kameron94",
             "author_name":"Kameron",
@@ -1568,6 +1604,30 @@
             "created":1586149200,
             "id":2814051,
             "title":"Yes"
+        },
+        "12533222323243232":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Meg Griffin gets married",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about this \"Family Guy\" storyline?</span></div></span></div>",
+            "created":1587963600,
+            "id":2825981,
+            "title":"Something else"
+        },
+        "125332223232432321":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Jeff Campbell (the nudist)",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who will Meg be married to?</span></div></span></div>",
+            "created":1588050000,
+            "id":2826589,
+            "title":"Meg Griffin gets married"
         },
         "13":{
             "author_id":"mariods01",
@@ -3887,6 +3947,18 @@
             "id":2676643,
             "title":"Yeah."
         },
+        "153333222111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "She's the baby of the family.",
+                "Other mirror world ideas."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>This ep is altered whenAlex enters a mirror world where...</span></div></span></div>",
+            "created":1587963600,
+            "id":2825976,
+            "title":"all about you-niverse"
+        },
         "153333222112":{
             "author_id":"kameron94",
             "author_name":"Kameron",
@@ -3982,6 +4054,55 @@
             "created":1561093200,
             "id":2676655,
             "title":"Harper has Justin leave Alex small and Harper k..."
+        },
+        "1533332221122":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "quinceabera",
+                "another episode"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>how about the season 1 episode, Quinceanera?</span></div></span></div>",
+            "created":1587963600,
+            "id":2825955,
+            "title":"another episode"
+        },
+        "15333322211221":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "RC 1",
+                "RC 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How to alter this episode?</span></div></span></div>",
+            "created":1587963600,
+            "id":2825958,
+            "title":"quinceabera"
+        },
+        "153333222112211":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "yeah",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>do Alex and her mother, Theresa remain in each other's bodies?</span></div></span></div>",
+            "created":1587963600,
+            "id":2825964,
+            "title":"RC 1"
+        },
+        "15333322212":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Alex",
+                "Harper",
+                "Gigi, or others."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who do we alter character wise?</span></div></span></div>",
+            "created":1587963600,
+            "id":2825972,
+            "title":"Character"
         },
         "1533332222":{
             "author_id":"themaster223",
@@ -4424,7 +4545,7 @@
         "description":"<td align=\"left\" class=\"norm\">In this interactive story there is various different popular fiction that has one or more of their stories changed that show what should have happened in a game, show, movie, etc. <br>\r\n<br>\r\nThese stories can be based on stories that actually happened in a series or even in a fanfiction if a certain part or ending did not end up to the way of your liking.<br>\r\n<br>\r\nHope you will enjoy this and add onto the story you see fit.</td>",
         "id":2042070,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1587713820,
+        "modified":1588133100,
         "pretty_title":"Alternate/Extended Storylines/Endings"
     }
 }

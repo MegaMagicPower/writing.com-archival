@@ -2508,6 +2508,42 @@
             "id":2819264,
             "title":"Something else"
         },
+        "15413321":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "One of the Powerpuffs",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Should we make one of the Powerpuffs pregnant or one of the supporting characters?</span></div></span></div>",
+            "created":1587704400,
+            "id":2824081,
+            "title":"Yes"
+        },
+        "154133211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Blossom",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which Powerpuff do we want pregnant first?</span></div></span></div>",
+            "created":1587704400,
+            "id":2824083,
+            "title":"One of the Powerpuffs"
+        },
+        "1541332112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Bubbles",
+                "Buttercup"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which of the other two Powerpuffs will be expecting?</span></div></span></div>",
+            "created":1587963600,
+            "id":2825989,
+            "title":"Someone else"
+        },
         "15413322":{
             "author_id":"johnny2",
             "author_name":"littlejohn",
@@ -2531,6 +2567,18 @@
             "created":1587618000,
             "id":2823450,
             "title":"Yes"
+        },
+        "1541332211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "The old-fashioned way ",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How will Meg get pregnant?</span></div></span></div>",
+            "created":1587704400,
+            "id":2824078,
+            "title":"Meg Griffin"
         },
         "155":{
             "author_id":"dragonwriter45",
@@ -2712,7 +2760,7 @@
         "description":"<td align=\"left\" class=\"norm\">Like the title says, girls from anything animated can be expanded however you like! You can pick girls from anime, disney movies, or cartoons and make them as big as you want. The only rules are no death or gore, and no short only a few sentence chapters. More rules may need to be added depending on how this goes. </td>",
         "id":1751672,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1587683880,
+        "modified":1588047840,
         "pretty_title":"Animated Girls Expansion"
     }
 }

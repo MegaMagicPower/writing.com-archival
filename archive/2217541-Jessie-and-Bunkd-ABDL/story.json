@@ -230,6 +230,67 @@
             "id":2813125,
             "title":"Yes"
         },
+        "114":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "She's tired of being a parent",
+                "She's called in to her kids' school to be part of an assignment",
+                "Another reason"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What reason would the mother of the Ross kids be in diapers?</span></div></span></div>",
+            "created":1587790800,
+            "id":2824165,
+            "title":"Christina"
+        },
+        "1141":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Sure",
+                "Something else that happens."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She did love her kids, but, she felt being a parent wasn't easy. Did she wish to be a baby?</span></div></span></div>",
+            "created":1587790800,
+            "id":2824290,
+            "title":"She's tired of being a parent"
+        },
+        "11412":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "yep",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>does Christina decide to change the family dynamic by making someone else the \"parent\" while she will now be known as one of the kids?</span></div></span></div>",
+            "created":1587790800,
+            "id":2824304,
+            "title":"Something else that happens."
+        },
+        "114121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Emma",
+                "Zuri"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She opts for who to be the parent?</span></div></span></div>",
+            "created":1587790800,
+            "id":2824314,
+            "title":"yep"
+        },
+        "1142":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup",
+                "Zuri's."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was she called in to Emma's school?</span></div></span></div>",
+            "created":1587790800,
+            "id":2824289,
+            "title":"She's called in to her kids' school to ..."
+        },
         "12":{
             "author_id":"kameron94",
             "author_name":"Kameron",
@@ -432,7 +493,7 @@
         "description":"<td align=\"left\" class=\"norm\">Another chance at this story.<br>\r\nRules.<br>\r\nNo humilation, insulting characters, sex, drugs. Nothing too over the top.</td>",
         "id":2217541,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1586011320,
+        "modified":1587821400,
         "pretty_title":"Jessie and Bunk'd AB/DL."
     }
 }

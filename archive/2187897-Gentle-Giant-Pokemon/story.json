@@ -79,6 +79,18 @@
             "id":2817249,
             "title":"Which Gen1 Starter?"
         },
+        "1111111":{
+            "author_id":"tntdmd",
+            "author_name":"TnTdmd",
+            "choices":[
+                "He was gone",
+                "Nah he wanted to be your friend "
+            ],
+            "content":"<div class=\"\"><div> <span>You saw a wild charmander witch was rare and unfortunately you had no pokeball but you did have a pokedex and pull it and it said ( Charmander, the Lizard Pok\u00e9mon. When the tip of Charmander's tail burns brightly, that indicates it's in good health.) and it seamed to be male and seemed nice. The charmander followed you around witch was pretty cute you couldn't lie, but you got the ideal to measure his height it was 3 feet a whole foot taller than normal so that was neat, but he keep following you. when you got back home</span></div></div>",
+            "created":1588050000,
+            "id":2826503,
+            "title":"Charmander"
+        },
         "11112":{
             "author_id":"tntdmd",
             "author_name":"TnTdmd",
@@ -175,6 +187,32 @@
             "created":1587099600,
             "id":2820309,
             "title":"Like a cloud."
+        },
+        "12":{
+            "author_id":"tntdmd",
+            "author_name":"TnTdmd",
+            "choices":[
+                "Male ",
+                "Female "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Male or female?<br>\r\n<br>\r\n(Make sure it more than one pokemon please and not all of them have to grow if you don't want them to or have to be the same gender)<br>\r\n</span></div></span></div>",
+            "created":1587704400,
+            "id":2823683,
+            "title":"Trainer (Team)"
+        },
+        "13":{
+            "author_id":"tntdmd",
+            "author_name":"TnTdmd",
+            "choices":[
+                "Wild (Male)",
+                "Wild (female)",
+                "Part of a team (male)",
+                "Part of a team (female)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are you wild or not</span></div></span></div>",
+            "created":1587704400,
+            "id":2823689,
+            "title":"Pokemon "
         }
     },
     "info":{
@@ -182,10 +220,10 @@
         "author_name":"TnTdmd",
         "brief_description":"Pokemon start growing or big already ",
         "created":1554983220,
-        "description":"<td align=\"left\" class=\"norm\">Rules<br>\r\n1. The pokemon or pokemons must be gentle and can evolve.<br>\r\n2. As a result of the growth they get more powerful, but they might not take notice right away or at all.<br>\r\n3. Forgot to add this but can be anthro or not and they can transform. As for legendary's you see what you want to see <br>\r\n</td>",
+        "description":"<td align=\"left\" class=\"norm\">Rules<br>\r\n1. The pokemon or pokemons must be gentle and can evolve.<br>\r\n2. As a result of the growth they get more powerful, but they might not take notice right away or at all.<br>\r\n3. Forgot to add this but can be anthro or not and they can transform. As for legendary's you see what you want to see<br>\r\n4. The team options should have more than one pokemon with no max besides the six that is in the games, but maybe a pokemon can change that ;)<br>\r\n</td>",
         "id":2187897,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1587219420,
+        "modified":1588120140,
         "pretty_title":"Gentle Giant Pokemon"
     }
 }

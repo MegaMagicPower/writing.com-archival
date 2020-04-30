@@ -455,6 +455,19 @@
             "id":2821570,
             "title":"Marita"
         },
+        "134132112113121":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "she told her the truth",
+                "fake something",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Marita comes around and hugs Bibi as always. Of course she detects the new girl living in Bibi\u2019s home. She asked Bibi who she is.</span></div></span></div>",
+            "created":1587963600,
+            "id":2825479,
+            "title":"face her"
+        },
         "13413211211313":{
             "author_id":"rosenheim34",
             "author_name":"rosenheimer",
@@ -614,6 +627,19 @@
             "created":1586840400,
             "id":2818670,
             "title":"just start and let it flow "
+        },
+        "152":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "Bibi interacts",
+                "not yet",
+                "something else"
+            ],
+            "content":"<div class=\"\"><div> <span>Bibi is sad that her vacation on the ranch is under a bad star. Mrs. Martin and her daughter Tina are not only sad because of their los, but they also have trouble with some duke, who owns the land of their horse farm. And this guy already told that they have to close the Ranch and leave his land if they can\u2019t pay their rents and duties. And at the very moment it indeed looks like they are not able to pay and have to close. On the evening dinner they tell their current only guest Bibi about their fate and Bibi promised to help them.<br>\r\nThat very moment the duke comes around and told Mrs. Martin that he will take away the first of their horses tomorrow, because he sold it already to someone. So the cheap price from the sales oft he horse will reduce their duties\u2026So the duke said, this will give them one more week to bring the remaining money\u2026<br>\r\n</span></div></div>",
+            "created":1587963600,
+            "id":2825491,
+            "title":"meeting the duke, who owns the land"
         }
     },
     "info":{
@@ -624,7 +650,7 @@
         "description":"<td align=\"left\" class=\"norm\">we have a young girl named Bibi, who is a witch</td>",
         "id":2168735,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1587389940,
+        "modified":1587984900,
         "pretty_title":"Bibi a young witch"
     }
 }

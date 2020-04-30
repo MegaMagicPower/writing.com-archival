@@ -3384,6 +3384,30 @@
             "id":2822952,
             "title":"At some other point in the show."
         },
+        "1153132213121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Writer's Choice 1",
+                "Writer's Choice 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What episode will we see Kimi in first?</span></div></span></div>",
+            "created":1588050000,
+            "id":2826490,
+            "title":"Between Seasons 1 and 2"
+        },
+        "1153132213122":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Writer's Choice 1",
+                "Writer's Choice 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What episode will we see Kimi in first?</span></div></span></div>",
+            "created":1588050000,
+            "id":2826492,
+            "title":"Between Seasons 2 and 3"
+        },
         "1153133":{
             "author_id":"kameron94",
             "author_name":"Kameron",
@@ -3954,6 +3978,75 @@
             "id":2778818,
             "title":"Other."
         },
+        "11533331":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Rebecca Cunningham",
+                "Molly Cunningham",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which character to choose?</span></div></span></div>",
+            "created":1588050000,
+            "id":2826019,
+            "title":"Tailspin"
+        },
+        "115333311":{
+            "author_id":"jobobo19",
+            "author_name":"carl.a.pruuitt",
+            "choices":[
+                "Age change",
+                "Size change",
+                "Life change",
+                "He gained muscles",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What's going to happen to Rebecca Cunningham?</span></div></span></div>",
+            "created":1588050000,
+            "id":2826315,
+            "title":"Rebecca Cunningham"
+        },
+        "115333312":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Age Progression",
+                "Macro",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What happens to her?</span></div></span></div>",
+            "created":1588050000,
+            "id":2826020,
+            "title":"Molly Cunningham"
+        },
+        "1153333121":{
+            "author_id":"jobobo19",
+            "author_name":"carl.a.pruuitt",
+            "choices":[
+                "Wish on a star",
+                "Magic necklace",
+                "Magic artefact",
+                "Magic panties",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How did she get older?</span></div></span></div>",
+            "created":1588050000,
+            "id":2826317,
+            "title":"Age Progression"
+        },
+        "1153333123":{
+            "author_id":"redwolf12",
+            "author_name":"wolfbood",
+            "choices":[
+                "Life change ",
+                "Shrinking",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What happened to Molly Cunningham?</span></div></span></div>",
+            "created":1588050000,
+            "id":2826425,
+            "title":"Other"
+        },
         "11533332":{
             "author_id":"jobobo19",
             "author_name":"carl.a.pruuitt",
@@ -4146,6 +4239,78 @@
             "id":2820013,
             "title":"The girls themselves"
         },
+        "1153333252211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Age Change",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of change will they get?</span></div></span></div>",
+            "created":1588136400,
+            "id":2827097,
+            "title":"All three"
+        },
+        "11533332522111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Younger"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will they get older?</span></div></span></div>",
+            "created":1588136400,
+            "id":2827101,
+            "title":"Age Change"
+        },
+        "1153333252212":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Blossom",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which Powerpuff will we alter?</span></div></span></div>",
+            "created":1587963600,
+            "id":2825405,
+            "title":"Just one of them"
+        },
+        "11533332522121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Pregnancy",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What change will Blossom get?</span></div></span></div>",
+            "created":1588136400,
+            "id":2827094,
+            "title":"Blossom"
+        },
+        "115333325221211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will she be an adult in this story?</span></div></span></div>",
+            "created":1588136400,
+            "id":2827096,
+            "title":"Pregnancy"
+        },
+        "11533332522122":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Bubbles",
+                "Buttercup"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which of the other two Powerpuffs do you want altered?</span></div></span></div>",
+            "created":1587963600,
+            "id":2825407,
+            "title":"Someone else"
+        },
         "11533332523":{
             "author_id":"kameron94",
             "author_name":"Kameron",
@@ -4296,6 +4461,78 @@
             "created":1587099600,
             "id":2820252,
             "title":"Someone else"
+        },
+        "11533332523332":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Family Guy",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Maybe this one?</span></div></span></div>",
+            "created":1587790800,
+            "id":2824688,
+            "title":"Something else"
+        },
+        "115333325233321":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Meg Griffin",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which character do you want altered first?</span></div></span></div>",
+            "created":1587877200,
+            "id":2824779,
+            "title":"Family Guy"
+        },
+        "1153333252333211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Life change",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of change shall Meg get?</span></div></span></div>",
+            "created":1587963600,
+            "id":2825408,
+            "title":"Meg Griffin"
+        },
+        "11533332523332111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "She's married",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How will Meg's life change?</span></div></span></div>",
+            "created":1587963600,
+            "id":2825970,
+            "title":"Life change"
+        },
+        "115333325233321111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Jeff Campbell (the nudist)",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who will Meg be married to?</span></div></span></div>",
+            "created":1587963600,
+            "id":2825975,
+            "title":"She's married"
+        },
+        "11533332523332112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Pregnancy",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What else should happen to Meg?</span></div></span></div>",
+            "created":1588050000,
+            "id":2826328,
+            "title":"Something else"
         },
         "12":{
             "author_id":"kameron94",
@@ -12973,6 +13210,32 @@
             "id":2798303,
             "title":"she is diapered"
         },
+        "12533333333333333313":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Zoey(yellow beast morpher ranger)",
+                "kat,the second pink ranger",
+                "another character"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what other vic-I mean power rangers characters transform?</span></div></span></div>",
+            "created":1587790800,
+            "id":2824307,
+            "title":"More vic-er, test subjects."
+        },
+        "125333333333333333132":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Regression",
+                "Keep the ideas coming."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is her life changed?</span></div></span></div>",
+            "created":1587790800,
+            "id":2824315,
+            "title":"kat,the second pink ranger"
+        },
         "1253333333333333333":{
             "author_id":"kameron94",
             "author_name":"Kameron",
@@ -13869,6 +14132,32 @@
             "id":2779364,
             "title":"Sonic the hedgehog"
         },
+        "13313":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Age Progression",
+                "Macro",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What happens to her?</span></div></span></div>",
+            "created":1588050000,
+            "id":2826022,
+            "title":"Cream"
+        },
+        "133133":{
+            "author_id":"redwolf12",
+            "author_name":"wolfbood",
+            "choices":[
+                "Life change ",
+                "Shrinking",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What happened to Cream?</span></div></span></div>",
+            "created":1588050000,
+            "id":2826426,
+            "title":"Other"
+        },
         "13315":{
             "author_id":"redwolf12",
             "author_name":"wolfbood",
@@ -14446,7 +14735,7 @@
         "description":"<td align=\"left\" class=\"norm\">girls from different media(cartoons, tv shows, games, books, ect) get transformed in different ways. how they transform is up to you.<br>\r\n<br>\r\nRules.<br>\r\n<br>\r\nRule 1. leave a \"something else\" option so there can me multiple ideas of how and what the character transforms into.<br>\r\n<br>\r\nRule 2. don't \"end\" a story path before it starts. I will delete those<br>\r\n<br>\r\nRule 3. no insulting religion<br>\r\n<br>\r\nRule 4. go mildly if you have the characters cursing(verbally)<br>\r\n<br>\r\nRule 5. no killing the characters<br>\r\n<br>\r\nRule 6. no power trips, if a character is made older, that does not mean that younger characters have to obey them just because they're older<br>\r\n<br>\r\nhave fun. :)</td>",
         "id":2199885,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1587672240,
+        "modified":1588197720,
         "pretty_title":"fictional girls transformation"
     }
 }

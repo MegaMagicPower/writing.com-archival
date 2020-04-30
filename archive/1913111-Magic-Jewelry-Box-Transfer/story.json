@@ -3296,6 +3296,21 @@
             "id":2701626,
             "title":"some other convention"
         },
+        "1233322123":{
+            "author_id":"cooling999",
+            "author_name":"cooling999",
+            "choices":[
+                "Anime convention",
+                "Furry convention",
+                "Reader\u2019s Choice",
+                "Reader\u2019s Choice",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of convention was it?</span></div></span></div>",
+            "created":1587963600,
+            "id":2825398,
+            "title":"nothing of this bullshit please"
+        },
         "124":{
             "author_id":"mystarfleet",
             "author_name":"Federation",
@@ -3538,6 +3553,18 @@
             "created":1405746000,
             "id":1830129,
             "title":"Nothing happens"
+        },
+        "12433112222":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "yes",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>and are you close to pension now?</span></div></span></div>",
+            "created":1587963600,
+            "id":2825469,
+            "title":"Other"
         },
         "13":{
             "author_id":"mystarfleet",
@@ -7471,6 +7498,21 @@
             "id":2519614,
             "title":"No"
         },
+        "1321112122122112121":{
+            "author_id":"cooling999",
+            "author_name":"cooling999",
+            "choices":[
+                "Yes",
+                "No",
+                "Something else",
+                "Something else",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is this the ring that is supposed to change you back?</span></div></span></div>",
+            "created":1587963600,
+            "id":2825537,
+            "title":"Notice a ring similar to the one you are wearing."
+        },
         "13211121221222":{
             "author_id":"mystarfleet",
             "author_name":"Federation",
@@ -8268,6 +8310,21 @@
             "id":2444941,
             "title":"Who\u2019s home?"
         },
+        "13323211":{
+            "author_id":"cooling999",
+            "author_name":"cooling999",
+            "choices":[
+                "Unconscious",
+                "Not moving",
+                "And you (in Monica\u2019s body) take off the ring from Monica\u2019s hand.",
+                "Reader\u2019s choice",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>When you got back to your body\u2019s apartment, you noticed it was dark outside.  You got out of Monica\u2019s car, and headed up to your apartment\u2019s door.  Since you lived in your apartment alone, you thankfully didn\u2019t have to worry about a roommate.  You opened the unlocked front door, closed it, and locked it.  You then proceeded to your bedroom to see your body...</span></div></div>",
+            "created":1587963600,
+            "id":2825601,
+            "title":"Larry\u2019s"
+        },
         "134":{
             "author_id":"mystarfleet",
             "author_name":"Federation",
@@ -8923,6 +8980,18 @@
             "created":1472965200,
             "id":2206252,
             "title":"Welcome to the Summer of Love, man!"
+        },
+        "14432":{
+            "author_id":"nirxor",
+            "author_name":"Nirro",
+            "choices":[
+                "She sapphires and the boss",
+                "The Valkyrie"
+            ],
+            "content":"<div class=\"\"><div> <span>A huge embellished Sapphire, with silver and gold trim. It's woven into a powerful lion's mouth, the eyes are also sapphires. It has an imposing presence, almost a royal aura stairs about it or an overwhelming one. The side next to it are bracelets, with the same amount of decor, carefully carved with old runic symbols. Your thinking of Vikings, but they have an angelic quality to them, a very poised and ordered form, almost divine really.</span></div></div>",
+            "created":1587963600,
+            "id":2825587,
+            "title":"More jewelry choices"
         }
     },
     "info":{
@@ -8933,7 +9002,7 @@
         "description":"<td align=\"left\" class=\"norm\">Your name is Larry Hedley. You are 21, attending university studying history, and live on your own in an apartment near campus. You don't really have very many good friends. One day you wind up finding a jewelry box full of magic jewelry. What the jewelry does is to transfer you into the body of someone else. You are free to return by simply removing the jewelry you put on in the first place. However, if anyone else ever removes it from your new body first, you will be stuck in the new body forever.<br>\r\n<br>\r\nPer initial storyline there will only be <b>one</b> of the following jewelry boxes available: (Each box only can put you into a particular category of new body and some may even have other rules)<br>\r\n<u>Bridal jewelry:</u> First time you put something on is morning of the woman you'll be swapping into's wedding. (In the case of rings, you will only be able to remove them and swap back after the wedding ceremony)<br>\r\n<u>Professional jewelry:</u> You swap into an adult who is working<br>\r\n<u>Student Jewelry:</u> You swap into either a highschool or university student<br>\r\n<u>Historical jewelry:</u> You swap into women from across history<br>\r\n<br>\r\n<b>Basic Rules:</b><br>\r\n1. Don't kill off the main character or end the story<br>\r\n2. keep long lists of options going<br>\r\n3. no one option chapters<br>\r\n4. only 1 jewelry box per story<br>\r\n5. No memory swap or personality changes. The only mental change is Larry knows whatever languages the person whose body he is in knows and has their writing style.<br>\r\n6. Please add and Have Fun</td>",
         "id":1913111,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1574187600,
+        "modified":1587998460,
         "pretty_title":"Magic Jewelry Box Transfer"
     }
 }
