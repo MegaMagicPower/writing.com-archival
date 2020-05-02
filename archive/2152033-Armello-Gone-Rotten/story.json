@@ -16,8 +16,6 @@
             "title":"Let's Begin!"
         },
         "11":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Thane",
                 "River",
@@ -43,8 +41,6 @@
             "title":"Thane"
         },
         "112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Wits Challenge",
                 "Fights Challenge",
@@ -68,8 +64,6 @@
             "title":"Wits Challenge"
         },
         "1123":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Evacuate the Festival! (Low Risk)",
                 "Attack the Mages! (High Risk)"
@@ -80,8 +74,6 @@
             "title":"The Festival"
         },
         "11232":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Random Chance",
                 "Random Chance"
@@ -92,8 +84,6 @@
             "title":"Attack the Mages! (High Risk)"
         },
         "112321":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Item",
                 "Spell",
@@ -117,8 +107,6 @@
             "title":"Item"
         },
         "11232111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Wits Challenge",
                 "Fight Challenge",
@@ -143,8 +131,6 @@
             "title":"Fight Challenge"
         },
         "1123211121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Attack the tyrant! (High Risk)",
                 "Find a way to rob him of his power. (Low Risk)"
@@ -167,8 +153,6 @@
             "title":"Attack the tyrant! (High Risk)"
         },
         "112321112111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Items",
                 "Spells",
@@ -193,8 +177,6 @@
             "title":"Items"
         },
         "11232111211112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You",
                 "Magna"
@@ -217,8 +199,6 @@
             "title":"You"
         },
         "1123211121111212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go and find Thane!",
                 "Stay safe in the village for a while"
@@ -242,8 +222,6 @@
             "title":"Go and find Thane!"
         },
         "112321112111121213":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Items",
                 "Spells",
@@ -268,8 +246,6 @@
             "title":"Items"
         },
         "11232111211112121311":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You attack him!",
                 "Magna attacks him!"
@@ -293,8 +269,6 @@
             "title":"Magna attacks him!"
         },
         "1123211121111212131122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Head to the main entrance",
                 "Search the catacombs"
@@ -318,8 +292,6 @@
             "title":"Search the catacombs"
         },
         "112321112111121213112222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Try and grab your bow! (Low Risk)",
                 "Rush for your sword! (High Risk)"
@@ -342,8 +314,6 @@
             "title":"Rush for your sword! (High Risk)"
         },
         "11232111211112121311222221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Items",
                 "Spells",
@@ -367,8 +337,6 @@
             "title":"Trickerys"
         },
         "1123211121111212131122222131":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You survive!",
                 "You can't take it anymore..."
@@ -392,8 +360,6 @@
             "title":"You survive!"
         },
         "112321112111121213112222213112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Just start attacking!",
                 "Subdue them all with your stench!",
@@ -419,8 +385,6 @@
             "title":"Subdue them all with your stench!"
         },
         "11232111211112121311222221311221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He had a bounty, and there's a guard in town!",
                 "Another hero is in town!",
@@ -446,8 +410,6 @@
             "title":"Another hero is in town!"
         },
         "1123211121111212131122222131122122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Pretend to still be in love with him",
                 "Subdue him with stench and drag him there by force",
@@ -473,8 +435,6 @@
             "title":"Pretend to still be in love with him"
         },
         "112321112111121213112222213112212212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You're the prestige leader now!",
                 "You still don't have enough prestige..."
@@ -497,8 +457,6 @@
             "title":"You're the prestige leader now!"
         },
         "11232111211112121311222221311221221211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Royal Flush",
                 "War March",
@@ -525,8 +483,6 @@
             "title":"Royal Flush"
         },
         "1123211121111212131122222131122122121114":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "It was Thane!",
                 "It was Griotte!",
@@ -551,8 +507,6 @@
             "title":"It was Thane!"
         },
         "112321112111121213112222213112212212111411":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Fang appears!",
                 "He doesn't show up..."
@@ -577,8 +531,6 @@
             "title":"Fang appears!"
         },
         "11232111211112121311222221311221221211141114":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Another bane!",
                 "Thane... with Fang close behind!",
@@ -604,8 +556,6 @@
             "title":"Another bane!"
         },
         "12":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Mercurio",
                 "Zosha",
@@ -618,8 +568,6 @@
             "title":"Rat Clan Heroes"
         },
         "121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Wits Challenge",
                 "Fights Challenge",
@@ -644,8 +592,6 @@
             "title":"Wits Challenge"
         },
         "13":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Amber",
                 "Barnaby",
@@ -658,8 +604,6 @@
             "title":"Rabbit Clan Heroes"
         },
         "14":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Brun",
                 "Sana",
@@ -672,8 +616,6 @@
             "title":"Bear Clan Heroes"
         },
         "15":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Scarlet",
                 "Sylas",

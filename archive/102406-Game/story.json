@@ -31,8 +31,6 @@
             "title":"Interrogation Room"
         },
         "111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Try to kick the door down.",
                 "Search for stuff on the desk."
@@ -43,8 +41,6 @@
             "title":"Locked up"
         },
         "113":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "try to escape-he's on the other side of the room.",
                 "or should you stay put, he may be pretending."
@@ -55,17 +51,12 @@
             "title":"An Amazing Discovery"
         },
         "1131":{
-            "author_id":null,
-            "author_name":null,
-            "choices":null,
             "content":"<div class=\"\"><div> <span>YOu slowly stand up and start inching toward the door.  The guy yells again, \"That's the way!  I'm coming!\"\r<br>\n\r<br>\nAll of a sudden the guard turns around quickly.  He grins wickedly as he pulls the trigger.\r<br>\n\r<br>\nYour dead.  Made the wrong choice.  Start over.</span></div></div>",
             "created":975214800,
             "id":13959,
             "title":"Bang!  Your Dead."
         },
         "1132":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Your significant other, tied in bonds as well",
                 "One classy-lookin' woman"
@@ -76,8 +67,6 @@
             "title":"Pretty Damn Dumb"
         },
         "11322":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The liquid was poison.",
                 "The liquid was truth-serum."
@@ -150,8 +139,6 @@
             "title":"The Movement"
         },
         "123":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "sit down and think",
                 "start walking"
@@ -162,8 +149,6 @@
             "title":"Alone in the dark"
         },
         "1231":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Flashback down memory lane",
                 "Pick a direction and start walking"
@@ -174,17 +159,12 @@
             "title":"Jungle"
         },
         "124":{
-            "author_id":null,
-            "author_name":null,
-            "choices":null,
             "content":"<div class=\"\"><div> <span>The man in front of you takes another step forward, nose to nose with you. He shouts his question in Spanish: \"Llamo! Llamo!\" Name! Name! You look at him, he looks pretty pissed. But he's not a very big guy. Glancing around, you notice the other gun-toting Mexicans are busy herding the politicians into a broken-down building, and aren't paying much attention to you and The Screamer.\r<br>\n\r<br>\nYou act before you really think. Slamming your head forward in a classical soccer move, you break The Screamer's nose, and he (big surprise) scream in pain as blood gushes down his face. But you don't stand around to watch. You take off down the road, zig-zagging back and forth as your eyes wildly sweep the area for cover. \r<br>\n\r<br>\nBut alas, it was not to be. Just when you feel your lungs ready to burst, you hear the sharp staccato of a machine gun behind you. You glance up, into the clear blue sky, and have time for one simple thought -- *why*? You never feel yourself hit the ground. \r<br>\n\r<br>\nSuggest you might wanna go back and re-think that headbutting decision, partner. </span></div></div>",
             "created":973659600,
             "id":11700,
             "title":"Butt Out!"
         },
         "13":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Kick out the window and run like hell",
                 "Keep the window in mind, but forget about it for now",
@@ -198,16 +178,12 @@
         "131":{
             "author_id":"msalvo",
             "author_name":"Zoo - Salted and Roasted",
-            "choices":null,
             "content":"<div class=\"\"><div> <span>Against your better judgement, you wait for the van to slow down and then you position yourself for a good strong kick at the window. The caulking is as weak as you suspected and immediately gives way when you kick the window out. Glass flies out into the street and you start to crawl through as best as you can. You are about halfway out when the driver notices you hanging out the window. Instead of slowing down he speeds up and you go flying out of the van as he rounds a corner at high speed. \r<br>\n\r<br>\nUnfortunately, your skull was not made to be bashed against an asphalt road at high speeds. You are dead.\r<br>\n\r<br>\nSorry, but that was a particularly bad choice . If you want to try again,start the story over or go back to the previous chapter.</span></div></div>",
             "created":972968400,
             "id":10333,
             "title":"Road Pizza"
         },
         "132":{
-            "author_id":null,
-            "author_name":null,
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>U shoulda done it when u had the chance.  U hear over da radio \"OK, if you won't submit i'll kill A HOSTAGE!\"  He leans back and shoots you.  Your in hell now.  Hell sucks.  HAHA.  unless u blow nads.  what the fuck.</span></div></span></div>",
             "created":995432400,
             "id":64468,
@@ -226,8 +202,6 @@
             "title":"Holding Cell"
         },
         "141":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Yes, I did",
                 "I don't know what you mean"
@@ -238,8 +212,6 @@
             "title":"Taking the Key"
         },
         "1411":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "\"There's no way you're getting my key. Every man for himself!\"",
                 "\"I'm only gonna lend my key to an escape attempt if you tell me what the"
@@ -289,8 +261,6 @@
             "title":"The Commander"
         },
         "152":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You score a touchdown BY YOURSELF",
                 "The world ends."
@@ -301,8 +271,6 @@
             "title":"YOU FUCKING MORON!  DON'T DO THAT!"
         },
         "1521":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go to Hell",
                 "Go to a mystery place beginning with \"H\" and ending with \"ell\""
@@ -313,8 +281,6 @@
             "title":"YOU LOSE, FUCKHEAD!!!!!!"
         },
         "1522":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "learn the YZway by being around YZkids?",
                 "Fuck the system over."
@@ -325,8 +291,6 @@
             "title":"YZworld.com kicks ass."
         },
         "15221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "YZpunkz (wild and crazy)",
                 "YZdruids (peaceful and stoned)"
@@ -337,17 +301,12 @@
             "title":"whoodooze"
         },
         "15222":{
-            "author_id":null,
-            "author_name":null,
-            "choices":null,
             "content":"<div class=\"\"><div> <span>YOUR A DUMBASS!  thats impossible.  Since there's only one, they can't fuck the system because of the FIRST YZvirtue... never be unhappy.  So if he decides to smash everything you own, it's ok.  They're only material posessions anyway.  Its utterly impossible.  YOU LOSE, JACKASS</span></div></div>",
             "created":995432400,
             "id":64467,
             "title":"YOU MOTHERFUCKER!!! YOU LOST"
         },
         "155":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Don't argue... walk",
                 "Ask him why and refuse to move"

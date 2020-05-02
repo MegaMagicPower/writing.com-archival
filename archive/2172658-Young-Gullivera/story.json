@@ -174,7 +174,6 @@
         "11111111112":{
             "author_id":"gulliverstoy",
             "author_name":"gulliverstoy",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span> That's just lazy writing. Try again.</span></div></span></div>",
             "created":1548651600,
             "id":2608960,
@@ -209,8 +208,6 @@
             "title":"Unconventional Audience"
         },
         "123":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Empress Aemilia Dolabella starts talking first.",
                 "Alyssa whispers to the empress Aemilia Dolabella.",
@@ -222,8 +219,6 @@
             "title":"Empress Aemilia, awestruck and actually quite i..."
         },
         "1231":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The Empress word comes in the form of a slave girl.",
                 "Readers Choice",
@@ -235,8 +230,6 @@
             "title":"Empress Aemilia Dolabella starts talking first."
         },
         "12312":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The meeting takes place in an open field.",
                 "The meeting takes place in the near open Cave.",

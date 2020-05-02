@@ -43,8 +43,6 @@
             "title":"Biologist"
         },
         "1111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "16-20",
                 "21-30",
@@ -523,8 +521,6 @@
             "title":"Something else.....(readers choice)"
         },
         "151":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You land on Pandora",
                 "You finish getting ready"
@@ -572,8 +568,6 @@
             "title":"Landing goes smoothly"
         },
         "152111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You do want!",
                 "Later..."

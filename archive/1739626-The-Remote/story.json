@@ -74,8 +74,6 @@
             "title":"\"Go to my hotel room.\""
         },
         "1111112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The next day.",
                 "Later that night."
@@ -136,7 +134,6 @@
         "111122212":{
             "author_id":"itchynugat",
             "author_name":"Isaac Kitsch",
-            "choices":null,
             "content":"<div class=\"\"><div> <span>Studying the remote, you think you might have pressed the on/off button when you disappeared the bus.  You give it another experimental push.  The bus reappears instantly, and before you can blink, it slams into you and then the building behind you.<br>\r\n<br>\r\nCongratulations, you are very, very dead.  That'll teach you to mess with godlike powers without reading their instruction manual first.</span></div></div>",
             "created":1318136400,
             "id":1203263,
@@ -420,8 +417,6 @@
             "title":"Go up escalator"
         },
         "12212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Burst through the front door.",
                 "Sneak in through your ex's window."

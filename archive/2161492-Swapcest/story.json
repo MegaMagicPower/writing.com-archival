@@ -62,8 +62,6 @@
             "title":"Make sure you have a way back"
         },
         "11113":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "August",
                 "Hazel or Marly",
@@ -88,8 +86,6 @@
             "title":"Option 2"
         },
         "11121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go to Minnie's room.",
                 "Go to August's room.",
@@ -140,7 +136,6 @@
         "113":{
             "author_id":"dokko",
             "author_name":"Dokko",
-            "choices":null,
             "content":"<div class=\"\"><div> <span>You find that maybe, its better to leave your fathers things alone. You put the hoop back into the box and move the whole thing behind your Dads old desk.<br>\r\n<br>\r\nEventually you forget about it and hide it so well none ever finds it again.<br>\r\n<br>\r\n<br>\r\n<i><b>Lame Ending</b></i></span></div></div>",
             "created":1535864400,
             "id":2541735,

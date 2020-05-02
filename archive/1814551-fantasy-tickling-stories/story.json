@@ -16,8 +16,6 @@
             "title":"the 5 heroes"
         },
         "11":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Head to the bar",
                 "Join the guards",
@@ -30,8 +28,6 @@
             "title":"Knight"
         },
         "111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Head to bed",
                 "Look for work",
@@ -43,8 +39,6 @@
             "title":"Head to the bar"
         },
         "1111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "An unknown person",
                 "The Barmaid",
@@ -56,8 +50,6 @@
             "title":"Head to bed"
         },
         "11111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go with them",
                 "Leave"
@@ -68,8 +60,6 @@
             "title":"An unknown person"
         },
         "1113":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The Hunt Begins",
                 "Assistance is Offered",
@@ -81,8 +71,6 @@
             "title":"Approach the man about the treasure "
         },
         "112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Protect the princess",
                 "Become a spy",
@@ -94,8 +82,6 @@
             "title":"Join the guards"
         },
         "1121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She heads out for a walk",
                 "She heads to her room",
@@ -131,8 +117,6 @@
             "title":"You hear a noise outside"
         },
         "112131":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Follow the prints",
                 "Get Emily"
@@ -155,8 +139,6 @@
             "title":"Follow the prints"
         },
         "11213112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Down the Chimney",
                 "Through the front door"
@@ -167,8 +149,6 @@
             "title":"You exit the thickest part of the woods"
         },
         "112131121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You land softly in the firepit",
                 "A have some issues "
@@ -179,8 +159,6 @@
             "title":"Down the Chimney"
         },
         "1121311212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A finger glides across your foot",
                 "A whisker glides across your armpit "
@@ -227,8 +205,6 @@
             "title":"Become a spy"
         },
         "113":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Check out the Blacksmith",
                 "Go to the farm",
@@ -240,8 +216,6 @@
             "title":"Look for work"
         },
         "1131":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "I need your help",
                 "What are you doing tomorrow?",
@@ -253,8 +227,6 @@
             "title":"Check out the Blacksmith"
         },
         "11311":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Its time to test it",
                 "She cant unlock the locks"
@@ -265,8 +237,6 @@
             "title":"I need your help"
         },
         "113112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "I will be fine alone",
                 "That sounds good"
@@ -277,8 +247,6 @@
             "title":"She cant unlock the locks"
         },
         "1131121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A girl",
                 "A dog"
@@ -289,8 +257,6 @@
             "title":"I will be fine alone"
         },
         "11311211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "I Have a Proposition for you",
                 "Time to test those feet"
@@ -301,8 +267,6 @@
             "title":"A girl"
         },
         "113112112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Have an erection ",
                 "Peed your pants"
@@ -313,8 +277,6 @@
             "title":"Time to test those feet"
         },
         "1131121121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Grab some Feathers",
                 "Leave"
@@ -325,8 +287,6 @@
             "title":"Have an erection "
         },
         "11311211211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You pass out",
                 "She gets a wicked idea"
@@ -337,8 +297,6 @@
             "title":"Grab some Feathers"
         },
         "113112112111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The Store Owner",
                 "Emily"
@@ -361,8 +319,6 @@
             "title":"The Store Owner"
         },
         "1131121121112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She plays a little lower",
                 "She goes to your feet"
@@ -373,8 +329,6 @@
             "title":"Emily"
         },
         "11311211211121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You are even more ticklish now",
                 "Time for me to go"
@@ -397,8 +351,6 @@
             "title":"Time for me to go"
         },
         "113112112112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The store owner returns ",
                 "Someone else walks in"
@@ -433,8 +385,6 @@
             "title":"That sounds good"
         },
         "1132":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Gather some hay",
                 "Fix the Barn",
@@ -446,8 +396,6 @@
             "title":"Go to the farm"
         },
         "11321":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You hear Haley",
                 "You feel something at your foot"
@@ -458,8 +406,6 @@
             "title":"Gather some hay"
         },
         "114":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "See Bowerstone Guards Standing over you",
                 "Are in a Unfamiliar Kingdom ",
@@ -471,8 +417,6 @@
             "title":"The Attack"
         },
         "1141":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You are laying in a hospital bed",
                 "You are in the Kings Castle",
@@ -484,8 +428,6 @@
             "title":"See Bowerstone Guards Standing over you"
         },
         "11411":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A local citizen enter the room",
                 "A dog enter the room"
@@ -496,8 +438,6 @@
             "title":"You are laying in a hospital bed"
         },
         "114111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Tickles you",
                 "Moves your bed"
@@ -508,8 +448,6 @@
             "title":"A local citizen enter the room"
         },
         "1142":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "At the Stockades ",
                 "In the SlaveCamp"
@@ -520,8 +458,6 @@
             "title":"Are in a Unfamiliar Kingdom "
         },
         "1143":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The Arena",
                 "The Slave Camp",
@@ -533,8 +469,6 @@
             "title":"Are in a Barbarian Villiage"
         },
         "11432":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Get dressed and check things out",
                 "Take a Nap"
@@ -545,8 +479,6 @@
             "title":"The Slave Camp"
         },
         "114321":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Check out the tent",
                 "Ignore the old man"
@@ -557,8 +489,6 @@
             "title":"Get dressed and check things out"
         },
         "1143211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Anywhere is better than here!",
                 "Are you Crazy!"
@@ -569,8 +499,6 @@
             "title":"Check out the tent"
         },
         "11432111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Monkey Bars",
                 "Rollercoaster"
@@ -581,8 +509,6 @@
             "title":"Anywhere is better than here!"
         },
         "114321112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A puzzle",
                 "A Zip Line"
@@ -593,8 +519,6 @@
             "title":"Rollercoaster"
         },
         "1143211121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "River Ride ",
                 "A Rock Climbing Wall"
@@ -605,8 +529,6 @@
             "title":"A puzzle"
         },
         "11432111211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Head over to the beach",
                 "Are Still Tied"
@@ -617,8 +539,6 @@
             "title":"River Ride "
         },
         "114321112111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Head back to town",
                 "Find some clothing"
@@ -629,8 +549,6 @@
             "title":"Head over to the beach"
         },
         "1143211121111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "It is Empty",
                 "It is Packed"
@@ -641,8 +559,6 @@
             "title":"Head back to town"
         },
         "11432111211111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Spend some cash",
                 "Examine the Locket"
@@ -653,8 +569,6 @@
             "title":"It is Empty"
         },
         "114321112111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Check out the stocks again",
                 "Search for your friends"
@@ -665,8 +579,6 @@
             "title":"Spend some cash"
         },
         "1143211121111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "I'll run home and grab something to help",
                 "I have to wait for mother to return home"
@@ -677,8 +589,6 @@
             "title":"Check out the stocks again"
         },
         "11432111211111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Her mother is walking back",
                 "Juliana walks back with a feather"
@@ -689,8 +599,6 @@
             "title":"I'll run home and grab something to help"
         },
         "114321112111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Pours something on your feet",
                 "Starts tickling your feet"
@@ -701,8 +609,6 @@
             "title":"Her mother is walking back"
         },
         "11432111211111112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Moves you to the front",
                 "Calls over the cats"
@@ -713,8 +619,6 @@
             "title":"I have to wait for mother to return home"
         },
         "114321112111111121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Tickle a hunk for 10 gold coins",
                 "Please don't tickle, Insanely Ticklish"
@@ -725,8 +629,6 @@
             "title":"Moves you to the front"
         },
         "1143211121111111211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You see a familiar face",
                 "You see A woman walking her dog"
@@ -737,8 +639,6 @@
             "title":"Tickle a hunk for 10 gold coins"
         },
         "11432111211111112112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Starts tickling you",
                 "Has her dog lick you"
@@ -749,8 +649,6 @@
             "title":"You see A woman walking her dog"
         },
         "1143211121111112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "See someone",
                 "Head to the bar"
@@ -761,8 +659,6 @@
             "title":"Search for your friends"
         },
         "114321112111112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "It is just a locket",
                 "There is something magical to it"
@@ -773,8 +669,6 @@
             "title":"Examine the Locket"
         },
         "1143211121111121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Have you ever tried the wall of courage?",
                 "Do you wana go on a date tomorrow?"
@@ -785,8 +679,6 @@
             "title":"It is just a locket"
         },
         "11432111211111211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Leaves you",
                 "Sticks around for the show"
@@ -810,8 +702,6 @@
             "title":"Left For Tickling"
         },
         "11432111211112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The town guards come and get you",
                 "Someone grabs your attention"
@@ -822,8 +712,6 @@
             "title":"It is Packed"
         },
         "114321112111121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A younger woman walks up to you",
                 "A older woman walks up to you"
@@ -834,8 +722,6 @@
             "title":"The town guards come and get you"
         },
         "1143211121111211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Digs into your armpits",
                 "Pulls out a feather duster"
@@ -846,8 +732,6 @@
             "title":"A younger woman walks up to you"
         },
         "114321112112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They leave you alone",
                 "They have some fun"
@@ -858,8 +742,6 @@
             "title":"Are Still Tied"
         },
         "114322":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You are tied down",
                 "You look around"
@@ -870,8 +752,6 @@
             "title":"Take a Nap"
         },
         "1143221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They start up again",
                 "They start talking to you"
@@ -1046,8 +926,6 @@
             "title":"A fast, silent dusk she-elf armed with a hardwo..."
         },
         "13":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go to the Mages College",
                 "Visit the Spellcrafting Shops",
@@ -1059,8 +937,6 @@
             "title":"Arthur"
         },
         "131":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Head to our first lesson",
                 "Show you your room",
@@ -1085,8 +961,6 @@
             "title":"Show you your room"
         },
         "13121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Transfiguration",
                 "Magical Creatures"
@@ -1097,8 +971,6 @@
             "title":"You wait 30 minutes then go to the defense lesson"
         },
         "131211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Jenny starts tickling you",
                 "There is an emergency "
@@ -1109,8 +981,6 @@
             "title":"Transfiguration"
         },
         "1312111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You get Detention",
                 "The teacher knew the entire time"
@@ -1121,8 +991,6 @@
             "title":"Jenny starts tickling you"
         },
         "13121111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Her Office ",
                 "The Room"
@@ -1133,8 +1001,6 @@
             "title":"You get Detention"
         },
         "131211111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Take care of the serpette (a mythical creature)",
                 "Clean out the storm drains"
@@ -1145,8 +1011,6 @@
             "title":"Her Office "
         },
         "1312111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She starts flapping her wings",
                 "The vines start exploring your vulnerable areas"
@@ -1157,8 +1021,6 @@
             "title":"Take care of the serpette (a mythical creature)"
         },
         "13121111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The Teacher",
                 "Zyliath "
@@ -1169,8 +1031,6 @@
             "title":"She starts flapping her wings"
         },
         "1312112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She makes your situation worse",
                 "She helps you... Sorta "
@@ -1193,8 +1053,6 @@
             "title":"She makes your situation worse"
         },
         "13121122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She has your foot",
                 "She put a spell on you"
@@ -1229,8 +1087,6 @@
             "title":"She brushes aside your failed spell and strikes."
         },
         "13122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You hear a voice",
                 "You explore"
@@ -1241,8 +1097,6 @@
             "title":"sneak into the Arch-mage's room using the w..."
         },
         "131221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You will be placed in the castle stocks",
                 "I will be teaching you a lesson"
@@ -1253,8 +1107,6 @@
             "title":"You hear a voice"
         },
         "1312211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A novice witch walks up",
                 "An advanced witch walks up"
@@ -1265,8 +1117,6 @@
             "title":"You will be placed in the castle stocks"
         },
         "13122111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Someone Approaches",
                 "She continues her torment"
@@ -1277,8 +1127,6 @@
             "title":"A novice witch walks up"
         },
         "131221111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Vines appear",
                 "A ghost appears"
@@ -1301,8 +1149,6 @@
             "title":"A ghost appears"
         },
         "13122111121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The Statue",
                 "You Awaken"
@@ -1313,8 +1159,6 @@
             "title":"You dive at the ghost foolishly"
         },
         "131221111211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You yell for help",
                 "You attempt a spell"
@@ -1325,8 +1169,6 @@
             "title":"The Statue"
         },
         "1312211112112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Someone comes running",
                 "Try Another Spell"
@@ -1361,8 +1203,6 @@
             "title":"I will be teaching you a lesson"
         },
         "131222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Read a book",
                 "Head upstairs"
@@ -1373,8 +1213,6 @@
             "title":"You explore"
         },
         "1312221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Nothing happens",
                 "You are naked"
@@ -1385,8 +1223,6 @@
             "title":"Read a book"
         },
         "13122212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Try the ledge",
                 "Out the front door"
@@ -1409,8 +1245,6 @@
             "title":"Try the ledge"
         },
         "1312221212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Swim to the harbor",
                 "Enter the cave"
@@ -1421,8 +1255,6 @@
             "title":"You plummet to the frothing sea below"
         },
         "13122212122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Your hands are tied",
                 "Something is different "
@@ -1433,8 +1265,6 @@
             "title":"Enter the cave"
         },
         "131222121221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Your feet are bound",
                 "Something else happens"
@@ -1445,8 +1275,6 @@
             "title":"Your hands are tied"
         },
         "132":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Steal the book",
                 "Leave the shop empty handed",
@@ -1458,8 +1286,6 @@
             "title":"Visit the Spellcrafting Shops"
         },
         "1321":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You try a spell",
                 "You find a map",
@@ -1471,8 +1297,6 @@
             "title":"Steal the book"
         },
         "13212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She talks to you",
                 "She traps you"
@@ -1567,8 +1391,6 @@
             "title":"You are interupted "
         },
         "132131":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Why tickle him of course!",
                 "They start to whisper"
@@ -1591,8 +1413,6 @@
             "title":"Why tickle him of course!"
         },
         "13213112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The Challenge",
                 "Head back inside"
@@ -1676,8 +1496,6 @@
             "title":"She drags you through the coffin to her castle."
         },
         "15":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Head to the pub",
                 "Steal the ruby",
@@ -1691,8 +1509,6 @@
             "title":"Blair"
         },
         "151":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Wake up in the same room as Nova",
                 "Are tied to a bed",
@@ -1704,8 +1520,6 @@
             "title":"Head to the pub"
         },
         "1512":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Nova",
                 "The Barmaid",

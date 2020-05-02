@@ -106,8 +106,6 @@
             "title":"Run for your life"
         },
         "1111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "take the hand",
                 "slap it away and try to run"
@@ -118,8 +116,6 @@
             "title":"In to the cell."
         },
         "11111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Grab the child and face your captors",
                 "Pretend to be unconcious"
@@ -142,8 +138,6 @@
             "title":"Grab the child and face your captors"
         },
         "11111111112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Continue looking for the door.",
                 "Rush the chair and demand answers."
@@ -154,8 +148,6 @@
             "title":"The Room"
         },
         "111111111121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Enter it.",
                 "Go back to the man."
@@ -178,8 +170,6 @@
             "title":"Cows! They're turning us into Cows!"
         },
         "1111111111212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Awake to the forest around you.",
                 "Awake back in the city, in your appartment, the alarm clock going off."
@@ -190,8 +180,6 @@
             "title":"The wrong door?"
         },
         "11111111112122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Joe, the lawyer to the rescue",
                 "Joe, the lawyer, is in on it...or is he?"
@@ -202,8 +190,6 @@
             "title":"Awake back in the city, in your appartment, the..."
         },
         "111111111122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Are you an alien?",
                 "Who is Cheryl?"
@@ -459,15 +445,12 @@
         "1111111112111111121111111111":{
             "author_id":"lapen",
             "author_name":"Masked_Writer",
-            "choices":null,
             "content":"<div class=\"\"><div> <span>Krystal and Boone finally burst through the dust and smoke and fell to the ground, gasping for cleaner air. They felts hands lifting them up and dragging them to a safer spot. Krystal held her hand up to shield her eyes from the sun and saw they were surrounded by Boone's family and the other people they had helped to escape. Boone's mother and sister were already fussing over his injured leg, while his neice was planting a big kiss on his cheek. His father gave Krystal a big smile as if to say thank you, for being there for him.<br>\r\n<br>\r\nShe stood and looked at the government building, now a pile of rubbish, thanks to corrupt government officials, suckered into trusting alien beings who came here for their own benefit, no one else's. <br>\r\n<br>\r\n She knew that even if she wrote a story of their experience, went on the talk show and morning news circuit, etc., that the government would still find a way to dismiss and cover up every effort she made to reveal the truth.<br>\r\n<br>\r\nShe would finish her novel, live a happy life with Boone and keep an ear open to strange occurrences, because she knew someday they would be back.<br>\r\n<br>\r\n                  The End</span></div></div>",
             "created":1043384400,
             "id":494539,
             "title":"I see the light!"
         },
         "111111111211111112111112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Rescue the elderly townspeople",
                 "There's no time"
@@ -478,8 +461,6 @@
             "title":"24...36....Hike!"
         },
         "1111111112111111121111121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Leave them, there's no time to save them",
                 "Boone remembers the little alien gadget"
@@ -490,8 +471,6 @@
             "title":"Awakenings"
         },
         "11111111121111111211111212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They headed back for town",
                 "Suddenly, the mothership appeared"
@@ -502,8 +481,6 @@
             "title":"Gameboy.....Advanced"
         },
         "11111111121111111212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Quickly change your position so that shadowsdo not show",
                 "Wait till a guard comes to investigate and strike him"
@@ -526,8 +503,6 @@
             "title":"ditch the lying guard and hope for the best"
         },
         "11111111122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Yes, let the authorities handle it after all...Its hopeless...",
                 "No, I was fibbing, but we have to do something..."
@@ -538,8 +513,6 @@
             "title":"Conversation in the dark"
         },
         "111111112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Krystal goes on writing in the new world",
                 "Krystal is afraid and thinks of running away"
@@ -550,8 +523,6 @@
             "title":"Krystal  in the World of Love"
         },
         "1111111121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "stay in world and try to write more",
                 "leave world and work on novel"
@@ -562,8 +533,6 @@
             "title":"bored"
         },
         "11111111211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go to town and question the villagers",
                 "Run to the woods in the direction of the lights."
@@ -574,17 +543,12 @@
             "title":"Coming Back"
         },
         "111111112111":{
-            "author_id":null,
-            "author_name":null,
-            "choices":null,
             "content":"<div class=\"\"><div> <span>She ran quickly back to town. The sun was just going down and it cast an eerie glow on the passer-byes faces. They all looked at her with the same hard, statue-like look. Krystal jogged quickly to the grocery store and met up with Boone again. He seemed to be the only person who wasn't frozen. She greeted him casually.<br>\r\n\"Heya Boone!\" she cried \"I loved your peaches they were just plain delicious!\"<br>\r\nHe smiled back at her and they began a deep conversation. All of a sudden, Boone stopped talking and looked at her strangely. He had seen the blue string around her neck.<br>\r\n\"What is that?\" he asked suddenly. She mumbled back.<br>\r\n\"I don't know\" she said truthfully \"It...it somehow found its way to me\" <br>\r\nHe eyed her suspiciously. <br>\r\n\"Hey, come back with me. My house is really cool.\"<br>\r\nIn the end she went and lived with him happily and the blue string disappeared.<br>\r\n<br>\r\nTHE END!</span></div></div>",
             "created":1189832400,
             "id":444629,
             "title":"Frozen Peaches and People"
         },
         "111111112112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Boone",
                 "an alien"
@@ -595,8 +559,6 @@
             "title":"The Crevice"
         },
         "11111111212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Shoot the girl",
                 "take the pistol and run"
@@ -607,8 +569,6 @@
             "title":"Letting go"
         },
         "1111111122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Krysatl writes about farmers growing a strange crop",
                 "Krystal goes back to the town"
@@ -619,9 +579,6 @@
             "title":"Cheryl helps Krystal"
         },
         "11111111221":{
-            "author_id":null,
-            "author_name":null,
-            "choices":null,
             "content":"<div class=\"\"><div> <span>Using her inspiration she'd recieved from her favorite movie, <i>Signs</i>, Krystal wrote an amazing story where a couple of recklessly brave aliens escaped from a crazy Earthen town. The book was a hit, and Krystal was famous among the alien race. However, she wanted to go home. Cheryl and the Royals sent her home. But, woe betide her, when she got home, she couldn't remember anything she'd written. Well, thems the breaks, eh?<br>\r\n<br>\r\n<b>THE END</b></span></div></div>",
             "created":1042779600,
             "id":139354,
@@ -652,8 +609,6 @@
             "title":"run back to the house"
         },
         "11111211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The handsome boy from the stand.",
                 "A complete Stranger."
@@ -664,8 +619,6 @@
             "title":"A Visitor At The Door"
         },
         "111112111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Take his word for it.",
                 "Express further worries."
@@ -676,8 +629,6 @@
             "title":"The handsome boy from the stand."
         },
         "1111121111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Look out the window.",
                 "Shut the window and take a bath."
@@ -688,8 +639,6 @@
             "title":"Take his word for it."
         },
         "1111122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Let Kyle tell you his story.",
                 "\"I don't want  to sit down. I want you to leave.\""
@@ -700,8 +649,6 @@
             "title":"drop the gun, and something else grabs her"
         },
         "11111221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "sit and think. Let your thoughts run wild.",
                 "Ignore this creepy feeling and see if you can't find that diner."
@@ -712,8 +659,6 @@
             "title":"Let Kyle tell you his story."
         },
         "11112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Startled awake by a noise.",
                 "The bright light lit up the room."
@@ -724,8 +669,6 @@
             "title":"Just my imagination."
         },
         "111121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The next morning.",
                 "A spooky note."
@@ -736,8 +679,6 @@
             "title":"Waking moments."
         },
         "1111211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Keep the door closed, Hide the body",
                 "Show the man the body"
@@ -748,8 +689,6 @@
             "title":"A Slight Problem"
         },
         "11112111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The peach farmer wakes her up",
                 "She wakes up, not knowing where she is"
@@ -760,8 +699,6 @@
             "title":"Keep the door closed, Hide the body"
         },
         "11112112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "I awoke in the hospital...",
                 "The sharp pain in my leg shot my eyes open..."
@@ -772,8 +709,6 @@
             "title":"The Twist"
         },
         "1111212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Another noise...",
                 "She goes to bed with many questions..."
@@ -784,8 +719,6 @@
             "title":"A mysterious note..."
         },
         "11112121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She trips...",
                 "She makes it downstairs..."
@@ -796,8 +729,6 @@
             "title":"Black Things"
         },
         "111121211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Her arm is broken...",
                 "She fell on something else..."
@@ -808,8 +739,6 @@
             "title":"Trips!"
         },
         "1111212112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She gets up and runs...",
                 "She fires her gun..."
@@ -820,8 +749,6 @@
             "title":"Explosion"
         },
         "11112121121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She makes it to her car and escapes...",
                 "The monster catches up to her before she can get to the car..."
@@ -832,8 +759,6 @@
             "title":"Monster"
         },
         "111121211211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She starts to car and heads towards town",
                 "She doesn't have her keys"
@@ -844,8 +769,6 @@
             "title":"In The Car"
         },
         "11112121122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Whatever it is tells her how upset being shot makes it",
                 "or it explains exactly why guns don't work on alien beings."
@@ -858,15 +781,12 @@
         "111121211221":{
             "author_id":"alex1nl",
             "author_name":"Alex-delight",
-            "choices":null,
             "content":"<div class=\"\"><div> <span>Krystal could not understand what was happening but suddenly she could hear the alien or whatever it is talking with her. She could her the beast in her head, for a minute or two she really thought that this was all a bad dream but when she pinched her self she could feel the pain. The beast said, \"YOU stupid female human, do you believe you can hurt me with that pre-historic weapon?\" She was so afraid that she could not reply at all or move even. The beast continued, \"Do not belive what your eyes show you, I am not really hear so your weapon is useless! I came here to warn you to get OUT of this cottage and go back from where you cam from. Do not try to stop us, if you stay you will regret it.\" <br>\r\nSuddenly everything went black and Krystal woke up in the living room floor full of blue bruises all over. She was confused and in pain. She stood up and went to get an aspirin in the bathroom, to relief the pain in her head. She had a bigger shock when she saw her reflection in the mirror. The reflection was deformed, she could not see her face, it was like someone had tried to erase her but failed in doing so. </span></div></div>",
             "created":1075352400,
             "id":186604,
             "title":"A scary dream"
         },
         "111121212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "had the keys to her car still casually tucked in her pocket an drove away",
                 "thought it was her imagination a proceeded to walk back to the cabin"
@@ -877,8 +797,6 @@
             "title":"The Unenchanted Evening"
         },
         "11112122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She just eats a peach.",
                 "She trys to find someone in town to fix the stove."
@@ -889,8 +807,6 @@
             "title":"She goes to bed with many questions..."
         },
         "111121221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Leave town immediately and never return.",
                 "Explore the area in the woods where the ship landed!"
@@ -901,8 +817,6 @@
             "title":"An Alien ship!!"
         },
         "1111212212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "go to heaven",
                 "go to hell"
@@ -913,8 +827,6 @@
             "title":"Explore the area in the woods where the ship la..."
         },
         "11112122121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Stay here and watch things play out on earth",
                 "Take the second chance"
@@ -949,17 +861,12 @@
             "title":"go to hell"
         },
         "111121222":{
-            "author_id":null,
-            "author_name":null,
-            "choices":null,
             "content":"<div class=\"\"><div> <span>Everyone in town has vanished. There is nothing out there!!<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n---------------------------------------------------------------------------- -------------------------------------------------------<br>\r\nSorry, you've lost! Go back to the beginning and try to go a different direction!</span></div></div>",
             "created":1207112400,
             "id":515451,
             "title":"She trys to find someone in town to fix the stove."
         },
         "111122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Unlock the doors and try to find out whats going on",
                 "Stuff wet towels in all the cracks to try and keep 'it' out"
@@ -982,8 +889,6 @@
             "title":"Angels"
         },
         "11112212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Something causes Krystal to drop the eggs.",
                 "She steps on something strange."
@@ -994,8 +899,6 @@
             "title":"The Next Morning"
         },
         "111122121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Turn around and find out who or what is behind her.",
                 "Grab an inaniment object and swig it at the hand on her shoulder."
@@ -1030,8 +933,6 @@
             "title":"Thump"
         },
         "112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Turn around...",
                 "Scream and run away"
@@ -1042,8 +943,6 @@
             "title":"Leaving"
         },
         "1121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Turn and leave.",
                 "Stay and meet Frank."
@@ -1054,8 +953,6 @@
             "title":"Miss Garfield"
         },
         "11211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Leave town immediately.",
                 "Get your refund at the lodge's office."
@@ -1126,8 +1023,6 @@
             "title":"friend or fow"
         },
         "1121112121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Leave.",
                 "Shoot the guy!"
@@ -1138,8 +1033,6 @@
             "title":"Save the younger man."
         },
         "11211121212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 " Run away and forget it",
                 " Carry on shooting"
@@ -1150,8 +1043,6 @@
             "title":"Impossible!"
         },
         "11211122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Follow his instructions.",
                 "Make a mad grab for the gun."
@@ -1162,8 +1053,6 @@
             "title":"Call the cops."
         },
         "112111221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Keep insisting you know nothing about what's going on in the words. ",
                 "Play along and say you know everything about what's going on in the woods. "
@@ -1174,8 +1063,6 @@
             "title":"Follow his instructions."
         },
         "112112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Call the Police",
                 "Proceed into the office to investigate further"
@@ -1186,8 +1073,6 @@
             "title":"The Empty Office"
         },
         "11212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Get out of here!",
                 "Brave out the summer"
@@ -1198,8 +1083,6 @@
             "title":"Warning Signs"
         },
         "112121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Get out and meet the police",
                 "Turn back"
@@ -1210,8 +1093,6 @@
             "title":"No Way Out"
         },
         "1121211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Stop and look at the light",
                 "Run away"
@@ -1222,8 +1103,6 @@
             "title":"Confrontation"
         },
         "11212111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Get in"
             ],
@@ -1245,8 +1124,6 @@
             "title":"Return to the Lodge"
         },
         "112122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Question the little old lady",
                 "Walk back out into the town"
@@ -1257,8 +1134,6 @@
             "title":"The mystery of one woman."
         },
         "1121221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Stay and talk to the old lady",
                 "Leave to try to avoid Erma"
@@ -1269,8 +1144,6 @@
             "title":"Past"
         },
         "1121222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Buy some meat for dinner at the butcher shop.",
                 "Go to a small local bar and hang out."
@@ -1281,8 +1154,6 @@
             "title":"Extremely Uneasy"
         },
         "1122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Get out of the car to see what you hit.",
                 "Drive away.  Quickly."
@@ -1293,8 +1164,6 @@
             "title":"The Sermon."
         },
         "11221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "try and talk to the voices",
                 "dismiss the voices and continue looking"
@@ -1305,8 +1174,6 @@
             "title":"radio control"
         },
         "112211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Turn the radio off.",
                 "Run far away from that scary sermon!"
@@ -1317,8 +1184,6 @@
             "title":"Absent Attempt"
         },
         "1122111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The American Automobile Association people answer.",
                 "The American Automobile Association people DON'T answer."
@@ -1329,8 +1194,6 @@
             "title":"Peace and Quiet"
         },
         "1122112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Take a break from your sprinting.",
                 "Continue ambling."
@@ -1341,8 +1204,6 @@
             "title":"Dashing Down"
         },
         "112212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Ask for a tow truck immediately and a cab.",
                 "The cellphone ran out of batteries! Uh-oh!"
@@ -1353,8 +1214,6 @@
             "title":"The Whole Idea..."
         },
         "1122121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Krystal figures out where she is.",
                 "Doesnt no where she is but some1 else does..."
@@ -1365,8 +1224,6 @@
             "title":"Tow Truck"
         },
         "11221211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Constantine",
                 "Toronto"
@@ -1377,17 +1234,12 @@
             "title":"Krystal figures out where she is."
         },
         "11222":{
-            "author_id":null,
-            "author_name":null,
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>No way are you getting out of this one! Go back and find out what you hit!</span></div></span></div>",
             "created":1046322000,
             "id":145871,
             "title":"No You Don't"
         },
         "12":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Follow Beck into the wall of fog",
                 "Go home and ignore the whole thing",
@@ -1400,8 +1252,6 @@
             "title":"Turn it Up Now"
         },
         "121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Do you follow Jim.",
                 "Do you take your leave."
@@ -1412,8 +1262,6 @@
             "title":"New Meetings and Old Memories"
         },
         "1211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Does Krystal continue to follow Jim?",
                 "Does Krystal turn and run?"
@@ -1424,8 +1272,6 @@
             "title":"The Transformers"
         },
         "12111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Answer the voice.",
                 "Get up and run."
@@ -1436,8 +1282,6 @@
             "title":"Why have you come?"
         },
         "121111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Does she get up try to make a run for it",
                 "Does she submit to their will."
@@ -1448,8 +1292,6 @@
             "title":"The neverending nightmare"
         },
         "1211111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "will you shoot at the figure?",
                 "will you take a moment to see if he might be harmless?"
@@ -1460,8 +1302,6 @@
             "title":"a new perspective"
         },
         "12111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "does she make it to the safty of the cabin",
                 "is she overcome by the extra terrestrial in the strange fog"
@@ -1472,8 +1312,6 @@
             "title":"Run for life"
         },
         "121111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "will the horse be a spirit saving Krystal",
                 "will Krystal ever see another alien again"
@@ -1484,8 +1322,6 @@
             "title":"Horse saved Krystal and day"
         },
         "1211111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Krystal runs away, suspecting Meridia is also an alien",
                 "Krystal listens to what Meridia has to say"
@@ -1496,8 +1332,6 @@
             "title":"Nymph of the Forest"
         },
         "12111111112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "ask the Queen more details relating the aliens.",
                 "Tell the Queen that she wishes no part in this war."
@@ -1508,8 +1342,6 @@
             "title":"Krystal listens to what Meridia has to say"
         },
         "121111111121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Apologize to the Queen Nymph ",
                 "Drive back to your parents' home and forget all that has happened."
@@ -1520,8 +1352,6 @@
             "title":"ask the Queen more details relating the aliens."
         },
         "121111111122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Keep on sleeping"
             ],
@@ -1531,8 +1361,6 @@
             "title":"Tell the Queen that she wishes no part in this ..."
         },
         "121111112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Run back to the cabin",
                 "See another dark form standing near her in the mist"
@@ -1555,8 +1383,6 @@
             "title":"defeat"
         },
         "12111111222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Save energy and don't resist",
                 "try to reach pockets in hope of finding a weapon."
@@ -1567,8 +1393,6 @@
             "title":"Wait to see what the aliens will do"
         },
         "12111112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "find out his answer",
                 "run for it when some one screams again"
@@ -1579,8 +1403,6 @@
             "title":"the choice"
         },
         "121111121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Agree to help him",
                 "Try to run for it again"
@@ -1591,8 +1413,6 @@
             "title":"Help"
         },
         "1211111211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Pick up officer and follow the figure into uncertianty",
                 "Make break for civilization with or without officer"
@@ -1603,8 +1423,6 @@
             "title":"Shoot"
         },
         "12111112111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "realise your still holding your gun",
                 "submit to their power"
@@ -1627,8 +1445,6 @@
             "title":"The big Break"
         },
         "1211112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Have sex with the beings"
             ],
@@ -1638,8 +1454,6 @@
             "title":"Questions"
         },
         "12111121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Escape on a super bike",
                 "Let of a nuclear device"
@@ -1650,8 +1464,6 @@
             "title":"You Little Slag"
         },
         "121111211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Ask Cassidy",
                 "Shrug It Off"
@@ -1662,8 +1474,6 @@
             "title":"Cassidy Arenjal"
         },
         "1211112112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Start Dancing",
                 "Eat Dinner"
@@ -1674,8 +1484,6 @@
             "title":"Inside The House"
         },
         "121111212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Get memory erased",
                 "answer questions"
@@ -1686,8 +1494,6 @@
             "title":"The White Light"
         },
         "121112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She gets pulled up by...",
                 "She gets pulled into the water by..."
@@ -1698,8 +1504,6 @@
             "title":"Blind flight"
         },
         "1211121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go back and look for the pistol.",
                 "Forget about the pistol and follow Jim."
@@ -1710,8 +1514,6 @@
             "title":"The Rescue"
         },
         "1211122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Wake up and try to find an escape with the guy",
                 "Wake up and question the guy"
@@ -1746,8 +1548,6 @@
             "title":"Guilt"
         },
         "1212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Keep backing away",
                 "Stay put and see what happens next"
@@ -1758,8 +1558,6 @@
             "title":"No Escape!"
         },
         "12121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Run away.",
                 "Keep talking."
@@ -1770,8 +1568,6 @@
             "title":"Confused"
         },
         "121211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Morrison starts chasing after you.",
                 "You trip over something."
@@ -1782,8 +1578,6 @@
             "title":"Everything"
         },
         "1212111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Shoot the gun at Morrison's chest",
                 "Run away and follow Jim"
@@ -1794,8 +1588,6 @@
             "title":"Spotted"
         },
         "12121111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Marrison shoot Krystal",
                 "Marrison took Krystal back home"
@@ -1830,8 +1622,6 @@
             "title":"Where to hide?"
         },
         "12211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Kick the door open and demonstrate her martial art skills",
                 "Kick the door open and run to the next room"
@@ -1842,8 +1632,6 @@
             "title":"Sit and wait"
         },
         "12212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Stay still and be quiet.",
                 "Flee outside while you can."
@@ -1854,8 +1642,6 @@
             "title":"Perfect..."
         },
         "123":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Investigate the noise",
                 "That's enough, time to run away"
@@ -1866,8 +1652,6 @@
             "title":"No phone, just the fog"
         },
         "1231":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Get the gun ready",
                 "Look for a place to land safely"
@@ -1878,8 +1662,6 @@
             "title":"The Chamber"
         },
         "12311":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Try to go down fighting.",
                 "Give up, see what they will do to you."
@@ -1890,8 +1672,6 @@
             "title":"The Beings of Nightmares"
         },
         "123111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Attempt to Sneak Past Aliens",
                 "Put on Metal Suit and pretend to be alien"
@@ -1902,8 +1682,6 @@
             "title":"The Shape of Things"
         },
         "1231111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "kick butt",
                 "run like a baby"
@@ -1914,8 +1692,6 @@
             "title":"hi"
         },
         "123112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Trust the man, go with him to town",
                 "Escape from the car and flee into the woods"
@@ -1926,8 +1702,6 @@
             "title":"The Coming"
         },
         "1231121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Join Dr.C and stop the aliens",
                 "Decline, the offer"
@@ -1938,8 +1712,6 @@
             "title":"Assimilation"
         },
         "12312":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Uncurl and see what they want",
                 "Stay curled up and wait"
@@ -1950,8 +1722,6 @@
             "title":"Falling!"
         },
         "123121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Keep trying to get up and run away",
                 "Pull out your pistol and aim it screaming \"Back up or I'll shot!\""
@@ -1962,8 +1732,6 @@
             "title":"Uncurl and see what they want"
         },
         "123122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The aliens find her.",
                 "The creatures don't find her."
@@ -1974,8 +1742,6 @@
             "title":"In Fatal Position"
         },
         "124":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "DO I ATTACK  AND GET THE HELL OUTTA HERE?",
                 "DO I TRY TO COMUNICATE?"
@@ -1986,8 +1752,6 @@
             "title":"LIFT ME UP"
         },
         "1241":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "ALIEN SEX",
                 "LEARN THE SECRET TO LIFE"
@@ -1998,8 +1762,6 @@
             "title":"LORA KROFT"
         },
         "12411":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "make her bust out anyway",
                 "make her stay"
@@ -2010,8 +1772,6 @@
             "title":"speaking to the aliens"
         },
         "124112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You've doomed the human race! Yippee! Remain silent.",
                 "Attempt at negotiations with the aliens."
@@ -2033,8 +1793,6 @@
             "title":"A shock awakening"
         },
         "1242":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Get away.",
                 "Play along."
@@ -2045,8 +1803,6 @@
             "title":"The Improbbale Discovery Award"
         },
         "12421":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "something scary.",
                 "something strange."
@@ -2057,8 +1813,6 @@
             "title":"Krystal had to get out of the strange pl..."
         },
         "12422":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go to the right.",
                 "Go to the left."
@@ -2069,8 +1823,6 @@
             "title":"E.T. Bites It"
         },
         "124221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go to Earth.",
                 "Kill Everything in the mah Fuggin Room, fashizzle."
@@ -2081,8 +1833,6 @@
             "title":"Buttons...Buttons...Buttons...."
         },
         "1242211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Play with buttons",
                 "Jump for it"
@@ -2093,8 +1843,6 @@
             "title":"Bombs Away"
         },
         "12422111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Leave the car and look for something or someone",
                 "stay with the car"
@@ -2105,8 +1853,6 @@
             "title":"different world?"
         },
         "124222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "use the gun and risk life for murder of innocents",
                 "wait and see if they are aliens or not, risking your own life"
@@ -2117,8 +1863,6 @@
             "title":"the trapdoor"
         },
         "1242221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Krystal has killed innocents",
                 "the bodies get up like zombies"
@@ -2129,8 +1873,6 @@
             "title":"???"
         },
         "12422211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Turn around and shoot, hoping you have bullets",
                 "Try to talk to the creepy person"
@@ -2141,8 +1883,6 @@
             "title":"Now Look What You've Done"
         },
         "124222111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Show off your awesome (nonexistent) kung-fu skills",
                 "Try to talk your way out of it."
@@ -2153,8 +1893,6 @@
             "title":"Livin on a Prayer"
         },
         "12422212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Who cares what he says? Turn around and run like hell",
                 "Listen to what he has to say"

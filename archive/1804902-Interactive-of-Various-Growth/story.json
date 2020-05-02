@@ -449,8 +449,6 @@
             "title":"The Briefs"
         },
         "13131":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "His package is bigger",
                 "His package is smaller"
@@ -4556,8 +4554,6 @@
             "title":"Gym time competition. Will he accept any losses?"
         },
         "15":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Matt",
                 "George",
@@ -4571,8 +4567,6 @@
             "title":"Other"
         },
         "151":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He notices a magic computer in the corner that grants wishes",
                 "He takes a shower in a magic shower in the morning",

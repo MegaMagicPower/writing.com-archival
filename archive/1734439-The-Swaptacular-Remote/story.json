@@ -1016,7 +1016,6 @@
         "1111111111111111111111111111111111111111111111111111111111111111111111111111111111":{
             "author_id":"blargman7",
             "author_name":"Blarg Blargington",
-            "choices":[],
             "content":"<div class=\"\"><div> <span>About a month after first receiving the remote, Ryan received another package from the mysterious Blarg Industries that had provided him with the remote. The package came with instructions on how to provide feedback on the remote ... and how to send it back. They wanted it returned so they could collect diagnostic data.<br>\r\n<br>\r\nRyan was conflicted. He wanted to help as he was a nice guy, but he really wanted to hang on to the remote. It was just two much fun. In the end, he decided he would send it back. He had a few reasons for making this choice. One was that if this Blarg Industries was capable of making a body swapping remote, they were certainly capable of tracking him down and taking it. The other reason was that a newer version of the remote was promised down the line. All the beta testers of the Swaptacular Remote were going to be given the next version made using the provided feedback, and they were going to be allowed to keep it.<br>\r\n<br>\r\nAnd so, Ryan filled out the feedback forms, hit the Reset button a few times just to be safe, and sealed the remote up in the prepaid package provided. He then took it to the mailbox and sent it off.<br>\r\n<br>\r\nRyan was rather bored without the remote to entertain him, as were his friends. They had so much fun with the thing, and now they had to go back to their normal lives. But eventually, it faded to the back of their minds. Summer ended, and they went back to school, which certainly helped them to stop thinking about it. Every now and then, Ryan would think of the remote and get a little sad, but he knew he would be getting a new and improved one eventually.<br>\r\n<br>\r\n<div align=\"center\">***</div><br>\r\n<br>\r\nMeanwhile, in the Blarg Industries lab, the man behind the remote, and the whole company, was going over the feedback and diagnostic info from the beta test of his creation. His name was Barry, but to the testers of his creation he was known as B. Blargington. That wasn't his real last name of course, but that mattered little. He was just happy that his beta test was a success and that he had a wealthy investor who was funding his work and keeping it discrete. He wasn't in this to make money, but only to have fun.<br>\r\n<br>\r\nNow, all he had to do was start working on the next prototype based on the feedback provided by the beta testers. He also had some other projects he was keen on developing. He was very excited to get to work.<br>\r\n<br>\r\n<div align=\"center\">***</div><br>\r\n<br>\r\n<i>The canon story line for this interactive ends here, but the fun's not over yet. There are plenty of other story branches to explore in this interactive story.<br>\r\n<br>\r\nThis story line will continue into another interactive to be set in the same universe coming soon.<br>\r\n<br>\r\nThere will also be a direct sequel to this interactive coming soon.</i></span></div></div>",
             "created":1507266000,
             "id":2397544,
@@ -1642,8 +1641,6 @@
             "title":"Life swap"
         },
         "1122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Do a Body and Life Swap and Run Errands as his Hot Mom",
                 "Go Run Errands with his Mom and Pretend She's his Girlfriend",
@@ -1682,8 +1679,6 @@
             "title":"Ryan makes a decision"
         },
         "11311":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Ryan temporarily swaps bodies and lives with someone else.",
                 "Ryan takea a guess and grab some things he thinks the family needs."
@@ -1694,8 +1689,6 @@
             "title":"run his mother's errands."
         },
         "113111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Chloe, the supermarket girl.",
                 "Someone else."
@@ -1706,8 +1699,6 @@
             "title":"Temporary Swap"
         },
         "1131111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "aren't you in my body?\"",
                 "could you please step aside? I need a carton of milk.\""
@@ -1803,8 +1794,6 @@
             "title":"You can\u2019t find it, and 7 months later as Chloe"
         },
         "1131111212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Ashley, coming down for a snack",
                 "Ashley\u2019s friend Kelly, going home for the night"
@@ -1815,8 +1804,6 @@
             "title":"Swapping Back"
         },
         "11311112121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go to bed",
                 "Use the remote as Ashley"
@@ -1827,8 +1814,6 @@
             "title":"Ashley, coming down for a snack"
         },
         "113111121211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go to the beach",
                 "Go to the mall"
@@ -1839,8 +1824,6 @@
             "title":"Go to bed"
         },
         "1131111212111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Invite Kelly",
                 "Don't Invite Kelly"
@@ -1851,8 +1834,6 @@
             "title":"Go to the beach"
         },
         "11311112121112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Use the remote on nearby people",
                 "Live life as Ashley for a while"
@@ -1863,8 +1844,6 @@
             "title":"Don't Invite Kelly"
         },
         "113111121211121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "One of the Body Swap options",
                 "A Body and Life Swap"
@@ -1875,8 +1854,6 @@
             "title":"Use the remote on nearby people"
         },
         "1131111212111211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Body Swap",
                 "Body Swap with Clothes"
@@ -1887,8 +1864,6 @@
             "title":"One of the Body Swap options"
         },
         "1131111212111212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Swap back with Ashley",
                 "Stay as Jen"
@@ -1935,8 +1910,6 @@
             "title":"He is in body of 48 years old chubby woman"
         },
         "113111121212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Make a Swap with one of his parents",
                 "Call one of Ashley's friends"
@@ -1947,8 +1920,6 @@
             "title":"Use the remote as Ashley"
         },
         "1131111212122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Ashley's Best Friend, Kelly",
                 "Ashley's Boyfriend, Luke"
@@ -1959,8 +1930,6 @@
             "title":"Call one of Ashley's friends"
         },
         "11311112121221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "\"Sure, come on over.\"",
                 "\"Sure, I'll be there soon.\""
@@ -1971,8 +1940,6 @@
             "title":"Ashley's Best Friend, Kelly"
         },
         "11311112122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go to Kelly's house",
                 "Go to the mall"
@@ -1983,8 +1950,6 @@
             "title":"Ashley\u2019s friend Kelly, going home for the night"
         },
         "113111121221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Use the remote",
                 "Not use the remote"
@@ -1995,8 +1960,6 @@
             "title":"Go to Kelly's house"
         },
         "1131111212211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Safe Swap",
                 "Risky Swap"
@@ -2007,8 +1970,6 @@
             "title":"Use the remote"
         },
         "11311112122111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Body with Clothes Swap",
                 "Clothes Swap"
@@ -2019,8 +1980,6 @@
             "title":"Safe Swap"
         },
         "113111121221111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Swap back",
                 "Stay like this"
@@ -2031,8 +1990,6 @@
             "title":"Body with Clothes Swap"
         },
         "11311112122112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Body and Life Swap",
                 "Personality Swap"
@@ -2043,8 +2000,6 @@
             "title":"Risky Swap"
         },
         "113111121221121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The next morning",
                 "He left the remote on the couch"
@@ -2055,8 +2010,6 @@
             "title":"Body and Life Swap"
         },
         "1131111212211211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Find his old body",
                 "Call one of Katie's friends"
@@ -2067,8 +2020,6 @@
             "title":"The next morning"
         },
         "1131111212211212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Follow Ryan trying to regain the remote",
                 "Follow Kelly and the remote"
@@ -2079,8 +2030,6 @@
             "title":"He left the remote on the couch"
         },
         "113111121221122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Katie has Ryan\u2019s personality, Kelly and Ryan (in Kelly\u2019s body) have Katie\u2019s",
                 "Katie has Kelly\u2019s personality, Kelly and Ryan (in Kelly\u2019s body) have Katie\u2019s"
@@ -2091,8 +2040,6 @@
             "title":"Personality Swap"
         },
         "1131111212212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go uninvited to find his old body",
                 "Find something else to do"
@@ -2103,8 +2050,6 @@
             "title":"Not use the remote"
         },
         "1131112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Someone he knew",
                 "No one he knew"
@@ -2115,8 +2060,6 @@
             "title":"Someone else."
         },
         "11311121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A Teenager",
                 "An Adult"
@@ -2127,8 +2070,6 @@
             "title":"Someone he knew"
         },
         "113111211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "One of his friends",
                 "One of Ashley's friends"
@@ -2139,8 +2080,6 @@
             "title":"A Teenager"
         },
         "1131112111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "His girlfriend, Sarah",
                 "His best friend, Jake"
@@ -2151,8 +2090,6 @@
             "title":"One of his friends"
         },
         "11311121111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go to his house",
                 "Go to Sarah's house"
@@ -2163,8 +2100,6 @@
             "title":"His girlfriend, Sarah"
         },
         "1131112112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Ashley's best friend, Kelly",
                 "Ashley's boyfriend, Luke"
@@ -2175,8 +2110,6 @@
             "title":"One of Ashley's friends"
         },
         "11311121121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go to his house",
                 "Go somewhere else"
@@ -2187,8 +2120,6 @@
             "title":"Ashley's best friend, Kelly"
         },
         "113111211212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "To Kelly's house",
                 "To the mall"
@@ -2199,8 +2130,6 @@
             "title":"Go somewhere else"
         },
         "113111212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "His next door neighbor, Amanda Blair",
                 "His Aunt, Helen Campbell"
@@ -2211,8 +2140,6 @@
             "title":"An Adult"
         },
         "1131112121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go clothes shopping for myself",
                 "Get hair and nails done for party tonight"
@@ -2223,8 +2150,6 @@
             "title":"His next door neighbor, Amanda Blair"
         },
         "11311122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Personality Swap with Chloe",
                 "Swap with a random stranger"
@@ -2235,8 +2160,6 @@
             "title":"No one he knew"
         },
         "113111221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Option 1: Chloe the Party Girl",
                 "Some other Option"
@@ -2247,8 +2170,6 @@
             "title":"Personality Swap with Chloe"
         },
         "1131112211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Clothes Swap with Chloe Since her Outfits Match Her Personality",
                 "Clothes Swap with Someone Else"
@@ -2259,8 +2180,6 @@
             "title":"Option 1: Chloe the Party Girl"
         },
         "1131112212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Option 2: Chloe the Introvert",
                 "Some other Option"
@@ -2271,8 +2190,6 @@
             "title":"Some other Option"
         },
         "113111222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A teenager",
                 "An adult"
@@ -2283,8 +2200,6 @@
             "title":"Swap with a random stranger"
         },
         "1131112221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Boy",
                 "Girl"
@@ -2295,8 +2210,6 @@
             "title":"A teenager"
         },
         "11311122212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Yes, Jen",
                 "No, someone else"
@@ -2307,8 +2220,6 @@
             "title":"Girl"
         },
         "113111222121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go to the Beach with Chris and his College Friends",
                 "Stay Home"
@@ -2319,8 +2230,6 @@
             "title":"Yes, Jen"
         },
         "1131112221212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Explore Jen's wardrobe",
                 "Call one of Jen's friends",
@@ -2333,8 +2242,6 @@
             "title":"Stay Home"
         },
         "11312":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Punish Ashley by Taking Something",
                 "Force Ashley to do Things for him"
@@ -2548,8 +2455,6 @@
             "title":"Personality Swap"
         },
         "1151":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Had his Mom take him",
                 "Asked Ashley to take him",
@@ -2561,8 +2466,6 @@
             "title":"Himself"
         },
         "11512":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go Upstairs and Make a Swap",
                 "Wait for Ashley and Make no More Swaps"
@@ -2573,8 +2476,6 @@
             "title":"Asked Ashley to take him"
         },
         "115121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Body and Life Swap",
                 "Personality Swap"
@@ -3482,8 +3383,6 @@
             "title":"Go back to Ryan's house"
         },
         "13313":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Kelly",
                 "Ashley's boyfriend Luke"
@@ -3571,8 +3470,6 @@
             "title":"go to a friend's house."
         },
         "1341222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go see Sarah",
                 "Do a swap with Amy"
@@ -3583,8 +3480,6 @@
             "title":"Sarah's"
         },
         "13412222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Body",
                 "Body and Life Swap, followed by a Clothes"
@@ -3595,8 +3490,6 @@
             "title":"Do a swap with Amy"
         },
         "134122222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Check out his new wardrobe anyways",
                 "Wait for Sarah to come home (Jump to the next day)"
@@ -3683,8 +3576,6 @@
             "title":"Getting Ashley's Personality"
         },
         "13511":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "His Mother",
                 "Someone else"
@@ -3695,8 +3586,6 @@
             "title":"use the remote to give Ashley a terrible person..."
         },
         "135112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "One of Ryan's Friends",
                 "Someone else"
@@ -3731,8 +3620,6 @@
             "title":"The mall with Ashley's Personality."
         },
         "1351311":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "\"Hey Bestie!\"",
                 "\"Hey Babe!\""
@@ -3743,8 +3630,6 @@
             "title":"go clothes shopping"
         },
         "13513111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Continue shopping",
                 "Show Kelly the Remote"
@@ -3755,8 +3640,6 @@
             "title":"\"Hey Bestie!\""
         },
         "135131112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Ryan Brought the Remote - Show Kelly Now",
                 "Ryan Left it at Home - Take Kelly There"
@@ -3767,8 +3650,6 @@
             "title":"Show Kelly the Remote"
         },
         "13513112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Clothes Swap",
                 "Body and Clothes Swap"
@@ -3852,8 +3733,6 @@
             "title":"swap Ashley and his mother's bodies to matc..."
         },
         "135222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Take the Power for Himself - Do a Body and Life Swap",
                 "Fix Things - Press the Reset Button"
@@ -3905,8 +3784,6 @@
             "title":"girls."
         },
         "1412":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Explore the body right now",
                 "Search for another body",
@@ -3931,8 +3808,6 @@
             "title":"Explore the woman's life"
         },
         "141232":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Get his personality back",
                 "Let Michael keep it"
@@ -4378,8 +4253,6 @@
             "title":"He figures out he was swapped with someone"
         },
         "14332112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "At home, his family notices his change.",
                 "At home, his family is unaware of his change."
@@ -4492,8 +4365,6 @@
             "title":"Ryan and Sarah test the remote on themselves"
         },
         "1441111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Yes, you tell Sarah to hold the remote as well.",
                 "No, you forget about it making you the only one remembering the swap."
@@ -4504,8 +4375,6 @@
             "title":"\"Let's switch lives.\""
         },
         "14411111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "We should go to each other's house and pretend to be each other.",
                 "Try something else with the remote."
@@ -4516,8 +4385,6 @@
             "title":"Yes, you tell Sarah to hold the remote as well."
         },
         "144111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Follow Ryan as Sarah.",
                 "Follow Sarah as Ryan."
@@ -4528,8 +4395,6 @@
             "title":"We should go to each other's house and pret..."
         },
         "1441111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Marcy, Sarah's mom.",
                 "Amy, Sarah's sister.",
@@ -4541,8 +4406,6 @@
             "title":"Follow Ryan as Sarah."
         },
         "14411111112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Pretend to be Sarah.",
                 "Tell Amy he's really Ryan."
@@ -5599,8 +5462,6 @@
             "title":"go all out. I want to try a life swap.\""
         },
         "1442211121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Stay as Ashley and Kelly",
                 "Swap back to Jake and Ryan"
@@ -5611,8 +5472,6 @@
             "title":"use the remote to swap my life with Kelly.\""
         },
         "14422111211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Prank Luke",
                 "Find another body to swap with"
@@ -7341,8 +7200,6 @@
             "title":"have some fun with his new body and wardrobe."
         },
         "151112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Switch Sarah's and Amanda's personality ",
                 "Leave things the way they are"
@@ -7815,8 +7672,6 @@
             "title":"there was a knock at the door."
         },
         "15313112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Spend some quality time with Ashley.",
                 "Use the remote on Ashley."
@@ -7926,8 +7781,6 @@
             "title":"Kelly's body"
         },
         "15322":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Ryan models Kelly's clothes for himself",
                 "Keep going"
@@ -7938,8 +7791,6 @@
             "title":"exploring Ryan's new wardrobe."
         },
         "153221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Tight and Hot Clothes",
                 "Some Other Kind of Clothes"
@@ -7950,8 +7801,6 @@
             "title":"Ryan models Kelly's clothes for himself"
         },
         "1532211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Dresses and Skirts",
                 "Pants/Shorts and Tops"
@@ -8041,8 +7890,6 @@
             "title":"say \"yes,\" Ashley was totally hot."
         },
         "15412":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Switch back to his old body.",
                 "Stay inside Luke's body."
@@ -8138,8 +7985,6 @@
             "title":"Personality Swap"
         },
         "1543":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He takes the remote with him",
                 "He leaves it behind",

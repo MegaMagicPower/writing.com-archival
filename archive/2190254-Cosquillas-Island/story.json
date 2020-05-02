@@ -848,8 +848,6 @@
             "title":"Bare belly"
         },
         "13":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Normal",
                 "Special",
@@ -862,8 +860,6 @@
             "title":"Head to the amusement park"
         },
         "132":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Continues on",
                 "Changing room (should link back to Continue on)",

@@ -40,8 +40,6 @@
             "title":"a surprise party!"
         },
         "112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "If I agree for a transfer to Never-Never Land, I'll get a big promotion.",
                 "I'm allergic to woollen blankets.",
@@ -131,8 +129,6 @@
             "title":"the diner down the road"
         },
         "133":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You gasp and the food fight begins",
                 "The other couples stare at you two",
@@ -146,7 +142,6 @@
         "1331":{
             "author_id":"quibbler",
             "author_name":"Charlie George",
-            "choices":null,
             "content":"<div class=\"\"><div> <span>Your mouth drops open and you look at your spouse. \"That was an <i>accident</i>.\" You say slowly.<br>\r\n\"Yeah, I'm sure it was.\" Your spouse gives you a semi-playful smile.<br>\r\nYou return an evil smirk of your own and toss the contents of your cup at them.<br>\r\nPeople are staring, but the two of you shameless throw food at each other.<br>\r\nYou realize your mistake in the middle of the throwing: it's your spouse's birthday. You freeze just long enough for a glob of mashed potatoes to hit you, right in the middle of your face. <br>\r\nYou wipe it away from your eyes and reach across the table to grab their shirt sleeve, pulling them across the table.<br>\r\n\"Let's go home, darling.\" You whisper. \"You'll get your birthday present.\" You smirk, mentally congratulating yourself on that smooth save.<br>\r\nYour spouse grins and kisses you. \"I thought you'd forgotten.\"<br>\r\n\"Ye of so little faith.\" You smile innocently before reaching up with your free hand and dump your bowl of soup over their head.<br>\r\nYour spouse laughs. \"We'd better leave a big tip.\"<br>\r\n\"You're probably right.\"</span></div></div>",
             "created":1509598800,
             "id":2410335,

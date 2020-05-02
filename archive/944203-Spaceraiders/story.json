@@ -106,8 +106,6 @@
             "title":"decide to get closer"
         },
         "133":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Should they evacuate the ship or visit the anomaly?"
             ],
@@ -117,8 +115,6 @@
             "title":"are distracted by an alarm"
         },
         "15":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "warp 1",
                 "more",

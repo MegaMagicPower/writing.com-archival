@@ -16,8 +16,6 @@
             "title":"Elith Ran Away"
         },
         "11":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Elith: \"Good evening, sir. Would you please give me directions?\"",
                 "Elith quickly runs inside the tavern.",
@@ -29,8 +27,6 @@
             "title":"The Lamp Post Went Out"
         },
         "111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Elith runs for the tavern.",
                 "Elith stands and confronts the footsteps."
@@ -77,8 +73,6 @@
             "title":"Elith's captor looks for her"
         },
         "1111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Elith wakes up not knowing where she is",
                 "Elith dreams"
@@ -101,8 +95,6 @@
             "title":"Elith wakes up not knowing where she is"
         },
         "1112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The man takes Elith to the tavern and asks her why she is out all by herself.",
                 "The man walks away with a huff.",
@@ -385,8 +377,6 @@
             "title":"They escape"
         },
         "13111121122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go with him willingly.",
                 "Question him further."
@@ -409,8 +399,6 @@
             "title":"Confrontation"
         },
         "1311112112221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Leave with him.",
                 "Ask what happened to the witch."
@@ -433,8 +421,6 @@
             "title":"What happened to the witch"
         },
         "131111211222121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Wake up in the middle of the night.",
                 "Sleep through until morning."
@@ -496,8 +482,6 @@
             "title":"A Way Home"
         },
         "141":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Sleep in the cave",
                 "Sleep in the tree",
@@ -522,8 +506,6 @@
             "title":"take the unpaved path"
         },
         "1422":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Elith wakes up in an unkown house",
                 "Elith is woken by someone calling her name",

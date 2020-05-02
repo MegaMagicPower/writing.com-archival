@@ -70,8 +70,6 @@
             "title":"You're no Caruso!"
         },
         "1111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "home",
                 "go to the beach"
@@ -96,7 +94,6 @@
         "1111121":{
             "author_id":"cyam_01",
             "author_name":"RatDog",
-            "choices":null,
             "content":"<div class=\"\"><div> <span>\"Yeah, I'm kidding, but didn't I fool you there, just for a minute maybe?\" the genie\r<br>\nasks. \r<br>\n\r<br>\n\"Nope, not for a minute.\" you reply. \"So, can I have my three wishes?\" \r<br>\n\r<br>\n\"Yeah, I guess so. Go ahead and name them.\" he replies. \r<br>\n\r<br>\n\"I want to be as rich as Bill Gates, have as many beautiful women as Hugh\r<br>\nHeffner, and live with them all in a huge expensive mansion overlooking the beach\r<br>\non Maui, that should about cover it.\" you respond. \r<br>\n\r<br>\nKABOOM! in a flash you find yourself in your dream mansion surrounded by\r<br>\nbeautiful women who wait on you hand and foot, immediately bringing you drinks\r<br>\nand lavish meals. \r<br>\n\r<br>\nThese women really adore you, and will do anything you want (and I do mean\r<br>\nanything), and you graciously take them up on their offers. But you're not as\r<br>\nyoung as you used to be, so the high life soon takes it's toll on you. Within a month\r<br>\nyou are dead of a heart attack. (But hey, at least you die with a smile on your\r<br>\nface!) \r<br>\n</span></div></div>",
             "created":994482000,
             "id":62198,
@@ -115,8 +112,6 @@
             "title":"Back on the Chain Gang"
         },
         "1112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "try to break the curse",
                 "ignore it"

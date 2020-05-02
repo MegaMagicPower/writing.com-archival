@@ -1,8 +1,6 @@
 {
     "chapters":{
         "1":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Continue",
                 "Your Choice",
@@ -16,8 +14,6 @@
             "title":"The Beginning"
         },
         "11":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Continue",
                 "Your Choice",
@@ -31,8 +27,6 @@
             "title":"Waking Up To A Big Change"
         },
         "111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Continue",
                 "Your Choice",
@@ -44,8 +38,6 @@
             "title":"A Family Visit"
         },
         "1111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Continue",
                 "Your Choice",
@@ -57,8 +49,6 @@
             "title":"Visit from the Nurse"
         },
         "11111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A Visit From Friends",
                 "Your Choice"
@@ -93,8 +83,6 @@
             "title":"Yes"
         },
         "11111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Later on",
                 "Your Choice"
@@ -105,8 +93,6 @@
             "title":"Later On"
         },
         "111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Continue",
                 "Your Choice"
@@ -129,8 +115,6 @@
             "title":"Dreaming"
         },
         "11111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Continue",
                 "Your Choice"
@@ -141,8 +125,6 @@
             "title":"Waking up"
         },
         "111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Continue",
                 "Your Choice"
@@ -153,8 +135,6 @@
             "title":"Leaving the Hospital (A Few Days Later)"
         },
         "1111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Later on",
                 "Your Choice"
@@ -177,8 +157,6 @@
             "title":"Later on"
         },
         "111111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "In The Mall",
                 "Your Choice"
@@ -189,8 +167,6 @@
             "title":"The next day"
         },
         "1111111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Continue",
                 "Your Choice"
@@ -201,8 +177,6 @@
             "title":"In The Mall"
         },
         "11111111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The next day",
                 "Your Choice"
@@ -225,8 +199,6 @@
             "title":"The next day"
         },
         "1111111111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Later on",
                 "Your Choice"
@@ -237,8 +209,6 @@
             "title":"At the DMV"
         },
         "11111111111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "At Home",
                 "Your Choice"
@@ -261,8 +231,6 @@
             "title":"A Proposal"
         },
         "1111111111111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The Next Day",
                 "Your Choice"
@@ -273,8 +241,6 @@
             "title":"Calling for help"
         },
         "11111111111111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "During School",
                 "Your Choice"
@@ -285,8 +251,6 @@
             "title":"The Next Day"
         },
         "111111111111111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Continue",
                 "Your Choice"
@@ -309,8 +273,6 @@
             "title":"Fashion Advice"
         },
         "11111111111111111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Continue",
                 "Your Choice"
@@ -321,8 +283,6 @@
             "title":"Relaxing"
         },
         "111111111111111111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The Next Day",
                 "Your Choice"
@@ -357,8 +317,6 @@
             "title":"The Next Day"
         },
         "111111111111111111111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Gym Class",
                 "Your Choice"
@@ -369,8 +327,6 @@
             "title":"The Locker Room"
         },
         "1111111111111111111111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Later on",
                 "Your Choice"
@@ -381,8 +337,6 @@
             "title":"Gym Class"
         },
         "11111111111111111111111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "At Home",
                 "Your Choice"
@@ -405,8 +359,6 @@
             "title":"At Home"
         },
         "1111111111111111111111111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Later on",
                 "Your Choice"
@@ -429,8 +381,6 @@
             "title":"What If?"
         },
         "111111111111111111111111111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "At School",
                 "Your Choice"
@@ -441,8 +391,6 @@
             "title":"Midnight Snack"
         },
         "1111111111111111111111111111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "At the mall",
                 "Your Choice"
@@ -453,8 +401,6 @@
             "title":"At School"
         },
         "11111111111111111111111111111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "At Kelly's House",
                 "Your Choice"
@@ -465,8 +411,6 @@
             "title":"At the mall"
         },
         "111111111111111111111111111111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Continue",
                 "Your Choice"
@@ -489,8 +433,6 @@
             "title":"Reactions"
         },
         "11111111111111111111111111111111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Later on",
                 "Your Choice"
@@ -513,8 +455,6 @@
             "title":"Relaxing"
         },
         "1111111111111111111111111111111111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The Next Day",
                 "Your Choice"
@@ -549,8 +489,6 @@
             "title":"The dress (and accessories)"
         },
         "1111111111111111111111111111111111111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The Next Day",
                 "Your Choice"
@@ -573,8 +511,6 @@
             "title":"The Next Day"
         },
         "111111111111111111111111111111111111111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Later On (Aaron Returns from the date)",
                 "Your Choice"
@@ -585,8 +521,6 @@
             "title":"Continue"
         },
         "1111111111111111111111111111111111111111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The Next Day (At School)",
                 "Your Choice"
@@ -597,8 +531,6 @@
             "title":"Later On"
         },
         "11111111111111111111111111111111111111111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "After School (At the mall)",
                 "Your Choice"
@@ -609,8 +541,6 @@
             "title":"At School"
         },
         "111111111111111111111111111111111111111111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Aaron's Reaction",
                 "Your Choice"
@@ -621,8 +551,6 @@
             "title":"After School (At the mall)"
         },
         "1111111111111111111111111111111111111111111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Continue",
                 "Your Choice"
@@ -633,8 +561,6 @@
             "title":"Aaron's Reaction"
         },
         "11111111111111111111111111111111111111111111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The Next Day",
                 "Your Choice"
@@ -645,8 +571,6 @@
             "title":"Later on"
         },
         "111111111111111111111111111111111111111111111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "After School (At Sam's)",
                 "Your Choice"
@@ -657,8 +581,6 @@
             "title":"The Next Day"
         },
         "1111111111111111111111111111111111111111111111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "At Sam's",
                 "Your Choice"
@@ -669,8 +591,6 @@
             "title":"After School"
         },
         "11111111111111111111111111111111111111111111111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Back Home (Later On)",
                 "Your Choice"
@@ -681,8 +601,6 @@
             "title":"At Sam's"
         },
         "111111111111111111111111111111111111111111111111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Continue",
                 "Your Choice"
@@ -693,8 +611,6 @@
             "title":"Back Home (Later On)"
         },
         "1111111111111111111111111111111111111111111111111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Continue",
                 "Your Choice"
@@ -705,8 +621,6 @@
             "title":"How Things Change"
         },
         "11111111111111111111111111111111111111111111111111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "At Sam's",
                 "Your Choice"
@@ -717,8 +631,6 @@
             "title":"Talking With Dad"
         },
         "111111111111111111111111111111111111111111111111111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The Sleepover",
                 "Your Choice"
@@ -729,8 +641,6 @@
             "title":"At Sam's"
         },
         "1111111111111111111111111111111111111111111111111111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The Next Day",
                 "Your Choice"
@@ -741,8 +651,6 @@
             "title":"The Sleepover"
         },
         "11111111111111111111111111111111111111111111111111111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Back Home",
                 "Your Choice"
@@ -753,8 +661,6 @@
             "title":"The Next Day"
         },
         "111111111111111111111111111111111111111111111111111111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Later On (Talking with Dad & Aaron)",
                 "Your Choice"
@@ -765,8 +671,6 @@
             "title":"Back Home"
         },
         "1111111111111111111111111111111111111111111111111111111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "After School (The Next Day)",
                 "Your Choice"
@@ -777,8 +681,6 @@
             "title":"Later On (Talking with Dad & Aaron)"
         },
         "11111111111111111111111111111111111111111111111111111111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 " The Next Day (Spending Time With Melissa)",
                 "Your Choice"
@@ -789,8 +691,6 @@
             "title":"After School (The Next Day)"
         },
         "111111111111111111111111111111111111111111111111111111111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Continue",
                 "Reader's Choice"
@@ -801,8 +701,6 @@
             "title":"The Next Day (After School)"
         },
         "1111111111111111111111111111111111111111111111111111111111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Continue",
                 "Reader's Choice"
@@ -813,8 +711,6 @@
             "title":"At Melissa's"
         },
         "11111111111111111111111111111111111111111111111111111111111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Continue",
                 "Reader's Choice"
@@ -825,8 +721,6 @@
             "title":"Talking"
         },
         "111111111111111111111111111111111111111111111111111111111111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The Weekend",
                 "Reader's Choice"
@@ -837,8 +731,6 @@
             "title":"The Rest of the Evening"
         },
         "1111111111111111111111111111111111111111111111111111111111111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Continue",
                 "Reader's Choice"
@@ -849,8 +741,6 @@
             "title":"The Weekend"
         },
         "11111111111111111111111111111111111111111111111111111111111111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Continue",
                 "Reader's Choice"
@@ -861,8 +751,6 @@
             "title":"Continue"
         },
         "111111111111111111111111111111111111111111111111111111111111111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Continue",
                 "Reader's Choice"
@@ -873,8 +761,6 @@
             "title":"Later On"
         },
         "1111111111111111111111111111111111111111111111111111111111111111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The Next Morning",
                 "Reader's Choice"
@@ -885,8 +771,6 @@
             "title":"Continue"
         },
         "11111111111111111111111111111111111111111111111111111111111111111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Continue",
                 "Reader's Choice"
@@ -897,8 +781,6 @@
             "title":"The Next Morning"
         },
         "111111111111111111111111111111111111111111111111111111111111111111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Continue",
                 "Reader's Choice"
@@ -1236,8 +1118,6 @@
             "title":"That night..."
         },
         "1111111111111111111111111112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Continue"
             ],
@@ -1392,8 +1272,6 @@
             "title":"Girl Activities 101"
         },
         "11111111111112111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Continue",
                 "Your Choice"
@@ -1451,8 +1329,6 @@
             "title":"Continue "
         },
         "11111111111112111111111112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Continue",
                 "Your Choice"
@@ -1753,8 +1629,6 @@
             "title":"Little Brother Dear, Are you staring at my Butt?"
         },
         "11122111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "\"What're you going to do about dating?\"",
                 "\"How will you act like a sister to Aaron?\""
@@ -1777,8 +1651,6 @@
             "title":"\"What're you going to do about dating?\""
         },
         "1112211111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Got everything himself and got you tomboy stuff everything is black or dark?",
                 "Ask for help? she gets you girly/tomboy stuff "
@@ -1789,8 +1661,6 @@
             "title":"Later that night..."
         },
         "11122111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go home to give you the clothes?",
                 "bought you some shoes?"
@@ -1801,8 +1671,6 @@
             "title":"Got everything himself and got you tomboy stuff..."
         },
         "111221111112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Yes?",
                 "No, so your dad put all the clothing and shoes away for you?"
@@ -1825,8 +1693,6 @@
             "title":"\"How will you act like a sister to Aaron?\""
         },
         "1112211122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Talk to your brother?",
                 "Just get changed and go to sleep?"
@@ -1949,8 +1815,6 @@
             "title":"I was alone."
         },
         "11332":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Questions and Answers",
                 "Reader's Choice"
@@ -2180,8 +2044,6 @@
             "title":"A few week later (you've almost got used to..."
         },
         "14":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "\"Brian\" wakes up",
                 "My new parents come to visit",
@@ -2221,8 +2083,6 @@
             "title":"I tell the doctor the truth"
         },
         "144":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Allison wakes up",
                 "I tell my family the truth",

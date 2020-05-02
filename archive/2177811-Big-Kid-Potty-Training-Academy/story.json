@@ -3766,8 +3766,6 @@
             "title":"A Pull-Up"
         },
         "112322413222233232":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A pull up",
                 "A baby diaper "
@@ -3778,17 +3776,12 @@
             "title":"Changed himself"
         },
         "1123224132222332321":{
-            "author_id":null,
-            "author_name":null,
-            "choices":null,
             "content":"<div class=\"\"><div> <span>The pull up is a little smaller but has the same blue trim and character designs as the one he just tossed in the garbage. Martin slips the diaper up his legs and puts his costume back on. He leaves the bathroom as if noting happened. He admits to himself that he even likes the way the smaller pull up feels. </span></div></div>",
             "created":1558414800,
             "id":2662200,
             "title":"A pull up"
         },
         "1123224132222332322":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A little boy walks in ",
                 "His mommy walks in"
@@ -3799,8 +3792,6 @@
             "title":"A baby diaper "
         },
         "11232241322223323221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A new pull up",
                 "A diaper like Martin"
@@ -3811,9 +3802,6 @@
             "title":"A little boy walks in "
         },
         "112322413222233232212":{
-            "author_id":null,
-            "author_name":null,
-            "choices":null,
             "content":"<div class=\"\"><div> <span>\u201cA diaper like yours,\u201d the boy says. \u201c I like diapers better.\u201d<br>\r\n<br>\r\nThe boy lies down and Martin gets to work on untaping the boys pull up. Once the wet diaper was clear he began wiping the boys front side the way he remembered he liked it. The boy began to giggle during the wiping and squirmed. <br>\r\n<br>\r\nMartin felt very grown up as he reached for a new diaper and began to unfold it. He slipped in under the boys bottom and taped the diaper around his hips. Satisfied that the little boy was safely diapered Martin helped the boy up and they both put their pants on over their new diapers. <br>\r\n<br>\r\n\u201cMy name is Joey\u201d said the boy. \u201cI\u2019m 3\u201d<br>\r\n<br>\r\nMartin introduces himself and his age. </span></div></div>",
             "created":1558414800,
             "id":2662205,
@@ -5888,6 +5876,20 @@
             "id":2801033,
             "title":"Not really, it's still early on, he has a l..."
         },
+        "112333221211":{
+            "author_id":"chrisern",
+            "author_name":"ShadowBlade",
+            "choices":[
+                "...it's potty dance time!\" (Song and dance, but no physical reward)",
+                "...a sticker on the chart!\" ",
+                "...a toy from the potty bucket!\"",
+                "...a chocolate coin/chips/M&M/other small candy!\""
+            ],
+            "content":"<div class=\"\"><div> <span>Dad lifts Troy off the ground and dashes to the bathroom.<br>\r\n<br>\r\n\"Troy, poo goes in the potty, not in your Pull-Up!\" Dad reminds Troy, before setting his son down on the toilet, pulling down his Pull-Up.<br>\r\n<br>\r\nTroy claps as he sits on the potty, the poo coming out. \"I did it!\"<br>\r\n<br>\r\nDad smiles. \"Yeah. You went potty. That means...</span></div></div>",
+            "created":1588309200,
+            "id":2828025,
+            "title":"Dad quickly scoops Troy up and takes him to the..."
+        },
         "112333221213":{
             "author_id":"chrisern",
             "author_name":"ShadowBlade",
@@ -6055,6 +6057,30 @@
             "created":1587445200,
             "id":2822113,
             "title":"Mick to change Troy"
+        },
+        "11233322124121222":{
+            "author_id":"walkingdead1",
+            "author_name":"Walkingdead1",
+            "choices":[
+                "Wear in ",
+                "Decline it "
+            ],
+            "content":"<div class=\"\"><div> <span>As mick wipes troys diaper area he asks his brother if he mad about changing him.<br>\r\n<br>\r\n\u201cNo,\u201d Mick says. \u201cYour lucky you just get to wear a pull up and pee when you want though.\u201d<br>\r\n<br>\r\nMick finishes the diaper change and Troy now in a dry pull up goes and gets Mick a blue buzz light year pull up from his stash. Does Mick </span></div></div>",
+            "created":1588222800,
+            "id":2827525,
+            "title":"Be caring and ask what\u2019s wrong "
+        },
+        "112333221241212221":{
+            "author_id":"walkingdead1",
+            "author_name":"Walkingdead1",
+            "choices":[
+                "The swimming pool",
+                "The mall "
+            ],
+            "content":"<div class=\"\"><div> <span>Mick looks intrigued by the offer and takes it although he asks Troy to turn around as he puts it on. Troy does take a peek and sees the blue pull up sliding up Micks butt. Once he is done she shows Troy and then replaces his pants. <br>\r\n<br>\r\nTheir mom enters a few minutes later and sees Troy changed and she says they are going to...</span></div></div>",
+            "created":1588222800,
+            "id":2827527,
+            "title":"Wear in "
         },
         "112333221242":{
             "author_id":"chrisern",
@@ -10440,8 +10466,6 @@
             "title":"It's a thing he wears because he needs prot..."
         },
         "11432213311123":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Cereal",
                 "Pancakes "
@@ -19723,7 +19747,7 @@
         "description":"<td align=\"left\" class=\"norm\">A child has been newly enrolled in the Big Kid Potty Training Academy. Follow their journey from a diaper wearing baby, through pre-training, into actual daytime training, dealing with using the potty while out and about or at daycare, and then graduating into underwear! Also follow kids dealing with remedial training after regression, and Night School for bedwetters!</td>",
         "id":2177811,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1588186260,
+        "modified":1588315200,
         "pretty_title":"Big Kid Potty Training Academy"
     }
 }

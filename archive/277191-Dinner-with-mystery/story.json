@@ -1,8 +1,6 @@
 {
     "chapters":{
         "1":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Rip the note off- some stupid jokester put it there",
                 "Pick up the note and examine it",
@@ -14,8 +12,6 @@
             "title":"Shock"
         },
         "11":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "What happened"
             ],
@@ -25,8 +21,6 @@
             "title":"Lisa"
         },
         "12":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "What happened?"
             ],
@@ -36,8 +30,6 @@
             "title":"Lisa"
         },
         "121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Immediately drive over to Mike's place",
                 "Stay untill you are calm enough to drive."
@@ -48,8 +40,6 @@
             "title":"Mystery"
         },
         "1211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Follow the car",
                 "Call the police",
@@ -61,8 +51,6 @@
             "title":"Immediately drive over to Mike's place"
         },
         "1212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "start to cry",
                 "start finding it out now"
@@ -73,8 +61,6 @@
             "title":"find out what happend"
         },
         "13":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "What happened?"
             ],

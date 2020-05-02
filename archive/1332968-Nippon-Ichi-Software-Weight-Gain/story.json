@@ -31,8 +31,6 @@
             "title":"Disgaea"
         },
         "122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She keeps eating until it's all gone",
                 "Someone comes in",
@@ -44,8 +42,6 @@
             "title":"Secret Agent Flonne"
         },
         "1221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Decides to go to the kitchen, looking for more food",
                 "Continues on her mission",
@@ -773,8 +769,6 @@
             "title":"Other games..."
         },
         "155":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Mana Khemia 1",
                 "Mana Khemia 2",

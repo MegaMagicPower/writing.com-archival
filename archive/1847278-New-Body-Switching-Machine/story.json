@@ -1699,8 +1699,6 @@
             "title":"You & Mom"
         },
         "1121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Around the Neighborhood",
                 "Around the Mall",
@@ -1712,8 +1710,6 @@
             "title":"Continue working on the machine"
         },
         "11211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Trace footsteps",
                 "Use the machine"
@@ -1900,8 +1896,6 @@
             "title":"Go do mom things"
         },
         "11221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Erika",
                 "Kyle"
@@ -1912,8 +1906,6 @@
             "title":"It's been destroyed!"
         },
         "112211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Your POV",
                 "Mom's POV"
@@ -1924,8 +1916,6 @@
             "title":"Erika"
         },
         "1122111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She agrees to shop with you",
                 "She thinks you're joking"
@@ -1948,8 +1938,6 @@
             "title":"She agrees to shop with you"
         },
         "11221112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Time for bed!",
                 "Sunday Morning"
@@ -2032,8 +2020,6 @@
             "title":"At least make something out of this body"
         },
         "112211122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Run errands",
                 "Work on the machine"
@@ -2116,8 +2102,6 @@
             "title":"Dad is standing there"
         },
         "11223":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Ask to speak to David alone",
                 "Invite Jessica over for dinner"
@@ -2128,8 +2112,6 @@
             "title":"other"
         },
         "112232":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Fast forward to Jessica arriving",
                 "Preparing dinner"
@@ -2140,8 +2122,6 @@
             "title":"Invite Jessica over for dinner"
         },
         "1122321":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Teacher",
                 "Student"
@@ -2152,8 +2132,6 @@
             "title":"Fast forward to Jessica arriving"
         },
         "11223211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Swap with Ms. Longseth",
                 "Swap with Mr, Jamison"
@@ -2203,8 +2181,6 @@
             "title":"Punked"
         },
         "11311":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "clothes shopping?",
                 "hair and beauty treatment?"
@@ -2215,8 +2191,6 @@
             "title":"Customize Erika's look"
         },
         "113111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Your sister standing there in your body?",
                 "Your brother standing there?"
@@ -2397,7 +2371,6 @@
         "113122112112":{
             "author_id":"mid-knight",
             "author_name":"Divine Bandit",
-            "choices":null,
             "content":"<div class=\"\"><div> <span>As you go to pull the body from the pod, suddenly the machine fires up again. You go to get away, but it's too late. You're sucked into the other pod, and find yourself falling down from the activation button, onto the bench, and you bounce again onto the concrete floor. But it all seemed so much bigger! What was going on? Who activated the machine? Who... Stood up in your sister's body?<br>\r\n<br>\r\n\"You actually came that close to beating me, kid. I'm impressed. If you had noticed when I tossed that mouse in the other pod, you would have won.\" You wrench your body, and see it's true. You're a tiny quadruped, furry rodent. \"Well, now, kid. That's it for you. You're going to die in that pest. There's no magic spell that will get your body back. There's no magic machine that you could trick me into getting into. There's just a rat in my house, and my boot.\"<br>\r\n<br>\r\nYour sister's boot slams on top of you, and for just a moment, you can feel your body exploding in every which direction, before everything goes black.</span></div></div>",
             "created":1330232400,
             "id":1284389,
@@ -2538,8 +2511,6 @@
             "title":"a stray"
         },
         "114112111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The stray activates the machine ",
                 "your brother comes back in time"
@@ -3059,8 +3030,6 @@
             "title":"Videogames"
         },
         "115222112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Mike in his body.",
                 "Melissa, Mike's girlfriend"
@@ -3071,8 +3040,6 @@
             "title":"Remain in Mike's body"
         },
         "1152221122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "the device is gone",
                 "the two of you have swapped bodies"
@@ -3083,8 +3050,6 @@
             "title":"Melissa, Mike's girlfriend"
         },
         "11522211221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "snap out of it",
                 "think nothing is wrong"
@@ -3095,8 +3060,6 @@
             "title":"the device is gone"
         },
         "115222112212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Someone walks in",
                 "you snap out of it"
@@ -3107,8 +3070,6 @@
             "title":"think nothing is wrong"
         },
         "1152221122122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "snap out",
                 "Something else"
@@ -3143,8 +3104,6 @@
             "title":"Waking Up Naturally"
         },
         "1152221211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Mike's girlfriend",
                 "Mike in your body"
@@ -3553,7 +3512,6 @@
         "1152321121111221122":{
             "author_id":"mid-knight",
             "author_name":"Divine Bandit",
-            "choices":null,
             "content":"<div class=\"\"><div> <span>You attempt to stop Grand Daddy a few times in your years as brother and sister. Over time, your way of thinking changes, and you find yourself as a willing participant in his scheme. You feel guilty that your family and countless others were sent to jail in place of the true criminals, but Grand Daddy promises to pardon them when the plan is complete. You continue to tweak the body swapping machine, perfecting portable technology and finally enabling unrestricted, long range transfer. <br>\r\n<br>\r\nGrand Daddy takes over the body of the President, and soon you replace every single member of government with a goon loyal to Grand Daddy. With the entire government under his command, there's nothing that can prevent the Pimpadent from overhauling the law and doing whatever he pleases. <br>\r\n<br>\r\nYou follow Grand Daddy for the entire journey, becoming the closest person in the world to him and continue to advance your technology along the way. When the rest of the world starts to butt in to the United States of Grand Daddy's affairs, any country who opposed you had their governments taken over by Pimp Agents. <br>\r\n<br>\r\nWithin ten years, the world has been unified under the rule of Grand Daddy.<br>\r\n<br>\r\nYou helped a mere pimp rise up the ranks, and become the unstoppable, King of the Earth. <br>\r\n<br>\r\n<br>\r\nEpilogue<br>\r\n<br>\r\nYou tried to switch bodies with Emperor Grand Daddy. You were caught immediately, and killed. The only thing you got out of this was a shallow grave.</span></div></div>",
             "created":1345957200,
             "id":1413701,
@@ -5893,8 +5851,6 @@
             "title":"Aunt Kelly"
         },
         "1532":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Yes, the swap was a succes.",
                 "No, something went wrong."
@@ -5905,8 +5861,6 @@
             "title":"Your sister"
         },
         "15321":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "go upstairs and pretend to be aunt Kelly.",
                 "go home and explore her new digs. "
@@ -6331,8 +6285,6 @@
             "title":"Stay this way"
         },
         "1551112121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Explore your new body.",
                 "Go busy with one of your inventions.",

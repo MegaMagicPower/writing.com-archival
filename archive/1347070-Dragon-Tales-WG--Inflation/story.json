@@ -44,8 +44,6 @@
             "title":"Huh...?"
         },
         "112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Alone",
                 "With someone"
@@ -56,8 +54,6 @@
             "title":"Cassie alone?"
         },
         "1121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Air",
                 "Water",
@@ -573,8 +569,6 @@
             "title":"Other"
         },
         "141":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Tried it",
                 "Puts it away when Emmy shows up",
@@ -586,8 +580,6 @@
             "title":"The note"
         },
         "1411":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Ord showed up",
                 "Her belly was growing"
@@ -830,8 +822,6 @@
             "title":"You "
         },
         "143311122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Magic",
                 "Something else"

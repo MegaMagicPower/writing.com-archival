@@ -43,8 +43,6 @@
             "title":"Tea"
         },
         "1112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "...in the end you end up losing",
                 "...in the end you end up winning",
@@ -2606,7 +2604,6 @@
         "145332121211121121112":{
             "author_id":"brevination",
             "author_name":"Brevination",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Story ended to redo last chapter</span></div></span></div>",
             "created":1519966800,
             "id":2459858,
@@ -2615,7 +2612,6 @@
         "145332121211122":{
             "author_id":"brevination",
             "author_name":"Brevination",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>To to an error in the previous chapter this chapter must be redone</span></div></span></div>",
             "created":1519880400,
             "id":2459511,
@@ -2887,7 +2883,6 @@
         "1453321222":{
             "author_id":"brevination",
             "author_name":"Brevination",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Due to a plot mix up based on timing where the show is concerned this turn will be redone good bye</span></div></span></div>",
             "created":1519707600,
             "id":2458228,

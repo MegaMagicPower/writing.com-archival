@@ -304,8 +304,6 @@
             "title":"I'm a girl"
         },
         "121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "teaches Highschool or College",
                 "teaches elementary or middle school",
@@ -317,8 +315,6 @@
             "title":"Teacher"
         },
         "1211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 " Highschool ",
                 "College",
@@ -330,8 +326,6 @@
             "title":"teaches Highschool or College"
         },
         "12111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Private all girls school",
                 "Coed public"
@@ -486,8 +480,6 @@
             "title":"Female"
         },
         "1212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "elementary",
                 "middle school",
@@ -499,8 +491,6 @@
             "title":"teaches elementary or middle school"
         },
         "12122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Private all girls school",
                 "Coed public"

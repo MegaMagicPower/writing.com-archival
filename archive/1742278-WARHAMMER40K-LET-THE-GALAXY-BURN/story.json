@@ -27,8 +27,6 @@
             "title":"Imperium of Mankind"
         },
         "111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "exiting the chimera"
             ],
@@ -38,8 +36,6 @@
             "title":"welcome to the guard"
         },
         "1111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "prepare for close combat",
                 "retreat"
@@ -50,8 +46,6 @@
             "title":"exiting the chimera"
         },
         "11111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "go to the hill with the heavy bolter.",
                 "continue to advance forward"
@@ -62,9 +56,6 @@
             "title":"close combat"
         },
         "11112":{
-            "author_id":null,
-            "author_name":null,
-            "choices":null,
             "content":"<div class=\"\"><div> <span>you turn on your heels and run,pushing your brothers in arms out of the way,in your desprate attempt to save your own life.you dont get far. a lasround rips through your back after about 20 feet.you fall to the ground face first with a hole bigger then your fist clear through your lung.as you despratly gasp for air you manage to roll unto your back and raise your gun at whatever just shot you.you see a man dressed in a blue suit pointing a laspistol at you.\"no cowards,fight to your last breath men\" he says then,he blows your head clear off your body with the pull of a triger.</span></div></div>",
             "created":1321506000,
             "id":1224294,

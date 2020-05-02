@@ -645,8 +645,6 @@
             "title":"Pumps"
         },
         "121121112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "go to the mall",
                 "or have me suprise you, when your blind folded and have ear plugs in."
@@ -657,8 +655,6 @@
             "title":"Sandals"
         },
         "1211211122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "the museum of females",
                 "the surgent, to mace sonic/ sage purmently a female."
@@ -669,8 +665,6 @@
             "title":"or have me suprise you, when your blind folded ..."
         },
         "12112111222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "amy took the blindfold off.",
                 "Amy left with sage still blindfolded"
@@ -681,8 +675,6 @@
             "title":"the surgent, to mace sonic/ sage purmently a fe..."
         },
         "121121112221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "supprise.",
                 "congrates, it's a girl."
@@ -693,8 +685,6 @@
             "title":"amy took the blindfold off."
         },
         "1211211122212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "continue",
                 "finish the story"
@@ -753,9 +743,6 @@
             "title":"Tails, with an older-looking body, and Fiona Fo..."
         },
         "12112111222122":{
-            "author_id":null,
-            "author_name":null,
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>This is the end of the story.</span></div></span></div>",
             "created":1334379600,
             "id":1315172,
@@ -939,6 +926,18 @@
             "id":2810730,
             "title":"The vanity mirror (for hair and makeup) "
         },
+        "1512112":{
+            "author_id":"corndogs33",
+            "author_name":"Megamax",
+            "choices":[
+                "Sonic runs",
+                "Sonic freezes "
+            ],
+            "content":"<div class=\"\"><div> <span>Sonic just sat in the chair with arms folded under the pink cape <br>\r\n<br>\r\n\u201cOk now that we\u2019re finished here let\u2019s get you dressed\u201d the woman said as she pulled the cape off of Sonic <br>\r\n<br>\r\nSonic was then lead to the dressing station where the two patrons got to work on his body. They first wrapped a corset around his waist and tightened it <br>\r\n<br>\r\n\u201cOW OW OW\u201d Sonic yelled as the pain of the corset compressing his body became too much <br>\r\n<br>\r\n\u201cOh hush you big baby you are going to look beautiful\u201d the woman said as she grabbed a pair of fake breasts<br>\r\n<br>\r\n\u201cOH NO THATS NOT GONNA HAPPEN\u201d Sonic yelled as he slowly backed away <br>\r\n<br>\r\nWhat happens next?</span></div></div>",
+            "created":1588222800,
+            "id":2827949,
+            "title":"Sonic just pouts "
+        },
         "152":{
             "author_id":"rbm5",
             "author_name":"RBM5",
@@ -1088,8 +1087,6 @@
             "title":"Female"
         },
         "15533":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Yes",
                 "No (other)"
@@ -1216,7 +1213,7 @@
         "description":"<td align=\"left\" class=\"norm\">All of sonic's friends have been so bored that sonic hasn't been around them much, they all agreed that trying to make sonic female might be the only way of getting sonic to spend more time with then, so they disided that if 1 person fails, someone else will try. Watch out sonic!!!</td>",
         "id":1860511,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1585636980,
+        "modified":1588306320,
         "pretty_title":"Friends trying to make sonic female"
     }
 }

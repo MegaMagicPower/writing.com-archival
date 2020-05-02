@@ -135,8 +135,6 @@
             "title":"You go into the village for some clothe"
         },
         "1211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Yes,i think i can do it!",
                 "No,i have things to do. (like what?)"
@@ -147,8 +145,6 @@
             "title":"follow team 7"
         },
         "12111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Sasuke",
                 "Sakura"

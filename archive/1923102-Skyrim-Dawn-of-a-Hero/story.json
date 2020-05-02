@@ -67,8 +67,6 @@
             "title":"Going to whiterun to sell goods"
         },
         "13":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "In a cave.",
                 "A Dwemer Ruin.",
@@ -82,8 +80,6 @@
             "title":"[Notify for Name]"
         },
         "135":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Black Marsh.",
                 "Spying on Khajiit and Thalmor in Elsweyr.",
@@ -95,8 +91,6 @@
             "title":"Somewhere else."
         },
         "1352":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Someone approaches her.",
                 "Something happens.",
@@ -120,8 +114,6 @@
             "title":"Something happens."
         },
         "135221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "It connects and he wins the fight.",
                 "He misses and loses."
@@ -144,8 +136,6 @@
             "title":"It connects and he wins the fight."
         },
         "13522111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "...sleeping on a bed roll.",
                 "...watching her from a far corner of the room."
@@ -168,8 +158,6 @@
             "title":"...watching her from a far corner of the room."
         },
         "1352211122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He explains.",
                 "Other."
@@ -192,8 +180,6 @@
             "title":"He explains."
         },
         "135221112211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "\"Actually, yes.\"",
                 "\"No.\""
@@ -216,8 +202,6 @@
             "title":"\"No.\""
         },
         "13522111221122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Option 1.",
                 "Option 2."
@@ -240,8 +224,6 @@
             "title":"Option 1."
         },
         "1352211122112211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The storm lifts after a while and they head out.",
                 "Dadeli has a few questions."
@@ -264,8 +246,6 @@
             "title":"The storm lifts after a while and they head out."
         },
         "135221112211221111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "In a Thalmor prison.",
                 "Other."
@@ -288,8 +268,6 @@
             "title":"In a Thalmor prison."
         },
         "13522111221122111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Dadeli comments.",
                 "Something happens."
@@ -312,8 +290,6 @@
             "title":"Dadeli comments."
         },
         "1352211122112211111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Dadeli wants to ask her something.",
                 "The next morning."
@@ -336,8 +312,6 @@
             "title":"Dadeli wants to ask her something."
         },
         "135221112211221111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He would like to visit the College of Winterhold eventually.",
                 "He's not interested."
@@ -360,8 +334,6 @@
             "title":"He would like to visit the College of Winterhol..."
         },
         "13522111221122111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Dadeli gives his order and he subsequently binges on alcohol.",
                 "Other."
@@ -384,8 +356,6 @@
             "title":"Dadeli gives his order and he subsequently bing..."
         },
         "1352211122112211111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Dadeli wakes up.",
                 "Other."
@@ -408,8 +378,6 @@
             "title":"Dadeli wakes up."
         },
         "135221112211221111111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Thalmor in the inn's main hall.",
                 "The road to Chasemoor."
@@ -432,8 +400,6 @@
             "title":"Thalmor in the inn's main hall."
         },
         "13522111221122111111111111111112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He attacks her.",
                 "Something happens."
@@ -456,8 +422,6 @@
             "title":"He attacks her."
         },
         "1352211122112211111111111111111211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Claire's POV",
                 "Dadeli's POV"
@@ -468,8 +432,6 @@
             "title":"They arrive in Torval"
         },
         "13522111221122111111111111111112111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Dadeli's POV.",
                 "Other."
@@ -504,8 +466,6 @@
             "title":"Dadeli warns Claire"
         },
         "13522111221122111111111111111112111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Into Cyrodiil.",
                 "Something happens."
@@ -540,8 +500,6 @@
             "title":"Continue to Skyrim"
         },
         "13522111221122111111111111111112111111121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He strikes her.",
                 "He misses."
@@ -564,8 +522,6 @@
             "title":"He strikes her."
         },
         "1352211122112211111111111111111211111112111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Dadeli takes a College tour.",
                 "Training first."
@@ -600,8 +556,6 @@
             "title":"...sleep."
         },
         "1352211122112211111111111111111211111112111221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Claire tracks down Dadeli.",
                 "Something else."
@@ -636,8 +590,6 @@
             "title":"Dadeli snaps out of it"
         },
         "1352211122112211111111111111111211111112111221121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Dadeli has an idea.",
                 "He falls asleep on her shoulder."
@@ -660,8 +612,6 @@
             "title":"He falls asleep on her shoulder."
         },
         "135221112211221111111111111111121111111211122112122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Solitude.",
                 "Interuption."
@@ -696,8 +646,6 @@
             "title":"Become a Vampire Lord"
         },
         "135221112211221111111111111111121111111211122112122212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "It connects, and Dadeli falls unconcsious.",
                 "He catches her leg, and she falls to the ground."
@@ -732,8 +680,6 @@
             "title":"He catches her leg, and she falls to the ground."
         },
         "13522111221122111111111111111112111111121112211212221222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He wises up.",
                 "He attacks her again."
@@ -756,8 +702,6 @@
             "title":"He attacks her again."
         },
         "1352211122112211111111111111111211111112111221121222122222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He drags her into the cave where he met Serana.",
                 "He still thirsts."
@@ -792,8 +736,6 @@
             "title":"Claire wakes up"
         },
         "1352211122112211111111111111111211111112111221121222122222112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Dadeli runs off.",
                 "He tries to reason with her."
@@ -816,8 +758,6 @@
             "title":"He tries to reason with her."
         },
         "135221112211221111111111111111121111111211122112122212222211222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He runs off.",
                 "He still tries to reason with her."
@@ -840,8 +780,6 @@
             "title":"He still tries to reason with her."
         },
         "13522111221122111111111111111112111111121112211212221222221122221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Dadeli wakes up.",
                 "Other"
@@ -864,8 +802,6 @@
             "title":"Dadeli wakes up."
         },
         "1352211122112211111111111111111211111112111221121222122222112222112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Keep torturing him.",
                 "Let him go."
@@ -888,8 +824,6 @@
             "title":"Let him go."
         },
         "135221112211221111111111111111121111111211122112122212222211222211222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Dadeli lays there, in a crumpled heap.",
                 "He tries to converse with the woman."
@@ -912,8 +846,6 @@
             "title":"Dadeli lays there, in a crumpled heap."
         },
         "13522111221122111111111111111112111111121112211212221222221122221122211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Dadeli calls to her.",
                 "He passes out."
@@ -936,8 +868,6 @@
             "title":"Dadeli calls to her."
         },
         "1352211122112211111111111111111211111112111221121222122222112222112221112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Option 1",
                 "Option 2"
@@ -960,8 +890,6 @@
             "title":"Option 1"
         },
         "135221112211221111111111111111121111111211122112122212222211222211222111211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Dadeli turns back.",
                 "He goes off somewhere else in search of food."
@@ -984,8 +912,6 @@
             "title":"Dadeli turns back."
         },
         "13522111221122111111111111111112111111121112211212221222221122221122211121112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He drinks it.",
                 "He puts it back in his knap-sack."
@@ -1020,8 +946,6 @@
             "title":"By the water"
         },
         "13522111221122111111111111111112111111121112211212221222221122221122211121112212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He goes to bury her.",
                 "Other."
@@ -1044,8 +968,6 @@
             "title":"He goes to bury her."
         },
         "1352211122112211111111111111111211111112111221121222122222112222112221112111221211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Dadeli forgives her, and offers her the potion.",
                 "Dadeli does not forgive her."
@@ -1068,8 +990,6 @@
             "title":"Dadeli forgives her, and offers her the potion."
         },
         "135221112211221111111111111111121111111211122112122212222211222211222111211122121111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She's not a vampire anymore.",
                 "It turned out to be a poison."
@@ -1104,8 +1024,6 @@
             "title":"Lock himself away"
         },
         "1352211122112211111111111111111211111112111221121222122222112222112221112111221211112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Dadeli POV/dream",
                 "Inside Claire's mind."
@@ -1128,8 +1046,6 @@
             "title":"Dadeli POV/dream"
         },
         "13522111221122111111111111111112111111121112211212221222221122221122211121112212111122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She notices Dadeli next to her.",
                 "There's some commotion amongst the bandits."
@@ -1152,8 +1068,6 @@
             "title":"She notices Dadeli next to her."
         },
         "1352211122112211111111111111111211111112111221121222122222112222112221112111221211112211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She breaks free.",
                 "The elves show up to collect her and Dadeli."
@@ -1176,8 +1090,6 @@
             "title":"She breaks free."
         },
         "135221112211221111111111111111121111111211122112122212222211222211222111211122121111221112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "More fighting.",
                 "Somebody shows up."
@@ -1200,8 +1112,6 @@
             "title":"More fighting."
         },
         "13522111221122111111111111111112111111121112211212221222221122221122211121112212111122111212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Dadeli heads upstairs.",
                 "Someone barges into Proudspire Manor."
@@ -1224,8 +1134,6 @@
             "title":"Dadeli heads upstairs."
         },
         "1352211122112211111111111111111211111112111221121222122222112222112221112111221211112211121212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He can uderstand her.",
                 "Too delirious."
@@ -1248,8 +1156,6 @@
             "title":"He can uderstand her."
         },
         "135221112211221111111111111111121111111211122112122212222211222211222111211122121111221112121211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Courier",
                 "Thalmor/other."
@@ -1260,8 +1166,6 @@
             "title":"Claire explains"
         },
         "1352211122112211111111111111111211111112111221121222122222112222112221112111221211112211121212111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He consumes the potion.",
                 "He tries to bite Claire."
@@ -1272,8 +1176,6 @@
             "title":"Courier"
         },
         "1353":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "High Rock.",
                 "Hammerfell.",
@@ -1285,8 +1187,6 @@
             "title":"Somewhere else."
         },
         "13531":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Daggerfall",
                 "Stay with the Thalmor Commander."
@@ -1297,8 +1197,6 @@
             "title":"High Rock."
         },
         "135311":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Split into three groups of two.",
                 "Split into two groups of three."
@@ -1309,8 +1207,6 @@
             "title":"Daggerfall"
         },
         "13533":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Yokuda.",
                 "Other."
@@ -1321,8 +1217,6 @@
             "title":"Somewhere else,"
         },
         "135332":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Thrassian Reef.",
                 "Elsewhere."
@@ -1333,8 +1227,6 @@
             "title":"Other."
         },
         "1353322":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Morrowind.",
                 "Somewhere else."
@@ -1345,8 +1237,6 @@
             "title":"Elsewhere."
         },
         "13533222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Valenwood.",
                 "Other."
@@ -1357,8 +1247,6 @@
             "title":"Somewhere else."
         },
         "135332222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Summerset Isle",
                 "Other."
@@ -1369,8 +1257,6 @@
             "title":"Other."
         },
         "1353322222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Pyandonea.",
                 "Other."
@@ -1381,8 +1267,6 @@
             "title":"Other."
         },
         "13533222222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Atmora",
                 "Akavir"
@@ -1421,8 +1305,6 @@
             "title":"In a hangover"
         },
         "1411":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He looks up to see who it is.",
                 "He pretends to be asleep.",
@@ -1446,8 +1328,6 @@
             "title":"He looks up to see who it is."
         },
         "141111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Yes.",
                 "No."
@@ -1470,8 +1350,6 @@
             "title":"No."
         },
         "14111121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Yes.",
                 "Still, no."
@@ -1494,8 +1372,6 @@
             "title":"Still, no."
         },
         "1411112121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He bring his head out of the water to get a look at the woman.",
                 "Other."
@@ -1518,8 +1394,6 @@
             "title":"He bring his head out of the water to get a loo..."
         },
         "141111212111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Dadeli says something to her.",
                 "Something happens."
@@ -1542,8 +1416,6 @@
             "title":"Dadeli says something to her."
         },
         "14111121211111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She tells him.",
                 "\"Follow me.\""
@@ -1566,8 +1438,6 @@
             "title":"\"Follow me.\""
         },
         "1411112121111122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Dadeli changes back, into a crumpled heap on the ground.",
                 "He's even more pissed off."
@@ -1590,8 +1460,6 @@
             "title":"He's even more pissed off."
         },
         "141111212111112222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He's knocked out.",
                 "He gets back up and charges again."
@@ -1614,8 +1482,6 @@
             "title":"He's knocked out."
         },
         "14111121211111222211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He gets up, shrugs off the damage and goes to find Claire.",
                 "He goes off on his own path."
@@ -1638,8 +1504,6 @@
             "title":"He gets up, shrugs off the damage and goes to f..."
         },
         "1411112121111122221112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She's here.",
                 "Wrong camp."
@@ -1662,8 +1526,6 @@
             "title":"She's here."
         },
         "141111212111112222111211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Dadeli frees Claire.",
                 "He takes care of the bandits first."
@@ -1686,8 +1548,6 @@
             "title":"Dadeli frees Claire."
         },
         "14111121211111222211121112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They talk a little more.",
                 "The next morning."
@@ -1710,8 +1570,6 @@
             "title":"They talk a little more."
         },
         "1411112121111122221112111211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He tells her.",
                 "Nope.mp4"
@@ -1734,8 +1592,6 @@
             "title":"He tells her."
         },
         "141111212111112222111211121111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He explains.",
                 "Other."
@@ -1758,8 +1614,6 @@
             "title":"He explains."
         },
         "14111121211111222211121112111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Perhaps.",
                 "No."
@@ -1782,8 +1636,6 @@
             "title":"No."
         },
         "1411112121111122221112111211111122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "At the Morag Tong sanctuary.",
                 "Along the way..."
@@ -1806,8 +1658,6 @@
             "title":"At the Morag Tong sanctuary."
         },
         "141111212111112222111211121111112211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Blades (daggers, knives, etc)",
                 "Flesh-tearing tools (spiked clubs, embalming tools, etc)"
@@ -1818,8 +1668,6 @@
             "title":"Claire's torture"
         },
         "1411112121111122221112111211111122112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Someone finds them.",
                 "Other."
@@ -1842,8 +1690,6 @@
             "title":"Someone finds them."
         },
         "141111212111112222111211121111112211211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The Morag Tong have it.",
                 "We have it."
@@ -1866,8 +1712,6 @@
             "title":"We have it."
         },
         "14111121211111222211121112111111221121121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They stay with the mages for a day or two.",
                 "They immediately grab their gear and search for the Morag Tong."
@@ -1878,8 +1722,6 @@
             "title":"The wizards heal the two"
         },
         "141111212111112222111211121111112211211212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "\"I'm going with you.\"",
                 "\"I think I'll stay here.\""
@@ -1902,8 +1744,6 @@
             "title":"\"I think I'll stay here.\""
         },
         "14111121211111222211121112111111221121121221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She lets him live.",
                 "She kills him."
@@ -1914,8 +1754,6 @@
             "title":"Claire finds them"
         },
         "141111212111112222111211121111112211211212212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Every assassin in the sanctuary waiting for her.",
                 "Nobody; just a note."
@@ -1926,8 +1764,6 @@
             "title":"She kills him."
         },
         "1411112121111122221112111211111122112112122122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Claire immediately heads to Blacklight.",
                 "She goes to get Dadeli before heading to Blacklight."
@@ -1950,8 +1786,6 @@
             "title":"She goes to get Dadeli before heading to Blackl..."
         },
         "141111212111112222111211121111112211211212212221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "...they approached the construct.",
                 "...they were dragged toward it."
@@ -1962,8 +1796,6 @@
             "title":"Along the way..."
         },
         "1411112121111122221112111211111122112112122122211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "...a cave.",
                 "...somewhere else."
@@ -1986,8 +1818,6 @@
             "title":"...a cave."
         },
         "141111212111112222111211121111112211211212212221111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Kresnik asks some questions.",
                 "Claire asks him questions OR passes out."
@@ -2022,8 +1852,6 @@
             "title":"Claire passes out"
         },
         "141111212111112222111211121111112211211212212221111221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Kerstik explains.",
                 "Other."
@@ -2046,8 +1874,6 @@
             "title":"Kerstik explains."
         },
         "14111121211111222211121112111111221121121221222111122111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He takes the warning seriously.",
                 "He laughs it off."
@@ -2070,8 +1896,6 @@
             "title":"He takes the warning seriously."
         },
         "1411112121111122221112111211111122112112122122211112211111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They come across something unusual.",
                 "Something else."
@@ -2094,8 +1918,6 @@
             "title":"They come across something unusual."
         },
         "141111212111112222111211121111112211211212212221111221111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They fight.",
                 "They surrender."
@@ -2106,8 +1928,6 @@
             "title":"...a Thalmor battalion."
         },
         "1411112121111122221112111211111122112112122122211112211111112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Kresnik agrees.",
                 "He disagrees."
@@ -2130,8 +1950,6 @@
             "title":"Kresnik agrees."
         },
         "141111212111112222111211121111112211211212212221111221111111211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He believes her.",
                 "\"You lie!\""
@@ -2154,8 +1972,6 @@
             "title":"\"You lie!\""
         },
         "14111121211111222211121112111111221121121221222111122111111121121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The Justiciar returns.",
                 "Something unexpected happens."
@@ -2178,8 +1994,6 @@
             "title":"The Justiciar returns."
         },
         "1411112121111122221112111211111122112112122122211112211111112112111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She checks on Kresnik.",
                 "She gets the blood off her first."
@@ -2202,8 +2016,6 @@
             "title":"She checks on Kresnik."
         },
         "141111212111112222111211121111112211211212212221111221111111211211111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "...Kresnik with news.",
                 "...someone else."
@@ -2226,8 +2038,6 @@
             "title":"...Kresnik with news."
         },
         "14111121211111222211121112111111221121121221222111122111111121121111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Kresnik awakes to the smell of food.",
                 "Someone walks into the cave."
@@ -2415,8 +2225,6 @@
             "title":"A new hero... or something"
         },
         "155":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Wood elf"
             ],

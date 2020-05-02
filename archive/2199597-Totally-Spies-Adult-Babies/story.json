@@ -131,6 +131,31 @@
             "id":2732218,
             "title":"a doll"
         },
+        "112122":{
+            "author_id":"babyrouge7x",
+            "author_name":"Amy",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was the doll hers when she was little</span></div></span></div>",
+            "created":1588222800,
+            "id":2827833,
+            "title":"SE"
+        },
+        "1121221":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "She began regressing mentally.",
+                "Physically regresssed.",
+                "Something else that happened."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>It was. She started to play with it by rocking it in her arms. As she did so...</span></div></span></div>",
+            "created":1588222800,
+            "id":2827858,
+            "title":"Yes"
+        },
         "1123":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
@@ -473,6 +498,69 @@
             "created":1568610000,
             "id":2718987,
             "title":"More reasons."
+        },
+        "1251":{
+            "author_id":"babyrouge7x",
+            "author_name":"Amy",
+            "choices":[
+                "One of her friends does it",
+                "An accident on a mission ",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Why is she hypnotized </span></div></span></div>",
+            "created":1588222800,
+            "id":2827737,
+            "title":"Hypnotized "
+        },
+        "12511":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Alex",
+                "Sam",
+                "Both of them."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Either Sam or Alex do so, feeling that she can act like a baby if things don't go her way, especially if Mandy's involved, but, who of them does it?</span></div></span></div>",
+            "created":1588222800,
+            "id":2827739,
+            "title":"One of her friends does it"
+        },
+        "125113":{
+            "author_id":"babyrouge7x",
+            "author_name":"Amy",
+            "choices":[
+                "The house",
+                "Mali-u",
+                "Somewhere else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where do they do it </span></div></span></div>",
+            "created":1588222800,
+            "id":2827800,
+            "title":"Both of them"
+        },
+        "1251131":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup",
+                "Another way."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>It's done via a gadget from WOOHP?</span></div></span></div>",
+            "created":1588222800,
+            "id":2827841,
+            "title":"The house"
+        },
+        "12512":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Sure",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The villain they're after is an ex babysitter?</span></div></span></div>",
+            "created":1588222800,
+            "id":2827740,
+            "title":"An accident on a mission "
         },
         "1252":{
             "author_id":"supreme123",
@@ -1265,6 +1353,31 @@
             "created":1570770000,
             "id":2731344,
             "title":"lost a bet"
+        },
+        "1422":{
+            "author_id":"babyrouge7x",
+            "author_name":"Amy",
+            "choices":[
+                "Alex",
+                "Sam",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who was it</span></div></span></div>",
+            "created":1588222800,
+            "id":2827741,
+            "title":"Someone else"
+        },
+        "14222":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was it over a test Mandy had to pass?</span></div></span></div>",
+            "created":1588222800,
+            "id":2827744,
+            "title":"Sam"
         },
         "143":{
             "author_id":"supreme123",
@@ -3199,7 +3312,7 @@
         "description":"<td align=\"left\" class=\"norm\">The girls, or their mothers, or other ladies are turned back into infants.<br>\r\nRules.<br>\r\nNo death, gore, sex, drugs and so on. Mental or physical regression is allowed. Anything gross stays in the diapers.<br>\r\n</td>",
         "id":2199597,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1583507580,
+        "modified":1588293300,
         "pretty_title":"Totally Spies (Adult Babies.)"
     }
 }

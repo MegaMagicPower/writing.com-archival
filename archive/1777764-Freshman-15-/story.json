@@ -97,8 +97,6 @@
             "title":"others?"
         },
         "123":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "On the team",
                 "Not as she missed tryouts",
@@ -159,8 +157,6 @@
             "title":"Reader's Choice Magazine"
         },
         "12322":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "1 small pizza as planned",
                 "2 extra large pizzas by mishap "
@@ -248,8 +244,6 @@
             "title":"average"
         },
         "131":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "extremely thin. ",
                 "quite chubby.",
@@ -274,8 +268,6 @@
             "title":"quite chubby."
         },
         "13123":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A week later, the effects of the buffet food starts to show...",
                 "Kelly and De sneak out to eat at night, De keeps giving Kelly fattening food!"
@@ -437,8 +429,6 @@
             "title":"it continues like this all day."
         },
         "142":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Stressed by school, Kelly begins to drop weight.",
                 "Kelly finds that shutting down the plan might be a challenge."
@@ -449,8 +439,6 @@
             "title":"getting \"soft\" on purpose, was skinny"
         },
         "1421":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She accepts an offer to study with Blake, the cutest boy to have shown interest.",
                 "She resumes her previous diet.",
@@ -462,8 +450,6 @@
             "title":"Stressed by school, Kelly begins to drop weight."
         },
         "14212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Kelly finds it hard to control herself over the holidays.",
                 "In the second semester, Kelly outdoes her previous performance."
@@ -1389,7 +1375,6 @@
         "15412":{
             "author_id":"xkellycx",
             "author_name":"KellyChambers",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She walks around campus for a while, and goes back to her room. (Back a chapter)</span></div></span></div>",
             "created":1467349200,
             "id":2173655,

@@ -57,8 +57,6 @@
             "title":"Continue a different way"
         },
         "11122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Live with you",
                 "Fend for yourself"
@@ -81,8 +79,6 @@
             "title":"Live with you"
         },
         "111222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The night before the prom",
                 "Something else. Original fend for yourself?"
@@ -93,8 +89,6 @@
             "title":"Live with you 2"
         },
         "1112221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "At the restaurant.",
                 "The next morning."
@@ -265,8 +259,6 @@
             "title":"I want that, but I am not ready yet"
         },
         "13":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "a charity fund-raising event",
                 "a classy bar",
@@ -292,8 +284,6 @@
             "title":"a classy bar"
         },
         "1321":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "YES!",
                 "No Way!",
@@ -305,8 +295,6 @@
             "title":"I guess so, it might be worth it for the sex"
         },
         "13211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Got dressed in my clothes",
                 "Put on something of hers!"
@@ -317,8 +305,6 @@
             "title":"YES!"
         },
         "132112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Put makeup on you!",
                 "Dress you up!"
@@ -329,8 +315,6 @@
             "title":"Put on something of hers!"
         },
         "1321121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "\"YES!  Come on! Take me!\"",
                 "\"That's not very lady-like, Sweetie!\""
@@ -341,8 +325,6 @@
             "title":"Put makeup on you!"
         },
         "13211212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "\"YES! Yes, ANYTHING!\"",
                 "\"Uhh-let me think this over...\""
@@ -377,8 +359,6 @@
             "title":"play t***** the redheaded maid"
         },
         "132112122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "YES!",
                 "I'm still not sure..."
@@ -389,8 +369,6 @@
             "title":"\"Uhh-let me think this over...\""
         },
         "1321121221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Would you like to shower with us at the gym tomorrow?",
                 "Something else"
@@ -401,8 +379,6 @@
             "title":"YES!"
         },
         "13211212212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "We'll go to the gym--how would you like to shower with the ladies today?\"",
                 "we'll go someplace wild!\""
@@ -413,8 +389,6 @@
             "title":"Something else"
         },
         "132112122121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Out to the lobby",
                 "Out to the parking lot!"
@@ -425,8 +399,6 @@
             "title":"We'll go to the gym--how would you like to ..."
         },
         "1321121221212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Stop out someplace!\"",
                 "Go home!\""
@@ -437,8 +409,6 @@
             "title":"Out to the parking lot!"
         },
         "13211212212122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "\"Let's make love!\"",
                 "\"let's get you some clothes!\""
@@ -449,8 +419,6 @@
             "title":"Go home!\""
         },
         "132112122121221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A woman",
                 "A man"
@@ -461,8 +429,6 @@
             "title":"\"Let's make love!\""
         },
         "1321121221212211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "YES!",
                 "NO!"
@@ -473,8 +439,6 @@
             "title":"A woman"
         },
         "13211212212122112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "join us for Dinner!\"",
                 "serve us Dinner!\""
@@ -497,8 +461,6 @@
             "title":"join us for Dinner!\""
         },
         "1321121221212211211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You choose to back out",
                 "You swallow the pill"
@@ -509,8 +471,6 @@
             "title":"You decide to give up your manhood."
         },
         "132112122121221122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "\"Let's get to bed!\"",
                 "\"Here are some more rules!\""
@@ -632,8 +592,6 @@
             "title":"A week later"
         },
         "141211221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "deal with hubby",
                 "deal with wifey"
@@ -644,8 +602,6 @@
             "title":"We obey."
         },
         "141212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "you're wife's gay and so are you",
                 "you're a sissy"
@@ -1011,7 +967,6 @@
         "15":{
             "author_id":"cammerfe",
             "author_name":"Ben Garrick",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Nah, I don't think so. I have no doubt regarding the way I 'swing' so there's no reason to continue.</span></div></span></div>",
             "created":1443589200,
             "id":2041969,

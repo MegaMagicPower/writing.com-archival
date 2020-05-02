@@ -108,8 +108,6 @@
             "title":"Jungle"
         },
         "12":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Ocean",
                 "Field",
@@ -123,8 +121,6 @@
             "title":"Civilian. Flying a plane"
         },
         "125":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 " ...You see what appears to be a campsite with many tents. ",
                 "...You see a pyramid with an entrance. ",
@@ -136,8 +132,6 @@
             "title":"Desert"
         },
         "1253":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The child responds in English. ",
                 "The child responds in a language you don't know. ",
@@ -149,8 +143,6 @@
             "title":"...You see a small village with a well. "
         },
         "12532":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She takes you to a large building in the center of the village. ",
                 "She takes you inside the building she first came out of. "
@@ -161,8 +153,6 @@
             "title":"The child responds in a language you don't ..."
         },
         "13":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Forest",
                 "Jungle",
@@ -930,8 +920,6 @@
             "title":"Abandoned urban area"
         },
         "151321":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go inside the building",
                 "Create a lean-to from rubble"
@@ -1026,8 +1014,6 @@
             "title":"The next morning"
         },
         "1513222211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Ima's home",
                 "The town square"
@@ -1100,8 +1086,6 @@
             "title":"Three more"
         },
         "151332":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The pilot returns.",
                 "You look for shelter.",
@@ -1113,8 +1097,6 @@
             "title":"Arctic"
         },
         "152":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Jungle",
                 "Tundra",

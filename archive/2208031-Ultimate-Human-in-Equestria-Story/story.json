@@ -60,6 +60,21 @@
             "id":2778209,
             "title":"Anthro"
         },
+        "122":{
+            "author_id":"absolfusion",
+            "author_name":"Absolfusion",
+            "choices":[
+                "You're helped up by a crowd of strange creatures concerned about your well-being",
+                "\"Oh my goodness, are you alright?\" A tall and regal creature stands above you",
+                "You pass out immediately and awake later in an infirmary",
+                "Someone picks up your insensate body and hauls it into what looks like a library",
+                "More scenarios"
+            ],
+            "content":"<div class=\"\"><div> <span>(Thanks for the upgraded membership, whoever you are. Now my full power can be <b>unleashed</b>!)<br>\r\n<br>\r\nA portal opens and spits your screaming, flailing body out of it and you impact the ground hard, bounce once, twice then roll on the ground until you come to a complete stop. Your eyes roll in your skull, and a bevy of stars and black spots dance in your vision. An immense pain flares in your chest as you try to move, so you settle back down and take a few deep, heaving breaths. You honestly can't tell what's worse, the agony of your possibly broken ribs or the disorientation from spinning in the air and coming to a sudden stop. You should thank your lucky stars you didn't hit your head on entry or you may well have been in a coma or dead by now. At least the pain will fade, but you feel like you're going to go through the indignity of losing your lunch next.<br>\r\n<br>\r\nBlurry colors of many shapes and sizes swim in your vision. You hear voices rise over the ringing in your ears and slowly come into focus.</span></div></div>",
+            "created":1588222800,
+            "id":2827386,
+            "title":"Canterlot"
+        },
         "15":{
             "author_id":"absolfusion",
             "author_name":"Absolfusion",
@@ -619,6 +634,81 @@
             "id":2777221,
             "title":"On top of a bed"
         },
+        "1542":{
+            "author_id":"absolfusion",
+            "author_name":"Absolfusion",
+            "choices":[
+                "One of the princesses",
+                "One of the mane 6",
+                "Other (background ponies, minor characters, etc. It's a a pretty long list)"
+            ],
+            "content":"<div class=\"\"><div> <span>You're standing above the form of... something, of which the owner is likely the owner of the bed you've teleported onto. The immense creature is deeply asleep, completely incognizant of your presence here. The ground rolls against you as the figure subtly shifts every now and again, and it's becoming quite a workout just to keep your footing on the ever-shifting landscape. You're pretty sure you're standing on someone's breast or chest, you can see a similar-looking hill not too far away in the distance. You can also almost make out a face in the darkness just ahead, one that definitely doesn't look human...<br>\r\n</span></div></div>",
+            "created":1588222800,
+            "id":2827368,
+            "title":"You were standing someone sleeping."
+        },
+        "15421":{
+            "author_id":"absolfusion",
+            "author_name":"Absolfusion",
+            "choices":[
+                "Celestia",
+                "Luna",
+                "Cadance"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which one is it?</span></div></span></div>",
+            "created":1588222800,
+            "id":2827370,
+            "title":"One of the princesses"
+        },
+        "15422":{
+            "author_id":"absolfusion",
+            "author_name":"Absolfusion",
+            "choices":[
+                "Twilight/Rarity",
+                "Pinkie Pie/Applejack",
+                "Fluttershy/Rainbow Dash"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Choose your Mane 6</span></div></span></div>",
+            "created":1588222800,
+            "id":2827372,
+            "title":"One of the mane 6"
+        },
+        "154221":{
+            "author_id":"absolfusion",
+            "author_name":"Absolfusion",
+            "choices":[
+                "Twilight Sparkle",
+                "Rarity"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Twilight or Rarity?</span></div></span></div>",
+            "created":1588222800,
+            "id":2827374,
+            "title":"Twilight/Rarity"
+        },
+        "154222":{
+            "author_id":"absolfusion",
+            "author_name":"Absolfusion",
+            "choices":[
+                "Pinkie Pie",
+                "Applejack"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Pinkie Pie or Applejack?</span></div></span></div>",
+            "created":1588222800,
+            "id":2827375,
+            "title":"Pinkie Pie/Applejack"
+        },
+        "154223":{
+            "author_id":"absolfusion",
+            "author_name":"Absolfusion",
+            "choices":[
+                "Fluttershy",
+                "Rainbow Dash"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Fluttershy or Rainbow Dash?</span></div></span></div>",
+            "created":1588222800,
+            "id":2827376,
+            "title":"Fluttershy/Rainbow Dash"
+        },
         "1543":{
             "author_id":"absolfusion",
             "author_name":"Absolfusion",
@@ -670,7 +760,7 @@
         "description":"<td align=\"left\" class=\"norm\">You are a human drawn into Equestria by unknown means and meet the cast of My Little Pony.<br>\r\nAlso, a lot of mares really want to get into your pants for some reason.<br>\r\n<br>\r\nIt doesn't matter what you add so long as it's coherent and doesn't include toilet related stuff.<br>\r\nWrite at least a paragraph, no one or two sentence chapters, please (unless it's a choice related chapter), <br>\r\nNo death of the main characters, no digestion,no scat, and if you add chapters with age regression keep any description of diaper changing light.<br>\r\n<br>\r\n...and remember, haaaaave fun with it!</td>",
         "id":2208031,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1588203960,
+        "modified":1588237440,
         "pretty_title":"Ultimate Human in Equestria Story"
     }
 }

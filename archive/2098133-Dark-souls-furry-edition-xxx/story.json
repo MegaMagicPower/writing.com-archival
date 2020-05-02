@@ -146,8 +146,6 @@
             "title":"Female"
         },
         "123":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Choose this character",
                 "Create another character",
@@ -159,8 +157,6 @@
             "title":"Heagyth"
         },
         "1231":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "... to the left!",
                 "... to the right!"
@@ -171,8 +167,6 @@
             "title":"Choose this character"
         },
         "12311":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "... her chest!",
                 "... her leg!"
@@ -183,8 +177,6 @@
             "title":"Escaped!"
         },
         "123111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The two decide to forget their problems for a while and have some fun",
                 "They're knights; they should resist their primitive urges!"
@@ -195,8 +187,6 @@
             "title":"Warrior from Astora"
         },
         "1231111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Continue"
             ],

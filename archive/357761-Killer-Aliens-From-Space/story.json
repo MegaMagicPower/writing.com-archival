@@ -52,8 +52,6 @@
             "title":"Reaaaching in..."
         },
         "11111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go see a doctor",
                 "Ignore it and continue to work on the power"
@@ -64,8 +62,6 @@
             "title":"Pain"
         },
         "111112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You wake up"
             ],
@@ -75,8 +71,6 @@
             "title":"Passed Out"
         },
         "1111121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You try to run away",
                 "You lay back down on the table and close you eyes, maybe this is just a dream"
@@ -87,8 +81,6 @@
             "title":"Aliens!!"
         },
         "11111211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You wake up on The Luna",
                 "You wake up on the metal table"
@@ -99,8 +91,6 @@
             "title":"You Can't Run"
         },
         "111112111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You stop screaming by yourself",
                 "You stop screaming after Dos Grey tells you to shut up"
@@ -111,8 +101,6 @@
             "title":"Something's Wrong"
         },
         "1111121112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You can't hold still",
                 "You can hold still"
@@ -123,8 +111,6 @@
             "title":"Do As The Dactor Says"
         },
         "11112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Alien tries to communicate.",
                 "Caught alive, the alien not so spontaneously combusts."
@@ -219,8 +205,6 @@
             "title":"Aghhhhhhh! *Girly scream*"
         },
         "1131111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A Zylogig",
                 "A maintenence robot working out what was wrong with the pipes"
@@ -233,7 +217,6 @@
         "11312":{
             "author_id":"puny_scribe",
             "author_name":"Bastet *back for a while*",
-            "choices":null,
             "content":"<div class=\"\"><div> <span>You take a deep breath... and connect the sparking wire to the green wire.\r<br>\n\r<br>\nSPPPPPPPPPPAAAAAAAAAAKKKKKKKKKK!!!\r<br>\n\r<br>\n10,000 volts of electricity run through your body and your skin boils and melts off your bones. Your internal organs burst and land on top of your skin, as your skeleton is stuck holding the wire, standing up right.\r<br>\n\r<br>\nFinally, the power cell shorts out, leaving the entire ship in darkness, and you in a pile of ashes and bone.</span></div></div>",
             "created":1014699600,
             "id":93874,
@@ -336,8 +319,6 @@
             "title":"No! It's wrong..."
         },
         "1142":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go hold Anorian's hair back.",
                 "Try coak Alex and Dana away from each other."
@@ -348,8 +329,6 @@
             "title":"Meet the guys"
         },
         "11421":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Unload on the bastard.",
                 "Holster your gun and see what's up."
@@ -360,8 +339,6 @@
             "title":"Hold the hair back."
         },
         "114211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Ask him what he wants.",
                 "Nudge Anorian with your foot and take Eugene back to meet the crew."
@@ -372,8 +349,6 @@
             "title":"My name is Eugene."
         },
         "1142111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Scream like a little girl.",
                 "Hope Anorian will do something."
@@ -384,8 +359,6 @@
             "title":"Eugene is a mofo."
         },
         "11421111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Uh....yeah, Anorian's scream.....",
                 "Listen, here's whats going on..."
@@ -396,9 +369,6 @@
             "title":"Brea cleans up."
         },
         "11421112":{
-            "author_id":null,
-            "author_name":null,
-            "choices":null,
             "content":"<div class=\"\"><div> <span>Right now, the only one that can save you is <br>\r\nAnorian. You turn to him, a hopeful look in your <br>\r\neye, but feel crestfallen as you see him <br>\r\ncharging away, into the hills, away from the <br>\r\ncamp. You try to scream, but it gets caught in <br>\r\nyour throat.<br>\r\n<br>\r\nAll you can do is watch as the blade comes <br>\r\ndown right between your eyes. <br>\r\n<br>\r\nIn true Ray Bradbury style, your body parts are <br>\r\ntaken back to the Zylogig headquarters, <br>\r\nreassembled, loaded with bombs, and sent <br>\r\nback to your camp.<br>\r\n<br>\r\nThe small amount of conscience you have left <br>\r\nallows you to realize that as soon as Brea <br>\r\nasks you where you've been, you detonate <br>\r\nand destroy them all. <br>\r\n<br>\r\nGod this planet sucked.</span></div></div>",
             "created":1043038800,
             "id":139878,
@@ -540,7 +510,6 @@
         "1212121":{
             "author_id":"puny_scribe",
             "author_name":"Bastet *back for a while*",
-            "choices":null,
             "content":"<div class=\"\"><div> <span>You pull out your PLS with your other hand, and Alex doesn't have time to react as you point it at his head and fire.<br>\r\n<br>\r\nNothing happens.<br>\r\n<br>\r\nHe seems to absorb the power surge from the PLS. You fire again. And again. And again. Again, again, again. Click click click. Out of power. He took all the PLS bursts as though you were touching him with a slightly chilly spoon.<br>\r\n<br>\r\nAlex smiles at you again. That inhuman, evil smile. He waves his finger at you chidingly, \"Tsk tsk tsk.\"<br>\r\n<br>\r\nHe leaps to your throat and bites down.<br>\r\n<br>\r\n\"This bites.\" You think as everything turns to dark.</span></div></div>",
             "created":1073192400,
             "id":183928,
@@ -583,8 +552,6 @@
             "title":"It's you! And... you!"
         },
         "121212221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Turn and run to find the captain",
                 "Use the gun as a bludgeon and beat the crap outta them freaks"
@@ -680,15 +647,12 @@
         "12212111":{
             "author_id":"puny_scribe",
             "author_name":"Bastet *back for a while*",
-            "choices":null,
             "content":"<div class=\"\"><div> <span>Brea screams \"That was connected to the trigger!\"<br>\r\n<br>\r\nWell, she started to.<br>\r\n<br>\r\nJust about at the syllable \"nect,\" the Optitrope laser exploded, incinerating everyone at the scene instantly, and then everything else on the surface of the planet in a matter of seconds. The entire planet explodes, sending tiny pieces of you out into space at tremendous speeds. The pieces of you freeze, spread out, and eventually travel the length of the Universe. Hey, you always said you wanted to see the Universe...</span></div></div>",
             "created":1073192400,
             "id":183921,
             "title":"BOOOOM!"
         },
         "123":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Scream. Loudly.",
                 "Attack!"
@@ -699,8 +663,6 @@
             "title":"Whazzat?"
         },
         "1231":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Try to fight it off yourself",
                 "Use your 'com and call for help"
@@ -723,8 +685,6 @@
             "title":"*gasp!*"
         },
         "12312":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Who's on the other end?",
                 "More trouble."
@@ -735,8 +695,6 @@
             "title":"trapped."
         },
         "123122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "the torture continues.",
                 "You find a way out."
@@ -747,8 +705,6 @@
             "title":"ticklish situation."
         },
         "1231221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Kimira helps you out.",
                 "Kimira is attcked by an alien before she can free you."
@@ -759,8 +715,6 @@
             "title":"Ahhh,  a little help."
         },
         "12312212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The Alien jerks you out.",
                 "You scramble back up the air duct."
@@ -771,8 +725,6 @@
             "title":"Alien surprise."
         },
         "1232":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go outside to see what the captain wants",
                 "Stay to work on the pipes"
@@ -807,8 +759,6 @@
             "title":"I'll go with Alex... Was this a mistake?"
         },
         "1232111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Follow him",
                 "Run away--he's too scary!"
@@ -833,7 +783,6 @@
         "13":{
             "author_id":"puny_scribe",
             "author_name":"Bastet *back for a while*",
-            "choices":null,
             "content":"<div class=\"\"><div> <span>You scream \"Die Captain!!\" and run forward madly.\r<br>\n\r<br>\nCaptain Marlson is taken by surprise, and watches as you barrel into her. Both of you fall backwards screaming.\r<br>\n\r<br>\nYou bite her madly and punch her repeatedly, kicking your legs and yelling like a lunatic. Suddenly, you feel a hot beam of something cut through your chest and your legs and arms go numb.\r<br>\n\r<br>\nCaptain Marlson watches as you close your eyes, and die. She puts away her PLS and smiles, her eyes glowing red.</span></div></div>",
             "created":1014440400,
             "id":93533,

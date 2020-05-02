@@ -40,8 +40,6 @@
             "title":"Zekara, the Jobber"
         },
         "1111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Ignore the stench and head to the ring.",
                 "It's too bad, just run!",
@@ -65,8 +63,6 @@
             "title":"It's too bad, just run!"
         },
         "111122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Get in the ring.",
                 "Find an excuse."
@@ -474,8 +470,6 @@
             "title":"the ladys ofresident evil"
         },
         "1222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Mario",
                 "Pokemon",
@@ -487,8 +481,6 @@
             "title":"Nintendo"
         },
         "12221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Wendy O. Koopa",
                 "Next"

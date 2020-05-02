@@ -54,8 +54,6 @@
             "title":"Go in room"
         },
         "1213":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go After the Rabbids",
                 "Give An Idea",
@@ -67,8 +65,6 @@
             "title":"Rabbids"
         },
         "12131":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The X-Tornado",
                 "One of Tail's Other Inventions"
@@ -79,8 +75,6 @@
             "title":"Go After the Rabbids"
         },
         "121311":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go Back to Your Room",
                 "Retrieve the X-Tornado"
@@ -91,8 +85,6 @@
             "title":"The X-Tornado"
         },
         "1213111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go to the Lunchroom",
                 "Go Find Sonic"
@@ -206,8 +198,6 @@
             "title":"More"
         },
         "152":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Paper Mario",
                 "Ryu",
@@ -439,7 +429,6 @@
         "155332222112":{
             "author_id":"zeldamonfalls",
             "author_name":"ZeldamonFalls",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Mario, one of the original 12, began beating Hypon to the ground because he was a stupid OC. The other originals joined in, and every character cheered. Even the Sonic characters.</span></div></span></div>",
             "created":1426395600,
             "id":1948585,

@@ -55,8 +55,6 @@
             "title":"watching"
         },
         "114":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He spots you.",
                 "He doesn't see you, and goes to put the clothes on.",
@@ -272,7 +270,6 @@
         "13433":{
             "author_id":"tinykitten",
             "author_name":"TinyKitten",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span><div align=\"center\"><span class=\"clred\"><font class=\"size5\" style=\"\">fuck you</font></span></div></span></div></span></div>",
             "created":1495342800,
             "id":2323044,
@@ -294,8 +291,6 @@
             "title":"Drugged Food"
         },
         "141":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He sits down on you",
                 "He sees you, but mistakes you for a bug",
@@ -307,8 +302,6 @@
             "title":"on the seat of a chair"
         },
         "1413":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He puts his hand down to pick you up. He wants to help you.",
                 "He grins evilly and sits down anyway. He wants to torment you."
@@ -421,8 +414,6 @@
             "title":"Late Night Shrink"
         },
         "151":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You wake up in the same situation.",
                 "Your friend moves in the middle of the night.",

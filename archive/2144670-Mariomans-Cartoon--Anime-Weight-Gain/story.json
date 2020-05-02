@@ -209,8 +209,6 @@
             "title":"females"
         },
         "114121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Both",
                 "One of these girls"
@@ -221,8 +219,6 @@
             "title":"Sarah and/or Nazz"
         },
         "1141212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Sarah",
                 "Nazz"
@@ -233,8 +229,6 @@
             "title":"One of these girls"
         },
         "11412122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "By the Kanker Sisters",
                 "Something else"
@@ -245,8 +239,6 @@
             "title":"Nazz"
         },
         "114121221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They treat her like a very good friend",
                 "Another scenario"
@@ -257,8 +249,6 @@
             "title":"By the Kanker Sisters"
         },
         "1141212212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They prank her",
                 "More reasons"
@@ -814,8 +804,6 @@
             "title":"Juniper Lee?"
         },
         "11433222221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Juniper Lee",
                 "Someone else"
@@ -983,8 +971,6 @@
             "title":"Ben 10 series"
         },
         "1143322222221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Gwen",
                 "Someone else"
@@ -1046,8 +1032,6 @@
             "title":"Overeating"
         },
         "11433222222211112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Sumo magic",
                 "Something else"
@@ -1058,8 +1042,6 @@
             "title":"Magic reasons"
         },
         "11433222222212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Julie",
                 "Someone else"
@@ -1070,8 +1052,6 @@
             "title":"Someone else"
         },
         "114332222222121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Original Jule",
                 "Omniverse Julie"
@@ -1852,6 +1832,19 @@
             "created":1567054800,
             "id":2709735,
             "title":"DC Superhero Girls?"
+        },
+        "1143322222222222222222231":{
+            "author_id":"mariomaster88",
+            "author_name":"marioman",
+            "choices":[
+                "Diana Prince (Wonder Woman)",
+                "Barbara Gordon (Batgirl)",
+                "someone else..."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Alright, which character shall we fatten up?</span></div></span></div>",
+            "created":1588222800,
+            "id":2827970,
+            "title":"DC Superhero Girls!"
         },
         "1143322222222222222222232":{
             "author_id":"ryguy0228",
@@ -3038,6 +3031,31 @@
             "id":2756002,
             "title":"Endless Island, endless dreams"
         },
+        "1253322222222222222222212":{
+            "author_id":"mariomaster88",
+            "author_name":"marioman",
+            "choices":[
+                "Todd",
+                "Esther",
+                "someone else..."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, how about one of Reggie\u2019s friends?</span></div></span></div>",
+            "created":1588222800,
+            "id":2827341,
+            "title":"Todd or Esther?"
+        },
+        "12533222222222222222222123":{
+            "author_id":"mariomaster88",
+            "author_name":"marioman",
+            "choices":[
+                "YES!",
+                "Nah..."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, how about our main villain for this show, the Butt Witch?</span></div></span></div>",
+            "created":1588309200,
+            "id":2827986,
+            "title":"The Butt Witch?"
+        },
         "125332222222222222222222":{
             "author_id":"benz02",
             "author_name":"HedgeOvrlrd",
@@ -3092,8 +3110,6 @@
             "title":"Disney"
         },
         "1311":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Oliver & Company",
                 "The Rescuers-movies",
@@ -3105,8 +3121,6 @@
             "title":"Walt Disney Animation Studios"
         },
         "13111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Jenny",
                 "Other characters"
@@ -3117,8 +3131,6 @@
             "title":"Oliver & Company"
         },
         "131111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She enjoys her food-luxury",
                 "Other reasons"
@@ -3141,8 +3153,6 @@
             "title":"Other characters"
         },
         "1311122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Jenny & Oliver",
                 "Another choice"
@@ -3153,8 +3163,6 @@
             "title":"No."
         },
         "13111221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They enjoy their free time together",
                 "Another choice"
@@ -3165,8 +3173,6 @@
             "title":"Jenny & Oliver"
         },
         "13112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Penny",
                 "Someone else"
@@ -3177,8 +3183,6 @@
             "title":"The Rescuers-movies"
         },
         "131121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Her new life with her parents",
                 "Other reasons"
@@ -3189,8 +3193,6 @@
             "title":"Penny"
         },
         "1311212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "One of Medusa\u2019s evil plans",
                 "Another scenario"
@@ -3201,8 +3203,6 @@
             "title":"Other reasons"
         },
         "131122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Cody",
                 "More choices"
@@ -3213,8 +3213,6 @@
             "title":"Someone else"
         },
         "1311222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Penny & Cody",
                 "More choices"
@@ -3225,8 +3223,6 @@
             "title":"More choices"
         },
         "13113":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The Black Cauldron",
                 "More movies"
@@ -3237,8 +3233,6 @@
             "title":"The Black Cauldron?"
         },
         "131131":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Eilonwy",
                 "Someone else"
@@ -3249,8 +3243,6 @@
             "title":"The Black Cauldron"
         },
         "131132":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "101 Dalmatians",
                 "Next film"
@@ -3261,8 +3253,6 @@
             "title":"101 Dalmatians?"
         },
         "1311321":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Anita",
                 "Someone else"
@@ -3273,8 +3263,6 @@
             "title":"101 Dalmatians"
         },
         "13113211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Anita develops some big eating habits",
                 "Another reason"
@@ -3297,8 +3285,6 @@
             "title":"Someone else"
         },
         "131132122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Cruella De Vil",
                 "Someone else"
@@ -3309,8 +3295,6 @@
             "title":"Next!"
         },
         "1311321222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Perdita & Anita",
                 "Another character choice"
@@ -3321,8 +3305,6 @@
             "title":"Someone else"
         },
         "13113212221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Eating habits",
                 "Another scenario"
@@ -3333,8 +3315,6 @@
             "title":"Perdita & Anita"
         },
         "1311322":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The Jungle Book",
                 "Next film, please?"
@@ -3345,8 +3325,6 @@
             "title":"The Jungle Book?"
         },
         "13113221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Mowgli",
                 "Next character"
@@ -3357,8 +3335,6 @@
             "title":"The Jungle Book"
         },
         "131132212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Shanti",
                 "Someone else"
@@ -3465,8 +3441,6 @@
             "title":"Shere Khan"
         },
         "13113222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Bolt",
                 "Next Disney film"
@@ -3477,8 +3451,6 @@
             "title":"Bolt?"
         },
         "131132221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Penny",
                 "Someone else"
@@ -3489,8 +3461,6 @@
             "title":"Bolt"
         },
         "1311322212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Penny\u2019s mother",
                 "Next character"
@@ -3501,8 +3471,6 @@
             "title":"Someone else"
         },
         "13113222121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Her eating habits",
                 "Another scenario"
@@ -3513,8 +3481,6 @@
             "title":"Penny\u2019s mother"
         },
         "131132221212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Yes (Her mother tells Penny about that story)",
                 "Still a new scenario"
@@ -3525,8 +3491,6 @@
             "title":"Another scenario"
         },
         "13113222122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Penny and her mom",
                 "Next choice"
@@ -3537,8 +3501,6 @@
             "title":"Next character"
         },
         "131132221221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They develop sudden eating habits",
                 "Another reason"
@@ -3549,8 +3511,6 @@
             "title":"Like Mother, Like Daughter"
         },
         "1311322212211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "1 month later",
                 "3 months later"
@@ -3586,8 +3546,6 @@
             "title":"3 months of eating"
         },
         "131132221221122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She really likes it and wouldn\u2019t mind being more bigger",
                 "She is a bit indifferent of her weight"
@@ -3610,8 +3568,6 @@
             "title":"Another reason"
         },
         "13113222122122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Penny\u2019s mother is secretly fattening up her daughter and herself at home",
                 "More scenarios"
@@ -3622,8 +3578,6 @@
             "title":"No, too obvious"
         },
         "131132222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Meet the Robinsons",
                 "Next one"
@@ -3634,8 +3588,6 @@
             "title":"Meet the Robinsons?"
         },
         "1311322221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Lewis",
                 "Someone else"
@@ -3646,8 +3598,6 @@
             "title":"Meet the Robinsons"
         },
         "13113222212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Franny",
                 "Next character"
@@ -3658,8 +3608,6 @@
             "title":"Someone else"
         },
         "131132222121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Franny\u2019s current age (Child)",
                 "Franny\u2019s future age (Adult)"
@@ -3706,8 +3654,6 @@
             "title":"Other"
         },
         "13113222222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Peter Pan",
                 "Next film"
@@ -3874,8 +3820,6 @@
             "title":"Anna"
         },
         "1311322222221112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She becomes a gluttonous sweetheart",
                 "More reasons"
@@ -3970,8 +3914,6 @@
             "title":"Other"
         },
         "13113222222222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The Emperor\u2019s New Groove",
                 "Another one"
@@ -3982,8 +3924,6 @@
             "title":"Another Disney movie"
         },
         "131132222222221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Chicha",
                 "Someone else"
@@ -3994,8 +3934,6 @@
             "title":"The Emperor\u2019s New Groove"
         },
         "1311322222222212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Chaca",
                 "Yet more characters"
@@ -4006,8 +3944,6 @@
             "title":"Someone else"
         },
         "13113222222222122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Malina",
                 "Still someone else"
@@ -4018,8 +3954,6 @@
             "title":"Yet more characters"
         },
         "131132222222222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Atlantis: The Lost Empire",
                 "Next Disney-film"
@@ -4030,8 +3964,6 @@
             "title":"Another Disney-film"
         },
         "1311322222222221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Kida",
                 "Someone else"
@@ -4042,8 +3974,6 @@
             "title":"Atlantis: The Lost Empire"
         },
         "13113222222222212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Audrey",
                 "Someone else"
@@ -4102,8 +4032,6 @@
             "title":"Other"
         },
         "13113222222222222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Brother Bear",
                 "Next film"
@@ -4114,8 +4042,6 @@
             "title":"Yet another Disney-film"
         },
         "131132222222222221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Nita",
                 "Someone else"
@@ -4628,8 +4554,6 @@
             "title":"How to train your dragon"
         },
         "13222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Astrid",
                 "Another girl"
@@ -4664,8 +4588,6 @@
             "title":"Eating contest."
         },
         "1322212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Her friends feels that she is not meaty enough",
                 "Other scenarios"
@@ -4712,8 +4634,6 @@
             "title":"Another girl"
         },
         "1322221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Astrid\u2019s jealousy towards Heather",
                 "Another scenario"
@@ -5025,8 +4945,6 @@
             "title":"Absolutely not!"
         },
         "1323111212222222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Fiona makes an unexpected deal with Rumpelstiltskin",
                 "Other"
@@ -5037,8 +4955,6 @@
             "title":"Why?"
         },
         "13231112122222222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Fiona starts acting more like an ogre (But more cleaner)",
                 "Other reasons"
@@ -5098,8 +5014,6 @@
             "title":"Another method."
         },
         "133":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Rio",
                 "Epic",
@@ -5111,8 +5025,6 @@
             "title":"Blue Sky Studios"
         },
         "1331":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Linda",
                 "Jewel",
@@ -5162,8 +5074,6 @@
             "title":"Warner Brothers"
         },
         "1343":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Quest for Camelot",
                 "Cats Don\u2019t Dance",
@@ -5175,8 +5085,6 @@
             "title":"Free Choice"
         },
         "13431":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Kayley",
                 "Someone else"
@@ -5187,8 +5095,6 @@
             "title":"Quest for Camelot"
         },
         "134311":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Something magical happens to her",
                 "Something else"
@@ -5199,8 +5105,6 @@
             "title":"Kayley"
         },
         "13432":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Darla Dimple",
                 "Someone else"
@@ -5211,8 +5115,6 @@
             "title":"Cats Don\u2019t Dance"
         },
         "134321":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She gets spoiled with food",
                 "More reasons"
@@ -5223,8 +5125,6 @@
             "title":"Darla Dimple"
         },
         "1343212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Danny & Sawyer has an idea to make Darla the really \u201dBig & Loud\u201d-girl she\u2019ll be",
                 "Other options"
@@ -5235,8 +5135,6 @@
             "title":"More reasons"
         },
         "13432121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They give Darla all the sweets she wants",
                 "Another idea"
@@ -5260,8 +5158,6 @@
             "title":"Others"
         },
         "1351":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Despicable Me-franchise",
                 "The Secret Life of Pets",
@@ -5273,8 +5169,6 @@
             "title":"Illumination Entertainment"
         },
         "13511":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Margo",
                 "Someone else"
@@ -5285,8 +5179,6 @@
             "title":"Despicable Me-franchise"
         },
         "135112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Edith",
                 "Someone else"
@@ -5297,8 +5189,6 @@
             "title":"Someone else"
         },
         "1351122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Agnes",
                 "Someone else"
@@ -5321,8 +5211,6 @@
             "title":"Sony Pictures Animation"
         },
         "13521":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Sam Sparks",
                 "Someone else"
@@ -5384,8 +5272,6 @@
             "title":"Focus Features!"
         },
         "13532":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Anastasia",
                 "Next one"
@@ -5396,8 +5282,6 @@
             "title":"More animated films"
         },
         "135321":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Anastasia/Anya",
                 "Someone else"
@@ -5431,7 +5315,7 @@
         "description":"<td align=\"left\" class=\"norm\">It's been pointed out to me once or twice that my focus was too limited, and there's still some truth to that statement. As such, I've now created my most ambitious project to date: now you can choose anyone from any show, anime, or perhaps even animated movie (I do think claymation stuff like <i>Coraline</i> could use more WG material), and make them as big as you want with no rules or restrictions. The only rule is to have fun!</td>",
         "id":2144670,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1588122420,
+        "modified":1588310160,
         "pretty_title":"Marioman's Cartoon & Anime Weight Gain"
     }
 }

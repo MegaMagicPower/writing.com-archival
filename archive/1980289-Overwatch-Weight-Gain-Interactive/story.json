@@ -431,7 +431,6 @@
         "131332":{
             "author_id":"josep_stali",
             "author_name":"Josep Stali",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So, She is Dead, what do you expect, to continue? Go do the other option</span></div></span></div>",
             "created":1547096400,
             "id":2601532,
@@ -492,8 +491,6 @@
             "title":"A Kitchen Note"
         },
         "15":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Pharah, the high flying rocket bird",
                 "Mei, the temperamental climatologist ",
@@ -507,8 +504,6 @@
             "title":"More Heroes to select"
         },
         "151":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Later that evening, Pharah has an impromptu medical examination",
                 "Offer Symmetra a helping hand.",

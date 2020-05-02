@@ -464,6 +464,18 @@
             "id":1924913,
             "title":"a girl"
         },
+        "11312221111122":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "yes",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>is it Harry your best friend?</span></div></span></div>",
+            "created":1588222800,
+            "id":2827391,
+            "title":"a boy"
+        },
         "1131222112":{
             "author_id":"runner1240",
             "author_name":"Runner",
@@ -1336,8 +1348,6 @@
             "title":"clothes change next"
         },
         "1211312":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "pass out and woke up in bed with your mum thee?",
                 "just stood in shock, your sister left you rang a friend?"
@@ -1348,8 +1358,6 @@
             "title":"Bella smiles at you"
         },
         "12113121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Next morning?",
                 "Two weeks later, school morning and your still a girl."
@@ -1384,8 +1392,6 @@
             "title":"just stood in shock, your sister left you rang ..."
         },
         "121131222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Amy Jones, female, straight ",
                 "William Harris, male, gay "
@@ -1408,8 +1414,6 @@
             "title":"Amy Jones, female, straight "
         },
         "12113122211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Get you some shoes?",
                 "Teach you to walk like a girl?"
@@ -1478,6 +1482,19 @@
             "content":"<div class=\"\"><div> <span>She continued and said \"you know you Bella adores you although I suspect at times she is jealous too\" she is a lot like I was at school but luckily like you she has your father's brains although she doesn't always use them\".<br>\r\n<br>\r\nYour mother hugged you and said \"I love you Lucia (nickname)\" you are a little taken back but said \"I love you to mom\".<br>\r\n<br>\r\nMaybe you could be a big sister to Bella and help her with her hair and make up for her date tonight. <br>\r\n<br>\r\nYou think and smiled and said \"sure mom but I'll help you sort out the kitchen first\" it's fine darling there is only a few pots anyway. </span></div></div>",
             "created":1575435600,
             "id":2755313,
+            "title":"Continue "
+        },
+        "1211321211":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "of course with the kittchen work you hate ",
+                "of course with helping Bella with preparing for her date",
+                "no, I managed everything"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>and do you struglle?</span></div></span></div>",
+            "created":1588222800,
+            "id":2827392,
             "title":"Continue "
         },
         "121133":{
@@ -1716,8 +1733,6 @@
             "title":"Magic in the air"
         },
         "125":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "your mom? (35)",
                 "your sister? (14)",
@@ -1753,8 +1768,6 @@
             "title":"freak out"
         },
         "125111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Lingerie, nightwear and swimwear shopping first? ",
                 "Tomboy clothes first"
@@ -1765,8 +1778,6 @@
             "title":"continue"
         },
         "1251111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go for a coffee first before we finish the shopping?",
                 "Just get the the shopping over with plain jeans, tops and vest?"
@@ -1777,8 +1788,6 @@
             "title":"Lingerie, nightwear and swimwear shopping first? "
         },
         "12511111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "My tomboy clothes shopping first?",
                 "Let just get it out the way with and buy the girly school uniform?"
@@ -1801,8 +1810,6 @@
             "title":"Let just get it out the way with and buy the gi..."
         },
         "1251111121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Find the things now?",
                 "Go somewhere else?"
@@ -1813,8 +1820,6 @@
             "title":"sizing needs to be done"
         },
         "12511111211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Lucy's in your room getting you uniform ready for school?",
                 "Lucy's cooking you some breakfast before school?"
@@ -1825,8 +1830,6 @@
             "title":"Find the things now?"
         },
         "125111112111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Lucy picked you up and told you she was moving in?",
                 "Went to Lucy's work to talk to her to tell her the truth about yourself?"
@@ -1837,8 +1840,6 @@
             "title":"Lucy's in your room getting you uniform rea..."
         },
         "1251111121112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "you tell her everything and she believes that you where a boy?",
                 "say something else and wait for a better time to tell her the truth?"
@@ -1886,8 +1887,6 @@
             "title":"your sister? (14)"
         },
         "12521":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "might as well stay here?",
                 "Go somewhere else?"
@@ -2064,8 +2063,6 @@
             "title":"Stopped you"
         },
         "151111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Lucille how was school",
                 "Who the hell are you?"
@@ -2089,8 +2086,6 @@
             "title":"Lucille how was school"
         },
         "15111113":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Your mum calling you for tea",
                 "Your phone ringing"
@@ -2127,8 +2122,6 @@
             "title":"Brittney"
         },
         "15111113213":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Continue ",
                 "Continue "
@@ -2139,8 +2132,6 @@
             "title":"something else"
         },
         "151111132131":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Continue "
             ],
@@ -2163,8 +2154,6 @@
             "title":"grounded"
         },
         "15111113213111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Your mum came in your room and apologised for slapping you",
                 "You have calmed down and realise you need to say sorry to your mum "
@@ -2175,8 +2164,6 @@
             "title":"sneak out"
         },
         "151111132131111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The next morning ",
                 "A month later "
@@ -2200,8 +2187,6 @@
             "title":"The next morning "
         },
         "15111113213111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "That's up to Brittany",
                 "Brittney has left that to me to decide "
@@ -2210,6 +2195,18 @@
             "created":1536382800,
             "id":2544697,
             "title":"yes"
+        },
+        "151111132131111111":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "continue",
+                "continue"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>she does not know since it is up to Brittany</span></div></span></div>",
+            "created":1588222800,
+            "id":2827395,
+            "title":"That's up to Brittany"
         },
         "151111132131111112":{
             "author_id":"rosenheim34",
@@ -2225,8 +2222,6 @@
             "title":"Brittney has left that to me to decide "
         },
         "1511111321311111121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Continue from here",
                 "A month later "
@@ -2257,7 +2252,7 @@
         "description":"<td align=\"left\" class=\"norm\">During the same time John Harrison (from the witch) discovered that magic is real and is undergoing life changing events, another boy, from a non witch family discovers the hard way that magic is real.<br>\r\n<br>\r\nYou're name is Luke Adams, a 16 year old boy. You're a bit of a jerk, and don't get on well with you younger sister, Bella (13) and constantly argueing with your mom Becky. You are dating two girls at the same time, (a cheerleader called Britney from another town(16) and a sweet girl called Rachel (also 16). Both girls don't know the other exists.<br>\r\n<br>\r\nThe story starts when Luke picks something from a garage sale. Unfortunately for him, its from a witch. One that doesn't like jerky, cheating boys such as yourself...</td>",
         "id":1732713,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1588150380,
+        "modified":1588239420,
         "pretty_title":"A new path in life"
     }
 }

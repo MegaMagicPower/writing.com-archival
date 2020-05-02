@@ -16,8 +16,6 @@
             "title":"Beginning"
         },
         "11":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "With a rush of excitement and adrenaline.",
                 "In fear of what's to come."
@@ -28,8 +26,6 @@
             "title":"Male hands"
         },
         "111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Step forward and decide to help. Who cares if you're outnumbered!",
                 "Step back. Let's be realistic, you'd only protect loved ones. NOT strangers."
@@ -40,8 +36,6 @@
             "title":"With a rush of excitement and adrenaline."
         },
         "1111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Scream for help!",
                 "Try to fight back. Even though you're paralyzed, you might have a chance?"
@@ -124,8 +118,6 @@
             "title":"join up with them"
         },
         "1112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Continue"
             ],
@@ -135,8 +127,6 @@
             "title":"Step back. Let's be realistic, you'd on..."
         },
         "112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Tell him that you'll return someday. He is much safer here.",
                 "Sigh and tell him that you will stay."
@@ -147,17 +137,12 @@
             "title":"In fear of what's to come."
         },
         "1122":{
-            "author_id":null,
-            "author_name":null,
-            "choices":null,
             "content":"<div class=\"\"><div> <span>As the days progress the woman is grateful that you stayed. The kids love you and fight for your attention. Some days you look out the window, still waiting for the day that someone finishes the game. Who knows? Maybe next time you play a game like this, not involving death, you might actually have an adventure!</span></div></div>",
             "created":1377493200,
             "id":1651898,
             "title":"Sigh and tell him that you will stay."
         },
         "12":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "With excitement and determination! You can do this!",
                 "In fear and realization. What are you going to do?"
@@ -168,8 +153,6 @@
             "title":"Female Hands"
         },
         "121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You step forward and decide to help. Who cares if you're outnumbered?",
                 "Take a step back. Let's be realistic, no way are you stepping in for strangers."
@@ -180,8 +163,6 @@
             "title":"With excitement and determination! You can do t..."
         },
         "1211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Scream for help!",
                 "Try to fight back, paralysis is nothing!",
@@ -193,8 +174,6 @@
             "title":"You step forward and decide to help. Who cares ..."
         },
         "1212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Continue"
             ],
@@ -204,8 +183,6 @@
             "title":"Take a step back. Let's be realistic, no wa..."
         },
         "122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Tell him that you'll be back. He is much safer here.",
                 "Stay with the kids. This woman looks like she needs the help.",
@@ -217,9 +194,6 @@
             "title":"In fear and realization. What are you going to do?"
         },
         "1222":{
-            "author_id":null,
-            "author_name":null,
-            "choices":null,
             "content":"<div class=\"\"><div> <span>As the days progress the woman is grateful that you stayed. The kids love you and fight for your attention. Some days you look out the window, still waiting for the day that someone finishes the game. Who knows? Maybe next time you play a game like this, not involving death, you might actually have an adventure!</span></div></div>",
             "created":1377493200,
             "id":1651896,

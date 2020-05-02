@@ -13,8 +13,6 @@
             "title":"gender choice"
         },
         "11":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Harry Potter",
                 "Ron Weasley",
@@ -28,8 +26,6 @@
             "title":"male"
         },
         "111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Ginny Weasley",
                 "Hermione Granger",
@@ -41,8 +37,6 @@
             "title":"Harry Potter"
         },
         "1111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Fred and George",
                 "Ron and Hermione",
@@ -54,8 +48,6 @@
             "title":"Ginny Weasley"
         },
         "11111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They wait until dinner and spike his pumpkin juice.",
                 "They wait until curfew and give it to him while sleeping."
@@ -236,8 +228,6 @@
             "title":"Daphne"
         },
         "11133222222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "yes",
                 "no"

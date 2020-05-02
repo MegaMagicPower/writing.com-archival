@@ -29,8 +29,6 @@
             "title":"Fighters"
         },
         "111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Battle Axe",
                 "Dire Flail",
@@ -42,8 +40,6 @@
             "title":"Barbarian"
         },
         "1111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Pub",
                 "Smithy",
@@ -55,8 +51,6 @@
             "title":"Battle Axe"
         },
         "1112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The Pub",
                 "The Smithy",
@@ -68,8 +62,6 @@
             "title":"Dire Flail"
         },
         "11121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Down your flagon of ale and wait for something to happen",
                 "Take a seat across the room from the man in the corner and watch him intently"
@@ -80,8 +72,6 @@
             "title":"The Pub"
         },
         "11122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Iron Studded Leather",
                 "Chain Shirt"
@@ -92,8 +82,6 @@
             "title":"The Smithy"
         },
         "11123":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Try to be diplomatic and talk things out.",
                 "Unlock the rage in your heart and try to tear them apart at the seams."
@@ -104,8 +92,6 @@
             "title":"The Brothel"
         },
         "111231":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Kill them now and have your fun in the brothel",
                 "Show them what it really means to be feared and reveared"
@@ -116,8 +102,6 @@
             "title":"Try to be diplomatic and talk things out."
         },
         "1112312":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "forget this,kill the gaurd",
                 "go with him"
@@ -128,8 +112,6 @@
             "title":"Show them what it really means to be feared and..."
         },
         "1113":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "a Pub",
                 "a Smithy",
@@ -141,8 +123,6 @@
             "title":"Long Sword"
         },
         "11131":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Confront this person",
                 "Shake that strange feeling off with a few glasses of Meade"
@@ -153,8 +133,6 @@
             "title":"a Pub"
         },
         "11132":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Follow the figure",
                 "Stock up first"
@@ -165,8 +143,6 @@
             "title":"a Smithy"
         },
         "11133":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "your conscience can handle knowing you did nothing to prevent whatever happens",
                 "you are a champion of freedom and light in an otherwise bleak and dull world"
@@ -177,8 +153,6 @@
             "title":"a Brothel"
         },
         "111331":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "draw your sword (better to fight now, and ask questions later)",
                 "approach them in a diplomatic manner (Do you have a piece of gum?)"
@@ -273,8 +247,6 @@
             "title":"companion"
         },
         "112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Knock on the house door",
                 "Enter the inn"
@@ -285,8 +257,6 @@
             "title":"Out of the marsh"
         },
         "1121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Fight the man",
                 "Flee or talk"
@@ -297,8 +267,6 @@
             "title":"The inhabitants of the house"
         },
         "11211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Talk with her",
                 "Go to sleep"
@@ -309,8 +277,6 @@
             "title":"A fight, and a woman freed"
         },
         "112111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "to ask about the woman herself",
                 "to ask about something else"
@@ -321,8 +287,6 @@
             "title":"Telling Tales After Dark"
         },
         "1121111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "If you rest, recover, wake and take Krysth'Ena with you.",
                 "If you slip away before daybreak, leaving Krysth'Ena behind."
@@ -333,8 +297,6 @@
             "title":"Herstory (as opposed to History...)"
         },
         "1121112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "to talk more about Lo'garam",
                 "Other"
@@ -345,8 +307,6 @@
             "title":"Cross-Roads in the Cabin"
         },
         "112112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Morning breaks"
             ],
@@ -356,8 +316,6 @@
             "title":"A midnight talk"
         },
         "1121121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Take the cursed road",
                 "Take the high road"
@@ -368,8 +326,6 @@
             "title":"A restless start"
         },
         "11212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A conversation in the dark"
             ],
@@ -379,8 +335,6 @@
             "title":"The surprising incident of the man"
         },
         "1122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Lie or be vague",
                 "Tell Perd about Greyhawk city"
@@ -391,8 +345,6 @@
             "title":"Food, drink, and gossip"
         },
         "11221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Evening in the inn"
             ],
@@ -450,8 +402,6 @@
             "title":"A heavily armored man enters the inn"
         },
         "11222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go along with Perd",
                 "Sneak out when Perd sleeps, for he means harm"
@@ -462,8 +412,6 @@
             "title":"A secret revealed"
         },
         "112221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Yes",
                 "No"
@@ -474,8 +422,6 @@
             "title":"Go along with Perd"
         },
         "1122212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Leave him and go back inside, collect your sword and leave.",
                 "Drag him further outside and finish him of with his own knife!"
@@ -486,8 +432,6 @@
             "title":"No"
         },
         "113":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Play Yldorian the Half-Elf (male) Monk...",
                 "Play Shimbesa the Tiefling (female) Nun...",
@@ -499,8 +443,6 @@
             "title":"Monk or Nun: BloodyTiger, VenomSnake & PlanarCrane"
         },
         "1131":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Choose Bloody Tiger Assault...",
                 "Choose Venom Snake Assault...",
@@ -512,8 +454,6 @@
             "title":"Play Yldorian the Half-Elf (male) Monk..."
         },
         "11311":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Sneakily enter the library from here..."
             ],
@@ -523,8 +463,6 @@
             "title":"Choose Bloody Tiger Assault..."
         },
         "11312":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Sneak down into the library..."
             ],
@@ -534,8 +472,6 @@
             "title":"Choose Venom Snake Assault..."
         },
         "11313":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Sneak into the library... "
             ],
@@ -545,8 +481,6 @@
             "title":"Choose Planar Crane Assault..."
         },
         "1132":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Decide for Bloody Tiger defense... ",
                 "Decide for Venom Snake defense...",
@@ -558,8 +492,6 @@
             "title":"Play Shimbesa the Tiefling (female) Nun..."
         },
         "11321":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Look for another opponent...",
                 "Overview the situation instead..."
@@ -570,8 +502,6 @@
             "title":"Decide for Bloody Tiger defense... "
         },
         "11322":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Look for another fight...",
                 "Overview the situation instead..."
@@ -582,8 +512,6 @@
             "title":"Decide for Venom Snake defense..."
         },
         "11323":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Look for another fight...",
                 "Overview the situation instead..."
@@ -644,8 +572,6 @@
             "title":"Greyhawk"
         },
         "1211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Complicated by Love",
                 "Complicated by War"
@@ -656,17 +582,12 @@
             "title":"Bard Night at the Black Dragon"
         },
         "12111":{
-            "author_id":null,
-            "author_name":null,
-            "choices":null,
             "content":"<div class=\"\"><div> <span>It was a somewhat normal evening, that is, if there were ever such a thing at the Inn.  Another long day was coming to a close, which meant thay yours is just begining.  You sit in the corner, tuning your small harp, eyeing the flow of patrons as they enter one by one, or in small groups.  They make their way to the tables set within the room, and even take it upon themselves to do a little rearranging of the place to better accomodate their fellow mates, and to settle in for an evening of drinking, entertainment, and eventually (innevittably) a fight or two.  You begin to make your plan, and pick out your choices of tables you will feather your way towards as you pluck and sing.  You begin to think of tales and song that will entertain each group by their appearance.  Of course, there are the dark corners of the room that signal you to just keep your distance of, as those patrons are here for reasons other than to be entertained by song and dance.  You reach down, and give one final check to your daggar clasped to your calf, your only reasurance that by chance you are a target, you may even the score.  Just as you raise your head, your eyes fix on her.  Already, she's taken on an audience as a few patrons have turned their heads to see this beautiful elven woman.  She has taken her place right up at the bar.  She's not dressed as the other wenches of the evening, nor takes on their brash behaviors.  She is lightly sipping from an exotic glass with a stem.  Something she obvioiusly has brought with her, for the only thing one would drink from is his horn, or the Inn's supplied standard stein.  She wears a thin smile as she nods to a table of gawking men behind her.  She does her best to look away, and not to cause any trouble.  She has a very quiet demeanor, yet her beauty draws an abundance of attention in a place like this.  She wears layers of blue and white flowing gowns and a simple silver chain around her neck.  It is all you need to know to redirect your intentions on making your way to her as quickly as possible. <br>\r\nYou strike the first note of the evening and let it resonate, as heads quickly turn in your direction.  With your most shrilfull voice, you sing out above the crowd.  In an almost alarming way, this quiets the room, You have the crowds fullest attention.  You stand and lean in to a nearby table of soldiers; regulars.<br>\r\n  \"... for those who are armed beyond those who dare...\"<br>\r\n You swing to the next table of masonry workers, \"... to those who muscle rock in ways I can't compare... I raise my glass high, high to with all of you whom I share!\"  You snatch up a almost empty, unclaimed mug of brew from yet another table and raise it above my head as you strike a very loud, very high pitched chord on your instrument. As the note finishes you slug down what was left behind in the mug (in your proffession, you take all you can get.) The warm brew flows into your belly, and you now make your way through the crowd, dancing in sync with the melody you play. You give a nod here and there at the patrons, but your aim is to be planted on the stool next to the beautiful damsel at the bar.  Your song continues, as you jimmy lyrics in the way that you do.  They match those around around you, and you are praised with their smiles, laughter, and lifting of mugs.  You have now reached your destination, and turn to face the entire crowd with a wink, your voice goes low, and everyone seems to be in on your unnexpected greeting to this gem.  <br>\r\n\"... and with that my sweet lady, can I buy you a drink?\" your bottom makes perfect contact with the empty stool next to the elven woman, and you lean back and make eye contact with her.  The crowd is silent, and your last note falls as well. There's almost a frozen moment in time before she smiles and says with almost a whisper,\"Yes, you may.\"  <br>\r\nThe room is filled with cheers and applause.  It looks as though you may have yourself a very lucky night after all.</span></div></div>",
             "created":1182920400,
             "id":420704,
             "title":"A Beautiful Stranger"
         },
         "12112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "the next morning"
             ],
@@ -676,8 +597,6 @@
             "title":"Complicated by War"
         },
         "121121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "say something",
                 "jump out of the wagon"
@@ -712,8 +631,6 @@
             "title":"Day or Night?"
         },
         "12212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "a new adventure",
                 "a statue untill help comes"
@@ -916,8 +833,6 @@
             "title":"Examine the map and note"
         },
         "12222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You choose another character...",
                 "You've picked this character. Now what happens..."
@@ -955,8 +870,6 @@
             "title":"Lord Abbot Galadsul"
         },
         "132":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Elf ",
                 "Human",
@@ -968,8 +881,6 @@
             "title":"Druid"
         },
         "133":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "it's a lion",
                 "it's a person"
@@ -980,8 +891,6 @@
             "title":"lyra of the holy forest"
         },
         "1331":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "you reach some brigands",
                 "you approach a hunters shack"
@@ -992,8 +901,6 @@
             "title":"hand of fate"
         },
         "13311":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "run away and leave the curse",
                 "teach the scum a lesson"
@@ -1004,8 +911,6 @@
             "title":"blasted brigands"
         },
         "133112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "southeast",
                 "into the forest"
@@ -1016,8 +921,6 @@
             "title":"a dark soul"
         },
         "1331122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "hell from above",
                 "go and cut them up"
@@ -1028,8 +931,6 @@
             "title":"gotcha!"
         },
         "13311221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "the path",
                 "the forest"
@@ -1040,8 +941,6 @@
             "title":"overdid it...."
         },
         "133112212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "jump over there with your sword and staff",
                 "walk slowly to surprise who's over there"
@@ -1052,8 +951,6 @@
             "title":"what kind of goof are you..."
         },
         "1332":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "head northeast",
                 "scour the mountains to the south"
@@ -1064,8 +961,6 @@
             "title":"the enemy makes himself known"
         },
         "13321":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "you get to a sacked town"
             ],
@@ -1075,8 +970,6 @@
             "title":"head northeast"
         },
         "133211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "a terror in the night"
             ],
@@ -1086,8 +979,6 @@
             "title":"you get to a sacked town"
         },
         "1332111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "go outside and see what made that fin noise",
                 "ignore it and continue investigating"
@@ -1098,8 +989,6 @@
             "title":"a terror in the night"
         },
         "13321111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "go up",
                 "go down"
@@ -1110,17 +999,12 @@
             "title":"go outside and see what made that fin noise"
         },
         "133211111":{
-            "author_id":null,
-            "author_name":null,
-            "choices":null,
             "content":"<div class=\"\"><div> <span>the lader is old and your suprised it holds your weight.it creaks and moans with evry step up you take.eventualy you can see the light of the full moon shining through a small opening.unfortunatly you never make  it up there a shodow creature drops from the hole right ontop of you a sharp wepon digs halfway through your right shoulder as the beast drops down ontop of you.you fall a good 30 feet to the ground and though you survive the fall the monster tears into you the instant you hit the ground spilling your blood and guts across the room,as you try to scream blood gurgles from your mouth....</span></div></div>",
             "created":1285650000,
             "id":965241,
             "title":"go up"
         },
         "13321112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "enter the room",
                 "blast the room with a spell"
@@ -1131,17 +1015,12 @@
             "title":"ignore it and continue investigating"
         },
         "133211121":{
-            "author_id":null,
-            "author_name":null,
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>as you push the door to the room open a scyth firmly plants itself in your stomach.....</span></div></span></div>",
             "created":1285736400,
             "id":965247,
             "title":"enter the room"
         },
         "133211122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "wait for it to attack then make a counter attack",
                 "cast a spell"
@@ -1152,8 +1031,6 @@
             "title":"blast the room with a spell"
         },
         "1332111222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "round two"
             ],
@@ -1163,8 +1040,6 @@
             "title":"cast a spell"
         },
         "13321112221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "the next morning"
             ],
@@ -1174,8 +1049,6 @@
             "title":"round two"
         },
         "133211122211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "fight them",
                 "try to sneak away"
@@ -1186,8 +1059,6 @@
             "title":"the next morning"
         },
         "1332111222112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "the tale of lady laria"
             ],
@@ -1197,8 +1068,6 @@
             "title":"try to sneak away"
         },
         "13322":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "to the smiths near the north",
                 "to eat you haven't eaten in days!"
@@ -1209,8 +1078,6 @@
             "title":"didnt think this would happen..."
         },
         "133221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "to dinner",
                 "to test sword"
@@ -1221,8 +1088,6 @@
             "title":"a master smith"
         },
         "1332211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "talk the dwarves into fighting them in hall",
                 "sweep the place with every dwarf"
@@ -1437,8 +1302,6 @@
             "title":"victory"
         },
         "13422":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Durgmaas the Elf",
                 "Other"
@@ -1449,8 +1312,6 @@
             "title":"Durgmaas the Elf"
         },
         "134222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Pelias",
                 "Another choice..."
@@ -1461,8 +1322,6 @@
             "title":"Other"
         },
         "1342221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Pelias went to meet with the leader of the DuMas group.",
                 "Pelias went to check on the other notices first."
@@ -1473,8 +1332,6 @@
             "title":"Pelias"
         },
         "13422212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go check out some other options.",
                 "Head back to the square, it's almost noon."
@@ -1485,8 +1342,6 @@
             "title":"Pelias went to check on the other notices first."
         },
         "134222122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Pelias agrees and we move forward in time about 36 hours.",
                 "Pelias spends the next day trying to find an injured survivor of the Sen party."
@@ -1497,8 +1352,6 @@
             "title":"Head back to the square, it's almost noon."
         },
         "1342221221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Not too long after that, a rider catches up to the party. He says...",
                 "The fight with the dragon..."
@@ -1509,8 +1362,6 @@
             "title":"Pelias agrees and we move forward in time about..."
         },
         "13422212211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A mixed party of twelve men came riding over the hill.",
                 "A group of twelve fighters came riding over the hill."
@@ -1521,8 +1372,6 @@
             "title":"Not too long after that, a rider catches up to ..."
         },
         "134222122111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Later that night, another attack?",
                 "A day and a half later, they find their prey."
@@ -1533,8 +1382,6 @@
             "title":"A mixed party of twelve men came riding over th..."
         },
         "1342221222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The dragon attacks.",
                 "Sidebar..."
@@ -1545,8 +1392,6 @@
             "title":"Pelias spends the next day trying to find an in..."
         },
         "1342222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Ollie",
                 "Gah! I just want to make my own story!!"
@@ -1557,8 +1402,6 @@
             "title":"Ollie (masterkid) Hill"
         },
         "13422221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The attack comes around dusk. Ollie's a hero.",
                 "The attack hits early, catching both sides by surprise."
@@ -1569,8 +1412,6 @@
             "title":"Ollie"
         },
         "134222211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "His house other side of the road.",
                 "Horse. (and ride you away from the village)"
@@ -1581,8 +1422,6 @@
             "title":"Orcs attack!!"
         },
         "1342222111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Some orcs try to break into the house.",
                 "The battle is over by the time Ollie has finished eating."
@@ -1593,8 +1432,6 @@
             "title":"His house other side of the road."
         },
         "13422222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Sure, I'll play Amuul",
                 "Nah, something else (figure it out soon buddy.)"

@@ -51,8 +51,6 @@
             "title":"Yes!  It could be the beast!"
         },
         "11111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Runaway",
                 "try and outsmart the creature"
@@ -113,7 +111,6 @@
         "111111121":{
             "author_id":"aliceo",
             "author_name":"Alpha Eta",
-            "choices":null,
             "content":"<div class=\"\"><div> <span>The beast stares at you.  \"A WHAT?  What in the world are you speaking of, human?\"  You stammer that it is the correct answer, but the beast has already raised a paw high above your head.  \"There is no such thing, human!\"  That is the last thing you hear before the paw connects with your head and everything goes black.</span></div></div>",
             "created":1221973200,
             "id":585085,
@@ -145,7 +142,6 @@
         "1112":{
             "author_id":"aliceo",
             "author_name":"Alpha Eta",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The hesitation cost you a great price.  From the overhanging trees, a feline creature leaps down at you, knocking you over.  You hit your head on a rock, and the last thing you see is a pair of deep green eyes staring at you....</span></div></span></div>",
             "created":1221800400,
             "id":584542,
@@ -154,7 +150,6 @@
         "112":{
             "author_id":"aliceo",
             "author_name":"Alpha Eta",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You enter the town and head to the nearest inn for a rest.  Maybe tomorrow you can go looking for the Book.  You go to your room, lie down on the straw bed, and fall asleep almost at once.  Walking for days and days really makes one tired.</span></div></span></div>",
             "created":1221800400,
             "id":584537,
@@ -184,8 +179,6 @@
             "title":"In the Forest...."
         },
         "1211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Suddenly a werewolf attacks you",
                 "You start feeling dizzy and lightheaded",
@@ -222,7 +215,6 @@
         "1311":{
             "author_id":"aliceo",
             "author_name":"Alpha Eta",
-            "choices":null,
             "content":"<div class=\"\"><div> <span>Looks like you celebrated too early.  From the darkness, you hear a faint growl.  You stop jumping up and down.  A large creature comes running out of the darkness.  You avoid the charge it makes at you, only to be hit with some sort of dart in your neck.  You collapse.  You see a pair of feet approaching as your vision begins to blur.<br>\r\n\"I'll take THAT, thank you very much!\"  Someone pulls the map out of your hand.  You half reach for it, only to have your hand stepped on by someone's foot.  You hear a snicker.<br>\r\nYour vision goes completely black, and the last thing you hear is, \"Enjoy the Afterlife, sucker!\"  </span></div></div>",
             "created":1221800400,
             "id":584551,
@@ -243,7 +235,6 @@
         "13121":{
             "author_id":"aliceo",
             "author_name":"Alpha Eta",
-            "choices":null,
             "content":"<div class=\"\"><div> <span>You place the map on the ground.  The voice calls out, \"Good.  Very good.  Okay kids, let this foolish mortal through!\"  The beasts step aside.  You see a path out of the Forest, and follow it, scowling.  Great.  You promised Lord Byon that you would find the map.  A while later, you reach the outside world again.  The young woman you saw earlier is picking flowers.  She looks up as you approach.  She smiles and says \"Hey there!  Did you find the map?\"  You complain that you did, but it was stolen.  No way you would admit that you gave in to the demands of an unknown enemy.  \"Well, have a safe trip home!\"  She smiles and waves as you pass by her.  As you walked to the main road, you could've sworn she said something.  But it was probably just your imagination.  <br>\r\nYou continued moving to recieve your punishment, but you did think you heard her say something.<br>\r\n<br>\r\nWhat you thought you heard her say was \"Sucker.\"</span></div></div>",
             "created":1221800400,
             "id":584598,
@@ -252,7 +243,6 @@
         "13122":{
             "author_id":"aliceo",
             "author_name":"Alpha Eta",
-            "choices":null,
             "content":"<div class=\"\"><div> <span>\"What do I mean?  Did you know that you're that first mortal to ask me that?\"  You reply no.  \"Well, then, listen.  All you must do is answer my question.  Then you may keep the map, and leave the Forest unharmed.  One last chance to quit.  Will you accept my challenge?\"  You think for a moment, and then say, <br>\r\n\"Absolutely.\"  <br>\r\nThe voice laughed coldly.  \"You'll never figure it out.  Here it is: <br>\r\n'I float through the skies, a passenger inside a changing shape.  I swim in the oceans, one part of a whole.  I sit on the land, waiting for the sun.  I nourish as well as destroy.  What am I?\"  The unseen voice sounded smug.  You stand, puzzled.  Then you have it.  You answer the question without hesitation.  The voice is silent for a long moment.  Finally it speaks.  \"Argh!  You... you got it!  Fine!  Take the dumb map!  Get out of here!\"  Several of the beasts stepped aside.  You were silent as you passed through the Forest, heading for the outside world.  Finally, you broke through the trees, and out into the sun.  The young woman was still there, picking flowers.  She looked up as you approach.  She smiled slightly.  \"Did you get what you were looking for?\"  You nodded, thrilled.  \"Well, then, best not to keep your lord waiting, right?  Off you go!\"  You turned and began heading down the dusty road, smiling broadly.  Lord Byon would reward you well for your trouble.  <br>\r\n<br>\r\nAs you approached your village, the answer to the voice's question began to show itself in the open world.  You smiled even more broadly.  Your corn crops would do well this season.  And you would always be protected, thanks to the map.  </span></div></div>",
             "created":1221800400,
             "id":584854,
@@ -353,7 +343,6 @@
         "1511":{
             "author_id":"aliceo",
             "author_name":"Alpha Eta",
-            "choices":null,
             "content":"<div class=\"\"><div> <span>This was a good plan in theory, but you were not quite a master of the blade. With just one swing of a gigantic paw, it hurled you against a tree.  You fell to the ground dazed and about to black out, when you heard someone yelling, and you saw the beast getting closer.  You hoped that death wouldn't hurt much as you completely lost consciousness.</span></div></div>",
             "created":1221800400,
             "id":584575,
@@ -374,7 +363,6 @@
         "1521":{
             "author_id":"aliceo",
             "author_name":"Alpha Eta",
-            "choices":null,
             "content":"<div class=\"\"><div> <span>This was a bad move, because humans can't move as fast as it could.  It knocked you off balance with one wave of its paw.  Now you were certainly doomed.  Horribly, for some twisted reason, Leo was smiling as the beast raised its paw above you for the killing blow.  You saw the beast's paw swing down at you.... and then.... nothing.</span></div></div>",
             "created":1221800400,
             "id":584573,
@@ -383,7 +371,6 @@
         "1522":{
             "author_id":"aliceo",
             "author_name":"Alpha Eta",
-            "choices":null,
             "content":"<div class=\"\"><div> <span>Most humans would call you insane for doing something this stupid, but who cared what they thought.  This was more your style.  You stayed in the \"Bow\" position.  The ground shook slightly, and you heard Leo's voice.  <br>\r\n\"You can stand up!  It's all right!\"  You do as he says.  The beast is sitting in front of you, staring with two dark blue eyes.  You turn your head and see Leo approaching you.  He was smiling.  \"Congratulations!  You defeated the beast without killing it.\"  You asked him if that happened often.  He just laughed lightly.  \"You deserve a reward.  Emli?\"  You whirl around.  The beast had apparently wandered off because standing there now was Emli.  She was smiling, too.  <br>\r\n\"One 'Respect Special', coming right up!\"  She turned and whistled.  A rustle in the bushes gave way to a very small, more dog-like version of the beast you had just fought.  It ran up to you, a pink tongue hanging out of its mouth.  It sat down at your feet, looking up at you with its head tilted.  \"This little guy is now yours.  He's a good traveling companion, you know.  Oh, and before I forget....\"  Leo reached into a pocket and pulled out an Amulet of Discord.  He sprinkled something on it, and then handed it to you.  Without thinking, you put it on.  It seems to twitch slightly, but other than that, nothing happened.  \"You can visit anytime you like.  It's getting into the afternoon in the outside world, so you should probably go if you want to make it to the village before dark.\"  You nod, still too surprised to really say anything.  You began walking away, picking up your sword as you did so.  You put it back in its sheath, and continued on the path you came in from.  You walked the rest of the way almost as if in a trance, and was soon in the sunlight.  Emli was out there, picking flowers.  You approached her.  She looked up and smiled.  <br>\r\n\"Hello again!  Did you find what you were looking for?\"  You nodded.  Emli showed no signs of having been in the Forest recently.  The main reason for the theory was the fact that her flower basket was almost full, flowers were everywhere, and Emli seemed to have very high standards; only the prettiest flowers were in her basket.  You said your goodbyes, and began heading down the road to the village.  Was it just a dream?  A hallucination brought on by the heat?  A small yip made you look down.  Trotting beside you was the beast-puppy.  <br>\r\nSo it wasn't a dream, then.  That meant the quest had barely started.  You had much to look forward to.</span></div></div>",
             "created":1221800400,
             "id":584606,

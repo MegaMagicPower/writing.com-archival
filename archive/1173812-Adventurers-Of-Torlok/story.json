@@ -136,8 +136,6 @@
             "title":"Never talk about it."
         },
         "11211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Tell her the truth that you may not be able to protect him.",
                 "Lie to her and tell her that there is no way  harm will come to the boy"
@@ -148,8 +146,6 @@
             "title":"The Departure"
         },
         "1122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Leave him and head to bed.",
                 "Forcibly remove him from the city."
@@ -316,8 +312,6 @@
             "title":"Food!"
         },
         "11521":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Search for the river",
                 "Head back to the beach"
@@ -340,8 +334,6 @@
             "title":"Search for the river"
         },
         "1152111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You have a weird dream",
                 "You come across a group of adventurers led by a female mage"
@@ -352,8 +344,6 @@
             "title":"Approach "
         },
         "11521111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Fellow travelers",
                 "A lost city"
@@ -585,7 +575,6 @@
         "12212121":{
             "author_id":"bluebart_11",
             "author_name":"Archivist",
-            "choices":null,
             "content":"<div class=\"\"><div> <span>With a sudden flash your dagger is no longer on your belt, but is flying through the air towards the Captains throat. He easily dodges to the left. You've already got another dagger in your hand and are running full speed towards the man. You plunge your dagger towards his throat, but you notice something is wrong. The dagger falls out of your hand as a sharp pain like none you've ever felt is coming from your breast. <br>\r\n<br>\r\nYou look down to notice his sword sticking through you, piercing where your heart should be. Marlin places his boot securely on your chest and pushes you away, to retrieve his sword, \"There's a reason I have this position\" He goads to you as everything fades away.</span></div></div>",
             "created":1293944400,
             "id":1027744,
@@ -594,7 +583,6 @@
         "122122":{
             "author_id":"lucya",
             "author_name":"Lucy Scaman",
-            "choices":null,
             "content":"<div class=\"\"><div> <span>You decide to take a risk, and climb over the wall.<br>\r\n<br>\r\nHowever, the wall is still damp from the rainstorm last night, and it is hard to get a decent grip in order to climb over it.<br>\r\n<br>\r\nYou are still struggling to get over when the guard captain catches up with you.  He is thrilled at finally having the chance to take you down.<br>\r\n<br>\r\n<br>\r\nGAME OVER</span></div></div>",
             "created":1163134800,
             "id":375914,
@@ -660,8 +648,6 @@
             "title":"You wish your fathers foot would move so you co..."
         },
         "1231111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You stay invisble and make a break for the door....",
                 "You lose your hold on your magic and are no longer invisible, the beast ....."
@@ -696,8 +682,6 @@
             "title":"Bed sheets."
         },
         "1231121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "At church you use your powers to save a the congregation from an evil.",
                 "5 years later you are a freelance magician and the only girl in your guild."
@@ -708,8 +692,6 @@
             "title":"Family Business"
         },
         "12311212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "\"Sure.\"",
                 "\"Sorry boys. Maybe tomorrow.\""
@@ -756,8 +738,6 @@
             "title":"Where to?"
         },
         "12321":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Better play it safe.  Ignore the tree and look for somewhere else.",
                 "I cant resist!  I will enter the glowing tree."

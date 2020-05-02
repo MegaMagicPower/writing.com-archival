@@ -90,8 +90,6 @@
             "title":"Try It On Her"
         },
         "112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "John is awoken by his girlfriend.",
                 "John's parents wake him up.",
@@ -103,8 +101,6 @@
             "title":"Your sister"
         },
         "113":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "John visits Jessica before they leave.",
                 "Beth has some issues with John's chosen outfits.",
@@ -116,8 +112,6 @@
             "title":"Your pregnant mother"
         },
         "1133":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Jessica immediately drags him for some shopping.",
                 "A tour guide comes to greet the passengers.",
@@ -196,7 +190,6 @@
         "121111":{
             "author_id":"bigpokemonfan",
             "author_name":"Pikachufan",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Sorry. Neither of the Pok\u00e9mon like Bulbasaur, Ivysaur, Venusaur, Charmander, Charmeleon, Charizard, Squirtle, Wartortle and Blastoise caught by John.<br>\r\n<br>\r\nThey must be caught later in the story in order to be used on the Guillotine.</span></div></span></div>",
             "created":1375419600,
             "id":1639157,
@@ -253,7 +246,6 @@
         "121112211":{
             "author_id":"bigpokemonfan",
             "author_name":"Pikachufan",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Sorry. Pidgey isn't caught by John. Besides, two of them evolved.<br>\r\n<br>\r\nIt must be caught later in the story in order to be used on the Guillotine.</span></div></span></div>",
             "created":1375419600,
             "id":1639165,
@@ -272,8 +264,6 @@
             "title":"Rattata, and Raticate"
         },
         "121112222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Transplant your brain into Raticate",
                 "Have Raticate's tail"
@@ -370,7 +360,6 @@
         "121121212":{
             "author_id":"bigpokemonfan",
             "author_name":"Pikachufan",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Sorry. John doesn't have a Raichu, but he has a Pikachu<br>\r\nEvolve it with a Thunderstone in order to be used on the Guillotine.</span></div></span></div>",
             "created":1375592400,
             "id":1640340,
@@ -427,7 +416,6 @@
         "121122121":{
             "author_id":"bigpokemonfan",
             "author_name":"Pikachufan",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Sorry. Nidorina isn't caught by John. Besides, Nidorina already evolved.<br>\r\n<br>\r\nIt must be caught later in the story or evolve a female Nidoran, in order to be used on the Guillotine.</span></div></span></div>",
             "created":1375592400,
             "id":1640347,
@@ -460,7 +448,6 @@
         "121122212":{
             "author_id":"bigpokemonfan",
             "author_name":"Pikachufan",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Sorry. Neither of the Pok\u00e9mon like Nidorino and Nidoking caught by John.<br>\r\n<br>\r\nEvolve a male Nidoran or catch a Nidorino. If you want Nidoking. Catch and evolve Nidorino. That's in order to make either of them be used on the Guillotine.</span></div></span></div>",
             "created":1375592400,
             "id":1640353,
@@ -469,7 +456,6 @@
         "12112222":{
             "author_id":"bigpokemonfan",
             "author_name":"Pikachufan",
-            "choices":null,
             "content":"<div class=\"\"><div> <span>Sorry. Neither of the Pok\u00e9mon like Clefairy and Clefable caught by John.<br>\r\n<br>\r\nClefairy must be caught later in the story. If you want Clefable. Catch and evolve Clefairy. That's in order to make either of them be used on the Guillotine.</span></div></div>",
             "created":1375678800,
             "id":1640663,
@@ -588,7 +574,6 @@
         "13":{
             "author_id":"bigpokemonfan",
             "author_name":"Pikachufan",
-            "choices":null,
             "content":"<div class=\"\"><div> <span>Here is the list of Pok\u00e9mon who are not allowed for a Guillotine:<br>\r\n<br>\r\nCaterpie<br>\r\nMetapod<br>\r\nWeedle<br>\r\nKakuna<br>\r\nZubat<br>\r\nDiglett<br>\r\nDugtrio<br>\r\nBellsprout<br>\r\nWeepinbell<br>\r\nVictreebel<br>\r\nDoduo<br>\r\nDodrio<br>\r\nGrimer<br>\r\nMuk<br>\r\nShellder<br>\r\nCloyster<br>\r\nKrabby<br>\r\nKingler<br>\r\nVoltorb<br>\r\nElectrode<br>\r\nExeggcute<br>\r\nExeggutor<br>\r\nKoffng<br>\r\nWeezing<br>\r\nStaryu<br>\r\nStarmie<br>\r\nDitto<br>\r\nPorygon<br>\r\nSnorlax<br>\r\nSunkern<br>\r\nUnown<br>\r\nWobbuffet<br>\r\nPineco<br>\r\nQuilfish<br>\r\nPorygon2<br>\r\nWurmple<br>\r\nSilcoon<br>\r\nCascoon<br>\r\nLotad<br>\r\nSeedot<br>\r\nSurskit<br>\r\nSlakoth<br>\r\nSlaking<br>\r\nNincada<br>\r\nNinjask<br>\r\nGulpin<br>\r\nSwalot<br>\r\nWailmer<br>\r\nWailord<br>\r\nCastform<br>\r\nKecleon<br>\r\nWynaut<br>\r\nGlalie<br>\r\nClamperl<br>\r\nLuvdisc<br>\r\nBudew<br>\r\nCherubi<br>\r\nShellos<br>\r\nGastrodon<br>\r\nChingling<br>\r\nStunky<br>\r\nSkuntank<br>\r\nHappiny<br>\r\nMunchlax<br>\r\nCroagunk<br>\r\nToxicroak<br>\r\nMunna<br>\r\nMusharna<br>\r\nWoobat<br>\r\nSewaddle<br>\r\nSwadloon<br>\r\nWhirlipede<br>\r\nCottonee<br>\r\nPetilil<br>\r\nDarmanitan (With Zen Mode)<br>\r\nSolosis<br>\r\nDuosion<br>\r\nReuniclus<br>\r\nVanillite<br>\r\nVanillish<br>\r\nVanilluxe<br>\r\nFoongus<br>\r\nAmoongus<br>\r\nTynamo<br>\r\nCryogonal<br>\r\nShelmet</span></div></div>",
             "created":1375419600,
             "id":1638855,
@@ -597,7 +582,6 @@
         "14":{
             "author_id":"bigpokemonfan",
             "author_name":"Pikachufan",
-            "choices":null,
             "content":"<div class=\"\"><div> <span>Here is the list of Dangerous Pokemon:<br>\r\n<br>\r\nNinetales (Curse its victim)<br>\r\nTauros<br>\r\nGyarados<br>\r\nUrsaring<br>\r\nCarvanha<br>\r\nSharpedo<br>\r\nGabite<br>\r\nGarchomp<br>\r\nScolipede<br>\r\nKrookodile<br>\r\nBeartic<br>\r\nBouffalant<br>\r\nHydreigon<br>\r\n<br>\r\nGive them a Demonstration first.</span></div></div>",
             "created":1375419600,
             "id":1638839,

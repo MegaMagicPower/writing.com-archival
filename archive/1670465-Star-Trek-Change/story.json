@@ -702,7 +702,6 @@
         "11311112211222111111":{
             "author_id":"mr.domino",
             "author_name":"Mr.Domino",
-            "choices":null,
             "content":"<div class=\"\"><div> <span>There was a brief moment of disorientation.<br>\r\n<br>\r\nAnd then there was light.<br>\r\n<br>\r\nReginald Barclay rematerialized on the deck of the USS Enterprise D and collapsed to the floor, next to the breathing, but otherwise motionless body of Jean-Luc Picard. The two men shared a relieved look before Reg quickly passed out.<br>\r\n<br>\r\nWhen he awoke, Reginald was in sick bay, though there was no kind face of Beverly Crusher telling him that he was alright. Instead, it was the face of Alyssa Ogawa wearing the heavy blue coat that signified the position of Chief Medical Officer onboard the Enterprise. Still reeling from the effects of the transporter, Barclay couldn't help but emit a panicked gasp and tried to flail his limbs, but found himself restrained by a forcefield. Her was still in that horrible reality! He was still a woman! Ogawa escaped from the crystal and was there to punish him by making him like the captain! He didn't want to be a sex toy!<br>\r\n<br>\r\nThe lanky engineer thrashed as much as he could on the bed, panicking right up until Doctor Ogawa injeted him with a hypospray filled with relaxant. As the miracle drugs poured through his system Reg still felt a twinge of panic (afterall, the man was just a bundle of nervousness that could never be truly calmed) but was almost too relaxed to care. As he lolled about as medbay began to blur, he only half heard what Alyssa said about how he was safe now, and that everything had been explained before he felt his eyelids begin to droop close.<br>\r\n<br>\r\nCaptain Jean-Luc Picard stood next to Will Riker at the far edge of the medical bay, outside of the now dozing engineer's line of sight.<br>\r\n<br>\r\n\"It seems like Ogawa was wrong. He wasn't ready for the shock.\" Riker said  as he leaned against the padded beige wall, arms crossed with a looked of bemused concern on his bearded face.<br>\r\n<br>\r\n\"Well Number One, she has a lot to learn. She's Chief Medical Officer until we can return to Starfleet Headquarters and retrieve Dr. Pulaski, whom I hear was very pleased to get out of Starfleet Medical. In any case, I believe it is time for us to take our leave. DOCTOR Ogawa will inform us when Reg is ready to integrate back into his normal duties onboard this starship\"<br>\r\n<br>\r\nThe captain and his first officer left the medical bay as quietly as they could and proceeded through the comfortable, familiar hallways of the USS Enterprise, Riker attempting to goad his captain into revealing some sort of embarrassing story from the alternate universe and Picard's brief tenure as a young woman, but the old man remained stoic and reserved until they reached a turbolift. Without hesitation Riker stepped into the lift, ready to return to the bridge, but his face scrunched in confusion as he saw Picard still standing in the passageway.<br>\r\n<br>\r\n\"What, you're not coming?\"<br>\r\n<br>\r\n\"Number One, I believe a Federation officer, when placed under situtions of extreme duress, can delegate command of his vessel, however briefly, to his first officer.\" Picard said, and then a rare, wry smile appeared on the older man's face. \"After all, I'm sure that, from time to time, even that alternate universe had to rely on Wilma Riker\"<br>\r\n<br>\r\nThe turbolift closed on the shocked face of William Riker as Jean-Luc strolled away, chuckling to himself as he made himself along the Federation flagship's halls and feeling QUITE relieved that the situation had resolved itself, though he could not deny the feeling of regret for leaving Beverly to her fate. After a few minutes and passing a untold number of crew, men, women, human and alien, all in proper Starfleet uniforms, Picard came to a stop before a large door. After punching some commands into the panel next to the doors, Picard entered into a large black room with a bright yellow grid. The doors of the holodeck closed behind him.<br>\r\n<br>\r\n\"Computer, run program 'Lucy Picard'. And make sure that I have plenty of entertainment\"</span></div></div>",
             "created":1391317200,
             "id":1737363,
@@ -4571,8 +4570,6 @@
             "title":"other"
         },
         "1513":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Jadzia Dax",
                 "Kira Neryes"
@@ -4583,8 +4580,6 @@
             "title":"DS9"
         },
         "15131":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "\"Tampon\"",
                 "Sompthing Else"
@@ -4595,8 +4590,6 @@
             "title":"Jadzia Dax"
         },
         "151311":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "turns her into a tampon",
                 "sompthing else"
@@ -4607,8 +4600,6 @@
             "title":"\"Tampon\""
         },
         "1513111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "unable to",
                 " just shocked but can only roll"
@@ -4619,8 +4610,6 @@
             "title":"turns her into a tampon"
         },
         "15131111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Trys to teleport to sickbay but compuer won't allow her to.",
                 "Replicator pad has time limit on how long something can be on the pad. "
@@ -4631,8 +4620,6 @@
             "title":"unable to"
         },
         "151311112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Toilet",
                 "Back into the replicator Cartridge"
@@ -4643,8 +4630,6 @@
             "title":"Replicator pad has time limit"
         },
         "1513111121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Waste Processing",
                 "Sompthing Else"
@@ -4655,8 +4640,6 @@
             "title":"Toilet"
         },
         "15131111211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She is very lucky ",
                 "She is Not so lucky"
@@ -7963,8 +7946,6 @@
             "title":"In search of a mate"
         },
         "1543":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Voyager",
                 "DS9",
@@ -7976,8 +7957,6 @@
             "title":"Using The Toilet"
         },
         "15431":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "B' Lanna",
                 "Seven of Nine"
@@ -8154,8 +8133,6 @@
             "title":"B'lanna's badge chirps, demanding atten..."
         },
         "154312":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She is turning into Piss",
                 "She is Turninginto Crap"
@@ -8166,8 +8143,6 @@
             "title":"Seven of Nine"
         },
         "1543121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "B'lanna's quarters",
                 "Captain Janeway's Quarters"
@@ -8178,8 +8153,6 @@
             "title":"She is turning into Piss"
         },
         "15431211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "captain Janeway's Quarters",
                 "Waste Processing"
@@ -8250,8 +8223,6 @@
             "title":"The puddle goes somewhere."
         },
         "15432":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Jadzia Dax",
                 "Kira"
@@ -8262,8 +8233,6 @@
             "title":"DS9"
         },
         "154321":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Jadzia turns to piss and falls into the toilet",
                 "She is Transported as piss to Someone's bladder."
@@ -8274,8 +8243,6 @@
             "title":"Jadzia Dax"
         },
         "1543211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Goes to waste processing ",
                 "sompthing else"
@@ -8286,8 +8253,6 @@
             "title":"Jadzia turns to piss and falls into the toilet"
         },
         "15432111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Drink her",
                 "Piss Jadzia will be the fluid in the enema Kes is giving herself"
@@ -8298,8 +8263,6 @@
             "title":"Goes to waste processing "
         },
         "154321111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The toilet",
                 "A matter converter"
@@ -8310,8 +8273,6 @@
             "title":"Drink her"
         },
         "1543211112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Jadzias Normal Form",
                 "Crap"
@@ -8334,8 +8295,6 @@
             "title":"Jadzias Normal Form"
         },
         "154321111212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Her Vagina ",
                 "Her Ass"
@@ -8346,8 +8305,6 @@
             "title":"Tampon"
         },
         "1543211112121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Turns Kes into something else",
                 "Kisses her"
@@ -8370,8 +8327,6 @@
             "title":"more scenarios"
         },
         "154331":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Voyager",
                 "other"
@@ -8502,8 +8457,6 @@
             "title":"Other effects"
         },
         "1543311221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Same",
                 "Various"
@@ -8514,8 +8467,6 @@
             "title":"Age Change"
         },
         "15433112211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Younger",
                 "Older"
@@ -8526,8 +8477,6 @@
             "title":"Same"
         },
         "15433112212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Younger overall",
                 "Older overall"
@@ -8670,8 +8619,6 @@
             "title":"Fall of the iron lady"
         },
         "1543312":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Next Generation",
                 "more"

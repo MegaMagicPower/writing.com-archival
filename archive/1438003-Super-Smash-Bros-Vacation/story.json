@@ -16,8 +16,6 @@
             "title":"Let's Go! "
         },
         "12":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Mario",
                 "Link",
@@ -44,8 +42,6 @@
             "title":"Another choice "
         },
         "13":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Continue.."
             ],
@@ -55,8 +51,6 @@
             "title":"Kawasaki's dinner disaster..."
         },
         "131":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "promptly refuse",
                 "go with Luigi and Daisy",
@@ -68,8 +62,6 @@
             "title":"Mario time!"
         },
         "1312":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "continue",
                 "bak with kirby",
@@ -93,8 +85,6 @@
             "title":"back with kirby"
         },
         "13123":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "samus",
                 "falco"

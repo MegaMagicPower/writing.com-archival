@@ -14,8 +14,6 @@
             "title":"Choose your side"
         },
         "11":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Brandon",
                 "Johnson",
@@ -187,8 +185,6 @@
             "title":"The humans blood will quench the hatchlings."
         },
         "1311":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Are you captured by the marines and used to experiment on.",
                 "Are you recovered by your brethren xenomorphs.",
@@ -274,7 +270,6 @@
         "132221":{
             "author_id":"w38pj",
             "author_name":"LoveDystopian",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You give up. The pain is stronger than ever. Why? <i>Why??</i> My queen... goodbye.</span></div></span></div>",
             "created":1434171600,
             "id":1992172,

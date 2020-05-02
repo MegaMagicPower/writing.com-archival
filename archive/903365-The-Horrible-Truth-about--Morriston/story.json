@@ -102,7 +102,6 @@
         "11121122":{
             "author_id":"erendon",
             "author_name":"Oishi1",
-            "choices":null,
             "content":"<div class=\"\"><div> <span>You quickly threw all of your stuff into your suitcase and rand down the stairs throwing the motel key onto the front desk. You jumped into your car and  floored it. You didn't stop until you got home. You decided to fudge the census. Who'd know anyway. There was no way you were staying there another night.</span></div></div>",
             "created":1099285200,
             "id":223465,
@@ -217,8 +216,6 @@
             "title":"stay unnoticed"
         },
         "12111121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "follow him",
                 "go into the building"
@@ -229,8 +226,6 @@
             "title":"Follow"
         },
         "121111212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "cross the magic circle to the girl.",
                 "refuse, something isn't right."
@@ -241,8 +236,6 @@
             "title":"go into the building"
         },
         "1211112122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The old man",
                 "someone else"
@@ -253,8 +246,6 @@
             "title":"refuse, something isn't right."
         },
         "12111121221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Get the Hell out of there!",
                 "Your'e a professional! Stay!"
@@ -265,8 +256,6 @@
             "title":"The old man"
         },
         "121111212212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Still where you are,but everthing is gone.",
                 "somewhere else."
@@ -277,8 +266,6 @@
             "title":"Your'e a professional! Stay!"
         },
         "12112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You awake drenched in cold sweat...",
                 "Write your own: Could be too dangerous - so back to sleep!"

@@ -31,8 +31,6 @@
             "title":"New neighbers"
         },
         "111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "head to the office for the meeting",
                 "Walk over to the local business",
@@ -44,8 +42,6 @@
             "title":"rushs onward, answering the phone"
         },
         "1112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A candy store.",
                 "A sumo stable.",
@@ -57,8 +53,6 @@
             "title":"Walk over to the local business"
         },
         "11121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He offers to give you some candy from his secret stash.",
                 "He pulls out a half-freezer-burnt chocolate bar from the cooler."
@@ -69,8 +63,6 @@
             "title":"A candy store."
         },
         "111211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Wrap up the rest of the candy and head to work",
                 "Have another, and maybe one more, on the way"
@@ -81,8 +73,6 @@
             "title":"He offers to give you some candy from his secre..."
         },
         "1113":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Someone sits down on the bench next to you.",
                 "You feel a sudden rumble of hunger."
@@ -93,8 +83,6 @@
             "title":"Stop and grab coffee - it's gonna be a long..."
         },
         "11131":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "a sumo academy",
                 "an all-you-can-eat restaurant"
@@ -105,8 +93,6 @@
             "title":"Someone sits down on the bench next to you."
         },
         "111312":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The job search doesn't go so well"
             ],
@@ -116,8 +102,6 @@
             "title":"an all-you-can-eat restaurant"
         },
         "1113121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Skip to end of second month - you've gained 40 pounds",
                 "Skip to end of third month - you've gained 75 pounds"
@@ -128,8 +112,6 @@
             "title":"The job search doesn't go so well"
         },
         "11131211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "An opening lined up with your experience!",
                 "Sumo... and it pays well. Really well."
@@ -140,8 +122,6 @@
             "title":"Skip to end of second month - you've gained..."
         },
         "111312112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Email anyway - they might be willing to try you out anyway",
                 "Get to 225 pounds!"
@@ -152,8 +132,6 @@
             "title":"Sumo... and it pays well. Really well."
         },
         "1113121122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "you've gained 15 pounds (now weighing 207)",
                 "you've gained 32 pounds (225)"
@@ -164,8 +142,6 @@
             "title":"Get to 225 pounds!"
         },
         "11131211221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "230 pounds (23 pounds gained)",
                 "250 pounds (40 pounds heavier)"
@@ -176,8 +152,6 @@
             "title":"you've gained 15 pounds (now weighing 207)"
         },
         "111312112212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Head on over!",
                 "Your weight class is full"
@@ -188,8 +162,6 @@
             "title":"250 pounds (40 pounds heavier)"
         },
         "1113121122122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Join the waitlist and train at 250",
                 "Get up to 275 and get in the ring ASAP!"
@@ -200,8 +172,6 @@
             "title":"Your weight class is full"
         },
         "11131211221222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "275",
                 "300"
@@ -212,8 +182,6 @@
             "title":"Get up to 275 and get in the ring ASAP!"
         },
         "111312112212222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You keep eating, leaving sumo be",
                 "You finally hit 300 and go to wrestle"
@@ -224,8 +192,6 @@
             "title":"300"
         },
         "1113121122122221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "you are an ad",
                 "The waitress talks to you"
@@ -248,8 +214,6 @@
             "title":"The waitress talks to you"
         },
         "11131212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "to buy new clothes and assess the situation",
                 "talk to Jake and see what he has to say"
@@ -260,8 +224,6 @@
             "title":"Skip to end of third month - you've gained ..."
         },
         "111312121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Buy the XL and leave",
                 "Buy the 2XL, call the card"
@@ -272,8 +234,6 @@
             "title":"to buy new clothes and assess the situation"
         },
         "1113121212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "say yes before you really think",
                 "tell him you'll consider it"
@@ -284,8 +244,6 @@
             "title":"Buy the 2XL, call the card"
         },
         "11131212121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go full hog so you get paid quicker",
                 "Eat normally, no need to go crazy"
@@ -296,8 +254,6 @@
             "title":"say yes before you really think"
         },
         "111312121211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "you reach 50 pounds two weeks later",
                 "you're 50 pounds bigger a month later"
@@ -332,8 +288,6 @@
             "title":"Large and In Charge"
         },
         "11132":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "scientific research",
                 "taste-tester"
@@ -344,8 +298,6 @@
             "title":"You feel a sudden rumble of hunger."
         },
         "111321":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Physical",
                 "Digestive"
@@ -356,8 +308,6 @@
             "title":"scientific research"
         },
         "1113211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "20 pounds bigger",
                 "50 pounds bigger"
@@ -368,8 +318,6 @@
             "title":"Physical"
         },
         "11132111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "a group of engineers",
                 "three other furs with watches on"
@@ -405,8 +353,6 @@
             "title":"He backs up"
         },
         "11312":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Sit right there",
                 "Come on down!"
@@ -417,8 +363,6 @@
             "title":"forget it pal"
         },
         "113121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Two male furs that would dwarf an elephant",
                 "Four normal, female furs "
@@ -429,8 +373,6 @@
             "title":"Sit right there"
         },
         "1131211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A large fast-food complex",
                 "The academy"
@@ -441,8 +383,6 @@
             "title":"Two male furs that would dwarf an elephant"
         },
         "11312111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "...a double bacon cheese burger, fries,and a large chocolate milshake!\"",
                 "...a salad and a small water.\""
@@ -453,8 +393,6 @@
             "title":"Fast Food"
         },
         "113121111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 ".you'll gain 10 lbs. for every bite!",
                 "your appetite will shoot up!"
@@ -465,8 +403,6 @@
             "title":"Double bacon cheese burger"
         },
         "1131211111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "as fat as the sumos!",
                 "even bigger!"
@@ -477,8 +413,6 @@
             "title":"First big gain!"
         },
         "11312111112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "After 3 hours",
                 "After 4 hours"
@@ -501,8 +435,6 @@
             "title":"After 4 hours"
         },
         "1131212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Wrestling",
                 "Eating"
@@ -513,8 +445,6 @@
             "title":"Four normal, female furs... but not for long!"
         },
         "11312122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You see a distended gut",
                 "You see you're gaining all over"
@@ -525,8 +455,6 @@
             "title":"Eating"
         },
         "113121222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Hunger pangs lead you to keep eating",
                 "You get cold feet"
@@ -573,8 +501,6 @@
             "title":"let me think about it I'm busy right now"
         },
         "113131":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Sumo Belt",
                 "Note"
@@ -682,8 +608,6 @@
             "title":"You should probably go to work..."
         },
         "12":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go to the store for some groceries",
                 "Watch the morning news",
@@ -709,8 +633,6 @@
             "title":"Challenge Accepted"
         },
         "13":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Clean yourself up",
                 "Go into town",
@@ -736,8 +658,6 @@
             "title":"Interesting Experiance"
         },
         "1311":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "295",
                 "320",
@@ -761,8 +681,6 @@
             "title":"Internet help gain weight?"
         },
         "1341":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You keep eating, you always wanted to be a real fatso",
                 "you stop, this is enough for now"
@@ -773,8 +691,6 @@
             "title":"A large discovery"
         },
         "13411":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Try to find some way to fix it; you were just experimenting",
                 "KEEP IT GOING"
@@ -812,8 +728,6 @@
             "title":"600 pounds of Lion"
         },
         "1421":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Watch TV and do without",
                 "Go to a bakery"
@@ -824,8 +738,6 @@
             "title":"Always room for dessert"
         },
         "14211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go to the bakery",
                 "Go to a grocery store"
@@ -836,8 +748,6 @@
             "title":"Watch TV"
         },
         "142111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go to the chain bakery",
                 "Go to the grocery"
@@ -848,8 +758,6 @@
             "title":"A Wise Decision"
         },
         "14212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Get some donuts",
                 "Diet Destroyer!"
@@ -873,8 +781,6 @@
             "title":"A belly fit for a king^-^"
         },
         "1432":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go Upstairs And Find Clothes",
                 "(Free Option)"
@@ -885,8 +791,6 @@
             "title":"More!"
         },
         "145":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Can walk",
                 "Can't get up, but can roll",
@@ -911,8 +815,6 @@
             "title":"Walk It Off"
         },
         "1453":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "we go on that cruise!",
                 "we go to L.A.!"
@@ -923,8 +825,6 @@
             "title":"strange dreams."
         },
         "14531":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "500lb. obese lion",
                 "800lb. king sized lion"
@@ -973,8 +873,6 @@
             "title":"Growing Pudgy"
         },
         "152":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Pizza place",
                 "Chinese restaurant"
@@ -985,8 +883,6 @@
             "title":"Thinking about a new life"
         },
         "1521":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The phone rings",
                 "The door bell rings"
@@ -997,8 +893,6 @@
             "title":"Pizza and flakes"
         },
         "15212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go out to buy some food.",
                 "Eat the food in the house"
@@ -1009,8 +903,6 @@
             "title":"Gorging"
         },
         "152121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Take the pill now",
                 "Take the pill later"
@@ -1021,8 +913,6 @@
             "title":"Shopping"
         },
         "1521211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go to the scale",
                 "Try the sumo suit"
@@ -1033,8 +923,6 @@
             "title":"The big gain"
         },
         "15212111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Next morning",
                 "Later that night"
@@ -1045,8 +933,6 @@
             "title":"The scale"
         },
         "152121111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The all you can eat buffet",
                 "Uncle's Sammy burger palace"
@@ -1057,8 +943,6 @@
             "title":"The sumo belt"
         },
         "1521211111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Jenny from the pizza parlour was there!",
                 "You were one of the SMALLER applicants!"
@@ -1069,8 +953,6 @@
             "title":"As much as you can"
         },
         "15212111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "it's jenny, the female wolf who brought ya the pizzas!",
                 "ummm, whats a pok'emon doing in these parts?"
@@ -1081,8 +963,6 @@
             "title":"she looks familiar, but... is it really her?!?"
         },
         "152121111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "2 pizzas",
                 "6 pizzas, because the boss thought you deserved it!"
@@ -1093,8 +973,6 @@
             "title":"bravery = more food!"
         },
         "1521211111112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Eat the cake",
                 "Stay the same weight till tomorrow"
@@ -1117,8 +995,6 @@
             "title":"Eat the cake"
         },
         "152121111111211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Weigh Myself",
                 "To The Sumo School"
@@ -1153,8 +1029,6 @@
             "title":"Order some food."
         },
         "152121111112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "go to Dragomike's sumo school.",
                 "eat, that is, after taking another WG pill!"
@@ -1165,8 +1039,6 @@
             "title":"a curious item"
         },
         "1522":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go to the JAPANESE Restaurant",
                 "Go to the bakery"

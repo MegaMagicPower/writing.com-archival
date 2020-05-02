@@ -15,8 +15,6 @@
             "title":"The Choosing.."
         },
         "11":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "5-10",
                 "10-15",
@@ -29,8 +27,6 @@
             "title":"Boy"
         },
         "111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Potty Training Spike",
                 "Tommy"
@@ -117,8 +113,6 @@
             "title":"Option 1: little girl bladder"
         },
         "11212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Tell you about her wish",
                 "Tease you about your accident"
@@ -129,8 +123,6 @@
             "title":"Go back to the dinner table"
         },
         "11213":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Tells you what she did",
                 "Makes fun of you"
@@ -141,8 +133,6 @@
             "title":"Your choice"
         },
         "112131":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "she could be older",
                 "you could stay with her for the next 2 months"
@@ -165,8 +155,6 @@
             "title":"she could be older"
         },
         "11213112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "still 13 ",
                 "getting younger"
@@ -177,8 +165,6 @@
             "title":"Other"
         },
         "112131121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "15",
                 "18"
@@ -191,7 +177,6 @@
         "1121311211":{
             "author_id":"trevolution321",
             "author_name":"Sarah Miles",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Looks like Emily got what she wanted and has control of her bladder now.<br>\r\n<br>\r\nYou continue your life and shake everything off like its a dream </span></div></span></div>",
             "created":1375592400,
             "id":1640407,
@@ -210,8 +195,6 @@
             "title":"getting younger"
         },
         "1121311222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You are 4 and she is 16",
                 "You are 8 and she is 12"
@@ -234,8 +217,6 @@
             "title":"You are 4 and she is 16"
         },
         "112131122212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Emily is still 16",
                 "Emily is playing in her diapers"
@@ -248,15 +229,12 @@
         "1121311222122":{
             "author_id":"trevolution321",
             "author_name":"Sarah Miles",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have a sigh of relief as you see Emily play there in her diapers.<br>\r\n<br>\r\nYou go home and try to forget about your weird diapered dream.</span></div></span></div>",
             "created":1375592400,
             "id":1639915,
             "title":"Emily is playing in her diapers"
         },
         "1121312":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Your aunt comes in",
                 "Your mom comes in"
@@ -290,8 +268,6 @@
             "title":"Puts you in a diaper"
         },
         "1121312211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Pull-up ",
                 "Diaper"
@@ -314,8 +290,6 @@
             "title":"Pull-up "
         },
         "112131221112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Because I like them ",
                 "Because Emily made me"
@@ -338,8 +312,6 @@
             "title":"Because Emily made me"
         },
         "11213122111221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She looks older",
                 "She is pooping her diaper"
@@ -410,8 +382,6 @@
             "title":"Emily has to poop/pee"
         },
         "1121312211122121212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You say you do",
                 "You say you don't "
@@ -434,8 +404,6 @@
             "title":"You say you don't "
         },
         "112131221112212121222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Adam and Emily stop you ",
                 "You get there"
@@ -458,8 +426,6 @@
             "title":"Adam and Emily stop you "
         },
         "11213122111221212122212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She lets you go",
                 "You poop"
@@ -482,8 +448,6 @@
             "title":"You break free"
         },
         "1121312211122121212221211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Emilys",
                 "Adams"
@@ -506,8 +470,6 @@
             "title":"Emilys"
         },
         "112131221112212121222121111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The teacher sees this",
                 "You make fun of her"
@@ -530,8 +492,6 @@
             "title":"The teacher sees this"
         },
         "11213122111221212122212111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "There are no diapers that will fit her",
                 "She refused underwear"
@@ -554,8 +514,6 @@
             "title":"She refused underwear"
         },
         "1121312211122121212221211111121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Pee ",
                 "Poop"
@@ -578,8 +536,6 @@
             "title":"Poop"
         },
         "112131221112212121222121111112121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "At home",
                 "In the car"
@@ -602,8 +558,6 @@
             "title":"In the car"
         },
         "11213122111221212122212111111212121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Notices your small size",
                 "Doesn't recognize you"
@@ -626,8 +580,6 @@
             "title":"Notices your small size"
         },
         "1121312211122121212221211111121212112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Contiue"
             ],
@@ -648,8 +600,6 @@
             "title":"Contiue"
         },
         "112131221112212121222121111112121211211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Because I am under confident and it causes me to be small",
                 "Because Emily shrunk me"
@@ -672,8 +622,6 @@
             "title":"Because Emily shrunk me"
         },
         "11213122111221212122212111111212121121121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "In her diaper ",
                 "In Adams diaper"
@@ -695,8 +643,6 @@
             "title":"In her diaper "
         },
         "1121312211122121212221211111121212112112111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Shrinks you again ",
                 "Other"
@@ -719,8 +665,6 @@
             "title":"Shrinks you again "
         },
         "112131221112212121222121111112121211211211111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Shrinks you to the size of a two year old?",
                 "Holds you down till you use your diaper"
@@ -743,8 +687,6 @@
             "title":"Holds you down till you use your diaper"
         },
         "11213122111221212122212111111212121121121111122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Tell on Emily ",
                 "Go play with an 8 year old girl who is your friend "
@@ -779,8 +721,6 @@
             "title":"Time out on her potty chair"
         },
         "11213122111221212122212111111212121121121111122111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Ignore her it's not your problem",
                 "Tell on her"
@@ -802,8 +742,6 @@
             "title":"Tell on her"
         },
         "1121312211122121212221211111121212112112111112211121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "It's fine if she wants to be diapered then diaper her",
                 "That is an issue"
@@ -838,8 +776,6 @@
             "title":"Is changed in underwear"
         },
         "1121312211122121212221211111121212112112111112211121212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She calls your girlfriend when you get home",
                 "She makes sure that Adam helps her get you to be a baby"
@@ -862,8 +798,6 @@
             "title":"She makes sure that Adam helps her get you to b..."
         },
         "112131221112212121222121111112121211211211111221112121222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Put it on you ",
                 "Get a blue onesie while she diapers you "
@@ -886,8 +820,6 @@
             "title":"Put it on you "
         },
         "11213122111221212122212111111212121121121111122111212122211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Your diaper broke open ",
                 "You diaper is huge!!!"
@@ -910,8 +842,6 @@
             "title":"Your diaper broke open "
         },
         "1121312211122121212221211111121212112112111112211121212221112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She treats you like a baby still",
                 "She finally wants to help you"
@@ -934,8 +864,6 @@
             "title":"She finally wants to help you"
         },
         "112131221112212121222121111112121211211211111221112121222111222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She gets it ",
                 "She waits for a bit"
@@ -946,8 +874,6 @@
             "title":"Get the shrink ray from them"
         },
         "1121312211122121212221211111121212112112111112211121212221112222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Emily came in and messed with you",
                 "Adam came in and wanted to play"
@@ -982,8 +908,6 @@
             "title":"Giving you laxatives"
         },
         "1121312211122121212221211111121212112112111112211121212221112222112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Your mom sees you",
                 "You grow back to normal randomly"
@@ -1005,8 +929,6 @@
             "title":"Your mom sees you"
         },
         "112131221112212121222121111112121211211211111221112121222111222211211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Get that grow gun and make you bigger",
                 "Let it go"
@@ -1017,8 +939,6 @@
             "title":"Yes, she gave me a laxative cookie"
         },
         "1121312211122121212221211111121212112112111112211121212221112222112112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The play house in your back yard",
                 "The playground in your back yard"
@@ -1041,8 +961,6 @@
             "title":"Makes fun of you"
         },
         "1121322":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You instead arrive at a store",
                 "You get home"
@@ -1065,8 +983,6 @@
             "title":"You get home"
         },
         "112132221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "It leaked",
                 "You are smaller"
@@ -1089,8 +1005,6 @@
             "title":"You are smaller"
         },
         "11213222121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She lets you ",
                 "She lies you down herself "
@@ -1113,8 +1027,6 @@
             "title":"She lets you "
         },
         "1121322212111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Are smaller",
                 "Other"
@@ -1137,8 +1049,6 @@
             "title":"Are smaller"
         },
         "112132221211111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You are he height",
                 "She has gotten older and you younger"
@@ -1173,8 +1083,6 @@
             "title":"She has gotten older and you younger"
         },
         "1122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Truth",
                 "Dare",
@@ -1198,8 +1106,6 @@
             "title":"Truth"
         },
         "112211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She chooses Adams diaper ",
                 "She chooses Emily's pull-up "
@@ -1222,8 +1128,6 @@
             "title":"She chooses Emily's pull-up "
         },
         "11221122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Her mom notices",
                 "Emily says that Amy pooped"
@@ -1246,8 +1150,6 @@
             "title":"Her mom notices"
         },
         "1122112212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "After dinner you talk to Amy",
                 "After dinner the game resumes"
@@ -1270,8 +1172,6 @@
             "title":"After dinner the game resumes"
         },
         "112211221221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You accept the dare",
                 "You decline the dare"
@@ -1294,8 +1194,6 @@
             "title":"You accept the dare"
         },
         "11221122122111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Lie down so I can put it on you",
                 "Put Adams diaper back and put on one of my pull-ups."
@@ -1318,8 +1216,6 @@
             "title":"Lie down so I can put it on you"
         },
         "1122112212211111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Emily holds up one of Amus skirts",
                 "Adam gives you some sweatpants"
@@ -1342,8 +1238,6 @@
             "title":"Emily holds up one of Amus skirts"
         },
         "112211221221111112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go with her and tell your aunt",
                 "Say no you wanted truth "
@@ -1354,8 +1248,6 @@
             "title":"Your choice"
         },
         "112211221222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Yes",
                 "No"
@@ -1474,8 +1366,6 @@
             "title":"Mess the pull up and be changed by your cousin"
         },
         "11222211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Your mom",
                 "Your aunt"
@@ -1778,8 +1668,6 @@
             "title":"No"
         },
         "112311112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Yes, I would like to edit my character's age/gender.",
                 "No, I'm fine with my choice."
@@ -1790,8 +1678,6 @@
             "title":"Education is important..."
         },
         "11232":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Yes",
                 "No"
@@ -1814,8 +1700,6 @@
             "title":"No"
         },
         "1123221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Blackmail you",
                 "Ask why you are wearing one"
@@ -1838,8 +1722,6 @@
             "title":"Ask why you are wearing one"
         },
         "112322122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Yes",
                 "No"
@@ -1850,8 +1732,6 @@
             "title":"You yell at him"
         },
         "113":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You turn around and decide to try on one of their diapers",
                 "They ask you why you are not in a diaper like they are",
@@ -1863,8 +1743,6 @@
             "title":"15-20"
         },
         "1131":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Adam's (boy's diaper)",
                 "Emily's (girls diaper)"
@@ -1875,8 +1753,6 @@
             "title":"You turn around and decide to try on one of the..."
         },
         "11311":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Mom",
                 "One of your siblings"
@@ -1899,8 +1775,6 @@
             "title":"Mom"
         },
         "1131111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Get a diaper again ",
                 "You feel srange"
@@ -1911,8 +1785,6 @@
             "title":"Math"
         },
         "11311111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "he catches you",
                 "You get away with it"
@@ -1935,8 +1807,6 @@
             "title":"You get away with it"
         },
         "1131111121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The diaper rips",
                 "Your mom comes in and sees you"
@@ -1959,8 +1829,6 @@
             "title":"The diaper rips"
         },
         "113111112112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Ran to get a new one",
                 "just pooped in the toilet"
@@ -1995,8 +1863,6 @@
             "title":"You feel srange"
         },
         "113112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Emily ",
                 "Adam "
@@ -2007,8 +1873,6 @@
             "title":"One of your siblings"
         },
         "1131121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Did you use the diaper Fred",
                 "Do you like diapers Fred"
@@ -2019,8 +1883,6 @@
             "title":"Emily "
         },
         "11311211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "\"Then let me check Fred\"",
                 "\"Ok then Fred\""
@@ -2031,8 +1893,6 @@
             "title":"Did you use the diaper Fred"
         },
         "113112111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "messy",
                 "clean"
@@ -2055,8 +1915,6 @@
             "title":"messy"
         },
         "11311211111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "It should fit you",
                 "It is too small she grows it"
@@ -2079,8 +1937,6 @@
             "title":"It should fit you"
         },
         "1131121111112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Play ",
                 "Shrink to baby size"
@@ -2091,8 +1947,6 @@
             "title":"She, eventually. figures it out"
         },
         "11311211111121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Guess this smell",
                 "hide in my diaper"
@@ -2115,8 +1969,6 @@
             "title":"Guess this smell"
         },
         "1131121111112111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You get to wear it",
                 "You get to go again"
@@ -2139,8 +1991,6 @@
             "title":"You get to wear it"
         },
         "113112111111211111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "By using a shrink ray",
                 "By making you poop again"
@@ -2151,8 +2001,6 @@
             "title":"You try and remove the diaper"
         },
         "1131121111112111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You keep messing with the diaper the gun is fake, or so you think",
                 "Stop and listen to your \"BIG\" sister"
@@ -2175,8 +2023,6 @@
             "title":"Stop and listen to your \"BIG\" sister"
         },
         "113112111111211111122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "4 feet tall",
                 "3 feet tall Adams height"
@@ -2199,8 +2045,6 @@
             "title":"4 feet tall"
         },
         "11311211111121111112212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Change her",
                 "Dont change her"
@@ -2211,8 +2055,6 @@
             "title":"Asks you to change her messy diaper"
         },
         "113112111111211111122122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Shrinks you again",
                 "Gives you one more chance"
@@ -2223,8 +2065,6 @@
             "title":"Dont change her"
         },
         "11311211111121112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Baby powder",
                 "Other"
@@ -2247,8 +2087,6 @@
             "title":"Other"
         },
         "1131121111112111221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You get to wear it",
                 "You can change my dirty pullup"
@@ -2271,8 +2109,6 @@
             "title":"You can change my dirty pullup"
         },
         "113112111111211122121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She gets vey mad",
                 "Other"
@@ -2283,8 +2119,6 @@
             "title":"Yes you resist"
         },
         "113112111112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She diapers you",
                 "Other"
@@ -2307,8 +2141,6 @@
             "title":"Grows the messy diaper"
         },
         "113112111122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Grows herself",
                 "Tells you to wear her diaper too or she will punish you"
@@ -2343,8 +2175,6 @@
             "title":"Do you like diapers Fred"
         },
         "113112121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Well put it on",
                 "Question yourself"
@@ -2367,8 +2197,6 @@
             "title":"Question yourself"
         },
         "113112122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Ok",
                 "Liar"
@@ -2391,8 +2219,6 @@
             "title":"Ok"
         },
         "1131121222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Truth ",
                 "Lie again"
@@ -2415,8 +2241,6 @@
             "title":"Lie again"
         },
         "113112122221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Your privates (dodged a bullet)",
                 "The folded up diaper"
@@ -2439,8 +2263,6 @@
             "title":"Your privates (dodged a bullet)"
         },
         "11311212222111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go with her",
                 "Go home with her insead ;)"
@@ -2463,8 +2285,6 @@
             "title":"Go with her"
         },
         "1131121222211111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go ",
                 "Go home"
@@ -2487,8 +2307,6 @@
             "title":"Go "
         },
         "113112122221111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Let her",
                 "Change her first"
@@ -2511,8 +2329,6 @@
             "title":"Change her first"
         },
         "11311212222111111121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Tell her",
                 "Don't say why "
@@ -2535,8 +2351,6 @@
             "title":"Tell her"
         },
         "1131121222211111112111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "I do too",
                 "Well little guy how about I be the mommy and you are the baby"
@@ -2559,8 +2373,6 @@
             "title":"I do too"
         },
         "113112122221111111211112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Sure love",
                 "Just one sec you say as you..."
@@ -2583,8 +2395,6 @@
             "title":"Sure love"
         },
         "11311212222111111121111211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "One of her diapers",
                 "One of her baby brothers diapers"
@@ -2607,8 +2417,6 @@
             "title":"One of her diapers"
         },
         "1131121222211111112111121111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You and amber shrink",
                 "Adam and Emily grow"
@@ -2631,8 +2439,6 @@
             "title":"You and amber shrink"
         },
         "113112122221111111211112111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Fred and Amber like diapers",
                 "Eww Fred and Amber pooped"
@@ -2655,8 +2461,6 @@
             "title":"Eww Fred and Amber pooped"
         },
         "11311212222111111121111211111122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A kid walks up",
                 "Emily and Adam come to get you and Amber"
@@ -2679,8 +2483,6 @@
             "title":"Emily and Adam come to get you and Amber"
         },
         "1131121222211111112111121111112222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "is your ex girlfriend",
                 "is ready to help you two"
@@ -2703,8 +2505,6 @@
             "title":"is ready to help you two"
         },
         "113112122221111111211112111111222221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You poop",
                 "Other"
@@ -2727,8 +2527,6 @@
             "title":"Other"
         },
         "11311212222111111121111211111122222122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "After nap time",
                 "During nap time you poop"
@@ -2763,8 +2561,6 @@
             "title":"Diaper Rain (basically this http://www.writing...."
         },
         "11311212222111111121111211111122222122112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He pees on you two",
                 "Emily starts to poop in front of you two"
@@ -2787,8 +2583,6 @@
             "title":"Emily starts to poop in front of you two"
         },
         "1131121222211111112111121111112222212211222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Grow you back to baby size Amber and Fred",
                 "Play another game at ant size Amber and Fred"
@@ -2799,8 +2593,6 @@
             "title":"You get hit"
         },
         "11311212222111111121111211111122222122112221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Emily changes Amber and Adam changes you ",
                 "Emily changes you and Adam changes Amber"
@@ -2823,8 +2615,6 @@
             "title":"Emily changes Amber and Adam changes you "
         },
         "1131121222211111112111121111112222212211222112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Adam and Emily's check up",
                 "To see why you and amber shrunk "
@@ -2847,8 +2637,6 @@
             "title":"Adam and Emily's check up"
         },
         "113112122221111111211112111111222221221122211212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Diaper is opened dr is doing a checkup",
                 "Emily poops the nurse changes her and shrinks too"
@@ -2871,8 +2659,6 @@
             "title":"Emily poops the nurse changes her and shrinks too"
         },
         "11311212222111111121111211111122222122112221121222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Daycare",
                 "Your house"
@@ -2895,8 +2681,6 @@
             "title":"Daycare"
         },
         "1131121222211111112111121111112222212211222112122212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Back in the diaper",
                 "Growth to baby size for amber only she has to take care of you and the nurse"
@@ -2931,8 +2715,6 @@
             "title":"Poops then pees"
         },
         "1131121222211111112111121111112222212211222112122212122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "baby size ",
                 "the size of a 5 year old"
@@ -2955,8 +2737,6 @@
             "title":"the size of a 5 year old"
         },
         "113112122221111111211112111111222221221122211212221212221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Diaper and watch you",
                 "Take you to her house (which is next door)"
@@ -2967,8 +2747,6 @@
             "title":"Grows you to the size of a two year old"
         },
         "113112122221111111211112111111222221221122212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "daycare ",
                 "the babysitters house"
@@ -2991,8 +2769,6 @@
             "title":"Play another game at ant size Amber and Fred"
         },
         "113112122221111111211112111111222221221122221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Hers ",
                 "Adams"
@@ -3015,8 +2791,6 @@
             "title":"Hers "
         },
         "11311212222111111121111211111122222122112222111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She takes you back out",
                 "The worst happens"
@@ -3039,8 +2813,6 @@
             "title":"The worst happens"
         },
         "1131121222211111112111121111112222212211222211122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The leg hole",
                 "up the side of the diaper to the waist band"
@@ -3063,8 +2835,6 @@
             "title":"up the side of the diaper to the waist band"
         },
         "113112122221111111211112111111222221221122221112221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A toilet training potty",
                 "A real one"
@@ -3087,8 +2857,6 @@
             "title":"A toilet training potty"
         },
         "11311212222111111121111211111122222122112222111222111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "pooped",
                 "peed"
@@ -3111,8 +2879,6 @@
             "title":"pooped"
         },
         "1131121222211111112111121111112222212211222211122211112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Adam and Emily can up to you both",
                 "A daycare worker spotted you both with soiled underwear"
@@ -3135,8 +2901,6 @@
             "title":"Adam and Emily can up to you both"
         },
         "113112122221111111211112111111222221221122221112221111212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You hide in the naptime room",
                 "You hide with Amber outside on the playground"
@@ -3159,8 +2923,6 @@
             "title":"You hide with Amber outside on the playground"
         },
         "11311212222111111121111211111122222122112222111222111121221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They give up and you win",
                 "They find you two"
@@ -3171,8 +2933,6 @@
             "title":"Under the slide"
         },
         "113112122221111111211112111111222221221122221112221111212211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Amber?",
                 "You?"
@@ -3183,8 +2943,6 @@
             "title":"They give up and you win"
         },
         "1131121222211111112111121111112222212211222211122211112122111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She ran for it",
                 "A worker asked her what she was doing"
@@ -3195,8 +2953,6 @@
             "title":"Amber beat you"
         },
         "11311212222111111121111211111122222122112222111222111121221112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Amber tells the truth ",
                 "She just says she likes diapers and wants to be a kid again"
@@ -3231,8 +2987,6 @@
             "title":"If you wanna get Chinese food"
         },
         "1131122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "say yes",
                 "say no"
@@ -3243,8 +2997,6 @@
             "title":"Adam "
         },
         "11311221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "lie down so adam can change you",
                 "poop your diaper"
@@ -3255,8 +3007,6 @@
             "title":"say yes"
         },
         "113112211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "emily sees you diaperd",
                 "adam changes you"
@@ -3267,8 +3017,6 @@
             "title":"lie down so adam can change you"
         },
         "1131122111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "To tell mom",
                 "To help change you"
@@ -3303,8 +3051,6 @@
             "title":"Triplet"
         },
         "113112212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Adam tells your mom",
                 "He shrinks you to his size and changes you"
@@ -3327,8 +3073,6 @@
             "title":"He shrinks you to his size and changes you"
         },
         "11311221221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "his size ",
                 "4 feet tall"
@@ -3351,8 +3095,6 @@
             "title":"his size "
         },
         "1131122122112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "just a giant baby",
                 "becomes a teenager"
@@ -3375,8 +3117,6 @@
             "title":"just a giant baby"
         },
         "113112212211211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She gets more people",
                 "She poops"
@@ -3423,8 +3163,6 @@
             "title":"He hands it to you"
         },
         "113112212221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He lets you go",
                 "You use the shrink ray to grow some diapers to your size"
@@ -3447,8 +3185,6 @@
             "title":"You use the shrink ray to grow some diapers to ..."
         },
         "11311221222121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Adam",
                 "Emily"
@@ -3471,8 +3207,6 @@
             "title":"Adam"
         },
         "1131122122212112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Real cars ",
                 "his enlarged baby toys"
@@ -3495,8 +3229,6 @@
             "title":"Real cars "
         },
         "11312":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Mom",
                 "One of your siblings"
@@ -3507,8 +3239,6 @@
             "title":"Emily's (girls diaper)"
         },
         "113122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Adam",
                 "Emily"
@@ -3519,8 +3249,6 @@
             "title":"One of your siblings"
         },
         "1131222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Dont mess she is lying",
                 "Mess your self"
@@ -3531,8 +3259,6 @@
             "title":"Emily"
         },
         "11312221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She is",
                 "She isnt"
@@ -3555,8 +3281,6 @@
             "title":"She is"
         },
         "1131222111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Yes ",
                 "No"
@@ -3567,8 +3291,6 @@
             "title":"Amber (your girlfriend) comes over"
         },
         "11312221111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The mall",
                 "My house"
@@ -3591,8 +3313,6 @@
             "title":"No"
         },
         "113122211121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Amber walks in",
                 "A mom with 2 babies and a 5 year old girl comes in"
@@ -3615,8 +3335,6 @@
             "title":"A mom with 2 babies and a 5 year old girl comes in"
         },
         "11312221112122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The mom checks your diaper",
                 "You go and get in some boy clothes (Baby of course)"
@@ -3627,8 +3345,6 @@
             "title":"Amber is nowhere in sight and you spend the nig..."
         },
         "113122211121221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Fred come with me",
                 "Sally and Fred come with me"
@@ -3639,8 +3355,6 @@
             "title":"The mom checks your diaper"
         },
         "1131222111212211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Lets change that diaper",
                 "Let me introduce myself"
@@ -3651,8 +3365,6 @@
             "title":"Fred come with me"
         },
         "11312221112122111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Fit ",
                 "Didnt fit"
@@ -3675,8 +3387,6 @@
             "title":"Fit "
         },
         "113122211121221112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "One of Sally's diapers",
                 "A gun of some sort"
@@ -3687,8 +3397,6 @@
             "title":"Didnt fit"
         },
         "1131222111212211122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Shrink you smaller than sally to about 4 feet tall",
                 "Grow the twins diaper to fit you"
@@ -3711,8 +3419,6 @@
             "title":"Grow the twins diaper to fit you"
         },
         "113122211121221112222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Sally walked in",
                 "Mommy took you to meet the family "
@@ -3735,8 +3441,6 @@
             "title":"Sally walked in"
         },
         "11312221112122111222212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Diaper fill",
                 "Go fish"
@@ -3771,8 +3475,6 @@
             "title":"Sally and Fred come with me"
         },
         "11312221112122121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Sally has grown",
                 "You have shrunk to Sally's size"
@@ -3795,8 +3497,6 @@
             "title":"You go and get in some boy clothes (Baby of cou..."
         },
         "113122212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You poop ad she stops",
                 "Your mom comes in"
@@ -3819,8 +3519,6 @@
             "title":"You poop ad she stops"
         },
         "11312221212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Pulls out a ray gun",
                 "Gives you a sippy cup full or orange juice"
@@ -3855,8 +3553,6 @@
             "title":"The size of a ken doll"
         },
         "11312221212111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Your too small ",
                 "Now I need to put on that diaper fred"
@@ -3879,8 +3575,6 @@
             "title":"Now I need to put on that diaper fred"
         },
         "1131222121211122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Yes ",
                 "No"
@@ -3903,8 +3597,6 @@
             "title":"Yes "
         },
         "113122212121112211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Don't you dare",
                 "Ok I you leave the diaper you have to be the baby in my game"
@@ -3927,8 +3619,6 @@
             "title":"Ok I you leave the diaper you have to be the ba..."
         },
         "11312221212111221122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A dollhouse",
                 "In her diaper as she goes to her friends house"
@@ -3951,8 +3641,6 @@
             "title":"In her diaper as she goes to her friends house"
         },
         "1131222121211122112222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You play house",
                 "Emily needs a change (your job)"
@@ -3963,8 +3651,6 @@
             "title":"she doesn't"
         },
         "11312221212111221122221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You shrunk more",
                 "Barbie came into the room!!!"
@@ -3975,8 +3661,6 @@
             "title":"You play house"
         },
         "113122212121112211222211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You could be a doll to barbie",
                 "You actually grew a bit"
@@ -4011,8 +3695,6 @@
             "title":"Emily needs a change (your job)"
         },
         "1131222121212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Lets show mommy",
                 "Lets call your girlfriend and make her a baby too "
@@ -4023,8 +3705,6 @@
             "title":"Emily's size"
         },
         "11312221212122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You refuse",
                 "You call your girlfriend"
@@ -4035,8 +3715,6 @@
             "title":"Lets call your girlfriend and make her a baby too "
         },
         "1132":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Walk over to Emily and take the diaper and wear it",
                 "Say no thank you and walk out",
@@ -4048,8 +3726,6 @@
             "title":"They ask you why you are not in a diaper like t..."
         },
         "11321":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Take Emily's help",
                 "Refuse her help and get the diaper on"
@@ -4060,8 +3736,6 @@
             "title":"Walk over to Emily and take the diaper and wear it"
         },
         "113212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You like it ",
                 "You dont like it"
@@ -4072,8 +3746,6 @@
             "title":"Refuse her help and get the diaper on"
         },
         "1132121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Poop in it",
                 "Go show mommy"
@@ -4096,8 +3768,6 @@
             "title":"Say no thank you and walk out"
         },
         "113221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "wear the diaper",
                 "not wear the diaper"
@@ -4108,8 +3778,6 @@
             "title":"Emily comes in"
         },
         "1132211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Do it yourself",
                 "Have Emily help you"
@@ -4144,8 +3812,6 @@
             "title":"Your dad stroll into your room."
         },
         "11322112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Use the diaper there in the bathroom",
                 "Go back to Emily."
@@ -4156,8 +3822,6 @@
             "title":"Have Emily help you"
         },
         "113221121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Emily comes in and sees you peed",
                 "You need to poop"
@@ -4192,8 +3856,6 @@
             "title":"Not to go"
         },
         "113221121222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He grows ",
                 "He notices the diaper you have on"
@@ -4216,8 +3878,6 @@
             "title":"He grows "
         },
         "11322112122211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He grew some more",
                 "You shrunk to his height"
@@ -4240,8 +3900,6 @@
             "title":"He grew some more"
         },
         "11322112122212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You shrink to 4 feet tall",
                 "Emily grows to your height"
@@ -4252,8 +3910,6 @@
             "title":"kid size (5.0)"
         },
         "113221121222121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Try a diaper",
                 "Play with me and Emily(she has also grown)"
@@ -4276,8 +3932,6 @@
             "title":"Play with me and Emily(she has also grown)"
         },
         "11322112122212121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Play too",
                 "Be the judge"
@@ -4312,8 +3966,6 @@
             "title":"Emily has won"
         },
         "11322112122212122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Emily grabs you",
                 "Adam grabs you"
@@ -4348,8 +4000,6 @@
             "title":"Emily grows to your height"
         },
         "1132211212221221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "GO buy some adult diapers ",
                 "Grab one of Adams ones that grew"
@@ -4372,8 +4022,6 @@
             "title":"Grab one of Adams ones that grew"
         },
         "113221121222122122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You are wearing a diaper ",
                 "You have peed yourself"
@@ -4384,8 +4032,6 @@
             "title":"Pees"
         },
         "1132211212221221222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You pooped too",
                 "Adam jumps you"
@@ -4396,8 +4042,6 @@
             "title":"You have peed yourself"
         },
         "11322112122212212221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Adam brought the diaper",
                 "You kicked her off and began to run"
@@ -4408,8 +4052,6 @@
             "title":"You pooped too"
         },
         "1132211212222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "I like them ",
                 "Emily told me to (u shrink too)"
@@ -4420,8 +4062,6 @@
             "title":"He notices the diaper you have on"
         },
         "113221122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Before she can answer you shrink",
                 "\"You should show mommy\""
@@ -4444,8 +4084,6 @@
             "title":"Before she can answer you shrink"
         },
         "11322112211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Try your moms room",
                 "Go in with Emily and Adam"
@@ -4468,8 +4106,6 @@
             "title":"Go in with Emily and Adam"
         },
         "1132211221121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You are clean ",
                 "You are messy"
@@ -4480,8 +4116,6 @@
             "title":"Try and tell her the truth (you fail to convinc..."
         },
         "1132211221122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "I HAVE A PLAN (DONT ADD HERE)",
                 "you or Emily use your diapers"
@@ -4539,8 +4173,6 @@
             "title":"\"Sure honey\""
         },
         "113221122211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Your mom comes back in",
                 "You need to poop"
@@ -4563,8 +4195,6 @@
             "title":"Your mom comes back in"
         },
         "11322112221111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Some teenage pampers",
                 "Some adult diapers"
@@ -4587,8 +4217,6 @@
             "title":"Some adult diapers"
         },
         "1132211222111121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You have to poop the diaper",
                 "Your girlfriend is working the cash register"
@@ -4599,8 +4227,6 @@
             "title":"Say that your current diaper should hold everyt..."
         },
         "11322112221111211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Just poop",
                 "Tell your mom"
@@ -4623,8 +4249,6 @@
             "title":"Just poop"
         },
         "1132211222111121112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Approach the checkout",
                 "Approach the car (now you have to sit in it)"
@@ -4647,8 +4271,6 @@
             "title":"Approach the checkout"
         },
         "113221122211112111211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The poop spreads out and exits the diaper",
                 "You sit without any big issues"
@@ -4695,8 +4317,6 @@
             "title":"You wet/mess your diaper more"
         },
         "113221122211112111211211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You are still your regular size",
                 "You are now the size of a 5 year old"
@@ -4731,8 +4351,6 @@
             "title":"your wearing a wet and messy diaper"
         },
         "113221122211112111211211222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Tanya changes your diaper",
                 "Tanya's sister changes your diaper"
@@ -4755,8 +4373,6 @@
             "title":"Tanya's sister changes your diaper"
         },
         "11322112221111211121121122221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Gets it closed in time",
                 "Fails to close it in time and you pee "
@@ -4791,8 +4407,6 @@
             "title":"Your girlfriend is working the cash register"
         },
         "11322112221112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A 5 year old girl comes over to you",
                 "You need to go"
@@ -4815,8 +4429,6 @@
             "title":"You need to go"
         },
         "1132211222111222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go to play with some 5 year old girls",
                 "Go talk to the hot daycare worker"
@@ -4839,8 +4451,6 @@
             "title":"Go to play with some 5 year old girls"
         },
         "113221122211122212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They think that it is cool that you want to wear diapers like them",
                 "They laugh and make fun of you and you poop your diaper"
@@ -4947,8 +4557,6 @@
             "title":"Your back in your old body before all of the di..."
         },
         "1132211222111222121212122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Use the pullup",
                 "go use the bathroom"
@@ -4983,8 +4591,6 @@
             "title":"They laugh and make fun of you and you poop you..."
         },
         "11322112221112221222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "back to the same 5 year old girls from before",
                 "over to some diapered 4 year old girls "
@@ -5007,8 +4613,6 @@
             "title":"over to some diapered 4 year old girls "
         },
         "1132211222111222122221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Yes",
                 "No and leave"
@@ -5031,8 +4635,6 @@
             "title":"Yes"
         },
         "11322112221112222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You poop",
                 "She asks if you like to wear diapers"
@@ -5043,8 +4645,6 @@
             "title":"Go talk to the hot daycare worker"
         },
         "113221122211122221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She cleans you up and says yes to your date",
                 "She leaves you there in your poopy diaper and does something else too"
@@ -5055,8 +4655,6 @@
             "title":"You poop"
         },
         "1132211222111222211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Your mom comes to get you",
                 "Amber gives you her address"
@@ -5079,8 +4677,6 @@
             "title":"Your mom comes to get you"
         },
         "113221122211122221112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Called Amber",
                 "put you down for a nap with Adam and Emily"
@@ -5103,8 +4699,6 @@
             "title":"Called Amber"
         },
         "11322112221112222111212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Amber comes over",
                 "You poop your diaper"
@@ -5139,8 +4733,6 @@
             "title":"Kisses you"
         },
         "11322112221112222111212121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Mving in",
                 "Your mom tries to stop you"
@@ -5175,8 +4767,6 @@
             "title":"You use your diaper"
         },
         "11322112221112222111212121121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You get to Ambers house",
                 "Other"
@@ -5199,8 +4789,6 @@
             "title":"She asks if you like to wear diapers"
         },
         "1132211222111222221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You mom walks in and sees this",
                 "Other"
@@ -5271,8 +4859,6 @@
             "title":"Drink a lot to speed up the process."
         },
         "1133":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "2 feet tall",
                 "1 foot tall",
@@ -5296,8 +4882,6 @@
             "title":"2 feet tall"
         },
         "113312":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Fred its diaper time for you",
                 "Fred let your big sister do that"
@@ -5320,8 +4904,6 @@
             "title":"Fred let your big sister do that"
         },
         "11331221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "I wanted you to be a baby like me",
                 "I have seen you wanting to be diapered so I thought you needed the full exp."
@@ -5344,8 +4926,6 @@
             "title":"I wanted you to be a baby like me"
         },
         "11331222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You ask him",
                 "You are suddenly diapered "
@@ -5368,8 +4948,6 @@
             "title":"You ask him"
         },
         "11333":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Emily (your 3 year old sister)",
                 "Adam (you 3 year old brother)"
@@ -5380,8 +4958,6 @@
             "title":"6 inches tall"
         },
         "113331":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Change the diaper",
                 "Dont change the diaper"
@@ -5392,8 +4968,6 @@
             "title":"Emily (your 3 year old sister)"
         },
         "1133312":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Look for a way out",
                 "Other"
@@ -5416,8 +4990,6 @@
             "title":"Look for a way out"
         },
         "113331212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Yes (rescued)",
                 "No (thrown in diaper pail)"
@@ -5440,8 +5012,6 @@
             "title":"Yes (rescued)"
         },
         "1133312122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Emily comes back to get you ",
                 "You try to escape"
@@ -5464,8 +5034,6 @@
             "title":"Emily comes back to get you "
         },
         "113331212211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The diaper is wet",
                 "You are in Emily's hand"
@@ -5476,8 +5044,6 @@
             "title":"Its just gas"
         },
         "1133312122111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Yes",
                 "No"
@@ -5500,8 +5066,6 @@
             "title":"No"
         },
         "113331212211122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Yes ",
                 "No Emily turns around and sees you"
@@ -5524,8 +5088,6 @@
             "title":"Yes "
         },
         "11333121221112211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You are interrupted ",
                 "You are able to get it to fire"
@@ -5536,8 +5098,6 @@
             "title":"The shrink/growth gun your cousins had left yes..."
         },
         "113331212211122111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Emily walks in ",
                 "Adam walks in"
@@ -5548,8 +5108,6 @@
             "title":"You are interrupted "
         },
         "1133312122111221111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "\"Time to play\"",
                 "Other"
@@ -5572,8 +5130,6 @@
             "title":"\"Time to play\""
         },
         "113331212211122111112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Have her diaper you",
                 "Get in her diaper"
@@ -5596,8 +5152,6 @@
             "title":"Have her diaper you"
         },
         "11333121221112211111211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You need to go",
                 "Your \"mommy\" doll picks you up!"
@@ -5644,8 +5198,6 @@
             "title":"Other"
         },
         "113331212211122111122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A daycare center",
                 "The playpen Adam is there too"
@@ -5656,8 +5208,6 @@
             "title":"Come with me"
         },
         "1133312122111221111222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Pooped her diaper",
                 "Grew you to one foot tall (one and a half feet shoter then your siblings)"
@@ -5680,8 +5230,6 @@
             "title":"Pooped her diaper"
         },
         "11333121221112211112222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Get on a diaper",
                 "Explore Adams or my diaper"
@@ -5692,8 +5240,6 @@
             "title":"Grew you to one foot tall (one and a half feet ..."
         },
         "113331212211122111122222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "My diaper",
                 "Adams diaper"
@@ -5716,8 +5262,6 @@
             "title":"My diaper"
         },
         "11333121221112211112222211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Poopy",
                 "Clean"
@@ -5728,8 +5272,6 @@
             "title":"The back of her diaper"
         },
         "113331212211122112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "2 feet tall (a little shorter than your siblings)",
                 "Your normal height (not out of the woods yet)"
@@ -6090,7 +5632,6 @@
         "11411122212222121":{
             "author_id":"lazyfriend56",
             "author_name":"Idontknow",
-            "choices":null,
             "content":"<div class=\"\"><div> <span>The others are obviously just as scared as you of being caught by someone they know in a thick diaper and decide to stay in the car with you.<br>\r\n<br>\r\nIt seems like days later when Connor comes back to the car bring with him bags and bags of supplies which he refuses to show to the rest of you but what he does show you are your new seats! He gets the three of you out of the car while he puts the three baby blue booster seats in the car. Finally as you, Mike and Bobby begin to get comfortable in your new car seats, Connor places a pacifier in each of your mouths. You and the rest of your diapered friends are too tired by this point to argue with any baby treatment and so you all fully comply with the new car seats and pacifiers! You as well as Bobby and Mike find the pacifiers quite comforting perhaps a little too comforting in fact as you're all out like lights only a couple moments after Connor introduces the pacifiers. When you finally wake up you find yourself in a large crib along with Mike and Bobby.<br>\r\n<br>\r\nSoon enough Connor comes in and explains what's happening, and from that day forward you, Bobby and Mike live the rest of your days as Connor's sweet baby boys. </span></div></div>",
             "created":1530334800,
             "id":2513635,
@@ -6172,8 +5713,6 @@
             "title":"Girl"
         },
         "121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Tell them you have to Pee",
                 "Tell them you have to Poop",
@@ -6185,8 +5724,6 @@
             "title":"2 years old"
         },
         "1211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Closet",
                 "behind the dresser",
@@ -6198,8 +5735,6 @@
             "title":"Tell them you have to Pee"
         },
         "12112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Mom's taking them to the mall.",
                 "Dad's taking them to the movies."
@@ -6210,8 +5745,6 @@
             "title":"behind the dresser"
         },
         "121122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Help him to the bathroom.",
                 "Help him pee now so he doesn't miss the movie."
@@ -6222,8 +5755,6 @@
             "title":"Dad's taking them to the movies."
         },
         "1211221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Kyle pees in the weird sink. (Urinal)",
                 "Kyle misses and pees on the floor."
@@ -6234,8 +5765,6 @@
             "title":"Help him to the bathroom."
         },
         "1211222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Greg has to go.",
                 "You have to go."
@@ -6246,8 +5775,6 @@
             "title":"Help him pee now so he doesn't miss the movie."
         },
         "12113":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The tree",
                 "The Sandbox"
@@ -6258,8 +5785,6 @@
             "title":"Other"
         },
         "121131":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You pee on the tree",
                 "Your aunt catches you"
@@ -6270,8 +5795,6 @@
             "title":"The tree"
         },
         "1211312":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Pee on the floor all of a sudden",
                 "Tell the boys you need to Pee"
@@ -6282,8 +5805,6 @@
             "title":"Your aunt catches you"
         },
         "12113121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You have to poop",
                 "You have a problem"
@@ -6306,8 +5827,6 @@
             "title":"Tell the boys you need to Pee"
         },
         "121131221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Pee in the potty",
                 "Other"
@@ -6330,8 +5849,6 @@
             "title":"Pee in the potty"
         },
         "1211312212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Pee on the floor/towel instead of the potty",
                 "Your aunt comes in"
@@ -6391,8 +5908,6 @@
             "title":"Tell them you have to Poop"
         },
         "12121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "It's locked!",
                 "It opens!"
@@ -6403,8 +5918,6 @@
             "title":"Go in the potty, if your that desperate"
         },
         "121211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Call for your aunt.",
                 "Poop with the potty in the close (has a door)"
@@ -6427,8 +5940,6 @@
             "title":"Poop with the potty in the close (has a door)"
         },
         "12121122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Put him on his Potty",
                 "Put something under his bum"
@@ -6439,8 +5950,6 @@
             "title":"one of your cousis has to go"
         },
         "121211221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Greg got him onto the potty.",
                 "Kyle poops on the floor."
@@ -6463,8 +5972,6 @@
             "title":"It opens!"
         },
         "1212121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You",
                 "Kyle or Greg"
@@ -6475,8 +5982,6 @@
             "title":"Your mom omes in, and sees the used potty"
         },
         "12121212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Kyle has to poop",
                 "Greg has to pee"
@@ -8251,8 +7756,6 @@
             "title":"Anthro"
         },
         "141":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Boy",
                 "Girl"
@@ -8263,8 +7766,6 @@
             "title":"0-1 years old"
         },
         "1411":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Wolf",
                 "Fox",
@@ -8276,8 +7777,6 @@
             "title":"Boy"
         },
         "14113":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Rabbit",
                 "Lion"
@@ -8300,8 +7799,6 @@
             "title":"Rabbit"
         },
         "1412":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Dragon",
                 "Cat",
@@ -8325,8 +7822,6 @@
             "title":"Cat"
         },
         "14123":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Dog",
                 "Fox"
@@ -8471,8 +7966,6 @@
             "title":"Punish you."
         },
         "14222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Your mother",
                 "Your sister"
@@ -8495,8 +7988,6 @@
             "title":"Your mother"
         },
         "14223":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Dragon",
                 "Rabbit"
@@ -8579,8 +8070,6 @@
             "title":"No."
         },
         "1422322221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You are dry ",
                 "You are wet "
@@ -8591,8 +8080,6 @@
             "title":"Yes."
         },
         "14223222212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Your mom, (Grace) ",
                 "Your sister (Lauren) "
@@ -8615,8 +8102,6 @@
             "title":"Your mom, (Grace) "
         },
         "1422322221211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Rose (Your little sister, 2 years old) comes in ",
                 "Your dad (Franklin) comes in "
@@ -8639,8 +8124,6 @@
             "title":"Your dad (Franklin) comes in "
         },
         "142232222121121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Breakfast ",
                 "Preschool "
@@ -8675,8 +8158,6 @@
             "title":"Home."
         },
         "14223222212112112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "At a restaurant  ",
                 "At her aunt's house "
@@ -8746,8 +8227,6 @@
             "title":"Yes!"
         },
         "143":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Boy",
                 "Girl"
@@ -8783,8 +8262,6 @@
             "title":"Other"
         },
         "143132":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Bull",
                 "Other"
@@ -8795,8 +8272,6 @@
             "title":"Bull"
         },
         "1431321":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Bryan tightens his bottom cheeks and continues playing with the children.",
                 "Bryan tries to joke his way out of the situation."
@@ -8831,8 +8306,6 @@
             "title":"Bryan acts calmly and tries to poop in his diap..."
         },
         "1432":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Dragon",
                 "Cat",

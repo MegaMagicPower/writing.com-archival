@@ -16,8 +16,6 @@
             "title":"A strange town..."
         },
         "11":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She takes you to the cafeteria. ",
                 "She takes you to the East Block.",
@@ -31,8 +29,6 @@
             "title":"The Hospital Trip"
         },
         "112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You get woken up by a voice calling you.",
                 "You wake up...but you're tied up!",
@@ -44,8 +40,6 @@
             "title":"East Block"
         },
         "114":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The creature tortures her for information.",
                 "You help your partner.",

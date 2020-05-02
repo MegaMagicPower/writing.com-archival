@@ -70,8 +70,6 @@
             "title":"Something else"
         },
         "12":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "On a contract",
                 "At the Sanctuary",
@@ -109,8 +107,6 @@
             "title":"...Daedla. (My character)."
         },
         "12312":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "\"I want to hire you for a contract.\"",
                 "\"I want you to join me on a quest.\""
@@ -133,8 +129,6 @@
             "title":"\"I want you to join me on a quest.\""
         },
         "1231221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Winterhold",
                 "Riften"
@@ -376,8 +370,6 @@
             "title":"To Solstheim"
         },
         "14":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Nikolaus is shot with an arrow by an unknown assailant while hunting",
                 "Nikolaus sees a group of vampires attack a young woman in the street",
@@ -429,8 +421,6 @@
             "title":"(Character #1)"
         },
         "15":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Dovahkiin #5",
                 "Dovahkiin #6",
@@ -444,8 +434,6 @@
             "title":"More Choices"
         },
         "151":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Surrounded by Thalmor, fighting them.",
                 "The Ragged Flagon",
@@ -482,8 +470,6 @@
             "title":"Dovahkiin #1"
         },
         "151311":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Vedvenin removes her helmet.",
                 "\"No.\""
@@ -506,8 +492,6 @@
             "title":"Vedvenin removes her helmet."
         },
         "15131111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Jacob explains.",
                 "Something else."
@@ -530,8 +514,6 @@
             "title":"Jacob explains."
         },
         "1513111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A room with dozens of Dwemer Spider Guardians.",
                 "A puzzle-trap room."
@@ -554,8 +536,6 @@
             "title":"A puzzle-trap room."
         },
         "151311111121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Jacob wakes up."
             ],
@@ -577,8 +557,6 @@
             "title":"Jacob wakes up."
         },
         "15131111112111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Bandits",
                 "One of the warring factions."
@@ -661,8 +639,6 @@
             "title":"Hunting"
         },
         "15131111112111122121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She calms down a little.",
                 "She stays angry."
@@ -733,8 +709,6 @@
             "title":"Meeting the Jarl"
         },
         "15131111112111122121111211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Jacob and Vedvenin both explain.",
                 "Irileth and Proventus voice their opinions."
@@ -793,8 +767,6 @@
             "title":"Dinner"
         },
         "15131111112111122121112121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Jacob tells his story.",
                 "Something else."
@@ -889,8 +861,6 @@
             "title":"She does"
         },
         "151311111121111221211121211211112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Vedvenin's shift.",
                 "Eoin ignores her warning and tries something."
@@ -925,8 +895,6 @@
             "title":"Eoin ignores her warning and tries something."
         },
         "15131111112111122121112121121111222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Jacob approaches them.",
                 "Vedvenin drags Eoin back to camp."
@@ -961,8 +929,6 @@
             "title":"Eoin explains"
         },
         "15131111112111122121112121121111222112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Eoin tells the truth",
                 "Eoin lies."
@@ -985,8 +951,6 @@
             "title":"Eoin lies."
         },
         "1513111111211112212111212112111122211222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Eoin gets the point.",
                 "Eoin stubbornly refuses to see Jacob's point."
@@ -1009,8 +973,6 @@
             "title":"Eoin stubbornly refuses to see Jacob's point."
         },
         "151311111121111221211121211211112221122221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Eoin falls to his knees.",
                 "Still fighting."
@@ -1033,8 +995,6 @@
             "title":"Still fighting."
         },
         "15131111112111122121112121121111222112222122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Eoin is knocked out.",
                 "He tries to get up."
@@ -1057,8 +1017,6 @@
             "title":"He tries to get up."
         },
         "1513111111211112212111212112111122211222212222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Eoin explains.",
                 "Eoin tries to attack Durnehviir."
@@ -1093,8 +1051,6 @@
             "title":"...continued watching the fight."
         },
         "1513111111211112212111212112111122211222212222212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Eoin tells her.",
                 "Jacob steps in."
@@ -1117,8 +1073,6 @@
             "title":"Eoin tells her."
         },
         "151311111121111221211121211211112221122221222221212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He remembers.",
                 "He doesn't remember."
@@ -1165,8 +1119,6 @@
             "title":"They protest Jacob"
         },
         "15131111112111122121112121121111222112222122222222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Eoin explains, then walks off.",
                 "He refuses to talk."
@@ -1189,8 +1141,6 @@
             "title":"He refuses to talk."
         },
         "1513111111211112212111212112111122211222212222222221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He obeys.",
                 "He protests."
@@ -1213,8 +1163,6 @@
             "title":"He obeys."
         },
         "151311111121111221211121211211112221122221222222222112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The next morning...",
                 "Something happens while the two of them are asleep."
@@ -1237,8 +1185,6 @@
             "title":"Something happens while the two of them are asl..."
         },
         "15131111112111122121112121121111222112222122222222211221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "...an Imperial.",
                 "...a Stormcloak."
@@ -1261,8 +1207,6 @@
             "title":"...an Imperial."
         },
         "1513111111211112212111212112111122211222212222222221122111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Whiterun.",
                 "On the road to Whiterun."
@@ -1285,8 +1229,6 @@
             "title":"On the road to Whiterun."
         },
         "151311111121111221211121211211112221122221222222222112211121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The meeting is held.",
                 "They are interrupted."
@@ -1309,8 +1251,6 @@
             "title":"Friends in high places"
         },
         "15131111112111122121112121121111222112222122222222211221112121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Jacob explains everything.",
                 "Eoin gives his point of view."
@@ -1345,8 +1285,6 @@
             "title":"They look for Vedvenin"
         },
         "15131111112111122121112121121111222112222122222222211221112121111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They are interrupted.",
                 "They head back to Whiterun."
@@ -1369,8 +1307,6 @@
             "title":"They are interrupted."
         },
         "1513111111211112212111212112111122211222212222222221122111212111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The vampire tells them what he wanted.",
                 "They become surrounded by vampires."
@@ -1393,8 +1329,6 @@
             "title":"The vampire tells them what he wanted."
         },
         "151311111121111221211121211211112221122221222222222112211121211111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "...he goes berserk and attacks Vedvenin.",
                 "...he's in a cave."
@@ -1608,8 +1542,6 @@
             "title":"Other"
         },
         "1513111111211112212111212112111122211222212222222221122111212111111121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Vedvenin in Solitude.",
                 "Jacob and Eoin in Falkreath Hold"
@@ -1620,8 +1552,6 @@
             "title":"Making amends ( Eoin and Vedvenin)"
         },
         "15131111112111122121112121121111222112222122222222211221112121111111211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Vedvenin in Riften.",
                 "Back to Eoin and Jacob."
@@ -1632,8 +1562,6 @@
             "title":"Vedvenin in Solitude."
         },
         "151311111121111221211121211211112221122221222222222112211121211111112111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Vedvenin slaps her. Hard.",
                 "A simple \"No.\""
@@ -1644,8 +1572,6 @@
             "title":"Vedvenin in Riften."
         },
         "1513111111211112212111212112111122211222212222222221122111212111111121111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She continues down to Cyrodiil.",
                 "Maven stops her again."
@@ -1656,8 +1582,6 @@
             "title":"Vedvenin slaps her. Hard."
         },
         "15131111112111122121112121121111222112222122222222211221112121111111211111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The guard has one more thing for her to do.",
                 "She may proceed."
@@ -1692,8 +1616,6 @@
             "title":"Someone knocks Vedvenin unconscious"
         },
         "15131111112111122121112121121111222112222122222222211221112121111111211111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Jacob.",
                 "Someone else."
@@ -1716,8 +1638,6 @@
             "title":"Jacob."
         },
         "1513111111211112212111212112111122211222212222222221122111212111111121111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Vedvenin makes it back to the gate.",
                 "She gets ambushed."
@@ -1764,8 +1684,6 @@
             "title":"Jacob reappears"
         },
         "15131111112111122121112121121111222112222122222222211221112121111111211111111112111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Vedvenin finally gets to the gate.",
                 "She gets held up. Again."
@@ -1812,8 +1730,6 @@
             "title":"Final test"
         },
         "151311111121111221211121211211112221122221222222222112211121211111112111111111121112122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Jacob lets her go.",
                 "He asks her about this object."
@@ -1836,8 +1752,6 @@
             "title":"He asks her about this object."
         },
         "15131111112111122121112121121111222112222122222222211221112121111111211111111112111212222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Jacob cuts her down.",
                 "Something else."
@@ -1860,8 +1774,6 @@
             "title":"Jacob cuts her down."
         },
         "1513111111211112212111212112111122211222212222222221122111212111111121111111111211121222211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They get to the inn, no trouble.",
                 "They are stopped midway by some Justiciars."
@@ -1896,8 +1808,6 @@
             "title":"Other"
         },
         "1513111111211112212111212112111122211222212222222221122111212111111121111111111211121222211221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The Justiciars leave.",
                 "They are not intimidated"
@@ -1920,8 +1830,6 @@
             "title":"They are not intimidated"
         },
         "151311111121111221211121211211112221122221222222222112211121211111112111111111121112122221122121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They proceed to the Cheydinhal Bridge Inn.",
                 "More Justiciars."
@@ -1944,8 +1852,6 @@
             "title":"More Justiciars."
         },
         "15131111112111122121112121121111222112222122222222211221112121111111211111111112111212222112212121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Arriving at the Cheydinhal Bridge Inn",
                 "They are approached by some guards."
@@ -1968,8 +1874,6 @@
             "title":"Arriving at the Cheydinhal Bridge Inn"
         },
         "1513111111211112212111212112111122211222212222222221122111212111111121111111111211121222211221212111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The next morning...",
                 "Something wakes her up."
@@ -1992,8 +1896,6 @@
             "title":"The next morning..."
         },
         "151311111121111221211121211211112221122221222222222112211121211111112111111111121112122221122121211111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She investigates the cellar.",
                 "She ignores it. For now."
@@ -2016,8 +1918,6 @@
             "title":"She investigates the cellar."
         },
         "15131111112111122121112121121111222112222122222222211221112121111111211111111112111212222112212121111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She continues reading.",
                 "She takes the journal back to her 'new' home."
@@ -2040,8 +1940,6 @@
             "title":"She takes the journal back to her 'new'..."
         },
         "1513111111211112212111212112111122211222212222222221122111212111111121111111111211121222211221212111111121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She opens the letter and package immediately.",
                 "She waits until morning."
@@ -2064,8 +1962,6 @@
             "title":"She opens the letter and package immediately."
         },
         "151311111121111221211121211211112221122221222222222112211121211111112111111111121112122221122121211111112111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The meeting continues."
             ],
@@ -2087,8 +1983,6 @@
             "title":"The meeting continues."
         },
         "15131111112111122121112121121111222112222122222222211221112121111111211111111112111212222112212121111111211112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Claiming Inheritance - 1/3"
             ],
@@ -2110,8 +2004,6 @@
             "title":"Claiming Inheritance - 1/3"
         },
         "1513111111211112212111212112111122211222212222222221122111212111111121111111111211121222211221212111111121111211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Claiming Inheritance - 3/3"
             ],
@@ -2133,8 +2025,6 @@
             "title":"Claiming Inheritance - 3/3"
         },
         "151311111121111221211121211211112221122221222222222112211121211111112111111111121112122221122121211111112111121111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The Battle of The Rift",
                 "A skirmish betwwen mountains"
@@ -2157,8 +2047,6 @@
             "title":"The Battle of The Rift"
         },
         "15131111112111122121112121121111222112222122222222211221112121111111211111111112111212222112212121111111211112111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She removes her helmet and tells him.",
                 "She just tells him."
@@ -2169,8 +2057,6 @@
             "title":"...Jacob fighting Dremora wounded."
         },
         "151311111121111221211121211211112221122221222222222112211121211111112111111111121112122221122121211111112111121111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "\"An officer of House Redoran.\"",
                 "Someone else."
@@ -2193,8 +2079,6 @@
             "title":"\"An officer of House Redoran.\""
         },
         "15131111112111122121112121121111222112222122222222211221112121111111211111111112111212222112212121111111211112111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Everyone starts to run away from Claire and the guards attack.",
                 "Nobody pays any mind to the voice, but gives Claire curious looks."
@@ -2205,8 +2089,6 @@
             "title":"Claire"
         },
         "151311111121111221211121211211112221122221222222222112211121211111112111111111121112122221122121211111112111121111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Jacob walks in.",
                 "Meeting with General Tullius and Ulfric."
@@ -2217,8 +2099,6 @@
             "title":"Everyone starts to run away from Claire and the..."
         },
         "1513111111211112212111212112111122211222212222222221122111212111111121111111111211121222211221212111111121111211111111112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Jacob walks in.",
                 "The meeting continues, or Eoin walks in."
@@ -2241,8 +2121,6 @@
             "title":"Jacob walks in."
         },
         "151311111121111221211121211211112221122221222222222112211121211111112111111111121112122221122121211111112111121111111111211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Flakreath Oblivion gate.",
                 "Markarth Oblivion gate."
@@ -2253,8 +2131,6 @@
             "title":"Yes"
         },
         "1513111111211112212111212112111122211222212222222221122111212111111121111111111211121222211221212111111121111211111111112112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Jacob answers her question.",
                 "He remains silent."
@@ -2289,8 +2165,6 @@
             "title":"Gateway to hell"
         },
         "1513111111211112212111212112111122211222212222222221122111212111111121111111111211121222211221212111111121111211111111112112121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Something big happens.",
                 "The Daedra retreat."
@@ -2301,8 +2175,6 @@
             "title":"More fighting"
         },
         "15131111112111122121112121121111222112222122222222211221112121111111211111111112111212222112212121111111211112111111111121121211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A Daedric automaton appears.",
                 "Something else."
@@ -2325,8 +2197,6 @@
             "title":"Daedric siege engine"
         },
         "1513111111211112212111212112111122211222212222222221122111212111111121111111111211121222211221212111111121111211111111112112121121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Solitude.",
                 "On the way to Solitude."
@@ -2349,8 +2219,6 @@
             "title":"On the way to Solitude."
         },
         "151311111121111221211121211211112221122221222222222112211121211111112111111111121112122221122121211111112111121111111111211212112122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "...Claire clutching Faasnuhavnodun, unconscious.",
                 "...Faashnuhavnodun with its blade in the soil."
@@ -2385,8 +2253,6 @@
             "title":"Claire wakes up"
         },
         "151311111121111221211121211211112221122221222222222112211121211111112111111111121112122221122121211111112111121111111111211212112122111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They continue to chat.",
                 "Someone walks in."
@@ -2409,8 +2275,6 @@
             "title":"They continue to chat."
         },
         "15131111112111122121112121121111222112222122222222211221112121111111211111111112111212222112212121111111211112111111111121121211212211112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They head out.",
                 "Someone walks in."
@@ -2433,8 +2297,6 @@
             "title":"They head out."
         },
         "1513111111211112212111212112111122211222212222222221122111212111111121111111111211121222211221212111111121111211111111112112121121221111211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They head into Oblivion",
                 "\"OBJECTION!\""
@@ -2457,8 +2319,6 @@
             "title":"They head into Oblivion"
         },
         "151311111121111221211121211211112221122221222222222112211121211111112111111111121112122221122121211111112111121111111111211212112122111121112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Azura's plane of Oblivion.",
                 "Somewhere else."
@@ -2481,8 +2341,6 @@
             "title":"Somewhere else."
         },
         "15131111112111122121112121121111222112222122222222211221112121111111211111111112111212222112212121111111211112111111111121121211212211112111222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Sheogorath's plane- The Shivering Isles",
                 "Somewhere else."
@@ -2541,8 +2399,6 @@
             "title":"Claire"
         },
         "1513111111211112212111212112111122211222212222222221122111212111111121111111111211121222211221212111111121111211111111112112121121221111211122211212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Sheogorath shows up.",
                 "Other."
@@ -2553,8 +2409,6 @@
             "title":"Maybe a Mage from skyrim"
         },
         "15131111112111122121112121121111222112222122222222211221112121111111211111111112111212222112212121111111211112111111111121121211212211112111222112121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Sheogorath asks them what they're doing in the Shivering Isles.",
                 "Other."
@@ -2577,8 +2431,6 @@
             "title":"Sheogorath asks them what they're doing in ..."
         },
         "1513111111211112212111212112111122211222212222222221122111212111111121111111111211121222211221212111111121111211111111112112121121221111211122211212112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Heading to New Sheoth.",
                 "Other."
@@ -2589,8 +2441,6 @@
             "title":"They stick with him. Who knows what sheogorath ..."
         },
         "15131111112111122121112121121111222112222122222222211221112121111111211111111112111212222112212121111111211112111111111121121211212211112111222112121121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Sheogorath's trials.",
                 "Other"
@@ -2781,8 +2631,6 @@
             "title":"Eoin's thoughts"
         },
         "15131111112111122121112121121111222112222122222222211221112121111111211111111112111212222112212121111111211112111111111121121211212211112111222112122122121212122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Claire",
                 "Eoin"
@@ -2793,8 +2641,6 @@
             "title":"Eoin's or Claire's"
         },
         "151311111121111221211121211211112221122221222222222112211121211111112111111111121112122221122121211111112111121111111111211212112122111121112221121221221212121221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The party.",
                 "Something else."
@@ -2913,8 +2759,6 @@
             "title":"The mages return"
         },
         "151311111121111221211121211211112221122221222222222112211121211111112111111111121112122221122121211111112111121111111111211212112122111121112221121221221212121221212222112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "One or both of the mages are under her control.",
                 "Both of them resist somehow."
@@ -2985,8 +2829,6 @@
             "title":"Jacob the Mage "
         },
         "151311111121111221211121211211112221122221222222222112211121211111112111111111121112122221122121211111112111121111111111211212112122111121112221121221221212121221212222112212211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The mages ignore her and try to put out the fire.",
                 "Someone knocks at the door."
@@ -3009,8 +2851,6 @@
             "title":"The mages ignore her and try to put out the fire."
         },
         "15131111112111122121112121121111222112222122222222211221112121111111211111111112111212222112212121111111211112111111111121121211212211112111222112122122121212122121222211221221111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The mages refuse.",
                 "They comply."
@@ -3069,8 +2909,6 @@
             "title":"No"
         },
         "15131111112111122121112121121111222112222122222222211221112121111111211111111112111212222112212121111111211112111111111121121211212211112111222112122122121212122121222211221221111212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Jacob explains his point.",
                 "Claire explains her point."
@@ -3189,8 +3027,6 @@
             "title":"Tackles Claire"
         },
         "1513111111211112212111212112111122211222212222222221122111212111111121111111111211121222211221212111111121111211111111112112121121221111211122211212212212121212212122221122122122121221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They fess up.",
                 "They keep their mouths shut."
@@ -3261,8 +3097,6 @@
             "title":"No"
         },
         "1513111111211112212111212112111122211222212222222221122111212111111121111111111211121222211221212111111121111211111111112112121121221111211122211212212212121212212122221122122122121221211121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The girls are intimidated.",
                 "They laugh."
@@ -3285,8 +3119,6 @@
             "title":"They laugh."
         },
         "151311111121111221211121211211112221122221222222222112211121211111112111111111121112122221122121211111112111121111111111211212112122111121112221121221221212121221212222112212212212122121112121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Eoin",
                 "Claire"
@@ -3297,8 +3129,6 @@
             "title":"Eoin/Claire was knocked out"
         },
         "1513111111211112212111212112111122211222212222222221122111212111111121111111111211121222211221212111111121111211111111112112121121221111211122211212212212121212212122221122122122121221211121211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They deal with the girls.",
                 "One of them gags and binds Eoin before he wakes up."
@@ -3321,8 +3151,6 @@
             "title":"One of them gags and binds Eoin before he wakes..."
         },
         "151311111121111221211121211211112221122221222222222112211121211111112111111111121112122221122121211111112111121111111111211212112122111121112221121221221212121221212222112212212212122121112121122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The girls comply.",
                 "They refuse to talk"
@@ -3345,8 +3173,6 @@
             "title":"The girls comply."
         },
         "15131111112111122121112121121111222112222122222222211221112121111111211111111112111212222112212121111111211112111111111121121211212211112111222112122122121212122121222211221221221212212111212112212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Claire is PISSED.",
                 "Jacob gives his input."
@@ -3369,8 +3195,6 @@
             "title":"Claire is PISSED."
         },
         "1513111111211112212111212112111122211222212222222221122111212111111121111111111211121222211221212111111121111211111111112112121121221111211122211212212212121212212122221122122122121221211121211221211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She complies.",
                 "She tries to make a run for it."
@@ -3393,8 +3217,6 @@
             "title":"She complies."
         },
         "151311111121111221211121211211112221122221222222222112211121211111112111111111121112122221122121211111112111121111111111211212112122111121112221121221221212121221212222112212212212122121112121122121111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Jacob gives his input.",
                 "Eoin has an idea."
@@ -3429,8 +3251,6 @@
             "title":"No"
         },
         "151311111121111221211121211211112221122221222222222112211121211111112111111111121112122221122121211111112111121111111111211212112122111121112221121221221212121221212222112212212212122121112121122121111122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Jacob says something.",
                 "Eoin buts in."
@@ -3453,8 +3273,6 @@
             "title":"Eoin buts in."
         },
         "15131111112111122121112121121111222112222122222222211221112121111111211111111112111212222112212121111111211112111111111121121211212211112111222112122122121212122121222211221221221212212111212112212111112221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The mage starts crying for some reason.",
                 "Jacob/Eoin try to get Claire to calm down."
@@ -3489,8 +3307,6 @@
             "title":"Jacob thinks about it"
         },
         "15131111112111122121112121121111222112222122222222211221112121111111211111111112111212222112212121111111211112111111111121121211212211112111222112122122121212122121222211221221221212212111212112212111112221112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Claire demonstrates her power.",
                 "Jacob and Eoin step in before she can do anything."
@@ -3513,8 +3329,6 @@
             "title":"Jacob and Eoin step in before she can do anything."
         },
         "1513111111211112212111212112111122211222212222222221122111212111111121111111111211121222211221212111111121111211111111112112121121221111211122211212212212121212212122221122122122121221211121211221211111222111221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Eoin gives his comment.",
                 "Something else."
@@ -3537,8 +3351,6 @@
             "title":"Eoin gives his comment."
         },
         "151311111121111221211121211211112221122221222222222112211121211111112111111111121112122221122121211111112111121111111111211212112122111121112221121221221212121221212222112212212212122121112121122121111122211122111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They head back to Winterhold after Eoin gets a horker.",
                 "They chat a little more."
@@ -3561,8 +3373,6 @@
             "title":"They head back to Winterhold after Eoin gets a ..."
         },
         "15131111112111122121112121121111222112222122222222211221112121111111211111111112111212222112212121111111211112111111111121121211212211112111222112122122121212122121222211221221221212212111212112212111112221112211111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He attacks her.",
                 "He comes to his senses."
@@ -3585,8 +3395,6 @@
             "title":"He attacks her."
         },
         "1513111111211112212111212112111122211222212222222221122111212111111121111111111211121222211221212111111121111211111111112112121121221111211122211212212212121212212122221122122122121221211121211221211111222111221111112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Eoin attacks her again.",
                 "He comes to his senses."
@@ -3609,8 +3417,6 @@
             "title":"Eoin attacks her again."
         },
         "151311111121111221211121211211112221122221222222222112211121211111112111111111121112122221122121211111112111121111111111211212112122111121112221121221221212121221212222112212212212122121112121122121111122211122111111212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She knocks him out.",
                 "He almost kills her. Somehow."
@@ -3633,8 +3439,6 @@
             "title":"She knocks him out."
         },
         "15131111112111122121112121121111222112222122222222211221112121111111211111111112111212222112212121111111211112111111111121121211212211112111222112122122121212122121222211221221221212212111212112212111112221112211111121212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He turns feral (again) at the sight of her blood.",
                 "He apologized for nearly taking her life."
@@ -3765,8 +3569,6 @@
             "title":"At the tavern"
         },
         "1513111111211112212111212112111122211222212222222221122111212111111121111111111211121222211221212111111121111211111111112112121121221111211122211212212212121212212122221122122122121221211121211221211111222111222122121121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Claire",
                 "Lucy"
@@ -3813,8 +3615,6 @@
             "title":"Eoin knows what it means"
         },
         "15131111112111122121112121121111222112222122222222211221112121111111211111111112111212222112212121111111211112111111111121121211212211112111222112122122121212122121222211221221221212212111212112212111112221112221221211212111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Eoin tells him.",
                 "He refuses."
@@ -3861,8 +3661,6 @@
             "title":"...brought him into the room."
         },
         "151311111121111221211121211211112221122221222222222112211121211111112111111111121112122221122121211111112111121111111111211212112122111121112221121221221212121221212222112212212212122121112121122121111122211122212212112121112111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Eoin tells her.",
                 "Lights out!"
@@ -3909,8 +3707,6 @@
             "title":"Lucy/Claire wakes up"
         },
         "1513111111211112212111212112111122211222212222222221122111212111111121111111111211121222211221212111111121111211111111112112121121221111211122211212212212121212212122221122122122121221211121211221211111222111222122121121211121112121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He wants to finish what he started.",
                 "He wants to see if they're still alive."
@@ -3933,8 +3729,6 @@
             "title":"He wants to see if they're still alive."
         },
         "151311111121111221211121211211112221122221222222222112211121211111112111111111121112122221122121211111112111121111111111211212112122111121112221121221221212121221212222112212212212122121112121122121111122211122212212112121112111212121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Eoin talks.",
                 "He walks off."
@@ -3945,8 +3739,6 @@
             "title":"They talk first"
         },
         "1513111111211112212111212112111122211222212222222221122111212111111121111111111211121222211221212111111121111211111111112112121121221111211122211212212212121212212122221122122122121221211121211221211111222111222122121121211121112121211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Eoin tells her what he knows.",
                 "Other."
@@ -3969,8 +3761,6 @@
             "title":"Eoin tells her what he knows."
         },
         "151311111121111221211121211211112221122221222222222112211121211111112111111111121112122221122121211111112111121111111111211212112122111121112221121221221212121221212222112212212212122121112121122121111122211122212212112121112111212121112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Under the College.",
                 "On the way to the secret entrance."
@@ -3993,8 +3783,6 @@
             "title":"Under the College."
         },
         "15131111112111122121112121121111222112222122222222211221112121111111211111111112111212222112212121111111211112111111111121121211212211112111222112122122121212122121222211221221221212212111212112212111112221112221221211212111211121212111211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He attacks them.",
                 "He talks with them, then disappears."
@@ -4017,8 +3805,6 @@
             "title":"He attacks them."
         },
         "1513111111211112212111212112111122211222212222222221122111212111111121111111111211121222211221212111111121111211111111112112121121221111211122211212212212121212212122221122122122121221211121211221211111222111222122121121211121112121211121111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Back at the surface.",
                 "Claire gets her bond to Lucy broken, first."
@@ -4041,8 +3827,6 @@
             "title":"Claire gets her bond to Lucy broken, first."
         },
         "151311111121111221211121211211112221122221222222222112211121211111112111111111121112122221122121211111112111121111111111211212112122111121112221121221221212121221212222112212212212122121112121122121111122211122212212112121112111212121112111122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Eoin complies.",
                 "He refuses."
@@ -4065,8 +3849,6 @@
             "title":"Eoin complies."
         },
         "15131111112111122121112121121111222112222122222222211221112121111111211111111112111212222112212121111111211112111111111121121211212211112111222112122122121212122121222211221221221212212111212112212111112221112221221211212111211121212111211112211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Jacob opens the letter.",
                 "His wife confronts him about it."
@@ -4089,8 +3871,6 @@
             "title":"Jacob opens the letter."
         },
         "1513111111211112212111212112111122211222212222222221122111212111111121111111111211121222211221212111111121111211111111112112121121221111211122211212212212121212212122221122122122121221211121211221211111222111222122121121211121112121211121111221112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Something stops him",
                 "He leaves"
@@ -4125,8 +3905,6 @@
             "title":"In cheydinhal "
         },
         "1513111111211112212111212112111122211222212222222221122111212111111121111111111211121222211221212111111121111211111111112112121121221111211122211212212212121212212122221122122122121221211121211221211111222111222122121121211121112121211121111221112221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "\"I'm interested.\"",
                 "\"This sounds like a little much.\""
@@ -4209,8 +3987,6 @@
             "title":"Time to act"
         },
         "151311111121111221211121211211112221122221222222222112211121211111112111111111121112122221122121211111112111121111111111211212112122111121112221121221221212121221212222112212212212122121121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Eoin complies.",
                 "Eoin refuses."
@@ -4233,8 +4009,6 @@
             "title":"Eoin refuses."
         },
         "15131111112111122121112121121111222112222122222222211221112121111111211111111112111212222112212121111111211112111111111121121211212211112111222112122122121212122121222211221221221212212112121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The girls try to make a run for it.",
                 "They're too frightened to move."
@@ -4257,8 +4031,6 @@
             "title":"They're too frightened to move."
         },
         "15131111112111122121112121121111222112222122222222211221112121111111211111111112111212222112212121111111211112111111111121121211212211112111222112122122121212122121222211222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The mages think they're bluffing.",
                 "They both try to make a run for it."
@@ -4293,8 +4065,6 @@
             "title":"Eoins back"
         },
         "15131111112111122121112121121111222112222122222222211221112121111111211111111112111212222112212121111111211112111111122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The Battle of Riften.",
                 "They get held up."
@@ -4341,8 +4111,6 @@
             "title":"Eoin gives his point of view."
         },
         "1513111111211112212111212112111122211222212222222221122111212122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The bickering continues.",
                 "Jacob interrupts."
@@ -4377,8 +4145,6 @@
             "title":"Dwemer attack "
         },
         "1513111111211112212111212112111122211222212222222221122111212122222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Eoin",
                 "Jacob"
@@ -4401,8 +4167,6 @@
             "title":"\"No.\""
         },
         "151311111121111221211121221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Jacob talks with her about it.",
                 "Eoin returns with a kill."
@@ -4449,8 +4213,6 @@
             "title":"She stays angry."
         },
         "1513111111211112212121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Jacob intervenes.",
                 "Still battling."
@@ -4497,8 +4259,6 @@
             "title":"Still battling."
         },
         "151311111121112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Imperials",
                 "Stormcloaks"
@@ -4611,8 +4371,6 @@
             "title":"Unrestful Sleep"
         },
         "1541211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The road back to Whiterun.",
                 "Other locale."
@@ -4706,8 +4464,6 @@
             "title":"Brothers and Sisters in Binds"
         },
         "1541211122122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Phaedra.",
                 "Other name,"
@@ -4839,8 +4595,6 @@
             "title":"Friendly greeting"
         },
         "1551111212111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "One of them stops her.",
                 "Other."
@@ -4875,8 +4629,6 @@
             "title":"Claire stays"
         },
         "155111121211112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Jacob/Eoin.",
                 "Cheydinhal."
@@ -5091,8 +4843,6 @@
             "title":"Eoin reaches a temple with Evil Claire"
         },
         "155111121211112111212221112111212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The fight commences.",
                 "Eoin attacks one of them."
@@ -5115,8 +4865,6 @@
             "title":"The fight commences."
         },
         "15511112121111211121222111211121211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She's successful in recovering Jacob.",
                 "Eoin interrupts her."
@@ -5139,8 +4887,6 @@
             "title":"Claire's Doppelg\u00e4nger "
         },
         "15511112121111212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Claire's Doppelganger flirting with an employee.",
                 "Two weeks later."
@@ -5163,8 +4909,6 @@
             "title":"Two weeks later."
         },
         "1551111212111121221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "It escapes.",
                 "They kill it."
@@ -5187,8 +4931,6 @@
             "title":"It escapes."
         },
         "155111121211112122111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Jacob agrees to getting his armor upgraded",
                 "He declines her offer."
@@ -5211,8 +4953,6 @@
             "title":"Jacob agrees to getting his armor upgraded"
         },
         "15511112121111212211111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "\"Of course.\"",
                 "\"Can't. Too busy.\""
@@ -5235,8 +4975,6 @@
             "title":"\"Of course.\""
         },
         "1551111212111121221111112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He wants to.",
                 "He can't/doesn't want to."
@@ -5247,8 +4985,6 @@
             "title":"Before that"
         },
         "15511112121111212211111121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "In Blacklight, Morrowind.",
                 "On the way to Blacklight."
@@ -5271,8 +5007,6 @@
             "title":"On the way to Blacklight."
         },
         "1551111212111121221111112121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Jacob antagonizes her about it.",
                 "Blacklight."
@@ -5295,8 +5029,6 @@
             "title":"Jacob antagonizes her about it."
         },
         "155111121211112122111111212111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Jacob's response.",
                 "Blacklight/something else."
@@ -5319,8 +5051,6 @@
             "title":"Jacob's response."
         },
         "15511112121111212211111121211111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Blacklight.",
                 "Something happens."
@@ -5343,8 +5073,6 @@
             "title":"Blacklight."
         },
         "1551111212111121221111112121111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Allinor walks up.",
                 "Eoin, Brotherhood, Morag Tong, or doppelganger(s) show up."
@@ -5391,8 +5119,6 @@
             "title":"Eoin"
         },
         "15511112121111212211111121211111112111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The wedding begins.",
                 "Something else."
@@ -5415,8 +5141,6 @@
             "title":"The wedding begins."
         },
         "1551111212111121221111112121111111211111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She made it before anyone else missed her.",
                 "She's late and people are probably suspicious."
@@ -5427,8 +5151,6 @@
             "title":"Claire's response "
         },
         "15511112121111212211111121211111112111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "At the inn where Jacob's getting his wounds treated.",
                 "Other."
@@ -5499,8 +5221,6 @@
             "title":"Eoin fixes Jacobs Thuum"
         },
         "15511112121111212211111121211111112111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Drunken Huntsman, thinking deeply over a tankard of mead.",
                 "Bannard Mare Inn"
@@ -5511,8 +5231,6 @@
             "title":"Meanwhile with Claire"
         },
         "155111121211112122111111212111111121111111111112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She rented out a bed.",
                 "She's at the inn's bar, trying to resist the urge to break Mikael's face."
@@ -5535,8 +5253,6 @@
             "title":"She rented out a bed."
         },
         "15511112121111212211111121211111112111111111111211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Claire isn't so easily convinced.",
                 "She believes her, and gives in to the desire for ultimate power."
@@ -5547,8 +5263,6 @@
             "title":"They talk"
         },
         "155111121211112122111111212111111121111111111112111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The copy lunges at Claire and/or someone walks in.",
                 "The copy leaves."
@@ -5583,8 +5297,6 @@
             "title":"They talk more"
         },
         "15511112121111212211111121211111112111111111111211211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Random option 1.",
                 "Other option 2."
@@ -5607,8 +5319,6 @@
             "title":"Two weeks later..."
         },
         "1551111212111121221111112121111111211111111111121121121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He approaches Claire.",
                 "He flees to a plane of Oblivion."
@@ -5631,8 +5341,6 @@
             "title":"He approaches Claire."
         },
         "155111121211112122111111212111111121111111111112112112112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She teleports to somewhere.",
                 "Something happens."
@@ -5655,8 +5363,6 @@
             "title":"Something happens."
         },
         "15511112121111212211111121211111112111111111111211211211221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Jacob.",
                 "Other."
@@ -5679,8 +5385,6 @@
             "title":"Jacob."
         },
         "1551111212111121221111112121111111211111111111121121121122111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They fight.",
                 "Other."
@@ -5715,8 +5419,6 @@
             "title":"A glimpse of madness"
         },
         "1551111212111121221111112121111111211111111111121121121122111122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Eoin.",
                 "Other."
@@ -5739,8 +5441,6 @@
             "title":"Other."
         },
         "155111121211112122111111212111111121111111111112112112112211112221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Jacob and Claire wake up in some kind of facility.",
                 "Other."
@@ -5799,8 +5499,6 @@
             "title":"They awaken."
         },
         "15511112121111212211111121211111112111111111111211211211221111222122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Decisions,",
                 "Decisions..."
@@ -5823,8 +5521,6 @@
             "title":"Decisions..."
         },
         "1551111212111121221111112121111111211111111111121121121122111122212222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They are taken somewhere.",
                 "Something else."
@@ -5847,8 +5543,6 @@
             "title":"They are taken somewhere."
         },
         "155111121211112122111111212111111121111111111112112112112211112221222211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Inside the compound's central building.",
                 "Other."
@@ -5871,8 +5565,6 @@
             "title":"Inside the compound's central building."
         },
         "15511112121111212211111121211111112111111111111211211211221111222122221111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Claire meets with Jacob.",
                 "Something happens."
@@ -5895,8 +5587,6 @@
             "title":"Claire meets with Jacob."
         },
         "1551111212111121221111112121111111211111111111121121121122111122212222111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "...actually hit it.",
                 "...completely missed."
@@ -5919,8 +5609,6 @@
             "title":"...completely missed."
         },
         "155111121211112122111111212111111121111111111112112112112211112221222211111122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Jacob's training.",
                 "Continue with Claire's training."
@@ -5943,8 +5631,6 @@
             "title":"Jacob's training."
         },
         "15511112121111212211111121211111112111111111111211211211221111222122221111112212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Barracks.",
                 "More training."
@@ -5967,8 +5653,6 @@
             "title":"Barracks."
         },
         "1551111212111121221111112121111111211111111111121121121122111122212222111111221212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "...the Private from earlier",
                 "...a commanding officer."
@@ -5991,8 +5675,6 @@
             "title":"...a commanding officer."
         },
         "155111121211112122111111212111111121111111111112112112112211112221222211111122121222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Barracks.",
                 "Someone walks up to Jacob and Claire."
@@ -6015,8 +5697,6 @@
             "title":"Barracks."
         },
         "15511112121111212211111121211111112111111111111211211211221111222122221111112212122211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Meeting with the Governor of Bravil.",
                 "Other."
@@ -6027,8 +5707,6 @@
             "title":"They wake up the next day"
         },
         "155111121211112122111111212111111121111111111112112112112211112221222211111122121222111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The Governor is genuinely impressed.",
                 "He's unimpressed."
@@ -6039,8 +5717,6 @@
             "title":"Meeting with the Governor of Bravil."
         },
         "1551111212111121221111112121111111211111111111121121121122111122212222111111221212221111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Jacob's input.",
                 "Something happens."
@@ -6063,8 +5739,6 @@
             "title":"Jacob's input."
         },
         "155111121211112122111111212111111121111111111112112112112211112221222211111122121222111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They overhear soldiers chatting about something at dinner.",
                 "The next day."
@@ -6087,8 +5761,6 @@
             "title":"They overhear soldiers chatting about something..."
         },
         "15511112121111212211111121211111112111111111111211211211221111222122221111112212122211111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Soldiers chatting.",
                 "Bravil."
@@ -6123,8 +5795,6 @@
             "title":"To Bravil"
         },
         "15511112121111212211111121211111112111111111111211211211221111222122221111112212122211111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The Emperor",
                 "Other"
@@ -6147,8 +5817,6 @@
             "title":"The Emperor"
         },
         "1551111212111121221111112121111111211111111111121121121122111122212222111111221212221111111111112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "\"She is yours to do with as you please, men.\"",
                 "\"Let her go.\""
@@ -6171,8 +5839,6 @@
             "title":"\"Let her go.\""
         },
         "155111121211112122111111212111111121111111111112112112112211112221222211111122121222111111111111222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The Chaplain.",
                 "Eoin stops her."
@@ -6195,8 +5861,6 @@
             "title":"Eoin stops her."
         },
         "15511112121111212211111121211111112111111111111211211211221111222122221111112212122211111111111122222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He gives her an answer.",
                 "Other."
@@ -6207,8 +5871,6 @@
             "title":"Don't"
         },
         "155111121211112122111111212111111121111111111112112112112211112221222211111122121222111111111111222221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "\"Of course.\"",
                 "\"No.\""
@@ -6219,8 +5881,6 @@
             "title":"He gives her an answer."
         },
         "1551111212111121221111112121111111211111111111121121121122111122212222111111221212221111111111112222212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The Highgate Hotel.",
                 "Exploring the city."
@@ -6243,8 +5903,6 @@
             "title":"The Highgate Hotel."
         },
         "155111121211112122111111212111111121111111111112112112112211112221222211111122121222111111111111222221211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "...some natives.",
                 "...Hellish wildlife."
@@ -6267,8 +5925,6 @@
             "title":"...some natives."
         },
         "15511112121111212211111121211111112111111111111211211211221111222122221111112212122211111111111122222121111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They tell her.",
                 "They refuse to tell her."
@@ -6303,8 +5959,6 @@
             "title":"Jacob"
         },
         "15511112121111212211111121211111112111111111111211211211221111222122221111112212122211111111111122222121111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Jacob's torture method.",
                 "Someone walks in."
@@ -6327,8 +5981,6 @@
             "title":"Jacob's torture method."
         },
         "1551111212111121221111112121111111211111111111121121121122111122212222111111221212221111111111112222212111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A suit walks in.",
                 "Something else."
@@ -6351,8 +6003,6 @@
             "title":"A suit walks in."
         },
         "155111121211112122111111212111111121111111111112112112112211112221222211111122121222111111111111222221211111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "\"We need someone stopped and either captured or eliminated.\"",
                 "\"We need help finding something.\""
@@ -6375,8 +6025,6 @@
             "title":"\"We need someone stopped and either capture..."
         },
         "15511112121111212211111121211111112111111111111211211211221111222122221111112212122211111111111122222121111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Yes.",
                 "No."
@@ -6399,8 +6047,6 @@
             "title":"Yes."
         },
         "1551111212111121221111112121111111211111111111121121121122111122212222111111221212221111111111112222212111111111111112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 " Suiting up.",
                 "Meeting with the race representatives."
@@ -6435,8 +6081,6 @@
             "title":"Deployment (Eoin's POV)"
         },
         "1551111212111121221111112121111111211111111111121121121122111122212222111111221212221111111111112222212111111111111112121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Meeting the race representatives.",
                 "Other."
@@ -6459,8 +6103,6 @@
             "title":"Meeting the race representatives."
         },
         "155111121211112122111111212111111121111111111112112112112211112221222211111122121222111111111111222221211111111111111212111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Yet another race.",
                 "The meeting."
@@ -6483,8 +6125,6 @@
             "title":"Yet another race."
         },
         "15511112121111212211111121211111112111111111111211211211221111222122221111112212122211111111111122222121111111111111121211111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The attack plan.",
                 "Other."
@@ -6531,8 +6171,6 @@
             "title":"Invasion Day (Eoin POV)"
         },
         "155111121211112122111111212111111121111111111112112112112211112221222211111122121222111111111111222221211111111111111212111112121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The nuke goes off in orbit.",
                 "Other."
@@ -6555,8 +6193,6 @@
             "title":"The nuke goes off in orbit."
         },
         "15511112121111212211111121211111112111111111111211211211221111222122221111112212122211111111111122222121111111111111121211111212112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The offensive.",
                 "That night in the barracks."
@@ -6591,8 +6227,6 @@
             "title":"Eoin's plan"
         },
         "15511112121111212211111121211111112111111111111211211211221111222122221111112212122211111111111122222121111111111111121211111212112221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Just one ship is destroyed.",
                 "Half the fleet is gone."
@@ -6615,8 +6249,6 @@
             "title":"Just one ship is destroyed."
         },
         "1551111212111121221111112121111111211111111111121121121122111122212222111111221212221111111111112222212111111111111112121111121211222111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The talk with Eoin.",
                 "Other."
@@ -6639,8 +6271,6 @@
             "title":"The talk with Eoin."
         },
         "155111121211112122111111212111111121111111111112112112112211112221222211111122121222111111111111222221211111111111111212111112121122211111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Claire going to fight the demons.",
                 "Other."
@@ -6663,8 +6293,6 @@
             "title":"Eoin's ravings "
         },
         "15511112121111212211111121211111112111111111111211211211221111222122221111112212122211111111111122222121111111111111121211111212112221111121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Another meeting.",
                 "Other."
@@ -6687,8 +6315,6 @@
             "title":"The demons "
         },
         "1551111212111121221111112121111111211111111111121121121122111122212222111111221212221111111111112222212111111111111112121111121211222111112122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The meeting.",
                 "Other."
@@ -6711,8 +6337,6 @@
             "title":"The meeting."
         },
         "155111121211112122111111212111111121111111111112112112112211112221222211111122121222111111111111222221211111111111111212111112121122211111212211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Eoin's fleet.",
                 "Other."
@@ -6735,8 +6359,6 @@
             "title":"Eoin's fleet."
         },
         "15511112121111212211111121211111112111111111111211211211221111222122221111112212122211111111111122222121111111111111121211111212112221111121221111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Detonation.",
                 "It's a dud."
@@ -6783,8 +6405,6 @@
             "title":"Eoin enters"
         },
         "1551111212111121221111112121111111211111111111121121121122111122212222111111221212221111111111112222212111111111111112121111121211222111112122111112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Jacob walks in.",
                 "Other."
@@ -6819,8 +6439,6 @@
             "title":"Eoin enters"
         },
         "1551111212111121221111112121111111211111111111121121121122111122212222111111221212221111111111112222212111111111111112121111121211222111112122111112122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A space battle ensues.",
                 "Other."
@@ -6855,8 +6473,6 @@
             "title":"Other."
         },
         "155111121211112122111111212111111121111111111112112112112211112221222211111122121222111111111111222221211111111111111212111112121122211111212211111222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Claire goes on a killing spree.",
                 "Other."
@@ -6879,8 +6495,6 @@
             "title":"Other."
         },
         "15511112121111212211111121211111112111111111111211211211221111222122221111112212122211111111111122222121111111111111121211111212112221111121221111122221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Jacob's answer.",
                 "Other."
@@ -6903,8 +6517,6 @@
             "title":"Jacob's answer."
         },
         "1551111212111121221111112121111111211111111111121121121122111122212222111111221212221111111111112222212111111111111112121111121211222111112122111112222112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Jacob complies.",
                 "Jacob disagrees."
@@ -6927,8 +6539,6 @@
             "title":"Jacob disagrees."
         },
         "155111121211112122111111212111111121111111111112112112112211112221222211111122121222111111111111222221211111111111111212111112121122211111212211111222211221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Jacob's equipment.",
                 "Someone walks in."
@@ -6951,8 +6561,6 @@
             "title":"Jacob's equipment."
         },
         "15511112121111212211111121211111112111111111111211211211221111222122221111112212122211111111111122222121111111111111121211111212112221111121221111122221122111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Claire's POV",
                 "Jacob's POV"
@@ -6987,8 +6595,6 @@
             "title":"Other"
         },
         "15511112121111212211111121211111112111111111111211211211221111222122221111112212122211111111111122222121111111111111121211111212112221111121221111122221122111221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Fighting their way to an escape pod.",
                 "Other."
@@ -7011,8 +6617,6 @@
             "title":"Fighting their way to an escape pod."
         },
         "1551111212111121221111112121111111211111111111121121121122111122212222111111221212221111111111112222212111111111111112121111121211222111112122111112222112211122111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They are immediately surrounded.",
                 "Other."
@@ -7035,8 +6639,6 @@
             "title":"Other."
         },
         "155111121211112122111111212111111121111111111112112112112211112221222211111122121222111111111111222221211111111111111212111112121122211111212211111222211221112211121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Jacob's input.",
                 "Other."
@@ -7059,8 +6661,6 @@
             "title":"Jacob's input."
         },
         "15511112121111212211111121211111112111111111111211211211221111222122221111112212122211111111111122222121111111111111121211111212112221111121221111122221122111221112112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "City Hall.",
                 "They are stopped for some reason."
@@ -7083,8 +6683,6 @@
             "title":"City Hall."
         },
         "1551111212111121221111112121111111211111111111121121121122111122212222111111221212221111111111112222212111111111111112121111121211222111112122111112222112211122111211211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The plan is discussed.",
                 "A soldier walks in with the latest intelligence reports."
@@ -7131,8 +6729,6 @@
             "title":"Eoin's march"
         },
         "15511112121111212211111121211111112111111111111211211211221111222122221111112212122211111111111122222121111111111111121211111212112221111121221111122221122111221112112112221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "\"As a matter of fact, we do.\"",
                 "\"I'm sorry, but we don't.\""
@@ -7155,8 +6751,6 @@
             "title":"\"I'm sorry, but we don't.\""
         },
         "1551111212111121221111112121111111211111111111121121121122111122212222111111221212221111111111112222212111111111111112121111121211222111112122111112222112211122111211211222121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Fight.",
                 "Teleport."
@@ -7167,8 +6761,6 @@
             "title":"Claire replies (private)"
         },
         "15511112121111212211111121211111112111111111111211211211221111222122221111112212122211111111111122222121111111111111121211111212112221111121221111122221122111221112112112221211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "More space marines.",
                 "A tank. A fucking tank."
@@ -7179,8 +6771,6 @@
             "title":"Fight."
         },
         "155111121211112122111111212111111121111111111112112112112211112221222211111122121222111111111111222221211111111111111212111112121122211111212211111222211221112211121121122212112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She's critically wounded",
                 "She dodges the shell."
@@ -7203,8 +6793,6 @@
             "title":"Teleport."
         },
         "155111121211112122111111212111111121111111111112112112112211112221222211111122121222111111111111222221211111111111111212111112121122211111212211111222211221112211121121122212122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Eoin tells her.",
                 "Other."
@@ -7227,8 +6815,6 @@
             "title":"Eoin tells her."
         },
         "15511112121111212211111121211111112111111111111211211211221111222122221111112212122211111111111122222121111111111111121211111212112221111121221111122221122111221112112112221212211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He teleports her back to the day he was born.",
                 "Something happens."
@@ -7251,8 +6837,6 @@
             "title":"He teleports her back to the day he was born."
         },
         "1551111212111121221111112121111111211111111111121121121122111122212222111111221212221111111111112222212111111111111112121111121211222111112122111112222112211122111211211222121221112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She's brought back to the current time.",
                 "Something happens."
@@ -7275,8 +6859,6 @@
             "title":"She's brought back to the current time."
         },
         "155111121211112122111111212111111121111111111112112112112211112221222211111122121222111111111111222221211111111111111212111112121122211111212211111222211221112211121121122212122111211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She goes to talk to him about Eoin.",
                 "She backs down, knowing time should not be tampered with."
@@ -7323,8 +6905,6 @@
             "title":"Jacob wakes up"
         },
         "1551111212111121221111112121111111211111111111121121121122111122212222111111221212221111111111112222212111111111111112121111121211222111112122111112222112211122111211211222121221212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They go to the main floor of House Seranaan.",
                 "Something happens/someone walks in."
@@ -7419,8 +6999,6 @@
             "title":"Eoin's doubt"
         },
         "15511112121111212211111121211111112111111111111211211211221111222122221111112212122211111111111122222121111111111111121211111212112221111121221121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They take her to the fleet.",
                 "They leave her for dead. (Jacob staying is optional)"
@@ -7504,8 +7082,6 @@
             "title":"Dovahkiin #10"
         },
         "155221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "...attacked her.",
                 "...struck up conversation."
@@ -7528,8 +7104,6 @@
             "title":"...struck up conversation."
         },
         "15522121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He draws his sword.",
                 "He asks more questions."
@@ -7552,8 +7126,6 @@
             "title":"He asks more questions."
         },
         "1552212121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He gives her an answer (diplomacy)",
                 "He gives her his answer (combat)"
@@ -7576,8 +7148,6 @@
             "title":"He gives her an answer (diplomacy)"
         },
         "155221212111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He wants to go with her.",
                 "He backs out."
@@ -7600,8 +7170,6 @@
             "title":"He wants to go with her."
         },
         "15522121211111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They get to High Hrothgar.",
                 "Something stalls their advance."
@@ -7624,8 +7192,6 @@
             "title":"They get to High Hrothgar."
         },
         "1552212121111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He attacks her for it.",
                 "Climbing the Monaven."
@@ -7648,8 +7214,6 @@
             "title":"Climbing the Monaven."
         },
         "155221212111111121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The Shout strikes Alduin.",
                 "The Shout misses."
@@ -7672,8 +7236,6 @@
             "title":"The Shout strikes Alduin."
         },
         "15522121211111112112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Alduin's rider introduces him/herself.",
                 "Paarthurnax breaks the silence"
@@ -7696,8 +7258,6 @@
             "title":"Alduin's rider introduces him/herself."
         },
         "1552212121111111211211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Rider intervenes.",
                 "The Argonian simply laughs at her."
@@ -7708,8 +7268,6 @@
             "title":"Continue "
         },
         "15523":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A town guard (Who may have gotten an arrow in the knee...)",
                 "LYDIA!!!!"
@@ -7720,8 +7278,6 @@
             "title":"More"
         },
         "155231":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You see strange men appear on horseback enter the fray. They aren't friendly.",
                 "More hacking and slashing."
@@ -7732,8 +7288,6 @@
             "title":"A town guard (Who may have gotten an arrow in t..."
         },
         "1552311":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You awake."
             ],
@@ -7743,8 +7297,6 @@
             "title":"You see strange men appear on horseback enter t..."
         },
         "15523111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "CHOICE 1",
                 "CHOICE 2"

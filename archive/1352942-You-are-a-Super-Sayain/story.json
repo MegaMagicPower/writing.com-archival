@@ -15,8 +15,6 @@
             "title":"How do you find out?"
         },
         "11":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Your Mother Tells You (female)",
                 "Your Father Tells You (male)",
@@ -30,8 +28,6 @@
             "title":"Somebody Tells You"
         },
         "112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "1-5",
                 "6-10",
@@ -43,8 +39,6 @@
             "title":"Your Father Tells You (male)"
         },
         "1122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "6-8",
                 "9",
@@ -56,8 +50,6 @@
             "title":"6-10"
         },
         "11223":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Accidentally use your powers at school",
                 "Your training begins"
@@ -68,8 +60,6 @@
             "title":"10"
         },
         "112232":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Your dad starts REALLY fighting back",
                 "You go Super Sayain after a little more training"
@@ -535,7 +525,6 @@
         "12111211":{
             "author_id":"thejiggler",
             "author_name":"jason",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>WRONG CHOICE NOW YOU DIEEEE *ZAPS YOU*</span></div></span></div>",
             "created":1445403600,
             "id":2050496,
@@ -544,15 +533,12 @@
         "12111212":{
             "author_id":"thejiggler",
             "author_name":"jason",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>:D Good Choice Congrats Here's your cake *gives you Cake*.......*you choke and die from poison* Mwahahahahahaha don't you know not to accept cake from strangers THE END</span></div></span></div>",
             "created":1445403600,
             "id":2050500,
             "title":"Freee Cake"
         },
         "14":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Stare at the snow until it melts",
                 "Bang your head on random objects until your life is better",
@@ -565,8 +551,6 @@
             "title":"You accidentaly use the ability..."
         },
         "141":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Attempt to return to normal.",
                 "Show your Super Sayain transformation to her.",
@@ -578,8 +562,6 @@
             "title":"Super Sayains ARE Real"
         },
         "1413":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Crash-land and hope you don't break your body.",
                 "Attempt to land in the dumpster outside your house."
@@ -602,8 +584,6 @@
             "title":"Crash-land and hope you don't break your body."
         },
         "141311":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They take you into their house",
                 "You make eye contact with Gohan, leading into something else"
@@ -700,8 +680,6 @@
             "title":"you were back to normal"
         },
         "144":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Your lead to a treehouse",
                 "You end up getting lost",
@@ -713,8 +691,6 @@
             "title":"Monkeys!"
         },
         "1441":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Enemy Attack",
                 "Your Gang Returns",

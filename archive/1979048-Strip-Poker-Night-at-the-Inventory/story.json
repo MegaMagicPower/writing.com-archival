@@ -265,8 +265,6 @@
             "title":"Keep the King, drop the rest"
         },
         "11121211122111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Keep the pair of 5",
                 "Keep the queen and 4 of hearts"
@@ -603,8 +601,6 @@
             "title":"Furry Table"
         },
         "11511":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Keep the king and try your luck",
                 "Keep the eights and play it safe"
@@ -615,8 +611,6 @@
             "title":"Keep the queens."
         },
         "115112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Keep the kings",
                 "Junk it all"
@@ -640,8 +634,6 @@
             "title":"Keep the kings"
         },
         "11511213":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Keep the two fives and ditch the rest",
                 "Keep the ace and queen"
@@ -652,8 +644,6 @@
             "title":"Just keep the Ace, throw out the rest."
         },
         "115112131":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Keep the 5 and 4",
                 "Keep the K and 3"
@@ -1168,7 +1158,6 @@
         "121142":{
             "author_id":"hjeff90",
             "author_name":"HJeff",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The messenger comes back, and tells you they can't get enough players for another game, but promises you a raincheck. Depressed, you head home.</span></div></span></div>",
             "created":1560574800,
             "id":2673662,
@@ -1313,7 +1302,6 @@
         "122221":{
             "author_id":"hjeff90",
             "author_name":"HJeff",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The messenger comes in and says that there's a spot for Kasumi in another game, but not for you. Kasumi gives you a sad smile and a hug, and the Inventory takes you home.</span></div></span></div>",
             "created":1560747600,
             "id":2674840,
@@ -1587,7 +1575,6 @@
         "122224":{
             "author_id":"deverx",
             "author_name":"DeverX",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The world around you begins flashing and breaking down into little pixels,<br>\r\n<br>\r\nSuddenly, you find yourself in an empty parking lot, with no sign of the Inventory. You search for the Inventory for the rest of your life, but never find it.</span></div></span></div>",
             "created":1582002000,
             "id":2789375,
@@ -1645,7 +1632,6 @@
         "12412":{
             "author_id":"deverx",
             "author_name":"DeverX",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The character escorts you out a door and you find yourself in an empty parking lot, with no sign of the Inventory. You search all your life, but you never find the Inventory again.</span></div></span></div>",
             "created":1582088400,
             "id":2789655,
@@ -1679,7 +1665,6 @@
         "12511":{
             "author_id":"hjeff90",
             "author_name":"HJeff",
-            "choices":null,
             "content":"<div class=\"\"><div> <span>You're about to ask for three cards when the door bangs open and a rather large, furry male from a game you almost, but can't quite recognize, enters the room.<br>\r\n<br>\r\n\"I believe,\" he says, each word distinct and deliberate, \"That you're sitting in my seat.\"<br>\r\n<br>\r\n\"Well, this is more like it,\" Amy says happily.<br>\r\n<br>\r\n\"I was, that is...I was just leaving.\" The male furry merely grunts as you get out of your chair and scurry toward the door. <br>\r\n<br>\r\nAs soon as you step out of the door, you find yourself in an empty parking lot.<br>\r\n<br>\r\nFor years, you spend all your free time and money searching for the Inventory, but never find it again.</span></div></div>",
             "created":1560834000,
             "id":2675222,
@@ -1700,7 +1685,6 @@
         "125121":{
             "author_id":"deverx",
             "author_name":"DeverX",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The next thing you know, you're in an empty parking lot, with nothing else in sight.<br>\r\n<br>\r\nYou spend the rest of your life trying to find the inventory, but never find it again.</span></div></span></div>",
             "created":1581742800,
             "id":2787896,
@@ -1746,7 +1730,6 @@
         "125122111":{
             "author_id":"deverx",
             "author_name":"DeverX",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The next thing you know, you find yourself in an open parking lot, with the Inventory nowhere in sight.<br>\r\n<br>\r\nYou spend the rest of your life looking for the inventory, but to no avail.</span></div></span></div>",
             "created":1581829200,
             "id":2788166,
@@ -1767,7 +1750,6 @@
         "1251222":{
             "author_id":"deverx",
             "author_name":"DeverX",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You find yourself in an empty parking lot, with no building in sight.<br>\r\n<br>\r\nYou spend the rest of your life looking for the Inventory, but can never find it again.</span></div></span></div>",
             "created":1581742800,
             "id":2787907,
@@ -1788,7 +1770,6 @@
         "12521":{
             "author_id":"deverx",
             "author_name":"DeverX",
-            "choices":null,
             "content":"<div class=\"\"><div> <span>As the cards get dealt out, you look at the other players and say, \"You know what? This isn't my thing.\"<br>\r\n<br>\r\nAll the jaws in the room drop as you walk out the door, never looking back. You never see the Inventory again, but then again, you never look for it again either.</span></div></div>",
             "created":1582002000,
             "id":2789399,
@@ -2343,7 +2324,6 @@
         "125324424212":{
             "author_id":"hjeff90",
             "author_name":"HJeff",
-            "choices":null,
             "content":"<div class=\"\"><div> <span>You toss in the six of spades, and it's replaced by...<br>\r\n<br>\r\nThe six of clubs.<br>\r\n<br>\r\nOf course it is.<br>\r\n<br>\r\nWhen the cards are all revealed, unsurprisingly, you have the lowest hand.<br>\r\n<br>\r\nYou really want to cry.<br>\r\n<br>\r\nYou don't know what to say, but Carrie saves you the trouble. Unfortunately, she's rather callous about it.<br>\r\n<br>\r\n\"Your forfeit is you have to go home now, dressed as you are,\" Carrie explains. \"Or undressed.\"<br>\r\n<br>\r\nJuliet snickers, but covers her mouth as soon as she does so.<br>\r\n<br>\r\nYou get up and walk out, your hands covering your penis as you do so. As soon as you leave the room and close the door, you hear laughter and then conversation start back up again.<br>\r\n<br>\r\nFortunately, you don't have to walk home. The Inventory is providing a car. Unfortunately, you fall asleep on the way home. When you wake up, you are in your own bed. But someone has shaved your hair and eyebrows off, and has put the words \"ULTIMATE LOSER\" in permaink on your forehead.<br>\r\n<br>\r\nYou want to stay home from school, but your parents are pissed that you were out all night, and they had no idea where you were, so they make you go to school as a \"life lesson.\" Your cap you were wearing to cover the permaink gets stolen on the school bus, and so you have to walk around all day with those words visible to everyone. This leads to altercations during lunchtime and disruptions during class. You end up having to stay afterschool for detention.<br>\r\n<br>\r\nYou give up poker and video games.</span></div></div>",
             "created":1560488400,
             "id":2673150,

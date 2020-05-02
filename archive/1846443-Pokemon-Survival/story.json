@@ -54,8 +54,6 @@
             "title":"Johto Pokemon"
         },
         "1121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Cyndaquil",
                 "Totodile",
@@ -159,8 +157,6 @@
             "title":"Kanto Pokemon"
         },
         "1211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Venusaur",
                 "Charizard",
@@ -172,8 +168,6 @@
             "title":"Starter Pokemon"
         },
         "12112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Zorua (prey)",
                 "Snorlax (predator)"

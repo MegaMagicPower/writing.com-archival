@@ -172,7 +172,6 @@
         "1111221121":{
             "author_id":"joerandom",
             "author_name":"Joe Random",
-            "choices":null,
             "content":"<div class=\"\"><div> <span>You had but a moment to realize what was going to happen. And that's a blessing. After all, the enormous delinquent crushed you with the force of hundreds of thousands of tons. Your body was paste and your brain destroyed before you even had time to register the pain.<br>\r\n<br>\r\nAs for the girl, well, she wasn't really all that bad. She would have felt terrible if she'd known she'd snuffed out the life of another human being that day. As it was, she simply stomped off toward the prinicpal's office, leaving little tiny pieces of you all the way along the trail.</span></div></div>",
             "created":1315803600,
             "id":1185889,
@@ -286,8 +285,6 @@
             "title":"Exploration"
         },
         "1112112111221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "leave him in her body, so she knows where he is",
                 "find another place for him to hide, so she can focus"
@@ -298,8 +295,6 @@
             "title":"Much to Jessica's surprise..."
         },
         "11121121112211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Leave",
                 "Remain, and continue exploring."
@@ -310,8 +305,6 @@
             "title":"leave him in her body, so she knows where he is"
         },
         "111211211122112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Follow her.",
                 "Wait until she falls asleep."

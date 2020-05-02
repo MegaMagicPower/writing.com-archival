@@ -141,8 +141,6 @@
             "title":"Other"
         },
         "12":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Dark ",
                 "Fire",
@@ -156,8 +154,6 @@
             "title":"Dual-type pokemon"
         },
         "121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Ice",
                 "Fire",
@@ -169,8 +165,6 @@
             "title":"Dark Dominant"
         },
         "1211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Sneasel",
                 "Weavile"
@@ -181,8 +175,6 @@
             "title":"two choices"
         },
         "1212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Houndour ",
                 "Houndoom"

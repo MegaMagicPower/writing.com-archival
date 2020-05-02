@@ -66,8 +66,6 @@
             "title":"Hunter of the Pack"
         },
         "123":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Capture them both",
                 "Other?"
@@ -90,8 +88,6 @@
             "title":"Observation..."
         },
         "13":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "First choice?",
                 "Second choice?",
@@ -105,8 +101,6 @@
             "title":"T-Rex"
         },
         "132":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A two-story house with a human family inside?",
                 "A white human couple, male and female making love in the nude?",

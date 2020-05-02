@@ -52,8 +52,6 @@
             "title":"Change"
         },
         "11111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Trust this elf and find out what he knows",
                 "Don't trust him, he could be another agent who is there to spy on you."
@@ -341,8 +339,6 @@
             "title":"To Drink or Not To Drink?  That is the question."
         },
         "1131":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "you ignore Laedani and take the mission.",
                 "you take her advice and drop out."
@@ -364,8 +360,6 @@
             "title":"Change"
         },
         "113111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Continue"
             ],
@@ -444,7 +438,6 @@
         "115":{
             "author_id":"mystdancer50",
             "author_name":"DragonWrites~The Fire Faerie~",
-            "choices":null,
             "content":"<div class=\"\"><div> <span>Ryon turns red and bellows, \"You're fired, Agent Rayn. Pack up your things and be gone by the end of the day!\"<br>\r\n<br>\r\n\"No problem since one of us is already gone.\" You stand and leave but you wonder if he really could have made you an elf. It would have been really cool. Especially if there were really elves that looked like Orlando Bloom. Oh baby! </span></div></div>",
             "created":1029387600,
             "id":184393,
@@ -704,7 +697,6 @@
         "125":{
             "author_id":"mystdancer50",
             "author_name":"DragonWrites~The Fire Faerie~",
-            "choices":null,
             "content":"<div class=\"\"><div> <span>Ryon turns red and bellows, \"You're fired, Agent Rayn.  Pack up your things and be gone by the end of the day!\"<br>\r\n<br>\r\n\"No problem since one of us is already gone.\"  You stand and leave but you wonder if he really could have made you an elf.  It would have been really cool.  Especially if there were really elves that looked like Orlando Bloom.  Oh baby!</span></div></div>",
             "created":1029387600,
             "id":184395,
@@ -713,7 +705,6 @@
         "13":{
             "author_id":"mystdancer50",
             "author_name":"DragonWrites~The Fire Faerie~",
-            "choices":null,
             "content":"<div class=\"\"><div> <span>\"Well, I guess you aren't me.  Oh, well.  I'm going to go solve this case but it was nice hanging with you for awhile.  Bye.\"  You watch as Agent Silver Rayn walks away.  You can't help but wonder if maybe you could have solved it quicker.  Oh well.</span></div></div>",
             "created":1029387600,
             "id":116661,

@@ -185,7 +185,6 @@
         "113211":{
             "author_id":"taytaywilliams",
             "author_name":"taytaywilliams",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You are dead, what did you expect?</span></div></span></div>",
             "created":1447304400,
             "id":2060571,
@@ -245,7 +244,6 @@
         "113223":{
             "author_id":"noiry",
             "author_name":"Ryan Bohannon",
-            "choices":null,
             "content":"<div class=\"\"><div> <span>You reach over the counter and hit the man in the nose. You turn to walk away when out of the corner of your eye you see the man holding something. You turn around and see a shotgun pointed at you. Before you knew it a blast filled your ears and the world went black. <br>\r\n<br>\r\nYou are dead. </span></div></div>",
             "created":1447304400,
             "id":2060484,
@@ -692,8 +690,6 @@
             "title":"Complete Transformation"
         },
         "1551223":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Open",
                 "Open"

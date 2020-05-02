@@ -411,8 +411,6 @@
             "title":"Sarah's doorbell rings"
         },
         "1123221112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Your head attaches, and the body adapts to accommodate both of you",
                 "Your head attaches, and Rick clone's head detaches"
@@ -556,8 +554,6 @@
             "title":"Your head attaches, and Rick clone's head d..."
         },
         "112322111221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Rick Clone grows a body",
                 "Nothing happens"
@@ -582,7 +578,6 @@
         "112331":{
             "author_id":"gavalar",
             "author_name":"Gavalar",
-            "choices":null,
             "content":"<div class=\"\"><div> <span>And so, your life ends here. The next day, your family finds your decapitated body in the shed. They are left with so many questions. Why did you build a guillotine? Why did you use it on yourself? Was it an accident or intentional? These questions would go unanswered.<br>\r\nA few days after you death, the old man walks into his local shop and buys a newspaper. As he waits for his morning train, he reads the front page headline.<br>\r\n<br>\r\n\"YOUNG MAN DECAPITATES HIMSELF WITH D.I.Y GUILLOTINE!\" The headline reads, displaying a picture of you next to it. The old man sighs, setting down his paper.<br>\r\n<br>\r\n\"Foolish boy. He had so much potential. If only he had waited for his power to develop, he would have easily survived this.\" He mutters to himself.</span></div></div>",
             "created":1410930000,
             "id":1858019,
@@ -774,8 +769,6 @@
             "title":"\"Whatever you want. Right now, I'm happ..."
         },
         "12212111111112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Toys",
                 "No toys"

@@ -31,8 +31,6 @@
             "title":"Chief of Yoshi's Island!"
         },
         "111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "\"The chief of a rival village is coming to town.\"",
                 "\"We're experiencing a food shortage.\"",
@@ -81,8 +79,6 @@
             "title":"Male"
         },
         "113":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "...the first thing you must do is have a big meal.\"",
                 "...it is time to put your shape out of shape.\"",
@@ -94,8 +90,6 @@
             "title":"Shaping a Chief"
         },
         "1131":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "\"Sure, let's get started.\"",
                 "\"Not yet, I'm still hungry.\""
@@ -211,8 +205,6 @@
             "title":"Tyrant? You prefer the title Lord"
         },
         "131":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "\"Plenty of eggs, bacon, sausage, flapjacks, and keep 'em coming.\"",
                 "\"Cakes, pies, jello, cookies, brownies.  All the sweets a sweet king desires!\"",
@@ -237,8 +229,6 @@
             "title":"Readying a banquet"
         },
         "1321":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Your food arrives and you start scarfing it down immediately.",
                 "Your foods isn't here yet, but now you're feeling a lot hungrier.",
@@ -262,8 +252,6 @@
             "title":"Severe Stress"
         },
         "132111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "\"Get some rest. Everything will be fine, trust me.\"",
                 "\"Come downstairs, we have a surprise for you.\""

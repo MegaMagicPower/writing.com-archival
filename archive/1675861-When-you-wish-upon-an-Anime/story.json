@@ -31,8 +31,6 @@
             "title":"Pokemon"
         },
         "115":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "yes",
                 "no",
@@ -44,8 +42,6 @@
             "title":"Someone Else"
         },
         "1151":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "you wake up in a bedroom",
                 "you wake up in a basement",

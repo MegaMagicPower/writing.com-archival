@@ -284,7 +284,6 @@
         "111112111112121111212111":{
             "author_id":"itmeansnothing",
             "author_name":"no one of notice",
-            "choices":null,
             "content":"<div class=\"\"><div> <span>Weeks passed, and Peter was hopeful that Felicia had kept his secret.  No one seemed to hang it over his head, and no one asked him any questions about it.  But like anything in his life, good luck never lasted long.<br>\r\n<br>\r\nIn the Avengers tower, Peter Parker, as Spider-Man was having lunch before a meeting, eating Wheaties to keep up his strength.  \u201cCan I see you for a second?\u201d Tony Stark said.<br>\r\n<br>\r\nTony Stark was the Avengers main funder, a playboy millionaire, who had developed an Iron suit and become one of the world\u2019s most successful heroes.  \u201cSure.\u201d Peter replied as he walked towards Tony\u2019s office.<br>\r\n<br>\r\n\u201cPeter, do you have a sister I should know about?\u201d he asked.<br>\r\n\u201cWhy?\u201d<br>\r\n\u201cCarol Danvers complained that a fashion show was using her image.  I told her it was for charity, but did a facial recognition scan.  And do you know what I found?\u201d<br>\r\n\u201cAbsolutely nothing of interest?\u201d Peter quipped.<br>\r\n\u201cI found that her face had a 95% match to yours.  Sure the chin and nose are smaller, the lips are more luscious, but the ears, eyes, skull shape are incredibly similar.   Thanks to Reed\u2019s new ulta-definition cameras, we were able to scan her eyes, and the strangest thing happened.\u201d<br>\r\n\u201cI don\u2019t want to know.\u201d<br>\r\n\u201cThe eyes were a 95% match to our retinal scans of yours.  That\u2019s a similarity that twins have.  But I looked in the database, and found that you don\u2019t have a twin sister.\u201d<br>\r\n\u201cI\u2019m just as surprised as you are Tony.\u201d<br>\r\n\u201cYes, I can see that.\u201d  Tony ripped the picture of the girl in the Ms. Marvel uniform out of the camera.  \u201cI\u2019m going to study this much more intimately tonight.\u201d<br>\r\n\u201cI don\u2019t like the way he said intimately.\u201d thought Peter.<br>\r\n\u201cAnd don\u2019t worry Pete, if I don\u2019t find anything tonight, I\u2019ll send my best men to track her down.\u201d<br>\r\n\u201cThank you?\u201d Peter said.<br>\r\n\u201cIf you have a twin sister, I\u2019ll make sure you know about her.  But if you remember her, give her this card.  It\u2019s my private number, and she looks like a good lay.\u201d<br>\r\n\u201cI think I\u2019m going to be sick, again.\u201d Peter thought.<br>\r\n\u201cIs there anything else you want to get off your chest?\u201d<br>\r\n\u201cNo Tony.\u201d<br>\r\n\u201cThen we\u2019re done here.  You can go back to eating breakfast.\u201d Tony said, and Peter was sure he heard a chuckle as he left.<br>\r\n<br>\r\nIn the hallway, the clawed mutant known as Wolverine was posting pictures of the mysterious woman on the walls.<br>\r\n\u201cHey bub, at least they got yer good side.\u201d he snickered.<br>\r\n\u201cAren\u2019t you supposed to be dead you troll?\u201d Peter yelled, and Wolverine continued to put up the pictures.<br>\r\n<br>\r\nParker slumped down defeated, someone figured it out.  Now he could never show his face around here again.\u201d<br>\r\n<br>\r\n\u201cGood morning\u2026he\u2026he\u2026Parker,\u201d Dr. Henry Pym giggled.<br>\r\n\u201cGreat now Ant-Man is mocking me!\u201d<br>\r\n<br>\r\nPeter sat back down at the table and sighed, a lot.  His luck was never going to change.  It was the curse of being Spider-Man.  Although maybe if he could expose himself to the chemical again he could make some money from Stark...<br>\r\n<br>\r\nPeter stopped his thinking.  Thinking was dangerous.  He went back to eating Wheaties.</span></div></div>",
             "created":1425186000,
             "id":1941674,
@@ -499,8 +498,6 @@
             "title":"Age pro/regression"
         },
         "111322":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Child (6-12)",
                 "Toddler (18 monnths-5 years)",
@@ -742,8 +739,6 @@
             "title":"Gender swap"
         },
         "1123":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Yes",
                 "No"
@@ -977,8 +972,6 @@
             "title":"Follow Deadpool"
         },
         "11313211222121233":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Wolverine",
                 "Other"
@@ -1002,8 +995,6 @@
             "title":"Just Donna now"
         },
         "1133":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Power swap",
                 "Something else"
@@ -1014,8 +1005,6 @@
             "title":"Other"
         },
         "11332":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Bring on the Hulked out Avengers",
                 "Something else. Loki doesn't need to be clobbered by Hulks"
@@ -1052,8 +1041,6 @@
             "title":"age regression"
         },
         "1143":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Weight Gain",
                 "Muscle Gain",
@@ -1065,8 +1052,6 @@
             "title":"other transformations"
         },
         "11431":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Wolverine",
                 "Another X-Man"
@@ -1077,8 +1062,6 @@
             "title":"Weight Gain"
         },
         "114311":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Logan",
                 "Laura"
@@ -1089,8 +1072,6 @@
             "title":"Wolverine"
         },
         "11433":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Sure let's change reality",
                 "That's too drastic. Something else please.",
@@ -1114,8 +1095,6 @@
             "title":"Sure let's change reality"
         },
         "1143311":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Witness more altered X-Men",
                 "Stick with this group of X-Men",
@@ -1127,8 +1106,6 @@
             "title":"more altered x-men"
         },
         "11433112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Follow Colossus (James Howlett) and Mystique(Piotr Rasputin)",
                 "Follow Icewoman and Marvel Warrior",
@@ -1152,8 +1129,6 @@
             "title":"Follow Icewoman and Marvel Warrior"
         },
         "1143311222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Colossus and Mystique",
                 "Ms. Wild and Angel"
@@ -1164,8 +1139,6 @@
             "title":"follow another lead"
         },
         "11433112221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Back to Marvel Warrior and Icewoman as Captain Techno arrives.",
                 "Let's check up on Ms. Wild and Angel"
@@ -1188,8 +1161,6 @@
             "title":"Ms. Wild and Angel"
         },
         "114331122222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Mesanwhile, Icewoman and Marvel Warrior try to get the elevator to work",
                 "Follow the tall, fat, and muscular James as he helps Mystique prepare lunch",
@@ -1213,8 +1184,6 @@
             "title":"Meanwhile, Icewoman and Marvel Warrior try to ..."
         },
         "11433112222211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Professor X begins his speech concerning Madam Bendore",
                 "Before the speech could begin an Inhuman begs the X-Men for help",
@@ -1238,8 +1207,6 @@
             "title":"Professor X begins his speech concerning Madam ..."
         },
         "1143311222221112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Follow Colossus's Team of X-Men",
                 "Follow the original X-Men",
@@ -1251,8 +1218,6 @@
             "title":"War against Madam Bendore"
         },
         "11433112222211121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Marvel Warrior safely lands the Blackbird",
                 "The Essex lab is armed and Marvel Warrior has maneuver his way to a spot t land",
@@ -1264,8 +1229,6 @@
             "title":"Follow Colossus's Team of X-Men"
         },
         "114331122222111213":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Colossus and his team find Madam Bendore",
                 "Colossus and his team meet Ms. Sinister and her new weapon, Deadpool",
@@ -1277,8 +1240,6 @@
             "title":"Crash Landing"
         },
         "1143311222221112132":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Marvel Warrior begins getting hungry. A side effect from copying James's powers",
                 "They briefly spot Madam Bendore, but she vanishes.",
@@ -1290,8 +1251,6 @@
             "title":"Ms. Sinister's new Weapon! Deadpool?"
         },
         "11433112222211121321":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Elise Bendore",
                 "your rival, the Incredible Bulk"
@@ -1314,8 +1273,6 @@
             "title":"Follow the original X-Men"
         },
         "114331122222111222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Yes",
                 "No"
@@ -1338,8 +1295,6 @@
             "title":"Follow Ororo's team or another team"
         },
         "114331122222111231":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Ororo's team \"neutralizes\" Krokoa. Scarlet Warlock keeps up his charade",
                 "After a while Ms. Wild realizes that the Sephirot with them is an imposter"
@@ -1350,8 +1305,6 @@
             "title":"The Scarlet Warlock's mind games"
         },
         "1143311222221112311":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Ororo's team wakes up in a cell of some kind. The cell neutralizes their powers",
                 "Let's check on the real Sephirot as she and Angel team up with the original team",
@@ -1363,8 +1316,6 @@
             "title":"Krokoa \"neutralized\". Onward to capture Bendore"
         },
         "114332":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Good idea",
                 "Are you nuts?"
@@ -1375,8 +1326,6 @@
             "title":"That's too drastic. Something else please."
         },
         "115":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The Incredible Hulk",
                 "Ghost Rider",
@@ -1582,8 +1531,6 @@
             "title":"Extremely girly"
         },
         "11533211111212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Obsessed with getting fat and pumping iron ",
                 "Some other personality change"
@@ -1606,8 +1553,6 @@
             "title":"Either a criminal or civilian now"
         },
         "11533212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Werewolf transformation",
                 "Other transformation"
@@ -1618,8 +1563,6 @@
             "title":"Something else"
         },
         "115332121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Later at Parker Industries....",
                 "Later at Avengers Tower..."
@@ -1630,8 +1573,6 @@
             "title":"Rise of the WerePunisher"
         },
         "115332122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Weight gain it is",
                 "Something else"
@@ -1642,8 +1583,6 @@
             "title":"Weight Gain"
         },
         "1153321222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Let's change the Punisher's reality.",
                 "No, that sounds ridiculous."
@@ -1654,8 +1593,6 @@
             "title":"More options"
         },
         "11533212222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Punisher Hulk it is.",
                 "Too OP! Another transformation please."
@@ -1666,8 +1603,6 @@
             "title":"No, that sounds ridiculous."
         },
         "1153322":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Inhumans it is.",
                 "No, another team or person"
@@ -1678,8 +1613,6 @@
             "title":"Someone else"
         },
         "11533222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Sure, let's go with them",
                 "Another team or person please"
@@ -1702,8 +1635,6 @@
             "title":"Spider Woman"
         },
         "1153322222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "yes",
                 "no"
@@ -1964,8 +1895,6 @@
             "title":"Batman"
         },
         "121211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Batman wakes up feeling differnt",
                 "Catwoman wakes up and arrests Batman in his new body"
@@ -1976,8 +1905,6 @@
             "title":"Catwoman"
         },
         "1212111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Catwoman wakes up ",
                 "When the police arrive "
@@ -2024,8 +1951,6 @@
             "title":"Batman and Harley?"
         },
         "12121221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Bruce Wayne",
                 "Harley Quin"
@@ -2124,8 +2049,6 @@
             "title":"Poison ivy"
         },
         "121212222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Robin",
                 "Someone else"
@@ -2136,8 +2059,6 @@
             "title":"Robin"
         },
         "1212122222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "yes",
                 "no"
@@ -2343,8 +2264,6 @@
             "title":"to test an Amazonian princess "
         },
         "12131122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Robin",
                 "Nightwing ",
@@ -2356,8 +2275,6 @@
             "title":"nope"
         },
         "121311221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Dick Grayson",
                 "Jason Todd",
@@ -2369,8 +2286,6 @@
             "title":"Robin"
         },
         "1213112213":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Tim Drake",
                 "Stephanie Brown",
@@ -2550,8 +2465,6 @@
             "title":"Something else"
         },
         "12133212222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Batman Crime King of Gotham it is",
                 "Something else"
@@ -2731,8 +2644,6 @@
             "title":"weight gain/ muscle growth"
         },
         "1213322222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Yes",
                 "No"
@@ -2857,8 +2768,6 @@
             "title":"wonder woman turned into a teenager with powers"
         },
         "1231211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Return to Paradise Island",
                 "Search for Clock Master"
@@ -3237,8 +3146,6 @@
             "title":"Yet Another set of choices most people won't pick"
         },
         "125332":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Static Shock",
                 "Anything Else"
@@ -3297,8 +3204,6 @@
             "title":"sure"
         },
         "12533222211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Justice League ",
                 "Teen Titans ",
@@ -3310,8 +3215,6 @@
             "title":"good"
         },
         "125332222112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Body swaps",
                 "gender swaps"
@@ -3322,8 +3225,6 @@
             "title":"Teen Titans "
         },
         "1253322221121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Robin",
                 "Another Titan"

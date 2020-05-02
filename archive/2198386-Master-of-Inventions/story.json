@@ -539,7 +539,6 @@
         "11113111111211231311":{
             "author_id":"zionixion",
             "author_name":"D-MentedOne",
-            "choices":null,
             "content":"<div class=\"\"><div> <span>Tom was excited as he opened the FedEx package. He'd been waiting weeks to afford the figurine from that guy's E-Bay shop, and now it's finally here!<br>\r\n<br>\r\nHe pulled the figurine out of its packaging and admired it for a bit, before placing it on a shelf by another figure he'd gotten recently. He'd decided to keep the accessories on for now while it was on display, but it wouldn't likely stay that way for long. It was a pretty good figure.<br>\r\n<br>\r\nHe was happy with his purchase, and if he'd been able to hear the statue's thoughts, he'd know that she was happy too!<br>\r\n<br>\r\n\"Thank you owner! I'm so happy to be on display! I'm a good doll! Please, look at me more!\"<br>\r\n<br>\r\n<a rel=\"nofollow\" href=\"https://e-hentai.org/s/5265b5947d/173480-3\" target=\"_blank\">https://e-hentai.org/s/5265b5947d/173480...</a></span></div></div>",
             "created":1566018000,
             "id":2703956,
@@ -1174,6 +1173,57 @@
             "id":2817997,
             "title":"A whole new game"
         },
+        "1112211112":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "A nightgown",
+                "Simple pants",
+                "Nothing"
+            ],
+            "content":"<div class=\"\"><div> <span>You awaken to find yourself in a rather rustic wooden bedroom. Looking over, you notice that the windows don't appear to even have glass in them. Moving to sit up, you find that the sheet is rather scratchy and cheap; obviously made of cotton with a low thread count. Flipping the sheet off, you find yourself dressed in...</span></div></div>",
+            "created":1588309200,
+            "id":2828074,
+            "title":"In a more rustic bedroom"
+        },
+        "11122111121":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Not human",
+                "Human",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>Startled to be wearing a nightgown, you jump from the bed, only to fall to the floor when you foot catches the sheet on the way out.<br>\r\n<br>\r\nA moment after you hit the floor with a *thump*, you hear an older woman call out, \"Anna? Are you alright in there?\"<br>\r\n<br>\r\n\"I'm alright,\" you respond, \"just missed the floor with my feet.\"<br>\r\n<br>\r\n\"Alright, breakfast will be ready in a few minutes.\"<br>\r\n<br>\r\nGetting up, you pull the nightgown off and finally take stock of your current form.<br>\r\n<br>\r\n<br>\r\n...<br>\r\n<br>\r\n<br>\r\nYup, definitely a woman. not only that, but you are also...</span></div></div>",
+            "created":1588309200,
+            "id":2828077,
+            "title":"A nightgown"
+        },
+        "111221111211":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Pointed ears (You're an elf)",
+                "Horns"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Feeling around your body, you quickly find that you have...</span></div></span></div>",
+            "created":1588309200,
+            "id":2828079,
+            "title":"Not human"
+        },
+        "1112211112111":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "A white mage's attire",
+                "A dark mage's attire",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Finally looking to get dressed, you look around until you find a set of clothes (obviously yours) to put on. It appears to be...</span></div></span></div>",
+            "created":1588309200,
+            "id":2828080,
+            "title":"Pointed ears (You're an elf)"
+        },
         "1112211113":{
             "author_id":"zionixion",
             "author_name":"D-MentedOne",
@@ -1525,7 +1575,6 @@
         "12":{
             "author_id":"zionixion",
             "author_name":"D-MentedOne",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>After you hang up with your parents, you feel a little more relaxed.<br>\r\n<br>\r\nA few days later, you heard that he was fine, but had no time for family any more.<br>\r\n<br>\r\nThere was only time for SCIENCE!</span></div></span></div>",
             "created":1565931600,
             "id":2703628,
@@ -1540,7 +1589,7 @@
         "description":"<td align=\"left\" class=\"norm\">You've heard very little over the years about your great uncle, until yesterday. Your parents have grown concerned since they haven't heard from him in a few years. They usually left him to his own devices as he's a bit eccentric. <br>\r\n<br>\r\nNow they want you to do a wellness check on him at his estate.</td>",
         "id":2198386,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1586757600,
+        "modified":1588325760,
         "pretty_title":"Master of Invention(s)"
     }
 }

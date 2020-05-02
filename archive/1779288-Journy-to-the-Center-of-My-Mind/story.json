@@ -13,8 +13,6 @@
             "title":"Chapter One"
         },
         "11":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Tell Marissa what you she was thinking.",
                 "Keep quiet."
@@ -74,8 +72,6 @@
             "title":"Keep it a secret"
         },
         "121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Chelsy pretends it was a silly prank",
                 "Chelsy proves she is telling the truth",
@@ -112,8 +108,6 @@
             "title":"Does she stay and deal with it"
         },
         "1231":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go inside the office.",
                 "Try to find the window to Dr. Loshe's office and stand by it.",
@@ -137,8 +131,6 @@
             "title":"Mark and Dr. Loshe."
         },
         "1232":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Chelsy asks Stacy to spend the night, so that they can spy on Mark.",
                 "The next day, Chelsy and Stacy follow Mark around.",

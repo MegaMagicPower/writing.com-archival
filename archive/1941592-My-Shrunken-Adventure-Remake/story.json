@@ -31,8 +31,6 @@
             "title":"Video Games"
         },
         "111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Tifa",
                 "Yuffie",
@@ -57,8 +55,6 @@
             "title":"Tifa"
         },
         "11112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The two of you get some food",
                 "You and Tifa talk some more",
@@ -82,8 +78,6 @@
             "title":"Reader's choice"
         },
         "1111231":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "\"You were pretty tasty, though.\"",
                 "\"I need to protect you better!\"",
@@ -107,8 +101,6 @@
             "title":"\"You were pretty tasty, though.\""
         },
         "111123111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Tifa digests you",
                 "Tifa lets you out after a while",
@@ -132,8 +124,6 @@
             "title":"Tifa keeps you in her belly"
         },
         "11112311131":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Tifa eats breakfast, with you in her stomach",
                 "Something bad happens",
@@ -157,8 +147,6 @@
             "title":"Reader's choice"
         },
         "1111231113132":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Tifa swallows you again",
                 "Someone knocks on the door",
@@ -182,8 +170,6 @@
             "title":"Tifa swallows you again"
         },
         "111123111313212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You tell her your feelings",
                 "You don't tell her",
@@ -207,8 +193,6 @@
             "title":"You don't tell her"
         },
         "11112311131321222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The two of you get some sleep",
                 "The two of you go out somewhere",
@@ -244,8 +228,6 @@
             "title":"Under the bed you didn't win"
         },
         "11112311131321222311":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Yes, you enjoy your new home",
                 "No, you run out of air and pass out"
@@ -268,8 +250,6 @@
             "title":"Yes, you enjoy your new home"
         },
         "111123111313212223112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The end...NOT!"
             ],
@@ -291,8 +271,6 @@
             "title":"The end...NOT!"
         },
         "11112311131321222311211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "So...now what?",
                 "Trouble begins"
@@ -315,8 +293,6 @@
             "title":"Trouble begins"
         },
         "1111231113132122231121121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Breakfast!",
                 "Something bad",
@@ -340,8 +316,6 @@
             "title":"Someone's at the door!"
         },
         "111123111313212223112112131":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A trap!",
                 "Nothing at all.",
@@ -365,8 +339,6 @@
             "title":"Something else"
         },
         "11112311131321222311211213131":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "\"Sure!\"",
                 "\"Not yet.\""
@@ -377,8 +349,6 @@
             "title":"At least she's honest..."
         },
         "1112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "\"I'll keep you safe, don't worry.\"",
                 "\"And you look delicious!\"",
@@ -390,8 +360,6 @@
             "title":"Yuffie it is!"
         },
         "11122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "GULP!",
                 "She stops. She was just messing with you!",
@@ -428,8 +396,6 @@
             "title":"Lightning Farron"
         },
         "111312":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "In her mouth",
                 "In her pocket",
@@ -453,8 +419,6 @@
             "title":"In her mouth"
         },
         "11131211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She lets you out",
                 "She digests you",
@@ -478,8 +442,6 @@
             "title":"She keeps you in her belly"
         },
         "1113121131":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Lightning eats a lot of pizza",
                 "Lightning spits you out",
@@ -503,8 +465,6 @@
             "title":"Lightning doesn't eat much"
         },
         "111312113132":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Serah",
                 "Yuffie",
@@ -528,8 +488,6 @@
             "title":"Some other girl"
         },
         "11131211313232":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Aerith",
                 "Fang",
@@ -553,8 +511,6 @@
             "title":"Fang"
         },
         "1113121131323222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Lightning swallows you to keep you safe",
                 "Something else happens"
@@ -577,8 +533,6 @@
             "title":"Something else happens"
         },
         "111312113132322222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "In someone else's hand",
                 "Alone in Fang's stomach",
@@ -602,8 +556,6 @@
             "title":"Alone in Fang's stomach"
         },
         "11131211313232222221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You get digested",
                 "You enter the intestines",
@@ -627,8 +579,6 @@
             "title":"Something else"
         },
         "1113121131323222222131":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "In her mouth again",
                 "In her purse",
@@ -652,17 +602,12 @@
             "title":"In her mouth again"
         },
         "111312113132322222213111":{
-            "author_id":null,
-            "author_name":null,
-            "choices":null,
             "content":"<div class=\"\"><div> <span>Shortly after the mysterious liquid is poured over your tiny body, you disappear from Lightning's room in a bright flash. Some time later, you awaken back in your own room, in the real world...and it looks like you've returned to normal size!<br>\r\n<br>\r\nBut before you can celebrate, you suddenly feel the need to use the bathroom. Practically racing to the toilet, you rush into the bathroom, close the door...and do your business.<br>\r\n<br>\r\nIt takes about an hour for you to finish in the bathroom. What the heck was IN that liquid? Dismissing the thought, you consider leaping back into bed for a well-earned nap.<br>\r\n<br>\r\nToo bad it's a school day.</span></div></div>",
             "created":1444194000,
             "id":2044790,
             "title":"Sappy Ending"
         },
         "111312113132322222213112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Lightning tries more liquids",
                 "Someone barges in",
@@ -772,8 +717,6 @@
             "title":"Mortal Kombat"
         },
         "1133":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Jade",
                 "Sheeva",
@@ -836,8 +779,6 @@
             "title":"she asked are you ok"
         },
         "114111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "In her pocket",
                 "In her mouth",
@@ -861,8 +802,6 @@
             "title":"In her mouth"
         },
         "11411121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Aqua digests you by mistake",
                 "Aqua suddenly feels sick",
@@ -886,8 +825,6 @@
             "title":"Aqua keeps you in her belly"
         },
         "1141112131":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Aqua spits you out",
                 "Aqua finds a potion store, they may have a cure",
@@ -936,8 +873,6 @@
             "title":"other"
         },
         "115":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Super Mario Bros",
                 "The Legend of Zelda",
@@ -949,8 +884,6 @@
             "title":"More"
         },
         "1151":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Princess Peach",
                 "Princess Daisy",
@@ -962,8 +895,6 @@
             "title":"Super Mario Bros"
         },
         "11511":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You and Peach talk more",
                 "Peach's stomach growls...",
@@ -975,8 +906,6 @@
             "title":"Princess of the Mushroom Kingdom"
         },
         "115112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Peach makes a salad for you and her",
                 "Peach decides to eat you",
@@ -988,8 +917,6 @@
             "title":"Even a princess needs to eat"
         },
         "1151121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Yes, you're saved!",
                 "No, into the mouth you go!"
@@ -1012,8 +939,6 @@
             "title":"Peach's Tiny Meal?"
         },
         "11512":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Daisy gets a little hungry...",
                 "You and Daisy talk some more",
@@ -1025,8 +950,6 @@
             "title":"The Tomboy Princess"
         },
         "115121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "\"Maybe...I could eat YOU!\"",
                 "\"I think a salad will do the trick.\"",
@@ -1038,8 +961,6 @@
             "title":"So much for being ladylike..."
         },
         "1151211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "...spits you out.",
                 "...swallows you."
@@ -1050,8 +971,6 @@
             "title":"Into Daisy's Mouth"
         },
         "1151212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Yes, you're saved!",
                 "No, you get eaten."
@@ -1062,8 +981,6 @@
             "title":"Lunch with Daisy"
         },
         "11512121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "\"Still, you were kinda tasty.\"",
                 "\"Maybe I should give you something else to eat.\"",
@@ -1075,8 +992,6 @@
             "title":"Saved, For Now."
         },
         "115121211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Daisy swallows you",
                 "Daisy spits you out",
@@ -1088,8 +1003,6 @@
             "title":"Daisy's Taste Test"
         },
         "11513":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Yes",
                 "No"
@@ -1100,8 +1013,6 @@
             "title":"Rosalina?"
         },
         "115131":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "\"...in my hair.\"",
                 "\"...in my ear.\"",
@@ -1113,8 +1024,6 @@
             "title":"Space Princess"
         },
         "1151313":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "...but she swallows you.",
                 "...but nothing works.",
@@ -1126,8 +1035,6 @@
             "title":"Into Rosalina's Mouth"
         },
         "11513131":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Rosalina digests you",
                 "She spits you out",
@@ -1141,15 +1048,12 @@
         "115131313":{
             "author_id":"shrinkgirl132",
             "author_name":"Harley q.",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She keeps you in her stomach and forgets all about you</span></div></span></div>",
             "created":1505624400,
             "id":2387078,
             "title":"She keeps you in her tummy"
         },
         "115132":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Sure",
                 "Next!"
@@ -1197,8 +1101,6 @@
             "title":"Which Zelda?"
         },
         "11523":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Yep.",
                 "Nope."
@@ -1209,8 +1111,6 @@
             "title":"Lana?"
         },
         "115232":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Yeah!",
                 "Nah."
@@ -1282,8 +1182,6 @@
             "title":"Saints Row it is"
         },
         "11533":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Fire Emblem",
                 "Kid Icarus",
@@ -1295,8 +1193,6 @@
             "title":"Still More"
         },
         "115331":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Lucina",
                 "Robin (female)",
@@ -1308,8 +1204,6 @@
             "title":"Fire Emblem"
         },
         "1153311":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You tell her about yourself.",
                 "You pretend you have amnesia.",
@@ -1321,8 +1215,6 @@
             "title":"Lucina, the Lordly Lady"
         },
         "11533113":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "\"...and you look delicious!\"",
                 "\"...should we look for berries to eat?\"",
@@ -1478,8 +1370,6 @@
             "title":"Emma"
         },
         "115332":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Palutena",
                 "Viridi",
@@ -1491,8 +1381,6 @@
             "title":"Kid Icarus"
         },
         "1153321":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You tell her about yourself.",
                 "Palutena's stomach rumbles",
@@ -1504,8 +1392,6 @@
             "title":"Goddess Palutena"
         },
         "11533212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "\"...and you look delicious!\"",
                 "\"...let's get us something to eat!\"",
@@ -1517,8 +1403,6 @@
             "title":"Hungry Goddess"
         },
         "1153323":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Sure",
                 "Nope"
@@ -1529,8 +1413,6 @@
             "title":"Phosphora?"
         },
         "11533232":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Oh yeah!",
                 "Absolutely not."
@@ -1553,8 +1435,6 @@
             "title":"Medusa?"
         },
         "115333":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Street Fighter",
                 "Dead or Alive",
@@ -1602,8 +1482,6 @@
             "title":"no"
         },
         "115333322":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Yeah!",
                 "Nah."
@@ -1614,8 +1492,6 @@
             "title":"Bayonetta?"
         },
         "1153333221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Yes!",
                 "Someone else, please."
@@ -1727,8 +1603,6 @@
             "title":"Sailor Moon"
         },
         "1211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Sailor Moon herself",
                 "Sailor Mercury",
@@ -1752,8 +1626,6 @@
             "title":"Sailor Moon herself"
         },
         "121111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Usagi",
                 "Luna"
@@ -1788,8 +1660,6 @@
             "title":"A Snack for the Moon Senshi"
         },
         "121111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Yes, and you're promptly spat out.",
                 "No, you're finished.",
@@ -1801,8 +1671,6 @@
             "title":"Time to get the heck outta here!"
         },
         "12111112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She's curious about you",
                 "She wants to eat you",
@@ -1826,8 +1694,6 @@
             "title":"She wants to eat you"
         },
         "1211111221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "No luck. Usagi digests you.",
                 "Usagi feels sick and pukes you up",
@@ -1851,8 +1717,6 @@
             "title":"No luck, but you don't get digested..."
         },
         "121111122131":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She finally lets you out",
                 "She digests you",
@@ -1876,8 +1740,6 @@
             "title":"She keeps you in her belly"
         },
         "12111112213131":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Try to climb up Usagi's throat",
                 "Try to get to the intestines",
@@ -1901,8 +1763,6 @@
             "title":"Squirm around, trying to make Usagi sick"
         },
         "1211111221313132":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Yes, enter the intestines",
                 "No, try to make Usagi sick again",
@@ -1937,8 +1797,6 @@
             "title":"Stuck inside Meatball Head's belly for life"
         },
         "121111122131313231":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go back and choose another Sailor Scout"
             ],
@@ -1948,8 +1806,6 @@
             "title":"Trapped in Usagi's belly forever..."
         },
         "1211111221313132311":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Ami (Sailor Mercury)",
                 "One of the other Sailor Scouts"
@@ -1960,8 +1816,6 @@
             "title":"It was all a dream..."
         },
         "12111112213131323111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "\"I'd better protect you!\"",
                 "\"I wonder how you taste...\"",
@@ -1985,8 +1839,6 @@
             "title":"\"I'd better protect you!\""
         },
         "1211111221313132311111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You and Ami talk some more",
                 "Ami is still hungry...",
@@ -1998,8 +1850,6 @@
             "title":"Noticed at the Last Second"
         },
         "1211111221313132311112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Yes",
                 "No"
@@ -2046,8 +1896,6 @@
             "title":"Someone else"
         },
         "121132":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Sailor Mars",
                 "Sailor Jupiter",
@@ -2216,8 +2064,6 @@
             "title":"no"
         },
         "123":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Yep",
                 "On second thought..."
@@ -2278,8 +2124,6 @@
             "title":"I'm all Fired up now"
         },
         "125":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Yu-Gi-Oh",
                 "Pokemon",
@@ -2291,8 +2135,6 @@
             "title":"More"
         },
         "1252":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Dawn",
                 "Serena",
@@ -2340,8 +2182,6 @@
             "title":"Somebody else"
         },
         "125232":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "May",
                 "Jessie",
@@ -2462,8 +2302,6 @@
             "title":"On a plate of cookies"
         },
         "12533221111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "\"And maybe I will!\"",
                 "\"But these cookies should be enough.\""
@@ -2498,8 +2336,6 @@
             "title":"No next"
         },
         "1253322121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "In Weiss's room",
                 "Inside Weiss's mouth",
@@ -2535,8 +2371,6 @@
             "title":"Nah next"
         },
         "12533221221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "In Blake's bedroom, as she sleeps",
                 "Somewhere on Blake",
@@ -2560,8 +2394,6 @@
             "title":"Somewhere IN Blake"
         },
         "1253322122131":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Blake accidentally ate you with her food",
                 "Blake ate you on purpose!"
@@ -2584,8 +2416,6 @@
             "title":"Blake ate you on purpose!"
         },
         "125332212213121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She lets you out",
                 "She decides to digest you",
@@ -2633,8 +2463,6 @@
             "title":"No next"
         },
         "125332212221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "In Yang's open hand",
                 "In Yang's bedroom",
@@ -2646,8 +2474,6 @@
             "title":"Yang it is!"
         },
         "1253322122213":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She has no idea; she must've eaten you unwarily.",
                 "She knows; she ate you on purpose!"
@@ -2987,8 +2813,6 @@
             "title":"The Little Mermaid"
         },
         "134":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Yes!",
                 "No, is there anyone else?"
@@ -3012,8 +2836,6 @@
             "title":"Yes!"
         },
         "13411":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Jasmine swallows you",
                 "Jasmine spits you out",
@@ -3037,8 +2859,6 @@
             "title":"Jasmine swallows you"
         },
         "1341112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Yes, it's the end.",
                 "No, you somehow survive",

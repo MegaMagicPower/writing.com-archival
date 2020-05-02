@@ -561,8 +561,6 @@
             "title":"Hit or Miss?"
         },
         "113111112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Climb the first rope.",
                 "Climb the second rope."
@@ -573,8 +571,6 @@
             "title":"Sneak into the fun house."
         },
         "1131111121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Whos's going to throw a pie at you?"
             ],
@@ -1249,7 +1245,6 @@
         "1151212":{
             "author_id":"itchynugat",
             "author_name":"Isaac Kitsch",
-            "choices":null,
             "content":"<div class=\"\"><div> <span><span class=\"chotpink\"><font class=\"size5\" style=\"\">*SPLAT!*</font></span><br>\r\n<br>\r\n<font class=\"size35\" style=\"\">The clown clobbers you right in the kisser with the cream pie.  As you sputter, he honks his nose, tips his hat at you, and walks away.</font><br>\r\n<font class=\"size35\" style=\"\"><br>\r\n<span class=\"cplum\">*Congratulations!  You've escaped!  Now, do something about this mess, won't you?*</span></font></span><br>\r\n</div></div>",
             "created":1306645200,
             "id":1115583,
@@ -1270,7 +1265,6 @@
         "1151221":{
             "author_id":"itchynugat",
             "author_name":"Isaac Kitsch",
-            "choices":null,
             "content":"<div class=\"\"><div> <span><font class=\"size35\" style=\"\">The tap on your shoulder was just the corner of the tarp, flapping in the wind.  You're alone behind the pie throwing booth.<br>\r\n<br>\r\n<span class=\"cplum\">*Congratulations!  You've escaped relatively unharmed.  You may now pat yourself on the back, and be happy with your luck, or...  you could always start the game over again.*</span></font></span></div></div>",
             "created":1306645200,
             "id":1115588,

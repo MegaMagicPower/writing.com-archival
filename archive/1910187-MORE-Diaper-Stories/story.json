@@ -92,8 +92,6 @@
             "title":"I (You get made up to look like her baby)"
         },
         "122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You decide to accept the role",
                 "You go and try to deny the role",
@@ -105,8 +103,6 @@
             "title":"Joins the Theater-(to Impress a Girl)"
         },
         "1221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Miss Rodriguez wants to talk with you and Jessica",
                 "Jessica wants to talk with you",
@@ -130,8 +126,6 @@
             "title":"Jessica wants to talk with you"
         },
         "122121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Take you home",
                 "Put you in a diaper"
@@ -154,8 +148,6 @@
             "title":"Put you in a diaper"
         },
         "12212122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Shows she is already wearing one ",
                 "Other"
@@ -178,8 +170,6 @@
             "title":"Shows she is already wearing one "
         },
         "1221212212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Sure baby we will wear diapers",
                 "No way we won't but we will put you in one and take you to Jessica "
@@ -202,8 +192,6 @@
             "title":"Sure baby we will wear diapers"
         },
         "122121221212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "There are all the girls in diapers",
                 "They lied"
@@ -239,8 +227,6 @@
             "title":"You go and try to deny the role"
         },
         "1223":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Jessica ",
                 "Miss Rodriguez",
@@ -603,7 +589,6 @@
         "142":{
             "author_id":"spunky",
             "author_name":"Ace Jones",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Sorry, but no-try something else. <br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n</span></div></span></div>",
             "created":1385528400,
             "id":1699808,

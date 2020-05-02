@@ -1,8 +1,6 @@
 {
     "chapters":{
         "1":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Dynasty Warriors",
                 "Samurai Warriors",
@@ -16,8 +14,6 @@
             "title":"Choose your Adventure!"
         },
         "11":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Wei",
                 "Wu",
@@ -57,8 +53,6 @@
             "title":"More Wei Officers"
         },
         "12":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Takeda",
                 "Oda",
@@ -72,8 +66,6 @@
             "title":"Samurai Warriors"
         },
         "125":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Akechi",
                 "Shimazu",
@@ -85,8 +77,6 @@
             "title":"More"
         },
         "13":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Fu Xi",
                 "Da Ji",
@@ -216,8 +206,6 @@
             "title":"A different entry"
         },
         "151":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Link ",
                 "Zelda",
@@ -294,8 +282,6 @@
             "title":"Another entry"
         },
         "1552":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Jeanne D'Arc",
                 "Edward, the Black Prince",

@@ -82,8 +82,6 @@
             "title":"Sonic"
         },
         "111121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "hedgehog",
                 "fox"
@@ -94,8 +92,6 @@
             "title":"Continue..."
         },
         "1111212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "your with them",
                 "your a spy"
@@ -106,8 +102,6 @@
             "title":"fox change"
         },
         "11112121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "\"How do we know we can trust you?\" ",
                 "\"We've got time. What's your story?\" "
@@ -142,8 +136,6 @@
             "title":"\"We've got time. What's your story?..."
         },
         "11112122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "robotnik",
                 "some other clan from sonic"
@@ -154,8 +146,6 @@
             "title":"your a spy on a mission"
         },
         "111121221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "tied up in a room",
                 "tied up outside"
@@ -166,8 +156,6 @@
             "title":"alliegence to robotnik"
         },
         "1111212211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Join sonic and forget robotnik",
                 "Stay with robotnik "
@@ -178,8 +166,6 @@
             "title":"tied up in a room"
         },
         "11112122112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Yes it did, you ally with sonic",
                 "No, you are a tr"
@@ -190,8 +176,6 @@
             "title":"Stay with robotnik "
         },
         "111121221122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Take the right",
                 "Take the left"
@@ -202,8 +186,6 @@
             "title":"No, you are still with robotnik"
         },
         "1111212211222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Doodle on the \"heroes\" faces",
                 "Just continue throughout the hall"
@@ -214,8 +196,6 @@
             "title":"Take the left"
         },
         "11112122112221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Yes, they cannot stop me",
                 "No, they cannot see that I have escaped"
@@ -226,8 +206,6 @@
             "title":"Doodle on the \"heroes\" faces"
         },
         "111121221122212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Sonic barges in",
                 "Find something that is shocking"
@@ -238,8 +216,6 @@
             "title":"No, it's dangerous"
         },
         "111121222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "the dark legion (cybornetic mobians)",
                 "yet another different clan"
@@ -276,7 +252,6 @@
         "12":{
             "author_id":"justimagine",
             "author_name":"JustIMAGINE",
-            "choices":null,
             "content":"<div class=\"\"><div> <span>You arise to the welcoming scent of bacon, bum-rush the closet, throw on a random assortment of clothing, and head downstairs. You notice not everybody is at the table yet, just your mom and sister so far. Your mom notices your outfit and is unsettled...<br>\r\n<br>\r\n<br>\r\nMom--\"What are you doing wearing your work uniform? I thought you had work off?\"<br>\r\n<br>\r\n(You)--\"...\"<br>\r\n<br>\r\nMom--\"Go back upstairs and change.\"</span></div></div>",
             "created":1420866000,
             "id":1916146,

@@ -991,9 +991,19 @@
             "id":2763980,
             "title":"He became a girl"
         },
+        "142333":{
+            "author_id":"secretgoat",
+            "author_name":"Ralsei",
+            "choices":[
+                "A guy again ",
+                "You become a guy with a vagina (neither boy or girl)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Your mom says \u201ccome on we\u2019re both girls here you can tell me\u201d you said \u201cI guess we are\u201d then you start changing into...</span></div></span></div>",
+            "created":1588222800,
+            "id":2827541,
+            "title":"Something else"
+        },
         "15":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Himself",
                 "A family member",
@@ -1047,8 +1057,6 @@
             "title":"Jakki decides to beautify herself further."
         },
         "152":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Sister",
                 "Mother",
@@ -1391,8 +1399,6 @@
             "title":"Something else"
         },
         "153":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "His girlfriend",
                 "His girlfriend's best friend",
@@ -1443,8 +1449,6 @@
             "title":"Jen's dad walked in"
         },
         "154":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A mean teacher",
                 "A school bully",
@@ -2166,7 +2170,7 @@
         "description":"<td align=\"left\" class=\"norm\">James, a pervy teenager, discovers a pen that can alter reality by writing. Anything written becomes true; anything crossed out is cancelled. A few ground rules:<br>\r\n1) There are a few fetishes I'd like to explore here. Some of this stuff may get pretty weird, but don't panic.<br>\r\n2) Rosenheimer is banned from adding to this. I will delete any chapters he tries to post.<br>\r\n3) No forced continues. Try to explore a variety of options.<br>\r\n4) Don't be afraid to add! I may send you GPs if I like what I see.</td>",
         "id":1999332,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1586910780,
+        "modified":1588255980,
         "pretty_title":"The Reality-Altering Fountain Pen"
     }
 }

@@ -23,8 +23,6 @@
             "title":"Cheslovski Star"
         },
         "111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "What makes you happy the most?",
                 "What makes you happy here in WDC?",
@@ -69,8 +67,6 @@
             "title":"Next person"
         },
         "1111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Next person"
             ],
@@ -114,8 +110,6 @@
             "title":"SilentOuroboros"
         },
         "11111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "next",
                 "next"
@@ -138,8 +132,6 @@
             "title":"next"
         },
         "1111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Next person...",
                 "Next person..."
@@ -231,8 +223,6 @@
             "title":"Next"
         },
         "111111111112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "What makes you happy about your family?",
                 "What makes you happy about school? (Even if you hate it)"
@@ -245,15 +235,12 @@
         "1111111112":{
             "author_id":"sonawuy",
             "author_name":"Dr. Doctor",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The End...happy now?</span></div></span></div>",
             "created":1294203600,
             "id":1029559,
             "title":"End"
         },
         "1112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "What makes you happy at work?",
                 "What is making you happy at this very moment?"

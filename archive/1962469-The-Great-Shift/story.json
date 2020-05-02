@@ -620,8 +620,6 @@
             "title":"16 years old "
         },
         "1231":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "One of the teachers.",
                 "One of the other students.",
@@ -633,8 +631,6 @@
             "title":"Someone from school"
         },
         "12312":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A male student.",
                 "A female student."

@@ -16,8 +16,6 @@
             "title":"Planet Powerpuff"
         },
         "11":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Try it on at home.",
                 "Try it on in a dressing room."
@@ -53,8 +51,6 @@
             "title":"You Try It On At Home"
         },
         "1211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Examine your options.",
                 "Panic."
@@ -188,8 +184,6 @@
             "title":"Take The Costume Off."
         },
         "12223":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "ask the twins if there is a way out ",
                 "something else"
@@ -214,15 +208,12 @@
         "1222311":{
             "author_id":"superprince",
             "author_name":"Superprince",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Goes and faces mom about what happened earlier</span></div></span></div>",
             "created":1587358800,
             "id":2821855,
             "title":"Go home and face mom"
         },
         "13":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Try it on at home.",
                 "Try it on in a dressing room."

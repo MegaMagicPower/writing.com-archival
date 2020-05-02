@@ -272,8 +272,6 @@
             "title":"Yes"
         },
         "11111122111111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Tell the truth.",
                 "Lie."
@@ -606,8 +604,6 @@
             "title":"More Choices"
         },
         "151":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "New Vegas Strip.",
                 "Out in the desert.",
@@ -632,8 +628,6 @@
             "title":"Out in the desert."
         },
         "15121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The Paladin allows him to proceed.",
                 "He laughs."
@@ -656,8 +650,6 @@
             "title":"A Courier"
         },
         "151221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Two figures appear from the dust cloud.",
                 "More Legionnaires approach."
@@ -668,8 +660,6 @@
             "title":"...hostile."
         },
         "1512211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Legion troops.",
                 "Other"
@@ -692,8 +682,6 @@
             "title":"Legion troops."
         },
         "151221111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He inquires about the pistol.",
                 "Asks about his companion."
@@ -704,8 +692,6 @@
             "title":"Abraham shoots the Legionaire"
         },
         "1512211111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "\"Tell me,\"",
                 "\"I'd rather not know.\""

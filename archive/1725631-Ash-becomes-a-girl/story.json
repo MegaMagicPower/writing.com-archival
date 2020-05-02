@@ -238,8 +238,6 @@
             "title":"Different choice"
         },
         "111231":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "clothes first it help you be more girly",
                 "no point of dresssing up if you cant act right."
@@ -250,8 +248,6 @@
             "title":"Schoolgirl"
         },
         "1112312":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Time for poses with mom",
                 "Ashly is kinda horse."
@@ -610,8 +606,6 @@
             "title":"To Class"
         },
         "11123222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "yes",
                 "not yet"
@@ -5283,7 +5277,6 @@
         "1511321111212":{
             "author_id":"digijurer",
             "author_name":"Digijurer",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>I made a mistake, so ignore this one.</span></div></span></div>",
             "created":1538456400,
             "id":2558038,

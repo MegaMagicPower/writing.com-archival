@@ -31,8 +31,6 @@
             "title":"Intro"
         },
         "111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Sie zertritt alles was sich bewegt",
                 "Sie schaut sich die kleinen genau an und hebt sie auf"
@@ -43,8 +41,6 @@
             "title":"Die \u00dcberraschung"
         },
         "1111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Findet pl\u00f6tzlich heraus, dass ALLE Menschen ausser ihr geschrumpft sind...",
                 "Zertritt erstmal alle und dann schauen wir weiter..."
@@ -55,8 +51,6 @@
             "title":"Wo sind die blo\u00df?"
         },
         "11111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "\"Hey! Mein Ex ist vielleicht auch klein!\"",
                 "\"Die Welt geh\u00f6rt mir! Als erstes am\u00fcsieren!\""
@@ -103,8 +97,6 @@
             "title":"Spiel, Satz, Sieg - Oder nicht"
         },
         "111111221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Saras Sicherungen brennen durch. (Sie verf\u00e4llt in Rage.)",
                 "Weinkrampf."
@@ -115,8 +107,6 @@
             "title":"Sie steht vor dem Haus"
         },
         "1111112211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "\"Ich... Lebe? Ja war ich denn tot??\"",
                 "\"Schnauze. Zeit zum sterben.\""
@@ -127,8 +117,6 @@
             "title":"Der letzte Strohalm... & Dennis's Furcht"
         },
         "11111122111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Mehr erfahren und Dennis ausfragen",
                 "\"Du l\u00fcgst...\" Ende der Diskussion, Anfang der Exikution"
@@ -477,8 +465,6 @@
             "title":"Erste Schritte"
         },
         "11212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Soll Sie sich zu ihrem Ex aufmachen",
                 "Soll Sie die Stadt weiter erkunden"
@@ -501,8 +487,6 @@
             "title":"Soll Sie sich zu ihrem Ex aufmachen"
         },
         "1121212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Ohne Umschweife zum Ex...",
                 "Etwas kommt dazwischen!"
@@ -658,8 +642,6 @@
             "title":"Absolut Riesig"
         },
         "114":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "ein Mann kommt herein",
                 "die \"Spinne\" taucht auf"
@@ -670,8 +652,6 @@
             "title":"im Kaffee"
         },
         "115":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "beim Shopping",
                 "die \"Spinne\" taucht auf"
@@ -694,8 +674,6 @@
             "title":"beim Shopping"
         },
         "12":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Sie bet\u00e4tigt die gr\u00fcnde Taste",
                 "Sie tut es nicht und geht weiter"
@@ -706,8 +684,6 @@
             "title":"Lizzy's Adventure begins"
         },
         "121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "sie war ein mann",
                 "something else"
@@ -718,8 +694,6 @@
             "title":"\u00dcbergang"
         },
         "1211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Er war 15",
                 "Er war 25"
@@ -730,8 +704,6 @@
             "title":"Das Alter"
         },
         "12111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "180 Meter",
                 "viel viel mehr"
@@ -742,8 +714,6 @@
             "title":"Die Gr\u00f6\u00dfe"
         },
         "121111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "b\u00f6se",
                 "freundlich"
@@ -754,8 +724,6 @@
             "title":"B\u00f6se Oder Gut"
         },
         "1211111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Barfu\u00df",
                 "Schuhe anbehalten!"
@@ -766,8 +734,6 @@
             "title":"Gef\u00fchlsecht?"
         },
         "12111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "In Lukas' Sicht bleiben",
                 "In die Sicht eines Stadtbewohners wechseln"
@@ -778,8 +744,6 @@
             "title":"Barefoot-Rampage"
         },
         "121111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "In Lukas' Sicht bleiben",
                 "Zu einem Reporterteam wechseln"
@@ -790,8 +754,6 @@
             "title":"Crush-Party"
         },
         "1211111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "sie zertreten",
                 "mit ihr sprechen"
@@ -802,8 +764,6 @@
             "title":"Ein M\u00e4dchen"
         },
         "12111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "platt treten",
                 "kontakt aufnehmen"
@@ -814,17 +774,12 @@
             "title":"wirklich zertreten?"
         },
         "121111111111":{
-            "author_id":null,
-            "author_name":null,
-            "choices":null,
             "content":"<div class=\"\"><div> <span>Nein, er wollte sie einfach zertreten. Und dass tat er auch. Diesmal schob er seinen Fu\u00df einfach \u00fcber sie, wodurch sie zu Boden st\u00fcrzte. Dann hob er ihn nochmal leicht \u00fcber sie um ihr eine perfekte Sicht auf seine Fu\u00dfsohle zu erm\u00f6glichen. Und dann senkte er wieder seinen Fu\u00df, doch diesmal schneller. <br>\r\nSeine Sohle ber\u00fchrte sie, dann den Boden. Dann sp\u00fchrte er ihren K\u00f6rper, wie er gegen den Asphalt gedr\u00fcckt wurde. Und dann schlie\u00dflich gan er volles Gewicht auf sein Bein, wodurch sie vollst\u00e4ndig zerdr\u00fcckt und sogar die Stra\u00dfe zerst\u00f6rt wurde.<br>\r\nIhr Blut quoll unter seinem Fu\u00dfballen hervor. Dann wurde ihm pl\u00f6tzlich schwindelig. Seine Augen wurden schwach und seine Sicht verschwommen. Doch dann wurde alles wieder klarer und er kehrte zur Realit\u00e4t zur\u00fcck. Doch irgendetwas war anders. Er war nicht mehr er. Lukas schaute sich selbst an. Er hatte wei\u00dfe Kleidung an, und ... er war wieder Lizz! Aber wie konnte das sein?<br>\r\nDann bemerkte Lizz den gro\u00dfen Schatten, der \u00fcber sie kam. Sie blickte nach oben. Es war ein gigantischer Fu\u00df der \u00fcber ihr schwebte - Lukas' Fu\u00df. Si konnte sein Gesicht nicht sehen, also ging sie ein paar Schritte zur\u00fcck, w\u00e4rend die riesige Fu\u00dfsohle immer n\u00e4her kam. Schlie\u00dflich stand sie zwischen seinen Zehen und blickte ihm ins Gesicht.<br>\r\nDas konnte doch alles nicht wahr sein, oder?<br>\r\nSie konnte doch nicht gleichzeitig als zwei verschiedene Personen am selben Ort, in unterschiedlicher K\u00f6rpergr\u00f6\u00dfe sein!<br>\r\nSein Fu\u00df setzte auf. Sie wusste was jetzt kam. Als sie registrierte, was mit ihr geschah, war es schon zu sp\u00e4t. Lukas Fu\u00df stie\u00df sie um, warf sie zu Boden. Lizz blickte die ganze Zeit \u00fcber nach oben, auf Lukas Fu\u00dfsohle. Er hatte wirklich sch\u00f6ne F\u00fc\u00dfe! Aber sie wollte nicht sterben, jetzt doch noch nicht. <br>\r\nSie wollte aufstehen um zu fliehen, doch sie wurde bereits von der herabkommenden Fu\u00dfsohle erfasst und zu Boden gedr\u00fcckt. <br>\r\nDass konnte doch nicht sein! Sie hatte sich selbst zertreten als sie in Lukas' Gestallt auf das kleine M\u00e4dchen getreten war. Und jetzt war sie dass kleine M\u00e4dchen das unter ihrem eigenen Fu\u00df zu Boden gedr\u00fcckt wurde. <br>\r\nSchlie\u00dflich wurde der Druck immer gr\u00f6\u00dfer, die Schmerzen immer st\u00e4rker, bis sie gar nichts mehr f\u00fchlte, und ihr K\u00f6rper nachgab. Kurzzeitig sp\u00fchrte sie erleichterung. Eine Art befreiung als ihr Sch\u00e4del explodierte.<br>\r\nDann war alles dunkel. Aus.<br>\r\n<br>\r\n--- ENDE ---</span></div></div>",
             "created":1147150800,
             "id":317845,
             "title":"unbewusster suizid"
         },
         "121111111112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Ihr alles erkl\u00e4ren",
                 "sie nicht aufkl\u00e4ren"
@@ -835,8 +790,6 @@
             "title":"Selbsterkenntnis"
         },
         "1211111111122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Auf die Stadt",
                 "Auf die EInwohner"
@@ -847,8 +800,6 @@
             "title":"Seine Riesin"
         },
         "1211112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "er begnet jemanden",
                 "Er wartet noch etwas ab"
@@ -859,8 +810,6 @@
             "title":"freundlicher mann"
         },
         "12111121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "der Fremde hilft ihm",
                 "wait and see what will happen"
@@ -871,8 +820,6 @@
             "title":"Begegnungen"
         },
         "1212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "auf alle F\u00e4lle Menschlich",
                 "nicht Menschlich"
@@ -883,8 +830,6 @@
             "title":"Das Erscheinungsbild"
         },
         "12121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Gothic",
                 "was anderes"
@@ -895,8 +840,6 @@
             "title":"Lieber Menschlich"
         },
         "121211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Auf nach Wiesbaden... Abreagieren!",
                 "Auf nach Wiesbaden... Hilfe suchen."
@@ -907,8 +850,6 @@
             "title":"Gothic"
         },
         "1212111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "...Soll der Bauer dran glauben!",
                 "Gleich nach Wiesbaden"
@@ -919,8 +860,6 @@
             "title":"Auf nach Wiesbaden... Abreagieren!"
         },
         "12121111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Jetzt endlich nach Wiesbaden, ein bisschen Leute zerquetschen!",
                 "Die Fee taucht auf und will mitmachen!"
@@ -943,8 +882,6 @@
             "title":"Die Fee taucht auf und will mitmachen!"
         },
         "1212111121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Der Terror nimmt seinen Lauf...",
                 "... oder nicht?"
@@ -955,8 +892,6 @@
             "title":"Probier's wenigstens!"
         },
         "12121111211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Weiter mit den Beiden...",
                 "Perspektive eines Zivilisten..."
@@ -979,8 +914,6 @@
             "title":"Perspektive eines Zivilisten..."
         },
         "1212111121122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "\"Machen wir Pause, oder? Ich hab Hunger!\"",
                 "\"Wollen wir ein paar H\u00e4user abreissen?\""
@@ -991,8 +924,6 @@
             "title":"Weglaufen!!! Aber schnell!!!"
         },
         "12121111211221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Auf jeden Fall!!!",
                 "Och, ist doch grad ganz h\u00fcbsch..."
@@ -1039,8 +970,6 @@
             "title":"B\u00f6se, Dominant"
         },
         "12122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Werwolf",
                 "was anderes"
@@ -1051,8 +980,6 @@
             "title":"Nicht Menschlich"
         },
         "121222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Dinosaurier",
                 "Pferd"
@@ -1063,8 +990,6 @@
             "title":"Welches Tier"
         },
         "1212222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "noch mehr Schaden anrichten",
                 "versuchen den Schaden wieder gut zu machen"
@@ -1075,8 +1000,6 @@
             "title":"Das Pferd"
         },
         "122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Ja",
                 "lieber doch nicht"
@@ -1087,8 +1010,6 @@
             "title":"Doch oder doch nicht"
         },
         "1221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "nach Anzeichen von Zivilisation suchen.",
                 "einen Schattigen Platz suchen."
@@ -1099,8 +1020,6 @@
             "title":"Die Taste"
         },
         "12211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "die kleine Stadt begutachten",
                 "gar nichts"
@@ -1111,8 +1030,6 @@
             "title":"Wasser!"
         },
         "122111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "mit den winzlingen kontakt aufnehmen",
                 "die Stadt terrorisieren"
@@ -1123,8 +1040,6 @@
             "title":"das Dorf"
         },
         "1221112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "ein Junge",
                 "ein weiteres M\u00e4dchen"
@@ -1135,8 +1050,6 @@
             "title":"Wut auslassen"
         },
         "12211121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Ja!",
                 "Auf gar keinen Fall!"
@@ -1147,8 +1060,6 @@
             "title":"Der Riese"
         },
         "122111211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "die Flip-Flops ausziehen",
                 "die Flip-Flops anbehalten"
@@ -1650,8 +1561,6 @@
             "title":"Die Invasion beginnt"
         },
         "14":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Kai willigt ein",
                 "Kai weigert sich"
@@ -1662,8 +1571,6 @@
             "title":"Verkauft in Afrika"
         },
         "141":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Anja verkauft Kai",
                 "Anja m\u00f6chte Kai f\u00fcr sich behalten"
@@ -1674,8 +1581,6 @@
             "title":"Kai willigt ein"
         },
         "1411":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Sie betritt ein Auktionshaus",
                 "Sie besucht eine Freundin ",
@@ -1812,7 +1717,6 @@
         "14232121211":{
             "author_id":"blackrider",
             "author_name":"Black Rider",
-            "choices":null,
             "content":"<div class=\"\"><div> <span>Zu lange schon fristete sie ein langweiliges, unbedeutendes Leben. Die Chance, etwas wirklich Wichtiges f\u00fcr die Menschheit tun zu k\u00f6nnen, sowie der Fakt, dass sie nicht wollte, dass Kai umsonst gestorben war, lie\u00dfen ihr gar keine andere Entscheidugsm\u00f6glichkeit als ernsthaft sinnvoll erscheinen. Die Tatsache, dass sie die Vorstellung, Kai mit blo\u00dfen F\u00fc\u00dfen zu zertreten, sehr erregt hatte, ignorierte sie geflissentlich.<br>\r\n\"Ich bin dabei!\"<br>\r\n\"Gut.\" Amara nickte. \"Dann brauchst du jetzt deine ganz pers\u00f6nliche. Dieses Schmuckst\u00fcck wird dein ganz pers\u00f6nliches sein. Du darfst es niemals verlieren!\" Anja sah auf die Ketten, die die drei Frauen umgebunden hatten und wollte gerade einen saloppen Scherz bringen, dass Bernstein nun nicht so ihr Ding sei...als sie es sah. Im Bernstein eingeschmolzen waren Menschen, haupts\u00e4chlich M\u00e4nner. Sie waren eigentlich allesamt in ordentlichem Konservierungszustand, wenn man von der Tatsache absah, dass sie allesamt komplett plattgedr\u00fcckt waren. Anja verstand. \"Sind das alles...\" \"Ja\", meinte Amara. \"Und ist darunter auch der Mensch der beim ersten...\" \"Ja. Ganz vorne. Um uns immer daran zu erinnern, dass auch wir Schuld auf uns geladen haben.\" \"Und meine Kette...\" \"Ja. Bitte hebe deinen rechten Fu\u00df.\" Anja tat wie ihr gehei\u00dfen. \"Zeige uns bitte deine Fu\u00dfsohle!\" Anja winkelte ihr Bein an, so dass sie allesamt einen guten Blick auf ihre Sohle werfen konnten. Unter ihr klebte der komplett breitgetretene Kai. Sarah schaute fachm\u00e4nnisch auf den get\u00f6teten Mann und meinte mit einer Mischung aus Mitleid und Bewunderung: \"Wow, DER ist platt. Richtig platt. Bibelpapier-platt. Hatte nicht den Hauch einer Chance.\" Anja err\u00f6tete mit einer Mischung aus Scham und Bescheidenheit. \"Wir hatten im letzten Sommer viele Spinnen und Ameisen auf der Terasse und ich bin viel barfu\u00df gelaufen, da lernt man dann, mit einem Tritt Klartext zu reden.\" \"\u00dcber ihr gest\u00f6rtes Verh\u00e4ltnis zu tierischem Leben m\u00fcssen wir noch reden...\", raunte die Asiatin, wurde aber von Amara und Sarah mit einem beschwichtigenden L\u00e4cheln zur Ruhe gebracht.<br>\r\nSie setzten Anja auf einen Schemel und begannen dann, wie Arch\u00e4ologen, die ein por\u00f6ses Saurierskelett ausgraben, vorsichtig, den wie Kaugummi an der Fu\u00dfsohle festgetretenen Kai abzul\u00f6sen. Anschlie\u00dfend wurde er in einer langen Zeremonie in Bernstein gegossen und Anja als Schmuckst\u00fcck um den Hals geh\u00e4ngt.<br>\r\nNoch war es der einzige Bernstein um ihren Hals. Es sollten noch viele, viele folgen...</span></div></div>",
             "created":1287205200,
             "id":975909,
@@ -1821,7 +1725,6 @@
         "14232122":{
             "author_id":"blackrider",
             "author_name":"Black Rider",
-            "choices":null,
             "content":"<div class=\"\"><div> <span>Und mit diesen Worten schleuderte sie ihre Flip Flops in verschiedene Richtungen des Raumes, lie\u00df ihre blo\u00dfen F\u00fc\u00dfe f\u00fcr einen kurzen Augenblick den warmen Boden unter sich sp\u00fcren, atmete noch einmal kr\u00e4ftig ein und hob dann das Glas vom Tresen. Sie \u00f6ffnete es fast schon behutsam, lie\u00df den winzigen Kai fast schon behutsam auf den Boden plumpsen. Dann \"tanzte\" sie eine Weile auf Kai herum, wobei sie penibel darauf achtete, mit ihren Fersen nur die Arme und Beine zu zerdr\u00fccken, weil sie ja wie angek\u00fcndigt diesen noch eine Weile am \"Spa\u00df\" teilhaben lie\u00df. Dieser fand das freilich gar nicht spa\u00dfig, was Anja, die hin und wieder vor Wollust st\u00f6hnte nicht daran hinderte, mit ihren nackten F\u00fc\u00dfen weiterhin eine Schneise der Zerst\u00f6rung an seinem K\u00f6rper anzurichten. Dann, als sie dachte, es sei Strafe genug, trat sie einmal langsam und kr\u00e4ftig mit ihrem rechten Ballen auf seinen Kopf, der wie eine \u00fcberreife Wassermelone platzte. Dann war der Tanz, wie angek\u00fcndigt, noch lange nicht zu Ende. Sie tanzte noch mehrere Stunden den immer flacher werdenden Kai in den Boden des kleinen Ladens. Als sie aufgeh\u00f6rt hatte, auf Kai herumzutrampeln, war die Sonne bereits untergegangen, und wie sie prophezeit hatte, war von ihm nichts mehr \u00fcbrig, was ihn in irgendeiner Form noch als menschlich identifizierbar gemacht h\u00e4tte.<br>\r\n\"Den hab ich sauber platt gemacht!\" lachte Anja, die das letzte bisschen Verstand verloren zu haben schien.<br>\r\n\"Ich kann nicht f\u00fcr meinen Tanzpartner sprechen, aber ich hatte meinen Spa\u00df! So gro\u00dfen Spa\u00df, dass es fast nach einer Wiederholung schreit...\"<br>\r\nUnd mit diesen Worten verlie\u00df sie den Laden. Sie w\u00fcrde sich auf die Suche machen. Auf die Suche nach einer Marokkanerin, die in einem kleinen Laden ihr Leben grundlegend ver\u00e4ndert hatte. Sie hatte viele Fragen und einen Wunsch. Dieser Wunsch beinhaltete Macht. Im wahrsten Sinne des Wortes gro\u00dfe Macht.<br>\r\nSie brauchte nicht lange zu suchen. Sie wurde bereits erwartet. Der Plan der Magierin ging voll auf...</span></div></div>",
             "created":1287118800,
             "id":975645,
@@ -2155,8 +2058,6 @@
             "title":"\"Ich muss dir etwas sagen\""
         },
         "154131111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Anja steht noch unter Schock",
                 "\"Und was, wenn ich ihn gepresst h\u00e4tte?\""
@@ -2181,7 +2082,6 @@
         "1541311122":{
             "author_id":"derhumpf",
             "author_name":"DerHumpf",
-            "choices":null,
             "content":"<div class=\"\"><div> <span>\"Ich habe mich wohl in dir get\u00e4uscht\", sagte O-Ren knapp bevor Anja etwas kaltes in ihrem Nacken sp\u00fcrte. Anjas Welt wurde schwarz und sie fing an zu schreien. Bevor Ihre Sicht wieder aufklarte, wusste sie was geschehen war. Sie h\u00f6rte auf zu schreien und setzte sich auf den von der Sonne erw\u00e4rmten Boden. Um sie herum waren Felsen und sie musste nicht lange suchen bis sie O-Rens wundersch\u00f6nen Fu\u00df fand der in der Sandale Steckte. Von hier sah dies unglaublich bedrohlich aus. Der Fu\u00df alleine war gro\u00df wie ein Haus und das Bein daran ragte dutzende Meter empor. O-Ren hatte die Beine wieder \u00fcbereinander geschlagen und der nackte Fu\u00df mit dem matschigem Fleck am Ballen und dem rotem Streifen in der Mitte schwebte \u00fcber Ihr wie das Schwert des Damokles. \"Was wirst du den anderen Sagen?\", fragte sie, sich sehr wohl ihrer Situation bewusst. \"Das kann dir jetzt egal sein K\u00e4ferchen.\" - \"Mach es bitte schnell\", sagte sie und senkte den Kopf. Sie wollte wenigstens in W\u00fcrde gehen. So w\u00fcrdig wie man unter einem Frauenfu\u00df sterben konnte. O-Ren sollte ihre Angst und Ihre tr\u00e4nen nicht sehen. \"Darauf hast du keinen Einfluss\", sagte sie nur Kalt und ein Schatten senkte sich \u00fcber die kleine Frau. Sie sp\u00fcrte die Hitze die der Sch\u00f6ne Fu\u00df ausstrahlte kurz bevor er sie ber\u00fchrte. Sie war nie wirklich gl\u00e4ubig gewesen, doch vor ihrem nahendem Tod schickte sie ein Sto\u00dfgebet in den Himmel dass sie nicht einmal vollenden konnte. \"S\u00fc\u00df\", war der letzte Kommentar den sie von O-Ren h\u00f6rte. Das letzte was sie \u00fcberhaupt h\u00f6rte als nach einem kurzen stechenden Schmerz Ihr K\u00f6rper durch ein paar schnelle, drehende bewegungen unter ihrem Fu\u00dfballen zerrissen wurde. </span></div></div>",
             "created":1287464400,
             "id":977917,
@@ -2454,7 +2354,6 @@
         "1541321221111221111222222221":{
             "author_id":"blackrider",
             "author_name":"Black Rider",
-            "choices":null,
             "content":"<div class=\"\"><div> <span><i>Danke f\u00fcr das Feedback zu meiner kleinen Saga! Hat viel Spa\u00df gemacht, sie zu schreiben, auch wenn ich erst mal froh bin, dass ich sie zu einem (f\u00fcr mich durchaus befriedigenden) Ende bringen konnte. Wenn euch ein anderes Ende vorschwebt, z\u00f6gert nicht, meine vielen hinterlassenen Handlungsstr\u00e4nge zu bearbeiten!<br>\r\nBlackRider</i><br>\r\n<br>\r\nAmara hatte keine Sekunde gez\u00f6gert. Eingedenk der vom gerade noch rechtzeitig erschienenen Juan \u00fcberbrachten Neuigkeiten schickte sie gnadenlos ihre st\u00e4rksten Zauber gegen die Riesenanja, die sich in eine kleine Ameise verwandelte, die ihr Ende an der Sohle von Sarahs blo\u00dfem Fu\u00df fand - sehr zur Freude vom zuvor abgesetzten Juan, der dem Vorgang live beiwohnen durfte. Zur\u00fcck im Apartment erstattete Juan, der sich vor Liebkosungen durch Sarah gar nicht mehr retten konnte, Bericht.<br>\r\n\"Sie wird mir fehlen. Aber ich freue mich f\u00fcr sie.\" meinte Amara l\u00e4chelnd. \"Dazu sag ich Amen.\" erwiderte O-Ren. \"Und jetzt?\" fragte Sarah. \"Jetzt suchen wir uns eine neue Schicksalsschwester und dann zertreten wir wieder b\u00f6se Buben.\" lachte O-Ren.<br>\r\nWas sie dann auch taten.<br>\r\n<br>\r\n<br>\r\nDavid hatte einige Minuten gebraucht, um sich wieder zu seiner alten Form zusammenzuziehen und aus den Tr\u00fcmmern zu klettern. Um ihn herum war alles zerst\u00f6rt. S\u00e4mtlichen Hinweise auf die Nachtgigantinnen waren mit ihnen zertreten oder vom anschlie\u00dfenden Feuert verbrannt worden. David klopfte den Staub vom K\u00f6rper und sah nach oben.<br>\r\nVor ihm stand eine junge Frau in Feuerwehruniform. Sie beugte sich ungl\u00e4ubig vor und betrachtete ihn.<br>\r\n\"Hallo! Ich bin David! Du hast nicht zuf\u00e4llig Verwendung f\u00fcr einen unkaputtbaren Lustsklaven?\"<br>\r\n<br>\r\n<br>\r\n\"Bist du bereit?\" \"Nein\" gestand Kai ganz ehrlich. Er lag nackt auf dem Bett. Von Frauen hatte er Zeit seines Lebens nur die Fu\u00dfsohle gesehen, und das war noch immer ein Grund zur Flucht gewesen. Er konnte sich nicht vorstellen...<br>\r\nAnja betrat das Zimmer. Nackt.<br>\r\n\"Wow.\" sagte Kai. Anja l\u00e4chelte.<br>\r\n\"Bereit, dieser Welt wieder etwas mehr Sanftheit zu schenken?\"<br>\r\n\"Ohja.\" stammelte Kai erregt.<br>\r\nUnd dann passierte etwas, was diese Welt seit Jahrzehnten nicht mehr erlebt hatte.<br>\r\n<br>\r\n<br>\r\n<br>\r\nDunkelheit.<br>\r\nStille.<br>\r\nNichts.<br>\r\nBin ich tot?<br>\r\n<br>\r\nDann, pl\u00f6tzlich wieder Luft zum Atmen.<br>\r\n\"Schande, was f\u00fcr ein Gl\u00fcck\", dachte Jennifer. Sie \u00f6ffnete die Augen. Zwei Sonnen strahlten ihr ins Gesicht. Es war warm, friedlich und angenehm. Die perfekte Idylle.<br>\r\nSie lag auf einer rosafarbenen Wiese, das weiche Gras kitzelte ihre Fu\u00dfsohlen. Kleine B\u00fcsche mit Beeren waren um sie herum. Zwei winzig kleine vogelartige Tierchen flogen um ihren Kopf herum. Ihr Summen hatte eine unheimlich beruhigende Wirkung auf Jennifer.<br>\r\n\"Entschuldige bitte!\" <br>\r\nJennifer sah nach unten.<br>\r\nEin kleiner gelber B\u00e4r, flauschig weich und etwa halb so gro\u00df wie ihre Fu\u00dfsohle zupfte sie zaghaft an ihrem roten Bademantel.<br>\r\n'Der Sprachzauber hat sich ausgezahlt. Selbst in dieser Welt kann ich die Bewohner verstehen', dachte Jennifer.<br>\r\n\"Was willst du, Kleiner?\"<br>\r\n\"Ich wollte dir nur einen wundersch\u00f6nen Tag w\u00fcnschen und dich hier willkommen hei\u00dfen! Ich habe dich noch nie hier gesehen!\"<br>\r\n\"Ich komme von weit her\", sagte Jennifer.<br>\r\n\"Dann f\u00fchl dich hier trotzdem wie zu Hause! Bist du hungrig? Dann komm mit ins Dorf, ich habe Beeren gepfl\u00fcckt, die k\u00f6nnen wir alles gemeinsam essen!\"<br>\r\n\"Danke. Lieb von dir\", l\u00e4chelte Jennifer und richtete sich auf. <br>\r\nBeeindruckt schaute der kleine B\u00e4r auf den Abdruck, den ihre F\u00fc\u00dfe und ihr Po in der weichen Wiesenerde hinterlassen hatten.<br>\r\n\"Du bist wirklich unheimlich gro\u00df!\" staunte der B\u00e4r.<br>\r\n\"Da bist du nicht der erste, der das denkt\", lachte Jennifer und strahlte ihn an. \"Ich bin \u00fcbrigens Jennifer!\"<br>\r\n\"Freut mich sehr, Jennifer. Ich bin Kuk.\"<br>\r\nJennifer betrachtete die kleinen fliegengro\u00dfen Vogelwesen, die immer noch um sie herumschwirrten. <br>\r\n\"Haben diese Tierchen keine Angst?\"<br>\r\nDas B\u00e4rchen runzelte verwundert die Stirne.<br>\r\n\"Angst? Wovor denn?\"<br>\r\n\"Naja, das sie jemand t\u00f6ten k\u00f6nnte.\"<br>\r\nDas Gelb des B\u00e4ren wurde bleich. \"W-w-wer sollte denn so etwas Garstiges tun wollen?\"<br>\r\n\"Naja, ihre nat\u00fcrlichen Feinde zum Beispiel.\"<br>\r\nDer B\u00e4r sah sie ratlos an. \"F-f-ein-de? Was soll das denn sein?\"<br>\r\n\"Willst du mir erz\u00e4hlen, dass hier niemand niemanden absichtlich tot macht?\" Jennifer lachte.<br>\r\nDer B\u00e4r hielt kurz inne, dann lachte auch er.<br>\r\n\"Aber nein. Warum sollten wir? Die Welt ist sch\u00f6n und das Leben gut zu allen.\"<br>\r\nIn Jennifers wundersch\u00f6nen Augen blitzte etwas auf.<br>\r\n<br>\r\n\"Kuk. Ich m\u00f6chte, dass du dich auf den R\u00fccken legst.\"<br>\r\n\"Nat\u00fcrlich. Gerne. Wieso?\" fragte der kleine B\u00e4r, der bereits bereitwillig die R\u00fcckenlage einnahm.<br>\r\n\"Ich m\u00f6chte dir zeigen, wozu mein gro\u00dfer Fu\u00df f\u00e4hig ist.<br>\r\n\"Auja, das wird bestimmt lustig!\" gluckste das B\u00e4rchen.<br>\r\n\"Bestimmt\", l\u00e4chelte Jennifer.<br>\r\nSie hob ihren riesigen blo\u00dfen Fu\u00df und legte ihn sachte auf Kuk. Er f\u00fchlte sich an ihren Fu\u00dfsohlen sogar noch weicher an, als sie bei der optischen Einsch\u00e4tzung gedacht hatte.<br>\r\n\"Hihi, das kitzelt!\" kicherte Kuk, als ihre Zehen bed\u00e4chtig seinen K\u00f6rper bearbeiteten.<br>\r\n\"Macht dir das Spa\u00df?\" fragte Jennifer von oben lachend.<br>\r\n\"Auja! Ja!\"<br>\r\n\"Dann wird es Zeit, dass ich auch ein bisschen Spa\u00df habe, oder?\" <br>\r\n\"Klar! Leg los!\"<br>\r\nJennifer bedeckte nun den gesamten B\u00e4renk\u00f6rper mit ihrem massiven Fu\u00df. In die L\u00fccke zwischen dem gro\u00dfen Zeh und den anderen Zehen klemmte sie Kuks Kopf, so dass dieser gezwungen war, nach oben zu sehen.<br>\r\n\"Das ist jetzt ein bisschen grob, findest d...\"<br>\r\n\"FRESSE, DU WURM!\" br\u00fcllte Jennifer so laut sie konnte. Kuk verstummte. Auch die beiden V\u00f6gelchen hatten aufgeh\u00f6rt zu summen und schwirrten nun langsamer um sie herum.<br>\r\n\"Sie genau hin, du Made.\" sagte Jennifer und zerdr\u00fcckte mit diesen Worten ein V\u00f6gelchen zwischen Daumen und Zeigefinger. Das andere, welches zu perplex war, um zu fliehen, nahm sie vorsichtig in die Hand und steckte es dann in den Mund, wo es von ihren Z\u00e4hnen zermamlt wurde.<br>\r\n\"NEEEEEEIN! WAS MACHST DU DENN DA?\" rief Kuk aus Leibeskr\u00e4ften, der von Jennifers gigantischem Fu\u00df eingeklemmt dem Spektakel folgen musste, ohne einschreiten zu k\u00f6nnen. Ihm rannen kleine Tr\u00e4nchen die flauschige Wange hinunter.<br>\r\n\"Das waren Fr\u00fchlingsengelchen. Die wollten dir doch nur eine Freude mit ihrem Gesang machen!\"<br>\r\n\"Sie haben mir doch eine gro\u00dfe Freude gemacht, indem ich sie t\u00f6ten durfte!\" lachte Jennifer mit gef\u00e4hrlicher Freundlichkeit. \"Unglaublich, sogar das Blut schmeckt bei euch noch nach Zuckerwatte.\"<br>\r\nDer kleine Kuk weinte nun bitterlich. \"Bitte, ich habe dir doch nichts getan. Ich will doch einfach nur nach Hause zu meinen Freunden.\"<br>\r\nJennifer beugte sich zu ihm hinunter.<br>\r\n\"Das verstehe ich. Nein, wirklich. Ich will auch lieber nach Hause, als hier meine Zeit in diesem Disneyschei\u00df zu verschwenden. Aber ich komme hier momentan nicht weg. Also will ich wenigstens ein bisschen Spa\u00df haben.\"<br>\r\n\"Was hast du mit mir vor?\" fragte Kuk, der sich nun immer mehr unter Jennifers riesengro\u00dfem Fu\u00df wand.<br>\r\n\"Nun, ganz einfach, mein lieber Kuk. Ich werde gleich mein gesamtes Gewicht auf dich drauf verlagern. Einfach so.\"<br>\r\n\"NEEEEEEIN! Mach das nicht!\"<br>\r\n\"Wieso denn nicht?\"<br>\r\n\"Wenn du das tust, werde ich vielleicht unter dir zerdr\u00fcckt!\"<br>\r\n\"Das, mein lieber Kuk, ist genau der Plan. Um das klarzustellen: wenn ich dich anschaue, dann sehe ich kein hoch entwickeltes Wesen, das es mit mir aufnehmen k\u00f6nnte.<br>\r\nIch sehe nur Ungeziefer, das zertreten geh\u00f6rt. Und warum? Weil ich gr\u00f6\u00dfer bin als du. Und deshalb wirst du kleine, primitive Made heute unter meinem hochentwickelten K\u00f6rper dein Ende finden.<br>\r\nIch bin die neue G\u00f6ttin dieser Welt und du bist erst der Anfang. Wenn ich mit deiner Welt fertig bin, dann...HIMMELHERRGOTT! H\u00d6RST DU JETZT ENDLICH AUF ZU FLENNEN!\"<br>\r\n\"Bitte, tu das nicht. Ich will nicht zerdr\u00fcckt werden, ich will leben! Du bist so gro\u00df und ich bin dir wehrlos ausgeliefert. Das muss doch irgendwas f\u00fcr dich bedeuten!\" jammerte das kleine B\u00e4rchen um sein Leben.<br>\r\nJennifer sah ihn l\u00e4chelnd an. \"Sei gewiss, mein kleiner Wurm, das tut es.\"<br>\r\nSie war \u00fcberrascht, wie leicht der K\u00f6rper nachgab. B\u00e4rchen wie Kuk schienen \u00fcberhaupt kein Skelett zu besitzen. Sie hatte lediglich leicht mehr Gewicht auf ihren Fu\u00df verlagert, da hatte dieser auch schon den Boden erreicht, und der bis zuletzt panisch bl\u00f6kende Kuk war zwischen Fu\u00dfsohle und weichem Wiesenboden zerquetscht worden. Statt Blut quoll eine bl\u00e4uliche Paste unter ihrem nackten Fu\u00df hervor.<br>\r\n\"Endlich ist der Spinner platt. Das Heile Welt-Gequatsche war ja nicht mehr zu ertragen.\" dachte Jennifer und stapfte \u00fcber die Wiese, in der ihre F\u00fc\u00dfe achtlos alles breitstampften, was ihr in den Weg kam. Tiere, B\u00e4ume, ja selbst Steine schienen in dieser Welt butterweich zu sein und fanden sich nach schneller, schwerer \"Behandlung\" von Jennifers Tramplern in der zweiten Dimension wieder.<br>\r\nEs war bereits Abend, was Jennifer daran erkannte, dass eine der beiden Sonnen untergegangen war, als sie ein winziges Dorf erreichte.<br>\r\n\"Hurra! Ein Besucher! Hurra!\" riefen die kleinen B\u00e4rchen, die sich um sie herum versammelten und staunend die Giganting betrachteten.<br>\r\n\"Hallo! Ich bin Jennnifer!\" rief Jennifer freundlich. \"Und ich m\u00f6chte, dass ihr euch alle auf den R\u00fccken legt!\"</span></div></div>",
             "created":1297573200,
             "id":1053298,
@@ -3555,7 +3454,6 @@
         "15413212211112211112222222221222212212122222112122222121211121221211211112221212122112211221":{
             "author_id":"blackrider",
             "author_name":"Black Rider",
-            "choices":null,
             "content":"<div class=\"\"><div> <span>\"Auftrag ausgef\u00fchrt\", meinte Jane. Sie wusste, sie w\u00fcrde geh\u00f6rt werden.<br>\r\n\"Beginne mit der S\u00e4uberung.\"<br>\r\nSie zog ihre High Heels aus und eine magische Ortungsbrille an.<br>\r\n\"Der Spa\u00df kann beginnen\", l\u00e4chelte sie.<br>\r\nDann rannte sie los.<br>\r\nEs waren noch um die drei\u00dfig \u00fcberlebende Winzlinge, die sich verzweifelt durch das Gras k\u00e4mpften und Jane hatte nicht vor, einen von ihnen in seiner r\u00e4umlichen Form zu belassen.</span></div></div>",
             "created":1365224400,
             "id":1566333,
@@ -4176,7 +4074,6 @@
         "154132122111122111122222222212222122121222221121222221212111221":{
             "author_id":"blackrider",
             "author_name":"Black Rider",
-            "choices":null,
             "content":"<div class=\"\"><div> <span>\"Mal sehen, ob ich es noch kann.\"<br>\r\n'Klar, SIE braucht daf\u00fcr keinen Taschenaltar', dachte O-Ren, als sie sp\u00fcrte, dass sie immer kleiner wurde. Es sollte der letzte sarkastische Gedanke ihres Lebens werden.<br>\r\n\"Adieu, O-Ren.\" sagte Jennifer. \"Es ist Zeit f\u00fcr den Abschiedskuss.\"<br>\r\nUnd mit diesen Worten beugte sie sich ganz weit nach vorne und zerdr\u00fcckte O-Ren zwischen ihren Lippen. Sie leckte die Reste auf und schluckte sie hinunter.<br>\r\n\"Zeit, diese Welt mal wieder in Angst und Schrecken zu versetzen. Diesmal wird uns niemand aufhalten!\"<br>\r\nUnd Jennifer wusste schon sehr genau, wen sie mit \"uns\" meinte...</span></div></div>",
             "created":1357189200,
             "id":1501100,
@@ -4379,7 +4276,6 @@
         "155112221":{
             "author_id":"blackrider",
             "author_name":"Black Rider",
-            "choices":null,
             "content":"<div class=\"\"><div> <span>Als es an der T\u00fcre klingelte, war Julienne von dem Rotwein, den sie aus Frust im Alleingang gelehrt hatte, bereits so beschwipst, dass sie die Person beim \u00d6ffnen der T\u00fcre erst einmal mit einem Beschimpfungsschwall bedachte, bist sie merkte, dass es sich gar nicht um Konstantin handelte, sondern um eine junge Frau, die sie anstrahlte.<br>\r\n<br>\r\n\"Hallo!\" sagte Anna.<br>\r\n\"Ich bin Anna, eine Kommilitonin von Konsti. Er meinte, dass er noch l\u00e4nger zu tun h\u00e4tte und es ihm voll leid t\u00e4te und er deshalb mich als Br\u00fcckenunterhaltung einsetzen will.\"<br>\r\nJulienne musste l\u00e4cheln. Das war ziemlich doof von Konsti, dass er eine WIldfremde zu ihr schickte, damit sie sich keine Sorgen machte. Und ziiiiemlich s\u00fc\u00df...<br>\r\n\"Na dann, komm doch rein\" lallte sie und schlurfte dann mit ihren wei\u00dfen Mini-Maus-Socken zur\u00fcck ins Wohnzimmer.<br>\r\nAnna betrat dieses wenig sp\u00e4ter und nahm auf einem Sofa Platz.<br>\r\n\"Was zu trinken? Ich w\u00fcrde nochmal einen Wein aufmachen!\"<br>\r\n\"Gerne, danke!\" l\u00e4chelte Anna ihr verf\u00fchrerisches L\u00e4cheln.<br>\r\nJulienne ging in die K\u00fcche. Sie hatte gerade eine Flasche entkorkt, da gellte aus dem Wohnzimmer ein ohrenbet\u00e4ubender Schrei.<br>\r\nJulienne rannte, pl\u00f6tzlich wieder n\u00fcchtern, dorthin. Dort kauerte Anna, die F\u00fc\u00dfe auf dem Sofa an den Po gezogen, kreidebleich.<br>\r\n\"Was ist denn?\" fragte Julienne besorgt.<br>\r\n\"Spinne! SPINNE! DA!!!\" keuchte Anna und zeigte auf den Boden.<br>\r\n<br>\r\nKonstantin wurde von einem ohrenbet\u00e4ubenden Schrei geweckt. Als er die Augen aufschlug, war er wieder in dem Wohnzimmer von ihm und seiner Freundin. <br>\r\nNur das alles RIESENGRO\u00df war... <br>\r\nVon weiter Ferne h\u00f6rte er eine enorme Ersch\u00fctterung, die wummernd n\u00e4her und lauter wurde. Und dann sah er sie. Wie eine Kathedrale stand seine Freundin \u00fcber ihm und fragte mit wuchtiger Stimmt in Richtung Sofa, was denn nun los sei. Konstantin zwang sich, den Blick von seiner Gignaten-Freundin abzuwenden und in Richtung Gespr\u00e4chspartner zu sehen. <br>\r\nSchei\u00dfe!<br>\r\nAnna!<br>\r\n<br>\r\nJulienne sah zu Boden.<br>\r\nTats\u00e4chlich. Eine winzige kleine Spinne kauerte auf dem Fu\u00dfboden.<br>\r\nJulienne sah Anna ratlos verschmitzt an. \"Wegen dem kleinen Tierchen machst du so ein Geschrei!\"<br>\r\n\"BITTEBITTE! Mach das tot! Schnell! Ich hab einen RIIIIESENSCHISS vor diesen Biestern! Tritt drauf! Los! Tritt drauf!\"<br>\r\nJulienne zuckte mit den Achseln.<br>\r\n\"Das arme kleine Tier hat mir zwar eigentlich nichts getan, aber bevor du hier einen Herzkasper kriegst...\"<br>\r\n<br>\r\nEntsetzt war Konstantin dem Gespr\u00e4ch gefolgt. Dann wollte er nur noch fliehen. Viel zu sp\u00e4t. Wie ein Kran hob sich Juliennes linkes Bein und ihr riesiger Ballen st\u00fcrzte krachend auf ihm ein. Konstantin wurde sofort zu Boden gedr\u00fcckt, von einer Macht, die alles, was er war, auszul\u00f6schen drohte. Er hatte sich noch nie derartig hilflos gef\u00fchlt. Aber sein K\u00f6rper hielt stand. 'Keine nackte Haut!' dachte irgend ein Teil von ihm, der nicht damit besch\u00e4ftigt war, zerdr\u00fcckt zu werden und Riesenschmerzen gepaart mit Schei\u00dfangst zu f\u00fchlen... 'Vielleicht \u00fcberleb ich das doch noch...\"<br>\r\n<br>\r\nAls Julienne den Fu\u00df wieder hob, erwartete sie eine \u00dcberraschung.<br>\r\n\"Das gibt's doch nicht! Das Vieh lebt noch!\" meinte sie erstaunt.<br>\r\n\"Oh Gott, das arme Ding, Muss ein Schei\u00dfgef\u00fchl sein, von mir als Fu\u00dfabtreter missbraucht zu werden!\"<br>\r\n\"MACH ES TOT, VERDAMMT!!!!\" schrie Anja wieder, die inzwischen am ganzen Leib zitterte. \"KOMM SPRING EINFACH MEHRFACH DRAUF! DANN IST ES PLATT!\"<br>\r\n\"Jaja, ist ja gut!\" meinte Julienne.<br>\r\n<br>\r\nSTAMPF!!!!!!<br>\r\nKonstantin wurde wieder in den Boden gepresst. H\u00f6llische Schmerzen. Grenzenlose Erniedrigung. Dann wieder ein kurzer Moment der Erleichterung. Eine fies grinsende Minni-Maus entfernte sich wieder in schwindelnde H\u00f6hen. Um dann wieder auf ihn hinabzusinken.<br>\r\nSTAMPF!!!!!<br>\r\nEine halbe Ewigkeit.<br>\r\nSTAMPF!!!!!<br>\r\n\"julienne...bitte....\"<br>\r\nSTAMPF!!!!!<br>\r\n\"ich liebe dich doch....\"<br>\r\nSTAMPF!!!!!<br>\r\n\"...i..i...ch...k...annnichmehr....\"<br>\r\nSTAMPF!!!!<br>\r\n\"julienne...biddedas\u00fcbalebinich...\"<br>\r\nSTAMPF!!!!!<br>\r\n\"tutsoweh...\"<br>\r\nSTAMPF!!!!!<br>\r\n<br>\r\n\"Kann doch wohl nicht wahr sein!\" rief Julienne. \"Es bewegt sich immer noch! Ich bin jetzt eine Minute lang drauf rumgeh\u00fcpft, und das Viech bequemt sich nicht, gepl\u00e4ttet zu werden!\"<br>\r\n\"PROBIERS MIT FESTEN SCHUHEN! EGAL WAS! BITTEBITTEBITTE!\" schrie Anna wieder.<br>\r\n\"Also...eigentlich finde ich es schon echt fies, wenn man kleinere Tiere qu\u00e4lt. Aber andererseits will ich's jetzt wirklich wissen!\" Und mit diesen Worten verschwand Julienne in ihr Zimmer.<br>\r\n<br>\r\nKonstantin keuchte. Er versuchte alle, um sich aufzurichten, er wollte nur noch fliehen, weg von seiner geliebten Freundin, die alles tat, um ihn zu Mu\u00df zu trampeln.<br>\r\nAnna l\u00e4chelte von oben auf ihn herab.<br>\r\n\"Schon kaputt? Schon m\u00fcde? Sorry, S\u00fc\u00dfie! Du hast doch noch gar nichts erlebt! Das wird noch ein laaaanger Abend!\"<br>\r\n<br>\r\nUnd er wurde es.<br>\r\nJulienne probierte ihre gesamte Schuhkollektion auf Konstantin aus, st\u00f6ckelte mit High-Heals auf ihm herum. twistete ihn mit ihren Ballerinas in den Boden, machte auf ihm mit ihren Flip-Flops Halt, trampelte ihm die eingravierte Schuhgr\u00f6\u00dfe ihrer Sandaletten auf den Oberk\u00f6rper. F\u00fcr Konstantin war es die H\u00f6lle auf Erden. Die Schmerzen waren immer wieder so gro\u00df, dass er das Bewusstsein verlor. Julienne wollte dann schon aufgeben, aber Anna \u00fcberzeugte sie immer wieder davon, dass sich die Spinne blo\u00df tot stellte und bestimmt gleich wieder in Bewegung setzen w\u00fcrde. Immer wenn Konstantin aufwachte, hatte sich Julienne ein neues Schuhwerk angezogen und trat damit auf ihn drauf.<br>\r\n<br>\r\nDer Morgen graute schon. Konstantin lag unter Julienne begraben, die als letztes Paar Schuhe ein paar alte Gummistiefel gefunden hatte. Sie blieb nun einfach auf ihm stehen und rechnete nicht mehr damit, ihn wirklich pl\u00e4tten zu k\u00f6nnen.<br>\r\nAnna hatte ihre Rolle bereits aufgegeben, weil sie gemerkt hatte, dass die betrunkene Julienne bereits gro\u00dfen, wahnhaften  Spa\u00df an dem neuen \"T\u00f6te die Spinne\"-Spiel gefunden hatte und keine Fragen mehr stellen w\u00fcrde.<br>\r\n<br>\r\n\"Hoffnungslos\" seufzte Julienne. \"Ich glaube ich trag sie jetzt nach drau\u00dfen. Die hat jetzt eine ganze Nacht unter mir gelitten, jetzt darf sie auch mal weiterleben, oder?\"<br>\r\n\"Doch, ja\", meinte Anna \u00fcberzeugt. Um hinzuzuf\u00fcgen. \"Eine einzige Sache hast du noch gar nicht probiert...\"<br>\r\nJulienne sah Anna m\u00fcde an. \"Achja?\"<br>\r\n\"Ja. Tu, was ich dir sage...\"<br>\r\nJulienne ergriff Wollust. Sie ahnte, dass Anna insgeheim immer gewusst hatte, wie man das Tierchen zerstampfen konnte.<br>\r\n\"Jawohl! Sprich!\"<br>\r\nAnna war ganz ruhig.<br>\r\n\"Zieh die Gummistiefel aus.\"<br>\r\nJulienne tat wie gehei\u00dfen.<br>\r\n\"Und nun lass einen deiner nackten, verschwitzten F\u00fc\u00dfe \u00fcber dem Mistviech schweben.\"<br>\r\n<br>\r\nKonstantin beobachtete halb von Sinnen, wie Julienne ihre Stiefel auszog. Ihre riesigen blo\u00dfen F\u00fc\u00dfe schlugen rechts und links mit einem Wummern in den Boden ein. Dann erhob sich einer der Treter wieder und schwebte \u00fcber ihm.<br>\r\nZum ersten Mal seit Stunden \u00fcberkam ihn wieder echte Panik.<br>\r\n\"biddesch\u00fcljennmachdasnich...\" r\u00f6chelte er f\u00fcr die Gigantin \u00fcber ihm unh\u00f6rbar.<br>\r\n<br>\r\n\"Dein Fu\u00df ist eine Waffe, mit der du gezielt alles ausl\u00f6schen kannst, was kleiner ist als du. Lass die Spinne deine Macht sp\u00fcren!\"<br>\r\n<br>\r\n\"biddenichichkannnichmehr...\"<br>\r\n<br>\r\n\"Und nun lass deinen Fu\u00df sinken, bis du dein Opfer auf deiner weichen Fu\u00dfsohle sp\u00fcrst!\"<br>\r\n<br>\r\nJulienne st\u00f6hnt vor Erregung. Anna war hinter sie getreten und massierte nun langsam ihre Br\u00fcste.<br>\r\n<br>\r\n\"ogooddogoddsch\u00fcljennbidde...duzakwetschdmichglaich...schei\u00dfebidde... 4;<br>\r\nKonstantin weinte hemmungslos.<br>\r\nDann sp\u00fcrte er Juliennes Fu\u00df auf seiner geschundenen Haut.<br>\r\n<br>\r\n\"Und nun...\"<br>\r\n<br>\r\n\"biddebiddeerbarm...\"<br>\r\n<br>\r\n\"...l\u00e4sst du deinen Fu\u00df...\"<br>\r\n<br>\r\nAnnas H\u00e4nde wanderten...<br>\r\n<br>\r\n\"...gaaaaaanz langsam....\"<br>\r\n<br>\r\n....gaaaaaanz langsam....\"<br>\r\n<br>\r\n\"...auf deinem Opfer sinken...\"<br>\r\n<br>\r\n...in ihren Schrittbereich...<br>\r\n<br>\r\n\"fuckbiddeiwillnichschterm...\"<br>\r\n<br>\r\n\"...bis du sp\u00fcrst, wie es unter dir nachgibt...\"<br>\r\n<br>\r\nAnna massierte Juliennes Scham. Julienne st\u00f6hnte nun lauter.<br>\r\n<br>\r\nUnheimliche Schmerzen. Dann ein ohrenbet\u00e4ubender L\u00e4rm, als die ersten Knochen brachen.<br>\r\n<br>\r\n\"Ich glaube da hat was nachgegeben!\"<br>\r\n<br>\r\n\"\u00e4\u00e4\u00e4rghschuljenn\u00f6rgs...\"<br>\r\n<br>\r\n\"Oh mein Gott, ist das geil!\"<br>\r\n<br>\r\n\"omaingodd\u00f6rgs...\"<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\nKonstantin wurde von seiner Freundin barfu\u00df zertreten.<br>\r\nJulienne kam.<br>\r\n\"Mann, war das geil\" strahlte sie,<br>\r\n\"DAS fandest du schon geil?\" l\u00e4chelte Anna.<br>\r\n\"Du hast doch noch gar nichts gesehen! Ich h\u00e4tte da ein Angebot f\u00fcr dich...\"</span></div></div>",
             "created":1316322000,
             "id":1189781,
@@ -4472,7 +4368,6 @@
         "15513222":{
             "author_id":"quadwo",
             "author_name":"Quad",
-            "choices":null,
             "content":"<div class=\"\"><div> <span>Mutig baut sich Konstantin vor dem H\u00fcnen auf, der noch gerade in die Knie gegangen ist um die S\u00e4fte des ungebetenen Gastes wieder heraus zu husten. Konstantin holt aus und bef\u00fchrt einen Handkantenschlag auf die Schulterplatten des Glatzkopfes auszuf\u00fchren. <br>\r\n<br>\r\n...<br>\r\n<br>\r\nDoch dieser scheint den Schlag nicht mal gesp\u00fcrt zu haben. Da! Noch ein Schlag!<br>\r\n<br>\r\n...<br>\r\n<br>\r\nWieder nichts. W\u00e4hrend Konstantin noch \u00fcberlegt, wie er den k\u00f6rperlichen Vorteil des H\u00fcnen ausgleichen k\u00f6nnte, merkt er wie ihn dieser am Fu\u00df packt und ihn so mit ungeheurer Kraft von den Beinen rei\u00dft.<br>\r\n<br>\r\nEr f\u00e4llt... Er f\u00e4llt und... *pfft* knallt mit dem Hinterkopf genau auf den Bettpfosten. Alles wird schwarz... Sch\u00e4delbasisbruch.<br>\r\n<br>\r\nEnde.</span></div></div>",
             "created":1373950800,
             "id":1628833,
@@ -4529,8 +4424,6 @@
             "title":"Weitere schmerzhafte Bilder"
         },
         "15532":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Stimmen von Au\u00dfen",
                 "Endlich Licht!",

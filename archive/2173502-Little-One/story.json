@@ -608,8 +608,6 @@
             "title":"13-18"
         },
         "1131":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Nathan's story ",
                 "Chucks story ",
@@ -623,7 +621,6 @@
         "12":{
             "author_id":"ripmysanity",
             "author_name":"Nope",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Sorry, you need to read and agree with the rules.</span></div></span></div>",
             "created":1541048400,
             "id":2571638,

@@ -1,8 +1,6 @@
 {
     "chapters":{
         "1":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He transforms Aaron",
                 "He transforms himself",
@@ -16,8 +14,6 @@
             "title":"Congratulations Doctor"
         },
         "11":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "I Accept",
                 "Can i Sleep on it?",
@@ -30,8 +26,6 @@
             "title":"He transforms Aaron"
         },
         "111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A Storage Facility ",
                 "An Apartment Building",
@@ -43,8 +37,6 @@
             "title":"I Accept"
         },
         "1111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Pick up his Equipment",
                 "Rules and Regulations"
@@ -55,8 +47,6 @@
             "title":"A Storage Facility "
         },
         "11111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Continue"
             ],
@@ -66,8 +56,6 @@
             "title":"Pick up his Equipment"
         },
         "111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The Next Morning",
                 "Look Around his New Place"
@@ -78,8 +66,6 @@
             "title":"Continue"
         },
         "1111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Follow Up on one of Mikes Current Cases",
                 "A New Case"

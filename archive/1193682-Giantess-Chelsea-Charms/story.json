@@ -1,8 +1,6 @@
 {
     "chapters":{
         "1":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Joe takes Chelsea to the Lab"
             ],
@@ -12,8 +10,6 @@
             "title":"The Reason"
         },
         "11":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They do",
                 "Distract the guards",
@@ -25,8 +21,6 @@
             "title":"Joe takes Chelsea to the Lab"
         },
         "111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Grow my boobs more",
                 "someone walks in",

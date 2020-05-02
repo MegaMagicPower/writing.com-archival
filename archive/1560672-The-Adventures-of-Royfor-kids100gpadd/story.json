@@ -129,8 +129,6 @@
             "title":"Caught"
         },
         "12":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "English Bulldog",
                 "American Bulldog",
@@ -171,7 +169,6 @@
         "151":{
             "author_id":"superprince",
             "author_name":"Superprince",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>He starts crying</span></div></span></div>",
             "created":1583902800,
             "id":2799874,
@@ -193,7 +190,6 @@
         "1521":{
             "author_id":"superprince",
             "author_name":"Superprince",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>His mom comes in his bedroom</span></div></span></div>",
             "created":1583902800,
             "id":2799872,
@@ -202,7 +198,6 @@
         "1522":{
             "author_id":"superprince",
             "author_name":"Superprince",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Mark comes in his bedroom</span></div></span></div>",
             "created":1583902800,
             "id":2799871,
@@ -211,7 +206,6 @@
         "1523":{
             "author_id":"superprince",
             "author_name":"Superprince",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>His sister walks in</span></div></span></div>",
             "created":1583902800,
             "id":2799870,

@@ -14,8 +14,6 @@
             "title":"WAKE UP "
         },
         "13":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "\"Male.\"",
                 "\"Female.\"",
@@ -28,8 +26,6 @@
             "title":"Splash"
         },
         "132":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "says nothing and sinks back into the lake",
                 "you wake up",

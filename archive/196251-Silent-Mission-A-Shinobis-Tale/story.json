@@ -52,7 +52,6 @@
         "11111":{
             "author_id":"chibo_raudi",
             "author_name":"Raudi",
-            "choices":null,
             "content":"<div class=\"\"><div> <span><br>\r\nDeciding that you'd be best advised to fight alone, you ignore the pleas of the girl trapped in the cell.<br>\r\n<br>\r\nBig mistake. Within minutes, the guards overpower you, and the last thing you see before being disembowled is the grief-stricken face of the girl.</span></div></div>",
             "created":1047618000,
             "id":148192,
@@ -70,9 +69,6 @@
             "title":"Meet Yukina"
         },
         "111121":{
-            "author_id":null,
-            "author_name":null,
-            "choices":null,
             "content":"<div class=\"\"><div> <span>You head forward and reach a small segment of hallway with no ceiling. You cautiously wait and scope out the situation. There are several snipers waiting to shoot intruders. You have a plan. You explain it to Yukina and she nods. You begin to creep forward and suddenly you feel a direct plunge through the stomache. You look at Yukina and shes smiling evily. She pushes you forward and the snipers shoot you in every vital organ in your body.</span></div></div>",
             "created":1145250000,
             "id":313531,
@@ -103,8 +99,6 @@
             "title":"The Garden over the Wall"
         },
         "121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Attack the guard and silence him, permanently",
                 "Stay hidden, stay quiet and hope your deep green clothing hides you"
@@ -115,8 +109,6 @@
             "title":"A quick decision"
         },
         "1211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Time to sneak inside",
                 "Careful actions"
@@ -139,8 +131,6 @@
             "title":"Female in the Garden"
         },
         "1221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Get out of the way!",
                 "Catch the shuriken!"
@@ -151,8 +141,6 @@
             "title":"Not a regular girl!"
         },
         "12211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Run clockwise through the circle.",
                 "Counter it with your own smoke circle."
@@ -163,8 +151,6 @@
             "title":"Smoke circle technique."
         },
         "122111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Dash through the door."
             ],
@@ -174,8 +160,6 @@
             "title":"Victory!"
         },
         "122112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Listen to her plan.",
                 "Continue as you had originaly planned."
@@ -186,8 +170,6 @@
             "title":"Proven."
         },
         "1221121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You follow the man.",
                 "You just walk off."
@@ -198,8 +180,6 @@
             "title":"Truth."
         },
         "12211211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "It's Sakura.",
                 "It's an enemy Ninja."
@@ -210,8 +190,6 @@
             "title":"Inside the belly of the beast."
         },
         "122112111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Try to cut the wire.",
                 "Go in opposite direction"
@@ -222,8 +200,6 @@
             "title":"Tricked"
         },
         "1221121112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Take the womans hand",
                 "Stay, and fight the men."
@@ -234,8 +210,6 @@
             "title":"Help from above"
         },
         "12211211122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She knows nothing about it",
                 "It's a shapeshifter."
@@ -246,8 +220,6 @@
             "title":"Ninja skill in action."
         },
         "122112111222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Double smoke circle",
                 "Sword dance"
@@ -258,8 +230,6 @@
             "title":"Shapeshifter."
         },
         "1221121112221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Repeat the smoke circle.",
                 "Head to Head"
@@ -270,8 +240,6 @@
             "title":"Battle!"
         },
         "12211211122211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "It's Chi.",
                 "It's an old man."
@@ -282,8 +250,6 @@
             "title":"Second try"
         },
         "122112111222111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You're not yourself anymore",
                 "You can't move"
@@ -294,8 +260,6 @@
             "title":"Chi"
         },
         "1221121112221111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Continue"
             ],
@@ -305,17 +269,12 @@
             "title":"Who am I?"
         },
         "122112111222112":{
-            "author_id":null,
-            "author_name":null,
-            "choices":null,
             "content":"<div class=\"\"><div> <span>An old manv walks up the stairs. \"The switch Nin are too much for you, eh?\" The old man draws a Rapier and steps into a battle stance. <br>\r\n\"Well smoke doesn't seem like the right aproach to this. What do you think?\" you whisper to Sakura.<br>\r\n\"What about the-\"<br>\r\n\"No, Techniques aren't working, let's just get them.\"<br>\r\nYou use the last of your smoke bombs to completly fill the room. The two of you easily see through the smoke, but so do the enemy ninja. They apear to have the ability to control \"location\" within the room. You and Sakura never stood a chance. Your limbs are first cut off and then stabbed.</span></div></div>",
             "created":1145336400,
             "id":313666,
             "title":"Nice move."
         },
         "12212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Block the attack with poisonous claws",
                 "Counter with own Katana"
@@ -363,7 +322,6 @@
         "123":{
             "author_id":"chibo_raudi",
             "author_name":"Raudi",
-            "choices":null,
             "content":"<div class=\"\"><div> <span>Silently, you search the garden for the source of the noise. Not a single soul is found.\r<br>\n\r<br>\nYou begin to concentrate, trying to decide your next path. You are concentrating so hard that you never see the poison tipped arrow pierce your neck, killing you instantly.</span></div></div>",
             "created":996037200,
             "id":65576,

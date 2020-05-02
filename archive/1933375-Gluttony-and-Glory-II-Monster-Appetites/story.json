@@ -29,8 +29,6 @@
             "title":"Vix the Vicious"
         },
         "112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The guard is persistent and keeps on following Vix.",
                 "Vix gets some food and decides to mess around with the guard.",
@@ -55,8 +53,6 @@
             "title":"The guard is persistent and keeps on following ..."
         },
         "11213":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "continue with this",
                 "one more option"
@@ -67,8 +63,6 @@
             "title":"Opportunity taker!"
         },
         "112132":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Let's do it!",
                 "No. Another option"
@@ -79,8 +73,6 @@
             "title":"OPTIONALLY!"
         },
         "1121321":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Fight Back!",
                 "'Continue running "
@@ -91,8 +83,6 @@
             "title":"Problems ahead"
         },
         "113":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She was gorged and happy. Let's hear Evelyn's story.",
                 "She was being bratty. More food!",
@@ -116,8 +106,6 @@
             "title":"You Pig!"
         },
         "11312":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Evelyn takes Vix to the wizard's tower.",
                 "The pair run into the wizard on their way to his home."
@@ -142,8 +130,6 @@
             "title":"Aurora Glacierfist"
         },
         "121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Aurora tends to the woman.",
                 "Aurora leaves the woman to die.",
@@ -345,7 +331,6 @@
         "15":{
             "author_id":"drywalldryad",
             "author_name":"DrywallDryad",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Reserved space for future options.</span></div></span></div>",
             "created":1368766800,
             "id":1591533,

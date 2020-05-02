@@ -49,8 +49,6 @@
             "title":"Changing"
         },
         "11111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "get dressed",
                 "walk down naked"
@@ -61,8 +59,6 @@
             "title":"Look! It's your body now!"
         },
         "111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go to the dining room.",
                 "Try to find out what happened to you."
@@ -73,8 +69,6 @@
             "title":"get dressed"
         },
         "1111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Tell them about the men in the alley.",
                 "Tell them your not the Princess."
@@ -85,8 +79,6 @@
             "title":"Go to the dining room."
         },
         "11111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "play the game",
                 "confront him and aks what and why he had done this"
@@ -133,8 +125,6 @@
             "title":"Tell them your not the Princess."
         },
         "111111122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go to the alley where they attacked you.",
                 "Go to the pub."
@@ -157,8 +147,6 @@
             "title":"Go to the alley where they attacked you."
         },
         "111112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "unwanted attention",
                 "you are stopped by the servant"
@@ -291,15 +279,12 @@
         "11221":{
             "author_id":"mystarfleet",
             "author_name":"Federation",
-            "choices":null,
             "content":"<div class=\"\"><div> <span>you see some vines and so start climbing the wall unfortunately as you are nearing the top of the wall one of the vines break dropping down onto the ground. when you wake up you are in a hospital room and completely paralyzed for the rest of your (the princess') life.</span></div></div>",
             "created":1178427600,
             "id":405309,
             "title":"A fall from mobility"
         },
         "11222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Try and scale the wall after all.",
                 "Walk over to the guard and persuade him to let you pass"
@@ -310,8 +295,6 @@
             "title":"find another way out"
         },
         "112221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "you can manage it",
                 "you fail"
@@ -396,7 +379,6 @@
         "1122211211112":{
             "author_id":"harveydent",
             "author_name":"harveydent",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>you spend the rest of your days as a slave to a cruel master. you never escape, and never find out why any of this happened to you.</span></div></span></div>",
             "created":1309410000,
             "id":1137664,
@@ -465,7 +447,6 @@
         "11222112112112":{
             "author_id":"rosalise",
             "author_name":"Rosalise",
-            "choices":null,
             "content":"<div class=\"\"><div> <span>After a lot of thinking you choose to go because you don`t want to stay in this stupid place not even one more minutes<br>\r\nplus you thought it could be not that bad idea to try to live as a girl so you told the witch that you wish to return to your home<br>\r\nand the witch have done your request then a strong light covered the place and you have faint.<br>\r\nWhen you woke up you found yourself in your apartment.<br>\r\nAnd so your new life have begin.</span></div></div>",
             "created":1315112400,
             "id":1180892,
@@ -711,8 +692,6 @@
             "title":"run now!"
         },
         "1122212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "you live",
                 "you die"
@@ -723,8 +702,6 @@
             "title":"you fail"
         },
         "11222121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "try again!",
                 "better not risk it."
@@ -735,8 +712,6 @@
             "title":"you live"
         },
         "112221211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "forget it! this isn't my real body anyway!",
                 "what can i wear..."
@@ -747,8 +722,6 @@
             "title":"try again!"
         },
         "1122212111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "you encounter a knight....",
                 "trapdoor!"
@@ -759,8 +732,6 @@
             "title":"forget it! this isn't my real body anyway!"
         },
         "1122212112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "the men who jumped you waiting outside.",
                 "the queen!"
@@ -783,17 +754,12 @@
             "title":"better not risk it."
         },
         "11222122":{
-            "author_id":null,
-            "author_name":null,
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>the entire kingdom mourns the loss of it's beloved princess.<br>\r\n</span></div></span></div>",
             "created":1282971600,
             "id":946028,
             "title":"you die"
         },
         "112222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "he agrees to let you pass.",
                 "he does not let you pass."
@@ -804,8 +770,6 @@
             "title":"Walk over to the guard and persuade him to let ..."
         },
         "1122221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "you head on out.",
                 "but wait! does he remember the  that you promised to \"make it up to him?\""
@@ -816,8 +780,6 @@
             "title":"he agrees to let you pass."
         },
         "11222211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "theyre probibly not comming for me. i need some different clothes so i can blend",
                 "better run! they've probibly seen me!"
@@ -828,8 +790,6 @@
             "title":"you head on out."
         },
         "11222212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "he decides to \"get to know you better\"",
                 "someone sees you two. scandal!"
@@ -840,8 +800,6 @@
             "title":"but wait! does he remember the  that you promis..."
         },
         "112222121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "none really. you go with him.",
                 "struggle! "
@@ -866,15 +824,12 @@
         "11222212111":{
             "author_id":"rosalise",
             "author_name":"Rosalise",
-            "choices":null,
             "content":"<div class=\"\"><div> <span>After you gaurdsman helped you to escape from the castle you begin to see him in a diffrent way you didn`t know whats wrong with you until he asked you to be together.<br>\r\nYou then learned that you fell for him.You don`t know but just want to be with him.And so you accept him idea.Then you relised that you have became thinking like a girl<br>\r\nand you asked you yourself what the big deal with being a boy being a girl is 10000 times better.<br>\r\n<br>\r\nAfter that the of you have merried to eash other and lived in harmony forever.</span></div></div>",
             "created":1315112400,
             "id":1181046,
             "title":"Together"
         },
         "1122222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "they decide to try and mindwash you again.",
                 "they make you one of the servant wenches to teach you a lession."
@@ -885,17 +840,12 @@
             "title":"he does not let you pass."
         },
         "11222221":{
-            "author_id":null,
-            "author_name":null,
-            "choices":null,
             "content":"<div class=\"\"><div> <span>you wake up one again in your quarters. you're still a princess. off course your you're a princess what else would you be? you try and think, but the memories of your past life seem to be falling away like a dream in the morning. withing a minute you cant remember what it was you were trying to remember. a servant knocks on the door \"Your father wants to see you\". You spring out of bed to get dressed. you need to look beautiful to present yourself before the king. and who knows? perhaps he will find a prince charming for you before long...</span></div></div>",
             "created":1282971600,
             "id":945870,
             "title":"they decide to try and mindwash you again."
         },
         "11222222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "three mounths later...",
                 "you are sick of this, and decide to confront the king direactly."
@@ -906,8 +856,6 @@
             "title":"they make you one of the servant wenches to tea..."
         },
         "112222221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "yes, anything's better than this!",
                 "don't play his game..."
@@ -918,17 +866,12 @@
             "title":"three mounths later..."
         },
         "1122222211":{
-            "author_id":null,
-            "author_name":null,
-            "choices":null,
             "content":"<div class=\"\"><div> <span>though you never thought you'd feel this way you are overjoyed to be once more the kingdom's princess. you now fear the king, however, and you don't want to risk his wrath. you decide to be a good girl from now on. you choose to ignore your old life and soon all thoughts of escape and returning to your old body go away.</span></div></div>",
             "created":1282971600,
             "id":945880,
             "title":"yes, anything's better than this!"
         },
         "1122222212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "escape!",
                 "punishments?"
@@ -939,8 +882,6 @@
             "title":"don't play his game..."
         },
         "11222222121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "you now have the mind of a court jester and must entertain the court.",
                 "more"
@@ -951,8 +892,6 @@
             "title":"escape!"
         },
         "112222221212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "cocubine",
                 "other"
@@ -963,8 +902,6 @@
             "title":"more"
         },
         "1122222212122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "princess once more?",
                 "pig girl?"
@@ -977,15 +914,12 @@
         "11222222121221":{
             "author_id":"rosalise",
             "author_name":"Rosalise",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The next morning you woke as you always were.....a princess.<br>\r\nYou get dressed up and prepare to eat breakfast and waiting until your beloved prince come to get you.</span></div></span></div>",
             "created":1315112400,
             "id":1181022,
             "title":"princess once more?"
         },
         "11222222122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "give you to the dragon! you are a princess after all.",
                 "behead her!"
@@ -996,8 +930,6 @@
             "title":"punishments?"
         },
         "112222221222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "take the tunnel!",
                 "better not."
@@ -1224,8 +1156,6 @@
             "title":"or as a labor slave?"
         },
         "112222222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "throw her in the dungeon!",
                 "let the gaurdsmen have her for thier own entertainment!"
@@ -1238,7 +1168,6 @@
         "12":{
             "author_id":"mystarfleet",
             "author_name":"Federation",
-            "choices":null,
             "content":"<div class=\"\"><div> <span>Deciding against asking for directions you continue on walking. after hours of searching you finally find your hotel and check in. after that you go on to enjoy your two week vacation at the end of which you return home.<br>\r\n<br>\r\n<br>\r\nThe End</span></div></div>",
             "created":1178427600,
             "id":405296,

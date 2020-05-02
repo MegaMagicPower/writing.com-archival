@@ -1,8 +1,6 @@
 {
     "chapters":{
         "1":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Game 1",
                 "Game 2",
@@ -16,8 +14,6 @@
             "title":"Graduation Present"
         },
         "11":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "James",
                 "Kyle",
@@ -29,8 +25,6 @@
             "title":"Group 1"
         },
         "111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He stops playing",
                 "He finishes the game",
@@ -42,8 +36,6 @@
             "title":"James"
         },
         "1111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Bad weather",
                 "Its too hot",
@@ -55,8 +47,6 @@
             "title":"He stops playing"
         },
         "11111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Kyle's Sister",
                 "Someone Else"
@@ -67,8 +57,6 @@
             "title":"Bad weather"
         },
         "111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She is Happy to Help",
                 "She has Conditions to Helping"
@@ -79,8 +67,6 @@
             "title":"Kyle's Sister"
         },
         "1111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Kyle and James walk down stairs",
                 "Other"
@@ -91,8 +77,6 @@
             "title":"She is Happy to Help"
         },
         "11111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The power goes out",
                 "Other"
@@ -103,8 +87,6 @@
             "title":"Kyle and James walk down stairs"
         },
         "111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "It's a Monopoly style game ",
                 "Something Strange Happens"
@@ -139,8 +121,6 @@
             "title":"The game picks who goes first"
         },
         "111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Nick takes his turn",
                 "Nick tries to skip to the end"
@@ -151,8 +131,6 @@
             "title":"Nick goes next"
         },
         "1111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Joey's Turn",
                 "Tina's Turn"
@@ -163,8 +141,6 @@
             "title":"Nick takes his turn"
         },
         "11111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Tina's Turn",
                 "Other"
@@ -175,8 +151,6 @@
             "title":"Joey's Turn"
         },
         "111111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Kyle's Language",
                 "Something Else"
@@ -187,8 +161,6 @@
             "title":"Tina's Turn"
         },
         "1111111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Kyle's Turn",
                 "Something Else"

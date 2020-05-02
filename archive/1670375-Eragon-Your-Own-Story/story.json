@@ -164,7 +164,6 @@
         "1121222211":{
             "author_id":"maxm00",
             "author_name":"Kiriel",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You jump in the air and the arrow stabs into your heart.  As you lay on the ground bleeding out you look back at your life.  As you slowly die you are satisfied with the knowledge that you saved an important leader in the fight for independence.</span></div></span></div>",
             "created":1356584400,
             "id":1495566,
@@ -243,8 +242,6 @@
             "title":"Roran agrees"
         },
         "1122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Someone else's point of view",
                 "Still Ivy"

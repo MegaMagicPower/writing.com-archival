@@ -102,8 +102,6 @@
             "title":"Leave it for now"
         },
         "13":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You walk into the estate",
                 "You are approached by somebody",
@@ -115,8 +113,6 @@
             "title":"at an estate sale looking through old photographs."
         },
         "131":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go find another photo album",
                 "Look around the house",
@@ -128,8 +124,6 @@
             "title":"You walk into the estate"
         },
         "1312":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Try using the photo album again",
                 "Find another photo album",
@@ -141,8 +135,6 @@
             "title":"Look around the house"
         },
         "13123":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Something happens",
                 "Something else"
@@ -153,8 +145,6 @@
             "title":"Call your girlfriend"
         },
         "131231":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Back inside the Kinsley Estate",
                 "Something else"
@@ -165,8 +155,6 @@
             "title":"Something happens"
         },
         "1312311":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Back to the future",
                 "Something happens"
@@ -177,8 +165,6 @@
             "title":"Back inside the Kinsley Estate"
         },
         "13123111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The photo album is auctioned",
                 "Something else"
@@ -393,8 +379,6 @@
             "title":"Follow the crowd"
         },
         "133":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Yes",
                 "No",
@@ -421,8 +405,6 @@
             "title":"other."
         },
         "153":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go back to sleep with a new lease on life",
                 "Freak Out",
@@ -459,8 +441,6 @@
             "title":"there was a call that  the male you had a deadl..."
         },
         "154":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Watching new pictures",
                 "A friend give you a photto",
@@ -472,8 +452,6 @@
             "title":"other"
         },
         "1541":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Male Pictures",
                 "Female Pictures"
@@ -484,8 +462,6 @@
             "title":"Watching new pictures"
         },
         "15411":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Possess Kevin",
                 "Other Photo"
@@ -496,8 +472,6 @@
             "title":"Male Pictures"
         },
         "154112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Possess Aaron",
                 "Other Photo"
@@ -508,8 +482,6 @@
             "title":"Other Photo"
         },
         "1541122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Possess Trent",
                 "Other"
@@ -520,8 +492,6 @@
             "title":"Other Photo"
         },
         "15411222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Yes, become Markus and explore.",
                 "No, not this small skinny nerd ....",
@@ -533,8 +503,6 @@
             "title":"Markus the nerdy boy"
         },
         "1543":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "before World War II.",
                 "after World War II in the Fifties. ",
@@ -572,8 +540,6 @@
             "title":"other"
         },
         "15531":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Female photos",
                 "Male photos"
@@ -608,8 +574,6 @@
             "title":"wake up again as her"
         },
         "155312":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Popular Guys (Handsome, muscular, sports)",
                 "Nerd Guys (Nerds, computers)"
@@ -620,8 +584,6 @@
             "title":"Male photos"
         },
         "1553121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Tina (Your NEW Girlfriend) come to you",
                 "Other"
@@ -632,8 +594,6 @@
             "title":"Popular Guys (Handsome, muscular, sports)"
         },
         "15531211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Who retourne to my body?",
                 "Nver mind, keep in his body"
@@ -644,8 +604,6 @@
             "title":"Tina (Your NEW Girlfriend) come to you"
         },
         "155312111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Tell about the power",
                 "Tell something stupid to go away"
@@ -656,8 +614,6 @@
             "title":"Who retourne to my body?"
         },
         "1553121111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He wants to go",
                 "He chose the picture"
@@ -668,8 +624,6 @@
             "title":"Tell about the power"
         },
         "15531211111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Male",
                 "Female "
@@ -680,8 +634,6 @@
             "title":"He wants to go"
         },
         "155312111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Works",
                 "Not"
@@ -692,8 +644,6 @@
             "title":"Male"
         },
         "1553121111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Keep watch your bodys",
                 "Try to stop Tina!!!!"

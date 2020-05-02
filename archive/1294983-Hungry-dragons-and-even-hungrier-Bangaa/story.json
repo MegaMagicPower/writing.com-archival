@@ -163,8 +163,6 @@
             "title":"the wide side"
         },
         "11132":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "\"No, I there is something else I need to do.\"",
                 "\"Yes, let's go hunt the mark.\""
@@ -175,8 +173,6 @@
             "title":"New Mission"
         },
         "111322":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go to the spot the leaders said the King Python lives.",
                 "Rest until morning in the village."
@@ -187,8 +183,6 @@
             "title":"More Information"
         },
         "1113222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go find a couple humans to eat.",
                 "Wait to eat until morning."
@@ -199,8 +193,6 @@
             "title":"Wakeup in the Middle of the Night"
         },
         "11132221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Somebody comes to see what the ruckus is about.",
                 "You go back to your bed."
@@ -483,8 +475,6 @@
             "title":"A captive is a good way to start the morning."
         },
         "111331":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Reader's choice.",
                 "Release him, he seems honest enough to recruit into your army."
@@ -703,7 +693,6 @@
         "1122221":{
             "author_id":"alternatum",
             "author_name":"Alternatum",
-            "choices":null,
             "content":"<div class=\"\"><div> <span>Abruptly, you feel as if you were being cut apart by phantom energies. Your last realization is that you've suddenly dropped to the floor, and there are <i>two</i> viera looking down at you.<br>\r\n<br>\r\n\"Arrogant fool. Bangaa may be near the top of the food chain, but they have no means of matching our lethality.\" The assassin looks back up at the fencer. While she may not be your prey, she still has no chance of survival. \"Now, where were we...\"</span></div></div>",
             "created":1299301200,
             "id":1065370,
@@ -762,8 +751,6 @@
             "title":"Young Ice Drake on the hunt"
         },
         "13":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Child",
                 "Teenager",
@@ -775,8 +762,6 @@
             "title":"The Prey: Human"
         },
         "131":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "male",
                 "female"
@@ -787,8 +772,6 @@
             "title":"Child"
         },
         "132":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "male",
                 "female"
@@ -799,8 +782,6 @@
             "title":"Teenager"
         },
         "133":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "male",
                 "female"

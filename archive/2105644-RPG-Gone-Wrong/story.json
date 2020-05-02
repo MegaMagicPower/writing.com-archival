@@ -495,8 +495,6 @@
             "title":"Your Mom asks you to do something"
         },
         "11311121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You continue with cleaning ",
                 "something else"
@@ -543,8 +541,6 @@
             "title":"Tell mom your plan"
         },
         "1132":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You try to level \"Fashionista\" job class by applying makeup.",
                 "something else"
@@ -1471,8 +1467,6 @@
             "title":"You win the arguement"
         },
         "14221112112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "...french maid's outfit",
                 "something else"

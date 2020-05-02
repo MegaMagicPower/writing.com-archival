@@ -35,8 +35,6 @@
             "title":"Breakfast Interrupted."
         },
         "1111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go see the situation in Goerthe.",
                 "What is the Priest up to?",
@@ -60,8 +58,6 @@
             "title":"Go see the situation in Goerthe."
         },
         "111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Scry/Converse with Professor Homby",
                 "Scry Frillan"
@@ -84,8 +80,6 @@
             "title":"CourtRoom Drama"
         },
         "11111121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "During Moggy's comedy show Professor Homby spots a peculiar cat",
                 "Let's see how Arwell is doing"

@@ -1718,8 +1718,6 @@
             "title":"Gracie"
         },
         "1112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The principle stood in front of me ",
                 "All the teachers stood around me "
@@ -1730,8 +1728,6 @@
             "title":"At School"
         },
         "11121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Her mother comes to get her",
                 "Her sister comes to get her "
@@ -5577,7 +5573,6 @@
         "14212112111211112222211112221112222121":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She did forgive them for what they'd done.</span></div></span></div>",
             "created":1468731600,
             "id":2181869,

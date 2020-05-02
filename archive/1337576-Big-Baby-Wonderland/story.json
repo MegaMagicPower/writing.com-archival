@@ -68,8 +68,6 @@
             "title":"Special Delievery"
         },
         "111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "he can carry the bundle ",
                 "the bundle escaped "
@@ -116,8 +114,6 @@
             "title":"The Island"
         },
         "1112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You manage to break free",
                 "You give up ",
@@ -141,8 +137,6 @@
             "title":"Run For It!"
         },
         "111212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "you dont make it",
                 "you make it"
@@ -153,8 +147,6 @@
             "title":"You hear some music"
         },
         "1112121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Eat it, it might not be so bad.",
                 "Grab the spoon and throw it at her face! ><"
@@ -165,8 +157,6 @@
             "title":"you dont make it"
         },
         "11121211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You are pudgier, you have gained 20 pounds",
                 "You are very fat, you have gained three hundred pounds."
@@ -177,8 +167,6 @@
             "title":"Not bad."
         },
         "1112122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "exit",
                 " go to another door"
@@ -189,9 +177,6 @@
             "title":"you make it"
         },
         "11121221":{
-            "author_id":null,
-            "author_name":null,
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>you tumble upwards and your at the place u fell<br>\r\n</span></div></span></div>",
             "created":1224565200,
             "id":598244,
@@ -380,8 +365,6 @@
             "title":"Enter the Cabin"
         },
         "112122111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Strapped to a metal table ",
                 "In a nursery with a large assortment of plushie dolls"
@@ -489,8 +472,6 @@
             "title":"Check Up With Nurse Barbie"
         },
         "112211121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The giant girl",
                 "Nurse Barbie?"
@@ -624,8 +605,6 @@
             "title":"To the S.S Ducky!"
         },
         "11331":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Look for the cure",
                 "Wait"
@@ -696,8 +675,6 @@
             "title":"The First Mission"
         },
         "1133122221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Join the fight",
                 "Go below and get the goods!"
@@ -708,8 +685,6 @@
             "title":"Join the captain's raid?"
         },
         "11331222211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Retreat! Kayla chases",
                 "Are picked up as Kayla bends over. "
@@ -744,6 +719,19 @@
             "created":1408165200,
             "id":1842766,
             "title":"Diaper and Adult Clothes"
+        },
+        "11412":{
+            "author_id":"biggirllover",
+            "author_name":"Story Brancher",
+            "choices":[
+                "\u201cLab assistants.\u201d",
+                "\u201cTest subjects.\u201d",
+                "\u201cDiaper changers for the experiments.\u201d"
+            ],
+            "content":"<div class=\"\"><div> <span>You enter a lab  with a bunch of women. They appear to be scientists in the typical lab coats, but you also notice they\u2019re all rather fat and wearing diapers without anything covering them. The redhead of the group speaks up first.<br>\r\n<br>\r\n\u201cWell it\u2019s about time you showed up.\u201d<br>\r\n<br>\r\n\u201cWhat do you mean,\u201d you ask. \u201cI\u2019m only here to get back my wallet from a white fox.\u201d<br>\r\n<br>\r\n\u201cOh that\u2019s just his way of bringing in the new ones.\u201d<br>\r\n<br>\r\n\u201cNew what exactly?\u201d</span></div></div>",
+            "created":1588309200,
+            "id":2827976,
+            "title":"Science lab with some hugely obese women."
         },
         "1142":{
             "author_id":"thedyeddiaper",
@@ -795,8 +783,6 @@
             "title":"You've grown to like this! Keep drinking"
         },
         "1143321":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "pee",
                 "poop"
@@ -807,8 +793,6 @@
             "title":"Get even bigger!"
         },
         "11433211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "hold it in",
                 "let it out"
@@ -819,8 +803,6 @@
             "title":"pee"
         },
         "114332112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "3 tons",
                 "2 tons"
@@ -881,8 +863,6 @@
             "title":"Your clothes are feeling tighter..."
         },
         "115111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "It transform into an attractive human girl",
                 "Speaks to you and claim your it's new baby"
@@ -1111,7 +1091,6 @@
         "1151311121":{
             "author_id":"diamond09",
             "author_name":"Hypnodiapee",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You're put in a stroller big enough for you and your 50 lb loaded diaper to sit in, while you grin stupidly as the last spark of your intelligence is snuffed out because of you still suckling on the hypno hydrate PaciPop.<br>\r\n<br>\r\nThe end</span></div></span></div>",
             "created":1335243600,
             "id":1322211,
@@ -1177,8 +1156,6 @@
             "title":"One fell out"
         },
         "1151321":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He leads you to your new home.",
                 "He gives you more commands here, by the machine."
@@ -1189,8 +1166,6 @@
             "title":"Your new brother."
         },
         "11513211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A belly resting over your diaper, sagging moobs, thick legs and bottom (+75lbs)",
                 "A belly resting on thick legs, a large ass and moobs touching your belly +100lbs"
@@ -1323,8 +1298,6 @@
             "title":"The Bottle-Contains What Growing Bodies Need!"
         },
         "1211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Wet your diaper",
                 "Hold it in",
@@ -1336,8 +1309,6 @@
             "title":"A giant diaper and baby-tee"
         },
         "12111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You see a hole in the floor.",
                 "Your stomach starts to growl."
@@ -1577,8 +1548,6 @@
             "title":"A giant diaper and giant baby girl dress"
         },
         "12131":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Try and waddle away ",
                 "He grabs and  takes you to his barbershop"
@@ -1661,8 +1630,6 @@
             "title":"The right-Bouncy Town!"
         },
         "121312":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Private Auction ",
                 "County Fair Auction"
@@ -1853,8 +1820,6 @@
             "title":"You Weren't the Only Thing That Got Bigger..."
         },
         "121321":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A giant woman hovering over you",
                 "You sleeping in your own bed still warring the diaper "
@@ -1949,8 +1914,6 @@
             "title":"Some one comes in"
         },
         "12133":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Try the mashed pizza",
                 "Try the mashed brownie"
@@ -2060,8 +2023,6 @@
             "title":"You try to break free"
         },
         "12222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Over a thousand pounds!",
                 "Just barely 500 pounds"
@@ -2783,8 +2744,6 @@
             "title":"You rub it on yourself"
         },
         "12311":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Reach for the powder- Maybe it can reverse the effects?",
                 "Sit there and... cry?"
@@ -2795,8 +2754,6 @@
             "title":"Crawling?!?"
         },
         "123111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You can't read it!",
                 "You can still read it"
@@ -2867,8 +2824,6 @@
             "title":"Sit there and... cry?"
         },
         "1231121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "pick up a diaper and put it on",
                 "go naked"
@@ -3000,8 +2955,6 @@
             "title":"Now You Can Understand Him"
         },
         "123211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "you wish to become incontinence.",
                 "you wish to go to Babyland."
@@ -3072,8 +3025,6 @@
             "title":"A Giant Girl Child"
         },
         "12321211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Keep it up"
             ],
@@ -3192,8 +3143,6 @@
             "title":"Someone comes"
         },
         "12332":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You sprinkle some powder on the fox",
                 "You find your wallet on the floor abandoned"
@@ -3288,8 +3237,6 @@
             "title":"What's Going On?"
         },
         "1233221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "she changes you then brands you",
                 "she notices ur new and presses a button"
@@ -3556,8 +3503,6 @@
             "title":"Weight."
         },
         "12432":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "#1",
                 "Other"
@@ -3568,8 +3513,6 @@
             "title":"Shirt."
         },
         "124322":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "#2",
                 "Both #1 & #2"
@@ -3666,8 +3609,6 @@
             "title":"Try to find your way back"
         },
         "12512":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A strange creature",
                 "A teen baby"
@@ -3678,8 +3619,6 @@
             "title":"Look for the white fox some more"
         },
         "125121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A gaint women ",
                 "The white fox"
@@ -3835,8 +3774,6 @@
             "title":"scream"
         },
         "1253":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "the fox but with your paints",
                 "the fox with your wailit"
@@ -5724,7 +5661,7 @@
         "description":"<td align=\"left\" class=\"norm\">You're walking home one day when out of nowhere a white fox grabs your wallet and flees. You chase after it...and fall into a strange world where you're about to become a real big baby...</td>",
         "id":1337576,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1577854800,
+        "modified":1588309200,
         "pretty_title":"Big Baby Wonderland"
     }
 }

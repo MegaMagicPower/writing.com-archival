@@ -29,8 +29,6 @@
             "title":"1"
         },
         "111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Sure!",
                 "NOPE!"
@@ -41,8 +39,6 @@
             "title":"regular"
         },
         "1111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Bulbasaur",
                 "Charmander",
@@ -104,8 +100,6 @@
             "title":"Raising other trainer's pokemon since 1996"
         },
         "1112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Sure!",
                 "NO!"
@@ -116,8 +110,6 @@
             "title":"Pikachu"
         },
         "11121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "It's thunderbolt-shaped (male).",
                 "It's heart-shaped (female)."
@@ -128,8 +120,6 @@
             "title":"Sure!"
         },
         "111211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You hear some voices nearby!",
                 "Rustling from a bush close-by..."
@@ -140,8 +130,6 @@
             "title":"It's thunderbolt-shaped (male)."
         },
         "1112112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Run from it!",
                 "Confront it!"
@@ -569,8 +557,6 @@
             "title":"Spikey Eared Pichu"
         },
         "1112222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Jigglypuff",
                 "Next"
@@ -581,8 +567,6 @@
             "title":"Nope"
         },
         "11122221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Male",
                 "Female"
@@ -680,8 +664,6 @@
             "title":"The fire type Moltres"
         },
         "1132":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Male!",
                 "Female!",
@@ -718,8 +700,6 @@
             "title":"2"
         },
         "121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Chikorita, Cyndaquil, Totodile",
                 "No, I want other choices please"
@@ -743,8 +723,6 @@
             "title":"Chikorita, Cyndaquil, Totodile"
         },
         "12113":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Next",
                 "Next"
@@ -755,8 +733,6 @@
             "title":"In the skies of the Pokemon world... [EDIT]"
         },
         "121131":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Chikorita",
                 "Cyndaquil"
@@ -986,8 +962,6 @@
             "title":"3"
         },
         "131":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Treecko, Torchic, Mudkip",
                 "No, I want other choices please"
@@ -1930,8 +1904,6 @@
             "title":"nope... moving on!"
         },
         "133":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Groudon, Kyogre, Rayquaza",
                 "Latias, Latios",
@@ -2187,8 +2159,6 @@
             "title":"4"
         },
         "1411":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Turtwig, Chimchar, Piplup",
                 "No, I want other choices please"
@@ -2453,8 +2423,6 @@
             "title":"5"
         },
         "1421":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Snivy, Tepig, Oshawott",
                 "No, I want other choices please"
@@ -2501,8 +2469,6 @@
             "title":"tepig/oshawott"
         },
         "1421122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Snivy",
                 "Tepig"
@@ -2513,8 +2479,6 @@
             "title":"Wake up..."
         },
         "14211222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "\"Do you know where I am?\"",
                 "\"Right, Well, I gotta go.\""
@@ -2537,8 +2501,6 @@
             "title":"No, I want other choices please [EDIT]"
         },
         "1422":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "yes",
                 "no"
@@ -2720,7 +2682,6 @@
         "142331111111":{
             "author_id":"pintoarcade",
             "author_name":"PintoArcade",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The end!!!!!!!!!!!!!!!!!!!!!!!!</span></div></span></div>",
             "created":1529298000,
             "id":2508811,

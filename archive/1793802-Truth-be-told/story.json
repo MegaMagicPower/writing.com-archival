@@ -124,8 +124,6 @@
             "title":"readers choice"
         },
         "14":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "After a snarky comment to his elder sister?",
                 "Mouthing off to his mother",
@@ -152,8 +150,6 @@
             "title":"After a snarky comment to his elder sister?"
         },
         "15":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Open",
                 "Open",
@@ -182,7 +178,6 @@
         "155":{
             "author_id":"kasskid2",
             "author_name":"kasskid",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>That is the end of the story</span></div></span></div>",
             "created":1537160400,
             "id":2548953,

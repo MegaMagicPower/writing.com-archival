@@ -16,8 +16,6 @@
             "title":"Who Are You?"
         },
         "11":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "transfigure someone (clothing)",
                 "transfigure someone (object)",
@@ -639,8 +637,6 @@
             "title":"Gender"
         },
         "142":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "ginny",
                 "cho"

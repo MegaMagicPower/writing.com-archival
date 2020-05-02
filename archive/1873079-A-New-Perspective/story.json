@@ -1,8 +1,6 @@
 {
     "chapters":{
         "1":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "James and Aaron (Roommates)",
                 "Will and Matt",
@@ -14,8 +12,6 @@
             "title":"Roommates"
         },
         "11":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Magic",
                 "Device",
@@ -55,8 +51,6 @@
             "title":"During the Night"
         },
         "11121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Loss of Body Hair",
                 "Something else changes"
@@ -67,8 +61,6 @@
             "title":"Aaron hears the commotion"
         },
         "111211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Another Change",
                 "Calming down and having breakfast."
@@ -102,8 +94,6 @@
             "title":"James takes a shower"
         },
         "111211111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Face Aaron"
             ],

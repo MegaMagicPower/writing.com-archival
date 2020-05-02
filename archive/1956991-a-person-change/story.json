@@ -16,8 +16,6 @@
             "title":"choose a change"
         },
         "11":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "(Male author) Male to Female",
                 "(Male author) Female to Male",
@@ -31,8 +29,6 @@
             "title":"Gender"
         },
         "115":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Male to Female",
                 "Female to Male",
@@ -44,8 +40,6 @@
             "title":"(Anonymous author)"
         },
         "13":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Preteen",
                 "Teen",

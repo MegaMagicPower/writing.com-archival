@@ -1,8 +1,6 @@
 {
     "chapters":{
         "1":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Josh downloads the app for you",
                 "You download the app"
@@ -13,8 +11,6 @@
             "title":"Browsing for Apps"
         },
         "11":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You're recieving a phone call",
                 "You're recieving a text message",
@@ -27,8 +23,6 @@
             "title":"Josh downloads the app for you"
         },
         "111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The Nurse says we're ready for you",
                 "Jackie Calls you from your body"
@@ -39,8 +33,6 @@
             "title":"You're recieving a phone call"
         },
         "1111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Continue"
             ],
@@ -50,8 +42,6 @@
             "title":"The Nurse says we're ready for you"
         },
         "11111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You Check the Calender",
                 "You check you messages"

@@ -117,8 +117,6 @@
             "title":"he sits on pip making pip go in his butt"
         },
         "111112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Play with Pig while he's inside you",
                 "Sleep after you've eaten him"
@@ -153,8 +151,6 @@
             "title":"otis wants the backend"
         },
         "1111211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Otis wants someone else in the rear with him",
                 "Pig needs some time to relax"
@@ -406,8 +402,6 @@
             "title":"he decides to go have some fun"
         },
         "115":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Yes.",
                 "No, continue with the selection.",
@@ -432,6 +426,19 @@
             "created":1195102800,
             "id":464574,
             "title":"pig"
+        },
+        "121":{
+            "author_id":"yoyoman500",
+            "author_name":"Yoyomaster500",
+            "choices":[
+                "He eats the farmer ",
+                "He eats otis",
+                "otis eats him"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>He looks to see if there's anything else to eat</span></div></span></div>",
+            "created":1588309200,
+            "id":2828575,
+            "title":"he feels hungry for something other than the ap..."
         },
         "122":{
             "author_id":"chubzard9",
@@ -993,8 +1000,6 @@
             "title":"\"does it hurt? I mean...\""
         },
         "1311212121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Otis is still alive in the belly",
                 "Ben is digested"
@@ -1053,8 +1058,6 @@
             "title":"one of the lower vores"
         },
         "13112121221121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "someone else comes along too!",
                 "Dag completely swallows Ben and Pig"
@@ -1065,8 +1068,6 @@
             "title":"Second Helping"
         },
         "132":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He has an inner struggle.",
                 "Someone brides him to do it.",
@@ -1078,8 +1079,6 @@
             "title":"Freddy, the ferret"
         },
         "1322":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Bessy.",
                 "The Sheep.",
@@ -1091,8 +1090,6 @@
             "title":"Bribing the Ferret."
         },
         "13221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "kissed him.",
                 "pulled off a curtain."
@@ -1103,8 +1100,6 @@
             "title":"Isn't Much of a Surprise."
         },
         "132211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "peck",
                 "pip"
@@ -1115,8 +1110,6 @@
             "title":"kissed him."
         },
         "1322111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "pip",
                 "pig"
@@ -1127,8 +1120,6 @@
             "title":"The rooster peck"
         },
         "13221112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Bessy came in.",
                 "he fell asleep."
@@ -1139,8 +1130,6 @@
             "title":"Pig for the Main Course."
         },
         "132211121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Freddy and Bessie go out ",
                 "Freddy and Bessie stay in"
@@ -1151,8 +1140,6 @@
             "title":"Bessy came in."
         },
         "1322111212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "get some more.\"",
                 "take a break.\""
@@ -1163,8 +1150,6 @@
             "title":"Freddy and Bessie stay in."
         },
         "132211122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "There's no one else there",
                 "Someone else is in the barn"
@@ -1175,8 +1160,6 @@
             "title":"he fell asleep."
         },
         "1322111221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Bessie",
                 "Duke"
@@ -1199,8 +1182,6 @@
             "title":"Duke"
         },
         "1322111222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Freddy goes to sleep",
                 "Someone walks in"
@@ -1259,8 +1240,6 @@
             "title":"''...belly.''"
         },
         "13223111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Peck, asking for more things",
                 "The Barnyard Gang burst in"
@@ -1271,8 +1250,6 @@
             "title":"\"It sure does.\""
         },
         "132231112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "\"You should stay in there.\"",
                 "\"We should join you.\" "
@@ -1283,8 +1260,6 @@
             "title":"The Barnyard Gang burst in"
         },
         "1322311122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He goes into the city to eat it too",
                 "He rests"
@@ -1856,8 +1831,6 @@
             "title":"Feet or tails"
         },
         "141132111112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Otis",
                 "Pig"
@@ -1868,8 +1841,6 @@
             "title":"Find somethin to feed the comatose K-9"
         },
         "143":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Otis",
                 "Abby",
@@ -1922,8 +1893,6 @@
             "title":"Name for later"
         },
         "15411":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Otis",
                 "The farmer"
@@ -2042,8 +2011,6 @@
             "title":"More original characters"
         },
         "1551":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Duke or Pig",
                 "Otis, Ben or Miles",
@@ -2055,8 +2022,6 @@
             "title":"TJ the mouse"
         },
         "15511":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Duke",
                 "Pig"
@@ -2067,8 +2032,6 @@
             "title":"Duke or Pig"
         },
         "155111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "butt",
                 "mouth"
@@ -2079,8 +2042,6 @@
             "title":"Duke"
         },
         "1551111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "smell his butt",
                 "other choice*"
@@ -2091,8 +2052,6 @@
             "title":"butt"
         },
         "15511111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "he farts",
                 "he sucks you in..."
@@ -2148,7 +2107,7 @@
         "description":"<td align=\"left\" class=\"norm\">This interactive is, of course, a weight-gain and vore interactive for the movie/cartoon: Barnyard. if you don't know what vore is, then this is probably not for you.<br>\r\nanyway, you may use any of the characters that I list and any that are in the story that I didn't. (you may also make up a character if you wish.) in this interactive story the barnyard timeline is diferent in that Ben didn't die, just got wounded slightly.<br>\r\n<br>\r\nI prefer that the vore content centers on males only, but I will not restrict it as long as the female is not human. (pred or prey) keep the sexual activity to qa bare minimum please (ie. do not mention it in any direct content)<br>\r\n<br>\r\nI alow most vore types, but I will not allow UB or \"Soul Vore,\" I will begrudgingly accept CV. I completely prohibit any hard vore! other than that I don't see any problems right now (this is subject to change if I find another I do not approve of. in case you are wondering, yes AV and udder vore is acceptable on here as long as it is clean.  that brings up another topic: try to keep all vore in a clean sense in other words, no potty humor (scat) is allowed in this or any of my interactives. also, there will be no death as the vored character may be revived/reformed via some form of magic later in the story.<br>\r\n<br>\r\nnow if at all possible, have fun!</td>",
         "id":1340581,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1586026620,
+        "modified":1588390740,
         "pretty_title":"Barnyard: WG and Vore"
     }
 }

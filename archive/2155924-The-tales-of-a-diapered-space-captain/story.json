@@ -604,8 +604,6 @@
             "title":"The original inhabitants of the colony"
         },
         "11232222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "No crew affected yet",
                 "They crew starts to get affected"
@@ -616,8 +614,6 @@
             "title":"The colonists mentally regressed into a second ..."
         },
         "112322221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The scientists studying the plant",
                 "The captain gets affected."
@@ -654,8 +650,6 @@
             "title":"The captain gets affected."
         },
         "11232222121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Nurse Lilly is affected",
                 "Nurse Amy finds herself affected"
@@ -666,8 +660,6 @@
             "title":"Go tell one of the grownup crew ladies she had ..."
         },
         "112322221212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The whole science lab has been regressed!",
                 "Lilly finds herself being affaected now."
@@ -4309,6 +4301,19 @@
             "id":2795058,
             "title":"In another part of the lair, this one much diff..."
         },
+        "153211321221":{
+            "author_id":"babyrouge7x",
+            "author_name":"Amy",
+            "choices":[
+                "She gave up",
+                "She kept resisting ",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ahsoka felt a finger in the back of her diaper which caused her to blush heavily. \u201cWow, your clean, for now.\u201d Ventress said as she started to use the force to push on Ahsokas stomach. Ahsoka tried to hold it as hard as she could</span></div></span></div>",
+            "created":1588222800,
+            "id":2827726,
+            "title":"Diaper check "
+        },
         "153212":{
             "author_id":"tripleb6",
             "author_name":"StarWars13",
@@ -4501,7 +4506,7 @@
         "description":"<td align=\"left\" class=\"norm\">It is 2166, in earth standard years,  and you have found yourself at the helm of a spaceship. Mysteries and excitement awaits, but that isn't necessarily always for the best. AB/DL and adult themes inside, turn back if this isn't for you. <br>\r\n<br>\r\nSci-fi can be fairly complicated, so, here are the rules:<br>\r\n<br>\r\nFaster than light travel (FTL) has been discovered. It works like hyperspace, with a finite number of lanes between star systems that ships move through. <br>\r\n<br>\r\nYou can move through the galaxy, but inter dimensional/inter universal travel is not an established thing (at least not yet.)<br>\r\n<br>\r\nAliens exist, and humans have intergalactic translators, at least with the ones they have already established contact with.<br>\r\n<br>\r\nTry and keep existing sci-fi things in stories specified for those, (don't interrupt an original story with the force, or the reaper invasion, or something like that.)<br>\r\n<br>\r\nAdult scenes are allowed.<br>\r\n<br>\r\nFeel free to add!</td>",
         "id":2155924,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1588007940,
+        "modified":1588280220,
         "pretty_title":"The tales of a diapered space captain"
     }
 }

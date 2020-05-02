@@ -28,8 +28,6 @@
             "title":"Your deck?"
         },
         "111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Later..."
             ],
@@ -39,8 +37,6 @@
             "title":"Archfiend"
         },
         "1111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Wednesday"
             ],
@@ -50,8 +46,6 @@
             "title":"MSN Messenger"
         },
         "11111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Thursday"
             ],
@@ -61,8 +55,6 @@
             "title":"Its a date!"
         },
         "111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Friday"
             ],
@@ -173,8 +165,6 @@
             "title":"Madien of the white dragon"
         },
         "1111111111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "she gets the advantage",
                 "you activate your face down"
@@ -197,8 +187,6 @@
             "title":"you activate your face down"
         },
         "111111111111111121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Create A Card",
                 "Be Given all 3 Wicked Beast Cards"
@@ -209,8 +197,6 @@
             "title":"mall from pegasus  "
         },
         "1111111111111111211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Accept",
                 "Other"
@@ -268,8 +254,6 @@
             "title":"The Creator of Duel Monsters"
         },
         "1121111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Enter Pegasus's Tournament",
                 "Don't Enter Pegasus's Tournament"
@@ -304,8 +288,6 @@
             "title":"Weevil and Rex"
         },
         "1121111121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "your old friend Mai Valentine",
                 "your personal rival Darius (he has a fire deck)"
@@ -316,8 +298,6 @@
             "title":"Waiting"
         },
         "11211111211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You win",
                 "She wins"
@@ -686,8 +666,6 @@
             "title":"Another person challanges you"
         },
         "11212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "skip to the moving day",
                 "duel with a kid for respect"
@@ -698,8 +676,6 @@
             "title":"mikes dilemma"
         },
         "112121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "go to yugis house",
                 "be challenged to a duel by a strange robed figure"
@@ -746,8 +722,6 @@
             "title":"Yugi Muto"
         },
         "115":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "enter the tournament",
                 "not enter"
@@ -758,8 +732,6 @@
             "title":"Dragon Deck"
         },
         "1151":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You",
                 "Yugi"
@@ -770,8 +742,6 @@
             "title":"Duelist Kingdom"
         },
         "11511":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "accept"
             ],
@@ -781,8 +751,6 @@
             "title":"First Duel"
         },
         "115111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "you",
                 "Willis"
@@ -793,8 +761,6 @@
             "title":"It's Time To Duel"
         },
         "1151111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Pot of Greed",
                 "Dark Hole"
@@ -831,7 +797,6 @@
         "1152":{
             "author_id":"destnyguardian",
             "author_name":"theguardianofdestiny",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>This is a Yu-Gi-Oh! story! ENTER THE TOURNAMENT!!</span></div></span></div>",
             "created":1175317200,
             "id":394323,
@@ -938,8 +903,6 @@
             "title":"Caleb goes global dueling"
         },
         "125":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Chalenge Yugi",
                 "Go to gramps' shop, see if you can get some new cards"

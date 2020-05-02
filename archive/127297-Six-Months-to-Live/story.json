@@ -38,8 +38,6 @@
             "title":"The heist"
         },
         "1111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A new plan",
                 "Modify the old plan"
@@ -121,8 +119,6 @@
             "title":"nothing to lose"
         },
         "112111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Kat is able to contact help on the phone",
                 "Kat can't contact anyone"
@@ -171,15 +167,12 @@
         "11221":{
             "author_id":"lareine",
             "author_name":"Reine",
-            "choices":null,
             "content":"<div class=\"\"><div> <span>George and Kat talked to Lari late into the night. They finally convinced her into going to the clinic to seek treatment. A few months later, after vigorously raising money for the operation, Lari had the tumor removed and was completely cured within the year.  <br>\r\n<br>\r\nShe married a man she met in a brain cancer support group. He was loving, but overall rather mediocre. They bought a house, then a dog, and in no time at all, they had three children. Lari died at the ripe old age of 82, in her sleep.  But she always had the most amazing dreams, most of which she wished she could have lived. </span></div></div>",
             "created":1037941200,
             "id":131255,
             "title":"A cure."
         },
         "11222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Kat drags Lari to another doctor",
                 "Lari refuses a second opinion"
@@ -274,8 +267,6 @@
             "title":"Iceland At Last"
         },
         "121122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "go to the hotel",
                 "turn around, go home"
@@ -286,8 +277,6 @@
             "title":"new face"
         },
         "1211221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She turned pale as she heard the voice on the tape",
                 "She calmly listened to the tape and got ready"
@@ -346,8 +335,6 @@
             "title":"Curiosity"
         },
         "122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They are really being hijacked",
                 "It was just a dream"
@@ -358,8 +345,6 @@
             "title":"Hijacked"
         },
         "1221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Bad guys are cute too",
                 "Can Lari save the day?"
@@ -417,8 +402,6 @@
             "title":"Involved"
         },
         "1222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You choose a classy bar.",
                 "you meet someone on the street."
@@ -429,8 +412,6 @@
             "title":"Grounded."
         },
         "12222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You stay and have fun",
                 "get out now."
@@ -441,8 +422,6 @@
             "title":"surprise party"
         },
         "122221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You get a surprise and like it.",
                 "You get a surprise and beg to get out."

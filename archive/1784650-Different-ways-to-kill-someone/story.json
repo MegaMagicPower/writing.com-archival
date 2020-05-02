@@ -13,8 +13,6 @@
             "title":"Killing someone"
         },
         "11":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "you can continue on",
                 "come up with your own"
@@ -25,8 +23,6 @@
             "title":"continue on"
         },
         "111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "continue on",
                 "other choice",
@@ -76,8 +72,6 @@
             "title":"911"
         },
         "12":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "make your own"
             ],

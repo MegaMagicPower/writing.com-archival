@@ -298,8 +298,6 @@
             "title":"Another female gym leader (erika jeanine sabrina)"
         },
         "114":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "option 1",
                 "option 2",
@@ -311,8 +309,6 @@
             "title":"Ash is hypnotized by Misty"
         },
         "1141":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "make him a blonde bimbo airhead",
                 "make it so he still has a little of his male self but cant control his new body",
@@ -654,8 +650,6 @@
             "title":"other"
         },
         "14":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Amy",
                 "Rouge",
@@ -669,8 +663,6 @@
             "title":"Sonic"
         },
         "141":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Infancy",
                 "A slave"
@@ -681,8 +673,6 @@
             "title":"Amy"
         },
         "142":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Infancy",
                 "Slavery"
@@ -706,8 +696,6 @@
             "title":"Cream"
         },
         "145":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Cosmo",
                 "Sally",
@@ -1056,8 +1044,6 @@
             "title":"Someone else..."
         },
         "1453":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Bunnie",
                 "Marine",
@@ -1228,8 +1214,6 @@
             "title":"DC/Marvel Comics"
         },
         "155":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The Fairly Oddparents ",
                 "Danny Phantom",
@@ -1241,8 +1225,6 @@
             "title":"Something else"
         },
         "1551":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Tootie",
                 "Vicky",
@@ -1254,8 +1236,6 @@
             "title":"The Fairly Oddparents "
         },
         "15511":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Trixie",
                 "Someone else."
@@ -6244,6 +6224,36 @@
             "created":1566363600,
             "id":2705991,
             "title":"Another villager"
+        },
+        "155333222222222232323":{
+            "author_id":"shely",
+            "author_name":"turtleguru",
+            "choices":[
+                "RWBY",
+                "Dragon Ball",
+                "One Piece",
+                "More choices 1",
+                "more choices 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>hows about some stuff that people will actually read/write about?</span></div></span></div>",
+            "created":1588309200,
+            "id":2828342,
+            "title":"Something else"
+        },
+        "1553332222222222323231":{
+            "author_id":"shely",
+            "author_name":"turtleguru",
+            "choices":[
+                "Ruby",
+                "Weiss",
+                "Blake",
+                "Yang",
+                "someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who from RWBY does the hypnosis?</span></div></span></div>",
+            "created":1588309200,
+            "id":2828344,
+            "title":"RWBY"
         }
     },
     "info":{
@@ -6254,7 +6264,7 @@
         "description":"<td align=\"left\" class=\"norm\">Instead of doing one mind control-based interactive, this interactive focuses on females from various cartoons/comics/anime/games etc. hypnotizing their rivals (Sakura being hypnotized by Ino for example).<br>\r\n<br>\r\nKeep the characters In-Character.  No overly graphic content.</td>",
         "id":1691732,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1583713680,
+        "modified":1588366380,
         "pretty_title":"Fictional Female Hypnosis Collective"
     }
 }

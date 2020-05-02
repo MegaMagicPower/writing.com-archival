@@ -111,8 +111,6 @@
             "title":"Sir Golan.. the drake?"
         },
         "111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Sir Golan takes off in a flight of panic",
                 "Sir Golan manages to calm down and asks Ivar about what happened to him"
@@ -123,8 +121,6 @@
             "title":"Sir Golan's Draconic Awakening"
         },
         "1111111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He is approached by Ivar who wants to explain what happened",
                 "He is approached by another dragon who opts to take him back to the colony"
@@ -135,8 +131,6 @@
             "title":"Sir Golan takes off in a flight of panic"
         },
         "11111111112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Accepts Excallius's offer",
                 "Is interrupted as an arrow misses striking Excallius in the head"
@@ -184,8 +178,6 @@
             "title":"The husk dies, but they decide to try again"
         },
         "111111123":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The uprising of True Dragons",
                 "The Demigods from Patrinor",
@@ -197,8 +189,6 @@
             "title":"Returning to the War Council"
         },
         "1111112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Sir Golan starts saying some insane things",
                 "Sir Golan is sane, but he has amnesia"
@@ -209,8 +199,6 @@
             "title":"Save the body, lose the mind"
         },
         "11111121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Hire a specialist who knows who to fix Golan's sanity",
                 "Marry Golan off to Isabella. Surely a woman's love can cure the mind, right?"
@@ -221,8 +209,6 @@
             "title":"Sir Golan starts saying some insane things"
         },
         "111111211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They find Golan romancing Isabelle! They are about to kiss!",
                 "Sir Golan set up a booby-trap. He stole some potions from Janus's study!",
@@ -234,8 +220,6 @@
             "title":"A doctor to cure Golan's insanity"
         },
         "111111212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Capture a True Dragon",
                 "Invade Erolus by myself and rescue Rilian"
@@ -246,8 +230,6 @@
             "title":"Marrying for the sake of sanity"
         },
         "1111113":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Golan's decision. Let's stay at Kiccigiorgi Forest.",
                 "Janus' decision. Let's take the throne back."
@@ -270,8 +252,6 @@
             "title":"Golan's decision. Let's stay at Kiccigi..."
         },
         "111111312":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "\"...she... erm... he is... my liege... King Ivar.\"",
                 "\"...uhm... yes... she's the one. I... finally found one to adopt.\""
@@ -306,8 +286,6 @@
             "title":"Holding Up a White Lie"
         },
         "111113":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Prince Roberto has arrived. The women in the castle start lusting after him.",
                 "Rilian has returned home. Two guards throw Ivar into the dungeon."
@@ -318,8 +296,6 @@
             "title":"Prince Rilian is Alive!!!"
         },
         "1111131":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Ivar orders his female guards to fetch Isabella",
                 "He gets word that Isabella has ran away with her horse in order to find love",
@@ -331,8 +307,6 @@
             "title":"Prince Roberto has arrived."
         },
         "11111313":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A Holy war is declared",
                 "They begin laughing at the irony of the events"
@@ -343,8 +317,6 @@
             "title":"Fate gets even stranger"
         },
         "111113132":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "We must marry these lovers who stand before us",
                 "Redouble our search efforts to find Jillian and Rilian",
@@ -518,8 +490,6 @@
             "title":"The chaplain returns"
         },
         "1111212112113":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "\"...wed the prince, of course! We need the alliance to defeat the orcs!\"",
                 "\"...go back to the wizard to take off this blasted curse!\""
@@ -554,8 +524,6 @@
             "title":"Parting words from the Goddess to Ivana"
         },
         "111122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Isabelle and Roberto making out",
                 "Isabelle and Roberto about to consummate their marriage! "
@@ -580,8 +548,6 @@
             "title":"\"What do you know of raising sons, Hogar Tw..."
         },
         "111134":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Ivar refusez",
                 "Ivar drinks the potion"
@@ -631,8 +597,6 @@
             "title":"You see something moving out of the corner of y..."
         },
         "1113":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Preparing to depart",
                 "A rumour abounds",
@@ -658,8 +622,6 @@
             "title":"Preparing to depart"
         },
         "11133":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Later the next day Ivar is more violent and insane than the day before,werebeast",
                 "Ivar starts sprouting fur on his body. Random creature transformation",
@@ -807,7 +769,6 @@
         "11144321":{
             "author_id":"yote",
             "author_name":"Yote",
-            "choices":null,
             "content":"<div class=\"\"><div> <span>In his adventuring days, Ivar had always resorted to strength, size or swords first to resolve conflicts like this, with smarts being a distant consideration. With three vast humans bearing down on him, he struggled to adapt to the situation. Admittedly he had only been a gnome for 12 seconds.<br>\r\n<br>\r\nHis body frozen in fear, his mind cast desperately around for ideas.<br>\r\n<br>\r\n<i>Shoot out the chandelier to crush them beneath it? I have no crossbow. Grab a poker from the fire? That poker is the size of an iron girder to me now. Threaten them? I'm just a lowly gnome to them; what could I ever threaten them with? I know, I'll-!</i><br>\r\n<br>\r\nToo late, his hesitation had cost him everything. The guard scooped him up in the pillowcase. Ivar struggled valiantly against the silken confines but it might have been made out of unbreakable adamant for all his tiny fists and feet could do.<br>\r\n<br>\r\nHolding the squeaking, squirming sack closed with one hand, the guard swung it against the bedpost of the royal bed. The prisoner within went limp.<br>\r\n<br>\r\n\"Disappointing,\" Addoros sighed under his breath. \"Well I can see poor Tanki's story is ended. After I had such hopes for the girl as well. Farewell, king.\" With an elaborate bow to the unconscious, sacked king, he faded away with a few subtle notes of his harp.<br>\r\n<br>\r\nThe guard slammed the sack against the thick oak bedpost a second time just to be sure before decanting their prisoner from the pillowcase. She tumbled onto the bed, head lolling in a stupor. \"...wha...where am I...\"<br>\r\n<br>\r\nA guard grabbed her roughly, pinning her entire body down with but a single hand. Her tinkerer's kit was swiftly removed. With his other hand, the guard simply clutched and wrenched at her leather armour until the straps snapped. She was stripped completely of her clothing. The guards had dealt with Tanki Battlekettle before - they knew the sorts of gadgets she could pull from her inventory.<br>\r\n<br>\r\n\"You ought to know where you are - you're that fucking gnome we caught snooping around here months ago. A criminal always returns to the scene of her crime.\"<br>\r\n<br>\r\n\"I'm...not...\"<br>\r\n<br>\r\nA gag was thrust into Ivar's open mouth - one of his own socks grabbed from a dresser.<br>\r\n<br>\r\n\"Take her to the barracks,\" sneered the guard. \"No need to bother the king with this one. You'll not be getting a pardon this time. Bind her limbs, and make it tight. These gnomes are a slippery lot.\"<br>\r\n<br>\r\nGnomes were indeed a slippery lot. Their tendons and ligaments were stretchy, letting them contort their joints into any configuration and granting them remarkable feats of dexterity and escapology. But even that couldn't help Ivar as his arms and legs were bound tight enough to cut into the flesh.<br>\r\n<br>\r\nFortunately gnome flesh is resilient too, tough and springy. A gnome thrown from a high place will bounce instead of splat, and will recoil away from a killing blow with merely the wind knocked out of them. They are like rubber balls - it was the only way they could survive around the lumbering humans, who might otherwise have killed them with a misplaced step.<br>\r\n<br>\r\nIt was that elasticity of flesh that saved Ivar, physically at least, though not from ignominy, as the guards had their way with Tanki's young, flexible body. The huge human cock pressed eagerly against his tight gnomish pussy like a battering ram breaking through a doorway. Ivar sobbed senselessly into his gag as her flexible flesh yielding to allow the vast organ entry to her body. It filled her up, sliding all the way into her torso as her organs moved aside to let it pass and her vagina distended to accommodate it. As the guard began to thrust, Tanki felt her body forced into a new configuration from the repeated pounding, her torso becoming little more than a sheath for humongous cock.<br>\r\n<br>\r\n\"My turn next,\" growled a half-orc guardsman, unbuckling his codpiece.<br>\r\n<br>\r\nAs the first guard blew his load and slid out, he noticed a scrap of parchment still tightly in the gnome's list. He snatched it up. It was mostly blank, the dense story from before now vanished. All that remained was the name 'Tanki Battlekettle' and beneath that a single sentence writing itself onto the paper before his very eyes.<br>\r\n<span style=\"font-family:times new roman, serif\"><br>\r\n<i>And Tanki Battlekettle remained a plaything of the castle guard until the end of her days...<br>\r\n<br>\r\nThe End.</i></span></span></div></div>",
             "created":1575781200,
             "id":2756931,
@@ -902,8 +863,6 @@
             "title":"The wizard blocks the doorway with a cantrip"
         },
         "1114434":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Kadorak Gluttonous werebear Barbarian ",
                 "Some other role",
@@ -917,8 +876,6 @@
             "title":"Some other heroic role"
         },
         "11144341":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Spots the witch who offered him a deal before he died in his last battle ",
                 "The bard from before who stood before him"
@@ -929,8 +886,6 @@
             "title":"Kadorak Gluttonous werebear Barbarian "
         },
         "112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Rilian has managed to gain both fat and muscle- unexpected side effect",
                 "Rilian has gained 150lbs. of fat and comes up with an idea on how to escape",
@@ -942,8 +897,6 @@
             "title":"The lost Prince Rilian"
         },
         "1121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "2 months later Rilian and Luna get married before heading to Tryzantium",
                 "1 month later they travel to Drakson to find a husband for Isabella",
@@ -955,8 +908,6 @@
             "title":"Growing Prince"
         },
         "11212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Roberto tries flirting with Luna",
                 "Roberto tries flirting with Emma who just arrived"
@@ -967,8 +918,6 @@
             "title":"Rilian and the Playboy Prince"
         },
         "112121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The next day Rillian and his host run into a bind",
                 "After a day of bonding with the king, Rilian invites him to his wedding to Luna"
@@ -979,8 +928,6 @@
             "title":"Some Playboys Never Learn"
         },
         "112122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Later that night Rilian drinks the Draco Elixar by accident.",
                 "Later Rilian heads back with the intent on destroying his father"
@@ -991,8 +938,6 @@
             "title":"Roberto tries flirting with Emma who just arrived"
         },
         "1121222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "When no one is looking Isabelle releases Roberto in order to elope",
                 "Upon seeing his father Rilian orders the guards to arrest Ivar for his crimes"
@@ -1003,8 +948,6 @@
             "title":"The new Rightful King Seeks Vengeance!"
         },
         "11212222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Sometime after the feast, Rilian tells his father that he'll banish him soon",
                 "After the feast Luna curses Ivar with the mind of a feral beast"
@@ -1015,8 +958,6 @@
             "title":"Exacting Revenge"
         },
         "1122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The Lost Temple of Seasons (random transformation)",
                 "A Coven of Witches. (Monster transformation)",
@@ -1028,8 +969,6 @@
             "title":"A Fat Prince has to do What he has to do"
         },
         "11221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Orc Warrior Relic (Orc transformation)",
                 "Another Relic"
@@ -1040,8 +979,6 @@
             "title":"The Lost Temple of Seasons (random transformation)"
         },
         "112211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A male orc that was slightly smaller than Rilian",
                 "A huge female with rippling muscles and exactly Rilian's height. Rilian is riled"
@@ -1052,8 +989,6 @@
             "title":"From Lost and Fat Prince to Orc Barbarian"
         },
         "1122111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "An orc warrior enters Rilian's hut to inform him that griffins are attacking",
                 "Rilian decides to take a stroll in the village and to better know his subjects"
@@ -1064,8 +999,6 @@
             "title":"The Rise of Orc Warlord Draxus"
         },
         "11221112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Stops by the blacksmith to check out a few weapons",
                 "Stops by the armorer and tailor to get measured so he can have clothing made"
@@ -1076,8 +1009,6 @@
             "title":"First Responsibilities of a Great Orc Warlord"
         },
         "112211122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Massive amounts of food, party games, and entertainment",
                 "The biggest and toughest female orcs vying for his attention"
@@ -1088,8 +1019,6 @@
             "title":"Measurements for new armor"
         },
         "1122111221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The next morning Rilian goes on the hunt",
                 "One month later..."
@@ -1100,8 +1029,6 @@
             "title":"Partying like an Orc"
         },
         "11221112212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "However, the village is suddenly attacked by an army.",
                 "Rilian gathers all those who are able to fight to march out to war."
@@ -1112,8 +1039,6 @@
             "title":"One month later..."
         },
         "112211122122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "\"As soon as we head back to the village\"",
                 "\"Tomorrow. Tonight you'll be serving me at the feast\""
@@ -1124,8 +1049,6 @@
             "title":"Marching out to War!"
         },
         "112212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Rilian smashes the herculean deity relic",
                 "Rilian considers another relic"
@@ -1136,8 +1059,6 @@
             "title":"How about this?"
         },
         "1122121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He is greeted by a goddess",
                 "He is greeted by a god of war"
@@ -1148,8 +1069,6 @@
             "title":"Accension into Godhood"
         },
         "11221211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A celebration ensues",
                 "God training 101"
@@ -1160,8 +1079,6 @@
             "title":"He is greeted by a goddess"
         },
         "112212111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Carmen the goddess of Tryzantium",
                 "Hisocletes god of noble warriors and heroes"
@@ -1172,8 +1089,6 @@
             "title":"A celebration ensues"
         },
         "1122121111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He runs into a familiar presence",
                 "a god calls him over"
@@ -1184,8 +1099,6 @@
             "title":"Carmen the goddess of Tryzantium"
         },
         "11221211112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Rilian accepts the offer",
                 "Rilian declines the offer"
@@ -1196,8 +1109,6 @@
             "title":"Vestorok the God of Champions and Kings"
         },
         "1122122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Smash the Hulking deity relic",
                 "Chooses a different relic instead"
@@ -1208,8 +1119,6 @@
             "title":"How about this relic instead?"
         },
         "11221222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Smash the relic anyway",
                 "Rilian considers another relic"
@@ -1220,8 +1129,6 @@
             "title":"Chooses a different relic instead"
         },
         "112212221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "An imposing heavily muscled male Djinn.",
                 "A beautiful and alluring female Djinn."
@@ -1232,8 +1139,6 @@
             "title":"Smash the relic anyway"
         },
         "1122122211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They are attacked by Goblins",
                 "A witch dressed in green appears"
@@ -1244,8 +1149,6 @@
             "title":"An imposing heavily muscled male Djinn."
         },
         "11221222112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Rilian grants the wish and everyone makes it into the city without hassle",
                 "Rilian grants the wish, but a cloaking barrier blocks them from entering"
@@ -1256,8 +1159,6 @@
             "title":"Helena the witch of Doom"
         },
         "112212221121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "restored and teeming with life!",
                 "Restored, but there's not a living soul to be found..."
@@ -1328,8 +1229,6 @@
             "title":"Continue."
         },
         "11221222222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Smash the relic.",
                 "Choose another relic"
@@ -1340,8 +1239,6 @@
             "title":"Seek more possibilities."
         },
         "112212222221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Red Blorogon who's close to surpassing his father's weight",
                 "Rillian is a Blorogon of a different color"
@@ -1352,8 +1249,6 @@
             "title":"A change of life. A change of reality."
         },
         "1122122222211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A green Blorogon in a white dress. She is Selena Knewmar.",
                 "A green Blorogon in a rainbow dress. She is Kellyanna La'Bloomage"
@@ -1364,8 +1259,6 @@
             "title":"Red as fire. A mighty and passionate Blorogon."
         },
         "112212222222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Unusual Deity Relics",
                 "Anthropomorphic Relics"
@@ -1376,8 +1269,6 @@
             "title":"So many choices"
         },
         "1122122222221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "God",
                 "Goddess"
@@ -1388,8 +1279,6 @@
             "title":"Unusual Deity Relics"
         },
         "11221222222211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "That the relic had four arms, three heads, and horns!",
                 "Something else about the relic."
@@ -1400,8 +1289,6 @@
             "title":"God"
         },
         "112212222222112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "His skin and hair turns green, he gets hairier, fatter, and stronger",
                 "His skin turns red, he grows a tail, and becomes extremely obese"
@@ -1412,8 +1299,6 @@
             "title":"Something else about the relic."
         },
         "1122122222221121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Rilian accepts the offer",
                 "Rilian politely declines"
@@ -1424,8 +1309,6 @@
             "title":"Rilian God of Justice and Virtue"
         },
         "11222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "monstrous human",
                 "monster"
@@ -1436,8 +1319,6 @@
             "title":"From Man to Beast"
         },
         "112221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Existing ",
                 "Extinct",
@@ -1449,8 +1330,6 @@
             "title":"monstrous human"
         },
         "11223":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Three months later Emma comes to his rescue",
                 "Three months later Rilian begins falling in love with Luna"
@@ -1485,8 +1364,6 @@
             "title":"Prince."
         },
         "11311":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Edward receives the Aegis Wings blessing",
                 "Some other blessing",
@@ -1552,8 +1429,6 @@
             "title":"He embraces them as the gifts they are"
         },
         "113111123":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "...you will have to become a warrior for me.",
                 "...you must deliver this letter to your father."
@@ -1564,8 +1439,6 @@
             "title":"He prays for further guidance"
         },
         "1131111231":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "...Embark to the Dalian Training academy on the island of Dalia",
                 "... Train with Xora the Warrior Princess from Galema"
@@ -1589,8 +1462,6 @@
             "title":"\"... a Paladin must-\" her voice is cut off"
         },
         "1131113":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Fortunately, a male paladin with golden wings and a sword comes to his rescue",
                 "Fortunately, a woman enveloped by holy flames stops the fire and rescues Edward",
@@ -1602,8 +1473,6 @@
             "title":"\"... a Paladin must have a weapon.\""
         },
         "11311131":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "As Edward sleeps he has a vision of a maiden getting turned into stone",
                 "Edward has a nightmare where his father becomes a demon lord of chaos"
@@ -1627,8 +1496,6 @@
             "title":"Fortunately a tiefling untouched by flames resc..."
         },
         "11312":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Ivar had gained 700 lbs., grew forty years younger, and his personality changed",
                 "Ivar turns into some strange beast that Anders hasn't seen before"
@@ -1639,8 +1506,6 @@
             "title":"Prince Anders the Wild Child"
         },
         "113121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Janus takes Anders to play with his daughter, Fiona.",
                 "Janus has a long discussion with Anders about how dangerous magic potions can be"
@@ -1651,8 +1516,6 @@
             "title":"From Ivar the Bloody to Ivar the Massive"
         },
         "1131212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Janus turns Anders into a frog",
                 "Before Janus could cast a spell Ivar stops by to take Anders hunting"
@@ -1663,8 +1526,6 @@
             "title":"The dangers of potions"
         },
         "11312121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Six hours later, Anders is human again, but he is a test subject",
                 "After transforming back to normal Anders flings the Inverse potion onto Janus"
@@ -1675,8 +1536,6 @@
             "title":"Frog Prince"
         },
         "113121212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A girl his age. It's Fiona",
                 "A young man Emma's age. It's Issachar the buff battle wizard"
@@ -1699,8 +1558,6 @@
             "title":"Princess."
         },
         "11321":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Decides to get even and tells her mother where her father hides his lovers",
                 "Decides to runaway so she can find true love"
@@ -1762,8 +1619,6 @@
             "title":"\"Now I will make my father pay for everythi..."
         },
         "113212133":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Two weeks later Isabella breaks her oath with Roland upon meeting Roberto.",
                 "A month later Roland returns to marry Isabella."
@@ -1774,8 +1629,6 @@
             "title":"Twin Lickys"
         },
         "1132121331":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Isabella and the people start disappearing. Invisibility and intangibility curse",
                 "Isabella and all who are with her begin mutating"
@@ -1786,8 +1639,6 @@
             "title":"Never Break an Oath with a Warlock"
         },
         "11321213312":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Gather the people",
                 "Send a party to secure a magical well"
@@ -1798,8 +1649,6 @@
             "title":"Isabella and all who are with her begin mutating"
         },
         "11322":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Luna's werewolf huntsman",
                 "Princess Luna herself, who threatens to turn Emma into a bug"
@@ -1823,8 +1672,6 @@
             "title":"Luna's Transformative Threat"
         },
         "1132221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Emma looks up and sees a god. He looks familiar somehow.",
                 "Emma notices a goddess sitting next to her."
@@ -1835,8 +1682,6 @@
             "title":"Pray to the Gods"
         },
         "1132223":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Sets off a booby-trap",
                 "Meets another traveler"
@@ -1873,8 +1718,6 @@
             "title":"Emma's Growing Bustline"
         },
         "1132223111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The orcs laugh off the insult and offer Emma their services.",
                 "Orcs get mad. They shrink Emma down and imprison her."
@@ -1898,8 +1741,6 @@
             "title":"Emma, Shrunken and Imprisoned"
         },
         "113222311122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Barnabas treats Emma to a feast",
                 "Barnabas  and his orc travel with Emma in the dungeon"
@@ -1923,8 +1764,6 @@
             "title":"An Orcish Feast"
         },
         "11322231112213":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "In that spare tent over there.",
                 "With me in my tent."
@@ -1948,8 +1787,6 @@
             "title":"Staying with Barnabas"
         },
         "1132223111221323":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Baranabas's cousins report on finding someone who claims to be Prince Rillian",
                 "Fighting could be heard outside. Erolusian troops demand Emma to come with them"
@@ -1973,8 +1810,6 @@
             "title":"Battle in the Dungeon"
         },
         "113222311122132321":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She hears Rilian's voice",
                 "A myterious elf woman calls out to her"
@@ -1998,8 +1833,6 @@
             "title":"She hears Rilian's voice"
         },
         "11322231112213232113":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Emma and Barnabas are captured so Luna could use them to recapture Rilian",
                 "Bruskor the god of war intervenes and rescues Emma and Barnabas"
@@ -2036,8 +1869,6 @@
             "title":"Emma becomes the Leviathan"
         },
         "11322231112213232113211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A newly crowned Rilian storms the castle with Tryzantine troops",
                 "Emma is poofed away to Bruskor's temple where he meets her in human form"
@@ -2061,8 +1892,6 @@
             "title":"Emma on a Misson"
         },
         "113222311122132321132133":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Luna casts a xurse that removes Emma and Barnabas's blessings",
                 "Rilian who is now a god himself stops the warring sides."
@@ -2073,8 +1902,6 @@
             "title":"Luna Strikes"
         },
         "1132223111221323211321331":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Bruskor intervenes so he can claim Emma as his wife and to congratulate Luna",
                 "Rillian king of Tryzantium and the new god of Justice steps in"
@@ -2085,8 +1912,6 @@
             "title":"A Devestating curse"
         },
         "11322231112213232113213312":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The family's acension into godhood",
                 "A feast"
@@ -2264,8 +2089,6 @@
             "title":"Jerking Off the Mule"
         },
         "11322232":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Let's work together. I also have dealings with Luna.",
                 "It's best to keep an eye out for traps. That djinn must have a ton of them."
@@ -2276,8 +2099,6 @@
             "title":"Meets another traveler"
         },
         "113222321":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They meet a god who is plans on plundering the dungeon",
                 "A trap is triggered. A magical cheshire cat appears."
@@ -2288,8 +2109,6 @@
             "title":"Let's work together"
         },
         "1132223212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A strange wheel appears",
                 "She starts turning into a cat!"
@@ -2324,8 +2143,6 @@
             "title":"A strange duo."
         },
         "113222321212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Cat symbol",
                 "Random symbol"
@@ -2336,8 +2153,6 @@
             "title":"Emma spins the wheel"
         },
         "1132223212122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A dragoness",
                 "A Draconian"
@@ -2374,8 +2189,6 @@
             "title":"Other"
         },
         "1151":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "As Helena was preparing herself for a bath a guard reports that Isabella ran off",
                 "As Helena takes a stroll in the garden, she falls victim to Anders's prank",
@@ -2387,8 +2200,6 @@
             "title":"The Queen."
         },
         "11513":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "\"I can turn any mirror into a magic mirror. Works well for peeping.\"",
                 "\"I can make a potion that can remove lust from anyone who drinks it.\""
@@ -2399,8 +2210,6 @@
             "title":"The Wizardess of the Blue Order"
         },
         "1153":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Logan the Rotund",
                 "Olivia the Resolute",
@@ -2543,8 +2352,6 @@
             "title":"Waiting for you on the other side is a positive..."
         },
         "121121211211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You killed the orc",
                 "The Orc was still to strong",
@@ -2641,8 +2448,6 @@
             "title":"Though she's still limbless, her arms and l..."
         },
         "1211322":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A steong and powerful Orc",
                 "A small and defenseless rabbit"
@@ -2653,8 +2458,6 @@
             "title":"An Orc Talisman"
         },
         "12113221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A powerful sorceress",
                 "A group of orcs and begin falling into a drunk-like stupor"
@@ -2680,7 +2483,6 @@
         "121132222":{
             "author_id":"learngerman",
             "author_name":"LGV",
-            "choices":null,
             "content":"<div class=\"\"><div> <span>The combination of shock and lack of experience with your rabbit body means that you are unable to react in time. Her massive jaw, unhinged like a snake's, scoops you from the ground. Tilting her head back, the front half of your body slides into the sticky cave of her mouth. Big droplets of saliva sticks to your fur as gravity drags you deeper down, despite your protests.<br>\r\n<br>\r\nYour front left paw is sucked into her throat, and that is where your chances to escape truly come to an end. Her esophagus clamps down, squeezing and dragging you deeper in. It constricts you like a boa as you go lower, lower, lower before entering into her stomach with a disgusting plop. The chamber is a bit larger, but you can still barely move as acid floods into it<br>\r\n<br>\r\n\"Thanks for the meal, foolish human!\" she says as her body slowly begins its reformation. <br>\r\n<br>\r\nYou struggle, but do little than give the orc some stomach pains. Your consciousness soon fades as the digestive process takes hold and you are reduced to nothing but nutritious slop. You are not the first, nor certainly not the last, who have been transformed by the Orc into rabbits, but you are surely her favorite story to tell.<br>\r\n<br>\r\nIn the end what remains of you winds up as a bit of flabby flesh on your devourers upper thighs. <br>\r\n<br>\r\nYour journey has come to an end.</span></div></div>",
             "created":1536469200,
             "id":2545244,
@@ -2725,8 +2527,6 @@
             "title":"Gendo Ishida, Ninja warrior!"
         },
         "12133":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Khades Khan, Warlord of the Steppes",
                 "Caroline",
@@ -2753,8 +2553,6 @@
             "title":"Khades Khagan, Warlord of the Steppes"
         },
         "1213312":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "...to find yourself a wife from a noble family.",
                 "...to steal the legendary Holy Virgin artifact from Tryzantium's cathedral.",
@@ -2767,8 +2565,6 @@
             "title":"What is my fate?"
         },
         "121332":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Elven",
                 "Goblin",
@@ -2819,8 +2615,6 @@
             "title":"Orcish"
         },
         "1231":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Raid a Treasure cove",
                 "Travel to the kingdom of Vazaria to represent your tribe in a tournament",
@@ -3048,8 +2842,6 @@
             "title":"Other"
         },
         "1252":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Male",
                 "Female",
@@ -3061,8 +2853,6 @@
             "title":"a dragon"
         },
         "12521":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You were treasure hunting",
                 "Searching for more food to fill your lair's reserves"
@@ -3073,8 +2863,6 @@
             "title":"Male"
         },
         "1253":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Demigod",
                 "Goblin",
@@ -3086,8 +2874,6 @@
             "title":"Who are you?"
         },
         "12531":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Male",
                 "Female"
@@ -3098,8 +2884,6 @@
             "title":"Demigod"
         },
         "125311":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "I am a member of the Royally divine. I'm traveling with my family at the moment",
                 "Just a simple warrior who loves adventuring.",
@@ -3111,8 +2895,6 @@
             "title":"Male"
         },
         "1253112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A hefty regal looking man running from the royal guards",
                 "A bulletin for a tournament. This sounds fun.",
@@ -3124,8 +2906,6 @@
             "title":"Demigod Warrior"
         },
         "12531121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Rilian falls in love with a muscular Bishanite woman",
                 "Rilian falls in love with a fat Bishanite woman",
@@ -3137,8 +2917,6 @@
             "title":"Rilian the Lost and Hefty"
         },
         "125311212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Tell Rilian that if he feels the same within a week then it is true love",
                 "Warn him about Princess Luna and her army",
@@ -3165,8 +2943,6 @@
             "title":"You are a lowborn, a commoner"
         },
         "132":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Killian Skar! You picked the wrong orc to mess with!\"",
                 "Numora Aldanason! You do know I'm a dark elf, right?\"",
@@ -3178,8 +2954,6 @@
             "title":"A slave trader"
         },
         "1323":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "\"...put you to work on the cathedral.\"",
                 "\"...turn you into a holy army to smite the false gods.\"",
@@ -3230,8 +3004,6 @@
             "title":"Oswyn mourns his lack of hunting prowess"
         },
         "134":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Thief",
                 "Dancer",
@@ -3243,8 +3015,6 @@
             "title":"What is your career?"
         },
         "1341":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Tryzantium. You are going to seduce King Ivar with your feminine wiles",
                 "Ordainia. A syrapping man like yourself can easily con these people.",
@@ -3269,8 +3039,6 @@
             "title":"An ancient city full of treasures. This should ..."
         },
         "134131":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Are prevented from entering Isamethrane, Apparently they don't you in Harah.",
                 "You get a room at the tavern and plot how you'll loot Harah w/o no one noticing"
@@ -3281,8 +3049,6 @@
             "title":"Sunken City of Harah, Graveyard of the Gods"
         },
         "1341311":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Sacrifice!",
                 "Vessel for reincarnation!",
@@ -3294,8 +3060,6 @@
             "title":"Royal tribute in Harah. No Peasants allowed yet"
         },
         "13413112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The reincarnation succeeds. You are now Tyr.",
                 "The reincarnation fails and you die"
@@ -3306,8 +3070,6 @@
             "title":"Vessel for reincarnation!"
         },
         "134131121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Are confronted by a goddess. She overheard you and swears to protect the Tyrians",
                 "Rob the place clean. You could get used to this.",
@@ -3319,8 +3081,6 @@
             "title":"You are now Tyr"
         },
         "1341311211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "As you were looting the palace you come across a genie's lamp?",
                 "You spot a strange book while plundering the palace",
@@ -3332,8 +3092,6 @@
             "title":"Fabijynxa Goddess of the Unfortunate"
         },
         "13413112113":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "For your land to start paying me tribute",
                 "This gold. A god has to have funds now to gather new followers now."
@@ -3344,8 +3102,6 @@
             "title":"Spotting a Tryzantine Princess"
         },
         "1343":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Mercenary",
                 "Berserker",
@@ -3504,8 +3260,6 @@
             "title":"Go along with it, not having any better idea."
         },
         "1353":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "\"...you can become my disciple. I have been looking for one recently!\"",
                 "\"...you can become my maid. I need someone to take care of me.\"",
@@ -3596,8 +3350,6 @@
             "title":"A thaumaturge"
         },
         "142":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Druid",
                 "Elementalist",
@@ -3686,8 +3438,6 @@
             "title":"Strip off the first suit - you fight better as ..."
         },
         "143112122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "\"...are you sure you should stay in this... form... for this long?\"",
                 "\"...I have a bad piece of news for you.\"",
@@ -3712,8 +3462,6 @@
             "title":"\"...I have a good piece of news for you.\""
         },
         "14311212233":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "...a liquid pooling in between your thighs.",
                 "...that Kaleb is sleeping in the bed with you."
@@ -3737,8 +3485,6 @@
             "title":"...a liquid pooling in between your thighs."
         },
         "1431121223311":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "...of the Archmother and the King.",
                 "...of General Volkov and someone familiar."
@@ -3749,8 +3495,6 @@
             "title":"He takes you to the cathedral for urgent cleric..."
         },
         "1431121223313":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "\"...Boss... I... I cannot stand to lose you...\"",
                 "\"...I'm sorry... I've been working for them this entire time...\""
@@ -3802,8 +3546,6 @@
             "title":"It is an illegal skin"
         },
         "1433":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "...The Black Order.",
                 "...The  Dreadfully and Totally Not Evil Imperium.",
@@ -3815,8 +3557,6 @@
             "title":"One of the others"
         },
         "15":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Villain",
                 "Antihero",
@@ -3830,8 +3570,6 @@
             "title":"A monster, a villain, a half-breed"
         },
         "151":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Corrupt Monarch",
                 "Part of a secret cult",
@@ -3843,8 +3581,6 @@
             "title":"Villain"
         },
         "1511":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Princess Luna the Insane",
                 "Roland Cloverton",
@@ -3856,8 +3592,6 @@
             "title":"Corrupt Monarch"
         },
         "15111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "\"Provide me a champion! Pick your best man. He shall become your new god!\"",
                 "\"I require a hundred concubines! You have 2 days so get moving!\""
@@ -3868,8 +3602,6 @@
             "title":"Princess Luna the Insane"
         },
         "151111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The council barely gets anything done, as usual.",
                 "The council comes up with a brilliant idea,"
@@ -3880,8 +3612,6 @@
             "title":"Excallius's Demands a Champion"
         },
         "15112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A swordsman from Ordainia",
                 "A lovely lady who's village was starving a year ago"
@@ -3892,8 +3622,6 @@
             "title":"Roland Cloverton"
         },
         "152":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A member of the Royal Ordanian Court",
                 "A God or Goddess of War",
@@ -3905,8 +3633,6 @@
             "title":"Antihero"
         },
         "1521":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The king or queen",
                 "One of the princes or princesses",
@@ -3918,8 +3644,6 @@
             "title":"A member of the Royal Ordanian Court"
         },
         "15212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Jillian the Wanderer",
                 "One of the other princesses",
@@ -3931,8 +3655,6 @@
             "title":"One of the princes or princesses"
         },
         "1522":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "War God",
                 "War Goddess"
@@ -3943,8 +3665,6 @@
             "title":"A God or Goddess of War"
         },
         "15221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You are summoned to meeting of the Gods",
                 "You sense someone praying to you. Might as well go to them.",
@@ -3956,8 +3676,6 @@
             "title":"The Mighty God of War Bruskor"
         },
         "152212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You dunk Rillian into the pool and witness his transformation",
                 "Rillian bathes in the pool and emerges with new armor and weapons"
@@ -3968,8 +3686,6 @@
             "title":"Meeting your worshipper"
         },
         "1522121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "To your surprise and his Rillian is fatter, stronger and blue",
                 "Rilian emerges from the pool looking buffer and with two extra arms"
@@ -3980,8 +3696,6 @@
             "title":"Rillian's transformation"
         },
         "1523":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Undead Warrior",
                 "Possesed Archer",
@@ -3993,8 +3707,6 @@
             "title":"More options"
         },
         "15231":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Perhaps, a wizard called me back?",
                 "Maybe I have unfinished business?",
@@ -4006,8 +3718,6 @@
             "title":"Undead Warrior"
         },
         "152311":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Open it!",
                 "Open it, carefully.",
@@ -4019,8 +3729,6 @@
             "title":"Perhaps, a wizard called me back?"
         },
         "1523111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Head out through the front door.",
                 "That north wall has a patch of newly laid brick in it. Hmm...",
@@ -4032,8 +3740,6 @@
             "title":"Open it!"
         },
         "153":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Half-orc",
                 "Draconian",
@@ -4045,8 +3751,6 @@
             "title":"Halfbreed"
         },
         "154":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You are a very obese male djinn who just wants to have fun",
                 "You a cruel female djinn who wamts to reshape the world as she sees fit",
@@ -4058,8 +3762,6 @@
             "title":"Djinn"
         },
         "1541":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A lustful princess named Isabella",
                 "A slender Prince named Edward",
@@ -4120,8 +3822,6 @@
             "title":"Rilian's fattening wish"
         },
         "15421111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Rillian is on his feet and completely mobile! Curse gods and their blessings!",
                 "Rillian realizes that his butt is stuck in the doorway and wishes himself free."
@@ -4132,8 +3832,6 @@
             "title":"10,000 lbs. of man"
         },
         "154211111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "his palace",
                 "Bishan"
@@ -4180,8 +3878,6 @@
             "title":"Emma Unintentionally Devoured"
         },
         "154211112211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "will seal your lamp away so that no one can make another wish.",
                 "have Janus put an enchanted crystal onto your lamp that will make you comply."
@@ -4192,8 +3888,6 @@
             "title":"Rilian's Suspicions"
         },
         "1542111122111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Ask how he's alive and how he grew so big.",
                 "Ask who you are. They are intrigued by your presence"
@@ -4204,8 +3898,6 @@
             "title":"He calls that a threat? Been there done that."
         },
         "15421111221112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Give her Moon Flower perfume. Watch the craziness unfold.",
                 "Give the soap that will turn her into a plant."
@@ -4228,8 +3920,6 @@
             "title":"Emma and the Moon Flower Perfume"
         },
         "1542111122111211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Edward comes into Emma's room with the intent of turning her into a sacrifice",
                 "Isabella comes in and decides to turn Emma into a dog",
@@ -4253,8 +3943,6 @@
             "title":"Isabella and the Lost Puppy"
         },
         "154211112211121121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Kisses Robin",
                 "Tries to convince Robin that her new perfume is causing him to act strange",
@@ -4266,8 +3954,6 @@
             "title":"Emma wins, but at a price"
         },
         "1542111122111211212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Rillian asks you what the heck happened",
                 "Mischievous Prince Anders decides to make a wish",
@@ -4279,8 +3965,6 @@
             "title":"Conversation fail"
         },
         "15421111221112112121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Prince Edward humbly asks Rilian to borrow your services.",
                 "A fully restored Isabella guilts Rilian into letting her make a wish",
@@ -4292,8 +3976,6 @@
             "title":"Rillian asks you what the heck happened"
         },
         "15421111221112112122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A potion that will turn anyone into any monster the moment they get angry",
                 "That old man, Janus, to disappear.",
@@ -4318,8 +4000,6 @@
             "title":"Voreacious Rilian"
         },
         "15421111221112121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "For the perfume to wear off",
                 "For something to cancel out the perfume's effects",
@@ -4344,8 +4024,6 @@
             "title":"Emma Cleaned"
         },
         "1542111122111212111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Rilian makes it to Janus without any mishap",
                 "Anders starts pelting Rilian with stones and demands a wish",
@@ -4357,8 +4035,6 @@
             "title":"Emma returns with the reversal potion"
         },
         "15421111221112121113":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "I wish for my father to recieve Divine Punishment",
                 "I wish to attend Saint Mc'Clair's academy so I may become a Paladin",
@@ -4370,8 +4046,6 @@
             "title":"Edward politely asks Rilian to make a wish"
         },
         "154211112211121211131":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Have Princess Luna take over Tryzantium",
                 "Have the gods torture Ivar. Not that would be fun to watch",
@@ -4422,8 +4096,6 @@
             "title":"You stay to watch the king's remolding process"
         },
         "1542111122111212111313221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "\"CAN HAVE MY REVENGE ON MY FAMILY!\"",
                 "\"CAN HAVE THE ULTIMATE POWER TO CRUSH ENEMIES!\"",
@@ -4435,8 +4107,6 @@
             "title":"You hear the king screaming a wish"
         },
         "15421111221112121113132213":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "God or goddess, but weaker than other gods",
                 "A True Dragon and watch all the chaos unfold as hunters hunt him down.",
@@ -4448,8 +4118,6 @@
             "title":"Be careful what you wish for Ivar."
         },
         "1542111122111212111313222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You leave as a few guards and the priestess put Ivar into the stocks",
                 "You give him to his peasants",
@@ -4474,8 +4142,6 @@
             "title":"You give him to his peasants"
         },
         "154211112211121211131322222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Edward who blames you for the corruption within the church",
                 "Isabella who complains to you about her recent bad luck in finding a suitor",
@@ -4487,8 +4153,6 @@
             "title":"A new era of male oppression and corruption"
         },
         "154211112211121211131323":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Continue with Rilian's inauguration",
                 "Back to you as you brand Ivar"
@@ -4499,8 +4163,6 @@
             "title":"All Hail King Rilian!"
         },
         "1542111122111212111313231":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Edward who has another wish",
                 "Rilian who's too busy to use your services",
@@ -4525,8 +4187,6 @@
             "title":"Ivar Becomes His Own Cock"
         },
         "1542111122111212112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Isabella prevails and wishes that Emma and Edward were cats",
                 "Emma prevails and uses the potion on Rilian",
@@ -4538,8 +4198,6 @@
             "title":"Isabella who is desperate for a new pet"
         },
         "154211112211121212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Necklace of Animosity",
                 "Insanity Powder",
@@ -4551,8 +4209,6 @@
             "title":"Something to cancel out the Perfume's Effects"
         },
         "15421111222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Tells you of her plans to create an empire",
                 "places a mystical jewel onto your lamp that prevents you from betraying her"
@@ -4599,8 +4255,6 @@
             "title":"No, getting warmer though..."
         },
         "15422222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She wishes to marry the man of her dreams",
                 "She wishes to go on an adventure to find her soulmate",

@@ -1028,8 +1028,6 @@
             "title":"Encounter"
         },
         "15":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She grows to monumental proportions.",
                 "She shrinks"
@@ -1040,8 +1038,6 @@
             "title":"Tiki"
         },
         "151":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She finds marth",
                 "She decides to wreck the nearby village"
@@ -1052,8 +1048,6 @@
             "title":"She grows to monumental proportions."
         },
         "1511":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Torture Marth",
                 "Eat marth",
@@ -1065,8 +1059,6 @@
             "title":"She finds marth"
         },
         "15111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Ear",
                 "Mouth"
@@ -1077,8 +1069,6 @@
             "title":"Torture Marth"
         },
         "151111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Marth tries to get out",
                 "He gives up."
@@ -1089,8 +1079,6 @@
             "title":"Ear"
         },
         "1511111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He is dead",
                 "Someone tries to rescue Marth."

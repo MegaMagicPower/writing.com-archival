@@ -126,8 +126,6 @@
             "title":"The next day"
         },
         "1122211122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "At the Clothes Store",
                 "At the Burger Place."
@@ -186,8 +184,6 @@
             "title":"Jump to next summer"
         },
         "12":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "His mom",
                 "His brother",
@@ -314,7 +310,6 @@
         "132":{
             "author_id":"ggggg12345450",
             "author_name":"Ggggg",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Very nice i like it. </span></div></span></div>",
             "created":1566277200,
             "id":2705340,
@@ -371,8 +366,6 @@
             "title":"He eats both bowls"
         },
         "14":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "you have to go on a diet",
                 "okay i'll put you on a diet that makes you gain weight"
@@ -887,8 +880,6 @@
             "title":"More choices"
         },
         "1551":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "continue"
             ],

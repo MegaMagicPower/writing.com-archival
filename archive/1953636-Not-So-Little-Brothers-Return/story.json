@@ -332,8 +332,6 @@
             "title":"Gigantic Mike"
         },
         "114111211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Its just a News Helicopter and they have no idea whats going on!",
                 "Its the Military! And it doesn't look like they're happy!"
@@ -344,8 +342,6 @@
             "title":"Mike becomes corrupted with power(who cares abo..."
         },
         "1141112112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The bullets have no effect! At least not in a damaging way....",
                 "Mike shrugs off the first few, but they begin to hurt. He needs a way to heal!"
@@ -356,8 +352,6 @@
             "title":"Its the Military! And it doesn't look like ..."
         },
         "11411121121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "In the parking lot of the grocery store, still trapped under Mike's waistband.",
                 "In a mysterious room sitting across from a dangerous looking man."
@@ -368,8 +362,6 @@
             "title":"The bullets have no effect! At least not in a d..."
         },
         "114111211211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Mike wants to head straight for the source and heads towards a power plant!",
                 "Mike wants to mess with the city now and he barrels towards downtown!"
@@ -954,7 +946,6 @@
         "135":{
             "author_id":"citywalker",
             "author_name":"citywalker",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>If you see this that means Choice 4 of the previous chapter still needs to be filled. Go back there and fill that, and then I'll delete this temporary chapter and re-open this choice.</span></div></span></div>",
             "created":1379566800,
             "id":1665444,

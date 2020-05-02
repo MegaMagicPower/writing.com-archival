@@ -93,8 +93,6 @@
             "title":"Perfect Opportunities"
         },
         "11123":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "To his home (not Lucy's)",
                 "other"
@@ -141,8 +139,6 @@
             "title":"Happy?"
         },
         "111232":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "yes",
                 "no"
@@ -239,7 +235,6 @@
         "11123211122111":{
             "author_id":"redhed",
             "author_name":"Redhed",
-            "choices":null,
             "content":"<div class=\"\"><div> <span><i>Lucy ! Come on wake up ! We got an waful lot of thing to do today !</i><br>\r\n<br>\r\nSombeody was tapping quite roughly on her head. Lucy slightly opened her eyes and saw a bluffing face just a few inch from hers . Weird pink hairs popped out his head and his squared scarf was rubbin her chest. <i>Natsu ...</i><br>\r\nLucy turned herself on one side and tried to cover her face with a pillow, only to see a blue cat, scarfed too, sitting on the pillow itself and pointing her with some kind of fish .<br>\r\n<br>\r\n<i>Wake up sleepyhead ! We got some work today !</i><br>\r\n<i>Ok ok , i get it. I'm getting up you see ?</i><br>\r\nRubbing her eyes and yawning, Lucy slowly got up from her bed, which now was a complete mess thanks to Natsu , who was now discarding all her magazines form their shelf, while Happy was eating his raw fish on her sofa.<br>\r\n<i>How can you read such garbage Lucy ?</i> pointed out Natsu still throwing her precious <i>Sorcerer's</i> on the ground . <i>Isn't a fish beter than them ? </i> added Happy .<br>\r\nAfter taking a long breath to control her anger, Lucy catched the two of them by their scarfs and kicked them out her house.<br>\r\n<i>They are not garbage, you animal . And kep you fish for yourself Happy</i>. Then she added, after shutting the door close <i>I shall be ready in 5 minutes, wait form me on the sidewalk </i>. While the two comrades got back to the street mumbling about how weird Lucy was and so on, Lucy herself got ready quickly. She dressed in her usual outfit , but kowing that their mission would have taken them to the beach, she wore a two pieces bikini under her clothes. She packed some changings inside her bag, grabbed her Spirit Keys, switched off the lights and reached her teammates. She was greeted by Gray, Elsa, Mirajane, Elfman and Juvia, who formed with herself, Natsu and Happy the today-killing-demons team .<br>\r\nElsa immediately scolded Natsu for having burst int Lucy flat without being allowed to , and when he answered her back , she began chasing a running Natsu , followed by the laughter of eveyone. </span></div></div>",
             "created":1320123600,
             "id":1216458,
@@ -282,6 +277,18 @@
             "id":765225,
             "title":"Get your head together Titania"
         },
+        "11222":{
+            "author_id":"secretgoat",
+            "author_name":"Ralsei",
+            "choices":[
+                "Yes with one of the guild members ",
+                "No he\u2019s passed out naked on the floor "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Natsu started drinking and he drank his normal amount but that was too much for erza\u2019s body and he\u2019s now drunk. He started making bets and stripping and let men grope him. Does he get laid?</span></div></span></div>",
+            "created":1588222800,
+            "id":2827413,
+            "title":"Natsu is a party girl"
+        },
         "114":{
             "author_id":"mid-knight",
             "author_name":"Divine Bandit",
@@ -296,8 +303,6 @@
             "title":"Natsu & Wendy"
         },
         "1141":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They arrive at their mission",
                 "Carla suspects something about Wendy",
@@ -309,8 +314,6 @@
             "title":"Natsu takes advantage of the situation"
         },
         "11411":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They arrive",
                 "They are attacked"
@@ -321,8 +324,6 @@
             "title":"They arrive at their mission"
         },
         "114112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They go after their attackers afterwards",
                 "They investigate the train"
@@ -333,8 +334,6 @@
             "title":"They are attacked"
         },
         "1141122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Tell Carla the truth",
                 "Continue masquerading as Wendy"
@@ -345,8 +344,6 @@
             "title":"They investigate the train"
         },
         "11411221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She believes him",
                 "She doesn't believe him"
@@ -357,8 +354,6 @@
             "title":"Tell Carla the truth"
         },
         "114112211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They find their attackers",
                 "Someone is following them"
@@ -369,8 +364,6 @@
             "title":"She believes him"
         },
         "1141122112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Someone from Fairy Tail",
                 "Someone from their attackers"
@@ -381,8 +374,6 @@
             "title":"Someone is following them"
         },
         "11411221121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Wendy (In Natsu's Body)",
                 "Erza"
@@ -393,8 +384,6 @@
             "title":"Someone from Fairy Tail"
         },
         "11411221122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The one that shot Carla",
                 "The one that almost killed Natsu/Wendy"
@@ -405,8 +394,6 @@
             "title":"Someone from their attackers"
         },
         "11412":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Carla confront Natsu/Wendy",
                 "Natsu/Wendy has to pee"
@@ -417,8 +404,6 @@
             "title":"Carla suspects something about Wendy"
         },
         "11413":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Someone follows them",
                 "Something happens to Natsu"
@@ -429,8 +414,6 @@
             "title":"Something else"
         },
         "114131":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Wendy (In Natsu's Body)",
                 "Someone Else"
@@ -465,8 +448,6 @@
             "title":"Is it Romeo?"
         },
         "11413121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You can come with us ",
                 "You can't come with us "
@@ -477,8 +458,6 @@
             "title":"Yes"
         },
         "114131211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Romeo tries to get closer to Natsu/Wendy",
                 "They arrive at their destination "
@@ -513,8 +492,6 @@
             "title":"Why?"
         },
         "114131211111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Romeo tries to talk to Natsu/Wendy again ",
                 "They all fall asleep "
@@ -536,9 +513,19 @@
             "id":2827298,
             "title":"Romeo tries to talk to Natsu/Wendy again "
         },
+        "11413121111111":{
+            "author_id":"bw23016",
+            "author_name":"Brandon Williams",
+            "choices":[
+                "Because he/she is getting use to the body",
+                "He always has"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Why has Natsu/Wendy feel for Romeo</span></div></span></div>",
+            "created":1588222800,
+            "id":2827859,
+            "title":"Accepts it because, he he she has fallen for Ro..."
+        },
         "1141312111112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Natsu/Wendy wakes up to pee ",
                 "A wild Vulcan finds them "
@@ -549,8 +536,6 @@
             "title":"They all fall asleep "
         },
         "11413121111121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Romeo wakes up",
                 "Carla wakes up "
@@ -561,8 +546,6 @@
             "title":"Natsu/Wendy wakes up to pee "
         },
         "114131211111211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Tell Romeo the truth ",
                 "Apologize and go outside "
@@ -585,8 +568,6 @@
             "title":"Bandits?"
         },
         "1141312111121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Fairy Tail wins",
                 "Serpent Swarm wins "
@@ -609,8 +590,6 @@
             "title":"Did I say I wanted a clich\u00e9?"
         },
         "11413121111221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They are on a deserted island ",
                 "They are in a large forest "
@@ -633,8 +612,6 @@
             "title":"What kind of island?"
         },
         "1141312111122111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Romeo wakes up",
                 "The abductor comes out of nowhere "
@@ -645,8 +622,6 @@
             "title":"Same old same old"
         },
         "11413121111221111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Natsu/Wendy trips and falls on Romeo's face  ",
                 "Carla wakes up and attacks Romeo "
@@ -669,8 +644,6 @@
             "title":"The abductor"
         },
         "114131211112211121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Build shelter ",
                 "Find food "
@@ -681,8 +654,6 @@
             "title":"Honest (Tell him/her it's for entertainment)"
         },
         "1141312111122111211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They finish the shelter",
                 "Romeo tries to find Natsu/Wendy "
@@ -717,8 +688,6 @@
             "title":"Other"
         },
         "1141312111122111211221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Back to the island",
                 "Follow Wendy/Natsu "
@@ -729,8 +698,6 @@
             "title":"Meanwhile in the Fairy Tail Guild Hall "
         },
         "11413121111221112112211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Romeo tries his luck again",
                 "The masked man appears "
@@ -741,8 +708,6 @@
             "title":"Back to the island"
         },
         "114131211112211121122112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Romeo tries to sleep next to \"Wendy\"",
                 "Natsu/Wendy wakes up"
@@ -765,8 +730,6 @@
             "title":"Decisions to make"
         },
         "11413121111221112112211211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Romeo watches \"Wendy\" sleep",
                 "The next morning "
@@ -789,8 +752,6 @@
             "title":"How to stalk...er...try to confess to your crush"
         },
         "1141312111122111211221121111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Natsu/Wendy hugs him thinking its a dream ",
                 "Natsu/Wendy goes back to sleep "
@@ -801,8 +762,6 @@
             "title":"Natsu/Wendy wakes up"
         },
         "11413121111221112112211211111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Carla attacks Romeo ",
                 "Romeo tries to tell \"Wendy\" again"
@@ -813,8 +772,6 @@
             "title":"Natsu/Wendy hugs him thinking its a dream "
         },
         "114131211112211121122112111112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Romeo tells Natsu/Wendy",
                 "Carla interrupts "
@@ -837,8 +794,6 @@
             "title":"Romeo liiiikes her"
         },
         "11413121111221112112211211111211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Tell Romeo the truth ",
                 "Pass out in shock"
@@ -861,8 +816,6 @@
             "title":"Which truth?"
         },
         "114131211112211121122112111112112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Romeo is watching him/her (not a dream)",
                 "Carla nudges him/her awake (just a dream)"
@@ -873,8 +826,6 @@
             "title":"Pass out in shock"
         },
         "1141312111122111211221121111121121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Natsu/Wendy tells him the truth",
                 "The masked man appears with the next challenge "
@@ -921,8 +872,6 @@
             "title":"So many choices"
         },
         "11413121111221112112211211111211212121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Romeo wins ",
                 "Romeo loses "
@@ -933,8 +882,6 @@
             "title":"Romeo"
         },
         "114131211112211121122112111112112121211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Natsu/Wendy",
                 "Carla "
@@ -945,8 +892,6 @@
             "title":"Romeo wins "
         },
         "1141312111122111211221121111121121212112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Follow Natsu/Wendy",
                 "Go to the end and see the scores "
@@ -957,8 +902,6 @@
             "title":"Carla "
         },
         "11413121111221112112211211111211212121122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "We'll have a vote tonight ",
                 "We'll have a three-way tournament "
@@ -969,8 +912,6 @@
             "title":"Go to the end and see the scores "
         },
         "114131211112211121122112111112112121211221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Romeo tries to spend time with Natsu/Wendy",
                 "Skip to the voting ceremony "
@@ -1005,8 +946,6 @@
             "title":"Other"
         },
         "114131211112211121122112111112112121211221121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Natsu/Wendy tells Romeo ",
                 "Natsu/Wendy lies to Romeo"
@@ -1029,8 +968,6 @@
             "title":"What kind of lie?"
         },
         "11413121111221112112211211111211212121122112121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Chelia (Wendy's friend from the GMG)",
                 "Fairy Tail "
@@ -1053,8 +990,6 @@
             "title":"Fairy Tail "
         },
         "1141312111122111211221121111121121212112211212121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Carla tries to convince Natsu/Wendy to vote off Romeo",
                 "See the Fairy tail guild "
@@ -1113,8 +1048,6 @@
             "title":"Reaction?"
         },
         "11413121111221112112211211111211212121122112122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Yes",
                 "No "
@@ -1137,8 +1070,6 @@
             "title":"What's love?"
         },
         "1141312111122111211221121111121121212112211212221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The voting ceremony",
                 "See how Fairy Tail is reacting "
@@ -1149,8 +1080,6 @@
             "title":"What is this \"love\"?"
         },
         "11413121111221112112211211111211212121122112122211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Carla (plan works) ",
                 "Romeo (plan fails) "
@@ -1185,8 +1114,6 @@
             "title":"Mixed reactions"
         },
         "1141312111122111211221121111121121212112211212221211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Back to the island",
                 "See Wendy/Natsu "
@@ -1197,8 +1124,6 @@
             "title":"Stay with the guild"
         },
         "114131211112211121122112111112112121211221121222122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She/he sees the masked man from the show",
                 "She/he finds the coin again "
@@ -1245,8 +1170,6 @@
             "title":"Romeo: \"Where's my body?\""
         },
         "1141312111122111211221121111121121212112211212221222121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They both freak out",
                 "They both try to act like the other one"
@@ -1269,8 +1192,6 @@
             "title":"Time out (really)"
         },
         "114131211112211121122112111112112121211221121222122212111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Stay on the island",
                 "Follow Romeo/Natsu "
@@ -1281,8 +1202,6 @@
             "title":"Choice 1"
         },
         "1141312111122111211221121111121121212112211212221222121111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Natsu/Wendy explains everything",
                 "See Romeo/Natsu"
@@ -1365,8 +1284,6 @@
             "title":"Choose"
         },
         "1141312111122111211221121111121121222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Natsu/Wendy wins",
                 "Natsu/Wendy loses "
@@ -1389,8 +1306,6 @@
             "title":"Calm down."
         },
         "114131211112221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Wendy/Natsu wants her body back ",
                 "Wendy/Natsu decides to play along "
@@ -1485,8 +1400,6 @@
             "title":"No romance, got it."
         },
         "11413121111222122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Romeo heats them all up",
                 "Their client arrives and brings them to an inn "
@@ -1497,8 +1410,6 @@
             "title":"Back to Natsu/Wendy and co."
         },
         "114131211112221221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Romeo tries to ask Natsu/Wendy out again ",
                 "Their client arrives "
@@ -1773,8 +1684,6 @@
             "title":"Carla?"
         },
         "1141312111221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go with Carla ",
                 "Tell Carla to go by herself "
@@ -1785,8 +1694,6 @@
             "title":"Yes."
         },
         "1141312111222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Natsu/Wendy needs the bathroom ",
                 "Something else "
@@ -1809,8 +1716,6 @@
             "title":"Something else "
         },
         "114131211122221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Wendy/Natsu wants to join them ",
                 "Wendy/Natsu wants payback "
@@ -1857,8 +1762,6 @@
             "title":"Erza?"
         },
         "114131221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Carla cleans Wendy up in a nearby bathroom ",
                 "Switch to Wendy/Natsu "
@@ -1869,8 +1772,6 @@
             "title":"Yes. (Natsu/Wendy pisses him/herself)"
         },
         "1141312211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She finishes and they leave for their mission",
                 "A female guild member comes in"
@@ -1893,8 +1794,6 @@
             "title":"Who is it?"
         },
         "114131221121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She notices Natsu/Wendy",
                 "She wets herself "
@@ -1917,8 +1816,6 @@
             "title":"Drip...drip...drip..."
         },
         "1141312211221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Juvia needs to use the toilet ",
                 "More girls come in "
@@ -1941,8 +1838,6 @@
             "title":"Who else?"
         },
         "114131221122121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Lucy pees herself ",
                 "Lucy accepts Juvia's challenge "
@@ -1965,8 +1860,6 @@
             "title":"Lucy accepts Juvia's challenge...kinda"
         },
         "11413122112212121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They go to their mission",
                 "They go to the train "
@@ -1977,8 +1870,6 @@
             "title":"Lucy notices them"
         },
         "11413122112212122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Let Lucy in and leave",
                 "Stay and playfully torture her "
@@ -2001,8 +1892,6 @@
             "title":"The bookworm?"
         },
         "1141312211221221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Carla tells Natsu/Wendy they have to leave ",
                 "Levy and Juvia need to pee  "
@@ -2025,8 +1914,6 @@
             "title":"Whatever you want, Gajeel"
         },
         "11413122112212221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "See Cana/Gajeel ",
                 "Gajeel/Cana goes to the guild "
@@ -2073,8 +1960,6 @@
             "title":"How about anybody else?"
         },
         "114131221122122212221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Lucy",
                 "Erza "
@@ -2097,8 +1982,6 @@
             "title":"Erza?"
         },
         "11413122112212221222121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "An S-Class quest to go on together ",
                 "Challenge Gajeel/Cana to a beer drinking contest"
@@ -2109,8 +1992,6 @@
             "title":"Erza"
         },
         "114131221122122212221211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Switch to Cana/Gajeel ",
                 "Stay with Gajeel/Cana "
@@ -2121,8 +2002,6 @@
             "title":"An S-Class quest to go on together "
         },
         "1141312211221222122212112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They start to feel sleepy ",
                 "They finish the tea "
@@ -2157,8 +2036,6 @@
             "title":"Another way out."
         },
         "11413122112212221222121221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The two formulate a plan ",
                 "The two begin to argue "
@@ -2181,8 +2058,6 @@
             "title":"Thinking...thinking...You have an idea?"
         },
         "1141312211221222122212122111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Follow the swapped Dragon Slayers",
                 "Follow the ones they swapped with "
@@ -2229,8 +2104,6 @@
             "title":"Where's my body?"
         },
         "11413122112212221222121221111222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Yes",
                 "No"
@@ -2253,8 +2126,6 @@
             "title":"Which one?"
         },
         "1141312211221222122212122111122212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The bath house ",
                 "Fairy Hills "
@@ -2265,8 +2136,6 @@
             "title":"Levy"
         },
         "11413122112212221222121221111222121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They see Levy",
                 "They see Laxus (wrong bath) "
@@ -2277,8 +2146,6 @@
             "title":"The bath house "
         },
         "114131221122122212221212211112221211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Gajeel/Cana washes Levy's back",
                 "Gajeel/Cana agrees with Natsu/Wendy "
@@ -2313,8 +2180,6 @@
             "title":"Laxus"
         },
         "11413122112212221222121221111222121221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They go to the girl's bath",
                 "They accidentally walk outside naked "
@@ -2325,8 +2190,6 @@
             "title":"Make the pervert apologize!"
         },
         "114131221122122212221212211112221212212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They get dressed and leave ",
                 "They continue trying to find the girl's bath "
@@ -2349,8 +2212,6 @@
             "title":"Time to go"
         },
         "11413122112212221222121221111222121221211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They wake up normal ",
                 "They wake up still as Cana and Wendy "
@@ -2361,8 +2222,6 @@
             "title":"See Master Makarov"
         },
         "114131221122122212221212211112221212212112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "I need to pee ",
                 "I need to shower "
@@ -2373,8 +2232,6 @@
             "title":"They wake up still as Cana and Wendy "
         },
         "1141312211221222122212122111122212122121121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They make their way to the Fairy Hills' bathroom ",
                 "Someone stops them on the way "
@@ -2385,8 +2242,6 @@
             "title":"I need to pee "
         },
         "11413122112212221222121221111222121221211212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Erza",
                 "Juvia "
@@ -2397,8 +2252,6 @@
             "title":"Someone stops them on the way "
         },
         "114131221122122212221212211112221212212112121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Natsu/Wendy",
                 "Gajeel/Cana "
@@ -2409,8 +2262,6 @@
             "title":"Erza"
         },
         "1141312211221222122212122111122212122122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They run into Lucy ",
                 "They run into Erza "
@@ -3098,8 +2949,6 @@
             "title":"Other"
         },
         "11422":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Someone from his team",
                 "Someone else from the guild"
@@ -3110,8 +2959,6 @@
             "title":"Someone approaches him"
         },
         "114221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Lucy",
                 "Happy"
@@ -3122,8 +2969,6 @@
             "title":"Someone from his team"
         },
         "114222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Wendy (In Natsu's body)",
                 "Master Makarov"
@@ -3134,8 +2979,6 @@
             "title":"Someone else from the guild"
         },
         "1143":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Wendy's body has to pee",
                 "The rest of his team was looking at Wendy",
@@ -3172,8 +3015,6 @@
             "title":"Natsu; Gajeel? Juvia?"
         },
         "1152":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Gray",
                 "Lucy",
@@ -3185,8 +3026,6 @@
             "title":"Juvia"
         },
         "11521":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Erza",
                 "Lisanna"
@@ -3209,8 +3048,6 @@
             "title":"Erza"
         },
         "1152111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Talk to Erza as Juvia",
                 "Remain silent"
@@ -3221,8 +3058,6 @@
             "title":"Real Deal"
         },
         "11521111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Natsu/Juvia's pee overflows",
                 "Natsu/Juvia stops peeing"
@@ -3233,8 +3068,6 @@
             "title":"Talk to Erza as Juvia"
         },
         "115211112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Natsu tries to find his body",
                 "Natsu tries to find someone to help"
@@ -3245,8 +3078,6 @@
             "title":"Natsu/Juvia stops peeing"
         },
         "1152111122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Makarov",
                 "Levy"
@@ -3257,8 +3088,6 @@
             "title":"Natsu tries to find someone to help"
         },
         "11521112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She knocks down the door",
                 "Someone comes in"
@@ -3269,8 +3098,6 @@
             "title":"Remain silent"
         },
         "115211122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Lucy",
                 "Juvia (in Natsu's body)"
@@ -3281,8 +3108,6 @@
             "title":"Someone comes in"
         },
         "1152112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Elfman",
                 "Evergreen"
@@ -3293,8 +3118,6 @@
             "title":"Someone in her body."
         },
         "11522":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "It's empty",
                 "Someone's in there"
@@ -3305,8 +3128,6 @@
             "title":"Lucy"
         },
         "115222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Erza",
                 "Someone else"
@@ -3317,8 +3138,6 @@
             "title":"Someone's in there"
         },
         "1152221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Yes",
                 "No"
@@ -3329,8 +3148,6 @@
             "title":"Erza"
         },
         "11522212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Bisca",
                 "Evergreen"
@@ -3341,8 +3158,6 @@
             "title":"No"
         },
         "1152222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Mirajane",
                 "Cana"
@@ -3353,8 +3168,6 @@
             "title":"Someone else"
         },
         "11523":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Juvia (in Natsu's body)",
                 "Erza"
@@ -3365,8 +3178,6 @@
             "title":"Someone Else"
         },
         "115231":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Gray",
                 "Levy"
@@ -3377,8 +3188,6 @@
             "title":"Juvia (in Natsu's body)"
         },
         "115232":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "It's broken",
                 "There's a huge line"
@@ -3402,8 +3211,6 @@
             "title":"Natsu; Wendy? Jellal?"
         },
         "11531":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Cana",
                 "Mirajane"
@@ -3414,8 +3221,6 @@
             "title":"Already done"
         },
         "115311":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Cana sees him/her in Natsu's body",
                 "Natsu/Cana has to pee "
@@ -3438,8 +3243,6 @@
             "title":"(S)he saw (s)he"
         },
         "11531112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Natsu/Cana starts squirming ",
                 "Master Makarov arrives "
@@ -3450,8 +3253,6 @@
             "title":"Cana"
         },
         "115311121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Need to pee ",
                 "Am really cold "
@@ -3462,8 +3263,6 @@
             "title":"Natsu/Cana starts squirming "
         },
         "1153111211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "\"I can;t hold it!\" (run to the bathroom) ",
                 "\"I'm just doing it now!\" (pees him/herself) "
@@ -3474,8 +3273,6 @@
             "title":"Need to pee "
         },
         "11531112111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They run into the girls bathroom ",
                 "They run into the boys bathroom "
@@ -3486,8 +3283,6 @@
             "title":"\"I can;t hold it!\" (run to the bathroom) "
         },
         "115311121111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A desperate guild member rushes in ",
                 "She/He feels someone watching her/him "
@@ -3498,8 +3293,6 @@
             "title":"They run into the girls bathroom "
         },
         "1153111211111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A desperate Juvia",
                 "A desperate Mirajane "
@@ -3510,8 +3303,6 @@
             "title":"A desperate guild member rushes in "
         },
         "11531112111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She notices Cana/Natsu",
                 "She pees herself"
@@ -3522,8 +3313,6 @@
             "title":"A desperate Juvia"
         },
         "115311121111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Tell Juvia the truth",
                 "Run away "
@@ -3546,8 +3335,6 @@
             "title":"Who is it?"
         },
         "11531112111121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Tell her the truth",
                 "Run away "
@@ -3558,8 +3345,6 @@
             "title":"Yes"
         },
         "1153112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The rest of Team Natsu greets him/her",
                 "Cana/Natsu finds him/her "
@@ -3582,8 +3367,6 @@
             "title":"Loophole"
         },
         "11533":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Evergreen",
                 "Laxus"
@@ -3794,8 +3577,6 @@
             "title":"One of her key spirits."
         },
         "1242":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Erza",
                 "Evergreen",
@@ -3807,8 +3588,6 @@
             "title":"Aquarius"
         },
         "12422":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Nothing happens",
                 "A guild member tries to tag along"
@@ -3819,8 +3598,6 @@
             "title":"Evergreen"
         },
         "124221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They are attacked",
                 "Natsu secretly follows them"
@@ -3831,8 +3608,6 @@
             "title":"Nothing happens"
         },
         "124222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Natsu",
                 "Someone else"
@@ -3843,8 +3618,6 @@
             "title":"A guild member tries to tag along"
         },
         "12423":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Levy",
                 "Mirajane"
@@ -3855,8 +3628,6 @@
             "title":"Someone else"
         },
         "1243":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Loke(Leo)",
                 "Taurus ",
@@ -3892,8 +3663,6 @@
             "title":"Lucy's home"
         },
         "12433":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Cancer",
                 "Plue"
@@ -3904,8 +3673,6 @@
             "title":"More key spirits"
         },
         "125":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Juvia",
                 "Cana",
@@ -3917,8 +3684,6 @@
             "title":"Other"
         },
         "1253":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Mirajane",
                 "Levy",
@@ -3930,8 +3695,6 @@
             "title":"Someone else"
         },
         "12533":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Wendy",
                 "Evergreen"
@@ -3993,8 +3756,6 @@
             "title":"Another guild mate picks up the coin"
         },
         "131":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "In Natsu's body",
                 "In Gajeel's body",
@@ -4006,8 +3767,6 @@
             "title":"Erza"
         },
         "1313":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Inside Lucy's body",
                 "Inside Gray's body",
@@ -4031,8 +3790,6 @@
             "title":"Inside Lucy's body"
         },
         "13133":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Inside Juvia's body",
                 "Inside Mira's body"
@@ -4043,8 +3800,6 @@
             "title":"Someone else's body"
         },
         "131331":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "To use the bathroom",
                 "A stomachache "
@@ -4055,8 +3810,6 @@
             "title":"Inside Juvia's body"
         },
         "1313311":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Pee",
                 "Poop"
@@ -4067,8 +3820,6 @@
             "title":"To use the bathroom"
         },
         "13133112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Juvia (In Erza's Body) ",
                 "Lucy"
@@ -4079,8 +3830,6 @@
             "title":"Poop"
         },
         "131331122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Lie and say you're fine",
                 "Fart loudly"
@@ -4091,8 +3840,6 @@
             "title":"Lucy"
         },
         "1313311222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "There is a huge line",
                 "They are closed for cleaning"
@@ -4141,8 +3888,6 @@
             "title":"\"I'm still in diapers\""
         },
         "13133112222112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Lucy pees in her diaper ",
                 "Erza/Juvia asks for a diaper "
@@ -4190,8 +3935,6 @@
             "title":"Someone else"
         },
         "1313311222213":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Lucy offers to change Erza/Juvia's panties ",
                 "Lucy pees herself "
@@ -4202,8 +3945,6 @@
             "title":"Some other secret"
         },
         "13133112222131":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A maid outfit ",
                 "A bunny girl outfit "
@@ -4214,8 +3955,6 @@
             "title":"Lucy offers to change Erza/Juvia's panties "
         },
         "131331122221311":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They drink some tea ",
                 "They eat ice cream"
@@ -4251,8 +3990,6 @@
             "title":"She gets bad gas(stinks up the whole apartment)"
         },
         "131331122221311212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Put on the diaper ",
                 "Refused the diaper (stomach grumbles again) "
@@ -4300,8 +4037,6 @@
             "title":"Lucy wipes her Erza/Juvia's butt"
         },
         "1313311222213112121311":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Erza/Juvia needs to pee ",
                 "Juvia/Erza bursts through the door  "
@@ -4325,8 +4060,6 @@
             "title":"Juvia/Erza bursts through the door  "
         },
         "131331122221311212131121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Lucy inspects Juvia/Erza's panties ",
                 "Juvia/Erza's stomach growls again "
@@ -4350,8 +4083,6 @@
             "title":"Lucy inspects Juvia/Erza's panties "
         },
         "13133112222131121213112111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They all drink some tea and talk ",
                 "Juvia/Erza starts squirming "
@@ -4375,8 +4106,6 @@
             "title":"Juvia/Erza starts squirming "
         },
         "1313311222213112121311211121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Juvia/Erza's stomach growls (hungry)",
                 "Juvia/Erza's stomach growls (poop) "
@@ -4413,8 +4142,6 @@
             "title":"Something else"
         },
         "131331122221311212131121112331":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Lucy lies (continues spanking) ",
                 "Lucy says she got it "
@@ -4425,8 +4152,6 @@
             "title":"Lucy spanks her"
         },
         "1313311222213112121311211123311":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Juvia/Erza needs to poop ",
                 "Juvia/Erza needs to pee "
@@ -4449,8 +4174,6 @@
             "title":"A big skid mark"
         },
         "131331122221311212131121121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A baby bottle design ",
                 "A chain design "
@@ -4461,8 +4184,6 @@
             "title":"New undies"
         },
         "1313311222213112121311211212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They're too small ",
                 "She can't take them off "
@@ -4473,8 +4194,6 @@
             "title":"A chain design "
         },
         "131331122221311212131123":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Juvia/Erza pees herself ",
                 "Erza/Juvia needs to pee too "
@@ -4498,8 +4217,6 @@
             "title":"Juvia/Erza pees herself "
         },
         "13133112222131121213112312":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Lucy changes her and her clothes ",
                 "Lucy and Erza/Juvia pee themselves "
@@ -4522,8 +4239,6 @@
             "title":"Lucy and Erza/Juvia pee themselves "
         },
         "1313311222213112121311231221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Lucy diapers all of them ",
                 "Lucy changes all of their panties "
@@ -4546,8 +4261,6 @@
             "title":"Lucy diapers all of them "
         },
         "131331122221311212131123122111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Someone knocks on the door ",
                 "The coin pops out of nowhere "
@@ -4571,8 +4284,6 @@
             "title":"Someone knocks on the door "
         },
         "13133112222131121213112312211113":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Wendy ",
                 "Levy "
@@ -4583,8 +4294,6 @@
             "title":"Other girls"
         },
         "131331122221311212131123122111131":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Change and go with Wendy ",
                 "Open the door and tell Wendy "
@@ -4595,8 +4304,6 @@
             "title":"Wendy "
         },
         "131331122221311212131123122112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Forcibly diaper them ",
                 "Agree to their demands "
@@ -4607,8 +4314,6 @@
             "title":"They protest "
         },
         "131331122221311212132":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Yes ",
                 "No "
@@ -4645,8 +4350,6 @@
             "title":"There was none!"
         },
         "1313311222213112211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Lucy reveals that she doesn't have any toilet paper in the apartment ",
                 "Lucy barges in with a roll "
@@ -4670,8 +4373,6 @@
             "title":"Lucy reveals that she doesn't have any toil..."
         },
         "131331122221311221111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Lucy arrives with the toilet paper ",
                 "Erza/Juvia is getting impatient "
@@ -4694,8 +4395,6 @@
             "title":"Lucy barges in with a roll "
         },
         "131331122221311221121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The toilet paper starts glowing ",
                 "She finishes and leaves "
@@ -4719,8 +4418,6 @@
             "title":"The toilet paper starts glowing "
         },
         "13133112222131122112111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The toilet paper had itching powder (prank shop) ",
                 "The toilet paper had an itchy butt curse (magic) "
@@ -4731,8 +4428,6 @@
             "title":"It gets insanely itchy"
         },
         "131331122221311222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A desperate Lucy ",
                 "A desperate guest that arrived"
@@ -4756,8 +4451,6 @@
             "title":"A bunny girl outfit "
         },
         "1313311222213122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Have a drinking contest ",
                 "Show themselves off at Fairy Tail "
@@ -4768,8 +4461,6 @@
             "title":"Lucy gets dressed in a cute/sexy outfit"
         },
         "1313311222213123":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Erza/Juvia needs to pee ",
                 "The bunny suit starts riding up her butt "
@@ -4805,8 +4496,6 @@
             "title":"\"The wearer will be cursed with a permanent..."
         },
         "1313311222213123212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Erza/Juvia farts loudly ",
                 "Lucy helps her "
@@ -4817,8 +4506,6 @@
             "title":"Erza/Juvia shakes her butt like crazy"
         },
         "131331122221312323":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Erza/Juvia needs to pee badly",
                 "Erza/Juvia needs to poop badly"
@@ -4842,8 +4529,6 @@
             "title":"Erza/Juvia needs to poop badly"
         },
         "13133112222131232323":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She summons Cancer to cut it",
                 "ErzaJuvia pees and poops herself "
@@ -4854,8 +4539,6 @@
             "title":"Other"
         },
         "131331122222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Someone comes outside and sees her ",
                 "Erza/Juvia needs to pee now "
@@ -4866,8 +4549,6 @@
             "title":"She goes for the garbage can"
         },
         "1313311222221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Natsu ",
                 "Gray "
@@ -4878,8 +4559,6 @@
             "title":"Someone comes outside and sees her "
         },
         "1313311222222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Juvia/Erza finds her ",
                 "Erza/Juvia looks for Master Makarov "
@@ -4890,8 +4569,6 @@
             "title":"Erza/Juvia needs to pee now "
         },
         "131332":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Mira",
                 "Wendy"
@@ -4963,8 +4640,6 @@
             "title":"Gray is in control of Mirajane's body"
         },
         "13212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She notices Gray's presence",
                 "She doesn't notice Gray's presence"
@@ -4975,8 +4650,6 @@
             "title":"Gray isn't in control of Mirajane's body"
         },
         "132121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "\"I'm going to the bathroom.\"",
                 "\"Let's find Makarov. I can hold it.\""
@@ -4987,8 +4660,6 @@
             "title":"She notices Gray's presence"
         },
         "1321212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Makarov tells Mira about Targaryen",
                 "Someone comes in"
@@ -4999,8 +4670,6 @@
             "title":"\"Let's find Makarov. I can hold it.\""
         },
         "13212121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Mira and Gray begin their journey",
                 "Someone tries to tag along"
@@ -5011,8 +4680,6 @@
             "title":"Makarov tells Mira about Targaryen"
         },
         "132121211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They manage to get Gray and the coin back",
                 "Someone else touches the coin"
@@ -5023,8 +4690,6 @@
             "title":"Mira and Gray begin their journey"
         },
         "1321212111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Found him",
                 "Didn't find him"
@@ -5035,17 +4700,12 @@
             "title":"They manage to get Gray and the coin back"
         },
         "13212121111":{
-            "author_id":null,
-            "author_name":null,
-            "choices":null,
             "content":"<div class=\"\"><div> <span>As Mira and Gray entered Targaryen's retreat, they were shocked to see that it was in ruins on the inside than it was on the outside. The walls were cracked, there were papers scattered all over the floor, and any pictures were now faded and torn in their frames. Mira had entered cautiously, only to be rewarded with the door slamming instantly as she fully entered, submerging her in darkness. It was then that a candle had been lit and Mira and Gray were horrified by the man who lit it.<br>\r\n<br>\r\nHe was old and hunchbacked with a cane in one hand and the lit candle in the other. He was completely bald with missing teeth and wearing a strange blue robe. All in all, this man had clearly seen better days.<br>\r\n<br>\r\n\"It's good to see you, Mirajane Strauss and Gray Fullbuster. I see you found my old coin.\"Targaryen said in an iron cold voice.<br>\r\n<br>\r\n\"You know why we're here Targaryen. Just get my friend Gray out of my head.\" Mira said.<br>\r\n<br>\r\n\"But of course. I just need my coin. You have it right?\" Targaryen asked.<br>\r\n<br>\r\nMira had pulled out the coin from her left dress pocket and handed it to Targaryen.<br>\r\n<br>\r\n\"You know its funny. I created countless fool-proof Soul Magic charms, but this one was unique. It gave the user a full experience in another person's body, without the vessel even noticing. The only way someone would notice if the person inside the vessel had enough history together. I take it you've known each other for a long time.\" Targaryen said as he began the incantation.<br>\r\n<br>\r\n\"By the power of your creator, I command you, <b>RELEASE</b>! Targaryen said in a loud booming voice.<br>\r\n<br>\r\nAs soon as he finished the incantation, Mira's body began to glow a bright blue and Gray's soul had shot out of her and safely returned to his waiting body at Porlyusica's tree house.  As soon as Mira's body returned to normal, she asked Targaryen \"Why did you do that so easily? I thought you wanted revenge on Fairy Tail.\"<br>\r\n<br>\r\n\"When I was a young fool, yes. However, living the remainder of my life in exile, I realized how pointless it was to hold a grudge against someone who only wanted to help me. In the end I'm grateful, because I finally did my last good deed.\" Targaryen explained solemnly. <br>\r\n<br>\r\n\"What do you mean 'last good deed?'\" Mira asked him worriedly.<br>\r\n<br>\r\n\"The drawback of Soul Magic is that it actually uses a wizard's own soul to power it. As a result, the wizard will eventually die an early death. I didn't want to die knowing that my final act was an act of hatred, so I sent my first Soul Coin to Fairy Tail in the hopes that someone would find it. As luck would have it, Gray found it and because of that, I can die in peace. I can't thank you enough. Goodbye.\" Targaryen said as his body began to shine blue. His body had slowly dissolved bit by bit, until there was nothing left. Targaryen's final sensation was his Soul Coin that had disappeared along with him.<br>\r\n<br>\r\nDespite everything he'd done, Mira couldn't help but shed a tear for the fallen wizard. Before she left, Mira found a heavy stone in Targaryen's backyard and slowly engraved in it with an old chisel. It took until sunset, but Mira had finished the inscription and made her way back to Porlyusica's home to get Gray, happily smiling.<br>\r\n<br>\r\nIn the stone was engraved '<i>Here lies Targaryen. A great wizard</i>.'</span></div></div>",
             "created":1410411600,
             "id":1855760,
             "title":"Found him"
         },
         "1321212112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Natsu",
                 "Someone else"
@@ -5056,8 +4716,6 @@
             "title":"Someone else touches the coin"
         },
         "13212121122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Juvia",
                 "Lucy "
@@ -5068,8 +4726,6 @@
             "title":"Someone else"
         },
         "132121212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Natsu",
                 "Juvia"
@@ -5080,8 +4736,6 @@
             "title":"Someone tries to tag along"
         },
         "13212122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Juvia",
                 "Elfman"
@@ -5092,8 +4746,6 @@
             "title":"Someone comes in"
         },
         "132122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Gray tries to get Mira's attention",
                 "Mira remains oblivious for the rest of the day"
@@ -5104,8 +4756,6 @@
             "title":"She doesn't notice Gray's presence"
         },
         "1321222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Makarov discovers that Gray is inside Mira",
                 "Mira discovers Gray's presence "
@@ -5116,8 +4766,6 @@
             "title":"Mira remains oblivious for the rest of the day"
         },
         "1323":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Juvia",
                 "Lucy",
@@ -5129,8 +4777,6 @@
             "title":"Other"
         },
         "13233":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Natsu",
                 "Lisanna"
@@ -5141,8 +4787,6 @@
             "title":"Someone else"
         },
         "132332":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Lisanna",
                 "Wendy"
@@ -5153,8 +4797,6 @@
             "title":"Lisanna or Wendy"
         },
         "133":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Lucy",
                 "Erza",
@@ -5166,8 +4808,6 @@
             "title":"Gajeel"
         },
         "1331":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Levy",
                 "Erza",
@@ -5179,8 +4819,6 @@
             "title":"Lucy"
         },
         "13311":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Tell Levy",
                 "Don't tell Levy"
@@ -5191,8 +4829,6 @@
             "title":"Levy"
         },
         "133111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She believes him",
                 "She doesn't believe him"
@@ -5203,8 +4839,6 @@
             "title":"Tell Levy"
         },
         "13313":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Mirajane",
                 "Cana"
@@ -5215,8 +4849,6 @@
             "title":"Another girl"
         },
         "1333":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Juvia",
                 "Happy",
@@ -5228,8 +4860,6 @@
             "title":"Other"
         },
         "13333":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Gray",
                 "Levy"
@@ -5240,8 +4870,6 @@
             "title":"Other"
         },
         "133332":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Levy",
                 "Wendy"
@@ -5264,8 +4892,6 @@
             "title":"Loophole"
         },
         "13333222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Natsu",
                 "Cana "
@@ -5300,8 +4926,6 @@
             "title":"...er...options?"
         },
         "13333222222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Master Makarov",
                 "Another option "
@@ -5338,8 +4962,6 @@
             "title":"Wendy"
         },
         "13523":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Erza",
                 "Mirajane"
@@ -5350,8 +4972,6 @@
             "title":"Other"
         },
         "135231":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Wendy/Erza heads back to the guild",
                 "Erza/Wendy shows up from behind the shower curtain "
@@ -5362,8 +4982,6 @@
             "title":"Erza"
         },
         "1352312":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They head back to Fairy Tail ",
                 "They both feel hungry "
@@ -5374,8 +4992,6 @@
             "title":"Erza/Wendy shows up from behind the shower curt..."
         },
         "13523121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Erza/Wendy starts fidgeting ",
                 "Wendy/Erza feels hungry "
@@ -5386,8 +5002,6 @@
             "title":"They head back to Fairy Tail "
         },
         "135231211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Pee ",
                 "Poop "
@@ -5436,8 +5050,6 @@
             "title":"Strauss sisters."
         },
         "13532":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Erza's body",
                 "Mirajane's body"
@@ -5448,8 +5060,6 @@
             "title":"Cana"
         },
         "13533":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Elfman",
                 "Romeo"
@@ -5460,8 +5070,6 @@
             "title":"Other!"
         },
         "135331":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Erza",
                 "Ultear"
@@ -5472,8 +5080,6 @@
             "title":"Elfman"
         },
         "1353312":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Find a spellbook",
                 "Attempt to leave for Fairy Tail"
@@ -5484,8 +5090,6 @@
             "title":"Ultear"
         },
         "13533122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Ultear (In Elfman's Body)",
                 "Mirajane"
@@ -5496,8 +5100,6 @@
             "title":"Attempt to leave for Fairy Tail"
         },
         "135331221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Elfman's",
                 "Ultear's"
@@ -5508,8 +5110,6 @@
             "title":"Ultear (In Elfman's Body)"
         },
         "1353312211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Elfman's attack on Ultear",
                 "Someone tries to stop Elfman"
@@ -5520,8 +5120,6 @@
             "title":"Elfman's"
         },
         "13533122112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Rus Bushdan",
                 "Someone Else"
@@ -5532,8 +5130,6 @@
             "title":"Someone tries to stop Elfman"
         },
         "135331221121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Mira saves him",
                 "Elfman manages to win"
@@ -5544,8 +5140,6 @@
             "title":"Rus Bushdan"
         },
         "135331221122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Natsu",
                 "Someone else"
@@ -5556,8 +5150,6 @@
             "title":"Someone Else"
         },
         "135332":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Wendy",
                 "Someone else"
@@ -5568,8 +5160,6 @@
             "title":"Romeo"
         },
         "1353322":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Mirajane",
                 "Natsu"
@@ -5580,8 +5170,6 @@
             "title":"Someone else"
         },
         "13533221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Someone knocks on the front door",
                 "Romeo remembers how this happened"
@@ -5592,8 +5180,6 @@
             "title":"Mirajane"
         },
         "135332211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Erza",
                 "Juvia"
@@ -5604,8 +5190,6 @@
             "title":"Someone knocks on the front door"
         },
         "1353322112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Leave the bathroom to open the front door",
                 "Pee first and then open the front door"
@@ -5616,8 +5200,6 @@
             "title":"Juvia"
         },
         "13533221121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Lie and masquerade as Mira",
                 "Tell Juvia the truth"
@@ -5628,8 +5210,6 @@
             "title":"Leave the bathroom to open the front door"
         },
         "135332211211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Juvia leaves and It's Rome/Mira's turn",
                 "Skip ahead to the Guild"
@@ -5640,8 +5220,6 @@
             "title":"Lie and masquerade as Mira"
         },
         "1353322112112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He/She sees Mira/Romeo",
                 "Lisanna and Elfman hug him/her"
@@ -5689,8 +5267,6 @@
             "title":"Someone else"
         },
         "14":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Someone from Edolas Fairy Tail",
                 "Someone from Sabretooth",
@@ -5704,8 +5280,6 @@
             "title":"Someone from outside the guild"
         },
         "141":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Edolas Lucy",
                 "Edolas Gray",
@@ -5717,8 +5291,6 @@
             "title":"Someone from Edolas Fairy Tail"
         },
         "1412":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Someone from Edolas Fairy Tail",
                 "Someone from Fairy Tail",
@@ -5730,8 +5302,6 @@
             "title":"Edolas Gray"
         },
         "14121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Edolas Juvia",
                 "Edolas Lucy"
@@ -5742,8 +5312,6 @@
             "title":"Someone from Edolas Fairy Tail"
         },
         "14122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Juvia ",
                 "Wendy"
@@ -5754,8 +5322,6 @@
             "title":"Someone from Fairy Tail"
         },
         "1413":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Edolas Natsu",
                 "Edolas Juvia",
@@ -5767,8 +5333,6 @@
             "title":"Someone else"
         },
         "14133":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Edolas Erza",
                 "Edolas Gajeel"
@@ -5791,8 +5355,6 @@
             "title":"Loophole"
         },
         "1413322":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Edolas Cana",
                 "Edolas Levy "
@@ -5803,8 +5365,6 @@
             "title":"Somebody else"
         },
         "145":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A former member of Fairy Tail",
                 "An enemy",
@@ -5816,8 +5376,6 @@
             "title":"Another choice"
         },
         "1452":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Jellal",
                 "Jose",
@@ -5894,8 +5452,6 @@
             "title":"Go to Natsu's Pov"
         },
         "153":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Erza Scarlett",
                 "Mirajane Strauss",
@@ -5941,7 +5497,7 @@
         "description":"<td align=\"left\" class=\"norm\"><span class=\"cgreen\"><b>ATTENTION:</b></span> If anyone out there still has an attachment to this story, feel free to let me know, or save any chapters they might enjoy. It seems kind of dead in the water, and the status quo of Fairy Tail has shifted a lot since this story was created. I'm considering deleting this story to make space in my portfolio. I might do an updated version of this, or maybe not. I'll probably do something rather soon, so if you're still interested in this, let me know before I ruin it for everyone. <b>Posted 1/10/13</b><br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\nOne variety of Ancient Magic \"Soul\" has the ability to tamper with or misplace the souls of its users or victims. A single Soul Mage exists in the world, and one of his artifacts has found its way to the bar of the infamous Fairy Tail guild. Once triggered, the contained Soul magic switches the bodies of two targets and Fairy Tail has yet another problem on their shoulders. <br>\r\n<br>\r\n<br>\r\nThis interactive is based on the Japanese manga series by Hiro Mashima, \"Fairy Tail.\" Let's keep this literate and the chapters roughly 1-2 paragraphs a piece. When dealing with canon characters, for the love of God, keep them in character. Natsu wouldn't suddenly become sly and want to keep the swap a secret. Otherwise, feel free to be creative with additions. You can create new characters, magic types, or locations. Have fun. <br>\r\n<br>\r\n<u><b>UPDATE</b></u><br>\r\nEpisode 19 of the anime has aired, and features a job request that causes the group to swap bodies. If you're a fan of this Interactive, you might want to track this episode down and give it a watch, even if you normally only read the manga.</td>",
         "id":1589380,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1588223520,
+        "modified":1588293420,
         "pretty_title":"Fairy Tail Bodyswap"
     }
 }

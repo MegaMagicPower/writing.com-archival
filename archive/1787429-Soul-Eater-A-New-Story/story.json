@@ -164,8 +164,6 @@
             "title":"JOAT(Jack of All Trades)"
         },
         "112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "sword",
                 "cross bow",
@@ -177,8 +175,6 @@
             "title":"One."
         },
         "1121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Dawn (your name) and Tess (weapon partner)",
                 "Athena (your name) and Onyx (weapon partner)",
@@ -264,7 +260,6 @@
         "141121":{
             "author_id":"seakeroffun",
             "author_name":"renae",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You waited for ten minutes and you saw them come out.the first thing they did when they saw you was kill you because they thought for so odd reason you were on the witches side R.I.P.</span></div></span></div>",
             "created":1339736400,
             "id":1360578,
@@ -296,7 +291,6 @@
         "1411222":{
             "author_id":"seakeroffun",
             "author_name":"renae",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You die and no one care (because you don't know anyone)</span></div></span></div>",
             "created":1339736400,
             "id":1360617,

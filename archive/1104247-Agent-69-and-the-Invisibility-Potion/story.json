@@ -71,8 +71,6 @@
             "title":"Luckiness Abounds"
         },
         "1111211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She stays in the room gaining a better look at the security messures",
                 "She goes throu the room as soon as possible."
@@ -95,8 +93,6 @@
             "title":"Reconnaissance"
         },
         "111121111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She took more of the potion to search the control room in detail",
                 "She save the potion for later and fights the remaining 2 men hand to hand"
@@ -107,8 +103,6 @@
             "title":"She makes it in the nick of time."
         },
         "1111211112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Sandra wakes up in a glass case",
                 "Sandra wakes up in public"
@@ -119,8 +113,6 @@
             "title":"She save the potion for later and fights the re..."
         },
         "111121112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The boss is really a man, and his machine will make all women naked forever.",
                 "She  is parlyzed and felt up some more."
@@ -131,8 +123,6 @@
             "title":"She doesn't make it in time, and everyone c..."
         },
         "111122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Trie and escape.",
                 "Give up."
@@ -143,8 +133,6 @@
             "title":"It wasn't."
         },
         "1112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They have fun with her.",
                 "They bring her up to a cell.",
@@ -158,7 +146,6 @@
         "112":{
             "author_id":"pieguy",
             "author_name":"Pieguy",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>It's too risky to use the potion, she thought. She fired her hook and started up the wall.<br>\r\nUnfortunately, the wall was electrified to guard against intruders.<br>\r\nShe wasn't wearing insulated shoes.</span></div></span></div>",
             "created":1147237200,
             "id":317883,

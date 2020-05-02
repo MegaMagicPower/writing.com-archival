@@ -223,8 +223,6 @@
             "title":"Vulpix"
         },
         "1122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "basic",
                 "stage one",
@@ -236,8 +234,6 @@
             "title":"Water"
         },
         "11221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "squirtle",
                 "other"
@@ -248,8 +244,6 @@
             "title":"Squirtle"
         },
         "112212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Totodile",
                 "other"
@@ -260,8 +254,6 @@
             "title":"Totodile"
         },
         "1122122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "mudkip",
                 "other"
@@ -272,8 +264,6 @@
             "title":"Mudkip"
         },
         "11221222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "piplup",
                 "other"
@@ -284,8 +274,6 @@
             "title":"other"
         },
         "112212222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "oshawott",
                 "other"
@@ -296,8 +284,6 @@
             "title":"other"
         },
         "1122122222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Magickarp",
                 "other"
@@ -308,8 +294,6 @@
             "title":"other"
         },
         "11221222222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Psyduck",
                 "other"
@@ -320,8 +304,6 @@
             "title":"other"
         },
         "112212222221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "real story",
                 "hurrdurr"
@@ -332,17 +314,12 @@
             "title":"Psyduck"
         },
         "1122122222212":{
-            "author_id":null,
-            "author_name":null,
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>www.hurr-durr.com<br>\r\nhave fun<br>\r\n<br>\r\nIf you go to the website please tell Chatzoo.</span></div></span></div>",
             "created":1306213200,
             "id":1111990,
             "title":"hurrdurr"
         },
         "112212222222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "poliwag",
                 "other"
@@ -353,8 +330,6 @@
             "title":"other"
         },
         "1122122222222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "tentacool",
                 "other"
@@ -365,8 +340,6 @@
             "title":"other"
         },
         "11221222222222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "slowpoke",
                 "other"
@@ -377,8 +350,6 @@
             "title":"other"
         },
         "112212222222222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "seel",
                 "other"
@@ -389,8 +360,6 @@
             "title":"other"
         },
         "1122122222222222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "shellder",
                 "other"
@@ -485,8 +454,6 @@
             "title":"Electric"
         },
         "112321":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You're a Pichu",
                 "Choices for a Pikachu/Raichu"
@@ -842,7 +809,6 @@
         "12533222212":{
             "author_id":"jstory",
             "author_name":"JStory",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Don't worry as soon as I can add more I will have more.</span></div></span></div>",
             "created":1307422800,
             "id":1121459,

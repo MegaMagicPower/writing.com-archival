@@ -887,8 +887,6 @@
             "title":"Chansey: Tie you to her foot"
         },
         "11421222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "does she save you",
                 "does she shrug her shoulders and leave you at the mercy of Chanseys sweaty sole."
@@ -1048,8 +1046,6 @@
             "title":"Buneary"
         },
         "123222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "My Lopunny",
                 "A wild Lopunny"
@@ -1321,9 +1317,31 @@
             "id":2537932,
             "title":"Domination"
         },
+        "131122":{
+            "author_id":"hipcomp",
+            "author_name":"Hipcomp",
+            "choices":[
+                "Sure!",
+                "Nah, one of the evolutions please"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Pichu sound good to you?</span></div></span></div>",
+            "created":1588309200,
+            "id":2828193,
+            "title":"Which \u201cchu\u201d will it be?"
+        },
+        "1311222":{
+            "author_id":"hipcomp",
+            "author_name":"Hipcomp",
+            "choices":[
+                "Pikachu",
+                "Raichu"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will you choose the face of the series or it\u2019s final evolution?</span></div></span></div>",
+            "created":1588309200,
+            "id":2828197,
+            "title":"Pika- vs. Raichu"
+        },
         "1312":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Gloom: Foot Smelling",
                 "Gloom: Foot Licking"
@@ -1334,8 +1352,6 @@
             "title":"A Walk in the Forest"
         },
         "13121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Gloom: Foot Licking",
                 "Gloom: Foot Kissing"
@@ -1675,8 +1691,6 @@
             "title":"Gardevoir: Sit on you"
         },
         "1323211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Keep smelling her feet",
                 "She decides to do something else to you"
@@ -1687,8 +1701,6 @@
             "title":"Gardevoir: Make you smell both feet"
         },
         "13232111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Gardevoir: LIck her feet clean, from toes to heel!",
                 "Gardevoir: Make you even smaller!"
@@ -2073,7 +2085,7 @@
         "description":"<td align=\"left\" class=\"norm\">You are a trainer<br>\r\n<br>\r\nYou meet up with a female pokemon<br>\r\n<br>\r\nThey dominate you in some way with feet/ass<br>\r\n<br>\r\nShrinking is allowed</td>",
         "id":1776956,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1588221900,
+        "modified":1588348800,
         "pretty_title":"Girl Pokemon Feet"
     }
 }

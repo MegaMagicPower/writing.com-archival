@@ -105,8 +105,6 @@
             "title":"Ty"
         },
         "14":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "No food at all",
                 "It was full of food!"
@@ -130,8 +128,6 @@
             "title":"No food at all!"
         },
         "142":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Take a nap",
                 "Go out and eat more"
@@ -155,8 +151,6 @@
             "title":"Time for a nap"
         },
         "1422":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "All you can eat buffet",
                 "Search for a place to eat"
@@ -167,8 +161,6 @@
             "title":"Go out and eat more"
         },
         "14221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He weighed himself",
                 "Went to bed"
@@ -179,8 +171,6 @@
             "title":"All you can eat buffet"
         },
         "142211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "One week later",
                 "The next day"
@@ -191,8 +181,6 @@
             "title":"He weighed himself"
         },
         "1422111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "pancake mix",
                 "twinkies"
@@ -203,8 +191,6 @@
             "title":"One week later"
         },
         "14221111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Trouble with his clothes"
             ],
@@ -214,8 +200,6 @@
             "title":"pancake mix"
         },
         "142211111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Buy new clothes",
                 "Eat at the buffet again"

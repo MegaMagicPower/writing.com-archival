@@ -30,8 +30,6 @@
             "title":"Shinobi"
         },
         "111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Ninjutsu",
                 "Taijutsu",
@@ -43,8 +41,6 @@
             "title":"Genin"
         },
         "1111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Practice ",
                 "Train",
@@ -82,8 +78,6 @@
             "title":"Hidden Leaf"
         },
         "11311":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Fire, lightning, wind",
                 "Earth, water, other"
@@ -94,8 +88,6 @@
             "title":"Ninjutsu"
         },
         "11313":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You plan to show it off and become a hero",
                 "You plan to murder someone with it"
@@ -106,8 +98,6 @@
             "title":"Taijutsu"
         },
         "113132":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go to prison",
                 "Try to escape"
@@ -184,8 +174,6 @@
             "title":"Criminal"
         },
         "143":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "You try it out",
                 "You shrug your shoulders and go to eat ramen"

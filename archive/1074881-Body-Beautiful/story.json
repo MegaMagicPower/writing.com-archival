@@ -37,8 +37,6 @@
             "title":"I (Jeff) Arrive"
         },
         "1111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Burst out of the emergency exit with the taciturn parrot.",
                 "Comply with your bare parents and head up to the suite."
@@ -83,8 +81,6 @@
             "title":"To Reception!"
         },
         "11311":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Follow Jeff",
                 "Follow Danni"
@@ -95,8 +91,6 @@
             "title":"Go swimming"
         },
         "113111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A UFO and various aliens",
                 "Armed criminals loading crates onto speed boats"
@@ -107,8 +101,6 @@
             "title":"Follow Jeff"
         },
         "1131111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They decide to sneak aboard the UFO",
                 "Stay hidden, hopes they don't get discovered"
@@ -119,8 +111,6 @@
             "title":"A UFO and various aliens"
         },
         "11311111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Some aliens enter the room",
                 "The two siblings leave and begin searching the rest of the spaceship"
@@ -131,8 +121,6 @@
             "title":"They decide to sneak aboard the UFO"
         },
         "113111112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "An alien sees them",
                 "They find another storage room"
@@ -143,8 +131,6 @@
             "title":"The two siblings leave and begin searching the ..."
         },
         "1131111121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Follow the vents",
                 "Back into the hallway "
@@ -275,8 +261,6 @@
             "title":"Danni Arrives"
         },
         "1231":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Criminals or Pirates",
                 "Invading Aliens"
@@ -287,8 +271,6 @@
             "title":"Who are they?"
         },
         "12311":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go with her",
                 "Stay, change focus to her instead"
@@ -1210,6 +1192,42 @@
             "id":2826773,
             "title":"Roune asks them about the sleepover with Deene."
         },
+        "12312111112221222121111112112211121112111121111121211212122111111112211111111112":{
+            "author_id":"paladium23",
+            "author_name":"Wasted Days",
+            "choices":[
+                "They continue their walk.",
+                "They take Roune to the sleepover"
+            ],
+            "content":"<div class=\"\"><div> <span>\"I can't believe how well you adapted to our planet.\" Kree comments. \"I wonder if I could do the same in yours.\" She didn't know about their situation.<br>\r\n<br>\r\n\"I think you would fit.\" Jeff responds. \"But you will need to wear clothes.\" Jeff looks depressed.<br>\r\n<br>\r\n\"Hey, don't be sad.\" Danni adds. \"We are still together, we are the only humans that met extraterrestrials and now, our little Roune has made a few friends.\" Danni gets closer to her brother. \"And don't forget that you are dating Kree.\" She whispers.<br>\r\n<br>\r\nJeff nodded. \"You're right, Danni. I think we should enjoy more around here. Hey, Kree. Do you mind if we walk around the town?\"<br>\r\n<br>\r\n\"Okay, I wanted to show you some places.\" Kree grabs his hand. \"And while we are here, we can buy some stuff for Roune's sleepover, what do you think, Roune?\"<br>\r\n<br>\r\n\"Yay, I want to bring snacks.\" The little girl replies.<br>\r\n<br>\r\nThe group walked through the stores located in different platforms. Roune was interested in a bakery, that was until she saw insects replacing the chocolate. Danni bought a hat in a boutique and Kree and Jeff took a photo together in a fountain.</span></div></div>",
+            "created":1588222800,
+            "id":2827333,
+            "title":"The four decide to walk around town a bit"
+        },
+        "123121111122212221211111121122111211121111211111212112121221111111122111111111121":{
+            "author_id":"mordian",
+            "author_name":"Mordian",
+            "choices":[
+                "Dropping Roune off at Jee's for the sleepover with Reene",
+                "They run into a few of Kree's friends"
+            ],
+            "content":"<div class=\"\"><div> <span>After walking around a bit, Roune's tiny legs were getting tired, and reached up to Kree, \"Carry me?\"  She put on her best puppy dog eyes.<br>\r\n<br>\r\nKree cooed and nodded, \"Of course you little cutie!\"  She picked the girl up and had her wrap her arms around her neck, wearing her like a bag.<br>\r\n<br>\r\n\"So fluffy.\"  Roune mumbled though the fur, rubbing her head through it, it was so soft!<br>\r\n<br>\r\nKree giggled, catching up to the twins who were looking at a hunters stall, comparing the furs to animals from earth.  She didn't mind Roune acting like a Chiropt pup either, her snuggling into her back was just like how a pup would act, of course, only with their mother, father or close relative, but still, it was a sign of complete trust.<br>\r\n<br>\r\n\"Oh, she getting tired?\"  Danni asked, looking over and seeing the redhead buried in the red-orange fur of her friend.<br>\r\n<br>\r\nKree nodded, \"Yeah, but I got it.\"<br>\r\n<br>\r\n\"Alright then.\"<br>\r\n<br>\r\nThey continued to look around the stall, buying a few dried fruits as snack for Roune's sleepover, as the girl still refused to each any bugs, or anything still alive.  Kree thought it was weird, since the twins were alright with them, but she didn't know that the twins had acclimated already over the course of several days.  Roune was still getting used to the whole 'alien' thing on top of being so young again.  Not that anyone aside from the twins knew that last bit.</span></div></div>",
+            "created":1588222800,
+            "id":2827462,
+            "title":"They continue their walk."
+        },
+        "1231211111222122212111111211221112111211112111112121121212211111111221111111111212":{
+            "author_id":"paladium23",
+            "author_name":"Wasted Days",
+            "choices":[
+                "Jee declines and the rest go to the palace.",
+                "Roune's sleepover."
+            ],
+            "content":"<div class=\"\"><div> <span>Kree tells Danni and Jeff that it was time to take Roune to her sleepover. They keep walking until at the distance, Kree recognizes two male Chiropts. They were Boli and Muli, Kree's friends.<br>\r\n<br>\r\n\"Hey, guys. What are you doing?\" Kree asks still holding Roune.<br>\r\n<br>\r\n\"What's up, Kree? What a coincidence, we were on our way to your place.\" Boli responds.<br>\r\n<br>\r\n\"Yeah, we wanted to invite you, Jee and the humans to hang out at the palace.\" Muli adds.<br>\r\n<br>\r\n\"What's the palace?\" Jeff asks.<br>\r\n<br>\r\n\"It's an abandoned mansion, where we just hang out.\" Kree replies.<br>\r\n<br>\r\n\"So, what do you say?\" Muli asks.<br>\r\n<br>\r\n\"Eh, I don't know. How about we ask Jee?\" Danni comments. \"Roune is going to stay at her house with her sister and brothers.\"<br>\r\n<br>\r\nBoli and Muli accepted and join the group.</span></div></div>",
+            "created":1588309200,
+            "id":2828601,
+            "title":"They run into a few of Kree's friends"
+        },
         "1231212":{
             "author_id":"paladium23",
             "author_name":"Wasted Days",
@@ -1231,7 +1249,7 @@
         "description":"<td align=\"left\" class=\"norm\">Your family has won a free, all-expenses-paid trip to balmy Hawaii to stay at the Body Beautiful Nudist Resort. When you get there, however, something is amiss....<br>\r\n<br>\r\nThis is NOT sex/erotica. Anyone posting sexual content will be hung, drawn and quartered.</td>",
         "id":1074881,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1588160940,
+        "modified":1588395300,
         "pretty_title":"Body Beautiful"
     }
 }

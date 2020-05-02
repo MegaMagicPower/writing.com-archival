@@ -56,8 +56,6 @@
             "title":"The binge continues"
         },
         "11111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Chrissy heads home",
                 "Gillian isn't ready to give up today!"
@@ -68,8 +66,6 @@
             "title":"Oof!"
         },
         "111112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Tomarrow same routine",
                 "2 weeks same routine"
@@ -140,8 +136,6 @@
             "title":"Gillian gives in and begins binging with Chrissy"
         },
         "111121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "McDonalds hires more teenage girls to keep up with demand.",
                 "Either follow Chrissy and gillians gain or the towns gain"
@@ -152,8 +146,6 @@
             "title":"Everyone in town becomes huge"
         },
         "1111212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Gillian and Chrissy",
                 "The townspeople"
@@ -164,8 +156,6 @@
             "title":"Either follow Chrissy and gillians gain or the ..."
         },
         "111122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Yes",
                 "No"
@@ -176,8 +166,6 @@
             "title":"All the workers continue to gain"
         },
         "1111221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "That night",
                 "3 weeks later"
@@ -188,8 +176,6 @@
             "title":"Yes"
         },
         "11112211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Skip ahead 1 week.",
                 "Trina is promoted to \"Food Deliverer\" for Chrissy and Gillian."
@@ -200,8 +186,6 @@
             "title":"That night"
         },
         "111122112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Chrissy comes in later and they all have an eating contest.",
                 "1 month later"
@@ -224,8 +208,6 @@
             "title":"3 weeks later"
         },
         "111122121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "All new employees now only joined so that they could gain.",
                 "The town encouraged the girls to get even fatter."
@@ -236,8 +218,6 @@
             "title":"Mcdonalds starts a new ad campaign showing off ..."
         },
         "1111221212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Sandy focuses on Chrissy and Gillian",
                 "Sandy focuses on the other girls"
@@ -248,8 +228,6 @@
             "title":"The town encouraged the girls to get even fatter."
         },
         "11112212122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Mandy Needs More Help",
                 "Move on to the next Girl"
@@ -283,8 +261,6 @@
             "title":"Next"
         },
         "11112212211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Request a loan for a major addition to McDonalds.",
                 "Something else"
@@ -295,8 +271,6 @@
             "title":"next"
         },
         "111122122111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She goes back to hiring teen girls",
                 "She goes back to hiring teen girls + something else"
@@ -307,8 +281,6 @@
             "title":"Request a loan for a major addition to McDonalds."
         },
         "1111221221112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Not removing *any* grease from the burgers.",
                 "something else"
@@ -319,8 +291,6 @@
             "title":"She goes back to hiring teen girls + something ..."
         },
         "11112212211121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Who would hire the new girls?",
                 "How do they get into the other room? "
@@ -331,8 +301,6 @@
             "title":"Not removing *any* grease from the burgers."
         },
         "111122122111211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "They start work",
                 "Something else"
@@ -345,7 +313,6 @@
         "1111221221112112":{
             "author_id":"vardex",
             "author_name":"Kahn",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>And then Gillian was the fat chick</span></div></span></div>",
             "created":1338613200,
             "id":1350673,
@@ -390,8 +357,6 @@
             "title":"The scheme"
         },
         "113":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Everyone in town came to see them!",
                 "Only the women in town came to see them!",
@@ -416,8 +381,6 @@
             "title":"See above"
         },
         "1143":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Call 911",
                 "Call onstar"
@@ -502,8 +465,6 @@
             "title":"next"
         },
         "12":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Chrissy orders everything",
                 "Your choice",
@@ -529,8 +490,6 @@
             "title":"Chrissy orders everything"
         },
         "1212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "English",
                 "Gym",
@@ -542,8 +501,6 @@
             "title":"School"
         },
         "12121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "1 Month Later.",
                 "Chrissy decides to show everyone how good Mcdonalds is."
@@ -554,8 +511,6 @@
             "title":"English"
         },
         "121211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "100 pounds. Someone's been slacking...",
                 "200 pounds. Woah."
@@ -566,8 +521,6 @@
             "title":"Food Culture Recognition?"
         },
         "1212111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "M-m-mindy? You look... good.",
                 "Gillian? You work here now?"
@@ -650,8 +603,6 @@
             "title":"Rail thin"
         },
         "122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Her butt fatten a little",
                 "Her butt fattens some",
@@ -663,8 +614,6 @@
             "title":"Chrissy, McDonalds favorite customer!"
         },
         "1223":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Yes, belly!",
                 "Yes, Boobs!",
@@ -676,8 +625,6 @@
             "title":"Her butt fattens alot"
         },
         "12232":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "yes!!!",
                 "!o"
@@ -688,8 +635,6 @@
             "title":"Hourglass"
         },
         "122321":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "her boobs",
                 "her butt hips  and thighs"
@@ -700,8 +645,6 @@
             "title":"distorted hourglass"
         },
         "12233":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The next day",
                 "The next week"
@@ -773,8 +716,6 @@
             "title":"her mom comes in"
         },
         "1313":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "2 weeks later",
                 "4 weeks later"
@@ -809,8 +750,6 @@
             "title":"2 years later lets see what the town is like then"
         },
         "13132":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "At School",
                 "Free Choice"
@@ -821,8 +760,6 @@
             "title":"4 weeks later"
         },
         "131322":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She goes to McDonalds to find: Chrissy??!?",
                 "1 Month after: Chrissy and her mother are enjoying a hearty breakfast..."
@@ -1025,8 +962,6 @@
             "title":"1 Month later..."
         },
         "141":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "After",
                 "During"

@@ -44,8 +44,6 @@
             "title":"Kanto"
         },
         "1111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Pikachu's",
                 "More Squirtle's",
@@ -57,8 +55,6 @@
             "title":"Squirtle"
         },
         "11111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Stay and try to explain",
                 "Run As fast you can"
@@ -69,8 +65,6 @@
             "title":"Pikachu's"
         },
         "11113":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Mudkip's",
                 "More pokemon"
@@ -208,8 +202,6 @@
             "title":"Dragon"
         },
         "125":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Haxorus",
                 "Druddigon",
@@ -221,8 +213,6 @@
             "title":"More"
         },
         "1251":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Forest",
                 "Wasteland",
@@ -275,8 +265,6 @@
             "title":"Hear someone aproching."
         },
         "13211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "go out of the bush",
                 "stay hidden"
@@ -323,8 +311,6 @@
             "title":"I might know someone."
         },
         "135":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Ralts",
                 "Mime Jr.",
@@ -336,8 +322,6 @@
             "title":"Psychics"
         },
         "1351":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "\"I guess you're right.\" Hey, you can still speak!",
                 "\"Ralts ralts\" Looks like you're a Ralts completely",
@@ -463,8 +447,6 @@
             "title":"A girl's attention."
         },
         "14121211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She sends you into battle",
                 "She sends Oshawott into battle"
@@ -475,8 +457,6 @@
             "title":"The big battle"
         },
         "141212111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Snivy Returns",
                 "the boy loses"
@@ -487,8 +467,6 @@
             "title":"Your first Battle"
         },
         "1412121111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "continue battling or pokemon center after gradiution"
             ],
@@ -498,8 +476,6 @@
             "title":"The Snivy strikes back"
         },
         "14121211111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "continue battling",
                 "pokemon center"
@@ -715,8 +691,6 @@
             "title":"One final choice"
         },
         "15":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Articuno.",
                 "Moltres.",
@@ -730,8 +704,6 @@
             "title":"Legendaries, perhaps?"
         },
         "155":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Lugia.",
                 "Ho-oh.",

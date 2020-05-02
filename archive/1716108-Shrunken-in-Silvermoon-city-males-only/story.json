@@ -57,8 +57,6 @@
             "title":"Get out of the Inn"
         },
         "12":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A Blood Elf Paladin",
                 "A Blood Elf Warlock",
@@ -72,8 +70,6 @@
             "title":"One of your enemies/someone shrunks you."
         },
         "121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He wants you to rub his feet",
                 "He wants to eat you",
@@ -85,8 +81,6 @@
             "title":"A Blood Elf Paladin"
         },
         "1211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He decides to have you as a snack.",
                 "He decides he'll keep you as a pet.",
@@ -98,8 +92,6 @@
             "title":"Rubbin' the feets of your new master"
         },
         "12111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He swallows you",
                 "He was just teasing you"

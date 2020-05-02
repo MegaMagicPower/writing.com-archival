@@ -535,8 +535,6 @@
             "title":"Some other reason "
         },
         "1153":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Something happened at school ",
                 "Something happens at work",
@@ -548,8 +546,6 @@
             "title":"Still some more choices"
         },
         "11531":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Bullied ",
                 "Something else "
@@ -572,8 +568,6 @@
             "title":"Bullied "
         },
         "115312":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Low tests ",
                 "Something else "
@@ -596,8 +590,6 @@
             "title":"Something else "
         },
         "11533":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Incontinent",
                 "Something else"
@@ -1369,8 +1361,6 @@
             "title":"Other"
         },
         "12533":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Incontinenr",
                 "Something else"

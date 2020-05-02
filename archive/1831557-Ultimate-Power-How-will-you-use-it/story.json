@@ -128,8 +128,6 @@
             "title":"The body of someone else"
         },
         "11222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "..your dorm room on top of your room mate, just as you had passed out earlier",
                 "..the men's locker room circled by university wrestling team after their workout"
@@ -168,8 +166,6 @@
             "title":"George Smith-40 year old video game nerd"
         },
         "123":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Yes, he keeps everything from all former bodies",
                 "No, he just keeps things from his original life and his current body",
@@ -293,7 +289,6 @@
         "131":{
             "author_id":"mrwoodson",
             "author_name":"mrwoodson",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>a passing young body builder teenager</span></div></span></div>",
             "created":1351400400,
             "id":1455395,
@@ -379,7 +374,6 @@
         "14":{
             "author_id":"mrwoodson",
             "author_name":"mrwoodson",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>go to the office</span></div></span></div>",
             "created":1351400400,
             "id":1455399,
@@ -552,7 +546,6 @@
         "154":{
             "author_id":"fares002",
             "author_name":"Fares002",
-            "choices":null,
             "content":"<div class=\"\"><div> <span>One day, while tending the corn fields,  Juan found a ring laying in the soil.  It was a gold ring and looked expensive.  Since it was near the end of his shift he decided to put the ring on his finger to keep it safe.  Suddenly, he realized that the ring granted him all the money in the world, if he so chose.  He then decided to wish for billions of dollars to support himself and his family.  He lived the rest of his life in luxury, as well as his family.  They all died happy.  </span></div></div>",
             "created":1480741200,
             "id":2244924,

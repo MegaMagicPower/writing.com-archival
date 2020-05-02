@@ -91,8 +91,6 @@
             "title":"dress or skirt"
         },
         "11111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Old School (Jake's)",
                 "New School (Chloe's)"
@@ -449,8 +447,6 @@
             "title":"agree"
         },
         "111111211112111212111111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The Dance"
             ],
@@ -890,8 +886,6 @@
             "title":"think about a condom"
         },
         "111111211112112211111112121112112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "he realizes he's not wearing a condom but doesn't tell you?",
                 "you realize but it's to late?"
@@ -902,8 +896,6 @@
             "title":"forget to think about protection..."
         },
         "1111112111121122111111121211121121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Stops it was a accident?",
                 "Keeps going till you start to enjoy it?"
@@ -926,8 +918,6 @@
             "title":"you realize but it's to late?"
         },
         "11111121111211221111111212111211221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "yes?",
                 "No, but go to the doctors the next day to make sure it wasn't wrong?"
@@ -1128,8 +1118,6 @@
             "title":"You focus on the movie, so Tom doesn't get ..."
         },
         "11111121111211221111111212122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He was just nice and your enjoying yourself?",
                 "He was spiking your drink with alcohol hoping to get you into bed? "
@@ -1152,8 +1140,6 @@
             "title":"He was just nice and your enjoying yourself?"
         },
         "1111112111121122111111121212212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Takes you back to his place, where him and a friend is?",
                 "Takes you to your home?"
@@ -2095,7 +2081,6 @@
         "1111112111121122122121211":{
             "author_id":"runner1240",
             "author_name":"Runner",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>It works, and you find yourself as Jake again. Within ten minutes you forget everything that had happened to you.</span></div></span></div>",
             "created":1255669200,
             "id":776696,
@@ -2104,7 +2089,6 @@
         "1111112111121122122121212":{
             "author_id":"runner1240",
             "author_name":"Runner",
-            "choices":null,
             "content":"<div class=\"\"><div> <span>No such luck. You wake up the next day still Chloe.<br>\r\n<br>\r\nFive years later...<br>\r\n<br>\r\nYou have settled into Chloe's life. Like you said those years before you would never return to normal. Lack of memory people put down to stress, but you have mostly filled those gaps, however you have never forgotten being Jake and wish more guys could be like what you once were, though you love the life you have now. You are still friends with Jess, Leah and Brooke. They, like you, are clubbing tonight. <br>\r\n<br>\r\nA boy, who looks familiar, accidently spills a drink over your new dress. \"Sorry about that. Let me buy you another. My name is Jake...\"</span></div></div>",
             "created":1255669200,
             "id":776702,
@@ -2159,15 +2143,12 @@
         "1111112111121122122122121":{
             "author_id":"runner1240",
             "author_name":"Runner",
-            "choices":null,
             "content":"<div class=\"\"><div> <span>You wake up the next morning after the best sleep you ever had. Looking at your image, you say \"morning Chloe.\" A second later a thought enters your mind \"Chloe! What am I doing\". This is the first time when you are on your own you have refered yourself as Chloe, and you don't actually bothered by this. You wonder if you want to be female, if you want to be Chloe. This thoughts are interrupted by the call that you need to get to school.<br>\r\n<br>\r\nOpening the draws, you see the clothes that troubled you earlier. This time you don't hesistate. Picking the most, feminine outfit you find, you put it on. You giggle like a schoolgirl you are, and add some make-up, losing the last of your male desires. Perfect. You rush down, eager to begin your new life as Chloe.</span></div></div>",
             "created":1255755600,
             "id":777061,
             "title":"Girls' life for me"
         },
         "11111121111211221221222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "That does it I have to find a way",
                 "Something else"
@@ -2539,8 +2520,6 @@
             "title":"Monday morning- time for school"
         },
         "111111212112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go get the replacement clothes?",
                 "Get something to eat and chat?"
@@ -2612,8 +2591,6 @@
             "title":"This can't get any worse"
         },
         "11132":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go Shopping"
             ],
@@ -2659,8 +2636,6 @@
             "title":"Guys"
         },
         "11133":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Tell your \"sister\" to send him away.",
                 "Decide to talk to him."
@@ -2708,8 +2683,6 @@
             "title":"Freak out"
         },
         "1122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Try to find something as close to what you would wear as a boy",
                 "Not sure how Chloe usually dresses - go slightly more feminine",
@@ -2721,8 +2694,6 @@
             "title":"Getting dressed"
         },
         "11222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Leave Chloe's bedroom",
                 "Stay a little longer"
@@ -3230,8 +3201,6 @@
             "title":"He is much younger"
         },
         "11331":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She knows nothing about it",
                 "She is pregnant "
@@ -3458,8 +3427,6 @@
             "title":"take it"
         },
         "12":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "you can't find how to get out of the house",
                 "a small gray dog"
@@ -3707,8 +3674,6 @@
             "title":"Wear the jacket"
         },
         "143122111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "He has morning glory but is still asleep?",
                 "he's naked because he's getting dressed?"
@@ -4480,8 +4445,6 @@
             "title":"You made the squad"
         },
         "1431221222112212222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Yes?",
                 "No?"
@@ -4662,7 +4625,6 @@
         "15112111":{
             "author_id":"runner1240",
             "author_name":"Runner",
-            "choices":null,
             "content":"<div class=\"\"><div> <span>You grin to yourself and start asking yourself questions, but all the answers are girlish, as are your memories. No had played for so long the girlish instincts by taken control. This is why you reach for the makeup on the counter and start to apply it. While you do this the Jake part of you dies, replaced by Chloe. <br>\r\n<br>\r\nYou say your name is chloe and that you are five years old. You then curtsey and return to your dolls.<br>\r\n<br>\r\n</span></div></div>",
             "created":1253595600,
             "id":766558,
@@ -4920,7 +4882,6 @@
         "15112121112":{
             "author_id":"cester",
             "author_name":"Cester",
-            "choices":null,
             "content":"<div class=\"\"><div> <span>You go up to the boy, as you stare deep into his eyes, as you kiss.<br>\r\nIt was a elongated one, this was strange for you, or was it? As you had never kissed a boy.<br>\r\nWith that kiss, memories flew out of your head, leaving new girly ones.<br>\r\n\"Eww!\" He says<br>\r\n\"Haha! Got you Stevie-poo!\" You reply<br>\r\nAll of his friends around him shout \"Cooties!\" As they run away.<br>\r\nMaybe life was going to be good as a girl.<br>\r\nBut hadn't you always been one?</span></div></div>",
             "created":1435294800,
             "id":1999396,
@@ -4939,8 +4900,6 @@
             "title":"\"Time to go shopping.\""
         },
         "15112122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "What do you do next ?",
                 "Someone comes into the room ...",
@@ -5136,7 +5095,6 @@
         "15413":{
             "author_id":"jsonparkjr",
             "author_name":"Alanalannotoriginal",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She snaps your neck<br>\r\n<br>\r\n<br>\r\n<br>\r\nYou died<br>\r\n<br>\r\n<br>\r\nThe end</span></div></span></div>",
             "created":1549947600,
             "id":2616622,

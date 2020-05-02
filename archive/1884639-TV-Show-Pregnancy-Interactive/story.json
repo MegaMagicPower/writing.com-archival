@@ -44,8 +44,6 @@
             "title":"Claire"
         },
         "1111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Season 1/2/3",
                 "Season 4/5/6",
@@ -585,8 +583,6 @@
             "title":"Continue"
         },
         "1511211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go to bed",
                 "Eat"
@@ -609,8 +605,6 @@
             "title":"Eat"
         },
         "151121122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Ask for the rest of the day off.",
                 "Continue to work."
@@ -621,8 +615,6 @@
             "title":"Why not rest more?"
         },
         "1511211221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go back home and...",
                 "Go to the doctors"
@@ -633,8 +625,6 @@
             "title":"Ask for the rest of the day off."
         },
         "15112112211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Rest",
                 "Eat"
@@ -1424,8 +1414,6 @@
             "title":"It's probably just the replicator from Star Trek"
         },
         "15531212211212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Milk for the Offspring!",
                 "A different thought..."
@@ -1436,8 +1424,6 @@
             "title":"No chance to escape, another sympon hits Clara"
         },
         "155312122112121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The Doctor finds Clara. ",
                 "A third symptom hits Clara. "
@@ -1460,8 +1446,6 @@
             "title":"Birthing hips"
         },
         "15531212211212121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The Doctor found her. ",
                 "Another symptom, or a previous one, hits her..."
@@ -1496,8 +1480,6 @@
             "title":"Clara is becoming a real mother"
         },
         "15531212211212121121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "She lies down, allowing her body to grow freely.",
                 "The Doctor reappears!"
@@ -1520,8 +1502,6 @@
             "title":"She lies down, allowing her body to grow freely."
         },
         "1553121221121212112111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A mother requires a lot of food to feed her young. ",
                 "Perhaps more children will change your mind. "
@@ -1544,8 +1524,6 @@
             "title":"Clara is becoming huge  "
         },
         "155312122112121211211122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A couple of days from now. ",
                 "Nine months from now. "
@@ -1640,8 +1618,6 @@
             "title":"Clara\u2019s new attire "
         },
         "1553122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Sure. ",
                 "Next"
@@ -1652,8 +1628,6 @@
             "title":"Someone else?"
         },
         "15531221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Alien Tech",
                 "Other choices"
@@ -2064,8 +2038,6 @@
             "title":"Buffy the Vampire Slayer"
         },
         "1553322211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Angel or Spike",
                 "Riley or Parker"
@@ -2282,8 +2254,6 @@
             "title":"They carry on the case"
         },
         "15533222222222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Riverdale/Twin Peaks",
                 "no"
@@ -2294,8 +2264,6 @@
             "title":"No"
         },
         "155332222222221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Betty or Veronica",
                 "Cheryl or Toni"
@@ -2319,8 +2287,6 @@
             "title":"Betty or Veronica"
         },
         "15533222222222111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Naturally",
                 "Magic"
@@ -2343,8 +2309,6 @@
             "title":"Naturally"
         },
         "1553322222222211111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Season 1",
                 "Season 2"
@@ -2367,8 +2331,6 @@
             "title":"Season 2"
         },
         "155332222222221112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "yes",
                 "no"
@@ -2391,8 +2353,6 @@
             "title":"yes"
         },
         "15533222222222111212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "yes",
                 "no"
@@ -2427,8 +2387,6 @@
             "title":"Veronica."
         },
         "1553322222222212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Cheryl ",
                 "Toni"
@@ -2451,8 +2409,6 @@
             "title":"Cheryl "
         },
         "155332222222222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "yes",
                 "no"
@@ -2463,8 +2419,6 @@
             "title":"Firefly"
         },
         "1553322222222221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "River",
                 "Someone else"
@@ -2475,8 +2429,6 @@
             "title":"yes"
         },
         "15533222222222211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Before Rescue",
                 "During Series"
@@ -2487,8 +2439,6 @@
             "title":"River"
         },
         "1553322222222222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "yes",
                 "no"
@@ -2499,8 +2449,6 @@
             "title":"Roswell"
         },
         "15533222222222221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "yes",
                 "no"
@@ -2511,8 +2459,6 @@
             "title":"yes"
         },
         "155332222222222211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Season 1",
                 "Season 2 or 3"
@@ -2523,8 +2469,6 @@
             "title":"yes"
         },
         "15533222222222222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "yes",
                 "no"
@@ -2535,8 +2479,6 @@
             "title":"Arrow"
         },
         "155332222222222221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "yes",
                 "no"
@@ -2547,8 +2489,6 @@
             "title":"yes"
         },
         "1553322222222222211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Before",
                 "Sometime after"
@@ -2559,8 +2499,6 @@
             "title":"yes"
         },
         "155332222222222222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "yes",
                 "no"
@@ -2571,8 +2509,6 @@
             "title":"Gotham"
         },
         "1553322222222222221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Selina",
                 "Someone else"
@@ -2583,8 +2519,6 @@
             "title":"yes"
         },
         "15533222222222222212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "yes",
                 "no"

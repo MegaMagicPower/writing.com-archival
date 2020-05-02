@@ -198,8 +198,6 @@
             "title":"Stay as the boy"
         },
         "1221111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Take the pull-up",
                 "Take the diaper"
@@ -210,8 +208,6 @@
             "title":"You have soiled your pull-up!"
         },
         "12211112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Arriving at daycare"
             ],
@@ -221,8 +217,6 @@
             "title":"Take the diaper"
         },
         "122111121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Change bodies",
                 "Stay in this body"
@@ -233,8 +227,6 @@
             "title":"Arriving at daycare"
         },
         "1221111211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "A 1 year old boy",
                 "A 2 year old girl"
@@ -245,8 +237,6 @@
             "title":"Change bodies"
         },
         "12211112111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Stay in this body",
                 "Switch bodies again"
@@ -475,7 +465,6 @@
         "1222211":{
             "author_id":"s_p_r",
             "author_name":"S_P_R",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You look at a young boy, he is about 3 years old wearing overalls, he giggles as he stares into the face of his new snack, he throws you into his mouth, in less than a second his baby teeth press down and crush you into little bits.</span></div></span></div>",
             "created":1312088400,
             "id":1158826,
@@ -484,7 +473,6 @@
         "122222":{
             "author_id":"s_p_r",
             "author_name":"S_P_R",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You are too terrified to move, the girl smiles and then slams her foot down, you are crushed under the toddlers massive sneaker.</span></div></span></div>",
             "created":1311915600,
             "id":1157605,

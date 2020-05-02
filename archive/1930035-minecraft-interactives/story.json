@@ -31,8 +31,6 @@
             "title":"vanilla"
         },
         "111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Walk around",
                 "Go to forest"
@@ -145,8 +143,6 @@
             "title":"mod"
         },
         "15":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Steve",
                 "Alex",
@@ -160,8 +156,6 @@
             "title":"skin"
         },
         "151":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Texture pack",
                 "Mods",

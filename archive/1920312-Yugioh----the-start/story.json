@@ -439,8 +439,6 @@
             "title":"make a character"
         },
         "12122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Let's continue!!",
                 "Let's make another character"
@@ -969,7 +967,6 @@
         "1321111111111111111111111111111111111111111111":{
             "author_id":"kemaox",
             "author_name":"otonman",
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The end ??????????????</span></div></span></div>",
             "created":1473483600,
             "id":2208575,

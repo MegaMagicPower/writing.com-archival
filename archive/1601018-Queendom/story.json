@@ -170,8 +170,6 @@
             "title":"Josephina"
         },
         "12":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The Wrath of Lucinda",
                 "Five Days Later",
@@ -183,8 +181,6 @@
             "title":"A New Day "
         },
         "121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Two Years Later"
             ],
@@ -194,9 +190,6 @@
             "title":"The Wrath of Lucinda"
         },
         "1211":{
-            "author_id":null,
-            "author_name":null,
-            "choices":null,
             "content":"<div class=\"\"><div> <span>Now, you are caught up to the present. My name is Vern, and I have been writing in this journal. Right now, I am about an inch tall and still shrinking. We believe that I have about another 3 days to live. Since I have been shrinking over the years, I have been tortured and am Lucinda's pet. I have never been told what has become of sister, or anyone else. If anyone finds this, leave the town of Queendom immediately!</span></div></div>",
             "created":1253682000,
             "id":765083,

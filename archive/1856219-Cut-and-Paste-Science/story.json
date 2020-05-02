@@ -13,8 +13,6 @@
             "title":"The Chamber"
         },
         "11":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "type and enter \"/male\"",
                 "type and enter \"/female\"",
@@ -28,8 +26,6 @@
             "title":"Choose a body"
         },
         "111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go pick the body you want",
                 "Take a look around the place first",
@@ -41,8 +37,6 @@
             "title":"type and enter \"/male\""
         },
         "112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go pick the body you want",
                 "Take a look around the place first",
@@ -54,8 +48,6 @@
             "title":"type and enter \"/female\""
         },
         "113":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go pick the body you want",
                 "Take a look around the place first",
@@ -67,8 +59,6 @@
             "title":"type and enter \"/herm\""
         },
         "114":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Go pick the body you want",
                 "Take a look around the place first",
@@ -80,8 +70,6 @@
             "title":"type and enter \"/asexual\""
         },
         "1141":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Pick this body",
                 "Check the next chamber",
@@ -93,8 +81,6 @@
             "title":"Go pick the body you want"
         },
         "11412":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Choose this one",
                 "Check the next chamber"
@@ -105,8 +91,6 @@
             "title":"Check the next chamber"
         },
         "114122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Choose this one",
                 "Check the next chamber"
@@ -117,8 +101,6 @@
             "title":"Check the next chamber"
         },
         "1141222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Choose this one",
                 "Check the next chamber"
@@ -129,8 +111,6 @@
             "title":"Check the next chamber"
         },
         "11412222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Choose this one",
                 "Check the next chamber"
@@ -141,8 +121,6 @@
             "title":"Check the next chamber"
         },
         "114122222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Choose this one",
                 "Check the next chamber"
@@ -194,8 +172,6 @@
             "title":"Use the inerfaces."
         },
         "1242":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Lets get building",
                 "'talk' with the computer some more",
@@ -318,8 +294,6 @@
             "title":"Take your brain out of the jar and examine it m..."
         },
         "1253":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Time passes and someone comes",
                 "You wake up",
@@ -343,8 +317,6 @@
             "title":"Something else"
         },
         "125331":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Friend",
                 "Foe"
@@ -355,8 +327,6 @@
             "title":"Eh, who cares."
         },
         "1253311":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "a new brain\" she says exposing her empty skull.",
                 "a companion to help with something.\""
@@ -367,8 +337,6 @@
             "title":"Friend"
         },
         "12533111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Yes.",
                 "No."
@@ -379,8 +347,6 @@
             "title":"a new brain\" she says exposing her empty sk..."
         },
         "12533112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "something goes wrong with the robot.",
                 "your vision returns as you are now a robot."

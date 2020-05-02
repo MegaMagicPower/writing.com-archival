@@ -326,8 +326,6 @@
             "title":"Wear the dress."
         },
         "11222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "you accept to wear the dress",
                 "you cancel the wedding"
@@ -338,9 +336,6 @@
             "title":"Refuse to wear the dress."
         },
         "112222":{
-            "author_id":null,
-            "author_name":null,
-            "choices":null,
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>youve canceled the wedding, but you always felt curiosity by the diapers, however you take a decision and you cant change it</span></div></span></div>",
             "created":1401512400,
             "id":1804872,

@@ -15,8 +15,6 @@
             "title":"Pulled over by highway patrol"
         },
         "12":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Does the trooper come chasing after you.",
                 "Does the trooper just stay on the side of the road.",
@@ -42,8 +40,6 @@
             "title":"Trooper chases"
         },
         "1213":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The cop resumes the chase",
                 "The cop calls for backup",
@@ -82,8 +78,6 @@
             "title":"ride in patrol car"
         },
         "1312":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "The Officers Cell Phone rings. . .",
                 "Jeri sees another car following closely behind. . .",

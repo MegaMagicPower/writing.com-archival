@@ -16,8 +16,6 @@
             "title":"So it begins"
         },
         "12":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Eevee",
                 "Flareon",
@@ -31,8 +29,6 @@
             "title":"Eevee and it evolutions?"
         },
         "121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "sparkled in a rainbow colors",
                 "looked like a rainbow",
@@ -44,8 +40,6 @@
             "title":"Eevee"
         },
         "125":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Umbeon",
                 "Espeon",
@@ -57,8 +51,6 @@
             "title":"More"
         },
         "1253":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Leafeon",
                 "Glaceon",
@@ -70,8 +62,6 @@
             "title":"More"
         },
         "12533":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Sylveon",
                 "More"
@@ -82,8 +72,6 @@
             "title":"More"
         },
         "125332":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Real",
                 "Fake"
@@ -121,8 +109,6 @@
             "title":"more"
         },
         "1352":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Suicune",
                 "Arceus",
@@ -134,8 +120,6 @@
             "title":"More"
         },
         "15":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Starter Pokemon",
                 "Gen 1 Pokemon",
@@ -149,8 +133,6 @@
             "title":"More"
         },
         "151":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Gen 1 Starters",
                 "Gen 2 Starters",
@@ -162,8 +144,6 @@
             "title":"Starter Pokemon"
         },
         "1511":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Bulbasaur Family",
                 "Charmander Family",
@@ -175,8 +155,6 @@
             "title":"Gen 1 Starters"
         },
         "1512":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Chikorita Family",
                 "Cyndaquil Family",
@@ -188,8 +166,6 @@
             "title":"Gen 2 Starters"
         },
         "1513":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Gen 3 Starters",
                 "Gen 4 Starters",
@@ -201,8 +177,6 @@
             "title":"more"
         },
         "15131":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Treecko Family",
                 "Torchic or Mudkip Family"
@@ -213,8 +187,6 @@
             "title":"Gen 3 Starters"
         },
         "151312":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Torchic Family",
                 "Mudkip Family"
@@ -225,8 +197,6 @@
             "title":"Torchic or Mudkip Family"
         },
         "15132":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Turtwig Family",
                 "Chimchar or Piplup Family"
@@ -237,8 +207,6 @@
             "title":"Gen 4 Starters"
         },
         "151322":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Chimchar Family",
                 "Piplup Family"
@@ -249,8 +217,6 @@
             "title":"Chimchar or Piplup Family"
         },
         "15133":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Gen 5 Starters",
                 "More"
@@ -261,8 +227,6 @@
             "title":"More"
         },
         "151331":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Oshawott Family",
                 "Snivy or Tepig Family"
@@ -273,8 +237,6 @@
             "title":"Gen 5 Starters"
         },
         "1513312":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Snivy Family",
                 "Tepig Family"
@@ -285,8 +247,6 @@
             "title":"Snivy or Tepig Family"
         },
         "151332":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Gen 6 Starter",
                 "More"
@@ -297,8 +257,6 @@
             "title":"More"
         },
         "1513321":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Chespin family",
                 "Fraokie Family or Fennekin Family"
@@ -309,8 +267,6 @@
             "title":"Gen 6 Starter"
         },
         "15133212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Fennekin Family",
                 "Fraokie Family"
@@ -321,8 +277,6 @@
             "title":"Fraokie Family or Fennekin Family"
         },
         "152":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "0-50",
                 "51-100",
@@ -334,8 +288,6 @@
             "title":"Gen 1 Pokemon"
         },
         "1521":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "0-16",
                 "17-34",
@@ -347,8 +299,6 @@
             "title":"0-50"
         },
         "15211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "0-8",
                 "9-16"
@@ -359,8 +309,6 @@
             "title":"0-16"
         },
         "152111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "0-4",
                 "5-8"
@@ -371,8 +319,6 @@
             "title":"0-8"
         },
         "1521111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "1-2",
                 "3-4"
@@ -383,8 +329,6 @@
             "title":"0-4"
         },
         "15211111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "1",
                 "2"
@@ -395,8 +339,6 @@
             "title":"1-2"
         },
         "15211112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "3",
                 "4"
@@ -407,8 +349,6 @@
             "title":"3-4"
         },
         "1521112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "5-6",
                 "7-8"
@@ -419,8 +359,6 @@
             "title":"5-8"
         },
         "15211121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "5",
                 "6"
@@ -431,8 +369,6 @@
             "title":"5-6"
         },
         "15211122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "7",
                 "8"
@@ -443,8 +379,6 @@
             "title":"7-8"
         },
         "152112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "9-12",
                 "13-16"
@@ -455,8 +389,6 @@
             "title":"9-16"
         },
         "1521121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "9-10",
                 "11-12"
@@ -467,8 +399,6 @@
             "title":"9-12"
         },
         "15211211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "9",
                 "10"
@@ -479,8 +409,6 @@
             "title":"9-10"
         },
         "15211212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "11",
                 "12"
@@ -491,8 +419,6 @@
             "title":"11-12"
         },
         "1521122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "13-14",
                 "15-16"
@@ -503,8 +429,6 @@
             "title":"13-16"
         },
         "15211221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "13",
                 "14"
@@ -515,8 +439,6 @@
             "title":"13-14"
         },
         "15211222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "15",
                 "16"
@@ -527,8 +449,6 @@
             "title":"15-16"
         },
         "15212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "17-25",
                 "26-34"
@@ -539,8 +459,6 @@
             "title":"17-34"
         },
         "152121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "17-20",
                 "21-25"
@@ -551,8 +469,6 @@
             "title":"17-25"
         },
         "1521211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "17-18",
                 "19-20"
@@ -563,8 +479,6 @@
             "title":"17-20"
         },
         "15212111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "17",
                 "18"
@@ -575,8 +489,6 @@
             "title":"17-18"
         },
         "15212112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "19",
                 "20"
@@ -587,8 +499,6 @@
             "title":"19-20"
         },
         "1521212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "21-22",
                 "23-25"
@@ -599,8 +509,6 @@
             "title":"21-25"
         },
         "15212121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "21",
                 "22"
@@ -611,8 +519,6 @@
             "title":"21-22"
         },
         "15212122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "23",
                 "24-25"
@@ -623,8 +529,6 @@
             "title":"23-25"
         },
         "152121222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "24",
                 "25"
@@ -635,8 +539,6 @@
             "title":"24-25"
         },
         "152122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "26-29",
                 "30-34"
@@ -647,8 +549,6 @@
             "title":"26-34"
         },
         "1521221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "26-27",
                 "28-29"
@@ -659,8 +559,6 @@
             "title":"26-29"
         },
         "15212211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "26",
                 "27"
@@ -671,8 +569,6 @@
             "title":"26-27"
         },
         "15212212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "28",
                 "29"
@@ -683,8 +579,6 @@
             "title":"28-29"
         },
         "1521222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "30-31",
                 "32-34"
@@ -695,8 +589,6 @@
             "title":"30-34"
         },
         "15212221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "30",
                 "31"
@@ -707,8 +599,6 @@
             "title":"30-31"
         },
         "15212222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "32",
                 "33-34"
@@ -719,8 +609,6 @@
             "title":"32-34"
         },
         "152122222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "33",
                 "34"
@@ -731,8 +619,6 @@
             "title":"33-34"
         },
         "15213":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "35-42",
                 "43-50"
@@ -743,8 +629,6 @@
             "title":"35-50"
         },
         "152131":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "35-38",
                 "39-42"
@@ -755,8 +639,6 @@
             "title":"35-42"
         },
         "1521311":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "35-36",
                 "37-38"
@@ -767,8 +649,6 @@
             "title":"35-38"
         },
         "15213111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "35",
                 "36"
@@ -779,8 +659,6 @@
             "title":"35-36"
         },
         "15213112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "37",
                 "38"
@@ -791,8 +669,6 @@
             "title":"37-38"
         },
         "1521312":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "39-40",
                 "41-42"
@@ -803,8 +679,6 @@
             "title":"39-42"
         },
         "15213121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "39",
                 "40"
@@ -815,8 +689,6 @@
             "title":"39-40"
         },
         "15213122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "41",
                 "42"
@@ -827,8 +699,6 @@
             "title":"41-42"
         },
         "152132":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "43-46",
                 "47-50"
@@ -839,8 +709,6 @@
             "title":"43-50"
         },
         "1521321":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "43-44",
                 "45-46"
@@ -851,8 +719,6 @@
             "title":"43-46"
         },
         "15213211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "43",
                 "44"
@@ -863,8 +729,6 @@
             "title":"43-44"
         },
         "15213212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "45",
                 "46"
@@ -875,8 +739,6 @@
             "title":"45-46"
         },
         "1521322":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "47-48",
                 "49-50"
@@ -887,8 +749,6 @@
             "title":"47-50"
         },
         "15213221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "47",
                 "48"
@@ -899,8 +759,6 @@
             "title":"47-48"
         },
         "15213222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "49",
                 "50"
@@ -911,8 +769,6 @@
             "title":"49-50"
         },
         "1522":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "51-66",
                 "67-84",
@@ -924,8 +780,6 @@
             "title":"51-100"
         },
         "15221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "51-58",
                 "59-66"
@@ -936,8 +790,6 @@
             "title":"51-66"
         },
         "152211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "51-54",
                 "55-58"
@@ -948,8 +800,6 @@
             "title":"51-58"
         },
         "1522111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "51-52",
                 "53-54"
@@ -960,8 +810,6 @@
             "title":"51-54"
         },
         "15221111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "51",
                 "52"
@@ -972,8 +820,6 @@
             "title":"51-52"
         },
         "15221112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "53",
                 "54"
@@ -984,8 +830,6 @@
             "title":"53-54"
         },
         "1522112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "55-56",
                 "57-58"
@@ -996,8 +840,6 @@
             "title":"55-58"
         },
         "15221121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "55",
                 "56"
@@ -1008,8 +850,6 @@
             "title":"55-56"
         },
         "15221122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "57",
                 "58"
@@ -1020,8 +860,6 @@
             "title":"57-58"
         },
         "152212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "59-62",
                 "63-66"
@@ -1032,8 +870,6 @@
             "title":"59-66"
         },
         "1522121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "59-60",
                 "61-62"
@@ -1044,8 +880,6 @@
             "title":"59-62"
         },
         "15221211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "59",
                 "60"
@@ -1056,8 +890,6 @@
             "title":"59-60"
         },
         "15221212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "61",
                 "62"
@@ -1068,8 +900,6 @@
             "title":"61-62"
         },
         "1522122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "63-64",
                 "65-66"
@@ -1080,8 +910,6 @@
             "title":"63-66"
         },
         "15221221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "63",
                 "64"
@@ -1092,8 +920,6 @@
             "title":"63-64"
         },
         "15221222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "65",
                 "66"
@@ -1104,8 +930,6 @@
             "title":"65-66"
         },
         "15222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "67-74",
                 "75-84"
@@ -1116,8 +940,6 @@
             "title":"67-84"
         },
         "152221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "67-70",
                 "71-74"
@@ -1128,8 +950,6 @@
             "title":"67-74"
         },
         "1522211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "67-68",
                 "69-70"
@@ -1140,8 +960,6 @@
             "title":"67-70"
         },
         "15222111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "67",
                 "68"
@@ -1152,8 +970,6 @@
             "title":"67-68"
         },
         "15222112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "69",
                 "70"
@@ -1164,8 +980,6 @@
             "title":"69-70"
         },
         "1522212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "71-72",
                 "73-74"
@@ -1176,8 +990,6 @@
             "title":"71-74"
         },
         "15222121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "71",
                 "72"
@@ -1188,8 +1000,6 @@
             "title":"71-72"
         },
         "15222122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "73",
                 "74"
@@ -1200,8 +1010,6 @@
             "title":"73-74"
         },
         "152222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "75-76",
                 "77-84"
@@ -1212,8 +1020,6 @@
             "title":"75-84"
         },
         "1522221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "75",
                 "76"
@@ -1224,8 +1030,6 @@
             "title":"75-76"
         },
         "1522222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "77-80",
                 "81-84"
@@ -1236,8 +1040,6 @@
             "title":"77-84"
         },
         "15222221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "77-78",
                 "79-80"
@@ -1248,8 +1050,6 @@
             "title":"77-80"
         },
         "152222211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "77",
                 "78"
@@ -1260,8 +1060,6 @@
             "title":"77-78"
         },
         "152222212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "79",
                 "80"
@@ -1272,8 +1070,6 @@
             "title":"79-80"
         },
         "15222222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "81-82",
                 "83-84"
@@ -1284,8 +1080,6 @@
             "title":"81-84"
         },
         "152222221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "81",
                 "82"
@@ -1296,8 +1090,6 @@
             "title":"81-82"
         },
         "152222222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "83",
                 "84"
@@ -1308,8 +1100,6 @@
             "title":"83-84"
         },
         "15223":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "85-92",
                 "93-100"
@@ -1320,8 +1110,6 @@
             "title":"85-100"
         },
         "152231":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "85-88",
                 "89-92"
@@ -1332,8 +1120,6 @@
             "title":"85-92"
         },
         "1522311":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "85-86",
                 "87-88"
@@ -1344,8 +1130,6 @@
             "title":"85-88"
         },
         "15223111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "85",
                 "86"
@@ -1356,8 +1140,6 @@
             "title":"85-86"
         },
         "15223112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "87",
                 "88"
@@ -1368,8 +1150,6 @@
             "title":"87-88"
         },
         "1522312":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "89-90",
                 "91-92"
@@ -1380,8 +1160,6 @@
             "title":"89-92"
         },
         "15223121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "89",
                 "90"
@@ -1392,8 +1170,6 @@
             "title":"89-90"
         },
         "15223122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "91",
                 "92"
@@ -1404,8 +1180,6 @@
             "title":"91-92"
         },
         "152232":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "93-96",
                 "97-100"
@@ -1416,8 +1190,6 @@
             "title":"93-100"
         },
         "1522321":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "93-94",
                 "95-96"
@@ -1428,8 +1200,6 @@
             "title":"93-96"
         },
         "15223211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "93",
                 "94"
@@ -1440,8 +1210,6 @@
             "title":"93-94"
         },
         "15223212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "95",
                 "96"
@@ -1452,8 +1220,6 @@
             "title":"95-96"
         },
         "1522322":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "97-98",
                 "99-100"
@@ -1464,8 +1230,6 @@
             "title":"97-100"
         },
         "15223221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "97",
                 "98"
@@ -1476,8 +1240,6 @@
             "title":"97-98"
         },
         "152232212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "continue"
             ],
@@ -1487,8 +1249,6 @@
             "title":"Krabby"
         },
         "15223222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "99",
                 "100"
@@ -1499,8 +1259,6 @@
             "title":"99-100"
         },
         "152232221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "continue"
             ],
@@ -1510,8 +1268,6 @@
             "title":"Kingler"
         },
         "152232222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Continue"
             ],
@@ -1521,8 +1277,6 @@
             "title":"Voltorb"
         },
         "1523":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "101-117",
                 "118-134",
@@ -1534,8 +1288,6 @@
             "title":"101-151"
         },
         "15231":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "101-108",
                 "109-117"
@@ -1546,8 +1298,6 @@
             "title":"101-117"
         },
         "152311":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "101-104",
                 "105-108"
@@ -1558,8 +1308,6 @@
             "title":"101-108"
         },
         "1523111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "101-102",
                 "103-104"
@@ -1570,8 +1318,6 @@
             "title":"101-104"
         },
         "15231111":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "101",
                 "102"
@@ -1582,8 +1328,6 @@
             "title":"101-102"
         },
         "15231112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "103",
                 "104"
@@ -1594,8 +1338,6 @@
             "title":"103-104"
         },
         "1523112":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "105-106",
                 "107-108"
@@ -1606,8 +1348,6 @@
             "title":"105-108"
         },
         "15231121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "105",
                 "106"
@@ -1618,8 +1358,6 @@
             "title":"105-106"
         },
         "15231122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "107",
                 "108"
@@ -1630,8 +1368,6 @@
             "title":"107-108"
         },
         "152312":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "109-112",
                 "113-117"
@@ -1642,8 +1378,6 @@
             "title":"109-117"
         },
         "1523121":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "109-110",
                 "111-112"
@@ -1654,8 +1388,6 @@
             "title":"109-112"
         },
         "15231211":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "109",
                 "110"
@@ -1666,8 +1398,6 @@
             "title":"109-110"
         },
         "15231212":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "111",
                 "112"
@@ -1678,8 +1408,6 @@
             "title":"111-112"
         },
         "1523122":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "113-114",
                 "115-117"
@@ -1690,8 +1418,6 @@
             "title":"113-117"
         },
         "15231221":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "113",
                 "114"
@@ -1702,8 +1428,6 @@
             "title":"113-114"
         },
         "15231222":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "115",
                 "116-117"
@@ -1714,8 +1438,6 @@
             "title":"115-117"
         },
         "155":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Gen 4 Pokemon",
                 "Gen 5 Pokemon",
@@ -1727,8 +1449,6 @@
             "title":"More"
         },
         "1553":{
-            "author_id":null,
-            "author_name":null,
             "choices":[
                 "Gen 6 Pokemon",
                 "Gen 7 Pokemon",
