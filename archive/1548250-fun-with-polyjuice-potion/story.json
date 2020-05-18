@@ -57,6 +57,18 @@
             "id":1947153,
             "title":"Fred and George"
         },
+        "111112":{
+            "author_id":"way613",
+            "author_name":"Yaw613 ",
+            "choices":[
+                "Does he spit it out?",
+                "Does he swallow."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Harry is in bed when suddenly Fred and George force Polyjuice Potion down his throat. </span></div></span></div>",
+            "created":1589346000,
+            "id":2834856,
+            "title":"They wait until curfew and give it to him while..."
+        },
         "1112":{
             "author_id":"baymaster08",
             "author_name":"Baymastercraz",
@@ -286,6 +298,30 @@
             "created":1317963600,
             "id":1202127,
             "title":"A new friend."
+        },
+        "11511":{
+            "author_id":"way613",
+            "author_name":"Yaw613 ",
+            "choices":[
+                "Do I look more feminine?",
+                "Do I look hot?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>I end up drinking the potion.</span></div></span></div>",
+            "created":1589346000,
+            "id":2834872,
+            "title":"Jack also ends up in Ravenclaw."
+        },
+        "11512":{
+            "author_id":"way613",
+            "author_name":"Yaw613 ",
+            "choices":[
+                "Do I look more feminine?",
+                "Do I look like a hot girl."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>I drink the potion.</span></div></span></div>",
+            "created":1589346000,
+            "id":2834871,
+            "title":"Jack ends up in Gryffindor."
         },
         "11513":{
             "author_id":"rjh-kk",
@@ -520,6 +556,19 @@
             "created":1360990800,
             "id":1533520,
             "title":"Hermione"
+        },
+        "122":{
+            "author_id":"way613",
+            "author_name":"Yaw613 ",
+            "choices":[
+                "Harry ",
+                "Dean ",
+                "Dumbledore."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who does she turn into?</span></div></span></div>",
+            "created":1589346000,
+            "id":2834860,
+            "title":"Ginny"
         }
     },
     "info":{
@@ -530,7 +579,7 @@
         "description":"<td align=\"left\" class=\"norm\">Hey!<br>\r\nIn this interactive, you take on the life of any Hogwarts student, existing or created, male or female.<br>\r\nYou acquire an unlimited amount of Polyjuice Potion, but it isn't ordinary - if you change into any living, breathing thing, you have 1 hour.  Anything else, 1 day.  Plants are in the anything else category.<br>\r\n<br>\r\nRules:<br>\r\nyou may turn into anything, literally!<br>\r\nno swearing<br>\r\nsex is allowed<br>\r\nstay on topic!!!<br>\r\n<br>\r\nOtherwise, have fun!</td>",
         "id":1548250,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1583115720,
+        "modified":1589374380,
         "pretty_title":"fun with polyjuice potion"
     }
 }

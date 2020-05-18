@@ -1788,6 +1788,18 @@
             "created":1588222800,
             "id":2827327,
             "title":"More story slots."
+        },
+        "13521":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Tommy Pickles",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which character will take the lead in this story?</span></div></span></div>",
+            "created":1588654800,
+            "id":2830420,
+            "title":"Yes"
         }
     },
     "info":{
@@ -1798,7 +1810,7 @@
         "description":"<td align=\"left\" class=\"norm\">Inspired by <a class=\"blue2roll\" rel=\"nofollow\" href=\"http://www.experienceproject.com/stories/Ab-Dl-Stories/1007320\" target=\"_blank\">http://www.experienceproject.com/stories/Ab-Dl-Stories/1007320</a><br>\r\n<br>\r\nHere we look into the life of normal people in an AU to our own world. Picture a world like our own, but with everybody in diapers. Make it required, make it a cultural thing, whatever works.<br>\r\n<br>\r\nNo Character deaths.<br>\r\nNothing too Vile.<br>\r\nNothing too weird (unless you build it up first).<br>\r\nHave fun.</td>",
         "id":1926629,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1588227180,
+        "modified":1588678380,
         "pretty_title":"Diaper World"
     }
 }

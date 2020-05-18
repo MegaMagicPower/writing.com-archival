@@ -606,6 +606,19 @@
             "id":2515091,
             "title":"Other."
         },
+        "125332":{
+            "author_id":"worker1398",
+            "author_name":"Worker1398",
+            "choices":[
+                "Butt Plug",
+                "Tampon",
+                "More choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What about?</span></div></span></div>",
+            "created":1588741200,
+            "id":2831383,
+            "title":"Other"
+        },
         "13":{
             "author_id":"machinistmage",
             "author_name":"Steamgear",
@@ -685,6 +698,19 @@
             "created":1507784400,
             "id":2400112,
             "title":"[Choice] More Clothes"
+        },
+        "1451":{
+            "author_id":"worker1398",
+            "author_name":"Worker1398",
+            "choices":[
+                "Lynda's Work Shoes",
+                "A pair of panties (at a store)",
+                "More choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are you sure?</span></div></span></div>",
+            "created":1588741200,
+            "id":2831386,
+            "title":"More choices"
         },
         "1453":{
             "author_id":"ruleit1",
@@ -1153,7 +1179,7 @@
         "description":"<td align=\"left\" class=\"norm\"><b>Rules</b><br>\r\nNo M/M stuff<br>\r\nCharacters must be around the same age as the protagonist -- this means they are either in high school or college<br>\r\nAdditions must be at least 1,000 characters long, unless it's a choice chapter<br>\r\nTry to keep the characters consistent<br>\r\nDon't kill the main character off without sufficient build-up<br>\r\nNo animal stuff<br>\r\n</td>",
         "id":2130100,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1583973600,
+        "modified":1588801080,
         "pretty_title":"Shrunk and Shipped"
     }
 }

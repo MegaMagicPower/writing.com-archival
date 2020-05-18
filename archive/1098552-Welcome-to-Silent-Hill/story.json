@@ -1332,6 +1332,45 @@
             "id":1449477,
             "title":"Try to budge back on the door.."
         },
+        "1112112211112":{
+            "author_id":"troytroestrup",
+            "author_name":"Troy Troestrup",
+            "choices":[
+                "Help TC",
+                "Run south",
+                "Dodge the ghost-like shape of fog by leaping back, further into the street"
+            ],
+            "content":"<div class=\"\"><div> <span>The fog seems to have settled a tiny bit. At least, you can see a few meters further than you could before.<br>\r\n<br>\r\nAs you walk onto the coal black asphalt of the road, you enjoy a brief moment of silence, during which you somehow come to appreciate the subtle screeching of cicadas around you. But before you have walked long, you hear the sound of glass shattering from the clothing store.<br>\r\n<br>\r\nAs per reflex, you instantly turn your head to figure out what caused the noise. You see TC falling back first to the ground, surrounded by hundreds of pieces of broken glass, some of which are still dripping with blood. <br>\r\n<br>\r\nNo more than five seconds later, you find yourself gazing upon the red-colored grass spots on the lawn.<br>\r\n<br>\r\n\"IT'S STILL ALIVE!\" TC roars. \"JELP ME, FOR FACK'S SAKE!\"<br>\r\n<br>\r\nYou see the zombie stumbling over the wall, through the part where there used to be a window. It exclaims with a loud, painful grunt, where after it starts crawling towards TC, spewing slime and maggots out of the half of its mouth, it has left. On top of that, you suddenly notice a ghastly shape of the fog, which is coming straight at you from the right corner of the small lawn.</span></div></div>",
+            "created":1588654800,
+            "id":2830589,
+            "title":"Continue onto the road.."
+        },
+        "11121122111121":{
+            "author_id":"troytroestrup",
+            "author_name":"Troy Troestrup",
+            "choices":[
+                "Bum-rush the zombie by ramming it, using your own body weight!",
+                "Pull TC away as hard as you can",
+                "Let him go"
+            ],
+            "content":"<div class=\"\"><div> <span>Instinctively, no thinking required, you rush to the old man's aid and grab him by the shoulders to get him onto his feet. TC exerts a skewed shriek and makes a distorted facial expression.<br>\r\n<br>\r\n\"OW!\" He yells.<br>\r\n<br>\r\n\"What's wrong?\" You quickly ask.<br>\r\n<br>\r\n\"My leg...\", TC says, clearly in pain. You notice a very substantial wound, much bigger than the scar on his face.<br>\r\n<br>\r\nA high pitched scream suddenly vibrates everything around you; even the air. It causes your headache to grow, and you only manage to catch a very short glimpse of the ghost-shaped fog, you saw before. Seconds later, it is gone. Completely vanished.<br>\r\n<br>\r\nThe zombie grabs TC's leg and bites into it.<br>\r\n<br>\r\n\"AAAAAAAAAAAAAARRRRRRRRRRRRRRG! FUCK!\" He screams. He shakes his leg violently from side to side and up and down, but the zombie won't fall off. You witness, how its teeth are now three quarters down through TC's leg.</span></div></div>",
+            "created":1588654800,
+            "id":2830598,
+            "title":"Help TC"
+        },
+        "111211221111212":{
+            "author_id":"troytroestrup",
+            "author_name":"Troy Troestrup",
+            "choices":[
+                "Investigate the barn a little more",
+                "Rest with TC and hope, he wakes up",
+                "Keep following the road southwards"
+            ],
+            "content":"<div class=\"\"><div> <span>You realize that this man seems to be the only hope, you got right now. Amidst of all the craziness going on here. He seems to be the only sane thing around.<br>\r\n<br>\r\nSo, you start pulling. Harder. And harder. TC groans in pain.<br>\r\n<br>\r\n\"Le' me go, kid! Save yo'self!\" He cries, as he starts shaking from the pain.<br>\r\n<br>\r\nBut you are determined. You give it another strong pull and suddenly hear a loud, distinct crack, following by a final scream from TC.<br>\r\n<br>\r\nYou both fall backwards. TC lands on top of you but goes still. You notice that the lower part of his leg is missing, spewing blood everywhere right in front of you.<br>\r\n<br>\r\n\"Only... Got...\", TC whispers with exhaust. \"...A knee... now.\"<br>\r\n<br>\r\nAs your adrenaline is pumping three times faster than normal now, you quickly lift him up, put his arm around your shoulder and hurry down the road in the southbound direction, TC mentioned earlier. After TC has performed five admirable limps on his only foot, he collapses into your side, so you have to drag him. But you stop for a few seconds to get a better grip on him and end up being able to actually carry him like a forest worker carries logs. With your sharpened senses, you turn your neck and look at the zombie who seems to be enjoying TC's leg. A disturbing image indeed. You quickly turn your head back, trying not to think about it, while you walk towards something that looks like a barn on the opposite side of the road, just a little down the road.<br>\r\n<br>\r\nThe barn door is open and you don't even think about whether it is safe to go in. You just wander in.<br>\r\n<br>\r\nThere is just hay everywhere, and after you have checked each and every one of the stalls, you lay TC down in the corner with the most hay in it.<br>\r\n<br>\r\nHappiness fills your entire body as you see TC open his eyes a little.<br>\r\n<br>\r\n\"You made it, kid! ... You got us outta ther'...\", TC says, as he coughs and starts to faint again.<br>\r\n<br>\r\nYou pull off a sleeve of your sweater to bind it around his bleeding knee. Just as you are about to be finished, you hear the last words, TC says, before he passes out:<br>\r\n<br>\r\n\"Find... Christian.\"<br>\r\n<br>\r\n<br>\r\n<br>\r\n</span></div></div>",
+            "created":1588654800,
+            "id":2830614,
+            "title":"Pull TC away as hard as you can"
+        },
         "11121122112":{
             "choices":[
                 "Run to the right in search of a window that may not be there",
@@ -5112,7 +5151,7 @@
         "description":"<td align=\"left\" class=\"norm\">You wake to find yourself in a strange town covered in a dense fog. Odd, scary sounds fill the air. You catch a glimpse of some kind of bizarre creature shuffling by, but you're not exactly sure what it is. <br>\r\n<br>\r\nThere aren't any definite rules, as Silent Hill is a town that is different for each person who visits it. Those who find themselves there find themselves in a waking nightmare. You can fight off zombie nurses, dogs and other strange creatures. If you've played the games or seen the movie, you will know what to expect!<br>\r\n<br>\r\nWhat are you searching for? What guilty secret haunts you? How will you escape Silent Hill?<br>\r\n<br>\r\n</td>",
         "id":1098552,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1568350200,
+        "modified":1588703460,
         "pretty_title":"Welcome to Silent Hill"
     }
 }

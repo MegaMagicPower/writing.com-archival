@@ -98,6 +98,47 @@
             "id":2406823,
             "title":"satisfaction"
         },
+        "13":{
+            "author_id":"worker1398",
+            "author_name":"Worker1398",
+            "choices":[
+                "Explore Jazz",
+                "Explore her room.",
+                "Leave her room",
+                "Change of mind (new girl).",
+                "More choices. "
+            ],
+            "content":"<div class=\"\"><div> <span>You decide to check out Jazz Fenton but before you leave you ask Desiree for immortality, invulnability, to be indestructible, to be half ghost all powers and abilities included, and a few others she grants them all and says 'if u ever want more wishes made you are welcome to see me for more wishes!' With that you teleport to Jazz and you see that she's sleeping on her bed completely naked. The door for her bedroom is cracked open.<br>\r\n<br>\r\nWhat do you do next?</span></div></div>",
+            "created":1588654800,
+            "id":2830571,
+            "title":"Jazz Fenton!"
+        },
+        "134":{
+            "author_id":"worker1398",
+            "author_name":"Worker1398",
+            "choices":[
+                "Dani Phantom.",
+                "Someone else.",
+                "Something else?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who do you pick?</span></div></span></div>",
+            "created":1588654800,
+            "id":2830573,
+            "title":"Change of mind (new girl)."
+        },
+        "135":{
+            "author_id":"worker1398",
+            "author_name":"Worker1398",
+            "choices":[
+                "Someone enters her room.",
+                "She wakes up.",
+                "More choices."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Here are more choices.</span></div></span></div>",
+            "created":1588654800,
+            "id":2830572,
+            "title":"More choices. "
+        },
         "14":{
             "choices":[
                 "clevage.",
@@ -271,7 +312,7 @@
         "description":"<td align=\"left\" class=\"norm\">Your name is Matt and one day you meet Desiree, the ghost of wishes, and you wish for the power to shrink to any size you want, and grow back to normal size whenever you want, and to teleport wherever you want,whenever you want.<br>\r\n<br>\r\nanything goes here, just try to stay away from gay stuff, that is all.....HAVE FUN.....</td>",
         "id":1658927,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1509030540,
+        "modified":1588696140,
         "pretty_title":"Shrunk With The Girls Of Danny Phantom"
     }
 }

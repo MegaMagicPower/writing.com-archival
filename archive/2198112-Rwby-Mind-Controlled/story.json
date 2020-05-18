@@ -394,6 +394,51 @@
             "id":2736624,
             "title":"Somewhere else"
         },
+        "1152":{
+            "author_id":"shely",
+            "author_name":"turtleguru",
+            "choices":[
+                "Man #1",
+                "Man #2",
+                "Woman#1",
+                "Woman #2",
+                "Somemore choices because why not"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who are you?</span></div></span></div>",
+            "created":1589173200,
+            "id":2833746,
+            "title":"Land of Darkness "
+        },
+        "11523":{
+            "author_id":"shely",
+            "author_name":"turtleguru",
+            "choices":[
+                "You scope out team RWBY first",
+                "Your scope out team JNPR first",
+                "Some other team at Beacon",
+                "One of the visiting teams",
+                "other"
+            ],
+            "content":"<div class=\"\"><div> <span>Your name is Brooklyn. You have brown hair in a pixie cut.<br>\r\n<br>\r\nYour weapon of choice is a Trident that can channel dust out the back. It's named Hurt Machine.<br>\r\n<br>\r\nYour semblance is Mind Control. If you look into someones eyes you put them into a trance. They have to obey any commands you gave them while they were in trance even if they don't like it. You rewrite their memories if they remain entranced for over 5 minutes. You can change key personality traits if they remain entranced for 30. You can completely rewrite them as people if they are under for a full hour. It must be the same trance for those effects and they don't remember what happens while they're under.<br>\r\n<br>\r\nYour goal is to recruit as many young hunters/huntresses as you can for your Queen Salem's army. You can make your own team from your recruits (preferably two humans, one faunus and all sexy women).<br>\r\n<br>\r\nYour personal goal is to make one of them your wife and all the other girls your harem. You can recruit men for the army but you don't care for them sexually. Or maybe you do. You can write what you want this is an interactive.<br>\r\n<br>\r\nStay under the radar, Cinder's team is your allies, and have fun!</span></div></div>",
+            "created":1589173200,
+            "id":2833753,
+            "title":"Woman#1"
+        },
+        "115235":{
+            "author_id":"back-space",
+            "author_name":"Just-This-One-Time",
+            "choices":[
+                "Faunus male",
+                "Faunus female",
+                "Male",
+                "Female ",
+                "Someone else form the land of darkness "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who are your other teammates </span></div></span></div>",
+            "created":1589173200,
+            "id":2834083,
+            "title":"other"
+        },
         "12":{
             "author_id":"back-space",
             "author_name":"Just-This-One-Time",
@@ -504,10 +549,10 @@
         "author_name":"Just-This-One-Time",
         "brief_description":"The title says it all. I don't really don't care what you write have have fun. ",
         "created":1565727420,
-        "description":"<td align=\"left\" class=\"norm\">Welcome to Beacon. You are a First year who just arrived in time for the Vytal Festival Tournament. You have the power to control peoples minds, and your here to have fun. (You are the leader of a team with 3 females and one of them is a faunus)<br>\r\n<br>\r\nRules<br>\r\n1. Please try to make somewhat long chapters <br>\r\n2. You don't have to put a something else option if you don't want to<br>\r\n3.Never be the one to end a story line, always include 2/3 options </td>",
+        "description":"<td align=\"left\" class=\"norm\">Welcome to Beacon. You are a First year who just arrived in time for the Vytal Festival Tournament. You have the power to control peoples minds, and your here to have fun. (You are the leader of a team with at least 2 females and one of your teammates must be a fauns)<br>\r\n<br>\r\nRules<br>\r\n1. Please try to make somewhat long chapters <br>\r\n2. You don't have to put a something else option if you don't want to<br>\r\n3.Never be the one to end a story line, always include 2/3 options </td>",
         "id":2198112,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1574293920,
+        "modified":1589244000,
         "pretty_title":"Rwby Mind Controlled"
     }
 }

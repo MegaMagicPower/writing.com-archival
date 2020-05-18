@@ -1841,6 +1841,18 @@
             "id":2818043,
             "title":"Princess Sally"
         },
+        "1321":{
+            "author_id":"redwolf12",
+            "author_name":"wolfbood",
+            "choices":[
+                "Alone",
+                "With someone"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So she is at home but is alone or with someone?</span></div></span></div>",
+            "created":1589000400,
+            "id":2833187,
+            "title":"At home."
+        },
         "133":{
             "author_id":"tbtabby",
             "author_name":"TBTabby",
@@ -3505,6 +3517,57 @@
             "id":2782940,
             "title":"Sally lets Nicole control the ray-gun."
         },
+        "1443322212":{
+            "author_id":"bananen1",
+            "author_name":"John",
+            "choices":[
+                "\"Should we suprise one of the guys with the ray?\"",
+                "\"Why don't we just grow together?\""
+            ],
+            "content":"<div class=\"\"><div> <span>\"Allright I want you to use the ray on me Sally?\" Nicole begged.<br>\r\n<br>\r\nSally laughed. \"Oh ofcourse, I would love to do that! So should we start now?\" Sally asked.<br>\r\n<br>\r\n\"W..wait! I want to ask you something first?\" Nicole quickly replied.<br>\r\n<br>\r\n\"What is it Nicole?\"</span></div></div>",
+            "created":1588914000,
+            "id":2832204,
+            "title":"Nicole wants Sally to use the ray-gun on herself."
+        },
+        "144332222":{
+            "author_id":"bananen1",
+            "author_name":"John",
+            "choices":[
+                "\"Let's pay a visit to Bunnie?\"",
+                "Nicole had somebody else in mind."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\"Sure, let's go and visit one of the other girls?\" Sally grinned. \"But who should we pay a little visit Nicole?\"<br>\r\n<br>\r\n\"I know somebody who would like us to show Tails' invention?\" Nicole smiled.</span></div></span></div>",
+            "created":1588914000,
+            "id":2832191,
+            "title":"\"Sure why not use it on other people around..."
+        },
+        "1443322222":{
+            "author_id":"jobobo19",
+            "author_name":"carl.a.pruuitt",
+            "choices":[
+                "Rogue",
+                "Amy",
+                "Cream",
+                "Vanilla",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who did they use the size ray on?</span></div></span></div>",
+            "created":1588914000,
+            "id":2832281,
+            "title":"Nicole had somebody else in mind."
+        },
+        "14433222225":{
+            "author_id":"bananen1",
+            "author_name":"John",
+            "choices":[
+                "Fiona Fox.",
+                "Still somebody else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What if Sally and Nicole paid Fiona a nice little visit?</span></div></span></div>",
+            "created":1588914000,
+            "id":2832303,
+            "title":"Someone else"
+        },
         "145":{
             "author_id":"wereboy",
             "author_name":"E",
@@ -4504,7 +4567,7 @@
         "description":"<td align=\"left\" class=\"norm\">Please use good grammar and make sure the story makes sense, please no out of character characters. Growth and shrinking of both genders is allowed and no gay stuff please. Make sure that chapter additions aren't just 1 or 2 small sentances, other than that, have fun.</td>",
         "id":1472123,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1587573000,
+        "modified":1589063220,
         "pretty_title":"Sonic the hedgehog size interactive"
     }
 }

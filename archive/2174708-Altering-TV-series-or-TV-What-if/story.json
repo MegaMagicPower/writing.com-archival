@@ -289,6 +289,18 @@
             "id":2696515,
             "title":"Other."
         },
+        "115133232":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Alvin & the Chipmunks",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about this?</span></div></span></div>",
+            "created":1588482000,
+            "id":2829605,
+            "title":"Other."
+        },
         "1152":{
             "author_id":"jobobo19",
             "author_name":"carl.a.pruuitt",
@@ -3366,6 +3378,30 @@
             "id":2825762,
             "title":"Yes"
         },
+        "11523133231112111111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Writer's Choice 1",
+                "Writer's Choice 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How did he react to seeing Kimi naked?</span></div></span></div>",
+            "created":1588395600,
+            "id":2828878,
+            "title":"Chaz"
+        },
+        "11523133231112111112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Writer's Choice 1",
+                "Writer's Choice 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How did she react to seeing Kimi naked?</span></div></span></div>",
+            "created":1588395600,
+            "id":2828880,
+            "title":"Kira"
+        },
         "115231332312":{
             "author_id":"johnny2",
             "author_name":"littlejohn",
@@ -3810,6 +3846,18 @@
             "id":2818551,
             "title":"Writer's Choice 1"
         },
+        "1152334221121111112111223":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "She cried",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How did D.W. react to this?</span></div></span></div>",
+            "created":1588395600,
+            "id":2828967,
+            "title":"Dirty"
+        },
         "1152334221122":{
             "author_id":"kameron94",
             "author_name":"Kameron",
@@ -3905,6 +3953,18 @@
             "created":1581656400,
             "id":2787182,
             "title":"Yep"
+        },
+        "115233422112312":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will Arthur and D.W. swap roles in the show?</span></div></span></div>",
+            "created":1588395600,
+            "id":2828969,
+            "title":"Nah."
         },
         "11523342211232":{
             "author_id":"gilligfan",
@@ -12735,6 +12795,30 @@
             "id":2815054,
             "title":"Something else"
         },
+        "115332233332233224322321":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "A character",
+                "An episode"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What part of \"Family Guy\" should we alter?</span></div></span></div>",
+            "created":1588395600,
+            "id":2828947,
+            "title":"Yes"
+        },
+        "1153322333322332243223211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Meg Griffin",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which character should we start with?</span></div></span></div>",
+            "created":1588395600,
+            "id":2828948,
+            "title":"A character"
+        },
         "115332233332233224322322":{
             "author_id":"mrhawlprime",
             "author_name":" mrhawkprime",
@@ -12809,6 +12893,18 @@
             "created":1586754000,
             "id":2818337,
             "title":"Other toons or shows"
+        },
+        "115332233332233224322322251":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "A character",
+                "An episode"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What should we alter?</span></div></span></div>",
+            "created":1588395600,
+            "id":2828888,
+            "title":"Little Bear"
         },
         "115332233332233224322322252":{
             "author_id":"johnny2",
@@ -16193,6 +16289,414 @@
             "id":2812726,
             "title":"Fuller house"
         },
+        "1253333222423222233323333":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "stuck in the middle",
+                "best friends whenever",
+                "another show"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what other show do we pick?</span></div></span></div>",
+            "created":1588395600,
+            "id":2828851,
+            "title":"Another show"
+        },
+        "12533332224232222333233331":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "character",
+                "episode"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>do we alter a character or an episode?</span></div></span></div>",
+            "created":1588395600,
+            "id":2828859,
+            "title":"stuck in the middle"
+        },
+        "125333322242322223332333311":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Rachel",
+                "One of the others."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>We alter Harley?</span></div></span></div>",
+            "created":1588395600,
+            "id":2828869,
+            "title":"character"
+        },
+        "1253333222423222233323333111":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "she's the oldest among her siblings",
+                "she wears diapers",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what do we alter about Harley?</span></div></span></div>",
+            "created":1588395600,
+            "id":2828874,
+            "title":"Yeah"
+        },
+        "12533332224232222333233331111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "In the middle",
+                "The youngest, with Daphne in the middle.",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>With her being the oldest, that leaves Rachel...</span></div></span></div>",
+            "created":1588395600,
+            "id":2828877,
+            "title":"she's the oldest among her siblings"
+        },
+        "12533332224232222333233331112":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>This is because she likes them?</span></div></span></div>",
+            "created":1588395600,
+            "id":2828876,
+            "title":"she wears diapers"
+        },
+        "1253333222423222233323333112":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "she's the youngest of her siblings",
+                "she wears diapers",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>how do we alter Rachel?</span></div></span></div>",
+            "created":1588395600,
+            "id":2828906,
+            "title":"Rachel"
+        },
+        "12533332224232222333233331121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "About 9",
+                "2 year old, or other ages."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She's daphne's age?</span></div></span></div>",
+            "created":1588395600,
+            "id":2828909,
+            "title":"she's the youngest of her siblings"
+        },
+        "125333322242322223332333312":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "stuck in a commercial",
+                "another episode"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what episode of stuck in the middle do we alter?</span></div></span></div>",
+            "created":1588395600,
+            "id":2828861,
+            "title":"episode"
+        },
+        "1253333222423222233323333121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "RC 1",
+                "RC 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>We alter this ep in what way?</span></div></span></div>",
+            "created":1588395600,
+            "id":2828871,
+            "title":"stuck in a commercial"
+        },
+        "12533332224232222333233331211":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "yeah",
+                "Harley was the one that played the jinx game",
+                "something else"
+            ],
+            "content":"<div class=\"\"><div> <span>in the episode, Harley gets her brother Ethan to direct the commercial for their dad's bait and tackle shop so people don't see an old commercial that had her baby self messing her diaper during the commercial, so how about if her dad decided to make a remake of the commercial and have Harley wearing a sailor suit and a diaper for it?</span></div></div>",
+            "created":1588395600,
+            "id":2828885,
+            "title":"RC 1"
+        },
+        "125333322242322223332333312111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Someone else did."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Before filming, did Harley dress herself?</span></div></span></div>",
+            "created":1588395600,
+            "id":2828891,
+            "title":"yeah"
+        },
+        "1253333222423222233323333121112":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "her mother Suzy",
+                "Rachel",
+                "someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>who dresses Harley?</span></div></span></div>",
+            "created":1588395600,
+            "id":2828903,
+            "title":"Someone else did."
+        },
+        "12533332224232222333233331211122":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Nope."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Harley stay still as she's diapered and dressed?</span></div></span></div>",
+            "created":1588395600,
+            "id":2828908,
+            "title":"Rachel"
+        },
+        "12533332224232222333233332":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "One of the episodes."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do we alter a character?</span></div></span></div>",
+            "created":1588395600,
+            "id":2828854,
+            "title":"best friends whenever"
+        },
+        "125333322242322223332333322":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "When Cyd Met Shelby",
+                "Another Episode"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which episode do we alter?</span></div></span></div>",
+            "created":1588395600,
+            "id":2828879,
+            "title":"One of the episodes."
+        },
+        "1253333222423222233323333221":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>We alter it so Cyd turns back into a little girl and is raised by Shelby and her family?</span></div></span></div>",
+            "created":1588395600,
+            "id":2828889,
+            "title":"When Cyd Met Shelby"
+        },
+        "12533332224232222333233332211":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "daughter",
+                "sister"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>by \"raised by Shelby and her family\" would Shelby make the 5 year old Cyd her daughter, or would Cyd become Shelby's little sister.</span></div></span></div>",
+            "created":1588395600,
+            "id":2828902,
+            "title":"Yeah"
+        },
+        "125333322242322223332333322111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "No."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Cyd agrees to this, but, does she want to be younger?</span></div></span></div>",
+            "created":1588395600,
+            "id":2828907,
+            "title":"daughter"
+        },
+        "12533332224232222333233332212":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "yep",
+                "both Cyd and Shelby take longer to change back",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>is it Shelby that takes longer to become her normal age instead of Cyd?</span></div></span></div>",
+            "created":1588395600,
+            "id":2828916,
+            "title":"SE"
+        },
+        "125333322242322223332333322121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "RC 1",
+                "RC 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Shelby takes how long?</span></div></span></div>",
+            "created":1588395600,
+            "id":2828939,
+            "title":"yep"
+        },
+        "125333322242322223332333322123":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "this one",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what if Cyd and Shelby met at a time other than kindergarten?</span></div></span></div>",
+            "created":1588395600,
+            "id":2828951,
+            "title":"something else"
+        },
+        "1253333222423222233323333221231":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Another time."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>They met at a birthday party for one of them.</span></div></span></div>",
+            "created":1588395600,
+            "id":2828959,
+            "title":"this one"
+        },
+        "12533332224232222333233332212311":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Cyd",
+                "Shelby"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>who's birthday is it?</span></div></span></div>",
+            "created":1588395600,
+            "id":2828964,
+            "title":"Yeah"
+        },
+        "125333322242322223332333322123111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "8th",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is it her second?</span></div></span></div>",
+            "created":1588395600,
+            "id":2828965,
+            "title":"Cyd"
+        },
+        "1253333222423222233323333221231113":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No, Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was it her 5th birthday?</span></div></span></div>",
+            "created":1588482000,
+            "id":2829577,
+            "title":"SE"
+        },
+        "12533332224232222333233332212311131":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "When they were eating cake.",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>They first met...</span></div></span></div>",
+            "created":1588482000,
+            "id":2829597,
+            "title":"Yes"
+        },
+        "125333322242322223332333322123111312":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No, Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did they meet during a party game?</span></div></span></div>",
+            "created":1588482000,
+            "id":2829697,
+            "title":"SE"
+        },
+        "1253333222423222233323333221231113121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "RC 1",
+                "RC 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which game was it?</span></div></span></div>",
+            "created":1588482000,
+            "id":2829705,
+            "title":"Yes"
+        },
+        "12533332224232222333233333":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "power rangers",
+                "Liv and Maddie",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>how about the massive series called power rangers?</span></div></span></div>",
+            "created":1588395600,
+            "id":2828852,
+            "title":"another show"
+        },
+        "125333322242322223332333332":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Episode."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So, is it a character we alter?</span></div></span></div>",
+            "created":1588395600,
+            "id":2828855,
+            "title":"Liv and Maddie"
+        },
+        "1253333222423222233323333321":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Liv",
+                "Maddie",
+                "someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>who from Liv and Maddie do we alter?</span></div></span></div>",
+            "created":1588395600,
+            "id":2828867,
+            "title":"Yeah"
+        },
+        "12533332224232222333233333212":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Reader's choice 1",
+                "Reader's choice 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The twin is altered how so?</span></div></span></div>",
+            "created":1588395600,
+            "id":2828872,
+            "title":"Maddie"
+        },
         "13":{
             "author_id":"gilligfan",
             "author_name":"PrincessKooh",
@@ -16334,6 +16838,32 @@
             "created":1580187600,
             "id":2779681,
             "title":" Ranma use a different girl as his \"model\""
+        },
+        "1354412312":{
+            "author_id":"eternallylosta",
+            "author_name":"EternallyLostAuthor",
+            "choices":[
+                "Ranma Stumbles across Ryoga's Campsite",
+                "Someone else finds Ranma",
+                "A Different What If"
+            ],
+            "content":"<div class=\"\"><div> <span>What If <br>\r\nInstead of recreating the injury and fixing the personality switch Akane angry drove the feminine Ranma out into the streets where she was found by someone else in the cast to take her in since she believes she's no longer wanted back at the Tendos... They try and deal with this Girly Ranma while Tendo dojo tries to get things back to normal. If they Can<br>\r\n<br>\r\n<br>\r\nOr<br>\r\n<br>\r\nSome other What If (other then Ranma imprinting on a different girl)</span></div></div>",
+            "created":1588827600,
+            "id":2831756,
+            "title":"a different what if based on Am I...Pretty?"
+        },
+        "13544123122":{
+            "author_id":"eternallylosta",
+            "author_name":"EternallyLostAuthor",
+            "choices":[
+                "Tatewaki Kuno *Insert current impressive title*",
+                "Hiroshi and Daisuke, Ranma's normal Highschool friends",
+                "Someone Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who else could Ranma run into?</span></div></span></div>",
+            "created":1588827600,
+            "id":2831758,
+            "title":"Someone else finds Ranma"
         }
     },
     "info":{
@@ -16344,7 +16874,7 @@
         "description":"<td align=\"left\" class=\"norm\">Each category is broken down into two sections <br>\r\nAlter = change anything i.e: TG TF AR AP etc<br>\r\nWhat if = change the story line i.e: Johnny Test stuck as a dog<br>\r\n<br>\r\nSo any series Live Action, Cartoon or Anime, you can do anything you want however there\u2019s two exceptions <br>\r\n<br>\r\n1) Sex is fine but don\u2019t get to graphic <br>\r\n2) NO Vore <br>\r\n<br>\r\n<br>\r\n</td>",
         "id":2174708,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1588022940,
+        "modified":1588869840,
         "pretty_title":"Altering TV series or TV What if "
     }
 }

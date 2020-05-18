@@ -208,6 +208,33 @@
             "created":1569474000,
             "id":2723712,
             "title":"A different race"
+        },
+        "14":{
+            "author_id":"kaiblastx3",
+            "author_name":"mason",
+            "choices":[
+                "Yugioh",
+                "Dragonball ",
+                "Pokemon ",
+                "Bleach",
+                "Fairy tail or other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which world</span></div></span></div>",
+            "created":1588654800,
+            "id":2830362,
+            "title":"A Fictional World"
+        },
+        "145":{
+            "author_id":"kaiblastx3",
+            "author_name":"mason",
+            "choices":[
+                "Fairy tail ",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Fairy tail</span></div></span></div>",
+            "created":1588654800,
+            "id":2830363,
+            "title":"Fairy tail or other"
         }
     },
     "info":{
@@ -215,10 +242,10 @@
         "author_name":"Hawkcam",
         "brief_description":"You die, and are reborn in another world as a girl.",
         "created":1569506100,
-        "description":"<td align=\"left\" class=\"norm\">One day, you die, and meet a god of reincarnation, who offers to reincarnate you into any type of world you want, but there\u00e2\u0080\u0099s a catch. No matter what kind of world you choose, you have to be reborn as a girl! You can choose your race, but you can\u00e2\u0080\u0099t choose gender since the god of reincarnation wants you to be a girl.</td>",
+        "description":"<td align=\"left\" class=\"norm\">One day, you die, and meet a god of reincarnation, who offers to reincarnate you into any type of world you want, but there\u2019s a catch. No matter what kind of world you choose, you have to be reborn as a girl! You can choose your race, but you can\u2019t choose gender since the god of reincarnation wants you to be a girl.</td>",
         "id":2201544,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1569516900,
+        "modified":1588671720,
         "pretty_title":"Reincarnated as a Girl"
     }
 }

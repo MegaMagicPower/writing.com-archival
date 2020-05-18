@@ -323,6 +323,42 @@
             "id":2200360,
             "title":"partnership"
         },
+        "14112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Cartoons",
+                "Comics"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which of these will we go with?</span></div></span></div>",
+            "created":1589605200,
+            "id":2836784,
+            "title":"Cartoons/Comics"
+        },
+        "141121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Family Guy",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which cartoon do you want the story to be based on?</span></div></span></div>",
+            "created":1589605200,
+            "id":2836785,
+            "title":"Cartoons"
+        },
+        "1411211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Meg Griffin",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which character shall we focus on?</span></div></span></div>",
+            "created":1589605200,
+            "id":2836786,
+            "title":"Family Guy"
+        },
         "14113":{
             "choices":[
                 "Sonic the Hedgehog",
@@ -1118,7 +1154,7 @@
         "description":"<td align=\"left\" class=\"norm\">I HIGHLY encourage people to add to this. Anything goes, all I ask is that you stay on topic and that you get really creative :3  Thnx for writing! Oh, And also, the story has to include either digimon characters, pokemon characters, or sonic characters or I'll delete it. There are no rules so go wild! ... well, exept for popping and dying, none of that. All I ask is to keep the story going and don't end it uless the story is dead and above 17 chapters. Also, keep the stories two paragraphs or longer, one sentance paragraphs make the story boring.<br>\r\n<br>\r\nPS don't list specific character unless there a category that goes 1) sonic characters 2) pokemon characters 3) digimon characters if it's like that, THEN you may put specific characters, just ALWAYS make sure there's an \"other\" slot for other people.</td>",
         "id":1657487,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1500504720,
+        "modified":1589668320,
         "pretty_title":"Inflation Story"
     }
 }

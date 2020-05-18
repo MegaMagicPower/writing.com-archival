@@ -563,6 +563,30 @@
             "id":2257541,
             "title":"Something else"
         },
+        "11331":{
+            "author_id":"warrior_fb",
+            "author_name":"warrior_fb",
+            "choices":[
+                "Eriks Mother",
+                "Susie"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>is it Eriks mother, or his little sister Susie</span></div></span></div>",
+            "created":1588568400,
+            "id":2829805,
+            "title":"One of your family members enters the room"
+        },
+        "113311":{
+            "author_id":"warrior_fb",
+            "author_name":"warrior_fb",
+            "choices":[
+                "\"yes mom\"",
+                "\"Can it wait?\""
+            ],
+            "content":"<div class=\"\"><div> <span>\"Erik, could you help me unload the groceries please?\" His mother asked.<br>\r\n\"Sure mom, just a minute as I'll put my shoes on.\" He smiled at her.<br>\r\n\"Thank you sweetie.\"<br>\r\n<br>\r\nAs Erik was unpacking the car and moving to the kitchen he heard a quiet bling.<br>\r\n<br>\r\nStrength up, the notification said.<br>\r\n<br>\r\nnew job class, helpful child lvl.1. Gain 2% extra XP when you do something to help your family.<br>\r\n<br>\r\nAs Erik finished he gained another notification that his strength had gone up followed by one stating \"Mother's affection increased.\"<br>\r\n\"Oh, before we forget again darling, could you set the trash outside, please.\" His mother asked him, a bright smile on her face.<br>\r\n<br>\r\nHow does Erik answer?</span></div></div>",
+            "created":1588568400,
+            "id":2829812,
+            "title":"Eriks Mother"
+        },
         "114":{
             "author_id":"kingsgate",
             "author_name":"Kingsgate",
@@ -1991,6 +2015,21 @@
             "id":2815954,
             "title":"\"Bikini shopping!\" the girl's cheer..."
         },
+        "1553232211111313131122314":{
+            "author_id":"spooky1",
+            "author_name":"Spooky",
+            "choices":[
+                "You're friends surprise you with a gift, flesh colored breast forms.",
+                "in a fit of embarrassment you wondertrade your chest.",
+                "in a fit of embarrassment you wondertrade your body",
+                "in a fit of embarrassment you wondertrade something to get you out of this",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><div> <span>That's how you ended up in a changing room, your girlfriends were in various states of undress, they had picked out a 'cute' bikini for you when you weren't exactly keen on picking one yourself, you had to restrain yourself from just staring straight at your friends as each of them took their bra's off.<br>\r\n<br>\r\ntheir was a just the tiniest form of jealousy as you took your shirt off, and unclasped your bra wait wait... you were not jealous of them having breasts... were you, no... you just felt sort of silly imagining the model wearing the bikini you were about to put on.<br>\r\n<br>\r\n<a class=\"blue2roll\" rel=\"nofollow\" href=\"https://di2ponv0v5otw.cloudfront.net/posts/2017/04/18/58f64764eaf030c0731697e2/m_5c91a69d7386bcb4c483b0e9.jpg\" target=\"_blank\">https://di2ponv0v5otw.cloudfront.net/posts/2017/04/18/58f64764eaf030c0731697e2/m...</a><br>\r\n<br>\r\nyou finished tying off the top and slipping into the bikini bottoms, the fringes did seem to do a good job oh hiding any possible bulges, but you otherwise didn't look like you were mean to wear a bikini.</span></div></div>",
+            "created":1589605200,
+            "id":2836824,
+            "title":"You're excited to be around a bunch of girls..."
+        },
         "155323221111131313112234":{
             "author_id":"spooky1",
             "author_name":"Spooky",
@@ -2111,6 +2150,21 @@
             "id":2815990,
             "title":"You've got a day to yourself"
         },
+        "155323221111131313112255":{
+            "author_id":"spooky1",
+            "author_name":"Spooky",
+            "choices":[
+                "A Part time job",
+                "Band... seems Harmless enough",
+                "Football! that's awesome, other than all your other trades you've made...",
+                "Cheerleading...",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You suddenly find yourself someplace else... you check your phone finding a message saying your After School Activity went through...<br>\r\n<br>\r\nYou'd traded Ballet for</span></div></span></div>",
+            "created":1589691600,
+            "id":2837206,
+            "title":"The Ballet trade finally goes through."
+        },
         "1553232212":{
             "author_id":"spooky1",
             "author_name":"Spooky",
@@ -2170,7 +2224,7 @@
         "description":"<td align=\"left\" class=\"norm\">So this is kind of a rework from the 'Learning Magic' interactive.<br>\r\n<br>\r\nOur main character's life has now been turned into an RPG in some way but, the rules are weird and never really in his favor.<br>\r\n<br>\r\nBasic Rules:<br>\r\nThe interactive is basically you making decisions for our characters, the laws of entropy and the big one: The DM-like interface that our hero has to deal with. Doing actions or using items can affect characters stats which can affect their behavior. When making up status effects for objects, they can be outrageous as you like but try have them make sense.<br>\r\n<br>\r\n-Try to stay away from making the characters into hardcore criminals: stealing is fine, but don't turn people rape or kill crazy, please.<br>\r\n<br>\r\n-Respect the pathway you are contributing to! Don't ignore events for your convience unless they have no affect on what you are trying to write.<br>\r\n<br>\r\n-Other than that.....<br>\r\n<br>\r\n<font class=\"size5\" style=\"\">GO NUTS!</font></td>",
         "id":2105644,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1586417460,
+        "modified":1589748300,
         "pretty_title":"RPG Gone Wrong"
     }
 }

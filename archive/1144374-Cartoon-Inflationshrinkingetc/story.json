@@ -651,6 +651,18 @@
             "id":2820435,
             "title":"Kankers"
         },
+        "115232222":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about The Powerpuff Girls?</span></div></span></div>",
+            "created":1588482000,
+            "id":2829169,
+            "title":"Another show"
+        },
         "12":{
             "author_id":"ultran6500",
             "author_name":"Ultran6500",
@@ -1257,6 +1269,18 @@
             "created":1587272400,
             "id":2821342,
             "title":"Field Trip"
+        },
+        "124111211111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "The chamber powers up",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Tommy tripped on some loose wiring and stumbled <br>\r\ninto the chamber with the door closing soon after.<br>\r\n<br>\r\nWhat happens next?</span></div></span></div>",
+            "created":1588914000,
+            "id":2832552,
+            "title":"He tripped and fell in"
         },
         "1242":{
             "author_id":"ultran6500",
@@ -1882,6 +1906,98 @@
             "created":1315112400,
             "id":1181095,
             "title":"Tenchi Universe"
+        },
+        "15":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Garfield",
+                "Peanuts",
+                "Baby Blues",
+                "Marvin",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Choose a newspaper comic.</span></div></span></div>",
+            "created":1588914000,
+            "id":2832492,
+            "title":"Newspaper Comics"
+        },
+        "151":{
+            "author_id":"jobobo19",
+            "author_name":"carl.a.pruuitt",
+            "choices":[
+                "Garfield",
+                "Oddy",
+                "Jon ",
+                "Nermal",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who should we started first?</span></div></span></div>",
+            "created":1588914000,
+            "id":2832548,
+            "title":"Garfield"
+        },
+        "1514":{
+            "author_id":"redwolf12",
+            "author_name":"wolfbood",
+            "choices":[
+                "Age change",
+                "Size change",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What tip of change did Nermal get?</span></div></span></div>",
+            "created":1589000400,
+            "id":2833007,
+            "title":"Nermal"
+        },
+        "15141":{
+            "author_id":"jobobo19",
+            "author_name":"carl.a.pruuitt",
+            "choices":[
+                "Older",
+                "Younger"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Would Nermal get older or younger?</span></div></span></div>",
+            "created":1589086800,
+            "id":2833407,
+            "title":"Age change"
+        },
+        "15142":{
+            "author_id":"jobobo19",
+            "author_name":"carl.a.pruuitt",
+            "choices":[
+                "Bigger",
+                "Smaller"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Would Nermal get bigger or smaller?</span></div></span></div>",
+            "created":1589086800,
+            "id":2833408,
+            "title":"Size change"
+        },
+        "154":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Marvin",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which character shall we focus on?</span></div></span></div>",
+            "created":1588914000,
+            "id":2832549,
+            "title":"Marvin"
+        },
+        "1541":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Age progression",
+                "Age regression",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What will happen to Marvin?</span></div></span></div>",
+            "created":1589000400,
+            "id":2832859,
+            "title":"Marvin"
         }
     },
     "info":{
@@ -1892,7 +2008,7 @@
         "description":"<td align=\"left\" class=\"norm\">In this story you can inflate by body/belly/breasts/butt as well as change a character's gender/size/age or making them pregnant<br>\r\nYou will start off choosing a station.<br>\r\n<br>\r\nplease:<br>\r\nNo hardcore material please: gay/lesbian, erotica, etc.<br>\r\nNo cursing<br>\r\nNo Vore<br>\r\nNo male characters TF unless turned into a girl<br>\r\nNo killing off or making a character no longer existing<br>\r\nNo popping unless the character returns to normal<br>\r\nNo ending the story quickly, try to have at least fifteen chapters(not including tf options) before ending the story and have the secondary option of keeping the story going<br>\r\nplease try to add as much detail to the transformation as possible<br>\r\n<br>\r\n<br>\r\nI'VE EDITED OUT A FEW SHOWS AS WELL ADDED SOME NEW ONES AND CHANGED SOME RULES..</td>",
         "id":1144374,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1587617460,
+        "modified":1589119440,
         "pretty_title":"Cartoon Inflation/shrinking/etc"
     }
 }

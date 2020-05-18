@@ -4114,6 +4114,21 @@
             "id":2197723,
             "title":"The Proud Family"
         },
+        "12513211":{
+            "author_id":"ghostdog1235",
+            "author_name":"TheFriendlyReviewer",
+            "choices":[
+                "Magic",
+                "Incontinence",
+                "Prank Gone Awry",
+                "She secretly likes them",
+                "Other choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Hmmm, why is Penny Proud in diapers?</span></div></span></div>",
+            "created":1588482000,
+            "id":2829094,
+            "title":"Penny Proud"
+        },
         "1251322":{
             "author_id":"redwolf12",
             "author_name":"wolfbood",
@@ -5014,6 +5029,18 @@
             "id":2826668,
             "title":"Yes"
         },
+        "125212113122121111121111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "A crib",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What did they look for first?</span></div></span></div>",
+            "created":1588482000,
+            "id":2829099,
+            "title":"Department store"
+        },
         "12521212":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
@@ -5169,6 +5196,18 @@
             "created":1586926800,
             "id":2819158,
             "title":"No"
+        },
+        "125212121111111211122":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did they drop Angelica off at Tommy's house while <br>\r\nthey're busy redecorating her room?</span></div></span></div>",
+            "created":1588482000,
+            "id":2829102,
+            "title":"Something else"
         },
         "1252121211112":{
             "author_id":"johnny2",
@@ -6506,6 +6545,33 @@
             "id":2819412,
             "title":"A wish"
         },
+        "125333221121111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "A star",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What did D.W. make the wish on?</span></div></span></div>",
+            "created":1588482000,
+            "id":2829097,
+            "title":"Yes"
+        },
+        "1253332212":{
+            "author_id":"ghostdog1235",
+            "author_name":"TheFriendlyReviewer",
+            "choices":[
+                "Clifford the Big Red Dog",
+                "Martha Speaks",
+                "Nature Cat",
+                "Cyberchase",
+                "Other choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about these fine selection of choices?</span></div></span></div>",
+            "created":1588482000,
+            "id":2829453,
+            "title":"Some other t.v. show"
+        },
         "125333222":{
             "author_id":"dannyboy135",
             "author_name":"Danielday Patron",
@@ -6580,6 +6646,21 @@
             "created":1567400400,
             "id":2712495,
             "title":"More "
+        },
+        "12533322222":{
+            "author_id":"ghostdog1235",
+            "author_name":"TheFriendlyReviewer",
+            "choices":[
+                "Sabrina the Animated Series",
+                "Enchantimals?",
+                "Penguins of Madagascar",
+                "Equestria Girls Diaper",
+                "Other choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about these selection of old shows?</span></div></span></div>",
+            "created":1588482000,
+            "id":2829455,
+            "title":"No"
         },
         "13":{
             "author_id":"fivefooteight",
@@ -33543,6 +33624,30 @@
             "created":1514264400,
             "id":2432954,
             "title":"Melinda May?"
+        },
+        "13532222221221":{
+            "author_id":"dolleo",
+            "author_name":"Dolleo",
+            "choices":[
+                "Infiltrate an enemy base or lab",
+                "Lay low in a location where something strange is going on"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>After being coaxed out of desk work and back into a field agent position shield agent Melinda May is being sent on her first solo mission. After saying goodbye to her team the one woman army is sentient off to</span></div></span></div>",
+            "created":1588482000,
+            "id":2829090,
+            "title":"Yes let's go with May"
+        },
+        "135322222212212":{
+            "author_id":"dolleo",
+            "author_name":"Dolleo",
+            "choices":[
+                "A small town",
+                "A tropical resort"
+            ],
+            "content":"<div class=\"\"><div> <span>During her briefing Agent May was informed that strange readings were being detected in different areas around the world remarkably similar to the Greenwich incident, where Thor fought off a group of aliens who we\u2019re using a reality warping artifact called the aether to terraform the planet<br>\r\n<br>\r\nIt was Melindas job to go into one of these places and covertly find out what was happening and what was causing it, weather it was a person to be stopped or just random phenomena<br>\r\n<br>\r\nNow Melinda found herself undercover in...</span></div></div>",
+            "created":1588568400,
+            "id":2829946,
+            "title":"Lay low in a location where something strange i..."
         },
         "13532222221222":{
             "author_id":"wviewerdwj1421",
@@ -79933,7 +80038,7 @@
         "description":"<td align=\"left\" class=\"norm\">In this interactive story i only ask to keep graphics to a low level and to remember characters must be diapered other than that ANYTHING GOES </td>",
         "id":1879664,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1588142940,
+        "modified":1588612260,
         "pretty_title":"Back to Diapers"
     }
 }

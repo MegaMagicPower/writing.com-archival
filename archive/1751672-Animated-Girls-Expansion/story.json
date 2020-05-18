@@ -2388,6 +2388,18 @@
             "id":2824083,
             "title":"One of the Powerpuffs"
         },
+        "1541332111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will Blossom be an adult in this story?</span></div></span></div>",
+            "created":1588482000,
+            "id":2829123,
+            "title":"Blossom"
+        },
         "1541332112":{
             "author_id":"johnny2",
             "author_name":"littlejohn",
@@ -2435,6 +2447,18 @@
             "created":1587704400,
             "id":2824078,
             "title":"Meg Griffin"
+        },
+        "15413322111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will she be married?</span></div></span></div>",
+            "created":1588482000,
+            "id":2829117,
+            "title":"The old-fashioned way "
         },
         "155":{
             "author_id":"dragonwriter45",
@@ -2594,7 +2618,7 @@
         "description":"<td align=\"left\" class=\"norm\">Like the title says, girls from anything animated can be expanded however you like! You can pick girls from anime, disney movies, or cartoons and make them as big as you want. The only rules are no death or gore, and no short only a few sentence chapters. More rules may need to be added depending on how this goes. </td>",
         "id":1751672,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1588047840,
+        "modified":1588491240,
         "pretty_title":"Animated Girls Expansion"
     }
 }

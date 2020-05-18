@@ -3348,6 +3348,18 @@
             "id":2820883,
             "title":"Something else"
         },
+        "1253322222222224332223121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will she be naked like Little Bear?</span></div></span></div>",
+            "created":1589346000,
+            "id":2835065,
+            "title":"Yes"
+        },
         "125332222222222433223":{
             "author_id":"johnny2",
             "author_name":"littlejohn",
@@ -4468,6 +4480,30 @@
             "id":2472114,
             "title":"more fairy tales"
         },
+        "14431":{
+            "author_id":"pedro01",
+            "author_name":"pedro01",
+            "choices":[
+                "Alex In Wonderland",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So for my choice, how about if the main character is a boy named Alex to go through the rabbit hole.</span></div></span></div>",
+            "created":1588568400,
+            "id":2829983,
+            "title":"Alice In Wonderland "
+        },
+        "144311":{
+            "author_id":"pedro01",
+            "author_name":"pedro01",
+            "choices":[
+                "...get some sleep and start dreaming being in Wonderland.",
+                "...head outside for some fresh air."
+            ],
+            "content":"<div class=\"\"><div> <span>Alex is ten years of age, and he had to just watched Alice in Wonderland with his family.  It was only something the whole family would share together by means, which he didn\u2019t seemed to mind about it at all.  He was a bit sceptical at first when he isn\u2019t sure what the film be like, but he was soon invested so much, he he had watched it all the way through until the movie ends.<br>\r\n<br>\r\nSo much so that he looked around to see his entire family fell asleep around him, which he finds himself surprising so sudden.  Alex had no idea what he was only one up, but he shrugged it off and thought about it otherwise.<br>\r\n<br>\r\n\u201cHmm... I think that film puts my family to sleep, but I was up the whole time.  Maybe it\u2019s a good thing I guess?\u201d  Alex can only wonder with that for sure.<br>\r\n<br>\r\nIn the meantime though, Alex had to figure things out and decided he should...</span></div></div>",
+            "created":1588568400,
+            "id":2829984,
+            "title":"Alex In Wonderland"
+        },
         "14432":{
             "author_id":"spunky",
             "author_name":"Ace Jones",
@@ -4505,6 +4541,19 @@
             "created":1523336400,
             "id":2477893,
             "title":"Other Jack And The Beanstalk Parodies "
+        },
+        "1443222":{
+            "author_id":"pedro01",
+            "author_name":"pedro01",
+            "choices":[
+                "Option 1",
+                "Option 2",
+                "More Jack and the Beanstalk Versions "
+            ],
+            "content":"<div class=\"\"><div> <span>You want more scenarios about Jack and the beanstalk?  Well here are the options you can choose for this one.<br>\r\n<br>\r\nOption 1: After reading a story about it, a ten year old boy, named Jack was having a dream of him being climbed onto the beanstalk and into the giant\u2019s castle.  Everything looks so huge, he feels like he had shrunk down to size.  Jack tries to find what he\u2019s looking for, when there\u2019s a giant obese teenager waddling in the room, which turned out to be his 16 year old brother, named Damien.<br>\r\n<br>\r\nOption 2: an adult man, named Jack was in the giant\u2019s castle when he was looking for some vulnerable things to collect.  However the giant enters the room, which turns out to be a ten year old boy.</span></div></div>",
+            "created":1588568400,
+            "id":2829871,
+            "title":"Other Versions of Jack And The Beanstalk"
         },
         "145":{
             "author_id":"mariods01",
@@ -5129,7 +5178,7 @@
         "description":"<td align=\"left\" class=\"norm\">Just follow the usual rules about grammar and sticking with the rating and you should do fine.<br>\r\n<br>\r\nIn this interactive, you pick something you know and love and then change the fabric of its reality. The characters may or may not notice this. This is not, I repeat \"not\", limited to transformations, although that also works here. Be welcome to be nutty with the changes.</td>",
         "id":1829547,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1587688260,
+        "modified":1589407800,
         "pretty_title":"Total Rewrite"
     }
 }

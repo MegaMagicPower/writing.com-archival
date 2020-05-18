@@ -229,6 +229,57 @@
             "id":2814906,
             "title":"Sure"
         },
+        "1152":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Alex",
+                "Hayley",
+                "Someone Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who's class assignment was Claire helping out by playing a baby?</span></div></span></div>",
+            "created":1589259600,
+            "id":2834602,
+            "title":"A baby during a class assignment."
+        },
+        "11521":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Diapered her.",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Alex walk her mother through the rules?</span></div></span></div>",
+            "created":1589259600,
+            "id":2834609,
+            "title":"Alex"
+        },
+        "11523":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No, Someone Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was Claire playing baby for Gloria as part of a parenting class Gloria was taking?</span></div></span></div>",
+            "created":1589346000,
+            "id":2834996,
+            "title":"Someone Else"
+        },
+        "115231":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Dress the baby.",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Both first went through the rules of the class?</span></div></span></div>",
+            "created":1589346000,
+            "id":2835000,
+            "title":"Yes"
+        },
         "1153":{
             "author_id":"kameron94",
             "author_name":"Kameron",
@@ -255,6 +306,56 @@
             "id":2815032,
             "title":"Ends up in another universe"
         },
+        "115312":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Her Yard",
+                "Her Closet",
+                "Somewhere Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where was the portal Claire fell through?</span></div></span></div>",
+            "created":1588914000,
+            "id":2832232,
+            "title":"Aportal she fell into"
+        },
+        "1153122":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "No, SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was she pushed into it by accident?</span></div></span></div>",
+            "created":1588914000,
+            "id":2832235,
+            "title":"Her Closet"
+        },
+        "11531221":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Alex",
+                "Hayley",
+                "Someone Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who accidentally pushed her into it?</span></div></span></div>",
+            "created":1589000400,
+            "id":2832997,
+            "title":"Yeah"
+        },
+        "115312212":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Any other ways"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did it happen when Haley tried to keep Claire from losing her balance when looking for something?</span></div></span></div>",
+            "created":1589000400,
+            "id":2833002,
+            "title":"Hayley"
+        },
         "11532":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
@@ -267,6 +368,30 @@
             "created":1586235600,
             "id":2814903,
             "title":"Lost a bet"
+        },
+        "11533":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No, Another Reason"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Claire end up in diapers because a babysitting job backfires on her?</span></div></span></div>",
+            "created":1589259600,
+            "id":2834312,
+            "title":"Something else"
+        },
+        "115331":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Sure thing",
+                "It's someone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She's babysitting her niece, Lily?</span></div></span></div>",
+            "created":1589259600,
+            "id":2834314,
+            "title":"Yes"
         },
         "12":{
             "author_id":"supreme123",
@@ -444,7 +569,7 @@
         "description":"<td align=\"left\" class=\"norm\">Bringing back this story. Had to get rid of it after it was cluttered with chapters I felt went no where. Try to make chapters as long and as detailed as you can. Nothing to over the top. No insulting characters, sex, drugs, humiliation.</td>",
         "id":2217537,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1586615400,
+        "modified":1589397540,
         "pretty_title":"Modern Family AB/DL"
     }
 }

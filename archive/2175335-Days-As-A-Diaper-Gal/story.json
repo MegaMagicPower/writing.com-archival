@@ -2598,6 +2598,95 @@
             "id":2652787,
             "title":"More books to use."
         },
+        "13532":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Sadie Kane",
+                "isis",
+                "someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>who from the Kane Chronicles ends up in diapers?</span></div></span></div>",
+            "created":1589605200,
+            "id":2836822,
+            "title":"The Kane Chronicles"
+        },
+        "135321":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "She Likes Them",
+                "She's Not Potty Trained",
+                "Another Reason"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Why is Sadie Kane in diapers?</span></div></span></div>",
+            "created":1589605200,
+            "id":2836829,
+            "title":"Sadie Kane"
+        },
+        "1353213":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "a spell",
+                "lost a bet",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what other reason would Sadie be in diapers?</span></div></span></div>",
+            "created":1589605200,
+            "id":2836851,
+            "title":"Another Reason"
+        },
+        "13532133":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No, She's Dared",
+                "Another Reason"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is Sadie being punished with diapers?</span></div></span></div>",
+            "created":1589691600,
+            "id":2836982,
+            "title":"something else"
+        },
+        "135321331":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Carter Kane",
+                "Bast",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Would it be her brother Carter Kane that punishes Sadie with diapers?</span></div></span></div>",
+            "created":1589691600,
+            "id":2837018,
+            "title":"Yes"
+        },
+        "1353213311":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Reader's Choice 1",
+                "Reader's Choice 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Why would Carter punish his sister with diapers?</span></div></span></div>",
+            "created":1589691600,
+            "id":2837040,
+            "title":"Carter Kane"
+        },
+        "135321332":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "By someone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is she dared by Carter?</span></div></span></div>",
+            "created":1589691600,
+            "id":2837081,
+            "title":"No, She's Dared"
+        },
         "13533":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
@@ -2610,6 +2699,70 @@
             "created":1567486800,
             "id":2712737,
             "title":"Boxcar Children or other"
+        },
+        "135331":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Jessica",
+                "Violet",
+                "Someone Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which of the Boxcar Children are in diapers?</span></div></span></div>",
+            "created":1589691600,
+            "id":2837105,
+            "title":"Sure."
+        },
+        "135332":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Mary Anne",
+                "Other ladies."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Shall we use Kristy for this?</span></div></span></div>",
+            "created":1589691600,
+            "id":2837091,
+            "title":"Baby Sitter's Club."
+        },
+        "1353321":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Tables get turned on her while she's babysitting",
+                "She Lost A Bet",
+                "Another Reason"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does Kristy end up in diapers again?</span></div></span></div>",
+            "created":1589691600,
+            "id":2837094,
+            "title":"Yeah"
+        },
+        "13533212":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "With someone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She  loses a bet with Mary Anne?</span></div></span></div>",
+            "created":1589691600,
+            "id":2837097,
+            "title":"She Lost A Bet"
+        },
+        "13533213":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Sure",
+                "Punished",
+                "Any more reasons."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Let's see here, would she be dared?</span></div></span></div>",
+            "created":1589691600,
+            "id":2837099,
+            "title":"Another Reason"
         },
         "14":{
             "author_id":"supreme123",
@@ -7191,6 +7344,30 @@
             "created":1545886800,
             "id":2594436,
             "title":"She sees them as her parents since they brought..."
+        },
+        "14213312":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "yeah",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>does Buffy like them because she wants to be known as Dawn's little sister</span></div></span></div>",
+            "created":1589605200,
+            "id":2836712,
+            "title":"Other reasons."
+        },
+        "142133121":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Reader's Choice 1",
+                "Reader's Choice 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Why would Buffy want to be known as Dawn's little sister?</span></div></span></div>",
+            "created":1589605200,
+            "id":2836732,
+            "title":"yeah"
         },
         "1421332":{
             "author_id":"jd88237",
@@ -28629,6 +28806,19 @@
             "created":1548478800,
             "id":2607843,
             "title":"Other reasons."
+        },
+        "1451133":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Likes them",
+                "Wears them to help Robin get used to babies",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does lily like them</span></div></span></div>",
+            "created":1589605200,
+            "id":2836681,
+            "title":"She likes them, or other reasons."
         },
         "14512":{
             "author_id":"jd88237",
@@ -63059,6 +63249,96 @@
             "id":2596484,
             "title":"stuck in the middle"
         },
+        "145333333333323232332212":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "punishment",
+                "class assignment",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what reason would the oldest of the Diaz siblings end up in diapers?</span></div></span></div>",
+            "created":1589691600,
+            "id":2837164,
+            "title":"No, Rachel."
+        },
+        "1453333333333232323322121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Her mother is",
+                "Hmm, anyone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is Harley punishing her?</span></div></span></div>",
+            "created":1589691600,
+            "id":2837167,
+            "title":"punishment"
+        },
+        "14533333333332323233221212":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "she got a speeding ticket",
+                "Rachel went out wearing a skirt that was to short",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what reason would Rachel's mother punish her with ?</span></div></span></div>",
+            "created":1589691600,
+            "id":2837175,
+            "title":"Her mother is"
+        },
+        "145333333333323232332212122":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah, from Harley",
+                "From anyone else.",
+                "Acted alone."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>In her defense, Rachel hadn't realized how short it was. Still, Susie felt punishment should be in order. Did she get help?</span></div></span></div>",
+            "created":1589691600,
+            "id":2837177,
+            "title":"Rachel went out wearing a skirt that was to short"
+        },
+        "1453333333333232323322122":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Daphne",
+                "Another student at her school."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Her parent for the asignment was Harley?</span></div></span></div>",
+            "created":1589691600,
+            "id":2837170,
+            "title":"class assignment"
+        },
+        "1453333333333232323322123":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No, the tables are turned on her while she's babysitting",
+                "No, Another Reason"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is Rachel dared to wear diapers?</span></div></span></div>",
+            "created":1589691600,
+            "id":2837168,
+            "title":"something else"
+        },
+        "14533333333332323233221232":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup",
+                "Huh, somebody else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who is she watching when this happens to her, Harley?</span></div></span></div>",
+            "created":1589691600,
+            "id":2837171,
+            "title":"No, the tables are turned on her while she'..."
+        },
         "145333333333323232332213":{
             "author_id":"kameron94",
             "author_name":"Kameron",
@@ -63107,6 +63387,68 @@
             "created":1546232400,
             "id":2596491,
             "title":"Suzie Diaz"
+        },
+        "145333333333323232332213212":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "from parent to child",
+                "called in to be part of an assignment",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>does Susie Diaz end up in diapers because she want to be one of the kids?</span></div></span></div>",
+            "created":1589691600,
+            "id":2837149,
+            "title":"No, more reasons."
+        },
+        "1453333333333232323322132121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Photos of the kids as babies.",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What made her want to do this?</span></div></span></div>",
+            "created":1589691600,
+            "id":2837151,
+            "title":"from parent to child"
+        },
+        "14533333333332323233221321212":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "yeah",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>did she want to do this due to the stress of raising 7 kids?</span></div></span></div>",
+            "created":1589691600,
+            "id":2837158,
+            "title":"Something else."
+        },
+        "145333333333323232332213212121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup",
+                "Nah, had help."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did she act alone in this, though?</span></div></span></div>",
+            "created":1589691600,
+            "id":2837160,
+            "title":"yeah"
+        },
+        "1453333333333232323322132122":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Georgie's.",
+                "Harley's or Daphne's."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She was called into who's class, Rachel's?</span></div></span></div>",
+            "created":1589691600,
+            "id":2837152,
+            "title":"called in to be part of an assignment"
         },
         "14533333333332323233222":{
             "author_id":"supreme123",
@@ -73547,6 +73889,18 @@
             "id":2825425,
             "title":"Yes"
         },
+        "15513211121111121121211111211111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Angelica accept it?</span></div></span></div>",
+            "created":1589518800,
+            "id":2836086,
+            "title":"A pacifier"
+        },
         "15513211121111121121211112":{
             "author_id":"johnny2",
             "author_name":"littlejohn",
@@ -74540,7 +74894,7 @@
         "description":"<td align=\"left\" class=\"norm\">Hello Everyone! Through request I have made a female version of my Days As A Diaper Boy. In this story you can diaper any female character from shows, movies, comics ect. and even create your own characters to diaper. <br>\r\n<br>\r\nRules:<br>\r\n<br>\r\nNo Sex: I have rated this story 13+ so please don't include any explicit sex scenes. You can imply it happened but don't go into detail about it.<br>\r\n<br>\r\nFemales only: This is more to keep starting options down since what happens is that lots of people add character options but never actually go through with them. Males in diapers can appear but they can't be the focus. A male version of this story can be found here: <a class=\"blue2roll\" rel=\"nofollow\" href=\"https://www.writing.com/main/interact/item_id/2142178-Days-As-A-Diaper-Boy\" target=\"_blank\">https://www.writing.com/main/interact/item_id/2142178-Days-As-A-Diaper-Boy</a><br>\r\n<br>\r\nHave fun: Pretty self-explanatory and it is why we're all here after all. <br>\r\n</td>",
         "id":2175335,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1587970380,
+        "modified":1589744280,
         "pretty_title":"Days As A Diaper Gal"
     }
 }

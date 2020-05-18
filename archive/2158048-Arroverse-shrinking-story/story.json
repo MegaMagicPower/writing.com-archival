@@ -890,6 +890,19 @@
             "id":2588421,
             "title":"Kate Kane (batwoman)"
         },
+        "11323241":{
+            "author_id":"revani92id",
+            "author_name":"revan92",
+            "choices":[
+                "Alice (Batwoman)",
+                "Kara ",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who's the shrunken one ?</span></div></span></div>",
+            "created":1588654800,
+            "id":2830606,
+            "title":"Kate with a shrunken character (anyonne from th..."
+        },
         "11323242":{
             "author_id":"revani92id",
             "author_name":"revan92",
@@ -1846,6 +1859,83 @@
             "created":1556254800,
             "id":2650711,
             "title":"no someone else"
+        },
+        "121322":{
+            "author_id":"revani92id",
+            "author_name":"revan92",
+            "choices":[
+                "Yes, let's do that",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What about having the girl of steel being trapped with a character of Batwoman ? Kate, Alice or someone else ?</span></div></span></div>",
+            "created":1589432400,
+            "id":2835373,
+            "title":"Shrunken Kara in Batwoman ?"
+        },
+        "1213222":{
+            "author_id":"revani92id",
+            "author_name":"revan92",
+            "choices":[
+                "A day at the Waverider",
+                "A day at Iris and Barry's wedding (lots of characters to meet then)",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Adding an option where the main character is \"you\" as a male or a female, waking up in the waverider at a tiny size</span></div></span></div>",
+            "created":1589432400,
+            "id":2835376,
+            "title":"New plots with \"You\""
+        },
+        "12132221":{
+            "author_id":"revani92id",
+            "author_name":"revan92",
+            "choices":[
+                "A man",
+                "A woman",
+                "An alien ?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What are you ?</span></div></span></div>",
+            "created":1589432400,
+            "id":2835377,
+            "title":"A day at the Waverider"
+        },
+        "12132222":{
+            "author_id":"revani92id",
+            "author_name":"revan92",
+            "choices":[
+                "A man",
+                "A female",
+                "Alien "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>In this one, it's up to the writer to tell if the Nazis things happenned like in the crossover, or not.<br>\r\n<br>\r\nAre you...</span></div></span></div>",
+            "created":1589432400,
+            "id":2835378,
+            "title":"A day at Iris and Barry's wedding (lots of ..."
+        },
+        "12132223":{
+            "author_id":"revani92id",
+            "author_name":"revan92",
+            "choices":[
+                "Ava is the boss",
+                "Giant Ava on other Earth",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>What about Ava feeling she has to shrink Sarah and maybe the other to save the story <br>\r\nOr else <br>\r\n<br>\r\nBeing a clone hurt her so much that she decides to leave the Time bureau to another earth, but it seems the Earth she lands is..tiny. Maybe she can evacuate her frustration on these tinies</span></div></div>",
+            "created":1589605200,
+            "id":2836787,
+            "title":"Ava story "
+        },
+        "121322231":{
+            "author_id":"revani92id",
+            "author_name":"revan92",
+            "choices":[
+                "Shrinks them all, maybe she can just keep Sarah close to her",
+                "Shrinks them all and tries to stomp on them",
+                "other"
+            ],
+            "content":"<div class=\"\"><div> <span>\" My decision is made Agent Sharpe. We won't spend more money for your legends, so let them know that they are fired ! \" Hank said before closing the door as he left<br>\r\n<br>\r\nAva felt bad. She didn't know how to tells this to Sarah, and even if she was able to do this, Sarah would never obey the orders. She had to find a way to stop the Legends. But how ? She couldn't just kill everyone of them, and to be honest none of her agents were enought strong to do that, and mostly Ava didn't want them to be dead.<br>\r\n<br>\r\n\" So i can't and i DON'T want to kill them, and if i try to stop them, they won't listen. So what can i do ? \" Ava wondered as she walked in her office when she realized something. She had a sample of every skills of each one of the crew in the waverider, which included the \"shrinking\" skill from Ray. Maybe, just maybe, she just could shrink them all and keep them hidden in her home...\"Wait, that's insane \" she thought, but what other choices she had ? She didn't know, so thinking about it for a while she decided to...</span></div></div>",
+            "created":1589605200,
+            "id":2836794,
+            "title":"Ava is the boss"
         },
         "122":{
             "author_id":"pokeprof",
@@ -6324,7 +6414,7 @@
         "description":"<td align=\"left\" class=\"norm\">A shrinking story about Arrow / The Flash / Supergirl, or maybe all of them in one !<br>\r\n<br>\r\nNo rules, everything goes !</td>",
         "id":2158048,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1588371840,
+        "modified":1589669220,
         "pretty_title":"Arroverse shrinking story"
     }
 }

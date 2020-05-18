@@ -380,6 +380,18 @@
             "id":2733243,
             "title":"That\u2019s new"
         },
+        "1421112":{
+            "author_id":"ghost8",
+            "author_name":"Ghost8",
+            "choices":[
+                "Brainwash her",
+                "Force himself onto her"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How will Riser make Izumi learn her place?</span></div></span></div>",
+            "created":1588654800,
+            "id":2830380,
+            "title":"Something Else"
+        },
         "143":{
             "author_id":"writer202",
             "author_name":"Writer101",
@@ -4510,6 +4522,30 @@
             "id":2794234,
             "title":"No"
         },
+        "15532212222221222222222222222":{
+            "author_id":"stef96",
+            "author_name":"GS96",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What about someone from Maisen Academy?</span></div></span></div>",
+            "created":1588482000,
+            "id":2829371,
+            "title":"No"
+        },
+        "155322122222212222222222222221":{
+            "author_id":"stef96",
+            "author_name":"GS96",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will he turn into Tsubame?</span></div></span></div>",
+            "created":1589778000,
+            "id":2837511,
+            "title":"Yes"
+        },
         "15532212222222":{
             "author_id":"writer202",
             "author_name":"Writer101",
@@ -4759,7 +4795,7 @@
         "description":"<td align=\"left\" class=\"norm\">Issei has his wildest dreams coming true, just not in the way he thinks.</td>",
         "id":2010368,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1587451800,
+        "modified":1589798100,
         "pretty_title":"Issei TG"
     }
 }

@@ -1184,6 +1184,32 @@
             "id":2691384,
             "title":"more"
         },
+        "1441333":{
+            "author_id":"civfrog992",
+            "author_name":"Dark Dragon",
+            "choices":[
+                "Chris Evans",
+                "Chris Hemsworth",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Seems like half of Hollywood is Chrises, so why not fatten one of them?</span></div></span></div>",
+            "created":1588395600,
+            "id":2828997,
+            "title":"How about a Chris?"
+        },
+        "14413331":{
+            "author_id":"civfrog992",
+            "author_name":"Dark Dragon",
+            "choices":[
+                "A normal airport",
+                "A giant buffet set up by the runway",
+                "A village made entirely of food"
+            ],
+            "content":"<div class=\"\"><div> <span>Chris had just finished his latest film and hadn't yet gotten another role lined up so it was time to hit the Bahamas for a much needed vacation. His jet had been in the air for several hours when it hit turbulence. For several seconds, an aurora filled the plane.<br>\r\n\"What was that?\" Chris demanded.<br>\r\n\"I don't know Mr. Evans. It looked like an aurora but it appeared out of nowhere.\" The captain informed him. \"We'll be arriving in the Bahamas in a couple hours.\"<br>\r\nChris stumbled back to his seat. The plane was steady enough again but he felt like it was doing barrel rolls. Unnerved, Chris had his stewardess grab him an anti-nausea tablet and a sleeping tablet. He'd barely swallowed them and leaned his back against his headrest before the flight faded to black.<br>\r\n<br>\r\n\"Sir. Mr. Evans. We've arrived.\" The stewardess awoke him.<br>\r\nStill groggy, Chris made his way off the plane. The afternoon sun blinded him as he descended the stairs. It made him think what he was seeing was all a mirage.<br>\r\n\"Captain, what is this? Where are we?\"<br>\r\n\"We're in the Bahamas Mr. Evan. Like you wanted.\"<br>\r\n\"Then what is all this?\" Chris waved at...</span></div></div>",
+            "created":1588395600,
+            "id":2829010,
+            "title":"Chris Evans"
+        },
         "1442":{
             "author_id":"jken",
             "author_name":"dfff",
@@ -1205,7 +1231,7 @@
         "description":"<td align=\"left\" class=\"norm\">Male weight gain only </td>",
         "id":2132922,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1579469940,
+        "modified":1588475640,
         "pretty_title":"infinite food world male weight gain"
     }
 }
