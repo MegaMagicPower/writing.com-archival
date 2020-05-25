@@ -1,0 +1,1820 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Season 1",
+                "Season 2",
+                "Season 3",
+                "Season 4",
+                "More Seasons"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Welcome.<br>\r\n<br>\r\nNow Please Pick your favorite Season with your Favorite episodes.<br>\r\n<br>\r\n</span></div></span></div>",
+            "created":1570251600,
+            "id":2728457,
+            "title":"Welcome and Please begin!"
+        },
+        "11":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Tommy and the great white thing",
+                "Tommy's first Birthday",
+                "Barbeque Story",
+                "Waiter, There's a Baby in My Soup\"",
+                "More episodes"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have selected Season 1.<br>\r\n<br>\r\nWhich episode?</span></div></span></div>",
+            "created":1570251600,
+            "id":2728460,
+            "title":"Season 1"
+        },
+        "111":{
+            "author_id":"magicdream",
+            "author_name":"Abracadabra.",
+            "choices":[
+                "Chuckie's there too.",
+                "Angelica's there too.",
+                "Chuckie *and* Angelica are there too.",
+                "Other."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What's different about \"Tommy and the Great White Thing\"?</span></div></span></div>",
+            "created":1570770000,
+            "id":2731517,
+            "title":"Tommy and the great white thing"
+        },
+        "112":{
+            "author_id":"magicdream",
+            "author_name":"Abracadabra.",
+            "choices":[
+                "It's the twins' first birthday instead.",
+                "It's Chuckie's second birthday instead.",
+                "It's Spike who wants to be a human.",
+                "It takes place in an alternate universe.",
+                "Other."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What's different about Tommy's First Birthday?</span></div></span></div>",
+            "created":1577595600,
+            "id":2766181,
+            "title":"Tommy's first Birthday"
+        },
+        "1124":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Angelica's personality is different.",
+                "Susie and Chuckie and Angelica are babies instead of older kids.",
+                "Other differences."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>This universe is different how so?</span></div></span></div>",
+            "created":1581051600,
+            "id":2783737,
+            "title":"It takes place in an alternate universe."
+        },
+        "1125":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Kimi's first birthday.",
+                "Others"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>It's Dil's first birthday instead.</span></div></span></div>",
+            "created":1577595600,
+            "id":2766315,
+            "title":"Other."
+        },
+        "11253":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is it Angelica's first birthday?</span></div></span></div>",
+            "created":1584939600,
+            "id":2805519,
+            "title":"Others"
+        },
+        "112531":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Nope"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>It's Angelica's first birthday. Are the babies the same age as her, though?</span></div></span></div>",
+            "created":1584939600,
+            "id":2805576,
+            "title":"Yes"
+        },
+        "1125311":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Any other differences?</span></div></span></div>",
+            "created":1584939600,
+            "id":2805819,
+            "title":"Yeah"
+        },
+        "11253112":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Charlotte and the others prepping."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>We first follow Angelica with the other babies?</span></div></span></div>",
+            "created":1584939600,
+            "id":2805825,
+            "title":"No"
+        },
+        "112531121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Playing",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What were they doing?</span></div></span></div>",
+            "created":1585026000,
+            "id":2806032,
+            "title":"Yeah"
+        },
+        "1125311211":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Second grade."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>They were playing with one of her birthday gifts?</span></div></span></div>",
+            "created":1585026000,
+            "id":2806207,
+            "title":"Playing"
+        },
+        "1125311212":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did any of them need changing?</span></div></span></div>",
+            "created":1585198800,
+            "id":2807777,
+            "title":"Something else"
+        },
+        "11253112121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Angelica's diaper need changing?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815915,
+            "title":"Yes"
+        },
+        "112531121211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Wet",
+                "Dirty"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was she wet or dirty?</span></div></span></div>",
+            "created":1586408400,
+            "id":2816109,
+            "title":"Yes"
+        },
+        "112532":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Yep",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is it Susie's first birthday?</span></div></span></div>",
+            "created":1584939600,
+            "id":2805649,
+            "title":"Someone else"
+        },
+        "1125321":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Readers choice 1",
+                "Readers choice 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Other differences besides this one?</span></div></span></div>",
+            "created":1584939600,
+            "id":2805651,
+            "title":"Yep"
+        },
+        "114":{
+            "author_id":"magicdream",
+            "author_name":"Abracadabra.",
+            "choices":[
+                "The other babies are there too.",
+                "Tommy gets noticed.",
+                "After the episode, they have a funeral for Tiffany's other goldfish.",
+                "The parents notice Tommy is gone.",
+                "Other."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What's different about \"Baby in My Soup\"?</span></div></span></div>",
+            "created":1577595600,
+            "id":2766182,
+            "title":"Waiter, There's a Baby in My Soup\""
+        },
+        "1141":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Phil, Lil and Chuckie.",
+                "Other."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Phil, Lil, Chuckie, Dil and Kimi?</span></div></span></div>",
+            "created":1577595600,
+            "id":2766316,
+            "title":"The other babies are there too."
+        },
+        "115":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "At the movies",
+                "Slumber Party",
+                "Baby Commercial",
+                "Little dude",
+                "More?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about These?</span></div></span></div>",
+            "created":1570251600,
+            "id":2728461,
+            "title":"More episodes"
+        },
+        "1152":{
+            "author_id":"magicdream",
+            "author_name":"Abracadabra.",
+            "choices":[
+                "It's a nightmare, not a hallucination, and he's not really sick.",
+                "The other babies are there too.",
+                "He's staying with someone else instead of Angelica.",
+                "Angelica has someone else over instead of Tommy.",
+                "Other."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What's different about Slumber Party?</span></div></span></div>",
+            "created":1577595600,
+            "id":2766183,
+            "title":"Slumber Party"
+        },
+        "11523":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Phil and Lil",
+                "Chuckie",
+                "Someone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who is he staying with instead?</span></div></span></div>",
+            "created":1577595600,
+            "id":2766317,
+            "title":"He's staying with someone else instead of A..."
+        },
+        "11525":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Could it take place in an alternate universe where<br>\r\nAngelica is about the same age as Tommy?</span></div></span></div>",
+            "created":1586494800,
+            "id":2816504,
+            "title":"Other."
+        },
+        "1153":{
+            "author_id":"magicdream",
+            "author_name":"Abracadabra.",
+            "choices":[
+                "Tommy is in the ad instead of the twins.",
+                "Tommy's in the ad *with* the twins.",
+                "It's set in the past when the twins were younger.",
+                "Only one twin is starring in the ad.",
+                "Other."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What's different about \"Baby Commercial\"?</span></div></span></div>",
+            "created":1577595600,
+            "id":2766184,
+            "title":"Baby Commercial"
+        },
+        "1154":{
+            "author_id":"magicdream",
+            "author_name":"Abracadabra.",
+            "choices":[
+                "Tommy is replaced with a different baby.",
+                "Tommy meets the cool guy's baby brother.",
+                "The rest of Tommy's family meets the cool guy.",
+                "It's set in a parallel universe.",
+                "Other."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What's different about Little Dude?</span></div></span></div>",
+            "created":1577595600,
+            "id":2766187,
+            "title":"Little dude"
+        },
+        "11541":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Kimi",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who is Tommy replaced by?</span></div></span></div>",
+            "created":1584766800,
+            "id":2804755,
+            "title":"Tommy is replaced with a different baby."
+        },
+        "115411":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "No, Chuckie is with them."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Didi take her alone to the school?</span></div></span></div>",
+            "created":1584766800,
+            "id":2804758,
+            "title":"Kimi"
+        },
+        "1154111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was Kira okay with it?</span></div></span></div>",
+            "created":1585458000,
+            "id":2809996,
+            "title":"Yeah"
+        },
+        "11541111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Readers choice 1",
+                "Readers choice 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What made her agree to the idea?</span></div></span></div>",
+            "created":1585458000,
+            "id":2810018,
+            "title":"Yes"
+        },
+        "115411111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was Kira allowed to come as well?</span></div></span></div>",
+            "created":1585717200,
+            "id":2811690,
+            "title":"Readers choice 1"
+        },
+        "115412":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Can this episode be set in an alternate universe<br>\r\nwhere Angelica is about the same age as Tommy?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815659,
+            "title":"Someone else"
+        },
+        "11544":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Could it be a universe where Angelica is <br>\r\nabout the same age as Tommy?</span></div></span></div>",
+            "created":1586581200,
+            "id":2817182,
+            "title":"It's set in a parallel universe."
+        },
+        "11545":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did one of Tommy's friends accompany him?</span></div></span></div>",
+            "created":1584766800,
+            "id":2804887,
+            "title":"Other."
+        },
+        "115451":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Kimi",
+                "Others."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>It was Chuckie?</span></div></span></div>",
+            "created":1584766800,
+            "id":2804898,
+            "title":"Yes"
+        },
+        "1154512":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Chuckie come too?</span></div></span></div>",
+            "created":1584766800,
+            "id":2804901,
+            "title":"Kimi"
+        },
+        "11545121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do we follow Tommy trying to get Chuckie to relax?</span></div></span></div>",
+            "created":1584766800,
+            "id":2804907,
+            "title":"Yes"
+        },
+        "11545122":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "He was sick",
+                "He was out with his Dad "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Why didn't Chuckie come too?</span></div></span></div>",
+            "created":1584766800,
+            "id":2804913,
+            "title":"No"
+        },
+        "115451222":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Chuckie went to the store with Chaz so he couldn't come.<br>\r\n<br>\r\nWas Kira okay with this?</span></div></span></div>",
+            "created":1584939600,
+            "id":2805463,
+            "title":"He was out with his Dad "
+        },
+        "1154512221":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Tommy",
+                "Kimi",
+                "Two students had to change both of them."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Kira didn't mind. Later, at the school, one of the students had to change...</span></div></span></div>",
+            "created":1584939600,
+            "id":2805591,
+            "title":"Yes"
+        },
+        "11545122211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Wet",
+                "Dirty"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was his diaper dirty or wet?</span></div></span></div>",
+            "created":1584939600,
+            "id":2805808,
+            "title":"Tommy"
+        },
+        "115451222111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "A girl."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The student who got him changed was the guy?</span></div></span></div>",
+            "created":1584939600,
+            "id":2805812,
+            "title":"Wet"
+        },
+        "115451222112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was it the cool guy who changed him?</span></div></span></div>",
+            "created":1585198800,
+            "id":2807772,
+            "title":"Dirty"
+        },
+        "11545122212":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Wet",
+                "Dirty"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was her diaper dirty or wet?</span></div></span></div>",
+            "created":1584939600,
+            "id":2805807,
+            "title":"Kimi"
+        },
+        "115451222121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did the cool guy change her?</span></div></span></div>",
+            "created":1585198800,
+            "id":2807774,
+            "title":"Wet"
+        },
+        "1154512221211":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "No, was nervous."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did she relax as he worked?</span></div></span></div>",
+            "created":1585198800,
+            "id":2807800,
+            "title":"Yes"
+        },
+        "115451222122":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "One of the girls did."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The cool student got her changed?</span></div></span></div>",
+            "created":1584939600,
+            "id":2805814,
+            "title":"Dirty"
+        },
+        "1154512221221":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did she relax through the change?</span></div></span></div>",
+            "created":1585371600,
+            "id":2808759,
+            "title":"Yeah"
+        },
+        "11545122212211":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Sometehing else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Once that was done, did the girls want to play with her and Tommy?</span></div></span></div>",
+            "created":1585371600,
+            "id":2808857,
+            "title":"Yes"
+        },
+        "1155":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Beauty Contest ",
+                "Baseball",
+                "Ruthless Tommy",
+                "Moose County",
+                "More S1 eps"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about Some much more?</span></div></span></div>",
+            "created":1570251600,
+            "id":2728462,
+            "title":"More?"
+        },
+        "11553":{
+            "author_id":"magicdream",
+            "author_name":"Abracadabra.",
+            "choices":[
+                "Dil is kidnapped too.",
+                "All the babies are kidnapped together.",
+                "Dil is kidnapped instead of Tommy.",
+                "The twins are kidnapped instead of Tommy.",
+                "Other."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What's different about this episode?</span></div></span></div>",
+            "created":1577595600,
+            "id":2766189,
+            "title":"Ruthless Tommy"
+        },
+        "11555":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Grandpa's Teeth",
+                "Momma Trauma",
+                "Real or Robots ",
+                "Special Delivery ",
+                "More S1 eps"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about some more?</span></div></span></div>",
+            "created":1570251600,
+            "id":2728463,
+            "title":"More S1 eps"
+        },
+        "115555":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Candy Bar Creep Show",
+                "Monster in the Garage",
+                "Weaning Tommy",
+                "Incident in Aisle Seven",
+                "Last Few More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What do you think of these?</span></div></span></div>",
+            "created":1570251600,
+            "id":2728465,
+            "title":"More S1 eps"
+        },
+        "1155555":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Touchdown Tommy/The Trial",
+                "Fluffy vs. Spike/Reptar's Revenge",
+                "Graham Canyon/Stu-Maker's Elves"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about These 6?</span></div></span></div>",
+            "created":1570251600,
+            "id":2728467,
+            "title":"Last Few More"
+        },
+        "12":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Nah, more"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will the ep for this season altered be Regarding Stuie?</span></div></span></div>",
+            "created":1570338000,
+            "id":2728825,
+            "title":"Season 2"
+        },
+        "121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Someone else thinks they're a baby.",
+                "More ways"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>It is altered in what way?</span></div></span></div>",
+            "created":1571547600,
+            "id":2735734,
+            "title":"Yeah."
+        },
+        "122":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is Mirrorland okay?</span></div></span></div>",
+            "created":1584853200,
+            "id":2805308,
+            "title":"Nah, more"
+        },
+        "1221":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was Kimi included?</span></div></span></div>",
+            "created":1584939600,
+            "id":2805464,
+            "title":"Yes"
+        },
+        "12211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did she go through the mirror with<br>\r\nTommy and Chuckie?</span></div></span></div>",
+            "created":1585026000,
+            "id":2806357,
+            "title":"Yes"
+        },
+        "122111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Mirror Tommy's parents' bedroom",
+                "Somewhere else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where did they go next?</span></div></span></div>",
+            "created":1585026000,
+            "id":2806658,
+            "title":"Yes"
+        },
+        "1221111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Go under the bed",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What did they do in there first?</span></div></span></div>",
+            "created":1585198800,
+            "id":2807482,
+            "title":"Mirror Tommy's parents' bedroom"
+        },
+        "12211111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "They put their diapers on their heads.",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The trio went under the bed to demonstrate how <br>\r\n\"Mirror people\" slept.<br>\r\n<br>\r\nWhat happens next?</span></div></span></div>",
+            "created":1585458000,
+            "id":2809999,
+            "title":"Go under the bed"
+        },
+        "122111111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Just one of them"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Tommy and Kimi both put their diaper on their heads?</span></div></span></div>",
+            "created":1585458000,
+            "id":2810000,
+            "title":"They put their diapers on their heads."
+        },
+        "1221111112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Tommy",
+                "Kimi"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which one of them did it?</span></div></span></div>",
+            "created":1585458000,
+            "id":2810001,
+            "title":"Just one of them"
+        },
+        "1222":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What about Chuckie Vs. the Potty?</span></div></span></div>",
+            "created":1586235600,
+            "id":2815254,
+            "title":"No"
+        },
+        "12221":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Is Kimi included?",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How can we alter this episode?</span></div></span></div>",
+            "created":1586494800,
+            "id":2816627,
+            "title":"Yes"
+        },
+        "13":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Angelica's Birthday.",
+                "Others."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Season 3 it is. Now, which ep will we focus on?</span></div></span></div>",
+            "created":1570338000,
+            "id":2728821,
+            "title":"Season 3"
+        },
+        "131":{
+            "author_id":"littleleo",
+            "author_name":"KitCat27",
+            "choices":[
+                "Angelica does something different",
+                "Susie Joins Angelica",
+                "More Choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Link to Wiki Article for Reference: <a rel=\"nofollow\" href=\"https://rugrats.fandom.com/wiki/Angelica%27s_Birthday\" target=\"_blank\">https://rugrats.fandom.com/wiki/Angelica...</a><br>\r\n<br>\r\nWhat Happens Differently?</span></div></span></div>",
+            "created":1581051600,
+            "id":2783651,
+            "title":"Angelica's Birthday."
+        },
+        "1311":{
+            "author_id":"littleleo",
+            "author_name":"KitCat27",
+            "choices":[
+                "She throws a Tantrum about Growing Up",
+                "She wears her Party Dress, but still acts like a Baby",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What does Angelica do Different?</span></div></span></div>",
+            "created":1581051600,
+            "id":2783654,
+            "title":"Angelica does something different"
+        },
+        "13113":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Sure",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She's nice to the other babies when acting like a baby.</span></div></span></div>",
+            "created":1581051600,
+            "id":2783689,
+            "title":"SE"
+        },
+        "131132":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did she strip to her birthday suit right before<br>\r\nshe struck the pi\u00f1ata?</span></div></span></div>",
+            "created":1585198800,
+            "id":2807299,
+            "title":"SE"
+        },
+        "1312":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Thinks it might be fun",
+                "Another reason."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Why does Susie join Angelica in acting like a baby?</span></div></span></div>",
+            "created":1581051600,
+            "id":2783688,
+            "title":"Susie Joins Angelica"
+        },
+        "1313":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Readers choice 1",
+                "Readers choice 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Other ideas for this ep could be that...</span></div></span></div>",
+            "created":1581051600,
+            "id":2783734,
+            "title":"More Choices"
+        },
+        "13131":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>After the party was over and all the guests went home, Angelica decided that she actually wanted to be a baby again. Do her parents let her have her wish?</span></div></span></div>",
+            "created":1584766800,
+            "id":2804440,
+            "title":"After the party"
+        },
+        "131311":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Did something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>They first bought her baby toys?</span></div></span></div>",
+            "created":1584766800,
+            "id":2804445,
+            "title":"Yes"
+        },
+        "1313112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "They bought diapers that can fit Angelica",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What else did they do?</span></div></span></div>",
+            "created":1584766800,
+            "id":2804446,
+            "title":"Did something else."
+        },
+        "13131121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup",
+                "Drew did",
+                "Charlotte did, or someone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>After buying them, did Angelica put herself into a diaper?</span></div></span></div>",
+            "created":1584766800,
+            "id":2804575,
+            "title":"They bought diapers that can fit Angelica"
+        },
+        "131311212":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "In the bathroom",
+                "On a changing table"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where did he do it?</span></div></span></div>",
+            "created":1584766800,
+            "id":2804757,
+            "title":"Drew did"
+        },
+        "1313112122":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup",
+                "No, she struggled."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>As it ws done, did Angelica stay still?</span></div></span></div>",
+            "created":1584766800,
+            "id":2804759,
+            "title":"On a changing table"
+        },
+        "13131121221":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Wipe her bottom",
+                "Use baby powder"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Angelica was glad her dad was going to diaper her that she would try to lie still while he did it? What did Drew do first?</span></div></span></div>",
+            "created":1584766800,
+            "id":2804763,
+            "title":"Yup"
+        },
+        "131311212211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "She thought it was cold ",
+                "She thought it was nice"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Drew grabbed Angelica's ankles and carefully lifted up her bottom. He then slid the new diaper underneath, then he started to wipe. How did Angelica think the wipe felt on her tushy?</span></div></span></div>",
+            "created":1584766800,
+            "id":2804777,
+            "title":"Wipe her bottom"
+        },
+        "1313112122111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Moved."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She shivered as a result?</span></div></span></div>",
+            "created":1584766800,
+            "id":2804781,
+            "title":"She thought it was cold "
+        },
+        "1313112122112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Baby powder",
+                "Drew taped her diaper up"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Angelica stared to smile when the wipe touched her bottom. She thought it felt nice and soothing and cool but not too cold. What next?</span></div></span></div>",
+            "created":1584766800,
+            "id":2804784,
+            "title":"She thought it was nice"
+        },
+        "13131121221121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did she cough a bit?</span></div></span></div>",
+            "created":1584766800,
+            "id":2804786,
+            "title":"Baby powder"
+        },
+        "131311212211212":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Make Angelica giggle by tickling her tushy",
+                "The smell makes her relax"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What else did the powder do?</span></div></span></div>",
+            "created":1584939600,
+            "id":2805479,
+            "title":"Something else."
+        },
+        "1313112122112122":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Drew then got her into a new diaper. That done, she went to play with the others.</span></div></span></div>",
+            "created":1584939600,
+            "id":2805588,
+            "title":"The smell makes her relax"
+        },
+        "13131121221121221":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Play with their toys",
+                "Go on an adventure"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What did they do first?</span></div></span></div>",
+            "created":1584939600,
+            "id":2805838,
+            "title":"Yup"
+        },
+        "131311212211212211":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>They played with some of his blocks?</span></div></span></div>",
+            "created":1584939600,
+            "id":2805883,
+            "title":"Play with their toys"
+        },
+        "1313112122112122111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Were they trying to build something with them?</span></div></span></div>",
+            "created":1584939600,
+            "id":2805903,
+            "title":"Yeah"
+        },
+        "13131121221121221111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Second grade."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Were they seeing if they could build a tower?</span></div></span></div>",
+            "created":1584939600,
+            "id":2805907,
+            "title":"Yes"
+        },
+        "131311212211212211111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Were they able to do it without it toppling over?</span></div></span></div>",
+            "created":1585026000,
+            "id":2806466,
+            "title":"Yeah"
+        },
+        "1313112122112122111112":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Nope, timber!."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>It eventually fell due to the weight on one end being too much, but, they were able to get out of the way before it fell?</span></div></span></div>",
+            "created":1585026000,
+            "id":2806471,
+            "title":"No"
+        },
+        "13131121221121221111121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "They all laughed",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Everyone got to a safe distance. <br>\r\n<br>\r\nWhat happened next?</span></div></span></div>",
+            "created":1585026000,
+            "id":2806474,
+            "title":"Yeah"
+        },
+        "131311212211212211111211":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Moved on to something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Were they up for trying it again?</span></div></span></div>",
+            "created":1585026000,
+            "id":2806476,
+            "title":"They all laughed"
+        },
+        "1313112122112122111112112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Go on an adventure",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What else did they do?</span></div></span></div>",
+            "created":1585112400,
+            "id":2806804,
+            "title":"Moved on to something else."
+        },
+        "13131121221121221111121122":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did they give Angelica a gift?</span></div></span></div>",
+            "created":1585198800,
+            "id":2807780,
+            "title":"Something else"
+        },
+        "131311212211212211111211221":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Readers choice 1",
+                "Readers choice 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The gift was what?</span></div></span></div>",
+            "created":1585198800,
+            "id":2807799,
+            "title":"Yes"
+        },
+        "1313112122112122111112112211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was it a pacifier?</span></div></span></div>",
+            "created":1585198800,
+            "id":2807962,
+            "title":"Readers choice 1"
+        },
+        "13131121221121221111121122111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did she like it?</span></div></span></div>",
+            "created":1585285200,
+            "id":2808546,
+            "title":"Yes"
+        },
+        "131311212211212211111211221111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Waited until later."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did she start to suck on it after getting it?</span></div></span></div>",
+            "created":1585285200,
+            "id":2808599,
+            "title":"Yes"
+        },
+        "1313112122112122111112112211111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did she enjoy it?</span></div></span></div>",
+            "created":1585285200,
+            "id":2808605,
+            "title":"Yeah"
+        },
+        "13131121221121221111121122111111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She grew to enjoy it. Later, did the other babies drop by?</span></div></span></div>",
+            "created":1585285200,
+            "id":2808617,
+            "title":"Yes"
+        },
+        "131311212211212211111211221111111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did all of them come?</span></div></span></div>",
+            "created":1585285200,
+            "id":2808631,
+            "title":"Yup"
+        },
+        "1313112122112122111112112211111111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Angelica",
+                "Tommy."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who told them what would be going on with Angelica?</span></div></span></div>",
+            "created":1585285200,
+            "id":2808632,
+            "title":"Yes"
+        },
+        "13131121221121221111121122111111111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Writer's Choice 1",
+                "Writer's Choice 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What exactly did she tell them?</span></div></span></div>",
+            "created":1585285200,
+            "id":2808702,
+            "title":"Angelica"
+        },
+        "13131121221121221111121122111111112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Writer's Choice 1",
+                "Writer's Choice 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What exactly did he tell them?</span></div></span></div>",
+            "created":1585285200,
+            "id":2808704,
+            "title":"Tommy."
+        },
+        "1313112122112122111112112211111112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Chuckie",
+                "Phil and Lil"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who came over to visit?</span></div></span></div>",
+            "created":1585371600,
+            "id":2808987,
+            "title":"No"
+        },
+        "13131121221121221111121122111111121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Tommy did."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Tommy tell him what was going on?</span></div></span></div>",
+            "created":1585371600,
+            "id":2808989,
+            "title":"Chuckie"
+        },
+        "131311212211212211111211221111112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Writer's Choice 1",
+                "Writer's Choice 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>All of the babies are already visiting.<br>\r\n<br>\r\nWhat happens next?</span></div></span></div>",
+            "created":1585371600,
+            "id":2809053,
+            "title":"SE"
+        },
+        "1313112122112122111112112211111121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did they all go on an adventure?</span></div></span></div>",
+            "created":1585544400,
+            "id":2810570,
+            "title":"Writer's Choice 1"
+        },
+        "13131121221121221111121122111111211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "The bathroom",
+                "Somewhere else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where did they explore?</span></div></span></div>",
+            "created":1585630800,
+            "id":2811021,
+            "title":"Yes"
+        },
+        "131311212211212211111211221111112111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Writer's Choice 1",
+                "Writer's Choice 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What did they do in there?</span></div></span></div>",
+            "created":1585976400,
+            "id":2813235,
+            "title":"The bathroom"
+        },
+        "1313112122112122111112112211111122":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did their parents come to take them home?</span></div></span></div>",
+            "created":1585630800,
+            "id":2811024,
+            "title":"Writer's Choice 2"
+        },
+        "13131121221121221111121122111111221":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Writer's Choice 1",
+                "Writer's Choice 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>After the babies said their good-byes, what did Angelica do next?</span></div></span></div>",
+            "created":1586062800,
+            "id":2813504,
+            "title":"Yes"
+        },
+        "131311212211212211111211221111112211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did she go back to her room?</span></div></span></div>",
+            "created":1586149200,
+            "id":2814161,
+            "title":"Writer's Choice 1"
+        },
+        "1313112122112122111112112211111122111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did her parents redecorate it into a nursery?</span></div></span></div>",
+            "created":1586149200,
+            "id":2814655,
+            "title":"Yes"
+        },
+        "13131121221121221111121122111111221111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was there a crib and changing table with changing supplies?</span></div></span></div>",
+            "created":1586235600,
+            "id":2815257,
+            "title":"Yes"
+        },
+        "131311212211212211111211221111112211111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was Angelica happy about the redecoration?</span></div></span></div>",
+            "created":1586494800,
+            "id":2816948,
+            "title":"Yes"
+        },
+        "1313112122112122111112112211112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did she put it in her diaper?</span></div></span></div>",
+            "created":1585285200,
+            "id":2808606,
+            "title":"Waited until later."
+        },
+        "131311212212":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Something else that helped."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>He powdered her bottom. She found it soothing. Did the smell of the powder also help?</span></div></span></div>",
+            "created":1584766800,
+            "id":2804766,
+            "title":"Use baby powder"
+        },
+        "132":{
+            "author_id":"spunky",
+            "author_name":"Ace Jones",
+            "choices":[
+                "Reptar 2010",
+                "Naked Tommy",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>As there are more season 3 episodes to choose from what about these 2 episodes?</span></div></span></div>",
+            "created":1570770000,
+            "id":2731533,
+            "title":"Others."
+        },
+        "1322":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will Kimi be included?</span></div></span></div>",
+            "created":1584680400,
+            "id":2804141,
+            "title":"Naked Tommy"
+        },
+        "13221":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup",
+                "Nah."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does she go along with Tommy being naked?</span></div></span></div>",
+            "created":1584680400,
+            "id":2804144,
+            "title":"Yes"
+        },
+        "132211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Same time as Tommy's first time",
+                "When Chuckie showed up"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>When did she decide to get naked?</span></div></span></div>",
+            "created":1584680400,
+            "id":2804148,
+            "title":"Yup"
+        },
+        "1322111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Had Tommy's help."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She was over at Tommy's, and, seeing him get naked, opted to do the same, but, did she undress alone?</span></div></span></div>",
+            "created":1584680400,
+            "id":2804152,
+            "title":"Same time as Tommy's first time"
+        },
+        "13221111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Tommy and Kimi ride on Spike ",
+                "Tommy \"asks Kimi a question\""
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Kimi took off her boots first. Then, she unbuttoned her dress and yanked it and her shirt off, and finally, she undid the tapes of her diaper. What happen next?</span></div></span></div>",
+            "created":1584680400,
+            "id":2804157,
+            "title":"Yeah"
+        },
+        "132211111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Didi",
+                "Stu",
+                "Chuckie when he showed up, or anyone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who first spotted them both naked?</span></div></span></div>",
+            "created":1584680400,
+            "id":2804164,
+            "title":"Tommy and Kimi ride on Spike "
+        },
+        "1322111111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did she freak out?</span></div></span></div>",
+            "created":1584939600,
+            "id":2805902,
+            "title":"Didi"
+        },
+        "13221111112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Take a picture",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What did she do?</span></div></span></div>",
+            "created":1585026000,
+            "id":2806359,
+            "title":"No"
+        },
+        "132211111122":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did she take them outside?</span></div></span></div>",
+            "created":1585198800,
+            "id":2807597,
+            "title":"Something else"
+        },
+        "1322111111221":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Writer's Choice 1",
+                "Writer's Choice 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What happens next?</span></div></span></div>",
+            "created":1585458000,
+            "id":2809418,
+            "title":"Yes"
+        },
+        "13221111112211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did the other babies show up?</span></div></span></div>",
+            "created":1585630800,
+            "id":2810765,
+            "title":"Writer's Choice 1"
+        },
+        "132211111122111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Just one of them"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did all of them show up?</span></div></span></div>",
+            "created":1586062800,
+            "id":2813939,
+            "title":"Yes"
+        },
+        "1322111111221112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Chuckie",
+                "Phil and Lil"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which of them came over?</span></div></span></div>",
+            "created":1586235600,
+            "id":2815037,
+            "title":"Just one of them"
+        },
+        "1322111112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did he freak out?</span></div></span></div>",
+            "created":1584766800,
+            "id":2804462,
+            "title":"Stu"
+        },
+        "13221111121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Tommy",
+                "Kimi"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who did he try to put back into their clothes first?</span></div></span></div>",
+            "created":1584766800,
+            "id":2804580,
+            "title":"Yes"
+        },
+        "13221111122":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "He called for Didi",
+                "He took a picture"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What did he do?</span></div></span></div>",
+            "created":1584766800,
+            "id":2804760,
+            "title":"No"
+        },
+        "132211111221":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "She told Stu it was perfectly natural",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>After she came in saw what was happening,<br>\r\nwhat did she do? </span></div></span></div>",
+            "created":1585458000,
+            "id":2809420,
+            "title":"He called for Didi"
+        },
+        "1322111113":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Chuckie see Tommy and Kimi first?</span></div></span></div>",
+            "created":1590123600,
+            "id":2839798,
+            "title":"Chuckie when he showed up, or anyone else."
+        },
+        "132211112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "She calmly gives Tommy a straight answer",
+                "She blushes and gives Tommy her best guess"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Tommy asks Kimi about her special spot between her legs? What does Kimi say?</span></div></span></div>",
+            "created":1584680400,
+            "id":2804230,
+            "title":"Tommy \"asks Kimi a question\""
+        },
+        "1322111121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Their actual name",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What did Kimi call her privates?</span></div></span></div>",
+            "created":1585112400,
+            "id":2806780,
+            "title":"She calmly gives Tommy a straight answer"
+        },
+        "13222":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will it take place in an alternate universe where<br>\r\nAngelica is about the same age as Tommy?</span></div></span></div>",
+            "created":1586235600,
+            "id":2815259,
+            "title":"No"
+        },
+        "132221":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Tommy",
+                "Angelica"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who will get naked first?</span></div></span></div>",
+            "created":1586581200,
+            "id":2817183,
+            "title":"Yes"
+        },
+        "132222":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Could we look at this episode from Tommy's perspective?</span></div></span></div>",
+            "created":1586581200,
+            "id":2817188,
+            "title":"Something else"
+        },
+        "1323":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Sure",
+                "Any others."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Hmm, why not Cradle Attraction?</span></div></span></div>",
+            "created":1581051600,
+            "id":2783742,
+            "title":"Other"
+        },
+        "14":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Sure.",
+                "Any others"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which ep will be altered in some way, Mother's Day?</span></div></span></div>",
+            "created":1570338000,
+            "id":2728824,
+            "title":"Season 4"
+        },
+        "15":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Season 5",
+                "Season 6",
+                "Season 7",
+                "Season 8",
+                "Season 9"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about These?</span></div></span></div>",
+            "created":1570251600,
+            "id":2728458,
+            "title":"More Seasons"
+        }
+    },
+    "info":{
+        "author_id":"nicholas1998",
+        "author_name":"Nick98",
+        "brief_description":"What if The Rugrats went on a different path on any episode of the 9 seasons?",
+        "created":1570309380,
+        "description":"<td align=\"left\" class=\"norm\">There are a some rules that You must obey.<br>\r\n<br>\r\n<br>\r\n1. keep it clean.<br>\r\n2. Diaper changes are allowed.<br>\r\n3. Nothing rude.<br>\r\n4. Every chapter must be appropriate.<br>\r\n5. Their must never be a mean chapter or it will be deleted.<br>\r\n6. This is the only way the story can stay alive.<br>\r\n7. No Weight gain.<br>\r\n8. If you want to Have the characters get age regressed, You must have excellent grammar with details.<br>\r\n9. No age Progression.<br>\r\n10. Potty training is allowed as well as well as if in alternate episodes that must appropriate.<br>\r\n11. The Rugrats can remove their clothes only if they take a bath or go nakie like in Naked Tommy. But, that must never be inappropriate.<br>\r\n11. This series have had nine seasons. So Keep in that 9 seasoned universe<br>\r\n12. Strange things can happen as well.<br>\r\n13. No age Progression (Which means no all grown up)<br>\r\n14.  No Violence or any thing that is wrong.<br>\r\n15. Anywhere around the world is perfect for The Rugrats to go to on adventures.<br>\r\n16. They can meet the thornberrys family again.<br>\r\n17. Have fun!<br>\r\n<br>\r\n<br>\r\n</td>",
+        "id":2202340,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "modified":1590209580,
+        "pretty_title":"Rugrats: The Alternate Series"
+    }
+}

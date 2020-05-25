@@ -9,7 +9,6 @@
     <script src="https://unpkg.com/vue-router/dist/vue-router.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js" integrity="sha256-4iQZ6BVL4qNKlQ27TExEhBN1HFPvAvAMbFavKKosSWQ=" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/lodash@4.17.15/lodash.min.js" integrity="sha256-VeNaFBVDhoX3H+gJ37DpT/nTuZTdjYro9yBruHjVmoQ=" crossorigin="anonymous"></script>
-    
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
         integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <link href="https://stackpath.bootstrapcdn.com/bootswatch/4.4.1/cyborg/bootstrap.min.css" rel="stylesheet"
@@ -117,7 +116,7 @@
                     <div class="py-1 card-body">
                         <h6>by {{ storylist[storyIndex].author }} </h6>
                         <p class="card-text">{{ storylist[storyIndex].brief_description }}</p>
-                        <router-link v-bind:to="'/' + storyIndex + '/'" class="stretched-link"></router-link>
+                        <router-link v-bind:to="'/' + storyIndex + '-' + storylist[storyIndex].pretty_title.replace(/[^\w\d]/gi,'-') +'/'" class="stretched-link"></router-link>
                     </div>
                     <h6 class="py-0 card-footer text-muted">
                         Chapters: {{ storylist[storyIndex].chapters }} <br>
@@ -397,7 +396,7 @@
             template: '#info-template'
         })
 
-        const outline_view = Vue.component('info-view', {
+        const outline_view = Vue.component('outline-view', {
             template: '#outline-template',
             computed: {
                 //Javascript seems to store order of properties the object, so we have to get the keys and sort it
@@ -594,14 +593,17 @@
             if (typeof (to.params.story) === 'undefined') {
                 next();
             } else {
+                //Get the actual numerical ID of the story. Let's me use prettier titles
+                storyID = to.params.story.split("-")[0]
+
                 //check if the story is already loaded
-                if (Vue.prototype.$storyID == to.params.story) {
+                if (Vue.prototype.$storyID == storyID) {
                     next();
                     return;
                 }
 
-                Vue.prototype.$storyID = to.params.story
-                fetch("./archive/" + to.params.story + "/story.json")
+                Vue.prototype.$storyID = storyID
+                fetch("./archive/" + storyID + "/story.json")
                     .then(r => r.json())
                     .then(story => {
                         Vue.prototype.$story = story;
