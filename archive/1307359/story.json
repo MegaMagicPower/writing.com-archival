@@ -490,6 +490,7 @@
             "title":"b&"
         },
         "15512":{
+            "author_name":"Tazai+Fail",
             "choices":[
                 "Tazai",
                 "Somone different."
@@ -500,6 +501,7 @@
             "title":"Your not autistic."
         },
         "155121":{
+            "author_name":"Tazai+Fail",
             "choices":[
                 "Eat clam chowder.",
                 "Be stalked by midgets on stickam."
@@ -510,6 +512,7 @@
             "title":"You are Tazai."
         },
         "1551211":{
+            "author_name":"Tazai+Fail",
             "choices":[
                 "You spill clam chowder on your  keyboard",
                 "You try and be careful, but spill clam chowder on your keyboard anyways"
@@ -520,18 +523,21 @@
             "title":"Clam chowder."
         },
         "15512111":{
+            "author_name":"Tazai+Fail",
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Your  spacebar  is   now   all messedup.<br>\r\n<br>\r\n</span></div></span></div>",
             "created":1187586000,
             "id":437505,
             "title":"Damnit"
         },
         "15512112":{
+            "author_name":"Tazai+Fail",
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Your  spacebar   is  now all    messed  up,    but  you finsh yourclamchowderanways.<br>\r\n<br>\r\nYou then go    wash   dishes.</span></div></span></div>",
             "created":1187586000,
             "id":437508,
             "title":"Fail"
         },
         "155122":{
+            "author_name":"Lowlf",
             "choices":[
                 "Lowlf",
                 "No I'm not a loner."
@@ -542,6 +548,7 @@
             "title":"or are you the loner?"
         },
         "1551221":{
+            "author_name":"Lowlf",
             "choices":[
                 "Say words at random.",
                 "Be quiet."
@@ -552,6 +559,7 @@
             "title":"Who's Lowlf?"
         },
         "15512211":{
+            "author_name":"Lowlf",
             "choices":[
                 "Be quiet and listen in.",
                 "Leave GikoChan to go on your Vent."
@@ -562,6 +570,7 @@
             "title":"Sounds."
         },
         "155122111":{
+            "author_name":"Lowlf",
             "choices":[
                 "Laugh randomly at something funny.",
                 "Go browse 4chan."
@@ -572,12 +581,14 @@
             "title":"Listening"
         },
         "155122112":{
+            "author_name":"Lowlf",
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You left GikoChan for the time being and now you are on your own Vent with your friends who play WoW and dota.</span></div></span></div>",
             "created":1187758800,
             "id":438051,
             "title":"Lowlf's Vent."
         },
         "15512212":{
+            "author_name":"Lowlf",
             "choices":[
                 "Wait for a conversation.",
                 "Ask what's going on."
@@ -676,6 +687,7 @@
         "description":"<td align=\"left\" class=\"norm\">You turn on your computer.<br>\r\nBing. Bang. Boing! Your computer shines a familiar glow. <br>\r\nThe very first thing you do is open your ventrilo client and log on! Super cool!<br>\r\n<br>\r\nYou are... </td>",
         "id":1307359,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1188331260,
         "modified":1188331260,
         "pretty_title":"Realistic Giko Chan Simulator"
     }

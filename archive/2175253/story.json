@@ -344,6 +344,18 @@
             "id":2835242,
             "title":"Yes"
         },
+        "1453411":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did D.W. make the wish herself?</span></div></span></div>",
+            "created":1592542800,
+            "id":2853458,
+            "title":"A wish"
+        },
         "15":{
             "author_id":"redwolf12",
             "author_name":"wolfbood",
@@ -1153,6 +1165,21 @@
             "id":2661636,
             "title":"Other."
         },
+        "1553323332321":{
+            "author_id":"jobobo19",
+            "author_name":"carl.a.pruuitt",
+            "choices":[
+                "G1",
+                "G2",
+                "G3",
+                "G4",
+                "My little pony movies"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do you want my little pony g1 g2 g3 g4 or my little pony movies?</span></div></span></div>",
+            "created":1591851600,
+            "id":2849875,
+            "title":"My little pony"
+        },
         "1553323332323":{
             "author_id":"kameron94",
             "author_name":"Kameron",
@@ -1450,6 +1477,62 @@
             "created":1587704400,
             "id":2823832,
             "title":"Something else"
+        },
+        "1553323332323222253222":{
+            "author_id":"jobobo19",
+            "author_name":"carl.a.pruuitt",
+            "choices":[
+                "Paw Patrol",
+                "Garfield",
+                "The Get along gang",
+                "Foofur",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about these cartoons show?</span></div></span></div>",
+            "created":1591851600,
+            "id":2849852,
+            "title":"Something else"
+        },
+        "15533233323232222532221":{
+            "author_id":"spunky",
+            "author_name":"Ace Jones",
+            "choices":[
+                "Paw Patrol goes to the movies.",
+                "Paw Patrol fairy tale parodies and spoofs.",
+                "Your Choice."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Here's some what if scenarios.<br>\r\n<br>\r\nWhat if the Paw Patrol's pups did their take of The Muppets go to the movies special?<br>\r\n<br>\r\nWhat if the Paw Patrol's pups did a parody or spoof of fairy tales?</span></div></span></div>",
+            "created":1591851600,
+            "id":2849857,
+            "title":"Paw Patrol"
+        },
+        "155332333232322225322213":{
+            "author_id":"jobobo19",
+            "author_name":"carl.a.pruuitt",
+            "choices":[
+                "Big Pew petrol pups",
+                "Small humans",
+                "Humans to puppys",
+                "Skye X Ryder",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about these What if?<br>\r\n<br>\r\n1. What if the paw petrol pups were big?<br>\r\n<br>\r\n2. What if ever humans were small?<br>\r\n<br>\r\n3. What if ever humans turn into puppys?<br>\r\n<br>\r\n4. What if Skye has a crash on Ryder?</span></div></span></div>",
+            "created":1591851600,
+            "id":2849868,
+            "title":"Your Choice."
+        },
+        "1553323332323222253222135":{
+            "author_id":"spunky",
+            "author_name":"Ace Jones",
+            "choices":[
+                "Pups and the sumo/bodybuilding adventure.",
+                "Pups and the cartoon wrestling entertainment adventure.",
+                "Open Choice Chapter."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What if the Paw Patrol's male pups take up the sport of sumo wrestling and the team's female members become bodybuilders?<br>\r\n<br>\r\nWhat if the Paw Patrol's pups signed up with cartoon wrestling entertainment?</span></div></span></div>",
+            "created":1591851600,
+            "id":2849911,
+            "title":"Something else"
         }
     },
     "info":{
@@ -1460,7 +1543,8 @@
         "description":"<td align=\"left\" class=\"norm\">The what if is your oyster do what you want.<br>\r\n<br>\r\nBut follow the 3 rules<br>\r\n<br>\r\n1. No gays just lesbians<br>\r\n<br>\r\n2. No Deaths<br>\r\n<br>\r\n3. Have fun.</td>",
         "id":2175253,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1589957160,
+        "last_full_update":0,
+        "modified":1592543520,
         "pretty_title":"What if cartoon"
     }
 }

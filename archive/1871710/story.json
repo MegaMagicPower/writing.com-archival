@@ -272,6 +272,32 @@
             "id":1576262,
             "title":"Possesses the magical powers of a powerful sorc..."
         },
+        "12133":{
+            "author_id":"sizewatcher",
+            "author_name":"SizeWatcher",
+            "choices":[
+                "Nothing now but later her gift/ability activates ",
+                "She can change her or other sizes",
+                "No her gift/ability is something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Little Red Riding Hood realizes that her gift/ability is ________________.</span></div></span></div>",
+            "created":1592715600,
+            "id":2854493,
+            "title":"(Choice of the reader!)"
+        },
+        "121332":{
+            "author_id":"sizewatcher",
+            "author_name":"SizeWatcher",
+            "choices":[
+                "Log didn't grow it shrinks! (Little Red Riding Hood can only grow herself)",
+                "Log is now few times bigger than it was before(LRRH can change only other sizes)",
+                "Something else or Little Red Riding Hood and the log both grew bigger."
+            ],
+            "content":"<div class=\"\"><div> <span>Little Red Riding Hood cannot believe this!<br>\r\n<br>\r\nHow size changing will help her? She want to test this size changing. She looked around and sees a huge and old fallen tree trunk few feet or meters away her position. She rises her left arm and closes her eyes and thinks \"BIGGER\". Then she felt how some-kind of energy moves inside of her body and soul.<br>\r\n<br>\r\nLittle Red Riding Hood opens her eyes and see _________________!</span></div></div>",
+            "created":1592715600,
+            "id":2854498,
+            "title":"She can change her or other sizes"
+        },
         "124":{
             "author_id":"robbie014",
             "author_name":"Sapphire",
@@ -517,7 +543,8 @@
         "description":"<td align=\"left\" class=\"norm\">We are familiar with the story Little Red Riding Hood, the Wolf, the Grandma, and the Woodsman/Lumberjack.<br>\r\nI am sure that we enjoyed it growing up. But could we have her have a different adventure. It can start out normal but it can vary later on. I am making the rating no higher than <b>PG13.</b> Please no sex, bad words, gore, or anything not PG13.  (update: No body swap or transgender either. This one is for a broader range of audience. But we still <b>can give her an adventure<i></i></b> ( or even let her take a boring walk to her Grandmother.....if that is what the readers want. LOL and YES, she can fight too IF she wishes. LOL )<br>\r\n<br>\r\nPlease <b>no</b> killing Red Riding Hood. She is the star of the story. It can include Muscles Growth and/or Shrinking. But that is <b>not required</b> at all either.</td>",
         "id":1871710,
         "image_url":"https://www.Writing.Com/main/images/action/display_cover/id/101198.jpg",
-        "modified":1557381120,
+        "last_full_update":1557381120,
+        "modified":1592751480,
         "pretty_title":"Red Riding Hood 's  strange adventure"
     }
 }

@@ -595,6 +595,21 @@
             "id":2809720,
             "title":"nothing."
         },
+        "113122112231":{
+            "author_id":"scilock",
+            "author_name":"Scifiwizard",
+            "choices":[
+                "nodded.",
+                "wanted to hear more.",
+                "continue.",
+                "your choice.",
+                "you decide."
+            ],
+            "content":"<div class=\"\"><div> <span>Later on, you walked to Joe's room to find the door open. He turned, hearing you knock and waved you in. Joe was pouring over the literature offered by both Spellblossom and Witchbloom all girls boarding schools as well as Eliete Scientiam all boys boarding school. \"Mom and dad gave them to me.\" Sighing, he said. \"I guess I will be going to one or the other.\"<br>\r\n<br>\r\nYou sighed but managed a smile. \"Which one speaks to you?\"<br>\r\n<br>\r\n\"Well, other than the requirement of being a girl, Spellblossom and Witchbloom have a certain appeal.\" Serious, Joe replied. \"However, Elite Scientiam has me intrigued with what it has to offer and I don't have to change my gender.\" He shook his head. \"It's a coin toss, really... both have me curious but I can only pick one.\"<br>\r\n<br>\r\n\"I know your last girl experience wasn't the best foot forward.\" Softly, you said. \"But... would you consider being a teenage girl and try magic?\"<br>\r\n<br>\r\n\"I'm not sure.\" Wincing, Joe said. \"Ina and Tia...\"<br>\r\n<br>\r\n\"Will be kept out of this one.\" Firmly, you interrupted. \"After you try magic for a few days, dad can show you more of his chaotic science.\"<br>\r\n<br>\r\n\"I'm not sure of that either.\" Wrinkling your nose, Joe replied. \"Dad' lectures leave a lot to be desired.\"<br>\r\n<br>\r\n\"So it's being a girl and long lectures you are not comfortable with.\" Calmly, you said.<br>\r\n<br>\r\nJoe nodded. \"Basically... yes.\" Softly, he said. He bit his lip. \"Any suggestions?\"<br>\r\n<br>\r\nYou smiled. \"If you had a way to change yourself back, would you consider becoming a girl and learn some magic?\"<br>\r\n<br>\r\nJoe looked at you, curious then...<br>\r\n</span></div></div>",
+            "created":1590987600,
+            "id":2844287,
+            "title":"Later, you talk to Joe."
+        },
         "12":{
             "author_id":"runner1240",
             "author_name":"Runner",
@@ -1503,6 +1518,36 @@
             "created":1538024400,
             "id":2555142,
             "title":"you reluctantly agree."
+        },
+        "122123213113131121114341323233131113314":{
+            "author_id":"scilock",
+            "author_name":"Scifiwizard",
+            "choices":[
+                "you can read the words clearly.",
+                "the words are too complicated for you.",
+                "you cannot read the book.",
+                "your choice.",
+                "you decide."
+            ],
+            "content":"<div class=\"\"><div> <span>Dad then lead you to another out of place location among his busing machines, a large cubicle that held an impressive library. \"Like all other ancient arts and studies, chaotic science had its beginnings in books.\" Calmly, he explained. \"Every last book in this collection is a piece of that study, that power.\"<br>\r\n<br>\r\n\"I have a feeling you are about to show me the book of chaotic science...\" Wincing, I said. \"All of the uses and laws of your power.\"<br>\r\n<br>\r\n\"It is not my power.\" Serious, dad said. \"The power belongs to all chaotic scientists equally just as magic belongs to all witches... I am merely the current leader.\"<br>\r\n<br>\r\nWith that said, dad led me to a lone podium that held a large faded book with the title Book of Chaotic Science on the cover. Uncertain, you opened the book with your magic defenses up but you were surprised to find no resistance. Dad chuckled at your reaction. \"The book of a chaotic scientist works similarly in many ways to The Magic Book but much differently in others.\" Bemused, he said. \"The book itself does not trap trespassers to its hidden words but tests the trespasser instead.\"<br>\r\n<br>\r\n\"What is the test?\" Curious, you asked.<br>\r\n<br>\r\n\"Can you read the words printed upon the pages?\" Grinning, dad asked.<br>\r\n<br>\r\nYou gulped then turned back to the book to find...<br>\r\n</span></div></div>",
+            "created":1590987600,
+            "id":2844014,
+            "title":"the book of chaotic science."
+        },
+        "1221232131131311211143413232331311133142":{
+            "author_id":"scilock",
+            "author_name":"Scifiwizard",
+            "choices":[
+                "I think I've seen enough.",
+                "What do you suggest?",
+                "continue.",
+                "your choice.",
+                "you decide."
+            ],
+            "content":"<div class=\"\"><div> <span>You gulped then turned back to the book to find, to your surprise, many of the words had four or more syllables. You could read the words but you were lost trying to grasp the sentences as you had no idea what most of the words meant. \"Um... I think this book was written with a PhD in linguistics in mind.\" Wincing, you said.<br>\r\n<br>\r\nDad chuckled, though kindly. \"That means you have the potential but not the interest.\" Calmly, he explained. \"The book will open for you again if your curiosity later rises but, unless you are interested in learning, I strongly suggest you refrain form that.\"<br>\r\n<br>\r\n\"It will force me to learn?\" worried, you asked.<br>\r\n<br>\r\nDad shook his head. \"It will teleport you to the book's owner who will be honor bound to teach you.\" Serious, he replied. \"In this case, it would be me.\" He smiled. \"Curiosity is not a sin but it can bring consequences in the curious is not careful.\"<br>\r\n<br>\r\nI nodded. \"Noted for future reference.\" I looked around. \"Is there anything else you want me to see in your laboratory?\"<br>\r\n<br>\r\nDad grinned. \"Is there anything you would like to see... maybe experience?\"<br>\r\n<br>\r\nDad's question left you feeling uncomfortable. It brought you back to a lesson at Cauldron Academy... <i>careful how you phrase your answers to a mad scientist or fellow witch, your answer could be turned against you.</i><br>\r\n<br>\r\nUncertain, you replied...<br>\r\n</span></div></div>",
+            "created":1591765200,
+            "id":2849073,
+            "title":"the words are too complicated for you."
         },
         "12212321311313112111434132323313113":{
             "author_id":"scilock",
@@ -3771,7 +3816,8 @@
         "description":"<td align=\"left\" class=\"norm\">A brief history of this story: 200 hundred years ago, a rip in time and space was opened by a band of rogue or criminal witches hoping to unlock a mythological world of pure magic. What they did instead was to strand hundreds of boys and girls from a parallel world. At the same time, stranding hundreds of witch girls and boys in the world these strangers came from. The stranded boys called themselves mad scientists and had a power equal to magic, tipping the balance of power as before, only witch born girls had such supernatural power. In present day, these mad scientists are striving to grow in power; attempting to recruiting all boys born from a mad scientist father.<br>\r\n<br>\r\nYou play a fourteen year old witch named Gina Mage who recently graduated at the top of her class at Cauldron Academy all girls boarding school where she learned witchcraft.<br>\r\n<br>\r\nYou have a fair relationship with your mother, Mona Mage (35) who is an expert in combat magic and offers tutoring services to young witches with mad scientist brothers and or fathers.<br>\r\n<br>\r\nYou have a good relationship with your younger brother, Joe Mage (13) who is a very strong and talented athlete with high hopes to enter the Olympics someday.<br>\r\n<br>\r\nYou have a decent relationship with your twin youngest sisters, Tia and Ina Mage (7) who have magic at a young age and seem to specialize in teleportation which they use to lightheartedly play jokes on Joe.<br>\r\n<br>\r\nYou have a neutral relationship with your father, Geo Mage (35) who is a mad scientist. He is rarely around and more rarely seen by you. He believes his long absences will ease the tensions with your mom and the witch community. He sees it as protecting the family, you see it in another way.<br>\r\n<br>\r\nYour mom would rather see your brother, Joe become a girl and a witch as the power is within him. However, many mad scientists would wish of recruit your brother, claiming that it is his birthright, his destiny to follow in his father's footsteps. Can you protect your brother Joe from being pulled into the world of mad science or will you allow him to embrace the power he has as a boy? The choice is yours.<br>\r\n<br>\r\nYou have two neighbors whom you had been friends with since childhood. Rachel Scott (13) who has a crush on Joe and you suspect he has a crush on her. Neither yet has the courage to confess their feelings. Thomas Lore (14) Who you know has a huge crush on you but you are not sure if you feel the same way.<br>\r\n<br>\r\nNew Characters: Aunt Abra Mage. (30yrs and a  widow) You have a pleasant relationship with her and her children, Henry (13yrs) and Rita (12yrs).  Abra Mage has black hair and green eyes. Henry has blond hair and blue eyes. Rita has black hair and blue eyes.<br>\r\n<br>\r\nThe rules:<br>\r\n<br>\r\n1. No killing off characters.<br>\r\n<br>\r\n2. Magic or Mad Science can not kill or resurrect.<br>\r\n<br>\r\n3. Only human/humanoid transformations.<br>\r\n<br>\r\n4. You may add new characters.<br>\r\n</td>",
         "id":2118808,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1585510320,
+        "last_full_update":0,
+        "modified":1591804860,
         "pretty_title":"The Coven"
     }
 }

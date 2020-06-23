@@ -68,6 +68,30 @@
             "created":1473138000,
             "id":2206937,
             "title":"in the room of one of my daughters"
+        },
+        "124":{
+            "author_id":"vorelover41",
+            "author_name":"VorerPrey",
+            "choices":[
+                "eat it",
+                "ask her if this is a joke"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Here You Go Sarah you cute little doggie here is your dog food you asked for<br>\r\n</span></div></span></div>",
+            "created":1590555600,
+            "id":2841807,
+            "title":"dog food in a bowl"
+        },
+        "1241":{
+            "author_id":"vorelover41",
+            "author_name":"VorerPrey",
+            "choices":[
+                "be her dog",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>after you eat it she asks you<br>\r\n<br>\r\n<br>\r\n''ill give you 2 choices be my dog or...</span></div></span></div>",
+            "created":1590555600,
+            "id":2841808,
+            "title":"eat it"
         }
     },
     "info":{
@@ -78,7 +102,8 @@
         "description":"<td align=\"left\" class=\"norm\">everything's explained in the first chapter so just a few rules here :<br>\r\n<br>\r\n-no death<br>\r\n-no gore<br>\r\n-no vore<br>\r\n-no humiliation<br>\r\n-no other transformation than doglike<br>\r\n=&gt;it can be either mental, physical, hypnosis or whatever you want as long as it is dog transformation<br>\r\n</td>",
         "id":1919766,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1473176400,
+        "last_full_update":0,
+        "modified":1590599880,
         "pretty_title":"doggy's new home"
     }
 }

@@ -106,7 +106,9 @@
             "choices":[
                 "Weight Gain",
                 "Water inflation",
-                "Air inflation"
+                "Air inflation",
+                "Fruit Inflation",
+                "Other Inflation choices"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Here are options of how Wanda can inflate...<br>\r\n<br>\r\nWeight gain<br>\r\n<br>\r\nWater inflation<br>\r\n<br>\r\nor<br>\r\n<br>\r\nAir inflation<br>\r\n<br>\r\nWhich will you choose?</span></div></span></div>",
             "created":1581310800,
@@ -439,6 +441,7 @@
         "description":"<td align=\"left\" class=\"norm\">Rules:<br>\r\n<br>\r\n1. Keep it clean.<br>\r\n2. Send The Magic School Bus characters into any type of adventure.<br>\r\n3. Anything goes.<br>\r\n4. Inflations are welcomed.<br>\r\n5. Transformation are encouraged.<br>\r\n6. Have fun in Beyond and at Walkerville Elementary School!<br>\r\n<br>\r\n</td>",
         "id":2212119,
         "image_url":"https://www.writing.com/main/images/action/display/ver/1589074910/item_id/2212119.jpeg",
+        "last_full_update":1589078460,
         "modified":1589078460,
         "pretty_title":"The Magic School Bus TF and More story"
     }

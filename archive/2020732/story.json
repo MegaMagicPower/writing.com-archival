@@ -1100,6 +1100,19 @@
             "id":2109904,
             "title":"Down into her shoe"
         },
+        "1152":{
+            "author_id":"writer4fun77",
+            "author_name":"WritingIsFun",
+            "choices":[
+                "Katniss Everdeen",
+                "Primrose Everdeen",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who the girl?</span></div></span></div>",
+            "created":1590469200,
+            "id":2841157,
+            "title":"Hunger Games"
+        },
         "1153":{
             "author_id":"supermario5",
             "author_name":"Brown",
@@ -1221,6 +1234,18 @@
             "created":1457413200,
             "id":2114927,
             "title":"Another character"
+        },
+        "11532221122":{
+            "author_id":"jjuenger",
+            "author_name":"jjuenger",
+            "choices":[
+                "Yes ",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Well, Madea is another possibility.</span></div></span></div>",
+            "created":1591592400,
+            "id":2848205,
+            "title":"Madea"
         },
         "11532222":{
             "choices":[
@@ -10467,6 +10492,21 @@
             "id":2828365,
             "title":"Lucifer"
         },
+        "12532222222222222222222222222222222":{
+            "author_id":"jjuenger",
+            "author_name":"jjuenger",
+            "choices":[
+                "Sabrina the Teenage Witch",
+                "Xena Warrior Princess",
+                "Boy Meets World",
+                "Family Matters",
+                "More choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>To cut down on choice chapters, I'm going to present four possibilities. I'm likely dating myself, but I don't care.</span></div></span></div>",
+            "created":1591592400,
+            "id":2848203,
+            "title":"Four Choices"
+        },
         "13":{
             "author_id":"patnewworld",
             "author_name":"ReducedExpectations",
@@ -11288,6 +11328,19 @@
             "created":1417669200,
             "id":1897428,
             "title":"Comic Book"
+        },
+        "1331":{
+            "author_id":"writer4fun77",
+            "author_name":"WritingIsFun",
+            "choices":[
+                "Black Widow",
+                "Scarlet Witch",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which of these females will you choose?</span></div></span></div>",
+            "created":1591592400,
+            "id":2847901,
+            "title":"Marvel"
         },
         "1332":{
             "author_id":"the1swagking",
@@ -17927,6 +17980,57 @@
             "id":2538137,
             "title":"no"
         },
+        "1513322222222222232222":{
+            "author_id":"jobobo19",
+            "author_name":"carl.a.pruuitt",
+            "choices":[
+                "Yes Daisy Duck",
+                "No I want Females from Little bear",
+                "No I want Females from Littlest pet shop",
+                "No I want Females from Paw Patrol",
+                "No I want something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do you want Daisy Duck?</span></div></span></div>",
+            "created":1592802000,
+            "id":2855113,
+            "title":"minnie or other"
+        },
+        "15133222222222222322222":{
+            "author_id":"redwolf12",
+            "author_name":"wolfbood",
+            "choices":[
+                "Emily",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which female character do you want?</span></div></span></div>",
+            "created":1592802000,
+            "id":2855288,
+            "title":"No I want Females from Little bear"
+        },
+        "15133222222222222322223":{
+            "author_id":"redwolf12",
+            "author_name":"wolfbood",
+            "choices":[
+                "Penny Ling",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which female do you want?</span></div></span></div>",
+            "created":1592802000,
+            "id":2855291,
+            "title":"No I want Females from Littlest pet shop"
+        },
+        "15133222222222222322224":{
+            "author_id":"redwolf12",
+            "author_name":"wolfbood",
+            "choices":[
+                "Skye",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which female do you want?</span></div></span></div>",
+            "created":1592888400,
+            "id":2855293,
+            "title":"No I want Females from Paw Patrol"
+        },
         "152":{
             "author_id":"ajbomb333",
             "author_name":"AJBOMB",
@@ -19176,7 +19280,8 @@
         "description":"<td align=\"left\" class=\"norm\">You are a background character from a popular work of fiction.  A book, a television show, a movie, it's entirely up to you.  When all of a sudden you find yourself in the presence of a female character who appears to you as a giant!  Whether through her growing or you shrinking, you have to survive at your relatively smaller size, while also taking advantage of the fact that you can see these lovely ladies in a whole new way!  <br>\r\n<br>\r\nI AM LOOKING FOR CONTRIBUTIONS / CHAPTER ADDITIONS!<br>\r\n<br>\r\nYou can add onto any existing branch, I just ask that once you pick a path to go down, the chapters detailing actual interaction be a full paragraph MINIMUM.  <br>\r\n<br>\r\nNo male giants, no scat.  Everything else is fair game.  Have fun!</td>",
         "id":2020732,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1588385040,
+        "last_full_update":1590475080,
+        "modified":1592888400,
         "pretty_title":"Shrunk / Giantess in Fiction!"
     }
 }

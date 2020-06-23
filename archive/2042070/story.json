@@ -389,6 +389,18 @@
             "id":2830316,
             "title":"\"Naked Tommy\""
         },
+        "1253322232323111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Kimi",
+                "Angelica"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which character shall we include?</span></div></span></div>",
+            "created":1591592400,
+            "id":2848358,
+            "title":"We inlcude Kimi/Angelica"
+        },
         "125332223232312":{
             "author_id":"johnny2",
             "author_name":"littlejohn",
@@ -1183,6 +1195,18 @@
             "id":2825961,
             "title":"Yes"
         },
+        "1253322232323122211122111211111112121111111112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was it only Tommy in the play pen?</span></div></span></div>",
+            "created":1591074000,
+            "id":2845024,
+            "title":"Just one of them"
+        },
         "12533222323231223":{
             "author_id":"kameron94",
             "author_name":"Kameron",
@@ -1629,6 +1653,57 @@
             "id":2840666,
             "title":"The next morning. . ."
         },
+        "125332223232432312211111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "In his bedroom",
+                "Somewhere else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where do we find him?</span></div></span></div>",
+            "created":1590469200,
+            "id":2841420,
+            "title":"Little Bear"
+        },
+        "1253322232324323122111111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was he still asleep?</span></div></span></div>",
+            "created":1590814800,
+            "id":2843479,
+            "title":"In his bedroom"
+        },
+        "125332223232432312211112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "His back",
+                "Somewhere else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which part of Little Bear's body did Felicia set up camp on?</span></div></span></div>",
+            "created":1590469200,
+            "id":2841168,
+            "title":"Felicia (the flea)"
+        },
+        "1253322232324323122111122":{
+            "author_id":"kahn101",
+            "author_name":"Kane01",
+            "choices":[
+                "Going to the table for Breakfast",
+                "Going outside to the Garden",
+                "Heading down to the lake for a swim",
+                "Mother Bear wants to give him a Bath",
+                "Heading out to meet Emily"
+            ],
+            "content":"<div class=\"\"><div> <span>It took Felicia a few moments, when everything stopped shaking, for her to remember where she was. <br>\r\n<br>\r\nShe had grown tired of the circus life and had left it. The only trouble with that was it was the only life she'd known and as a result really didn't know what to do next or where to go. She had wandered aimlessly, for how long she really didn't know. Then she had stumbled upon Him. <br>\r\n<br>\r\nThe enormous creature was laying on his back looking at the clouds as they passed over. It was a bear. Felicia knew these creatures well. There was one in the circus. For Felicia it meant shelter from the cold nights, and food. In an instant she was leaping and landed somewhere on the creature's chest. The warmth all around here felt good. She sighed happily. But her moment of contentment would be short lived. <br>\r\n<br>\r\n\"Little Bear! Time to come in!\"<br>\r\n<br>\r\n'Little Bear. That was his name.' Felicia thought. Suddenly her world shifted as Little Bear stood up. She leaped again and landed on top  of the Bear's head. That's where she stayed, just by his left ear, until the Bear's movements woke her the next morning. You get an interesting view of the world from the top of someone's head. From there Felicia got a view of the inside of the Bear's dwelling as it moved passed. It was all very exciting for her. She hadn't seen anything like this living as a circus flea. <br>\r\n<br>\r\nLittle Bear stopped before another Bear, this one he addressed as Mother Bear. After wishing her good morning Mother Bear raised a hand to rub the Top of Little bear's head. Felicia cowered into the fur as the ceiling of brown padded flesh fell over her for a brief moment; turning the world dark.When it lifted away, Little Bear was moving again. Where he was   going the Flea could only guess. </span></div></div>",
+            "created":1591592400,
+            "id":2848339,
+            "title":"On top of it all"
+        },
         "12533222323243232":{
             "author_id":"johnny2",
             "author_name":"littlejohn",
@@ -1688,6 +1763,18 @@
             "created":1590037200,
             "id":2838809,
             "title":"Emily turns into a bear cub"
+        },
+        "12533222323243232211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Emily make the wish herself?</span></div></span></div>",
+            "created":1590814800,
+            "id":2843481,
+            "title":"A wish"
         },
         "13":{
             "author_id":"mariods01",
@@ -2184,6 +2271,18 @@
             "created":1561093200,
             "id":2676764,
             "title":"wearing diapers"
+        },
+        "145":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Would anyone like to try to alter the 2007 animated film \"El Arca (Noah's Ark)?\"</span></div></span></div>",
+            "created":1591074000,
+            "id":2845016,
+            "title":"Your Choice"
         },
         "15":{
             "author_id":"mariods01",
@@ -4624,7 +4723,8 @@
         "description":"<td align=\"left\" class=\"norm\">In this interactive story there is various different popular fiction that has one or more of their stories changed that show what should have happened in a game, show, movie, etc. <br>\r\n<br>\r\nThese stories can be based on stories that actually happened in a series or even in a fanfiction if a certain part or ending did not end up to the way of your liking.<br>\r\n<br>\r\nHope you will enjoy this and add onto the story you see fit.</td>",
         "id":2042070,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1590385620,
+        "last_full_update":1590478740,
+        "modified":1591672800,
         "pretty_title":"Alternate/Extended Storylines/Endings"
     }
 }

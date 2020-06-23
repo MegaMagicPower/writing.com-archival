@@ -221,6 +221,30 @@
             "id":2819791,
             "title":"Yes"
         },
+        "111121211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "A wish",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of magic?</span></div></span></div>",
+            "created":1591160400,
+            "id":2845545,
+            "title":"Magic"
+        },
+        "1111212111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Angelica make the wish herself?</span></div></span></div>",
+            "created":1591246800,
+            "id":2845770,
+            "title":"A wish"
+        },
         "11113":{
             "author_id":"johnny2",
             "author_name":"littlejohn",
@@ -522,6 +546,18 @@
             "id":2819793,
             "title":"A wish"
         },
+        "11133211111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "A star",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What did D.W. make the wish on?</span></div></span></div>",
+            "created":1590642000,
+            "id":2842049,
+            "title":"Yes"
+        },
         "11135":{
             "author_id":"spunky",
             "author_name":"Ace Jones",
@@ -535,6 +571,34 @@
             "id":2815579,
             "title":"Something Else."
         },
+        "111352":{
+            "author_id":"jobobo19",
+            "author_name":"carl.a.pruuitt",
+            "choices":[
+                "The paw petrol pups wore big",
+                "Everyone from adventure bay started to shrink",
+                "Everyone from adventure bay turns into puppys",
+                "Everyone from adventure bay turns into kittens",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What tip of fanfiction do you like?</span></div></span></div>",
+            "created":1591160400,
+            "id":2845542,
+            "title":"Paw Patrol."
+        },
+        "1113521":{
+            "author_id":"spunky",
+            "author_name":"Ace Jones",
+            "choices":[
+                "A big emergency.",
+                "A sumo wrestling tournament and bodybuilding event to enter.",
+                "Open Choice Chapter."
+            ],
+            "content":"<div class=\"\"><div> <span>The Place: Adventure Bay.<br>\r\n<br>\r\nThe Year: 2020.<br>\r\n<br>\r\nThe Story: Our story opens in Adventure Bay as it was a beautiful sunny day, as it was business as usual at Paw Patrol headquarters as the Paw Patrol's own pups who happened to be big and fat by the way, Chase Marshall Rubble Zuma Rocky Skye Everest and Tracker happened to be outside, as Chase was doing some weightlifting, Marshall and Rubble happen to be training themselves to become sumo wrestlers as both of them happened to be engaged in a friendly sumo wrestling match, Rocky was meditating while Skye Everest and Tracker happened to be relaxing in a big enough hot tub.<br>\r\n<br>\r\nAt that moment the Paw Patrol's pups own leader Ryder needed the Paw Patrol's pups to come to the lookout.<br>\r\n<br>\r\n\"Paw Patrol to the Lookout \" Ryder said.<br>\r\n<br>\r\n\"Ryder needs us.\" The pups said in unison as they made their way over to the lookout's elevator as Marshall due to his own clumsiness rolled towards the others like a bowling ball as they tried to warn him to watch out but it was too late as Marshall collided with them.<br>\r\n<br>\r\n\"Well at least I got a strike.\" Marshall said as his teammates laughed as they as they stepped into the elevator itself as they then reached the top of the lookout and exited the elevator as they immediately stood before Ryder.<br>\r\n<br>\r\n\"Paw Patrol ready for action Ryder sir.\" Chase said.<br>\r\n<br>\r\nRyder then revealed the pups assignment as there was an....<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n</span></div></div>",
+            "created":1591246800,
+            "id":2845669,
+            "title":"The Paw Patrol's pups were big."
+        },
         "111353":{
             "author_id":"johnny2",
             "author_name":"littlejohn",
@@ -546,6 +610,18 @@
             "created":1586408400,
             "id":2816491,
             "title":"Open Choice Chapter."
+        },
+        "1113532":{
+            "author_id":"raninum-plum",
+            "author_name":"Terry Spencer",
+            "choices":[
+                "The Loud House",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about the cartoon staring the family who are the definition of Loud!</span></div></span></div>",
+            "created":1590642000,
+            "id":2842045,
+            "title":"The Loud House"
         },
         "112":{
             "author_id":"johnny2",
@@ -660,7 +736,8 @@
         "description":"<td align=\"left\" class=\"norm\">Here you can do anything except:<br>\r\n<br>\r\nNo death <br>\r\n<br>\r\nNo toilet stuff<br>\r\n<br>\r\nNo being mean<br>\r\n<br>\r\nAnd always have fun</td>",
         "id":2214060,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1587502440,
+        "last_full_update":0,
+        "modified":1591286640,
         "pretty_title":"Anything go's Fanfiction or Crossover."
     }
 }

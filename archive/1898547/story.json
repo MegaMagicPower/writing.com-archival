@@ -1942,6 +1942,45 @@
             "id":1457374,
             "title":"Cream the Rabbit"
         },
+        "15511":{
+            "author_id":"sizewatcher",
+            "author_name":"SizeWatcher",
+            "choices":[
+                "Dr. Eggman's experiment ",
+                "Tails experiment?",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How she shrink? <br>\r\n<br>\r\nWith Dr. Eggman's experiment or Tails experiment?</span></div></span></div>",
+            "created":1591506000,
+            "id":2847255,
+            "title":"Shrink"
+        },
+        "155113":{
+            "author_id":"sizewatcher",
+            "author_name":"SizeWatcher",
+            "choices":[
+                "Cream find or use  Chaos Emerald",
+                "Cream eats something and she shrinks",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about then Cream the rabbit find or use  Chaos Emerald?<br>\r\nOR<br>\r\nMaybe she eats something and that shrinks her?</span></div></span></div>",
+            "created":1591506000,
+            "id":2847257,
+            "title":"Other"
+        },
+        "1551133":{
+            "author_id":"sizewatcher",
+            "author_name":"SizeWatcher",
+            "choices":[
+                "Object/device can shrink ",
+                "Feeling(s) causes Cream to shrink",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Should Cream use or find object/device that can shrink things?<br>\r\nHow about some of her feeling/feelings causes her to shrink?</span></div></span></div>",
+            "created":1591506000,
+            "id":2847260,
+            "title":"Other"
+        },
         "15512":{
             "author_id":"adventchild",
             "author_name":"AdventChild",
@@ -2356,10 +2395,11 @@
         "author_name":"Lacey Vulpix",
         "brief_description":"In this story you can choose any Sonic character you like and make them grow or shrink.",
         "created":1350533100,
-        "description":"<td align=\"left\" class=\"norm\">In this story, any Sonic character may be used. Please stick to size alterations and the like, but anything goes now. Have fun and write whatever you want, just make sure you don\u00e2\u0080\u0099t end anything anywhere in a way that keeps other writers from being able to do whatever they want to as well. <br>\r\n<br>\r\nSide note, any poorly written chapters that I am unable to understand will be deleted.</td>",
+        "description":"<td align=\"left\" class=\"norm\">In this story, any Sonic character may be used. Please stick to size alterations and the like, but anything goes now. Have fun and write whatever you want, just make sure you don\u2019t end anything anywhere in a way that keeps other writers from being able to do whatever they want to as well. <br>\r\n<br>\r\nSide note, any poorly written chapters that I am unable to understand will be deleted.</td>",
         "id":1898547,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1543088580,
+        "last_full_update":1543088580,
+        "modified":1591517040,
         "pretty_title":"Sonic Growth/Shrink Story"
     }
 }

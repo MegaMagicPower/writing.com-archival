@@ -109,6 +109,18 @@
             "id":2562722,
             "title":"Level up to grow"
         },
+        "123":{
+            "author_id":"redstreak",
+            "author_name":"Redstreak",
+            "choices":[
+                "They find something perticularly interesting on the way",
+                "The way is normal for london. "
+            ],
+            "content":"<div class=\"\"><div> <span>The Mycological Muse's ship finally arrived at wolfstack docks. They had been a Zea from several months. They had fought pirate and monsters, gathered priceless treasures and uncovered mysteries that made you catch on fire if you thought about them too much. <br>\r\n<br>\r\nLooking over the railing the Blemmigan saw its contact(s) 7 Blemmigans in a long coat. It was clearly not human to anybody that looked closely and even more so to anybody that listened to it harmonious whistling. Nobody in London cared, if you kicked up a fussed every time you saw some sort of monster walking amongst men you'll never get anything done, also its quite rude. <br>\r\n<br>\r\nThe captain beckoned with onto his shoulder and brought it to the contact. A few echoes and some unlicensed romantic poetry were given then the captain put it on the ground. It was likely it would never the captain again, the Zee was very dangerous and captains kept having even more dangerous ambitions. <br>\r\n<br>\r\nIt looked briefly at the poetry as they were passed on. One was another of those \"romance\" novels staring Mr iron, which consisted of Mr Iron having complete control over a series of interchangeable women but somehow this is romantic. Another was by a tiger, it was hard to tell if it was dating advice or a cookbook. Finally there was a series of risqu\u00e9 descriptions of ankles, good thing Mr Pages never heard about that one.<br>\r\n<br>\r\n\"Good day, traveller\" whistled the contact. \"We have a safe house in the sewers under a very low budget theatre in Veilgarden.  Its dark and damp and you can hear all the plays. Getting in his coat, a lot of people in London as very hungry and you're very edible. Listen to everything, everything is inspiration.\" <br>\r\n<br>\r\nThe Mycological Muse joins the heap of Blemmigans and they set off. </span></div></div>",
+            "created":1590901200,
+            "id":2843823,
+            "title":"The famous growing Blemmigan"
+        },
         "124":{
             "author_id":"redstreak",
             "author_name":"Redstreak",
@@ -228,7 +240,8 @@
         "description":"<td align=\"left\" class=\"norm\">We've already got giant friendly animals, lets have giant friendly vegetables and minerals too. <br>\r\n<br>\r\nPlants, Fungi, Vehicles, planets, elementals, letters of the alphabet. Anything can be bigger as long as it is friendly and not an animal. </td>",
         "id":2170184,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1584585420,
+        "last_full_update":0,
+        "modified":1590973620,
         "pretty_title":"Giant friendly everything else"
     }
 }

@@ -828,6 +828,19 @@
             "id":2823115,
             "title":"ok"
         },
+        "11121211112211221121211":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "tu es",
+                "auf keinen Fall",
+                "etwas anderes"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Beherrschung war nun angesagt!<br>\r\nAm liebsten h\u00e4tte er die andere ber\u00fchrt...</span></div></span></div>",
+            "created":1590555600,
+            "id":2841719,
+            "title":"Beherrschung"
+        },
         "1112121112":{
             "author_id":"kafoll",
             "author_name":"Kafoll",
@@ -2420,6 +2433,44 @@
             "id":2823126,
             "title":"weiter"
         },
+        "11121211122211212111":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "weiter",
+                "weiter"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Philip wundert sich woher diese tolle und attractive junge Frau seine Nummer hatte</span></div></span></div>",
+            "created":1590555600,
+            "id":2841717,
+            "title":"Philip wundert sich"
+        },
+        "111212111222112121111":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "ja",
+                "noch nicht",
+                "niemals"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>soll der verwandelte Marc ihm die Wahrheit sagen?</span></div></span></div>",
+            "created":1590642000,
+            "id":2842095,
+            "title":"Wahrheit?"
+        },
+        "1112121112221121211112":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "Philip glaubt es",
+                "Philip glaubt das nicht",
+                "etwas anderes"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>denn es macht zu viel Spa\u00df eine h\u00fcbsche junge Frau zu sein und Philip dabei ahnungslos zu lassen.<br>\r\nSo erfindet sie, dass sie eine entfernte Verwandete von Mark sei</span></div></span></div>",
+            "created":1590728400,
+            "id":2842670,
+            "title":"noch nicht"
+        },
         "1112121112222":{
             "author_id":"kafoll",
             "author_name":"Kafoll",
@@ -2622,6 +2673,30 @@
             "created":1398315600,
             "id":1785970,
             "title":"N\u00f6!"
+        },
+        "111212111222222222222":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "ja",
+                "nein"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>oder sie hier?<br>\r\n<br>\r\n<a rel=\"nofollow\" href=\"https://pixabay.com/de/illustrations/teenager-m\" target=\"_blank\">https://pixabay.com/de/illustrations/tee...</a>\u00e4dchen-jugend-mensch-3016901/<br>\r\n</span></div></span></div>",
+            "created":1591592400,
+            "id":2847967,
+            "title":"nein"
+        },
+        "1112121112222222222221":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "weiter",
+                "etwas anderes"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>hier nochmal der ( oder ein anderer funktionierender) Link<br>\r\n<br>\r\n<a rel=\"nofollow\" href=\"https://pixabay.com/de/photos/modell-mode-attraktiv-weiblich-600225/\" target=\"_blank\">https://pixabay.com/de/photos/modell-mod...</a><br>\r\n</span></div></span></div>",
+            "created":1592197200,
+            "id":2851729,
+            "title":"ja"
         },
         "111212112":{
             "author_id":"kafoll",
@@ -2868,6 +2943,31 @@
             "created":1586408400,
             "id":2815996,
             "title":"weiter"
+        },
+        "1112122":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "weiter",
+                "weiter"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>keine Eile zur R\u00fcckverwandlung, denn das ist geil</span></div></span></div>",
+            "created":1591074000,
+            "id":2844626,
+            "title":"Was Anderes"
+        },
+        "11122":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "Sohn",
+                "Tochter",
+                "Ehefrau"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>mit wem soll er es testen?</span></div></span></div>",
+            "created":1590642000,
+            "id":2842101,
+            "title":"... einem Familienmitglied zu testen!"
         },
         "11123":{
             "author_id":"kafoll",
@@ -3932,6 +4032,31 @@
             "id":2823122,
             "title":"Abhilfe"
         },
+        "111311222211112":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "ja",
+                "auf keinen Fall",
+                "etwas anderes"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>ist er schwul?</span></div></span></div>",
+            "created":1590555600,
+            "id":2841720,
+            "title":"ist er schwul?"
+        },
+        "1113112222112":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "es geht zur Sache",
+                "etwas anderes"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>aber das machte nichts....</span></div></span></div>",
+            "created":1590642000,
+            "id":2842094,
+            "title":"Etwas Anderes"
+        },
         "111311222212":{
             "author_id":"kafoll",
             "author_name":"Kafoll",
@@ -4147,6 +4272,18 @@
             "created":1443502800,
             "id":2041365,
             "title":"das Date mit dem Sohn"
+        },
+        "111311222212121122121111212":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "ok",
+                "etwas anderes"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>sie tauschen also Nummern aus und Marie meint, dass das Date mit dem Jungen vielleicht nicht so ihr Ding sei und sie sich sp\u00e4ter meldet</span></div></span></div>",
+            "created":1590642000,
+            "id":2842097,
+            "title":"etwas anderes"
         },
         "11131122222":{
             "author_id":"kafoll",
@@ -5358,6 +5495,18 @@
             "id":2013852,
             "title":"Ja!"
         },
+        "1123321111212":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "Spa\u00df",
+                "etwas anderes"
+            ],
+            "content":"<div class=\"\"><div> <span>Mark, der Erfinder hat sich also in eine h\u00fcbsche junge Frau im Alter seines Sohnes verwandelt und sich ins Freibad begeben, wo heute gro\u00dfe Saisoner\u00f6ffnung war. Dort traf sie auf ihren eigenen Sohn, der mit ihr flirtete. Aber kann das gut gehen? Noch hat der Sohn keine Ahnung, wen er da in Gestalt eines Super Babes im knappen Bikini vor sich hat\u2026</span></div></div>",
+            "created":1591074000,
+            "id":2844632,
+            "title":"Etwas Anderes"
+        },
         "112332111122":{
             "author_id":"kafoll",
             "author_name":"Kafoll",
@@ -5793,6 +5942,43 @@
             "id":2044186,
             "title":"Kurz darauf im Hotelzimmer..."
         },
+        "1123321111222222111111211":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "weiter",
+                "weiter"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Das Problem ist nun, dass Tim wohl keinen hoch kriegt, bei dem Gedanken dass Lexi sein Vater ist....</span></div></span></div>",
+            "created":1590555600,
+            "id":2841688,
+            "title":"Tim kann das nicht"
+        },
+        "1123321111222222111112":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "ja",
+                "nein",
+                "etwas anderes"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>und geht es dort zur Sache?</span></div></span></div>",
+            "created":1590642000,
+            "id":2842102,
+            "title":"\"Nein, ich will keinen Sand in die Muschi, ..."
+        },
+        "11233211112222222":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "die echte Lexi",
+                "etwas anderes"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>wer war sie dann?</span></div></span></div>",
+            "created":1590728400,
+            "id":2842673,
+            "title":"Nein!"
+        },
         "112332112":{
             "author_id":"kafoll",
             "author_name":"Kafoll",
@@ -5911,6 +6097,30 @@
             "created":1453266000,
             "id":2091757,
             "title":"Nein."
+        },
+        "112332112122121":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "weiter",
+                "weiter"
+            ],
+            "content":"<div class=\"\"><div> <span>So fahren Sohn Tim und seine Freundin Lea also in den gemeinsamen Urlaub an den Gardasee.<br>\r\nNach au\u00dfen hin ist Lea das perfekte M\u00e4dchen, sie hat sogar eine supernette und passende M\u00e4dchenstimme\u2026<br>\r\nSie fahren mit dem Auto und kommen am Abend am wundersch\u00f6nen Gardasee an und beziehen ihr gemeinsames Hotelzimmer\u2026.<br>\r\n</span></div></div>",
+            "created":1590555600,
+            "id":2841694,
+            "title":"endlich Urlaub"
+        },
+        "112332112122122":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "ja",
+                "etwas anderes"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>sie etwa?<br>\r\n<br>\r\n<a rel=\"nofollow\" href=\"http://foto-und-art.de/photoart/modules/showpicorg.php?kat=photoart19&amp;bild=DSC02481e-10-co.jpg\" target=\"_blank\">http://foto-und-art.de/photoart/modules/...</a></span></div></span></div>",
+            "created":1590642000,
+            "id":2842104,
+            "title":"etwas anderes"
         },
         "1123321121222":{
             "author_id":"rosenheim34",
@@ -6042,6 +6252,57 @@
             "created":1451365200,
             "id":2080969,
             "title":"Etwas Anderes"
+        },
+        "1123321122":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "ja",
+                "etwas anderes"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>vielleicht mit seinem besten Kumpel?</span></div></span></div>",
+            "created":1590728400,
+            "id":2842678,
+            "title":"Nein!"
+        },
+        "11233211221":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "in den Urlaub",
+                "Party",
+                "etwas anderes"
+            ],
+            "content":"<div class=\"\"><div> <span>Mark, der Erfinder hat einen Sohn, den lernen in dieser Geschichte kennen. Es ist Peter, ein junger Mann, der gerade seinen Schulabschluss, das Abi gemacht hat.<br>\r\nEr hat einen besten Freund, Tobias. Zusammen haben sie schon viel erlebt.<br>\r\nNun geht es darum, was nach dem Schulabschluss passieren wird\u2026<br>\r\n</span></div></div>",
+            "created":1590728400,
+            "id":2842680,
+            "title":"ja"
+        },
+        "112332112212":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "Party",
+                "Mark, der Erfinder kommt ins Spiel",
+                "etwas anderes"
+            ],
+            "content":"<div class=\"\"><div> <span>Tobias war froh, dass er die Schule los war und wollte erstmal Pause machen, vielleicht Reisen oder so. Ans Studieren wollte er momentan noch nicht denken.<br>\r\nGenau das Gegenteil zu Peter: Der junge Peter, den wir hier nun kennenlernen hat nur das Studium im Kopf, w\u00e4hrend sein bester Freund, Tobias eher der Party Typ und Hengst ist.<br>\r\nDennoch erg\u00e4nzen sich die beiden perfekt und jeder lernt vom anderen. Peter bringt Tobias oftmals auf den Boden der Tatsachen zur\u00fcck und umgekehrt ist Tobias derjenige, der Peter auch mal zum Partymachen animieren kann, nicht immer nur lernen!<br>\r\nAber wie fast immer so auch heute: Es gelingt Tobias nicht seinen Freund auf eine angesagte Party zu schleppen\u2026<br>\r\n</span></div></div>",
+            "created":1591074000,
+            "id":2844637,
+            "title":"Party"
+        },
+        "1123321122122":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "tu es",
+                "z\u00f6gern",
+                "etwas anderes"
+            ],
+            "content":"<div class=\"\"><div> <span>Mark, der Erfinder und Peters Vater, will auch mal wieder auf eine Party. Doch er ist verheiratet und sein Leben verl\u00e4uft mehr oder weniger langweilig und immer in den gleichen Bahnen.<br>\r\nDennoch hatte er die Verwandlungsmaschine erfunden und k\u00f6nnte sich in eine andere Person, eine junge Person verwandeln und so zur Party gehen.<br>\r\n</span></div></div>",
+            "created":1591160400,
+            "id":2845152,
+            "title":"Mark, der Erfinder kommt ins Spiel"
         },
         "1123322":{
             "author_id":"kafoll",
@@ -6913,6 +7174,19 @@
             "id":1610880,
             "title":"Ja!"
         },
+        "1133111":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "ja",
+                "nein",
+                "unerwartete Probleme treten auf"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>und klappt es?</span></div></span></div>",
+            "created":1592283600,
+            "id":2852004,
+            "title":"... nahm ihr Handy in die Hand. "
+        },
         "113312":{
             "author_id":"kafoll",
             "author_name":"Kafoll",
@@ -6923,6 +7197,18 @@
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So sah er aus!<br>\r\n<a rel=\"nofollow\" href=\"http://zohanpics.com/tgp/pichunter/czechcash/casting/lucie-0195/pics/01.jpg\" target=\"_blank\">http://zohanpics.com/tgp/pichunter/czech...</a></span></div></span></div>",
             "created":1373346000,
             "id":1625474,
+            "title":"Nein!"
+        },
+        "1133122":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "ja",
+                "nein"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>sah er vielleicht momentan so aus?<br>\r\n<br>\r\n<a rel=\"nofollow\" href=\"https://www.kleinanzeigen.de/38jaehrige-geschiedene-Frau-sucht-Neustart-mit-charmanten-Mann-50203184-bilder.html\" target=\"_blank\">https://www.kleinanzeigen.de/38jaehrige-...</a><br>\r\n</span></div></span></div>",
+            "created":1592197200,
+            "id":2851726,
             "title":"Nein!"
         },
         "114":{
@@ -6937,6 +7223,19 @@
             "created":1370667600,
             "id":1606877,
             "title":"Der Verwandlungsgenerator! "
+        },
+        "1141":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "dies oder",
+                "das",
+                "etwas anderes"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>zu bl\u00f6d, aber was soll er machen <img loading=\"lazy\" style=\"\" src=\"https://images.Writing.Com/imgs/writing.com/writers/e15/frown.png\" alt=\"*Frown*\" class=\"emoteZ\" title=\"Frown\" border=\"0\" width=\"15\" height=\"15\"></span></div></span></div>",
+            "created":1592197200,
+            "id":2851723,
+            "title":"... frisch geschieden!"
         },
         "1142":{
             "author_id":"kafoll",
@@ -7596,6 +7895,109 @@
             "id":1996721,
             "title":"Geschickte Verkleidung!"
         },
+        "114222":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "Kuhstall",
+                "Dorfkneipe",
+                "Kirche"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>und was gibt es da?</span></div></span></div>",
+            "created":1590642000,
+            "id":2842099,
+            "title":"Er lebt im Dorf. "
+        },
+        "1142223":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "scan eine Frau",
+                "scan ein Mann",
+                "etwas anderes"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Da heute Pfingsten ist, sind sogar einige mehr Gl\u00e4ubige in der Kirche, auch Frauen</span></div></span></div>",
+            "created":1590728400,
+            "id":2842671,
+            "title":"Kirche"
+        },
+        "11422231":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "junge Frau",
+                "\u00e4ltere Frau",
+                "etwas anderes"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>in der Kirche sind auch Frauen</span></div></span></div>",
+            "created":1591074000,
+            "id":2844627,
+            "title":"scan eine Frau"
+        },
+        "114222311":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "scan",
+                "etwas anderes"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>es ist ein bayerisches Dorf und viele der jungen Damen kommen an solch einem Feiertag mit Dirndl in die Kirche</span></div></span></div>",
+            "created":1591160400,
+            "id":2845149,
+            "title":"junge Frau"
+        },
+        "114222313":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "scan",
+                "z\u00f6gern",
+                "etwas anderes"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Es ist ein bayerisches Dorf und an solch einem Feiertag sind viele junge Frauen im Dirndl zum Gottesdienst erschienen</span></div></span></div>",
+            "created":1591160400,
+            "id":2845151,
+            "title":"etwas anderes"
+        },
+        "1142223131":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "tu es",
+                "z\u00f6gern",
+                "etwas anderes"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>nach dem Scan kann er sich in das Ebenbild des Bildes verwandeln</span></div></span></div>",
+            "created":1591592400,
+            "id":2847968,
+            "title":"scan"
+        },
+        "11422232":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "Pfarrer",
+                "Ministrant",
+                "etwas anderes"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>er wollte schon immer mal Pfarrer oder Ministrant sein?</span></div></span></div>",
+            "created":1590728400,
+            "id":2842672,
+            "title":"scan ein Mann"
+        },
+        "11422233":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "der Messwein",
+                "die Hostien",
+                "Weihrauch"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>was solls denn sein?</span></div></span></div>",
+            "created":1591160400,
+            "id":2845157,
+            "title":"etwas anderes"
+        },
         "115":{
             "author_id":"kafoll",
             "author_name":"Kafoll",
@@ -7884,6 +8286,18 @@
             "id":1745079,
             "title":"... seinem Besten Freund Martin!"
         },
+        "115222211111211":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "weiter",
+                "weiter"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>aber es ist sehr komisch, als die beiden in M\u00e4nnerstimmen antworten</span></div></span></div>",
+            "created":1592283600,
+            "id":2852006,
+            "title":"sprich sie an!"
+        },
         "1152222112":{
             "author_id":"kafoll",
             "author_name":"Kafoll",
@@ -7968,6 +8382,19 @@
             "id":1993847,
             "title":"jemand kommt dazu"
         },
+        "1152222112211222":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "Mann",
+                "Frau",
+                "egal"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>soll es ein weibliche oder m\u00e4nnliche Person sein?</span></div></span></div>",
+            "created":1592197200,
+            "id":2851727,
+            "title":"jemand anderes"
+        },
         "11522222":{
             "author_id":"kafoll",
             "author_name":"Kafoll",
@@ -8004,6 +8431,18 @@
             "id":1993808,
             "title":"Ja"
         },
+        "11522222211":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "ein Mann muss her",
+                "etwas anderes"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>genau also schnell weg mit der Corona Probe und</span></div></span></div>",
+            "created":1591160400,
+            "id":2845154,
+            "title":"... der Krankenschwester!"
+        },
         "1152222222":{
             "author_id":"kafoll",
             "author_name":"Kafoll",
@@ -8015,6 +8454,31 @@
             "created":1449637200,
             "id":2072533,
             "title":"Nein"
+        },
+        "11522222222":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "ja",
+                "etwas anderes"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>handelt es sich um sie hier?<br>\r\n<br>\r\n<a rel=\"nofollow\" href=\"http://foto-und-art.de/photoart/modules/showpicorg.php?kat=photoart19&amp;bild=P1050591e-1c-co.jpg\" target=\"_blank\">http://foto-und-art.de/photoart/modules/...</a></span></div></span></div>",
+            "created":1590642000,
+            "id":2842105,
+            "title":"Nein!"
+        },
+        "115222222221":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "weiter",
+                "weiter",
+                "weiter"
+            ],
+            "content":"<div class=\"\"><div> <span><i>Wer hat an der Uhr gedreht?</i><br>\r\n<br>\r\nDie Geschichte geht um einen Familienvater und Erfinder.<br>\r\nEr hat eine Verwandlungsmaschine erfunden und sie an sich selber getestet. Alles ist heimlich, offiziell ist er f\u00fcr eine Forschungsfirma der Regierung angestellt. Vor einiger Zeit hat er den Lotto Jackpot geknackt, es aber seiner Familie verschwiegen. Mit dem Geld hatte er heimlich ein Labor gekauft, wo er seine geheimen Experimente durchf\u00fchrte. Nun war er endlich fertig mit seiner Verwandlungsmaschine und den ersten Test an sich selbst durchgef\u00fchrt.<br>\r\nIm Prinzip war die Maschine ein riesiger Scanner und er hatte das Bild seiner h\u00fcbschen Tochter Rita eingescannt. Eine Uhr stellt die Dauer der Verwandlung ein und f\u00fcr den ersten Test waren das erstmal 5 Minuten.<br>\r\nUm die Verwandlung in die Person des eingescannten Bildes zu starten musste er die Software dazu konfigurieren, was er tat. Dann konnte er den gro\u00dfen Scanner starten, der ihn scannte, um somit eine sichere R\u00fcckkehr zu gew\u00e4hrleisten. Nachdem er sich selber eingescannt hatte und die Parameter zur sicheren R\u00fcckkehr musste er sich auf das Input Feld stellen. Von dort aus konnte er mit einer Fernbedienung den Verwandlungsvorgang starten, was er nun tat\u2026<br>\r\nSchwups\u2026. Es ging los und er musste die Augen schlie\u00dfen, da ein grelles Licht ein Teil des Vorganges war\u2026<br>\r\nAls er die Augen wieder \u00f6ffnete\u2026.<br>\r\n</span></div></div>",
+            "created":1590642000,
+            "id":2842116,
+            "title":"ja"
         },
         "12":{
             "author_id":"kafoll",
@@ -8959,7 +9423,8 @@
         "description":"<td align=\"left\" class=\"norm\">Eines Tages erfindet jemand ein Ger\u00e4t welches Menschen verwandeln kann!</td>",
         "id":1937362,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1588255200,
+        "last_full_update":0,
+        "modified":1592294580,
         "pretty_title":"Das Verwandlungsger\u00e4t"
     }
 }

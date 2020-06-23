@@ -536,6 +536,32 @@
             "created":1569474000,
             "id":2723953,
             "title":"Other"
+        },
+        "115333":{
+            "author_id":"gamelover55",
+            "author_name":"Gamelover55",
+            "choices":[
+                "Yes",
+                "No",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Maybe you become a type of locust?</span></div></span></div>",
+            "created":1591074000,
+            "id":2844947,
+            "title":"Other"
+        },
+        "1153331":{
+            "author_id":"gamelover55",
+            "author_name":"Gamelover55",
+            "choices":[
+                "They are having sex with you this is how locust reproduce",
+                "Getting you ready for battle",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You then see that you have become a female berserker <br>\r\n<a rel=\"nofollow\" href=\"https://www.google.com/url?sa=i&amp;url=https%3A%2F%2Fgearsofwar.fandom.com%2Fwiki%2FBerserker&amp;psig=AOvVaw1nhP7feeh1ihzvIsF9uFnB&amp;ust=1591224127731000&amp;source=images&amp;cd=vfe&amp;ved=0CAIQjRxqFwoTCPiknfmZ5OkCFQAAAAAdAAAAABAD\" target=\"_blank\">https://www.google.com/url?sa=i&amp;url=http...</a><br>\r\nYou see locust strapping you down <br>\r\nWhat are they doing this for?</span></div></span></div>",
+            "created":1591074000,
+            "id":2844949,
+            "title":"Yes"
         }
     },
     "info":{
@@ -546,7 +572,8 @@
         "description":"<td align=\"left\" class=\"norm\">You are one of the gears of war team and you get turned into a inanimate object</td>",
         "id":2201587,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1580161980,
+        "last_full_update":0,
+        "modified":1591141560,
         "pretty_title":"Gears of war tf"
     }
 }

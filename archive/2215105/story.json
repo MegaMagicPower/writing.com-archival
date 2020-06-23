@@ -79,6 +79,18 @@
             "id":2820855,
             "title":"Social unrest - with dinosaurs "
         },
+        "122211":{
+            "author_id":"cornsnacks",
+            "author_name":"Sakuya Kawakami",
+            "choices":[
+                "Play his bluff ",
+                "Try to knock him down and exit through the train"
+            ],
+            "content":"<div class=\"\"><div> <span>As you look around for the nearest exit that isn't crowded with fleeing shoppers, a canister smashes into a nearby water dispenser and bursts open. Immediately your eyes begin to water as a thick, noxious smoke covers the atrium. You hear people screaming, the mall hectic with the sound of smoke devices exploding and the terrifying roars of dinosaurs turning on their owners. In between coughing, you are at least thankful that whatever you've breathed in of this crap, it hasn't made your lungs collapsed.<br>\r\n<br>\r\nThe dinosaurs however, are not reacting as neutral to whatever they've been exposed to. As you head up into the escalator that leads into an increasingly crowded station, you see people fleeing from their beloved dinosaurs. You pick up a gift bag that someone dropped and in the middle of all the chaos, you empty out the complimentary promotional shirt and party supplies so you can sneak your speckled egg inside.<br>\r\n<br>\r\nA small child cries as their leashed <i>compsognathus</i> squirms and stretches its neck to snap at whatever is close by. The semi-tame pterodactyls flying around have also now taken to roosting on the roof and squawking furiously, using their beaked mouths to tap at the glass panels until they crack. A man runs by you, yelling that the velociraptors have taken over the food court.<br>\r\n<br>\r\n\"Everyone get out now!\" A voice yells and there is another explosion from down where the MesoPet store is located. This one sounds big, and you hear glass breaking and a fog of smoke wafts up past the stairs to where the train station is situated. You don't even look back at what is going on, instead trying to blend into the crowd with a now very stuffed backpack. With no idea how many SBL liberationists have raided the mall or where they're coming from, you won't let them take your egg without a fight. <br>\r\n<br>\r\nWith the train to leave the mall now just a few feet away, you push through a group of sobbing teenagers and are about to board the train when someone grabs you by the shoulder.<br>\r\n\"Hey!\" You turn to face a young adult in a gas mask. He wears a brown jacket and carries an electric baton that looks like it was stolen from one of the security booths. He yanks you out of the line of passengers and eyes you suspiciously. <br>\r\n\"You trying to smuggle out a dino? Why don't you let me take a look at your bag?\" The SBL soldier says menacingly. </span></div></div>",
+            "created":1591246800,
+            "id":2845868,
+            "title":"Riot!"
+        },
         "122212":{
             "author_id":"cornsnacks",
             "author_name":"Sakuya Kawakami",
@@ -387,6 +399,21 @@
             "created":1589605200,
             "id":2836696,
             "title":"More Possibilities"
+        },
+        "15553555":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "What if Joan of Arc didn't get captured by Burgundians.",
+                "What if Christopher Columbus died on his first voyage to the Americas.",
+                "What if Communism took off in Germany instead of Russia.",
+                "What if Leonardo da Vinci discovered electricity.",
+                "More Possibilities"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>And still there are more timelines to explore.</span></div></span></div>",
+            "created":1590642000,
+            "id":2842233,
+            "title":"Other Timelines"
         }
     },
     "info":{
@@ -397,7 +424,8 @@
         "description":"<td align=\"left\" class=\"norm\">Let's face it, reality sucks. Don't you ever wish things in our reality were different? For example, a world where magic was real. Or maybe one where superheroes really existed. Well, in this story you can visit these worlds and many more! Whether it's an alternate history scenario, such as the dinosaurs never going extinct, or alternate reality like mentioned above, feel free to run wild with it! </td>",
         "id":2215105,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1590092580,
+        "last_full_update":0,
+        "modified":1591299420,
         "pretty_title":"Alternate Earths"
     }
 }

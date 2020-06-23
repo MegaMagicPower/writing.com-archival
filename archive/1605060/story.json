@@ -101,7 +101,7 @@
         },
         "1111212":{
             "author_id":"hybhyb",
-            "author_name":"wellgreens\u00e2\u0080\u008f",
+            "author_name":"wellgreens\u200f",
             "choices":[
                 "was caught! dawn jumped with glee!",
                 "jumped out of the way!"
@@ -764,6 +764,42 @@
             "id":2838621,
             "title":"Contest Pass"
         },
+        "13133111111111":{
+            "author_id":"eliteeevee",
+            "author_name":"elite eevee",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do the two find a pokemon?</span></div></span></div>",
+            "created":1590469200,
+            "id":2841178,
+            "title":"Go look for Pok\u00e9mon"
+        },
+        "131331111111111":{
+            "author_id":"eliteeevee",
+            "author_name":"elite eevee",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is the pokemon they find a Riolu?</span></div></span></div>",
+            "created":1590469200,
+            "id":2841179,
+            "title":"What pokemon do they find?"
+        },
+        "1313311111111112":{
+            "author_id":"eliteeevee",
+            "author_name":"elite eevee",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is the pokemon they find a Ralts?</span></div></span></div>",
+            "created":1590469200,
+            "id":2841180,
+            "title":"What pokemon do they find?"
+        },
         "131331111112":{
             "author_id":"eliteeevee",
             "author_name":"elite eevee",
@@ -787,6 +823,18 @@
             "created":1589950800,
             "id":2838774,
             "title":"Other"
+        },
+        "13133111111222":{
+            "author_id":"eliteeevee",
+            "author_name":"elite eevee",
+            "choices":[
+                "Yes, Ash gets the power of Aura",
+                "Nope Ash becomes another pokemon"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Ash become a Riolu?</span></div></span></div>",
+            "created":1590469200,
+            "id":2841177,
+            "title":"other"
         },
         "131331112":{
             "author_id":"froodgr00d5675",
@@ -953,7 +1001,7 @@
         },
         "1321221":{
             "author_id":"normerican2",
-            "author_name":"10\u00c2\u00a5",
+            "author_name":"10\u00a5",
             "choices":[
                 "Dawn has control.",
                 "Dawn has lost control."
@@ -965,7 +1013,7 @@
         },
         "13212212":{
             "author_id":"normerican2",
-            "author_name":"10\u00c2\u00a5",
+            "author_name":"10\u00a5",
             "choices":[
                 "Another change is occuring, thanks to the stone.",
                 "The change is all-natural."
@@ -1013,7 +1061,7 @@
         },
         "132122122":{
             "author_id":"normerican2",
-            "author_name":"10\u00c2\u00a5",
+            "author_name":"10\u00a5",
             "choices":[
                 "She's in heat!",
                 "She's evolving!"
@@ -1394,7 +1442,7 @@
         },
         "15211112":{
             "author_id":"normerican2",
-            "author_name":"10\u00c2\u00a5",
+            "author_name":"10\u00a5",
             "choices":[
                 "Dawn is victorious.",
                 "The stranger takes the stone."
@@ -1406,7 +1454,7 @@
         },
         "152111122":{
             "author_id":"normerican2",
-            "author_name":"10\u00c2\u00a5",
+            "author_name":"10\u00a5",
             "choices":[
                 "Began to use its power.",
                 "Ran off into the forest."
@@ -1418,7 +1466,7 @@
         },
         "1521111221":{
             "author_id":"normerican2",
-            "author_name":"10\u00c2\u00a5",
+            "author_name":"10\u00a5",
             "choices":[
                 "Someone else, the man transformed!",
                 "No one, the mab disappeared!"
@@ -1430,7 +1478,7 @@
         },
         "15211112212":{
             "author_id":"normerican2",
-            "author_name":"10\u00c2\u00a5",
+            "author_name":"10\u00a5",
             "choices":[
                 "A distraction occurs.",
                 "Nature takes its course."
@@ -1442,7 +1490,7 @@
         },
         "152111122122":{
             "author_id":"normerican2",
-            "author_name":"10\u00c2\u00a5",
+            "author_name":"10\u00a5",
             "choices":[
                 "Time skip to them getting out of the forest.",
                 "Time skip to them as teens, five years later."
@@ -2361,7 +2409,7 @@
         },
         "15312212122211212121121111":{
             "author_id":"normerican2",
-            "author_name":"10\u00c2\u00a5",
+            "author_name":"10\u00a5",
             "choices":[
                 "He's still Misty!",
                 "He's not Misty, but he's still a girl!"
@@ -2647,7 +2695,7 @@
         },
         "154312":{
             "author_id":"hybhyb",
-            "author_name":"wellgreens\u00e2\u0080\u008f",
+            "author_name":"wellgreens\u200f",
             "choices":[
                 "may!",
                 "no"
@@ -2659,7 +2707,7 @@
         },
         "1543122":{
             "author_id":"hybhyb",
-            "author_name":"wellgreens\u00e2\u0080\u008f",
+            "author_name":"wellgreens\u200f",
             "choices":[
                 "yes",
                 "next"
@@ -2671,7 +2719,7 @@
         },
         "15431222":{
             "author_id":"hybhyb",
-            "author_name":"wellgreens\u00e2\u0080\u008f",
+            "author_name":"wellgreens\u200f",
             "choices":[
                 "option 1",
                 "option 2"
@@ -15622,7 +15670,7 @@
         },
         "15533222222121222":{
             "author_id":"normerican2",
-            "author_name":"10\u00c2\u00a5",
+            "author_name":"10\u00a5",
             "choices":[
                 "Absolutely!",
                 "Let's keep going."
@@ -15715,6 +15763,30 @@
             "created":1449118800,
             "id":2069613,
             "title":"yeah"
+        },
+        "155332222221221221111":{
+            "author_id":"eliteeevee",
+            "author_name":"elite eevee",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Male or female</span></div></span></div>",
+            "created":1590469200,
+            "id":2841175,
+            "title":"Instant"
+        },
+        "15533222222122122112":{
+            "author_id":"yukitheice",
+            "author_name":"Yuki",
+            "choices":[
+                "Yes",
+                "Not in a million years!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Gardevoir?</span></div></span></div>",
+            "created":1590469200,
+            "id":2841173,
+            "title":"Nah"
         },
         "155332222222":{
             "author_id":"zohaku",
@@ -16868,7 +16940,7 @@
         },
         "155332222222222222222221222221121":{
             "author_id":"eblmeg",
-            "author_name":"\u00c3\u008btalfni",
+            "author_name":"\u00cbtalfni",
             "choices":[
                 "Hair changes next.",
                 "Body changes next."
@@ -16880,7 +16952,7 @@
         },
         "1553322222222222222222212222211211":{
             "author_id":"eblmeg",
-            "author_name":"\u00c3\u008btalfni",
+            "author_name":"\u00cbtalfni",
             "choices":[
                 "Finish it. Body and voice.",
                 "Something else."
@@ -16892,7 +16964,7 @@
         },
         "15533222222222222222222122222112111":{
             "author_id":"eblmeg",
-            "author_name":"\u00c3\u008btalfni",
+            "author_name":"\u00cbtalfni",
             "choices":[
                 "There is a bright light, and Ash wakes up in his home.",
                 "Something else."
@@ -16904,7 +16976,7 @@
         },
         "155332222222222222222221222221121111":{
             "author_id":"eblmeg",
-            "author_name":"\u00c3\u008btalfni",
+            "author_name":"\u00cbtalfni",
             "choices":[
                 "It was Professor Oak.",
                 "It was Dawn (still as her mother)."
@@ -16916,7 +16988,7 @@
         },
         "1553322222222222222222212222211211111":{
             "author_id":"eblmeg",
-            "author_name":"\u00c3\u008btalfni",
+            "author_name":"\u00cbtalfni",
             "choices":[
                 "It didn't work.",
                 "It worked."
@@ -22375,7 +22447,7 @@
         },
         "15533222222222222222222222222222221222222222222222222222222222222222222222":{
             "author_id":"hybhyb",
-            "author_name":"wellgreens\u00e2\u0080\u008f",
+            "author_name":"wellgreens\u200f",
             "choices":[
                 "yeah ",
                 "wait i have another idea"
@@ -23063,7 +23135,7 @@
         },
         "155332222222222222222222222222222212222222222222222222222222222222222222222222221222112":{
             "author_id":"eblmeg",
-            "author_name":"\u00c3\u008btalfni",
+            "author_name":"\u00cbtalfni",
             "choices":[
                 "He changes completely.",
                 "Dawn"
@@ -23075,7 +23147,7 @@
         },
         "1553322222222222222222222222222222122222222222222222222222222222222222222222222212221121":{
             "author_id":"eblmeg",
-            "author_name":"\u00c3\u008btalfni",
+            "author_name":"\u00cbtalfni",
             "choices":[
                 "Dawn's turn."
             ],
@@ -23086,7 +23158,7 @@
         },
         "15533222222222222222222222222222221222222222222222222222222222222222222222222222122211211":{
             "author_id":"eblmeg",
-            "author_name":"\u00c3\u008btalfni",
+            "author_name":"\u00cbtalfni",
             "choices":[
                 "A portal opens up and sucks them into the Naruto world.",
                 "Misty and Brock find them."
@@ -24192,7 +24264,7 @@
         },
         "1553322222222222222222222222222222122222222222222222222222222222222222222222222222222222222222222112222212":{
             "author_id":"eblmeg",
-            "author_name":"\u00c3\u008btalfni",
+            "author_name":"\u00cbtalfni",
             "choices":[
                 "He does.",
                 "He doesn't"
@@ -26326,7 +26398,7 @@
         },
         "1553322222222222222222222222222222122222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222221":{
             "author_id":"normerican2",
-            "author_name":"10\u00c2\u00a5",
+            "author_name":"10\u00a5",
             "choices":[
                 "The obvious choice: Ranma and Akane.",
                 "A different combo."
@@ -26338,7 +26410,7 @@
         },
         "15533222222222222222222222222222221222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222211":{
             "author_id":"normerican2",
-            "author_name":"10\u00c2\u00a5",
+            "author_name":"10\u00a5",
             "choices":[
                 "Ash/Ranma, Dawn/Akane.",
                 "Ash/Akane, Dawn/Ranma."
@@ -26350,7 +26422,7 @@
         },
         "155332222222222222222222222222222212222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222111":{
             "author_id":"normerican2",
-            "author_name":"10\u00c2\u00a5",
+            "author_name":"10\u00a5",
             "choices":[
                 "No. Keep 'em as they are.",
                 "Yes. Bring on some changes!"
@@ -26362,7 +26434,7 @@
         },
         "1553322222222222222222222222222222122222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222221111":{
             "author_id":"normerican2",
-            "author_name":"10\u00c2\u00a5",
+            "author_name":"10\u00a5",
             "choices":[
                 "Ryoga is challenging \"Ranma\" to a duel!",
                 "Shampoo has arrived to show her affection!"
@@ -26374,7 +26446,7 @@
         },
         "15533222222222222222222222222222221222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222211111":{
             "author_id":"normerican2",
-            "author_name":"10\u00c2\u00a5",
+            "author_name":"10\u00a5",
             "choices":[
                 "The battle begins.",
                 "Time for a running gag!"
@@ -26386,7 +26458,7 @@
         },
         "155332222222222222222222222222222212222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222111112":{
             "author_id":"normerican2",
-            "author_name":"10\u00c2\u00a5",
+            "author_name":"10\u00a5",
             "choices":[
                 "Happosai's been busy.",
                 "They're right next to the water lady."
@@ -26398,7 +26470,7 @@
         },
         "1553322222222222222222222222222222122222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222221111122":{
             "author_id":"normerican2",
-            "author_name":"10\u00c2\u00a5",
+            "author_name":"10\u00a5",
             "choices":[
                 "The female Ranma/Ranko/Ran-chan/pigtailed girl!",
                 "A female version of himselt!"
@@ -26410,7 +26482,7 @@
         },
         "15533222222222222222222222222222221222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222211111222":{
             "author_id":"normerican2",
-            "author_name":"10\u00c2\u00a5",
+            "author_name":"10\u00a5",
             "choices":[
                 "Girly Ash.",
                 "REALLY girly Ash."
@@ -26422,7 +26494,7 @@
         },
         "155332222222222222222222222222222212222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222111112221":{
             "author_id":"normerican2",
-            "author_name":"10\u00c2\u00a5",
+            "author_name":"10\u00a5",
             "choices":[
                 "The same Ash we know and love.",
                 "A somewhat girlier Ash."
@@ -26434,7 +26506,7 @@
         },
         "1553322222222222222222222222222222122222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222221111122211":{
             "author_id":"normerican2",
-            "author_name":"10\u00c2\u00a5",
+            "author_name":"10\u00a5",
             "choices":[
                 "The school bell. They're gonna be late!",
                 "It's another \"friend\" of Ranma's."
@@ -26446,7 +26518,7 @@
         },
         "1553322222222222222222222222222222122222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222221111122212":{
             "author_id":"normerican2",
-            "author_name":"10\u00c2\u00a5",
+            "author_name":"10\u00a5",
             "choices":[
                 "Small change.",
                 "Big change."
@@ -26458,7 +26530,7 @@
         },
         "155332222222222222222222222222222212222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222112":{
             "author_id":"normerican2",
-            "author_name":"10\u00c2\u00a5",
+            "author_name":"10\u00a5",
             "choices":[
                 "Yes.",
                 "No."
@@ -26470,7 +26542,7 @@
         },
         "1553322222222222222222222222222222122222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222221121":{
             "author_id":"normerican2",
-            "author_name":"10\u00c2\u00a5",
+            "author_name":"10\u00a5",
             "choices":[
                 "Akane's face staringback at him.",
                 "A more feminine version of himself."
@@ -26961,7 +27033,8 @@
         "description":"<td align=\"left\" class=\"norm\">The Transformation Adventures of Ash and Dawn. They find a stone and then the adventures begin.<br>\r\n<br>\r\nYou can also add may or misty in the story to replace Dawn or that they meet each other.<br>\r\n<br>\r\nno sex <br>\r\nno killing<br>\r\n<br>\r\n<br>\r\nYou will be rewarded 50 gift points for a one-line \"option\" chapter, and 200 for a real chapter</td>",
         "id":1605060,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1590036420,
+        "last_full_update":1590483060,
+        "modified":1590483060,
         "pretty_title":"The Transform Adventures of Ash and Dawn"
     }
 }

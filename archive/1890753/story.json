@@ -624,6 +624,18 @@
             "id":2764342,
             "title":"Go with this"
         },
+        "115332222":{
+            "author_id":"someguy464357",
+            "author_name":"Some",
+            "choices":[
+                "Yes",
+                "Nah"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Age progression </span></div></span></div>",
+            "created":1591592400,
+            "id":2848173,
+            "title":"Go with something else"
+        },
         "12":{
             "author_id":"burningking",
             "author_name":"Hidden in a Box",
@@ -1299,7 +1311,7 @@
         },
         "151312":{
             "author_id":"kingsgate",
-            "author_name":"Kingsgate",
+            "author_name":"Kingsgate(MirageSand)",
             "choices":[
                 "Princess at heart",
                 "Something else "
@@ -1323,7 +1335,7 @@
         },
         "151331":{
             "author_id":"kingsgate",
-            "author_name":"Kingsgate",
+            "author_name":"Kingsgate(MirageSand)",
             "choices":[
                 "Clothing change ",
                 "Clothing swap"
@@ -1335,7 +1347,7 @@
         },
         "1513311":{
             "author_id":"kingsgate",
-            "author_name":"Kingsgate",
+            "author_name":"Kingsgate(MirageSand)",
             "choices":[
                 "A copy of Aqua's clothes ",
                 "Something else "
@@ -1347,7 +1359,7 @@
         },
         "15133111":{
             "author_id":"kingsgate",
-            "author_name":"Kingsgate",
+            "author_name":"Kingsgate(MirageSand)",
             "choices":[
                 "An unversed did it",
                 "Something else "
@@ -1471,7 +1483,7 @@
             "title":"Someone else"
         },
         "1552":{
-            "author_id":"mrgeebs",
+            "author_id":"mr-lac",
             "author_name":"Mr Lac",
             "choices":[
                 "Gender",
@@ -1484,7 +1496,7 @@
             "title":"Aqua"
         },
         "15521":{
-            "author_id":"mrgeebs",
+            "author_id":"mr-lac",
             "author_name":"Mr Lac",
             "choices":[
                 "A vault with interesting keyblades",
@@ -1496,7 +1508,7 @@
             "title":"Gender"
         },
         "155211":{
-            "author_id":"mrgeebs",
+            "author_id":"mr-lac",
             "author_name":"Mr Lac",
             "choices":[
                 "She sees a silver keyblade that's covered in roses (Femboy)",
@@ -1742,7 +1754,8 @@
         "description":"<td align=\"left\" class=\"norm\">The characters of the many Digimon series undergo changes. Physical, mental, any kind really. Just keep things consistant. Also, the changes don't always need to affect everybody. They can also swap lives or turn into characters from other video games or anime series. Or perhaps experience other kinds of things that you might come up with?<br>\r\n <br>\r\nAs for changes, don't always try to make everything lead to the same conclusion. Be creative and with similar stuff, don't always make it go the same direction as other paths. Not everything needs to result in physical transformations.<br>\r\n<br>\r\n <br>\r\nSex may be allowed, but you must first conntact me first<br>\r\nNo killing off characters<br>\r\nNo ending the story<br>\r\nPlease try to have good grammar and such<br>\r\n <br>\r\nAnd of course, have fun!</td>",
         "id":1890753,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1577356380,
+        "last_full_update":1591639740,
+        "modified":1591639740,
         "pretty_title":"Kingdom Hearts Transform Story"
     }
 }

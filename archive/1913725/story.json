@@ -1817,7 +1817,7 @@
         },
         "123232121111222":{
             "author_id":"eblmeg",
-            "author_name":"\u00c3\u008btalfni",
+            "author_name":"\u00cbtalfni",
             "choices":[
                 "She threw away the original Gretchen clothes.",
                 "She wanted to experiment with the Gretchen clothes more."
@@ -1985,7 +1985,7 @@
         },
         "1233":{
             "author_id":"eblmeg",
-            "author_name":"\u00c3\u008btalfni",
+            "author_name":"\u00cbtalfni",
             "choices":[
                 "A wig.",
                 "Some padding.",
@@ -3638,7 +3638,7 @@
         },
         "1331":{
             "author_id":"purplesunday",
-            "author_name":"Choconut",
+            "author_name":"Choconut \ud83c\udf6b",
             "choices":[
                 "Mechanic freaks out and tells Cameron he wants nothing to do with him",
                 "Mechanic confides in Cameron that he has a magic spell book"
@@ -4978,6 +4978,7 @@
         "description":"<td align=\"left\" class=\"norm\">Cameron is 17.  His mother leaves for a week long business trip leaving him with one instruction, clean the attic.  He gets more than he bargained for.<br>\r\n<br>\r\nIf you add a chapter, please make it more than a sentence.  And don't turn this into a nonsensical mess please.</td>",
         "id":1913725,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1581894900,
         "modified":1581894900,
         "pretty_title":"The Attic's Chest"
     }

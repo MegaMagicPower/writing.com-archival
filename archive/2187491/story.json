@@ -30,6 +30,45 @@
             "id":2670845,
             "title":"Legend of Zelda"
         },
+        "111":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "Before Skyward Sword",
+                "During Skyward Sword",
+                "After Skyward Sword"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will this take place before, during, or after the events of the game?</span></div></span></div>",
+            "created":1590728400,
+            "id":2842659,
+            "title":"Skyward Sword era"
+        },
+        "1112":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "Link",
+                "Zelda",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay; so you want the swap to take place during the events of the game. Now; which character from Skyward Sword will be the one that gets swapped?</span></div></span></div>",
+            "created":1590728400,
+            "id":2842660,
+            "title":"During Skyward Sword"
+        },
+        "11121":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "Link will swap bodies with Zelda",
+                "Link will swap bodies with his own Loftwing!!!",
+                "Link will swap bodies with someone else"
+            ],
+            "content":"<div class=\"\"><div> <span>Alright; you want Link to be the one that gets body-swapped during the events of the game. All we have to do now is to choose who he swaps with.<br>\r\n<br>\r\nThe most obvious choice would of course be Zelda. This would allow Link to insure that she would be safe, since Zelda would end up in his own well-trained body. Of course, it is likely that he wouldn't know how to use Zelda's own powers, which would make the task of sealing away Demise a lot more difficult...<br>\r\n<br>\r\nHowever; if you want things to get a lot more freaky and awkward, we could cause Link to swap bodies with his own Loftwing bird! While the prospect of being able to fly under his own power might at first seem to be a boon to Link, it would soon be clear to him that his quest to find Zelda is now a lot more difficult; especially since he also has to insure that the Loftwing inside his body doesn't end up causing too many mishaps around Skyloft...</span></div></div>",
+            "created":1590728400,
+            "id":2842662,
+            "title":"Link"
+        },
         "115":{
             "author_id":"ninehundred85",
             "author_name":"LegSweepBoxer",
@@ -270,6 +309,30 @@
             "created":1572670800,
             "id":2741286,
             "title":"A student"
+        },
+        "125121":{
+            "author_id":"hector12345678",
+            "author_name":"dave",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What about edelgard</span></div></span></div>",
+            "created":1591938000,
+            "id":2850003,
+            "title":"Black Eaglesde"
+        },
+        "1251211":{
+            "author_id":"hector12345678",
+            "author_name":"dave",
+            "choices":[
+                "Pre time skip",
+                "Post time skip"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Pre time skip or post</span></div></span></div>",
+            "created":1591938000,
+            "id":2850004,
+            "title":"Yes"
         },
         "125122":{
             "author_id":"persona4golden",
@@ -1010,6 +1073,18 @@
             "id":2687009,
             "title":"Use a different function "
         },
+        "1553333111111121":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "One of the guys",
+                "One of the girls"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>He decided to choose one of his fellow Phantom Thieves as the target, but which one of them?</span></div></span></div>",
+            "created":1591938000,
+            "id":2850009,
+            "title":"A Phantom Thief"
+        },
         "1553333111111122":{
             "author_id":"ocarinaplayer",
             "author_name":"ocarinaplayer",
@@ -1457,6 +1532,44 @@
             "created":1573275600,
             "id":2744302,
             "title":"A Phantom Thief"
+        },
+        "15533331111222222222211":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "One of his fellow Phantom Thieves",
+                "A Confidant",
+                "Other choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who does he suddenly swap with?</span></div></span></div>",
+            "created":1591938000,
+            "id":2850025,
+            "title":"Joker"
+        },
+        "155333311112222222222111":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "One of the guys",
+                "One of the girls"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>One of the guys, or one of the girls?</span></div></span></div>",
+            "created":1591938000,
+            "id":2850026,
+            "title":"One of his fellow Phantom Thieves"
+        },
+        "1553333111122222222221111":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "Ryuji",
+                "Morgana",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><div> <span>Which one of the guys does Joker have a sudden swap with?<br>\r\n<br>\r\nIs it perhaps Ryuji, the Phantom Thieves resident hothead? Ryuji might like to become the leader, but I'm not so sure what Joker would think about being Ryuji...<br>\r\n<br>\r\nOr; did he perhaps swap bodies with Morgana, the talking cat-being? Morgana would likely enjoy being a human since he claims that he was one originally, but Joker would likely be extremely uncomfortable getting used to being in a cat-body...</span></div></div>",
+            "created":1591938000,
+            "id":2850036,
+            "title":"One of the guys"
         },
         "15533331111222222222212":{
             "author_id":"mrmasterplan",
@@ -2702,6 +2815,102 @@
             "id":2792104,
             "title":"Something Else"
         },
+        "1553333332333331":{
+            "author_id":"ocarinaplayer",
+            "author_name":"ocarinaplayer",
+            "choices":[
+                "A master",
+                "A servant"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who will swap bodies?</span></div></span></div>",
+            "created":1590642000,
+            "id":2842514,
+            "title":"Fate Grand Order"
+        },
+        "15533333323333312":{
+            "author_id":"ocarinaplayer",
+            "author_name":"ocarinaplayer",
+            "choices":[
+                "Saber",
+                "A different class"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What class of servant?</span></div></span></div>",
+            "created":1590642000,
+            "id":2842559,
+            "title":"A servant"
+        },
+        "155333333233333122":{
+            "author_id":"ocarinaplayer",
+            "author_name":"ocarinaplayer",
+            "choices":[
+                "Archer",
+                "A different class"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which class of servant?</span></div></span></div>",
+            "created":1590642000,
+            "id":2842595,
+            "title":"A different class"
+        },
+        "1553333332333331222":{
+            "author_id":"ocarinaplayer",
+            "author_name":"ocarinaplayer",
+            "choices":[
+                "Lancer",
+                "A different class"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which class of servant?</span></div></span></div>",
+            "created":1590642000,
+            "id":2842614,
+            "title":"A different class"
+        },
+        "15533333323333312222":{
+            "author_id":"ocarinaplayer",
+            "author_name":"ocarinaplayer",
+            "choices":[
+                "Rider",
+                "A different class"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which class of servant?</span></div></span></div>",
+            "created":1590642000,
+            "id":2842618,
+            "title":"A different class"
+        },
+        "155333333233333122222":{
+            "author_id":"ocarinaplayer",
+            "author_name":"ocarinaplayer",
+            "choices":[
+                "Caster",
+                "A different class"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which class of servant?</span></div></span></div>",
+            "created":1590728400,
+            "id":2842624,
+            "title":"A different class"
+        },
+        "1553333332333331222222":{
+            "author_id":"ocarinaplayer",
+            "author_name":"ocarinaplayer",
+            "choices":[
+                "Assassin ",
+                "A different class"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What class of servant?</span></div></span></div>",
+            "created":1590728400,
+            "id":2842627,
+            "title":"A different class"
+        },
+        "15533333323333312222222":{
+            "author_id":"ocarinaplayer",
+            "author_name":"ocarinaplayer",
+            "choices":[
+                "Avenger",
+                "A different class"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What class of servant?</span></div></span></div>",
+            "created":1590728400,
+            "id":2842638,
+            "title":"A different class"
+        },
         "1553333332333332":{
             "author_id":"ocarinaplayer",
             "author_name":"ocarinaplayer",
@@ -2747,7 +2956,8 @@
         "description":"<td align=\"left\" class=\"norm\">As the title says, body swap stories for any video game, if you can think of it, write it up</td>",
         "id":2187491,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1589876880,
+        "last_full_update":0,
+        "modified":1591941240,
         "pretty_title":"Video Game Body Swaps"
     }
 }

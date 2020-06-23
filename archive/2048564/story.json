@@ -1662,6 +1662,32 @@
             "id":2497868,
             "title":"sharing a body"
         },
+        "124":{
+            "author_id":"dayaman",
+            "author_name":"dayaman",
+            "choices":[
+                "male",
+                "female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What gender are both heads?</span></div></span></div>",
+            "created":1591851600,
+            "id":2849967,
+            "title":"two heads of the same gender"
+        },
+        "125":{
+            "author_id":"dayaman",
+            "author_name":"dayaman",
+            "choices":[
+                "all male",
+                "all female",
+                "two male, one female",
+                "two female, one male"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Genders of the heads?</span></div></span></div>",
+            "created":1591851600,
+            "id":2849968,
+            "title":"three heads"
+        },
         "13":{
             "author_id":"dayaman",
             "author_name":"dayaman",
@@ -7168,6 +7194,20 @@
             "id":2731411,
             "title":"touch themselves"
         },
+        "1523111221211111121221221211221213213":{
+            "author_id":"dayaman",
+            "author_name":"dayaman",
+            "choices":[
+                "cable",
+                "streaming service",
+                "they play a video game",
+                "they use the YouTube app on their TV"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Lizzy and Lucy turn on their television to see what is on. But which type of TV do they watch?</span></div></span></div>",
+            "created":1591592400,
+            "id":2848266,
+            "title":"sit on the couch and watch TV"
+        },
         "152311122121111112122122121122122":{
             "author_id":"quad2",
             "author_name":"Joe",
@@ -8205,6 +8245,20 @@
             "created":1473915600,
             "id":2210493,
             "title":"Eddie, Jan, and Ollie at school"
+        },
+        "153231121211312":{
+            "author_id":"dayaman",
+            "author_name":"dayaman",
+            "choices":[
+                "two years later (Jan/Eddie = 18, Ollie = 26)",
+                "five years later (Jan/Eddie = 21, Ollie = 29)",
+                "nine years later (Jan/Eddie = 25, Ollie = 33)",
+                "14 years later (Jan/Eddie = 30, Ollie = 38)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How deep in the future are we going to go?</span></div></span></div>",
+            "created":1592715600,
+            "id":2854578,
+            "title":"years later"
         },
         "153231121211313":{
             "author_id":"dayaman",
@@ -9728,7 +9782,8 @@
         "description":"<td align=\"left\" class=\"norm\">26 December 2017: 700 chapters!<br>\r\n<br>\r\n17 April 2017: 600 chapters!<br>\r\n<br>\r\n27 September 2016: 500 chapters!<br>\r\n<br>\r\n10 May 2016: 400 chapters!<br>\r\n<br>\r\n13 March 2016: 300 chapters!<br>\r\n<br>\r\n9 January 2016: Now with 200 chapters!<br>\r\n<br>\r\nSometime in the future, doctors and scientists have found a way to to keep a person's severed head alive. Thanks to advanced technology, people's heads can survive decapitation. Thus, many of these heads want to be adopted as pets. The technology has caused them to move around just by rolling their heads. In addition, they can also levitate themselves.<br>\r\n<br>\r\nSome heads want bodies, while some people with bodies want to be only heads. Thus, head dismemberment has been popular with most. Very few people, if any, have died from these operations. As a result, medical science has improved in the future.<br>\r\n<br>\r\nFACTS:<br>\r\nHeads can levitate.<br>\r\nHeads can roll.<br>\r\nHeads are practically immortal after decapitation.<br>\r\nHeads require a body to reproduce.<br>\r\nScientists can attach heads to new bodies, regardless of difference in skin tone, age, or even gender.<br>\r\nTwo to three heads can be attached to a body at one time. In fact, two-headed and three-headed people are accepted in society. This is the only way that polygamy is accepted.<br>\r\nPet heads cannot marry full-bodied humans, unless they are attached to bodies.</td>",
         "id":2048564,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1589168580,
+        "last_full_update":0,
+        "modified":1592764140,
         "pretty_title":"Pet Heads"
     }
 }

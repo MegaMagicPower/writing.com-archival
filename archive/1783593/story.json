@@ -1253,6 +1253,19 @@
             "id":2628727,
             "title":"more choices"
         },
+        "152133":{
+            "author_id":"sizewatcher",
+            "author_name":"SizeWatcher",
+            "choices":[
+                "Spoiled Rika",
+                "Rika obeys Takato's orders",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Takato wish with weird looking digivice:<br>\r\nRikas personality changes to spoiled brat or to personality that listen and do what ever Takato says?</span></div></span></div>",
+            "created":1592456400,
+            "id":2853100,
+            "title":"more choices"
+        },
         "1522":{
             "author_id":"starfighter364",
             "author_name":"Starfighter364",
@@ -1971,6 +1984,19 @@
             "id":1967820,
             "title":"Yes"
         },
+        "155332222222222211":{
+            "author_id":"sizewatcher",
+            "author_name":"SizeWatcher",
+            "choices":[
+                "Takato shrinks a foot shorter",
+                "Takato shrinks half of his normal size",
+                "Takato shrinks 1 foot tall"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So is his height one foot or is he one foot shorter? Will he shrink half of his current size?</span></div></span></div>",
+            "created":1592456400,
+            "id":2853103,
+            "title":"one foot"
+        },
         "155332222222222212":{
             "author_id":"game98979",
             "author_name":"game98979",
@@ -2374,6 +2400,19 @@
             "id":2679524,
             "title":"Female"
         },
+        "15533222222222222223322112":{
+            "author_id":"sizewatcher",
+            "author_name":"SizeWatcher",
+            "choices":[
+                "Jeri Katou",
+                "Takato's mom",
+                "Other female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about Jeri Katou? Or his mom?</span></div></span></div>",
+            "created":1592456400,
+            "id":2853106,
+            "title":"Someone else"
+        },
         "155332222222222222233222":{
             "author_id":"gilligfan",
             "author_name":"PrincessKooh",
@@ -2386,6 +2425,19 @@
             "created":1465102800,
             "id":2159274,
             "title":"Digimon"
+        },
+        "1553322222222222222332223":{
+            "author_id":"sizewatcher",
+            "author_name":"SizeWatcher",
+            "choices":[
+                "Terriermon",
+                "Impmon",
+                "Other digimon"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Takato choose to shrink someone Digimon down to doll size just to try it but what Digimon?</span></div></span></div>",
+            "created":1592456400,
+            "id":2853104,
+            "title":"More choices "
         }
     },
     "info":{
@@ -2396,7 +2448,8 @@
         "description":"<td align=\"left\" class=\"norm\">Takato finds a weird looking digidevice that allows the user to make unlimited wishes.<br>\r\nHe can transform into anything or change somebody else.<br>\r\n<br>\r\nNo gay or lesbian stuff.<br>\r\nNo sex.<br>\r\nNo endings allowed.<br>\r\neverthing else is allowed.</td>",
         "id":1783593,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1587799500,
+        "last_full_update":0,
+        "modified":1592474580,
         "pretty_title":"The wishing adventures of Takato."
     }
 }

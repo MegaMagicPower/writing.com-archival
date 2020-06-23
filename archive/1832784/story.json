@@ -43,6 +43,34 @@
             "id":2456894,
             "title":"Man & Hen"
         },
+        "14":{
+            "author_id":"jacksmith3",
+            "author_name":"Mikejam76",
+            "choices":[
+                "Yes",
+                "Skip to later",
+                "Reality change",
+                "Next",
+                "Later"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Carter change the meaning of mother to both woman and man.</span></div></span></div>",
+            "created":1591765200,
+            "id":2848961,
+            "title":"Human & Human"
+        },
+        "145":{
+            "author_id":"jacksmith3",
+            "author_name":"Mikejam76",
+            "choices":[
+                "Yes",
+                "Skip to later",
+                "Reality change"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Cater also change the meaning of father to both man and woman.</span></div></span></div>",
+            "created":1591765200,
+            "id":2848963,
+            "title":"Later"
+        },
         "15":{
             "author_id":"lesterfester",
             "author_name":"Lester",
@@ -64,7 +92,8 @@
         "description":"<td align=\"left\" class=\"norm\">By complete accident, Carter McCoy gets ahold of a program capable of exchanging the dictionary definitions of any 2 things of his choosing.<br>\r\n<br>\r\nWhat this means is up to you. For example, say he swaps the definitions of Man and Woman. Would everyone physically swap genders but stay the exact same mentally, would their minds be warped to behave like the opposite gender but remain the same physically, or maybe some mixture of both?<br>\r\n<br>\r\nEither way, the choice is yours. </td>",
         "id":1832784,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1541659680,
+        "last_full_update":1541659680,
+        "modified":1591774740,
         "pretty_title":"Dictionary Swapping Program"
     }
 }

@@ -3724,6 +3724,18 @@
             "id":2326132,
             "title":"Dogs"
         },
+        "1521112":{
+            "author_id":"crispytenders",
+            "author_name":"chuckenTunders",
+            "choices":[
+                "St Bernard",
+                "Mastiff"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about these?</span></div></span></div>",
+            "created":1592197200,
+            "id":2851513,
+            "title":"Next"
+        },
         "15212":{
             "author_id":"lovesdogs",
             "author_name":"eaten alive",
@@ -4012,6 +4024,18 @@
             "id":2402589,
             "title":"Other"
         },
+        "15212122":{
+            "author_id":"crispytenders",
+            "author_name":"chuckenTunders",
+            "choices":[
+                "Newfoundland",
+                "German Shepherd"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about these?</span></div></span></div>",
+            "created":1592197200,
+            "id":2851515,
+            "title":"Other"
+        },
         "152122":{
             "author_id":"lovesdogs",
             "author_name":"eaten alive",
@@ -4023,6 +4047,18 @@
             "created":1453352400,
             "id":2092478,
             "title":"Cats/others"
+        },
+        "15213":{
+            "author_id":"crispytenders",
+            "author_name":"chuckenTunders",
+            "choices":[
+                "Female",
+                "Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You're a ___ visiting a ____ friend.</span></div></span></div>",
+            "created":1592197200,
+            "id":2851516,
+            "title":"Other combination"
         },
         "1522":{
             "author_id":"lepherandrian",
@@ -4049,6 +4085,18 @@
             "id":2433841,
             "title":"Reindeer and Elk"
         },
+        "15223":{
+            "author_id":"crispytenders",
+            "author_name":"chuckenTunders",
+            "choices":[
+                "Oh my gawd its a bear!",
+                "Oh my gawd its a pack a wolves!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Some of these maybe?</span></div></span></div>",
+            "created":1592197200,
+            "id":2851521,
+            "title":"Other Animals"
+        },
         "1523":{
             "author_id":"lovesdogs",
             "author_name":"eaten alive",
@@ -4073,6 +4121,18 @@
             "created":1462338000,
             "id":2143175,
             "title":"Horses"
+        },
+        "152312":{
+            "author_id":"crispytenders",
+            "author_name":"chuckenTunders",
+            "choices":[
+                "At the fence next to Tommy...",
+                "To the barn..."
+            ],
+            "content":"<div class=\"\"><div> <span>You are visiting your friend Tommy at his horse farm for the weekend. You always loved the horses, especially the ones that showed a lot of affection. You hoped you could visit them today. Driving your car up the dirt driveway, you parked next to the house and got out. Looking around, you checked the large property to see if you could spot Tommy anywhere.<br>\r\n<br>\r\nYour eyes soon spotted him up by a part of the large fence where some of the females seemed to be prancing about. You made to start walking to him but froze when you saw a little ways away from him, the barn. With its doors wide open. looking back at the area Tommy was, you could see that most of the smaller horses were out. Maybe the larger ones are in the barn.<br>\r\n<br>\r\nWhere should you go?</span></div></div>",
+            "created":1592197200,
+            "id":2851520,
+            "title":"female visiting male friend"
         },
         "15233":{
             "author_id":"lovesdogs",
@@ -4184,6 +4244,18 @@
             "id":2787275,
             "title":"normal sized prey "
         },
+        "153112":{
+            "author_id":"crispytenders",
+            "author_name":"chuckenTunders",
+            "choices":[
+                "St Bernard",
+                "other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about something bigger?</span></div></span></div>",
+            "created":1592197200,
+            "id":2851522,
+            "title":"Other "
+        },
         "1533":{
             "author_id":"wenirun",
             "author_name":"wenirun",
@@ -4244,6 +4316,18 @@
             "created":1571979600,
             "id":2738280,
             "title":"A Filling Meal"
+        },
+        "15332":{
+            "author_id":"crispytenders",
+            "author_name":"chuckenTunders",
+            "choices":[
+                "Female human?",
+                "Male human?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What are you hunting today?</span></div></span></div>",
+            "created":1592197200,
+            "id":2851523,
+            "title":"Bear"
         }
     },
     "info":{
@@ -4254,7 +4338,8 @@
         "description":"<td align=\"left\" class=\"norm\">Rules:<br>\r\nCharacter may be male or female<br>\r\nMultiple animals may be used<br>\r\nLimit the hard vore<br>\r\nYour character may \"enjoy\" himself/herself in any way in this story.<br>\r\nDigestion is allowed, but please then continue the story from another character's point of view</td>",
         "id":1760442,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1589461680,
+        "last_full_update":0,
+        "modified":1592213160,
         "pretty_title":"Rare mammal vore stories"
     }
 }

@@ -3924,6 +3924,32 @@
             "id":2166089,
             "title":"Eat/Drink?"
         },
+        "14533":{
+            "author_id":"jacksmith3",
+            "author_name":"Mikejam76",
+            "choices":[
+                "Yes",
+                "Skip to later",
+                "Next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Little boy get a brain transplant into a body of a young female model.</span></div></span></div>",
+            "created":1591592400,
+            "id":2848347,
+            "title":"Something else"
+        },
+        "145333":{
+            "author_id":"jacksmith3",
+            "author_name":"Mikejam76",
+            "choices":[
+                "Yes",
+                "Skip to later",
+                "Next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Little girl brain in a male bodybuilder/powerlifter body.</span></div></span></div>",
+            "created":1591678800,
+            "id":2848680,
+            "title":"Next"
+        },
         "15":{
             "author_id":"jingo4754",
             "author_name":"lostsanity4754",
@@ -4239,6 +4265,32 @@
             "id":2629629,
             "title":"Something else."
         },
+        "15232":{
+            "author_id":"jacksmith3",
+            "author_name":"Mikejam76",
+            "choices":[
+                "Yes",
+                "Skip to later",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Father wake up as female young model.</span></div></span></div>",
+            "created":1591592400,
+            "id":2848352,
+            "title":"Something else"
+        },
+        "152323":{
+            "author_id":"jacksmith3",
+            "author_name":"Mikejam76",
+            "choices":[
+                "Yes",
+                "Skip to later",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Mother wakes up as a male bodybuilder/powerlifter.</span></div></span></div>",
+            "created":1591678800,
+            "id":2848868,
+            "title":"Other"
+        },
         "153":{
             "author_id":"danielevans",
             "author_name":"Atrium",
@@ -4507,7 +4559,8 @@
         "description":"<td align=\"left\" class=\"norm\">This is exactly what was previously pointed out. Write about AP, AR, TG, TGAR and TGAP.<br>\r\n<br>\r\n1) Watch the grammar and vocabulary as well as the rating.<br>\r\n<br>\r\n2) Obviously, I don't care how long a choice passage (\"Which thing do you want?\") is, but I would like some length and effort for the story parts of this interactive.<br>\r\n<br>\r\n3) Have fun</td>",
         "id":1858221,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1582809900,
+        "last_full_update":0,
+        "modified":1591757520,
         "pretty_title":"Gender and Age Changing"
     }
 }

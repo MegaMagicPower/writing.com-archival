@@ -889,6 +889,32 @@
             "created":1530939600,
             "id":2516356,
             "title":"The New Target"
+        },
+        "15533":{
+            "author_id":"jacksmith3",
+            "author_name":"Mikejam76",
+            "choices":[
+                "Yes",
+                "Next",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Alicia sliverstone</span></div></span></div>",
+            "created":1590987600,
+            "id":2843934,
+            "title":"More"
+        },
+        "155332":{
+            "author_id":"jacksmith3",
+            "author_name":"Mikejam76",
+            "choices":[
+                "Yes",
+                "Next",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Rachel blanchard Canadian actress</span></div></span></div>",
+            "created":1590987600,
+            "id":2843935,
+            "title":"Next"
         }
     },
     "info":{
@@ -899,7 +925,8 @@
         "description":"<td align=\"left\" class=\"norm\">Someone in the media industry comes up with a potion to incredibly enhance human beings. One sip will make you as powerful as superman, five sips will make you strong enough to lift a continent, twenty strong enough to move the planet...<br>\r\nAnd the whole vial will make you into god, capable of doing anything just with a thought.<br>\r\n<br>\r\nThe story focuses on females in the media.<br>\r\nThe general theme is female power and / or muscle. If you want to turn someone into a giantess, it's okay, as long as she makes herself normal again at some point.<br>\r\nViolence is allowed. Killing one of the main characters is also okay, just make sure you have characters left to work with.<br>\r\nPower switching and sudden overpowerement is encouraged. <br>\r\nHave fun!</td>",
         "id":1671505,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1574625720,
+        "last_full_update":0,
+        "modified":1590992160,
         "pretty_title":"Overpowered Celebrities"
     }
 }

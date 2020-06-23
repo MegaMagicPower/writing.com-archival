@@ -31,6 +31,7 @@
             "title":"Intro"
         },
         "111":{
+            "author_name":"Morpheus",
             "choices":[
                 "Sie zertritt alles was sich bewegt",
                 "Sie schaut sich die kleinen genau an und hebt sie auf"
@@ -674,11 +675,12 @@
             "title":"beim Shopping"
         },
         "12":{
+            "author_name":"Schreiber12",
             "choices":[
                 "Sie bet\u00e4tigt die gr\u00fcnde Taste",
                 "Sie tut es nicht und geht weiter"
             ],
-            "content":"<div class=\"\"><div> <span>Der \u00c3\u009cbergang:<br>\r\n----------------------<br>\r\n<br>\r\nEs war Montagabend und Larissa, die von ihren Freunden Lizz oder Lizzy genannt wurde, ging, wie so oft wenn sie depressiv war, am Ufer des Rheins spazieren. Seit ihre Eltern sich scheiden lie\u00c3\u009fen, wohnte sie in einem der Kinderheime Wiesbadens. <br>\r\nHeute war das Wetter warm und der Himmel bew\u00c3\u00b6lkt. Lizz hatte sich dementsprechend angezogen, komplett in wei\u00c3\u009f: ihre Jeans, ihr Top und ihre Lieblings Flip-Flops.<br>\r\nAls sie am Rande der Stadt ans flache Ufer kam, zog sie ihre Flip-Flops aus und lief barfuss durch das seichte Wasser. <br>\r\nSie war 18 Jahre alt, war gerade mit der Schule fertig geworden und wusste nun nichts mit ihrem Leben anzufangen. Sie wusste weder was f\u00c3\u00bcr einen Beruf sie w\u00c3\u00a4hlen sollte, noch was f\u00c3\u00bcr Ziele sie im Leben verfolgen sollte. Und \u00c3\u00bcber all dass dachte sie gerade nach, als sie pl\u00c3\u00b6tzlich etwas gl\u00c3\u00bchendes im Geb\u00c3\u00bcsch sah.<br>\r\nSchnell zog sie wieder ihre Flip-Flops an und ging und holte das kleine rundliche Objekt aus dem Busch. Es war metallen und sehr leicht. Sein \u00c3\u0084u\u00c3\u009feres gl\u00c3\u00bchte gr\u00c3\u00bcnlich und in der Mitte befanden sich ein kleiner Bildschirm und einige Kn\u00c3\u00b6pfe. <br>\r\nSie hatte nicht die geringste Ahnung was es sein konnte, aber sie war neugierig und schaute es sich genau an. Auf dem Bildschirm stand:<br>\r\n\u201eZur Aktivierung des \u00c3\u009cbergangs, dr\u00c3\u00bccken sie die gr\u00c3\u00bcne Taste.\u201c<br>\r\n</span></div></div>",
+            "content":"<div class=\"\"><div> <span>Der \u00dcbergang:<br>\r\n----------------------<br>\r\n<br>\r\nEs war Montagabend und Larissa, die von ihren Freunden Lizz oder Lizzy genannt wurde, ging, wie so oft wenn sie depressiv war, am Ufer des Rheins spazieren. Seit ihre Eltern sich scheiden lie\u00dfen, wohnte sie in einem der Kinderheime Wiesbadens. <br>\r\nHeute war das Wetter warm und der Himmel bew\u00f6lkt. Lizz hatte sich dementsprechend angezogen, komplett in wei\u00df: ihre Jeans, ihr Top und ihre Lieblings Flip-Flops.<br>\r\nAls sie am Rande der Stadt ans flache Ufer kam, zog sie ihre Flip-Flops aus und lief barfuss durch das seichte Wasser. <br>\r\nSie war 18 Jahre alt, war gerade mit der Schule fertig geworden und wusste nun nichts mit ihrem Leben anzufangen. Sie wusste weder was f\u00fcr einen Beruf sie w\u00e4hlen sollte, noch was f\u00fcr Ziele sie im Leben verfolgen sollte. Und \u00fcber all dass dachte sie gerade nach, als sie pl\u00f6tzlich etwas gl\u00fchendes im Geb\u00fcsch sah.<br>\r\nSchnell zog sie wieder ihre Flip-Flops an und ging und holte das kleine rundliche Objekt aus dem Busch. Es war metallen und sehr leicht. Sein \u00c4u\u00dferes gl\u00fchte gr\u00fcnlich und in der Mitte befanden sich ein kleiner Bildschirm und einige Kn\u00f6pfe. <br>\r\nSie hatte nicht die geringste Ahnung was es sein konnte, aber sie war neugierig und schaute es sich genau an. Auf dem Bildschirm stand:<br>\r\n\u201eZur Aktivierung des \u00dcbergangs, dr\u00fccken sie die gr\u00fcne Taste.\u201c<br>\r\n</span></div></div>",
             "created":1146459600,
             "id":316476,
             "title":"Lizzy's Adventure begins"
@@ -694,6 +696,7 @@
             "title":"\u00dcbergang"
         },
         "1211":{
+            "author_name":"Schreiber12",
             "choices":[
                 "Er war 15",
                 "Er war 25"
@@ -704,6 +707,7 @@
             "title":"Das Alter"
         },
         "12111":{
+            "author_name":"Schreiber12",
             "choices":[
                 "180 Meter",
                 "viel viel mehr"
@@ -714,6 +718,7 @@
             "title":"Die Gr\u00f6\u00dfe"
         },
         "121111":{
+            "author_name":"Schreiber12",
             "choices":[
                 "b\u00f6se",
                 "freundlich"
@@ -724,6 +729,7 @@
             "title":"B\u00f6se Oder Gut"
         },
         "1211111":{
+            "author_name":"Schreiber12",
             "choices":[
                 "Barfu\u00df",
                 "Schuhe anbehalten!"
@@ -734,6 +740,7 @@
             "title":"Gef\u00fchlsecht?"
         },
         "12111111":{
+            "author_name":"Schreiber12",
             "choices":[
                 "In Lukas' Sicht bleiben",
                 "In die Sicht eines Stadtbewohners wechseln"
@@ -744,6 +751,7 @@
             "title":"Barefoot-Rampage"
         },
         "121111111":{
+            "author_name":"Schreiber12",
             "choices":[
                 "In Lukas' Sicht bleiben",
                 "Zu einem Reporterteam wechseln"
@@ -754,6 +762,7 @@
             "title":"Crush-Party"
         },
         "1211111111":{
+            "author_name":"Schreiber12",
             "choices":[
                 "sie zertreten",
                 "mit ihr sprechen"
@@ -764,6 +773,7 @@
             "title":"Ein M\u00e4dchen"
         },
         "12111111111":{
+            "author_name":"Schreiber12",
             "choices":[
                 "platt treten",
                 "kontakt aufnehmen"
@@ -774,12 +784,14 @@
             "title":"wirklich zertreten?"
         },
         "121111111111":{
+            "author_name":"Schreiber12",
             "content":"<div class=\"\"><div> <span>Nein, er wollte sie einfach zertreten. Und dass tat er auch. Diesmal schob er seinen Fu\u00df einfach \u00fcber sie, wodurch sie zu Boden st\u00fcrzte. Dann hob er ihn nochmal leicht \u00fcber sie um ihr eine perfekte Sicht auf seine Fu\u00dfsohle zu erm\u00f6glichen. Und dann senkte er wieder seinen Fu\u00df, doch diesmal schneller. <br>\r\nSeine Sohle ber\u00fchrte sie, dann den Boden. Dann sp\u00fchrte er ihren K\u00f6rper, wie er gegen den Asphalt gedr\u00fcckt wurde. Und dann schlie\u00dflich gan er volles Gewicht auf sein Bein, wodurch sie vollst\u00e4ndig zerdr\u00fcckt und sogar die Stra\u00dfe zerst\u00f6rt wurde.<br>\r\nIhr Blut quoll unter seinem Fu\u00dfballen hervor. Dann wurde ihm pl\u00f6tzlich schwindelig. Seine Augen wurden schwach und seine Sicht verschwommen. Doch dann wurde alles wieder klarer und er kehrte zur Realit\u00e4t zur\u00fcck. Doch irgendetwas war anders. Er war nicht mehr er. Lukas schaute sich selbst an. Er hatte wei\u00dfe Kleidung an, und ... er war wieder Lizz! Aber wie konnte das sein?<br>\r\nDann bemerkte Lizz den gro\u00dfen Schatten, der \u00fcber sie kam. Sie blickte nach oben. Es war ein gigantischer Fu\u00df der \u00fcber ihr schwebte - Lukas' Fu\u00df. Si konnte sein Gesicht nicht sehen, also ging sie ein paar Schritte zur\u00fcck, w\u00e4rend die riesige Fu\u00dfsohle immer n\u00e4her kam. Schlie\u00dflich stand sie zwischen seinen Zehen und blickte ihm ins Gesicht.<br>\r\nDas konnte doch alles nicht wahr sein, oder?<br>\r\nSie konnte doch nicht gleichzeitig als zwei verschiedene Personen am selben Ort, in unterschiedlicher K\u00f6rpergr\u00f6\u00dfe sein!<br>\r\nSein Fu\u00df setzte auf. Sie wusste was jetzt kam. Als sie registrierte, was mit ihr geschah, war es schon zu sp\u00e4t. Lukas Fu\u00df stie\u00df sie um, warf sie zu Boden. Lizz blickte die ganze Zeit \u00fcber nach oben, auf Lukas Fu\u00dfsohle. Er hatte wirklich sch\u00f6ne F\u00fc\u00dfe! Aber sie wollte nicht sterben, jetzt doch noch nicht. <br>\r\nSie wollte aufstehen um zu fliehen, doch sie wurde bereits von der herabkommenden Fu\u00dfsohle erfasst und zu Boden gedr\u00fcckt. <br>\r\nDass konnte doch nicht sein! Sie hatte sich selbst zertreten als sie in Lukas' Gestallt auf das kleine M\u00e4dchen getreten war. Und jetzt war sie dass kleine M\u00e4dchen das unter ihrem eigenen Fu\u00df zu Boden gedr\u00fcckt wurde. <br>\r\nSchlie\u00dflich wurde der Druck immer gr\u00f6\u00dfer, die Schmerzen immer st\u00e4rker, bis sie gar nichts mehr f\u00fchlte, und ihr K\u00f6rper nachgab. Kurzzeitig sp\u00fchrte sie erleichterung. Eine Art befreiung als ihr Sch\u00e4del explodierte.<br>\r\nDann war alles dunkel. Aus.<br>\r\n<br>\r\n--- ENDE ---</span></div></div>",
             "created":1147150800,
             "id":317845,
             "title":"unbewusster suizid"
         },
         "121111111112":{
+            "author_name":"Schreiber12",
             "choices":[
                 "Ihr alles erkl\u00e4ren",
                 "sie nicht aufkl\u00e4ren"
@@ -790,6 +802,7 @@
             "title":"Selbsterkenntnis"
         },
         "1211111111122":{
+            "author_name":"Schreiber12",
             "choices":[
                 "Auf die Stadt",
                 "Auf die EInwohner"
@@ -820,6 +833,7 @@
             "title":"Begegnungen"
         },
         "1212":{
+            "author_name":"Schreiber12",
             "choices":[
                 "auf alle F\u00e4lle Menschlich",
                 "nicht Menschlich"
@@ -830,6 +844,7 @@
             "title":"Das Erscheinungsbild"
         },
         "12121":{
+            "author_name":"Schreiber12",
             "choices":[
                 "Gothic",
                 "was anderes"
@@ -970,6 +985,7 @@
             "title":"B\u00f6se, Dominant"
         },
         "12122":{
+            "author_name":"Schreiber12",
             "choices":[
                 "Werwolf",
                 "was anderes"
@@ -980,6 +996,7 @@
             "title":"Nicht Menschlich"
         },
         "121222":{
+            "author_name":"Schreiber12",
             "choices":[
                 "Dinosaurier",
                 "Pferd"
@@ -990,6 +1007,7 @@
             "title":"Welches Tier"
         },
         "1212222":{
+            "author_name":"Schreiber12",
             "choices":[
                 "noch mehr Schaden anrichten",
                 "versuchen den Schaden wieder gut zu machen"
@@ -1000,16 +1018,18 @@
             "title":"Das Pferd"
         },
         "122":{
+            "author_name":"Schreiber12",
             "choices":[
                 "Ja",
                 "lieber doch nicht"
             ],
-            "content":"<div class=\"\"><div> <span>Sie geht weiter den Rhein entlang und versucht weiter \u00c3\u00bcber ihre Probleme und deren L\u00c3\u00b6sung nachzudenken, doch ihre Gedanken werden immer wieder von diesem Ding unterbrochen, dass sie noch immer in den H\u00c3\u00a4nden h\u00c3\u00a4lt. Irgendwie scheint es mit ihr kommunizieren zu wollen. Erst jetzt bemerkt Lizz, dass das Ger\u00c3\u00a4t ein Armband hat wie eine Armbanduhr. Sie legt sich das Ger\u00c3\u00a4t am linken Arm an. Eigentlich sieht es etwas bescheuert aus, weil es viel zu gro\u00c3\u009f ist um sch\u00c3\u00b6n an ihrem zarten K\u00c3\u00b6rper auszusehen. <br>\r\nPl\u00c3\u00b6tzlich sp\u00c3\u00bcrt sie ein kleines Stechen im Handgelenk. Auf dem Bildschirm des Ger\u00c3\u00a4ts liest sie <br>\r\n\u2013 Neuralschnittstelle hergestellt, erwarte Anweisungen \u2013<br>\r\n&gt;&gt;Was ist das f\u00c3\u00bcr\u2019ne Schei\u00c3\u009fe?&lt;&lt;<br>\r\nDie Bildschirminformation \u00c3\u00a4ndert sich: <br>\r\n--Soll der \u00c3\u009cbergang aktiviert werden? Zur Best\u00c3\u00a4tigung dir gr\u00c3\u00bcne Taste dr\u00c3\u00bccken.\u2014<br>\r\n&gt;&gt;Schon wieder diese Meldung&lt;&lt;<br>\r\n<br>\r\nSollte sie die Taste nun dr\u00c3\u00bccken oder nicht?<br>\r\n</span></div></div>",
+            "content":"<div class=\"\"><div> <span>Sie geht weiter den Rhein entlang und versucht weiter \u00fcber ihre Probleme und deren L\u00f6sung nachzudenken, doch ihre Gedanken werden immer wieder von diesem Ding unterbrochen, dass sie noch immer in den H\u00e4nden h\u00e4lt. Irgendwie scheint es mit ihr kommunizieren zu wollen. Erst jetzt bemerkt Lizz, dass das Ger\u00e4t ein Armband hat wie eine Armbanduhr. Sie legt sich das Ger\u00e4t am linken Arm an. Eigentlich sieht es etwas bescheuert aus, weil es viel zu gro\u00df ist um sch\u00f6n an ihrem zarten K\u00f6rper auszusehen. <br>\r\nPl\u00f6tzlich sp\u00fcrt sie ein kleines Stechen im Handgelenk. Auf dem Bildschirm des Ger\u00e4ts liest sie <br>\r\n\u2013 Neuralschnittstelle hergestellt, erwarte Anweisungen \u2013<br>\r\n&gt;&gt;Was ist das f\u00fcr\u2019ne Schei\u00dfe?&lt;&lt;<br>\r\nDie Bildschirminformation \u00e4ndert sich: <br>\r\n--Soll der \u00dcbergang aktiviert werden? Zur Best\u00e4tigung dir gr\u00fcne Taste dr\u00fccken.\u2014<br>\r\n&gt;&gt;Schon wieder diese Meldung&lt;&lt;<br>\r\n<br>\r\nSollte sie die Taste nun dr\u00fccken oder nicht?<br>\r\n</span></div></div>",
             "created":1146546000,
             "id":316629,
             "title":"Doch oder doch nicht"
         },
         "1221":{
+            "author_name":"Schreiber12",
             "choices":[
                 "nach Anzeichen von Zivilisation suchen.",
                 "einen Schattigen Platz suchen."
@@ -4476,9 +4496,10 @@
         "author_name":"DerHumpf",
         "brief_description":"German GTS stories",
         "created":1138810800,
-        "description":"<td align=\"left\" class=\"norm\">Nun, Ich habe in der Vergangenheit einige Geschichten hier auf spanisch und franz\u00f6sisch gefunden, also dachte ich mir, warum nicht mal eine deutsche Geschchte schreiben? Ich versuche hier platz zu schaffen f\u00fcr kreative K\u00f6pfe, die dem englischen nicht so vertraut sind oder einfach mal in dieser Sprache seinen gedanklichen Erg\u00fcssen hingeben will, so wie ich <img style=\"\" src=\"https://images.Writing.Com/imgs/writing.com/writers/e15/wink.png\" alt=\"*Wink*\" class=\"emoteZ\" title=\"Wink\" border=\"0\" width=\"15\" height=\"15\"><br>\r\n<br>\r\nThis is a place to create german stories<br>\r\nI will try to translate english posts as good as I can.<br>\r\n<br>\r\n</td>",
+        "description":"<td align=\"left\" class=\"norm\">Nun, Ich habe in der Vergangenheit einige Geschichten hier auf spanisch und franz\u00f6sisch gefunden, also dachte ich mir, warum nicht mal eine deutsche Geschchte schreiben? Ich versuche hier platz zu schaffen f\u00fcr kreative K\u00f6pfe, die dem englischen nicht so vertraut sind oder einfach mal in dieser Sprache seinen gedanklichen Erg\u00fcssen hingeben will, so wie ich <img loading=\"lazy\" style=\"\" src=\"https://images.Writing.Com/imgs/writing.com/writers/e15/wink.png\" alt=\"*Wink*\" class=\"emoteZ\" title=\"Wink\" border=\"0\" width=\"15\" height=\"15\"><br>\r\n<br>\r\nThis is a place to create german stories<br>\r\nI will try to translate english posts as good as I can.<br>\r\n<br>\r\n</td>",
         "id":1065637,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1579972800,
         "modified":1579972800,
         "pretty_title":"Deutsche GTS Geschichten"
     }

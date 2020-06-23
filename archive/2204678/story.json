@@ -178,6 +178,21 @@
             "created":1580965200,
             "id":2783285,
             "title":"Other"
+        },
+        "153":{
+            "author_id":"collinriddle",
+            "author_name":"Cridd",
+            "choices":[
+                "Circus Baby",
+                "Ballora",
+                "Funtime Foxy",
+                "Funtime Freddy",
+                "Other (There are a few more on the wiki, so)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Alright, maybe you work at the sister location then! Pick your animatronic!</span></div></span></div>",
+            "created":1591678800,
+            "id":2848577,
+            "title":"Sister Location"
         }
     },
     "info":{
@@ -188,7 +203,8 @@
         "description":"<td align=\"left\" class=\"norm\">You are the night guard of the pizzarea named Freddy fazbear\u2019s pizzarea and on your first night working there you get turned into a inanimate object that is inside the pizzarea<br>\r\n<br>\r\n(Rules) <br>\r\n# 1 (No changing the story keep it the way it is)<br>\r\n# 2 ( the main character cannot die)<br>\r\n# 3 ( no blood or gore) <br>\r\n# 4 ( the main character can turn into body parts of the animatronics)<br>\r\n# 5 ( don\u2019t be to sexual in the story)<br>\r\n<br>\r\n</td>",
         "id":2204678,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1580999760,
+        "last_full_update":0,
+        "modified":1591712220,
         "pretty_title":"Fnaf inanimate transformation "
     }
 }

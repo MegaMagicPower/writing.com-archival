@@ -3127,6 +3127,56 @@
             "id":2814415,
             "title":"Lily "
         },
+        "1123224132211233113":{
+            "author_id":"ryspi49",
+            "author_name":"Ryspi ",
+            "choices":[
+                "Yes-pee",
+                "Yes-poop",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Lily led Martin to the unisex bathroom, does lily need to go too? </span></div></span></div>",
+            "created":1591506000,
+            "id":2847472,
+            "title":"The unisex family bathroom"
+        },
+        "11232241322112331131":{
+            "author_id":"mouse108",
+            "author_name":"Dark Queen",
+            "choices":[
+                "doesnt she holds ti",
+                "her pants",
+                "other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where does lily pee</span></div></span></div>",
+            "created":1591506000,
+            "id":2847500,
+            "title":"Yes-pee"
+        },
+        "11232241322112331132":{
+            "author_id":"diokno44",
+            "author_name":"Filipino4-ever",
+            "choices":[
+                "Martin needs help wiping",
+                "Lily needs help wiping"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Lily had to poop as well. She takes the stall next to Martin. Martin sits on the toilet, and poops, as does she. Once both are done....</span></div></span></div>",
+            "created":1591506000,
+            "id":2847476,
+            "title":"Yes-poop"
+        },
+        "11232241322112331133":{
+            "author_id":"diokno44",
+            "author_name":"Filipino4-ever",
+            "choices":[
+                "She doesn't have to go",
+                "She has to pee and poop"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So, what else then?</span></div></span></div>",
+            "created":1591506000,
+            "id":2847474,
+            "title":"Other"
+        },
         "112322413222":{
             "author_id":"chrisern",
             "author_name":"ShadowBlade",
@@ -9066,6 +9116,31 @@
             "created":1545800400,
             "id":2593761,
             "title":"He didn't want to use them."
+        },
+        "1131312":{
+            "author_id":"ryspi49",
+            "author_name":"Ryspi ",
+            "choices":[
+                "Yes",
+                "No "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was his mommy with him? </span></div></span></div>",
+            "created":1591938000,
+            "id":2850423,
+            "title":"At the park"
+        },
+        "11313121":{
+            "author_id":"diokno44",
+            "author_name":"Filipino4-ever",
+            "choices":[
+                "In the stall with him",
+                "Right outside the stall",
+                "Outside the bathroom"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where was she?</span></div></span></div>",
+            "created":1591938000,
+            "id":2850454,
+            "title":"Yes"
         },
         "113132":{
             "author_id":"diokno44",
@@ -19747,7 +19822,8 @@
         "description":"<td align=\"left\" class=\"norm\">A child has been newly enrolled in the Big Kid Potty Training Academy. Follow their journey from a diaper wearing baby, through pre-training, into actual daytime training, dealing with using the potty while out and about or at daycare, and then graduating into underwear! Also follow kids dealing with remedial training after regression, and Night School for bedwetters!</td>",
         "id":2177811,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1588315200,
+        "last_full_update":0,
+        "modified":1592019660,
         "pretty_title":"Big Kid Potty Training Academy"
     }
 }

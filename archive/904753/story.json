@@ -40,6 +40,7 @@
             "title":"Access to the special weapons lab."
         },
         "1111":{
+            "author_name":"dbh",
             "choices":[
                 "They take you to the princess",
                 "they keep you for their own amusment"
@@ -254,6 +255,7 @@
             "title":"Caged male"
         },
         "11121":{
+            "author_name":"Diogenes",
             "choices":[
                 "Lock and Load"
             ],
@@ -263,6 +265,7 @@
             "title":"Death of a brave man"
         },
         "111211":{
+            "author_name":"Diogenes",
             "choices":[
                 "You get back to your lines",
                 "You are captured"
@@ -283,6 +286,7 @@
             "title":"You get back to your lines"
         },
         "1112112":{
+            "author_name":"Diogenes",
             "choices":[
                 "Surrender",
                 "Keep trying to escape"
@@ -613,6 +617,7 @@
             "title":"You turn into a rabbit-woman"
         },
         "122":{
+            "author_name":"Oni",
             "choices":[
                 "they are just a bit unless they want otherwise. (Which does happen)",
                 "As big as they can get!!"
@@ -980,6 +985,7 @@
         "description":"<td align=\"left\" class=\"norm\">Choose either Male or Female in this battle of the sexes. Or be a young couple who want to end the fight so they can be together. All three will have a weight gain option. No Gay/Lesbain stuff.</td>",
         "id":904753,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1496934720,
         "modified":1496934720,
         "pretty_title":"The Ultimate War of the Sexes"
     }

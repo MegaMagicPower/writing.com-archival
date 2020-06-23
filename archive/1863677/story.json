@@ -283,6 +283,21 @@
             "created":1401598800,
             "id":1805119,
             "title":"Preparations are in Order"
+        },
+        "1542":{
+            "author_id":"cooling999",
+            "author_name":"cooling999",
+            "choices":[
+                "Lugia",
+                "Latios",
+                "Latias ",
+                "Hi-Oh",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What legendary Pok\u00e9mon are you?</span></div></span></div>",
+            "created":1591419600,
+            "id":2846566,
+            "title":"Legendary pok\u00e9mon"
         }
     },
     "info":{
@@ -293,7 +308,8 @@
         "description":"<td align=\"left\" class=\"norm\">Ever wonder what it'd be like to live as a Pokemon? Here's the answer! Vore is allowed, but only soft. I prefer not to write vore, so I'd appreciate if someone else could do it for me. The only rules I have are: 1. Only soft vore is allowed. 2. Don't curse/cuss too much. 3. Chapters with barely any text will be deleted.</td>",
         "id":1863677,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1401610740,
+        "last_full_update":1401610740,
+        "modified":1591421940,
         "pretty_title":"Life as a Pokemon"
     }
 }

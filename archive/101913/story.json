@@ -26,6 +26,7 @@
             "title":"First Fare of the Day"
         },
         "111":{
+            "author_name":"Dorcia, Nightstalker",
             "choices":[
                 "To the Four Seasons (hotel)",
                 "Downtown"
@@ -59,6 +60,7 @@
             "title":"Go back and look for the mother."
         },
         "112":{
+            "author_name":"Dorcia, Nightstalker",
             "choices":[
                 "To the Beverly Hilton.",
                 "To nowhere in particular."
@@ -79,6 +81,7 @@
             "title":"Boy, Did I Pick Up the Wrong Fare"
         },
         "1122":{
+            "author_name":"Dorcia, Nightstalker",
             "choices":[
                 "Ask the man about to tell you about his life.",
                 "Drop the man off at the next corner."
@@ -89,6 +92,7 @@
             "title":"The Man Turns Mysterious"
         },
         "11221":{
+            "author_name":"Dorcia, Nightstalker",
             "choices":[
                 "Insist that the man inform you of a destination.",
                 "Keep the man, but pick up another fare."
@@ -99,6 +103,7 @@
             "title":"Probing for Answers"
         },
         "112212":{
+            "author_name":"Dorcia, Nightstalker",
             "choices":[
                 "The punk rocker.",
                 "The elderly lady."
@@ -155,6 +160,7 @@
             "title":"Rolling Cell"
         },
         "1132111":{
+            "author_name":"gaki_tomodachi",
             "choices":[
                 "Kick and scream, hoping the cop hears you"
             ],
@@ -232,6 +238,7 @@
         "description":"<td align=\"left\" class=\"norm\">The plot is pretty much wide open. You can take your passengers anywhere they want to go or leave them stranded if they irritate you. Whatever you want. I'll try to edit and pull it all together......</td>",
         "id":101913,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1574117760,
         "modified":1574117760,
         "pretty_title":"Cheap Flight"
     }

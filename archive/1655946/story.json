@@ -877,7 +877,7 @@
         },
         "114121221":{
             "author_id":"worker1398",
-            "author_name":"Worker1398",
+            "author_name":"Clear Diamond",
             "choices":[
                 "Bathroom",
                 "Hidden Room"
@@ -889,7 +889,7 @@
         },
         "1141212212":{
             "author_id":"worker1398",
-            "author_name":"Worker1398",
+            "author_name":"Clear Diamond",
             "choices":[
                 "Put Max to bed",
                 "Wait till he goes to bed on his own"
@@ -901,7 +901,7 @@
         },
         "11412122121":{
             "author_id":"worker1398",
-            "author_name":"Worker1398",
+            "author_name":"Clear Diamond",
             "choices":[
                 "enter Hidden Room now.",
                 "wait a few mins first."
@@ -925,7 +925,7 @@
         },
         "1141221":{
             "author_id":"worker1398",
-            "author_name":"Worker1398",
+            "author_name":"Clear Diamond",
             "choices":[
                 "Gwen finds a new way to punish Ben.",
                 "Gwen lets Ben loose in the mall to be rid of him."
@@ -1358,6 +1358,7 @@
         "description":"<td align=\"left\" class=\"norm\">Come in and contribute. Trust me, you'll love it.</td>",
         "id":1655946,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1584511140,
         "modified":1584511140,
         "pretty_title":"Gwens big day"
     }

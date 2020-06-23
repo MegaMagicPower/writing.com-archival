@@ -474,6 +474,19 @@
             "id":2019744,
             "title":"A pool of clear water"
         },
+        "12333112212":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Chest",
+                "Crotch",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>All that walking and traveling in the desert made him sweat more than a pig in a sauna along with the sand that made him feel dirty. Taking a breather and a bath sounded like a good idea.<br>\r\n<br>\r\nFox then stripped down out of his flight suit and kicked off his shoes, putting them into a neat pile on the edge of the pool. He dipped a toe into the water to test the temperature, feeling that it was cool to the touch but not icy cold. He then eased his whole body into the water, letting out a relaxing sigh as if enjoying a spa session as his fur soaks.<br>\r\n<br>\r\nWhile wading and swimming, he suddenly felt a strange tingling within his body.<br>\r\n<br>\r\nMore specifically around his ___.<br>\r\n</span></div></div>",
+            "created":1592456400,
+            "id":2853042,
+            "title":"He swims/bathes in the water"
+        },
         "1233311222":{
             "author_id":"adventchild",
             "author_name":"AdventChild",
@@ -570,6 +583,32 @@
             "created":1482037200,
             "id":2251484,
             "title":"High in the hills."
+        },
+        "1241":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "In a cave",
+                "In a abandoned cabin",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where does he find shelter?</span></div></span></div>",
+            "created":1592456400,
+            "id":2853222,
+            "title":"Find shelter."
+        },
+        "1242":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "By hunting",
+                "By gathering fruit/berries",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does he get food?</span></div></span></div>",
+            "created":1592456400,
+            "id":2853060,
+            "title":"Get food."
         },
         "125":{
             "author_id":"adventchild",
@@ -5873,7 +5912,8 @@
         "description":"<td align=\"left\" class=\"norm\">Choose or create your own scenarios where you can change the leader of the Star Fox team into a vixen and then some.<br>\r\n<br>\r\n1. No death or killing off chars<br>\r\n2. It is a mostly TG story, but anything else can be allowed except for vore (unbirthing is an exception) scat/watersports, and WG.<br>\r\n3. Others can join in too, but keep it centered around Fox<br>\r\n4. Sex is allowed. No gay/lesbianism.<br>\r\n5. Have fun!</td>",
         "id":1674551,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1588921920,
+        "last_full_update":0,
+        "modified":1592497980,
         "pretty_title":"Foxy McCloud"
     }
 }

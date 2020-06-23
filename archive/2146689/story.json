@@ -269,6 +269,19 @@
             "id":2839821,
             "title":"Littlest Pet Shop (2012)"
         },
+        "1212":{
+            "author_id":"goldscout",
+            "author_name":"GoldScout",
+            "choices":[
+                "Cause it's cool",
+                "Punishment",
+                "Other options?"
+            ],
+            "content":"<div class=\"\"><div> <span>So the question becomes just why the twins would want to turn into blueberries?<br>\r\n<br>\r\nOption 1. Cause it's cool. <br>\r\nSelf explanatory<br>\r\n<br>\r\nOption 2. Punishment gone south<br>\r\nHaving finally had enough of his daughters' schenanagens, their father sends the girls off for community service at an animal testing lab.</span></div></div>",
+            "created":1592024400,
+            "id":2850638,
+            "title":"The Biskit Twins"
+        },
         "1213":{
             "author_id":"spunky",
             "author_name":"Ace Jones",
@@ -281,6 +294,21 @@
             "created":1590210000,
             "id":2839900,
             "title":"Someone Else"
+        },
+        "13":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "DC",
+                "Marvel",
+                "Dark Horse",
+                "Image",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which company shall it be?</span></div></span></div>",
+            "created":1592110800,
+            "id":2851247,
+            "title":"Comics"
         },
         "14":{
             "author_id":"chameleon526",
@@ -477,7 +505,8 @@
         "description":"<td align=\"left\" class=\"norm\">This is a general blueberry inflation interactive where various women from cartoons, anime, video games, etc. become giant blueberries.<br>\r\n<br>\r\nFemale blueberry inflation only.  Other fruit inflations can be allowed after the first blueberry inflation but always leave a choice.<br>\r\n<br>\r\nF/F is allowed.<br>\r\n<br>\r\nNo Scat.<br>\r\n<br>\r\n</td>",
         "id":2146689,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1590232080,
+        "last_full_update":0,
+        "modified":1592167560,
         "pretty_title":"Blueberry Girls"
     }
 }

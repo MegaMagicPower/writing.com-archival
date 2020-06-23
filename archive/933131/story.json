@@ -16,6 +16,7 @@
             "title":"Typical Saturday"
         },
         "11":{
+            "author_name":"Phil N DeBlanc",
             "choices":[
                 "\"Are you losing weight?\"",
                 "\"Where did you get those? They're way too big for you\""
@@ -26,6 +27,7 @@
             "title":"The Condo by the Ocean"
         },
         "111":{
+            "author_name":"Phil N DeBlanc",
             "choices":[
                 "\"I've decided to participate in a medical research project at the Univer",
                 "\"We need money. I can get us some if I go on TV\""
@@ -959,6 +961,7 @@
         "description":"<td align=\"left\" class=\"norm\">Calvin's boyfriend, Thomas, begins to shrink after accidental exposure to a new facial moisturizer that Calvin's firm has tested for unusual side effects. By the end of the weekend, Thomas, a 6'2\" hunk with a lean, muscled body, is significantly smaller.</td>",
         "id":933131,
         "image_url":"https://www.Writing.Com/main/images/action/display_cover/id/102303.jpg",
+        "last_full_update":1560394800,
         "modified":1560394800,
         "pretty_title":"Honey, I Shrunk My Boyfriend"
     }

@@ -218,6 +218,7 @@
             "title":"   The gryphon tries to seduce Sis"
         },
         "122":{
+            "author_name":"Tyverial",
             "choices":[
                 "The white horse.",
                 "The fresh mount."
@@ -228,6 +229,7 @@
             "title":"The Strike of Fate"
         },
         "1221":{
+            "author_name":"Tyverial",
             "choices":[
                 "take the forest road, it will get you to the castle much faster",
                 "use the main road, its slower, but safer"
@@ -238,6 +240,7 @@
             "title":"An old time friend"
         },
         "12211":{
+            "author_name":"Tyverial",
             "choices":[
                 "The jagged Haderak Mountains to the east",
                 "The denser region of the Venia Forest to the south"
@@ -248,6 +251,7 @@
             "title":"A Forest Encounter"
         },
         "1222":{
+            "author_name":"Tyverial",
             "choices":[
                 "White as the Delicate Star",
                 "Black as Savage Nightmares"
@@ -258,6 +262,7 @@
             "title":"A Noble Capture"
         },
         "12221":{
+            "author_name":"Tyverial",
             "choices":[
                 "indulge your curiosity, let the hen do as she pleases",
                 "grap the speartip, and her tongue, and form a distraction"
@@ -1649,6 +1654,7 @@
         "description":"<td align=\"left\" class=\"norm\">In a small peaceful kingdom, two young princessess are unaware of the fate that awaits them...<br>\r\nThey think that they are in charge of their lives, but what happens when a gryphon steed they believe is loyal turns on them and seeks revenge?</td>",
         "id":1031122,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1584446700,
         "modified":1584446700,
         "pretty_title":"Princessess Perils - Gryphon Games"
     }

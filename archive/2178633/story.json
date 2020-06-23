@@ -675,6 +675,18 @@
             "id":2819167,
             "title":"Yes"
         },
+        "12511221211212131112111111112111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Tommy's room",
+                "Somewhere else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where did Didi take Angelica?</span></div></span></div>",
+            "created":1590555600,
+            "id":2841903,
+            "title":"Yes"
+        },
         "125112212112121311121111112":{
             "author_id":"johnny2",
             "author_name":"littlejohn",
@@ -1094,6 +1106,18 @@
             "created":1586149200,
             "id":2814036,
             "title":"Writer's Choice 1"
+        },
+        "1251132121122221112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Tommy or Chuckie question her about her privates?</span></div></span></div>",
+            "created":1590814800,
+            "id":2843412,
+            "title":"Writer's Choice 2"
         },
         "12511321212":{
             "author_id":"johnny2",
@@ -2470,6 +2494,45 @@
             "id":2820866,
             "title":"Emily is now a bear cub"
         },
+        "125333232322112111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Despite this alteration, will this episode still go as written?</span></div></span></div>",
+            "created":1590728400,
+            "id":2842972,
+            "title":"Yes"
+        },
+        "12533323232211212":{
+            "author_id":"jobobo19",
+            "author_name":"carl.a.pruuitt",
+            "choices":[
+                "Emily has magic power",
+                "Emily has a crash on Little Bear",
+                "Emily is bigger than Little Bear",
+                "Emily is smaller than Little Bear",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How will we altered this episode?</span></div></span></div>",
+            "created":1590728400,
+            "id":2842912,
+            "title":"Something else"
+        },
+        "1253332323221122":{
+            "author_id":"redwolf12",
+            "author_name":"wolfbood",
+            "choices":[
+                "Bigger little bear",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about this one?</span></div></span></div>",
+            "created":1590642000,
+            "id":2842231,
+            "title":"Something else"
+        },
         "12533323232212":{
             "author_id":"johnny2",
             "author_name":"littlejohn",
@@ -2517,6 +2580,43 @@
             "created":1590037200,
             "id":2838788,
             "title":"Yes"
+        },
+        "12533323232222":{
+            "author_id":"rana-mcneil",
+            "author_name":"Thunder",
+            "choices":[
+                "Yeah!",
+                "Nah, something else!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about the Balto movies?</span></div></span></div>",
+            "created":1590555600,
+            "id":2841738,
+            "title":"Something else"
+        },
+        "125333232322222":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Avatar the last airbender",
+                "Legend of Korra ",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about avatar the last airbender or maybe legend of Korra (I looked it up, it is not considered an anime)</span></div></span></div>",
+            "created":1590642000,
+            "id":2842257,
+            "title":"Nah, something else!"
+        },
+        "1253332323222223":{
+            "author_id":"redwolf12",
+            "author_name":"wolfbood",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about the Wild West Cowboys of Moo Mesa?</span></div></span></div>",
+            "created":1590814800,
+            "id":2843244,
+            "title":"Something else"
         },
         "13":{
             "author_id":"supreme123",
@@ -3328,6 +3428,249 @@
             "id":2621915,
             "title":"Something Else"
         },
+        "153321132":{
+            "author_id":"credil",
+            "author_name":"Credil",
+            "choices":[
+                "She can't walk",
+                "She is ",
+                "Mental disability",
+                "Something Else",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay in which way is she disabled?</span></div></span></div>",
+            "created":1591765200,
+            "id":2849298,
+            "title":"She's disabled in some way."
+        },
+        "1533211322":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "blind",
+                "she deaf",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>this choice wasn't completed, is Penny blind?</span></div></span></div>",
+            "created":1591765200,
+            "id":2849305,
+            "title":"She is "
+        },
+        "15332113221":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Nah, seeing eye dog."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does she only use a cane to get from where she wants to go?</span></div></span></div>",
+            "created":1591765200,
+            "id":2849333,
+            "title":"blind"
+        },
+        "1533211323":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "she's mentally handicapped",
+                "she has asperger syndrome",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>in what way does Penny have a mental disability?</span></div></span></div>",
+            "created":1591765200,
+            "id":2849304,
+            "title":"Mental disability"
+        },
+        "15332113232":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "No."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is she high-functioning, though?</span></div></span></div>",
+            "created":1591765200,
+            "id":2849361,
+            "title":"she has asperger syndrome"
+        },
+        "153321132321":{
+            "author_id":"bennym",
+            "author_name":"bennym",
+            "choices":[
+                "Yeah",
+                "No",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>On top of that...... does this involve wearing diapers too?</span></div></span></div>",
+            "created":1592370000,
+            "id":2852967,
+            "title":"Yeah"
+        },
+        "1533211324":{
+            "author_id":"credil",
+            "author_name":"Credil",
+            "choices":[
+                "Fully incontinent",
+                "Bladder incontinent",
+                "Bowel  incontinent"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay. Is Penny fully incontinent?<br>\r\n Bladder </span></div></span></div>",
+            "created":1591765200,
+            "id":2849318,
+            "title":"She is incontinent"
+        },
+        "15332113242":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does she wear diapers?</span></div></span></div>",
+            "created":1591765200,
+            "id":2849334,
+            "title":"Bladder incontinent"
+        },
+        "153321132421":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No, White adult diapers with children prints",
+                "Another Type"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Penny wear regular white adult diaper?</span></div></span></div>",
+            "created":1591765200,
+            "id":2849344,
+            "title":"Yeah"
+        },
+        "1533211324211":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "No, has someone else do it, not wanting to be embarassed."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does she often change herself?</span></div></span></div>",
+            "created":1591765200,
+            "id":2849345,
+            "title":"Yes"
+        },
+        "15332113242111":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Since Penny often changes herself does anyone know Penny wears diapers?</span></div></span></div>",
+            "created":1591765200,
+            "id":2849358,
+            "title":"Yeah"
+        },
+        "153321132421111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Bernadette.",
+                "Both girls, or anyone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is it Amy that first finds out?</span></div></span></div>",
+            "created":1591765200,
+            "id":2849360,
+            "title":"Yes"
+        },
+        "1533211324212":{
+            "author_id":"credil",
+            "author_name":"Credil",
+            "choices":[
+                "She is still as confident as in the show.",
+                "She is about as confident as the nerds.",
+                "She is even less confident than the nerds.",
+                "something else ",
+                "Something else "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Penny is so scared of her diapers leaking, that she wears extra thick ABDL Diapers with Animal pattern.<br>\r\n<br>\r\nAnyway has Penny the same confidence as in the serie?</span></div></span></div>",
+            "created":1591765200,
+            "id":2849374,
+            "title":"No, White adult diapers with children prints"
+        },
+        "15332113242121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Amy",
+                "Bernadette."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>We first see her meeting the nerds?</span></div></span></div>",
+            "created":1591765200,
+            "id":2849380,
+            "title":"She is still as confident as in the show."
+        },
+        "15332113242124":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "yep",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>does Penny have no confidence what so ever?</span></div></span></div>",
+            "created":1591765200,
+            "id":2849386,
+            "title":"something else "
+        },
+        "153321132421241":{
+            "author_id":"credil",
+            "author_name":"Credil",
+            "choices":[
+                "New Penny meets the nerds for the first time ",
+                "She somehow already knew the girls before she moves in",
+                "Free Slot"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay do we start with her meeting the nerds for the first?</span></div></span></div>",
+            "created":1591765200,
+            "id":2849390,
+            "title":"yep"
+        },
+        "1533211324212412":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Reader's choice 1",
+                "Slot 2."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She knew Bernadette and Amy how?</span></div></span></div>",
+            "created":1591765200,
+            "id":2849391,
+            "title":"She somehow already knew the girls before she m..."
+        },
+        "1533211325":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Dwarfism.",
+                "Can't speak.",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Other ways she's disabled.</span></div></span></div>",
+            "created":1591765200,
+            "id":2849362,
+            "title":"Something Else"
+        },
+        "1533213":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Anyone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>We alter Bernadette?</span></div></span></div>",
+            "created":1591765200,
+            "id":2849389,
+            "title":"Other characters."
+        },
         "15333":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
@@ -3698,6 +4041,44 @@
             "created":1583816400,
             "id":2799353,
             "title":"Yeah"
+        },
+        "15333312121111":{
+            "author_id":"bennym",
+            "author_name":"bennym",
+            "choices":[
+                "Missed having a baby around",
+                "Show the kids about responsibility ",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Why does Christina want this girl Jessie as a baby</span></div></span></div>",
+            "created":1592370000,
+            "id":2852968,
+            "title":"Christina."
+        },
+        "153333121211111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "The kids.",
+                "Jessie."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She missed having a baby around the house. Who did she tell this idea to first?</span></div></span></div>",
+            "created":1592370000,
+            "id":2852972,
+            "title":"Missed having a baby around"
+        },
+        "153333121211112":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "No.",
+                "No, wanted to go over rules first, or SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She wanted to show the kids about being responsible, and felt this idea would work. On hearing about it, did Jessie agree right away?</span></div></span></div>",
+            "created":1592370000,
+            "id":2852970,
+            "title":"Show the kids about responsibility "
         },
         "15333312122":{
             "author_id":"supreme123",
@@ -6194,7 +6575,8 @@
         "description":"<td align=\"left\" class=\"norm\">You have been granted unlimited powers but before you can do anything you need to do two things<br>\r\n<br>\r\n1) Choose an Universe to enter<br>\r\n2) Decide if you change a character or situation/episode   <br>\r\n<br>\r\nThe Rules at this time are...<br>\r\nYou can do anything you want except vore, <br>\r\nDon\u2019t get to descriptive with any sex scenes<br>\r\n&amp; <br>\r\nAll chapters must have at least one option that is <br>\r\nSomething else or Start a new <br>\r\n<br>\r\n</td>",
         "id":2178633,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1590039480,
+        "last_full_update":0,
+        "modified":1592446320,
         "pretty_title":"Alter Realities "
     }
 }

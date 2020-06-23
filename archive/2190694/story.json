@@ -263,6 +263,28 @@
             "created":1577854800,
             "id":2767797,
             "title":"Linette & Ajay: Nod-St\u00fctzpunkt, Kubuqi-W\u00fcste,..."
+        },
+        "1111111111111111111111111":{
+            "author_id":"blackie",
+            "author_name":"Blackie",
+            "choices":[
+                "Dajana: Island"
+            ],
+            "content":"<div class=\"\"><div> <span>Samira und Theresia waren nach ihrem Absprung sicher gelandet. Nachdem sie sich aus ihren Fallschirmen befreit hatten, fragte Samira: \"okay, und jetzt?\"<br>\r\n<br>\r\nTheresia entgegnete: \"gute Frage... wir brauchen Informationen \u00fcber Feindbewegungen, sonst kommen wir wahrscheinlich nicht weit.\" Samira kontaktierte auf einer sicheren Frequenz die GDI: \"habt ihr vielleicht Infos \u00fcber Nod f\u00fcr uns? Wir sind in Malaysia.\"<br>\r\n<br>\r\nDie GDI antwortete: \"bestimmt, wartet eine Sekunde...hier. S\u00fcdlich eurer Position sollte Nod eine Funkstation betreiben. Der Widerstand sollte nicht sonderlich hoch sein.\"<br>\r\n<br>\r\nSamira fragte: \"hast du\u00b4s mitgekriegt?\" Theresia antwortete: \"ja. Dann machen wir uns mal auf den Weg.\"<br>\r\n<br>\r\nSo schlugen sich die beiden nach S\u00fcden durch den Wald.</span></div></div>",
+            "created":1590901200,
+            "id":2843584,
+            "title":"Samira & Theresia: Malaysia Waldgebiet"
+        },
+        "11111111111111111111111111":{
+            "author_id":"blackie",
+            "author_name":"Blackie",
+            "choices":[
+                "Linette & Ajay: Wei\u00dfes Haus, Washington"
+            ],
+            "content":"<div class=\"\"><div> <span>Dajana war in Island angekommen. Sie h\u00f6rte Nina erneut sprechen: <i>\"du solltest eine H\u00fctte in Sichtweite haben, dort findest du Unterschlupf.\"</i><br>\r\n<br>\r\nDajana stieg von ihrem Jetski ab und lief auf die H\u00fctte zu. Sie machte jedoch einen Nod-Soldaten aus, der sie wohl ebenfalls sofort entdeckt hatte, denn er griff zu seiner Pistole.<br>\r\n<br>\r\nSie rannte auf ihn zu, lie\u00df sich zu Boden fallen, um dem Pistolenschuss auszuweichen. Sie traf ihn an den Beinen und riss die Schwerter nach oben, w\u00e4hrend er auf sie fiel. Sie durchstach ihm mit beiden Schwertern die Brust.<br>\r\n<br>\r\n<i>h\u00e4tte nie erwartet, dass ich dazu noch die Kraft habe.</i><br>\r\n<br>\r\nSie warf den Nod rechts neben sich.<br>\r\n<br>\r\nErkannte aus den Augenwinkeln, dass er nach seiner Waffe griff. Ein schneller Schwerthieb nach rechts trennte ihm die Hand ab, mit der er nach der Waffe zu greifen versucht hatte. Dajana stellte sich breitbeinig \u00fcber den Nod.<br>\r\n<br>\r\n\"Niemand wird mich aufhalten. Niemand!\"<br>\r\n<br>\r\nSie kreuzte ihre Schwerter. Schlug nach au\u00dfen damit zu, und enthauptete den Nod von hinten.<br>\r\n<br>\r\nDann war der Weg zur H\u00fctte frei, die Dajana sofort betrat. Sie war erwartungsgem\u00e4\u00df leer.<br>\r\n<br>\r\nSie setzte sich auf die darin befindliche Bank. Nina sagte: <i>\"ausgezeichnete Arbeit. Ich wusste, ich kann dir immer noch vertrauen.\"</i></span></div></div>",
+            "created":1590901200,
+            "id":2843590,
+            "title":"Dajana: Island"
         }
     },
     "info":{
@@ -270,10 +292,11 @@
         "author_name":"Blackie",
         "brief_description":"Samira und Theresia hatten Linette in Notwehr schwer verletzt.",
         "created":1557523920,
-        "description":"<td align=\"left\" class=\"norm\">Die Schlacht zwischen Nod und GDI hatte ihren vorl\u00c3\u00a4ufigen H\u00c3\u00b6hepunkt erreicht.<br>\r\n<br>\r\n<br>\r\nWer wird in der n\u00c3\u00a4chsten Runde als Sieger hervorgehen?</td>",
+        "description":"<td align=\"left\" class=\"norm\">Die Schlacht zwischen Nod und GDI hatte ihren vorl\u00e4ufigen H\u00f6hepunkt erreicht.<br>\r\n<br>\r\n<br>\r\nWer wird in der n\u00e4chsten Runde als Sieger hervorgehen?</td>",
         "id":2190694,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1577887440,
+        "last_full_update":0,
+        "modified":1590923400,
         "pretty_title":"Command&Conquer: Final Wave"
     }
 }

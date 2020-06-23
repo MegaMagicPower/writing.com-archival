@@ -725,6 +725,54 @@
             "id":1110478,
             "title":"Crawl into the vent and see where it takes you."
         },
+        "12111":{
+            "author_id":"partpartly",
+            "author_name":"partpartly",
+            "choices":[
+                "Down to the room it is!",
+                "No, wait watch and think about the situation."
+            ],
+            "content":"<div class=\"\"><div> <span>After crawling a few feet, the vent ends in a grating overlooking a room wit some sort of vending machine, a large padded table with drawers, and some other things you can't quite get a good look at from here. <br>\r\n<br>\r\nSince you have already made it here, and it seems as good a place as any to start exploring, all that makes scene to do is either open up the vent and go down into the room, or err on the side of extreme caution and wait a while and observe if anyone comes and does anything here for a bit.</span></div></div>",
+            "created":1590987600,
+            "id":2843974,
+            "title":"Take the left path"
+        },
+        "121111":{
+            "author_id":"partpartly",
+            "author_name":"partpartly",
+            "choices":[
+                "Look at the vending machine",
+                "Inspect the changing table"
+            ],
+            "content":"<div class=\"\"><div> <span>With some prying, creaking, and general frustration you manage to partially break the vent cover and fall out into said room, with a check back to determine that you would be hard pressed to open it back up into it without maybe a screwdriver or something. <br>\r\n<br>\r\nanother look around though reveals what looks to be a training potty with a \"potty chart\" beside it that was out of view before, the door to the room, said vending machine witch upon closer inspection looks to have a hole in it to place your hand in for \"free snacks\" featuring various foods and drinks, and what is now obviously a diaper changing table (thanks to the sign reading changing table and a pictogram of a child), only it is confusingly big.</span></div></div>",
+            "created":1590987600,
+            "id":2843981,
+            "title":"Down to the room it is!"
+        },
+        "1211111":{
+            "author_id":"partpartly",
+            "author_name":"partpartly",
+            "choices":[
+                "Those gummy bears look scrumptious, It's such a big bag and they're sugar free?",
+                "Baja Blast!!1 The king of drinks!"
+            ],
+            "content":"<div class=\"\"><div> <span>Looking at the vending machine there are a lot of options, from pudding cups, Doritos, a tasty looking ramen bowel (it looks like hot water is automatically put in it when ordered), etc.. in the food section, and Coke, Pepsi, strawberry milk, and Oh my gosh is that Mountain Dew Baja Blast in there? <br>\r\n<br>\r\nEverything looks sooo good that you almost unconsciously stick your hand in the hole that the machine indicates with \"free snacks\" and are met with a shock when you feel your hand grabbed by some sort of mechanical device. Suddenly feeling a lot more vulnerable with your hand stuck in a machine and dressed only in your panties(as pretty as they may be) A screen lights up and indicates \"<span class=\"clred\">Err</span>-*<b>%</b>^  <span class=\"clblue\">New user</span> -- SYSTEM <span class=\"cbyellow\">initiate</span>\", a whir sounds out and then you feel something wrap around and an audible \"click\". Now with something new fastened around your wrist and after a prompt asking you to type in your name(oh shoot, you shouldn't have typed in my real name should have you? dam it!) you finally get to the good part! <br>\r\n<br>\r\n   <span class=\"clred\">Choose your snack</span> the machine indicates as you start to feel a slight pressure build in your abdomen indicating your need to pee. \"What to choose what to choosewhattochoosewhattochoose?\" you wiper before finally reaching a decision.</span></div></div>",
+            "created":1590987600,
+            "id":2843993,
+            "title":"Look at the vending machine"
+        },
+        "12111111":{
+            "author_id":"partpartly",
+            "author_name":"partpartly",
+            "choices":[
+                "Check the changing station maybe it has keys to a real bathroom?",
+                "To the door, no time to waste."
+            ],
+            "content":"<div class=\"\"><div> <span>With your indication set the machine releases your arm with a click and a new bracelet that looks to be one piece and completely impossible to get off. \"Well at least I got the gummy bears\" you say to yourself before scarfing down their deliciousness. \"Ahh, much better\" you say before getting drawn to some more pressing matters like needing to pee, and getting out of this place. One thing is for certain though you are NOT using that training potty, way too humiliating.</span></div></div>",
+            "created":1590987600,
+            "id":2844009,
+            "title":"Those gummy bears look scrumptious, It's su..."
+        },
         "12112":{
             "author_id":"diaper1234",
             "author_name":"Gorgoroth",
@@ -1179,7 +1227,8 @@
         "description":"<td align=\"left\" class=\"norm\">You wake up one day to find yourself trapped in a mysterious, labyrinth-like dungeon in which several other teenagers are being held. It's up to you to find your way out, avoiding punishment from your captors along the way.<br>\r\n<br>\r\n<b>Keep it in the second person (You)</b><br>\r\n<br>\r\n<b>No shrinking, inflation, transformation, or anything too ridiculous</b></td>",
         "id":1751062,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1581750780,
+        "last_full_update":0,
+        "modified":1591006740,
         "pretty_title":"Diaper Dungeon"
     }
 }

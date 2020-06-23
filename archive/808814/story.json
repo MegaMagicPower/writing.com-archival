@@ -224,6 +224,7 @@
             "title":"Treatment"
         },
         "112111111":{
+            "author_name":"Jesabelle",
             "choices":[
                 "Go to the nearest pub and buy some food for later",
                 "Run, run as fast as the wind can take you!"
@@ -234,6 +235,7 @@
             "title":"Leaving the town"
         },
         "1121111112":{
+            "author_name":"Jesabelle",
             "choices":[
                 "Go check out the forest",
                 "Decide to go another way"
@@ -255,6 +257,7 @@
             "title":"A walk in the dark"
         },
         "11221":{
+            "author_name":"Wilene Pritchet",
             "choices":[
                 "You climb to the treehouse and knock on the door",
                 "You follow the path"
@@ -292,6 +295,7 @@
             "title":"Transportation?"
         },
         "115":{
+            "author_name":"kuso",
             "choices":[
                 "take to drink",
                 "ignore it"
@@ -302,6 +306,7 @@
             "title":"drink"
         },
         "1151":{
+            "author_name":"kuso",
             "choices":[
                 "in another town",
                 "in aother country"
@@ -312,6 +317,7 @@
             "title":"changes"
         },
         "11511":{
+            "author_name":"kuso",
             "choices":[
                 "yes",
                 "no not at all"
@@ -322,6 +328,7 @@
             "title":"London calling"
         },
         "115112":{
+            "author_name":"kuso",
             "choices":[
                 "yes",
                 "no not at all"
@@ -356,6 +363,7 @@
             "title":"Holland"
         },
         "1151221":{
+            "author_name":"kuso",
             "choices":[
                 "go on",
                 "somewhere else"
@@ -366,6 +374,7 @@
             "title":"Holland is nice"
         },
         "11512212":{
+            "author_name":"kuso",
             "choices":[
                 "yes",
                 "somewhere else"
@@ -376,6 +385,7 @@
             "title":"Germany"
         },
         "115122122":{
+            "author_name":"kuso",
             "choices":[
                 "yes",
                 "somewhere else"
@@ -386,6 +396,7 @@
             "title":"Austria"
         },
         "1151221222":{
+            "author_name":"kuso",
             "choices":[
                 "yes",
                 "somewhere else"
@@ -396,6 +407,7 @@
             "title":"Switzerland"
         },
         "11512212222":{
+            "author_name":"kuso",
             "choices":[
                 "yes",
                 "somewhere else"
@@ -406,6 +418,7 @@
             "title":"France"
         },
         "115122122222":{
+            "author_name":"kuso",
             "choices":[
                 "yes",
                 "somewhere else"
@@ -416,6 +429,7 @@
             "title":"Spain"
         },
         "1151221222222":{
+            "author_name":"kuso",
             "choices":[
                 "yes",
                 "somewhere else"
@@ -585,6 +599,7 @@
             "title":"Light in the Window"
         },
         "122111111":{
+            "author_name":"Frozen Embers",
             "choices":[
                 "Get in the wagon",
                 "Take your chances on the river"
@@ -595,6 +610,7 @@
             "title":"Risky Travel"
         },
         "1221111111":{
+            "author_name":"Frozen Embers",
             "choices":[
                 "Sweet Dreams?"
             ],
@@ -876,6 +892,7 @@
             "title":"Nobody existed except for the two of us..."
         },
         "14111":{
+            "author_name":"Jack",
             "choices":[
                 "Take the leather off the book and see what is written"
             ],
@@ -893,6 +910,7 @@
             "title":"Just For the Record"
         },
         "14112":{
+            "author_name":"forbidden_hedgehog",
             "choices":[
                 "investigate the blood",
                 "continue reading the book"
@@ -926,6 +944,7 @@
             "title":"The Scroll"
         },
         "1421":{
+            "author_name":"bannon young",
             "choices":[
                 "(under construction)"
             ],
@@ -1002,6 +1021,7 @@
             "title":"Old Tower"
         },
         "143111111":{
+            "author_name":"kuso",
             "choices":[
                 "follow the signs",
                 "think"
@@ -1012,6 +1032,7 @@
             "title":"screen"
         },
         "1431111111":{
+            "author_name":"kuso",
             "choices":[
                 "--------->",
                 "<---------"
@@ -1337,6 +1358,7 @@
         "description":"<td align=\"left\" class=\"norm\">Mistress of Pleasure, Master of Pain,<br>\r\nThe meek will lose what the bold will gain.<br>\r\nA tale of adventure for explorers to read<br>\r\nThe door that you choose - where will it lead?<br>\r\n<br>\r\n------------------------------------------------------------<br>\r\nAn adventure in the year 3033 AD <br>\r\n------------------------------------------------------------<br>\r\n<br>\r\n</td>",
         "id":808814,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1343448960,
         "modified":1343448960,
         "pretty_title":"Naked Girls and Boys"
     }

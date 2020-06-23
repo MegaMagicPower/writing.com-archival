@@ -163,6 +163,7 @@
             "title":"Updates"
         },
         "11111111112":{
+            "author_name":"Mirror",
             "choices":[
                 "Escape on your own",
                 "Escape with the help of Kouji"
@@ -173,6 +174,7 @@
             "title":"Warehouse"
         },
         "111111111121":{
+            "author_name":"Mirror",
             "choices":[
                 "Takuya's front yard",
                 "At the magic shop"
@@ -195,6 +197,7 @@
             "title":"At Takuya's house."
         },
         "11111111112111":{
+            "author_name":"Mirror",
             "choices":[
                 "Go back to the shop the next day"
             ],
@@ -447,6 +450,7 @@
             "title":"Zin's compromise."
         },
         "111111112211111":{
+            "author_name":"Mirror",
             "choices":[
                 "Of course I want it!",
                 "Don't trust her, she may know Zin."
@@ -844,6 +848,7 @@
         "description":"<td align=\"left\" class=\"norm\">You can write anything you want except for severe swearing, sexual intercourse, drugs, alcohol...you know. Other than that, enjoy and add chapters.</td>",
         "id":951744,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1203467100,
         "modified":1203467100,
         "pretty_title":"Kouji the Giant"
     }

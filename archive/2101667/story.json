@@ -381,6 +381,30 @@
             "id":2235977,
             "title":"\"I'm fine\""
         },
+        "111312222":{
+            "author_id":"bodiless2",
+            "author_name":"Bodiless",
+            "choices":[
+                "a club where no heads are allowed",
+                "go to a different head store to shop"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where else may you spend your headless time?</span></div></span></div>",
+            "created":1592629200,
+            "id":2853997,
+            "title":"Somewhere else"
+        },
+        "1113122221":{
+            "author_id":"fishcanroll",
+            "author_name":"NoHeadsAreCute",
+            "choices":[
+                "Find someone here to hang out with",
+                "Other (play some games, check out the services, etc)"
+            ],
+            "content":"<div class=\"\"><div> <span>As you wander around, you realize that you fit in pretty well, now that you're lacking a head. Perhaps not as much as if you were carrying it around or if you had a mismatched one, but you fit in nonetheless. Something about that made you happy - you had barely been in this town for an hour and you already looked just like most of the people here. You could adapt pretty well! Of course, it'd be a bit hard to fit in with other places now considering this was just about the only place you knew where detached heads were the norm, but for now you didn't care about that, it's not going to affect your trip here.<br>\r\n<br>\r\nSnapping out of your thoughts, you notice a nice-looking club nearby, and figure you could stop there. Tilting your neck up as you walk towards it, you see the name \"Icha-bod's Lounge\" hanging up above the entrance.  Looking back down, you notice some stickers on the glass door entrance. There's the standard \"no shirt, no shoes, no service\" notice, but the one above it catches your non-existent eye - \"No heads allowed beyond this point\". That was a new one, though in the end it didn't surprise you, considering what kind of town this was. It'd explain the \"bod\" part of the name, too - a club just for headless folks. Waving a hand above your empty neck, you're a perfect fit for this club.<br>\r\n<br>\r\nOpening the door, you can hear some quiet jazz playing over some speakers to set the mood, plenty of chairs to sit and chill in - a good deal of which were already occupied, natch - and some game tables for stuff like pool, card games, that sort of thing. There were also a few doors in the back for some services, but you couldn't make out what they said from where you stood. And aside from the jazz, there wasn't much noise aside from footsteps, sounds from the game tables like the clacking of pool balls, and maybe the tapping of phone keys or pens writing on paper if you listened hard enough. It made sense, as there were no heads to fill the air with voices. It was calming, if a bit unusual compared to the hustling and bustling rest of the town.<br>\r\n<br>\r\nSo, what will you do here?<br>\r\n</span></div></div>",
+            "created":1592629200,
+            "id":2854331,
+            "title":"FORE! ...oh, you meant THAT kind of club"
+        },
         "11132":{
             "author_id":"mwmj",
             "author_name":"MWMJ",
@@ -2608,6 +2632,31 @@
             "id":2244522,
             "title":"Detached with no control"
         },
+        "1352333":{
+            "author_id":"dayaman",
+            "author_name":"dayaman",
+            "choices":[
+                "a head who has multiple bodies",
+                "a head being used as a sports ball",
+                "other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>More options...</span></div></span></div>",
+            "created":1592024400,
+            "id":2850945,
+            "title":"More"
+        },
+        "13523332":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is the person\u2019s original body using a sports ball for a head?</span></div></span></div>",
+            "created":1592110800,
+            "id":2850968,
+            "title":"a head being used as a sports ball"
+        },
         "14":{
             "author_id":"quad2",
             "author_name":"Joe",
@@ -3734,7 +3783,8 @@
         "description":"<td align=\"left\" class=\"norm\">Howdy folks, this is a town where people have their bodies taking their heads off for independence. After some conflict, they try to have come in some terms with each other. Heads and bodies live each other, but with some kinks to it. You get to see the lives of these people or step into their shoes. <b>Based on Gavalar's Body Rebellion</b><br>\r\n<br>\r\nRules: Don't be too sexual. Only not in too much details.<br>\r\nGood grammar would be nice,<b> [Update] but don't make it so bad or else I would edit it if it is a good chapter or delete it if it's not good at all.</b><br>\r\nStay with whatever is in the story.<br>\r\n<br>\r\nUpdate: I got over 100 chapters 11/27/2016<br>\r\n<br>\r\nThat's it.<br>\r\n<br>\r\nRecurring Characters:<br>\r\n<br>\r\nMila: A woman who was head swapped and now has to live a life based on her new body.</td>",
         "id":2101667,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1590095160,
+        "last_full_update":0,
+        "modified":1592710920,
         "pretty_title":"Welcome to Head Town"
     }
 }

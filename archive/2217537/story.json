@@ -179,6 +179,18 @@
             "id":2810884,
             "title":"someone else"
         },
+        "112131":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She reveals it to Haley after both have drunk a bit too much?</span></div></span></div>",
+            "created":1592542800,
+            "id":2853567,
+            "title":"Haley"
+        },
         "113":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
@@ -393,6 +405,32 @@
             "id":2834314,
             "title":"Yes"
         },
+        "115332":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "a prank",
+                "part of a new law that was passed",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what other reason does Claire end up in diapers?</span></div></span></div>",
+            "created":1592542800,
+            "id":2853565,
+            "title":"No, Another Reason"
+        },
+        "1153322":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "A license letting someone be treated like a baby in public.",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>This new law lets her be adopted and babied by a new family?</span></div></span></div>",
+            "created":1592542800,
+            "id":2853568,
+            "title":"part of a new law that was passed"
+        },
         "12":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
@@ -520,6 +558,45 @@
             "id":2816218,
             "title":"Any other reasons."
         },
+        "1332":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup",
+                "Mental",
+                "Both."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Her regression ends up being physical?</span></div></span></div>",
+            "created":1592542800,
+            "id":2853576,
+            "title":"Regression."
+        },
+        "1333":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "part of a new law that was passed",
+                "class assignment",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what other reason does Haley end up in diapers?</span></div></span></div>",
+            "created":1592542800,
+            "id":2853571,
+            "title":"SE"
+        },
+        "13332":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Alex.",
+                "Lily",
+                "Anybody else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who is babying her for a Home Economics class?</span></div></span></div>",
+            "created":1592542800,
+            "id":2853574,
+            "title":"class assignment"
+        },
         "14":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
@@ -533,6 +610,57 @@
             "created":1585976400,
             "id":2813122,
             "title":"Gloria"
+        },
+        "141":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Alex.",
+                "Haley, or anyone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She's being punished via diapers by Claire?</span></div></span></div>",
+            "created":1592542800,
+            "id":2853585,
+            "title":"Sure"
+        },
+        "143":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Haley, or someone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She was called to be the baby for an assignment in a Home Economics class, and, her \"parent\" would be Alex?</span></div></span></div>",
+            "created":1592542800,
+            "id":2853586,
+            "title":"Class assignment"
+        },
+        "144":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "part of a new law that was passed",
+                "result of a prank",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what other reason would Gloria be in diapers?</span></div></span></div>",
+            "created":1592542800,
+            "id":2853584,
+            "title":"Other reasons"
+        },
+        "1443":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Sure",
+                "Loses a bet.",
+                "Enters another universe, or other ideas."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Wounds up regressed?</span></div></span></div>",
+            "created":1592542800,
+            "id":2853587,
+            "title":"something else"
         },
         "15":{
             "author_id":"supreme123",
@@ -569,7 +697,8 @@
         "description":"<td align=\"left\" class=\"norm\">Bringing back this story. Had to get rid of it after it was cluttered with chapters I felt went no where. Try to make chapters as long and as detailed as you can. Nothing to over the top. No insulting characters, sex, drugs, humiliation.</td>",
         "id":2217537,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1589397540,
+        "last_full_update":0,
+        "modified":1592574840,
         "pretty_title":"Modern Family AB/DL"
     }
 }

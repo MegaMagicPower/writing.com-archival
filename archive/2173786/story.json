@@ -197,6 +197,34 @@
             "created":1575694800,
             "id":2756470,
             "title":"No"
+        },
+        "13":{
+            "author_id":"zachy2018",
+            "author_name":"CountDugula",
+            "choices":[
+                "Anime",
+                "Cartoons",
+                "other",
+                "other",
+                "other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about these choices?</span></div></span></div>",
+            "created":1591765200,
+            "id":2849138,
+            "title":"Other media"
+        },
+        "131":{
+            "author_id":"zachy2018",
+            "author_name":"CountDugula",
+            "choices":[
+                "Kill la Kill",
+                "Dragonbal/Z/Super",
+                "others"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Now let's get some choices out of the way first.</span></div></span></div>",
+            "created":1591765200,
+            "id":2849139,
+            "title":"Anime"
         }
     },
     "info":{
@@ -207,7 +235,8 @@
         "description":"<td align=\"left\" class=\"norm\">Female interaction only please. Any comics or games welcome. Please be detailed and add pics of the people involved. Thank you \ud83d\ude0a </td>",
         "id":2173786,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1589932440,
+        "last_full_update":0,
+        "modified":1591810080,
         "pretty_title":"Shrunk in comics or videogames "
     }
 }

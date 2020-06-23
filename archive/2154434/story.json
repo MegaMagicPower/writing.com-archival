@@ -2,7 +2,7 @@
     "chapters":{
         "1":{
             "author_id":"flamebreather",
-            "author_name":"Dragon- handling shenanigans",
+            "author_name":"~Dragon~",
             "choices":[
                 "Breakfast",
                 "Lunch",
@@ -46,7 +46,7 @@
         },
         "12":{
             "author_id":"dunkelhetstern",
-            "author_name":"Auld Lang Jess",
+            "author_name":"Jessica \u2764\ufe0f her ink",
             "choices":[
                 "Lunch",
                 "Lunch",
@@ -97,7 +97,7 @@
         },
         "1313":{
             "author_id":"bikerider",
-            "author_name":"Bikerider",
+            "author_name":"Bikerider 10 years!",
             "choices":[
                 "Dinner",
                 "Dinner",
@@ -122,7 +122,7 @@
         },
         "133":{
             "author_id":"1starsong",
-            "author_name":"eyestar~thanks anon!",
+            "author_name":"eyestar-Congrats Quill folks.",
             "choices":[
                 "Dinner",
                 "Dinner",
@@ -143,7 +143,7 @@
         },
         "135":{
             "author_id":"flamebreather",
-            "author_name":"Dragon- handling shenanigans",
+            "author_name":"~Dragon~",
             "choices":[
                 "Dinner",
                 "Dinner",
@@ -187,12 +187,13 @@
     },
     "info":{
         "author_id":"flamebreather",
-        "author_name":"Dragon- handling shenanigans",
+        "author_name":"~Dragon~",
         "brief_description":"A place for all WDC members to share recipes",
         "created":1522884180,
         "description":"<td align=\"left\" class=\"norm\"><div align=\"center\"><a href=\"https://www.Writing.Com/view/2154434\" title=\"WDC Cookbook cover  [#2154367]\nCover for WDC Cookbook\" target=\"_blank\"><img border=\"0\" src=\"https://www.Writing.Com/main/trans.gif\" title=\"WDC Cookbook cover  [#2154367]\nCover for WDC Cookbook\" height=\"0\" width=\"0\" id=\"protectWMLImg1\"><img onmouseover=\"protectMe(this, 'protectWMLImg1');\" title=\"WDC Cookbook cover  [#2154367]\nCover for WDC Cookbook\" alt=\"Cover for WDC Cookbook\" src=\"https://www.writing.com/main/images/action/display/ver/1522881311/item_id/2154367.jpg\" width=\"400\" border=\"0\" height=\"336\"></a></div><br>\r\n<br>\r\nWelcome to The WDC Cookbook!  Here, you can share recipes, find new ones, and learn about foods from other cultures.<br>\r\n<br>\r\nThis idea came from a comment on \"Note: <a rel=\"mllightbox\" href=\"https://www.Writing.Com/main/profile/note_id/523373\" target=\"_top\">Just wanna share with you guys a...</a>\"<script><!-- \n\n$(\"body\").on(\"click\", \"a[rel='mllightbox']\", function (event) { if (event.clicked) { return; } event.clicked= true; event.preventDefault();var options = {onOpen:function(){  if ($(\"#showMyNotifyOuter2\").length > 0) { $(\"#showMyNotifyOuter2\").attr('safeClick','true'); } },  href:$(this).attr(\"href\"), maxWidth :'700px', maxHeight :'700px', innerWidth :'85%', innerHeight :'85%', initialWidth :'300px', initialHeight :'100px', iframe:true, fixed :true, speed :100, fadeOut :50, opacity :.6 }; if (parent) { if (parent.parent && parent.parent.$.colorbox) { parent.parent.$.colorbox(options); } else { parent.$.colorbox(options); } } else { $.colorbox(options); } });\n//--></script>, plus the knowledge that some people (like me!) are completely inept in the kitchen. <img style=\"\" class=\"emoteZ\" src=\"https://images.Writing.Com/imgs/writing.com/writers/e15/laugh.png\" alt=\"*Laugh*\" title=\"Laugh\" border=\"0\" width=\"15\" height=\"15\"><br>\r\n<br>\r\nGot a nice recipe? Please share!<br>\r\n<br>\r\nAnd just for organization's sake, please try to keep all the meals in their own categories.  <img style=\"\" class=\"emoteZ\" src=\"https://images.Writing.Com/imgs/writing.com/writers/e15/laugh.png\" alt=\"*Laugh*\" title=\"Laugh\" border=\"0\" width=\"15\" height=\"15\"> Thank you! <img style=\"\" class=\"emoteZ\" src=\"https://images.Writing.Com/imgs/writing.com/writers/e15/delight.png\" alt=\"*Delight*\" title=\"Delight\" border=\"0\" width=\"15\" height=\"15\"></td>",
         "id":2154434,
         "image_url":"https://www.writing.com/main/images/action/display/ver/1522881311/item_id/2154367.jpeg",
+        "last_full_update":1559610660,
         "modified":1559610660,
         "pretty_title":"The WDC Cookbook"
     }

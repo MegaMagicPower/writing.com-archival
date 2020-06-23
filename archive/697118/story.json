@@ -675,6 +675,7 @@
             "title":"go to the spice/flavoring rack"
         },
         "124":{
+            "author_name":"zxcv",
             "choices":[
                 "you start to feel very dizzy",
                 "nothing happens...... yet"
@@ -685,6 +686,7 @@
             "title":"Your a thirsty human"
         },
         "1241":{
+            "author_name":"zxcv",
             "choices":[
                 "She's hungry and eats you!",
                 "She decides to put you in a cage for sale."
@@ -860,6 +862,32 @@
             "created":1459832400,
             "id":2128145,
             "title":"Dog"
+        },
+        "13211222":{
+            "author_id":"sizewatcher",
+            "author_name":"SizeWatcher",
+            "choices":[
+                "A husky",
+                "A German shepherd",
+                "Other doggie :D"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>A husky or a German shepherd? I s your choice for female anthro?</span></div></span></div>",
+            "created":1592456400,
+            "id":2853229,
+            "title":"next "
+        },
+        "132112223":{
+            "author_id":"numerio",
+            "author_name":"Tex",
+            "choices":[
+                "Hellhound",
+                "Boxer",
+                "Rottweiler "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about these types? </span></div></span></div>",
+            "created":1592542800,
+            "id":2853798,
+            "title":"Other doggie :D"
         },
         "13212":{
             "choices":[
@@ -1561,7 +1589,8 @@
         "description":"<td align=\"left\" class=\"norm\">Exploring, you might get a chance to patoronize or be patronized by the lions other customers, All customers are furry, though the \"reader\" can take on a human roll if they are being a victim or leave it ambigious if the victimizer. Some of the various places that are set up for entertainment follow too. A mix of Hotel, ammusment, and bathouse, almost anything is possible<br>\r\n<br>\r\nBondage<br>\r\nSizeplaying with macro/micro<br>\r\nThe consumption of sentients<br>\r\nBad smells<br>\r\nTransformation </td>",
         "id":697118,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1575574980,
+        "last_full_update":1575574980,
+        "modified":1592620920,
         "pretty_title":"The Resort"
     }
 }

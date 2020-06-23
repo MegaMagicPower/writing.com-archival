@@ -55,6 +55,7 @@
             "title":"Its a date!"
         },
         "111111":{
+            "author_name":"kaiba1321",
             "choices":[
                 "Friday"
             ],
@@ -254,6 +255,7 @@
             "title":"The Creator of Duel Monsters"
         },
         "1121111":{
+            "author_name":"JAT",
             "choices":[
                 "Enter Pegasus's Tournament",
                 "Don't Enter Pegasus's Tournament"
@@ -666,6 +668,7 @@
             "title":"Another person challanges you"
         },
         "11212":{
+            "author_name":"Mike-ato",
             "choices":[
                 "skip to the moving day",
                 "duel with a kid for respect"
@@ -676,6 +679,7 @@
             "title":"mikes dilemma"
         },
         "112121":{
+            "author_name":"Mike-ato",
             "choices":[
                 "go to yugis house",
                 "be challenged to a duel by a strange robed figure"
@@ -761,6 +765,7 @@
             "title":"It's Time To Duel"
         },
         "1151111":{
+            "author_name":"JAT",
             "choices":[
                 "Pot of Greed",
                 "Dark Hole"
@@ -946,6 +951,7 @@
         "description":"<td align=\"left\" class=\"norm\">You live in Domino City, and a new fad called Duel Monsters just got big in your school. You and your best friend, Yugi Mutoh, are the two strongest duelists around. But little did you know...your journey is about to begin...</td>",
         "id":774288,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1363500840,
         "modified":1363500840,
         "pretty_title":"Yu-Gi-Oh! Your Way!"
     }

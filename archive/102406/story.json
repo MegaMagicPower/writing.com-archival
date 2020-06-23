@@ -31,6 +31,7 @@
             "title":"Interrogation Room"
         },
         "111":{
+            "author_name":"Andrew",
             "choices":[
                 "Try to kick the door down.",
                 "Search for stuff on the desk."
@@ -41,6 +42,7 @@
             "title":"Locked up"
         },
         "113":{
+            "author_name":"swiftrunner",
             "choices":[
                 "try to escape-he's on the other side of the room.",
                 "or should you stay put, he may be pretending."
@@ -51,6 +53,7 @@
             "title":"An Amazing Discovery"
         },
         "1131":{
+            "author_name":"swiftrunner",
             "content":"<div class=\"\"><div> <span>YOu slowly stand up and start inching toward the door.  The guy yells again, \"That's the way!  I'm coming!\"\r<br>\n\r<br>\nAll of a sudden the guard turns around quickly.  He grins wickedly as he pulls the trigger.\r<br>\n\r<br>\nYour dead.  Made the wrong choice.  Start over.</span></div></div>",
             "created":975214800,
             "id":13959,
@@ -202,6 +205,7 @@
             "title":"Holding Cell"
         },
         "141":{
+            "author_name":"Zapes",
             "choices":[
                 "Yes, I did",
                 "I don't know what you mean"
@@ -307,6 +311,7 @@
             "title":"YOU MOTHERFUCKER!!! YOU LOST"
         },
         "155":{
+            "author_name":"Lannys",
             "choices":[
                 "Don't argue... walk",
                 "Ask him why and refuse to move"
@@ -325,6 +330,7 @@
         "description":"<td align=\"left\" class=\"norm\">This story is still under construction. If you dont want to ruin the surprise for yourself, go no farther. If you are not one of the five authors who developed this project, please don't add any chapters. They'll just be deleted anyway. Love ya', ZooDuck\r<br>\n\r<br>\n6/27/01 Some time has passed since this was started. I've left the above part just as it was when it was originally written. It's still an idea that sometimes works itself to the surface again with a new twist, or something to think about. But this is also one of the ones that is almost at a stall... \r<br>\n\r<br>\nYou guys know what it's like to try to continue a long-dead project; to try to rehash the whole thing in your mind, looking for things like clarity, worthiness, etc. Does it still make sense to you? \r<br>\n\r<br>\nIf you get past that first part, then you have to go through the whole process of immersing yourself all over again in the original idea. The thing that made you excited to embark on the whole project in the first place. I'm not quite there with this one yet. But it's still an idea.\r<br>\n\r<br>\nIt's a very time consuming thing, no doubt about it. ZD</td>",
         "id":102406,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1156054740,
         "modified":1156054740,
         "pretty_title":"Game"
     }

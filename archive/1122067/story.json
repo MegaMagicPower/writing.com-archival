@@ -3450,7 +3450,7 @@
         },
         "1212":{
             "author_id":"eblmeg",
-            "author_name":"\u00c3\u008btalfni",
+            "author_name":"\u00cbtalfni",
             "choices":[
                 "A vial with a strange liquid.",
                 "A hypnotizing watch.",
@@ -3981,6 +3981,7 @@
             "title":"We pick up from the factory Dr. Erica runs."
         },
         "124":{
+            "author_name":"Rebecca Fielding",
             "choices":[
                 "Now you have to know, go and check out the store",
                 "Ah, forget the store and chase after the exercising fat woman and stop her!"
@@ -3991,6 +3992,7 @@
             "title":"Run Baby Run"
         },
         "1241":{
+            "author_name":"Rebecca Fielding",
             "choices":[
                 "Heck ya, you run inside",
                 "This is creepy, let's get the hell outta here."
@@ -6822,6 +6824,7 @@
         "description":"<td align=\"left\" class=\"norm\">Please have fun and add on. Feel free to go in any direction, however if I feel the add on is not up to snuff I will edit..... or delete.<br>\r\n<br>\r\nOn a small note. I would like the story to stick around weight gain......at least a little.</td>",
         "id":1122067,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1589965800,
         "modified":1589965800,
         "pretty_title":"The Fattening."
     }

@@ -1257,6 +1257,30 @@
             "id":2500949,
             "title":"Something Else"
         },
+        "112332":{
+            "author_id":"eliteeevee",
+            "author_name":"elite eevee",
+            "choices":[
+                "Keep you as a watch",
+                "Put you into something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\"Maybe instead of you always telling me the time, we could put you to a better use\" your sister said smiling</span></div></span></div>",
+            "created":1590642000,
+            "id":2842214,
+            "title":"What Next?"
+        },
+        "1123322":{
+            "author_id":"joemal",
+            "author_name":"joey",
+            "choices":[
+                "Her foot",
+                "Her boyfriend's dick"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How 'bout I put you in my foot, or maybe into my boyfriend's dick?</span></div></span></div>",
+            "created":1590728400,
+            "id":2842702,
+            "title":"Put you into something else"
+        },
         "113":{
             "choices":[
                 "In a car",
@@ -2666,7 +2690,8 @@
         "description":"<td align=\"left\" class=\"norm\">In this story you\u2019re just an average high school senior with two younger siblings, Tina and Emily. Tina is a sophomore and Emily is in the first grade. Your parents are divorced so you all live with your mom. <br>\r\n<br>\r\nUntil one day Tina is looking around in the attic and finds a piece of jewelry that belonged to your grandmother. And it turns out to be much more then cheap costume jewelry, it was actually an enchanted relic that allows the wearer to manipulate souls or to be more specific move them. With it a person could extract the soul from one body and place it into someone or something else. <br>\r\n<br>\r\nSo that means someone\u2019s soul could be transferred into the body of a family member, a friend, an enemy, an object, you get the idea <br>\r\n<br>\r\nFor now I\u2019m not going to worry so much about rules but I do reserve the right to remove anything I believe to be inappropriate or just a pointless filler<br>\r\n<br>\r\nEnjoy :)<br>\r\n</td>",
         "id":1578807,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1584157260,
+        "last_full_update":0,
+        "modified":1590749940,
         "pretty_title":"Forced Possession "
     }
 }

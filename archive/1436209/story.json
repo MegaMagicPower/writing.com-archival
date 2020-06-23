@@ -57,7 +57,7 @@
         },
         "114":{
             "author_id":"luftvaffe",
-            "author_name":"Luftvaffe",
+            "author_name":"Smarty",
             "choices":[
                 "Purse.",
                 "Backpack."
@@ -414,7 +414,7 @@
         },
         "14":{
             "author_id":"worker1398",
-            "author_name":"Worker1398",
+            "author_name":"Clear Diamond",
             "choices":[
                 "Male",
                 "Female",
@@ -429,7 +429,7 @@
         },
         "145":{
             "author_id":"worker1398",
-            "author_name":"Worker1398",
+            "author_name":"Clear Diamond",
             "choices":[
                 "Brianna",
                 "Amanda",
@@ -442,7 +442,7 @@
         },
         "1451":{
             "author_id":"worker1398",
-            "author_name":"Worker1398",
+            "author_name":"Clear Diamond",
             "choices":[
                 "Yes Bri!",
                 "Someone else. ",
@@ -455,7 +455,7 @@
         },
         "1453":{
             "author_id":"worker1398",
-            "author_name":"Worker1398",
+            "author_name":"Clear Diamond",
             "choices":[
                 "Emma",
                 "Connie",
@@ -468,7 +468,7 @@
         },
         "14533":{
             "author_id":"worker1398",
-            "author_name":"Worker1398",
+            "author_name":"Clear Diamond",
             "choices":[
                 "Heather?",
                 "Selena Gomez? (From The Show Wizards of Waverly Place)."
@@ -480,7 +480,7 @@
         },
         "145332":{
             "author_id":"worker1398",
-            "author_name":"Worker1398",
+            "author_name":"Clear Diamond",
             "choices":[
                 "Yes",
                 "More choices"
@@ -677,7 +677,7 @@
         },
         "15523":{
             "author_id":"worker1398",
-            "author_name":"Worker1398",
+            "author_name":"Clear Diamond",
             "choices":[
                 "Try to run back to Amy",
                 "Continue sliding and hope to find someone else."
@@ -696,6 +696,7 @@
         "description":"<td align=\"left\" class=\"norm\">DO you like anyone in your school? well now is the time to be shrunken and be with them.</td>",
         "id":1436209,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1588113960,
         "modified":1588113960,
         "pretty_title":"Shrunken In School"
     }

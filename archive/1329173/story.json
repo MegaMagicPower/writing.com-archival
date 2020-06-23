@@ -680,9 +680,10 @@
                 "Edelgard",
                 "Bernadetta",
                 "Petra",
-                "Dorothea"
+                "Dorothea",
+                "A version of one from after the timeskip"
             ],
-            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who will you summon?</span></div></span></div>",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who will you summon? We'll start with the pre-time skip versions.</span></div></span></div>",
             "created":1568782800,
             "id":2720195,
             "title":"A girl from the Black Eagle house"
@@ -1160,7 +1161,10 @@
         "1123321":{
             "choices":[
                 "Lightning",
-                "Other"
+                "Serah",
+                "Vanille",
+                "Fang",
+                "More choices"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which girl from FF XIII?</span></div></span></div>",
             "created":1279256400,
@@ -3024,7 +3028,7 @@
                 "Letty",
                 "Next"
             ],
-            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Characters listed by order of appearance.<br>\r\n<br>\r\nFirst: Letty Whiterock. <a class=\"duLink\" rel=\"nofollow\" href=\"http://touhou.wikia.com/wiki/Letty_Whiterock\">Profile</a> \u00a0<a title=\"New Window\" href=\"http://touhou.wikia.com/wiki/Letty_Whiterock\" rel=\"nofollow\" target=\"_blank\"><img style=\"opacity:.4;\" src=\"https://www.Writing.Com/nw.gif\" onmouseover=\"$(this).css('opacity', '1');\" onmouseout=\"$(this).css('opacity', '.4');\" height=\"12\" width=\"12\" border=\"0\"></a><br>\r\n<br>\r\nHer or someone else?</span></div></span></div>",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Characters listed by order of appearance.<br>\r\n<br>\r\nFirst: Letty Whiterock. <a class=\"duLink\" rel=\"nofollow\" href=\"http://touhou.wikia.com/wiki/Letty_Whiterock\">Profile</a> \u00a0<a title=\"New Window\" href=\"http://touhou.wikia.com/wiki/Letty_Whiterock\" rel=\"nofollow\" target=\"_blank\"><img loading=\"lazy\" style=\"opacity:.4;\" src=\"https://www.Writing.Com/nw.gif\" onmouseover=\"$(this).css('opacity', '1');\" onmouseout=\"$(this).css('opacity', '.4');\" height=\"12\" width=\"12\" border=\"0\"></a><br>\r\n<br>\r\nHer or someone else?</span></div></span></div>",
             "created":1276405200,
             "id":899126,
             "title":"The yuki-onna"
@@ -3036,7 +3040,7 @@
                 "Yes",
                 "No"
             ],
-            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Chen, the shikigami black cat. <a class=\"duLink\" rel=\"nofollow\" href=\"http://touhou.wikia.com/wiki/Chen\">Profile</a> \u00a0<a title=\"New Window\" href=\"http://touhou.wikia.com/wiki/Chen\" rel=\"nofollow\" target=\"_blank\"><img style=\"opacity:.4;\" src=\"https://www.Writing.Com/nw.gif\" onmouseover=\"$(this).css('opacity', '1');\" onmouseout=\"$(this).css('opacity', '.4');\" height=\"12\" width=\"12\" border=\"0\"></a><br>\r\n<br>\r\nY/N, as usual.</span></div></span></div>",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Chen, the shikigami black cat. <a class=\"duLink\" rel=\"nofollow\" href=\"http://touhou.wikia.com/wiki/Chen\">Profile</a> \u00a0<a title=\"New Window\" href=\"http://touhou.wikia.com/wiki/Chen\" rel=\"nofollow\" target=\"_blank\"><img loading=\"lazy\" style=\"opacity:.4;\" src=\"https://www.Writing.Com/nw.gif\" onmouseover=\"$(this).css('opacity', '1');\" onmouseout=\"$(this).css('opacity', '.4');\" height=\"12\" width=\"12\" border=\"0\"></a><br>\r\n<br>\r\nY/N, as usual.</span></div></span></div>",
             "created":1276405200,
             "id":899127,
             "title":"Shikigami"
@@ -3048,7 +3052,7 @@
                 "Yes",
                 "No"
             ],
-            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Alice Margatroid, with description <a class=\"duLink\" rel=\"nofollow\" href=\"http://touhou.wikia.com/wiki/Alice\">here.</a> \u00a0<a title=\"New Window\" href=\"http://touhou.wikia.com/wiki/Alice\" rel=\"nofollow\" target=\"_blank\"><img style=\"opacity:.4;\" src=\"https://www.Writing.Com/nw.gif\" onmouseover=\"$(this).css('opacity', '1');\" onmouseout=\"$(this).css('opacity', '.4');\" height=\"12\" width=\"12\" border=\"0\"></a><br>\r\n<br>\r\nYes or yes except no?</span></div></span></div>",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Alice Margatroid, with description <a class=\"duLink\" rel=\"nofollow\" href=\"http://touhou.wikia.com/wiki/Alice\">here.</a> \u00a0<a title=\"New Window\" href=\"http://touhou.wikia.com/wiki/Alice\" rel=\"nofollow\" target=\"_blank\"><img loading=\"lazy\" style=\"opacity:.4;\" src=\"https://www.Writing.Com/nw.gif\" onmouseover=\"$(this).css('opacity', '1');\" onmouseout=\"$(this).css('opacity', '.4');\" height=\"12\" width=\"12\" border=\"0\"></a><br>\r\n<br>\r\nYes or yes except no?</span></div></span></div>",
             "created":1276405200,
             "id":899128,
             "title":"Doll Master"
@@ -3060,7 +3064,7 @@
                 "Yes",
                 "No"
             ],
-            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Lily White, the hyperactive fairy. <a class=\"duLink\" rel=\"nofollow\" href=\"http://touhou.wikia.com/wiki/Lily_White\">Profile</a> \u00a0<a title=\"New Window\" href=\"http://touhou.wikia.com/wiki/Lily_White\" rel=\"nofollow\" target=\"_blank\"><img style=\"opacity:.4;\" src=\"https://www.Writing.Com/nw.gif\" onmouseover=\"$(this).css('opacity', '1');\" onmouseout=\"$(this).css('opacity', '.4');\" height=\"12\" width=\"12\" border=\"0\"></a><br>\r\n<br>\r\nNo/yes?</span></div></span></div>",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Lily White, the hyperactive fairy. <a class=\"duLink\" rel=\"nofollow\" href=\"http://touhou.wikia.com/wiki/Lily_White\">Profile</a> \u00a0<a title=\"New Window\" href=\"http://touhou.wikia.com/wiki/Lily_White\" rel=\"nofollow\" target=\"_blank\"><img loading=\"lazy\" style=\"opacity:.4;\" src=\"https://www.Writing.Com/nw.gif\" onmouseover=\"$(this).css('opacity', '1');\" onmouseout=\"$(this).css('opacity', '.4');\" height=\"12\" width=\"12\" border=\"0\"></a><br>\r\n<br>\r\nNo/yes?</span></div></span></div>",
             "created":1276405200,
             "id":899130,
             "title":"Spring Announcer"
@@ -3084,7 +3088,7 @@
                 "Yes!",
                 "No"
             ],
-            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Youmu konpaku, half-human, half-ghost. <a class=\"duLink\" rel=\"nofollow\" href=\"http://touhou.wikia.com/wiki/Youmu_Konpaku\">Profile</a> \u00a0<a title=\"New Window\" href=\"http://touhou.wikia.com/wiki/Youmu_Konpaku\" rel=\"nofollow\" target=\"_blank\"><img style=\"opacity:.4;\" src=\"https://www.Writing.Com/nw.gif\" onmouseover=\"$(this).css('opacity', '1');\" onmouseout=\"$(this).css('opacity', '.4');\" height=\"12\" width=\"12\" border=\"0\"></a><br>\r\n<br>\r\nIf you make her, you might figure out how exactly a half-ghost works. Is it worth it?</span></div></span></div>",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Youmu konpaku, half-human, half-ghost. <a class=\"duLink\" rel=\"nofollow\" href=\"http://touhou.wikia.com/wiki/Youmu_Konpaku\">Profile</a> \u00a0<a title=\"New Window\" href=\"http://touhou.wikia.com/wiki/Youmu_Konpaku\" rel=\"nofollow\" target=\"_blank\"><img loading=\"lazy\" style=\"opacity:.4;\" src=\"https://www.Writing.Com/nw.gif\" onmouseover=\"$(this).css('opacity', '1');\" onmouseout=\"$(this).css('opacity', '.4');\" height=\"12\" width=\"12\" border=\"0\"></a><br>\r\n<br>\r\nIf you make her, you might figure out how exactly a half-ghost works. Is it worth it?</span></div></span></div>",
             "created":1276405200,
             "id":899133,
             "title":"Half-Ghost Gardener"
@@ -3096,7 +3100,7 @@
                 "Yes",
                 "No"
             ],
-            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Yuyuko Saigyouji, the dead princess of the Netherworld. <a class=\"duLink\" rel=\"nofollow\" href=\"http://touhou.wikia.com/wiki/Yuyuko_Saigyouji\">Profile</a> \u00a0<a title=\"New Window\" href=\"http://touhou.wikia.com/wiki/Yuyuko_Saigyouji\" rel=\"nofollow\" target=\"_blank\"><img style=\"opacity:.4;\" src=\"https://www.Writing.Com/nw.gif\" onmouseover=\"$(this).css('opacity', '1');\" onmouseout=\"$(this).css('opacity', '.4');\" height=\"12\" width=\"12\" border=\"0\"></a><br>\r\n<br>\r\nOnly two characters left after Yuyuko. So Y/N?</span></div></span></div>",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Yuyuko Saigyouji, the dead princess of the Netherworld. <a class=\"duLink\" rel=\"nofollow\" href=\"http://touhou.wikia.com/wiki/Yuyuko_Saigyouji\">Profile</a> \u00a0<a title=\"New Window\" href=\"http://touhou.wikia.com/wiki/Yuyuko_Saigyouji\" rel=\"nofollow\" target=\"_blank\"><img loading=\"lazy\" style=\"opacity:.4;\" src=\"https://www.Writing.Com/nw.gif\" onmouseover=\"$(this).css('opacity', '1');\" onmouseout=\"$(this).css('opacity', '.4');\" height=\"12\" width=\"12\" border=\"0\"></a><br>\r\n<br>\r\nOnly two characters left after Yuyuko. So Y/N?</span></div></span></div>",
             "created":1276405200,
             "id":899134,
             "title":"Eternal Ghost"
@@ -3108,7 +3112,7 @@
                 "Ran",
                 "Yukari"
             ],
-            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Last two characters originating from PCB are:<br>\r\n<br>\r\n<a class=\"duLink\" rel=\"nofollow\" href=\"http://touhou.wikia.com/wiki/Ran_Yakumo\">Ran Yakumo,</a> \u00a0<a title=\"New Window\" href=\"http://touhou.wikia.com/wiki/Ran_Yakumo\" rel=\"nofollow\" target=\"_blank\"><img style=\"opacity:.4;\" src=\"https://www.Writing.Com/nw.gif\" onmouseover=\"$(this).css('opacity', '1');\" onmouseout=\"$(this).css('opacity', '.4');\" height=\"12\" width=\"12\" border=\"0\"></a> Chen's master<br>\r\n<br>\r\nand<br>\r\n<br>\r\n<a class=\"duLink\" rel=\"nofollow\" href=\"http://touhou.wikia.com/wiki/Yukari_Yakumo\">Yukari Yakumo, </a> \u00a0<a title=\"New Window\" href=\"http://touhou.wikia.com/wiki/Yukari_Yakumo\" rel=\"nofollow\" target=\"_blank\"><img style=\"opacity:.4;\" src=\"https://www.Writing.Com/nw.gif\" onmouseover=\"$(this).css('opacity', '1');\" onmouseout=\"$(this).css('opacity', '.4');\" height=\"12\" width=\"12\" border=\"0\"></a> Ran's master.<br>\r\n<br>\r\nPick one to spit out as an egg and do stuff to.<br>\r\n<br>\r\n</span></div></span></div>",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Last two characters originating from PCB are:<br>\r\n<br>\r\n<a class=\"duLink\" rel=\"nofollow\" href=\"http://touhou.wikia.com/wiki/Ran_Yakumo\">Ran Yakumo,</a> \u00a0<a title=\"New Window\" href=\"http://touhou.wikia.com/wiki/Ran_Yakumo\" rel=\"nofollow\" target=\"_blank\"><img loading=\"lazy\" style=\"opacity:.4;\" src=\"https://www.Writing.Com/nw.gif\" onmouseover=\"$(this).css('opacity', '1');\" onmouseout=\"$(this).css('opacity', '.4');\" height=\"12\" width=\"12\" border=\"0\"></a> Chen's master<br>\r\n<br>\r\nand<br>\r\n<br>\r\n<a class=\"duLink\" rel=\"nofollow\" href=\"http://touhou.wikia.com/wiki/Yukari_Yakumo\">Yukari Yakumo, </a> \u00a0<a title=\"New Window\" href=\"http://touhou.wikia.com/wiki/Yukari_Yakumo\" rel=\"nofollow\" target=\"_blank\"><img loading=\"lazy\" style=\"opacity:.4;\" src=\"https://www.Writing.Com/nw.gif\" onmouseover=\"$(this).css('opacity', '1');\" onmouseout=\"$(this).css('opacity', '.4');\" height=\"12\" width=\"12\" border=\"0\"></a> Ran's master.<br>\r\n<br>\r\nPick one to spit out as an egg and do stuff to.<br>\r\n<br>\r\n</span></div></span></div>",
             "created":1276405200,
             "id":899136,
             "title":"Line of Shikigami Power"
@@ -6742,7 +6746,7 @@
                 "Command May on what to do next",
                 "Explore Sarah\u2019s body with the help of May."
             ],
-            "content":"<div class=\"\"><div> <span>Author\u2019s note: I did not see a physical description for Sarah so I took a few liberties. <img style=\"\" src=\"https://images.Writing.Com/imgs/writing.com/writers/e15/heart.png\" alt=\"*Heart*\" class=\"emoteZ\" title=\"Heart\" border=\"0\" width=\"15\" height=\"15\"><br>\r\n___________________________________________<br>\r\n<br>\r\n<br>\r\nYou decide to go for it.<br>\r\n<br>\r\nYou lay dormant in wait as she raises the glass to her mouth. You can feel her breath wash over you as she starts to tilt the glass towards the ceiling. You roll out and down her throat, and she notices immediately that you are less like water, and more like a thick goo. She begins to panic as the last bit of you makes your way into her stomach. <br>\r\n<br>\r\nAll of your senses go numb, and after a few seconds, you open your eyes to find you're standing in Sarah\u2019s place. You run her hands down your front as you get used to this feeling. Being in May had been one thing, but now that Sarah responds to your every command, everything feels different. For starters, Sarah was older, and a bit more filled out in her body than May. <br>\r\n<br>\r\nSarah is currently on a purple hair trend, since that is popular, and she had it cut to just past shoulder length. Bringing your hands to her lips, you notice how full and cute they are. When she actually keeps her mouth shut, she is super beautiful. Next, you slide your hands down over her modest B cups. She isn\u2019t the biggest in terms of size, but she has always been in the shadow compared to Laura, one of the reasons you figure she fears Laura. You give them each a squeeze, and are delighted of the sensation that comes back to you.<br>\r\n<br>\r\nAs you are feeling the pleasures of your new womanhood an idea pops into your mind.</span></div></div>",
+            "content":"<div class=\"\"><div> <span>Author\u2019s note: I did not see a physical description for Sarah so I took a few liberties. <img loading=\"lazy\" style=\"\" src=\"https://images.Writing.Com/imgs/writing.com/writers/e15/heart.png\" alt=\"*Heart*\" class=\"emoteZ\" title=\"Heart\" border=\"0\" width=\"15\" height=\"15\"><br>\r\n___________________________________________<br>\r\n<br>\r\n<br>\r\nYou decide to go for it.<br>\r\n<br>\r\nYou lay dormant in wait as she raises the glass to her mouth. You can feel her breath wash over you as she starts to tilt the glass towards the ceiling. You roll out and down her throat, and she notices immediately that you are less like water, and more like a thick goo. She begins to panic as the last bit of you makes your way into her stomach. <br>\r\n<br>\r\nAll of your senses go numb, and after a few seconds, you open your eyes to find you're standing in Sarah\u2019s place. You run her hands down your front as you get used to this feeling. Being in May had been one thing, but now that Sarah responds to your every command, everything feels different. For starters, Sarah was older, and a bit more filled out in her body than May. <br>\r\n<br>\r\nSarah is currently on a purple hair trend, since that is popular, and she had it cut to just past shoulder length. Bringing your hands to her lips, you notice how full and cute they are. When she actually keeps her mouth shut, she is super beautiful. Next, you slide your hands down over her modest B cups. She isn\u2019t the biggest in terms of size, but she has always been in the shadow compared to Laura, one of the reasons you figure she fears Laura. You give them each a squeeze, and are delighted of the sensation that comes back to you.<br>\r\n<br>\r\nAs you are feeling the pleasures of your new womanhood an idea pops into your mind.</span></div></div>",
             "created":1580792400,
             "id":2782287,
             "title":"Enter by Mouth or Nose"
@@ -7936,7 +7940,7 @@
         },
         "145212222222":{
             "author_id":"hybhyb",
-            "author_name":"wellgreens\u00e2\u0080\u008f",
+            "author_name":"wellgreens\u200f",
             "choices":[
                 "Ty Lee",
                 "no"
@@ -8000,7 +8004,7 @@
         },
         "1452122222222":{
             "author_id":"hybhyb",
-            "author_name":"wellgreens\u00e2\u0080\u008f",
+            "author_name":"wellgreens\u200f",
             "choices":[
                 "yes",
                 "no"
@@ -8447,7 +8451,7 @@
         },
         "145222222":{
             "author_id":"hybhyb",
-            "author_name":"wellgreens\u00e2\u0080\u008f",
+            "author_name":"wellgreens\u200f",
             "choices":[
                 "yes",
                 "no"
@@ -8459,7 +8463,7 @@
         },
         "1452222221":{
             "author_id":"hybhyb",
-            "author_name":"wellgreens\u00e2\u0080\u008f",
+            "author_name":"wellgreens\u200f",
             "choices":[
                 "Nami, the beautiful navigator",
                 "more"
@@ -8511,7 +8515,7 @@
         },
         "14522222212":{
             "author_id":"hybhyb",
-            "author_name":"wellgreens\u00e2\u0080\u008f",
+            "author_name":"wellgreens\u200f",
             "choices":[
                 "Nico Robin ",
                 "next"
@@ -10987,7 +10991,7 @@
         },
         "15133":{
             "author_id":"hybhyb",
-            "author_name":"wellgreens\u00e2\u0080\u008f",
+            "author_name":"wellgreens\u200f",
             "choices":[
                 "Bumblebee",
                 "other"
@@ -10999,7 +11003,7 @@
         },
         "151332":{
             "author_id":"hybhyb",
-            "author_name":"wellgreens\u00e2\u0080\u008f",
+            "author_name":"wellgreens\u200f",
             "choices":[
                 "Blackfire",
                 "other"
@@ -11011,7 +11015,7 @@
         },
         "1513322":{
             "author_id":"hybhyb",
-            "author_name":"wellgreens\u00e2\u0080\u008f",
+            "author_name":"wellgreens\u200f",
             "choices":[
                 "Argent ",
                 "there's still more?"
@@ -11587,7 +11591,7 @@
         },
         "1552":{
             "author_id":"hybhyb",
-            "author_name":"wellgreens\u00e2\u0080\u008f",
+            "author_name":"wellgreens\u200f",
             "choices":[
                 "Kimiko Tohomiko cute fire user",
                 "Wuya sexy evil witch (non-ghost form)",
@@ -12517,6 +12521,7 @@
         "description":"<td align=\"left\" class=\"norm\">You are a boy named Anthony. One day you accidentally swallow a magic seed, soon after you think about a fictional girl and you somehow spit out an egg that is slightly bigger than your mouth, the soon grows to a size that could contain the girl you thought about, hatches into the girl, but without a mind or free will, she has all of the original's memories, and is your obedient servant. Now you can spit out an egg of a fictional girl the same way whenever you want to, but it will hurt your throat, so you can't do it too many times in a short period of time. Because of the seed, you can also now turn into liquid, and enter a girl's body through any opening in her body, if it is a girl who isn't your servant, then she will become just like one of your fictional girl servants if you want her to.<br>\r\n<br>\r\nYou can control any of your fictional girl servants with your mind, make them be living puppets or living dolls, make them living robots, transfer your spirit into one of their bodies, physically enter their bodies and take over them in several ways, make them say anything you want them to by thinking it, and make a personality for them that you can change or take away at any time. You can undo anything that I mentioned above any time you want.<br>\r\n<br>\r\nRules:<br>\r\n<br>\r\nNo gay/lesbian stuff or incest (although you can have fun with a female family member's body if you want, just so long as you don't have sex with them).<br>\r\n<br>\r\nKeep any names of characters the same throughout the story.<br>\r\n<br>\r\nNo killing off Anthony or ending the story.<br>\r\n<br>\r\nYou can only do the things I mentioned about with girls, not boys.<br>\r\n<br>\r\nNo turning Anthony evil or changing his personality.<br>\r\n<br>\r\nOnly Anthony can gain these abilities.<br>\r\n<br>\r\nUse proper grammar and spelling.<br>\r\n<br>\r\nNo vore or weight gain.<br>\r\n<br>\r\nIf I find out that someone who adds has stolen someone else's chapter, and then posted it as their own, then I'll delete it.<br>\r\n<br>\r\nCharacters who can transform between girl forms and boy forms will be in girl form the whole time, with no traces of the boy form.<br>\r\n<br>\r\nIf there is ever a debate on the gender of a character, then ask me, and I'll decide. Characters that are counted as female:<br>\r\nHaku (There is no way that Haku is a boy in my opinion, for several reasons).<br>\r\nVivian (In the English version of Paper Mario the Thousand Year Door it is true without a doubt, and by what I understand, the info in the journal about the characters in the Japanese version comes from Mario's point of view, and since Beldam calls Vivian a man during an insult, Mario could quite possibly only believe it to be true).<br>\r\n<br>\r\nAny character who in their series is called a god will be considered a powerful spirit instead in this story.<br>\r\n<br>\r\nYou can have Anthony know about any series you want, or not know about a series.<br>\r\n<br>\r\nIf there is a character who doesn't have a specific gender, you may create a female version just like you can create a girl who is naturally female.<br>\r\n<br>\r\nPlease put up a picture of the fictional girls during the option chapter they appear in. (I'll do my best to edit the chapters already up to include images). Don't hesitate to use pictures of what the replica (or Anthony possessing the replica) is doing.<br>\r\n<br>\r\nThere may be other things I'm forgetting, so everything else is fair game unless I remember anything else and add it.<br>\r\n<br>\r\nAnthony: 16 years old. A lone-wolf, but not a mean person and is very stubborn. Will always be there for his friends if he can; become his enemy and you will have a hard time. He is not a lone-wolf towards his friends. Tall, with dark brown hair and dark brown eyes. Wears dark blue jeans or shorts, black shoes, with the shirts he wears being either completely dark blue, completely yellow, completely red, very dark blue with the word Nintendo written on the front, or black with a picture of Sonic on the front.<br>\r\n<br>\r\nOther Characters (Note, there are changes, due to the fact that one woman having as many kids as Diana did in the original is unrealistic):<br>\r\n<br>\r\nLaura: Anthony's older sister by a few months. 16 years old. She wears brown boots, jeans, and a black shirt. She has blond hair. She is a very selfish person who thinks she is better than everyone else. She still cares for her siblings, and unknown to them, has threatened Sarah to not let Zoey know the truth after kicking her butt, since Zoey cares for her step siblings and step father, and Laura doesn't want to risk Zoey distancing herself from them. Kimberly kept custody of her after the divorce.<br>\r\n<br>\r\nZack: Anthony's older brother. 20 years old. Gets along with Anthony and and the rest of their siblings, except Laura, although both care for each other. Zoey thinks Zack is just a friend of Anthony's. Kimberly kept custody of him after the divorce. Has a crush on Mary, but due to being step siblings, feels awkward about it, so he doesn't tell her. He doesn't know she feels the same way.<br>\r\n<br>\r\nKimberly: Anthony's 42 year old mother. She wears black high heels, a grey skirt, and a grey shirt. She has long brown hair. A very kind person, she cares about other people and tries to help them if they need it. Sad that her family was split apart, but she and Henry just couldn't make it last.<br>\r\n<br>\r\nSarah: Anthony's older step sister. 17 years old. She's shallow, liking only what's popular, and is a real witch (Not literally, just personality wise, and I won't write the word originally used to describe her that was used by the person who created her) towards Anthony and friends. Always dyes her hair to whatever hair color is popular. Fears Laura.<br>\r\n<br>\r\nAnna: Anthony's younger step sister. 15 years old. Just started the swim team 3 months ago. She has a long, straight golden hair, average eyes, pointy nose, and her mouth is not big, but not small, and she always smile in front of people, and giggles as she talks, which makes her look cute on the face. She is thin, and moderately short, around 160+cm in height, she has the breast of C-cup sized, it's not that big. She is also good in sports, and intelligent in her work, and she is popular among her age group, but not exactly as popular as school models. She looks up to and respects Anthony. She loves anime and video games. She wears a wide variety of clothes, but wears a green one-piece bathing suit while swimming. She has a crush on Anthony, but feels awkward about it, due to Zoey not knowing, and them being step siblings, so she hides it.<br>\r\n<br>\r\nAndy: Anthony's younger brother. 13 years old. Loves video games. Has a crush on Bethany, although she doesn't know (more info will be added when someone expands upon it).<br>\r\n<br>\r\nZoey: Anthony's younger step sister. 10 years old. She is majorly in love with Anthony, but due to thinking that they are actually related, she feels awkward about her feelings and hides them, acting like she just has a brother complex, however, if she found out the truth, she would make no effort to hide her feelings. She likes her friends, and unlike Sarah, she doesn't like populars or following them. She has a shortish, light brown hair in pigtails, amber-colored eyes and a smile that fits greatly on her face. She has normal breasts, not too big because she's so young. She wears mostly skirts and shirts, but she has some jeans, and sometimes she wears dresses, she loves all colors equally, and thus, she has many different colors of clothing. She likes candy (mainly chocolate), playing videogame, and she loves love stories. Anthony likes her too and they've always gotten along. She has the personality of a cute 10 year innocent girl, she wouldn't do anything bad even if forced to. She knows her brother is a nice person and inspires in him. She loves being praised and is a hard worker. Would do everything for her brother.<br>\r\n<br>\r\nMia: Anthony's twin sister who gets along with him very well. Her favorite fictional character is Mia from the Fire Emblem series, because they share the same name, and similar personalities. She naturally has black hair, but always dyes it purple in order to be like her favorite character. She is almost always wearing a skirt or dress. She likes sports (one of the few kinds of things that she doesn't wear a skirt for), but can't stand cheerleaders. She is easily excitable, more so when she has some kind of sugar (which is why she usually isn't allowed by her family to have any when at home or out at a family event). <br>\r\n<br>\r\nWhen she has some kind of sugar, then she gets so hyper that she sometimes starts pulling pranks, although they're never harmful. She is an odd mix of being a tomboy and girly-girl, but gets annoyed with girls who are complete girly-girls. Shares Anthony's love of the sword, anime, and video games, but because of how hyper she is, she hardly ever reads books, because she think they're too boring for the most part.. She's a little faster than Anthony, but a little weaker. She is also a couple minutes younger than him.<br>\r\n<br>\r\nMary: Anthony's older step sister who is in college. 21 years old. Waist length, dark brown hair kept in a ponytail, same eyes as Anthony, shorter than Anthony but athletic. Humble and willing to help out. She enjoys playing video games with Anthony a bit. Likes spending time with friends and Anthony when possible. Adapt at video games somewhat (not as much as Anthony or the others), pretty fast as she almost beat a track record. Nimble as well (as in she could be an excellent thief if she desired) She likes sticking up for people when they feel oppressed, she has a strong sense of justice, and she is a tomboy. Prefers to wear a lavender sweater over a white tank top, along regular jeans and white shoes. She has a crush on Zack, but since they are step siblings, feels awkward about it, and doesn't tell him. She doesn't know that he feels the same way.<br>\r\n<br>\r\nDiana: Anthony's step mother. She is a widow, with her late husband being Henry's distant cousin. She married Henry a little over a year after her late husband's death, during that time, Zoey was born. Since Henry has the same last name as her married name, Zoey hasn't been able to find anything weird about it that could cause her to figure out. (This is all for her for now, I'll update it if/when she is used again)<br>\r\n<br>\r\nHenry: Anthony's father. 42 years old. Is in the military, but his section hasn't been called in to outside conflict at the time. He is about to begin some military training required, and won't be back for two weeks. He'll either leave while Anthony is at school, or the next day, depending on who is writing. Originally married to Kimberly, but they couldn't make it last. All of his kids blame him for splitting up the family. (more info will be added when someone expands upon it).<br>\r\n<br>\r\nTekki: Anthony's best friend. He's a genius, a loyal friend, and can be a bit random at times. He has white hair and brown eyes, is about a head shorter than Anthony, and just wears general clothes, as he doesn't have a preference.<br>\r\n<br>\r\nAmy: She's been friends with Anthony ever since their first day of middle school. She is kind, loyal, and very talented. Her breasts are a good size for her age. She has long, brown hair that she keeps in a ponytail, with blue eyes. The clothes she likes to wear the most are a purple shirt with a black skirt or black shorts. She always wears either a pair of black, knee high boots, a pair of dark blue tennis shoes, or a pair of black high heels, but she always takes the ones she doesn't wear with her (In case she wants to wear another pair at some point) in a purple book bag that she carries around all the time, and who knows what else she has in the book bag?<br>\r\n<br>\r\nGred: A relatively dumb, but extremely muscly and mean quarterback for the school team.<br>\r\n<br>\r\nNancy: The leader of Sarah's popular group and head cheerleader. Blond hair<br>\r\n<br>\r\nJenny: A girl who hangs out with Amy a lot. (In some storylines she can't stand Anthony, but he doesn't know that)<br>\r\n<br>\r\nBrianna: 16 years old. She has long white hair, dark skin and bright green eyes. She wears a red, white, and blue jacket with a Puerto Rican flag on the backside. She also wears a pair of pitch black jeans and red and white chucks. Laid back, yet somehow, easily excitable. She loves video games.<br>\r\n<br>\r\nIf you create a character, then you must give the details about them, such as their appearance and personality.<br>\r\n<br>\r\nIn this story, you have just finished school for the year.</td>",
         "id":1329173,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1589399400,
         "modified":1589399400,
         "pretty_title":"Fictional girl replicas"
     }

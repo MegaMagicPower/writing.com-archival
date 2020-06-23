@@ -54,6 +54,7 @@
             "title":"The Curse Begins"
         },
         "11111":{
+            "author_name":"Assassin",
             "choices":[
                 "Continued to lie to get fatter",
                 "Shake off her thoughts and continue into the house"
@@ -265,6 +266,7 @@
             "title":"Ice cream shop confusion."
         },
         "111111211212111111111211":{
+            "author_name":"CyberNinja",
             "choices":[
                 "Flash asks her out to a moive.",
                 "Rogue agrees to train the cities' special ops teams."
@@ -515,6 +517,7 @@
             "title":"Normal proportions again....kinda..."
         },
         "111111211212111111212211211221221121":{
+            "author_name":"CyberNinja",
             "choices":[
                 "The north and west half",
                 "the south and east half"
@@ -525,6 +528,7 @@
             "title":"Flash offers a tour"
         },
         "1111112112121111112122112112212211211":{
+            "author_name":"CyberNinja",
             "choices":[
                 "The north secotr",
                 "The west sector"
@@ -1800,6 +1804,7 @@
             "title":"\"This is how the curse works.\""
         },
         "11122":{
+            "author_name":"Emerl",
             "choices":[
                 "trys to get out",
                 "yells for help"
@@ -1966,6 +1971,7 @@
             "title":"The Lab"
         },
         "11322121":{
+            "author_name":"Emerl",
             "choices":[
                 "Drinks the Red Potion",
                 "Drinks the Blue Potion"
@@ -1986,6 +1992,7 @@
             "title":"Red potion"
         },
         "113221212":{
+            "author_name":"Match",
             "choices":[
                 "Flash standing in the doorway, smirking...",
                 "A machine had started up."
@@ -1996,6 +2003,7 @@
             "title":"Berries..."
         },
         "11322122":{
+            "author_name":"Emerl",
             "choices":[
                 "Sits in the Chair and pushes the button.",
                 "Does something else..."
@@ -2126,6 +2134,7 @@
             "title":"They say ice cream is fattening but this is...."
         },
         "11322222121112":{
+            "author_name":"CyberNinja",
             "choices":[
                 "Searched for clues",
                 "Searched for gems and jewery"
@@ -2176,6 +2185,7 @@
             "title":"Other choices."
         },
         "12":{
+            "author_name":"Random Nintendo Geek",
             "choices":[
                 "\"I should take you to the hospital, now.\"",
                 "\"I guess we can get something to eat...\""
@@ -2228,6 +2238,7 @@
             "title":"Rephrasing."
         },
         "1212":{
+            "author_name":"Random Nintendo Geek",
             "choices":[
                 "\"Lets go find Sonic!\"",
                 "\"Uh...  How about lunch?\""
@@ -2250,6 +2261,7 @@
             "title":"Where Shall We Eat?"
         },
         "121221":{
+            "author_name":"Random Nintendo Geek",
             "choices":[
                 "How about dessert?",
                 "I guess we can go look for Sonic now."
@@ -2360,6 +2372,7 @@
             "title":"Creme and Cheese In a Lab...Not a Good Thing"
         },
         "131":{
+            "author_name":"Random Nintendo Geek",
             "choices":[
                 "A large feeding tube was put into her mouth.",
                 "A claw began to grab some food."
@@ -2370,6 +2383,7 @@
             "title":"Cream and the Machine"
         },
         "1312":{
+            "author_name":"Random Nintendo Geek",
             "choices":[
                 "The machine began to go berserk.",
                 "Flash came in."
@@ -2392,6 +2406,7 @@
             "title":"Cake-Stuffed Creme"
         },
         "131212":{
+            "author_name":"Random Nintendo Geek",
             "choices":[
                 "Can I get a snack?",
                 "Can I take a nap?"
@@ -2414,6 +2429,7 @@
             "title":"Creme is Dreaming"
         },
         "13121222":{
+            "author_name":"Random Nintendo Geek",
             "choices":[
                 "She decided to eat more ice cream.",
                 "She decided to look for some different food to eat."
@@ -3445,6 +3461,7 @@
         "description":"<td align=\"left\" class=\"norm\">This is based on the storyline of the Sonic Adventure games, and all types of expansion are allowed, just as long as they remain clean. Have fun!</td>",
         "id":711637,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1481342580,
         "modified":1481342580,
         "pretty_title":"Sonic Adventure: Expansion Version"
     }

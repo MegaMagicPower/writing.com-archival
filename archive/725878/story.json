@@ -50,6 +50,7 @@
             "title":"Strike three! You're OUT!"
         },
         "11111":{
+            "author_name":"Kyambu Varna",
             "choices":[
                 "Who are you?",
                 "Why did I recieve my powers?"
@@ -60,6 +61,7 @@
             "title":"You ask"
         },
         "111111":{
+            "author_name":"mutantfreakxxx",
             "choices":[
                 "Keep the key",
                 "Toss the key"
@@ -80,6 +82,7 @@
             "title":"Keeping the Key."
         },
         "11111112":{
+            "author_name":"Stovek",
             "choices":[
                 "Use your powers",
                 "Just take the test"
@@ -90,6 +93,7 @@
             "title":"The Snake Slithers in Math Class"
         },
         "111111121":{
+            "author_name":"Stovek",
             "choices":[
                 "\"I won't give you the key! You're a time eater!\"",
                 "\"I'll give you the key...\""
@@ -110,6 +114,7 @@
             "title":"The Protecter of the Time-Keepers"
         },
         "11111112111":{
+            "author_name":"Nate the Man",
             "choices":[
                 "Run Home",
                 "Kiss your class crush"
@@ -193,6 +198,7 @@
             "title":"Brutal!"
         },
         "111121":{
+            "author_name":"mew_mew",
             "choices":[
                 "Trouble With the Bully Again",
                 "The End of the Battle"
@@ -353,6 +359,7 @@
             "title":"Does Car Insurance Cover This?"
         },
         "11211":{
+            "author_name":"Shane Fountain",
             "choices":[
                 "Blast the man with your lasers and take all of his money.",
                 "Use your power to create a distraction so that you may run away."
@@ -627,6 +634,7 @@
             "title":"Go on to school"
         },
         "11212":{
+            "author_name":"Nate the Man",
             "choices":[
                 "Kill your friends",
                 "don't tell them"
@@ -637,6 +645,7 @@
             "title":"go hang out"
         },
         "112121":{
+            "author_name":"Nate the Man",
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You blast your  friends. The police hang you.<br>\r\nBye Bye</span></div></span></div>",
             "created":1100840400,
             "id":226096,
@@ -1568,6 +1577,7 @@
             "title":"Seeing Things"
         },
         "11312":{
+            "author_name":"diamanda",
             "choices":[
                 "Try (If at first you don't suceed...)",
                 "Nah (Why waste time?)"
@@ -1578,6 +1588,7 @@
             "title":"A bit of Interior Designing"
         },
         "113121":{
+            "author_name":"diamanda",
             "choices":[
                 "Yes",
                 "No"
@@ -1657,6 +1668,7 @@
             "title":"What's the plan?"
         },
         "11321112":{
+            "author_name":"kuso",
             "choices":[
                 "a gender change",
                 "a brain transplantation"
@@ -1980,6 +1992,7 @@
             "title":"Group Mentality"
         },
         "12121":{
+            "author_name":"diamanda",
             "choices":[
                 "you learn you can go animal",
                 "you learn, nope, only human"
@@ -1990,6 +2003,7 @@
             "title":"Human+Animal or No?"
         },
         "121211":{
+            "author_name":"diamanda",
             "choices":[
                 "Recapture Horatio Cortez",
                 "Search for the missing girl, one Melissa Ruther"
@@ -2000,6 +2014,7 @@
             "title":"Battle Plan/Blitz"
         },
         "1212111":{
+            "author_name":"diamanda",
             "choices":[
                 "Continue"
             ],
@@ -2009,6 +2024,7 @@
             "title":"Morphiheeheehee!!"
         },
         "1212112":{
+            "author_name":"diamanda",
             "choices":[
                 "You can",
                 "Alas, but you cannot"
@@ -2019,6 +2035,7 @@
             "title":"shortchappieofgateways"
         },
         "12121121":{
+            "author_name":"diamanda",
             "choices":[
                 "SHOPPING SPREE!",
                 "Donate to Charity"
@@ -2029,6 +2046,7 @@
             "title":"Rescue"
         },
         "121211211":{
+            "author_name":"diamanda",
             "choices":[
                 "Yeah",
                 "R u crazy?"
@@ -2224,6 +2242,7 @@
             "title":"An Unfortunate Moment of Brilliance"
         },
         "123122":{
+            "author_name":"misshero82",
             "choices":[
                 "Offiver arrests her",
                 "Officer is impresssed"
@@ -2306,6 +2325,7 @@
         "description":"<td align=\"left\" class=\"norm\">In this interactive story you will get a chance to be a superhero!</td>",
         "id":725878,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1588022340,
         "modified":1588022340,
         "pretty_title":"Superhero"
     }

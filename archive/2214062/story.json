@@ -29,6 +29,90 @@
             "created":1582866000,
             "id":2794322,
             "title":"Welcome to the MCU"
+        },
+        "11":{
+            "author_id":"giantess18",
+            "author_name":"Haro-Haze",
+            "choices":[
+                "Iron Man ",
+                "Iron Man 2",
+                "Captain America",
+                "Thor",
+                "The Avengers"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The marvel movies in Phase 1 include Iron Man, Iron Man 2, Thor, Captain America, and the Avengers</span></div></span></div>",
+            "created":1591678800,
+            "id":2848633,
+            "title":"Phase 1 Movies"
+        },
+        "12":{
+            "author_id":"giantess18",
+            "author_name":"Haro-Haze",
+            "choices":[
+                "Captain America: The Winter Soldier",
+                "Ant-Man",
+                "The Guardians of The Galaxy",
+                "Avengers: Age of Ultron",
+                "Iron Man 3 or Thor: The Dark World"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Phase 2 includes classics such as Ant-Man and The Guardians of the Galaxy.</span></div></span></div>",
+            "created":1591678800,
+            "id":2848638,
+            "title":"Phase 2 Movies"
+        },
+        "13":{
+            "author_id":"giantess18",
+            "author_name":"Haro-Haze",
+            "choices":[
+                "Captain America: Civil War",
+                "Ant-Man & The Wasp",
+                "Spider-Man: Homecoming",
+                "Black Panther",
+                "More Movies"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Phase 3 brings us to the present Marvel Universe concluding with Spiderman: Far From Home.<br>\r\n<br>\r\nThese will be in no particular order.<br>\r\n</span></div></span></div>",
+            "created":1591678800,
+            "id":2848645,
+            "title":"Phase 3 Movies"
+        },
+        "135":{
+            "author_id":"giantess18",
+            "author_name":"Haro-Haze",
+            "choices":[
+                "Captain Marvel",
+                "Thor: Ragnorok",
+                "More Movies"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Continuing on Phase 3</span></div></span></div>",
+            "created":1591678800,
+            "id":2848647,
+            "title":"More Marvel"
+        },
+        "1353":{
+            "author_id":"giantess18",
+            "author_name":"Haro-Haze",
+            "choices":[
+                "Guardians of the Galaxy Vol. 2",
+                "Doctor Strange",
+                "More Movies"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Still more in Phase 3</span></div></span></div>",
+            "created":1591678800,
+            "id":2848649,
+            "title":"Even More Marvel"
+        },
+        "13533":{
+            "author_id":"giantess18",
+            "author_name":"Haro-Haze",
+            "choices":[
+                "Spider-Man: Far From Home",
+                "Avengers: Infinity War",
+                "Avengers: Endgame"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>This ends Phase 3</span></div></span></div>",
+            "created":1591678800,
+            "id":2848650,
+            "title":"More Marvel Still"
         }
     },
     "info":{
@@ -39,7 +123,8 @@
         "description":"<td align=\"left\" class=\"norm\">I'll be separating the movies by phases 1-4 in the main part of the story, with only 1-3 being active for the time being while we wait for the Black Widow movie to be released, kicking off phase 4 despite taking part in the past. Avengers Movies and Civil War essentially being Crossover's between the Movies will be available in the Zero Story, linked in the first chapter. Also in the Zero Story will be Disney Plus shows, and Marvel animated series, and Marvel movies outside of the MCU that can also be added in the zero story ONLY. Exception: Deadpool, why? Because 4th wall break....duh.<br>\r\n<br>\r\nSo again <br>\r\n<br>\r\nMain Storyline:<br>\r\n<br>\r\n1. Marvel Phase 1<br>\r\n2. Marvel Phase 2<br>\r\n3. Marvel Phase 3<br>\r\n4. Marvel Phase 4<br>\r\n5. Marvel Phase 5...when we get there<br>\r\n<br>\r\nZero Story:<br>\r\n<br>\r\n1. ...<br>\r\n2. Avengers, Age of Ultron, Civil War, Infinity War/Endgame, with a spot for future Avenger movies.<br>\r\n3. Non- MCU Marvel Movies<br>\r\n4. Animated Marvel Series<br>\r\n5. Disney+ Series</td>",
         "id":2214062,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1582912800,
+        "last_full_update":0,
+        "modified":1591718640,
         "pretty_title":"Marvel's Cinematic Shrinking"
     }
 }

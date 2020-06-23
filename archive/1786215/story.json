@@ -936,6 +936,56 @@
             "id":2432333,
             "title":"Physical."
         },
+        "12521":{
+            "author_id":"abdwb",
+            "author_name":"Jake",
+            "choices":[
+                "a magic spell cast on her",
+                "a magic potion",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Sam was physically regressing.  This was happening because of magic.  This was caused from...</span></div></span></div>",
+            "created":1592370000,
+            "id":2852994,
+            "title":"Magic."
+        },
+        "125211":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup",
+                "Carly, or someone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did a witch cast this particular spell?</span></div></span></div>",
+            "created":1592370000,
+            "id":2852998,
+            "title":"a magic spell cast on her"
+        },
+        "125212":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "No, Carly had bought it for her, or SE."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Had she stolen it from someone?</span></div></span></div>",
+            "created":1592370000,
+            "id":2852997,
+            "title":"a magic potion"
+        },
+        "125213":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "A magical remote.",
+                "A magic toy she found."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>This happened because of a wish?</span></div></span></div>",
+            "created":1592370000,
+            "id":2852999,
+            "title":"something else"
+        },
         "1253":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
@@ -2990,6 +3040,69 @@
             "created":1586322000,
             "id":2815801,
             "title":"Carly and Freddy"
+        },
+        "143222":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Sure",
+                "Anyone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is it Carly that's punishing them?</span></div></span></div>",
+            "created":1592283600,
+            "id":2852138,
+            "title":"Punished"
+        },
+        "143223":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "yeah",
+                "part of a costume",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>are Sam and Melanie in diapers as part of a new law that was passed?</span></div></span></div>",
+            "created":1592283600,
+            "id":2852134,
+            "title":"Even more reasons."
+        },
+        "1432231":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "It did something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>This new law allowed people to be adopted and treated like babies if they wished?</span></div></span></div>",
+            "created":1592283600,
+            "id":2852137,
+            "title":"yeah"
+        },
+        "14322311":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Carly",
+                "Freddie",
+                "someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>who adopted Sam and Melanie when this Law was put in place?</span></div></span></div>",
+            "created":1592283600,
+            "id":2852146,
+            "title":"Yeah"
+        },
+        "143223111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Carly went through rules.",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>First, they went to get baby supplies?</span></div></span></div>",
+            "created":1592283600,
+            "id":2852147,
+            "title":"Carly"
         }
     },
     "info":{
@@ -3000,7 +3113,8 @@
         "description":"<td align=\"left\" class=\"norm\">The female characters of iCarly get diapered(as you might have guessed). Don't read if you don't like dirty diapers<br>\r\n<br>\r\nrules:<br>\r\n1. no killing off characters<br>\r\n2. diapers are to be used (ok not really a rule a rule but... do it anyway)<br>\r\n3. please no growth or shrinkage unless it's regression, this is a diaper story<br>\r\n4. have fun with it don't be offended if I edit this, I will try to notify as to why<br>\r\n5. chapters that aren't at least a paragraph long will be deleted (exception being choice chapers)<br>\r\n8/2012- I edited the long chain of chapters, so if things look a bit better/worse that's why. Let me know if it was for the better (if anyone remembers/cares).<br>\r\n<br>\r\n*note, I do not own iCarly and creating this is to write about them wearing and using their diapers. This is a work for entertainment purposes only, just to see where people's imaginations take them</td>",
         "id":1786215,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1586898840,
+        "last_full_update":0,
+        "modified":1592452140,
         "pretty_title":"iget diapered"
     }
 }

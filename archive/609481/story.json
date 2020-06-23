@@ -84,6 +84,7 @@
             "title":"The Creatures and the Knife"
         },
         "11112":{
+            "author_name":"moondragon",
             "choices":[
                 "go left",
                 "go right"
@@ -116,7 +117,7 @@
             "title":"The Heavenly Spring (M)"
         },
         "1111222":{
-            "content":"<div class=\"\"><div> <span>You drink from the spring absent of plants. You feel weak all of a sudden, and fall to the ground. A burning pain begins in your stomach and spreads outward. The last thing you ever think is: \"oops\".  The spring you drank from had passed through certain mineral beds, turning it into a quick-acting, powerful poison. You die.<br>\r\n<img style=\"\" src=\"https://images.Writing.Com/imgs/writing.com/writers/e15/frown.png\" alt=\"*Frown*\" class=\"emoteZ\" title=\"Frown\" border=\"0\" width=\"15\" height=\"15\"></span></div></div>",
+            "content":"<div class=\"\"><div> <span>You drink from the spring absent of plants. You feel weak all of a sudden, and fall to the ground. A burning pain begins in your stomach and spreads outward. The last thing you ever think is: \"oops\".  The spring you drank from had passed through certain mineral beds, turning it into a quick-acting, powerful poison. You die.<br>\r\n<img loading=\"lazy\" style=\"\" src=\"https://images.Writing.Com/imgs/writing.com/writers/e15/frown.png\" alt=\"*Frown*\" class=\"emoteZ\" title=\"Frown\" border=\"0\" width=\"15\" height=\"15\"></span></div></div>",
             "created":1126933200,
             "id":273560,
             "title":"Death"
@@ -222,6 +223,7 @@
             "title":"Interpretation (M)"
         },
         "111211211111":{
+            "author_name":"Artemis Noon",
             "choices":[
                 "do you take the path of the star",
                 "do you take the path of the feather"
@@ -419,6 +421,7 @@
             "title":"Going North (F)"
         },
         "11211":{
+            "author_name":"Good",
             "choices":[
                 "Go with Fil",
                 "Go with Gid"
@@ -447,6 +450,7 @@
             "title":"Echoes and Death"
         },
         "1121112":{
+            "author_name":"nightlegend",
             "choices":[
                 "you reach through the small hole.",
                 "you keep walking and ignore the hole."
@@ -541,6 +545,7 @@
             "title":"Follow her inside"
         },
         "112121112":{
+            "author_name":"Eve Rose",
             "choices":[
                 "Go in with the beauty and risk being trapped",
                 "Decline her invitation and risk her possible anger"
@@ -563,6 +568,7 @@
             "title":"Mystery Globe"
         },
         "11212111212":{
+            "author_name":"A.J.Scott",
             "choices":[
                 "Do you go with the elf",
                 "Do you try to find a way out yourself"
@@ -695,6 +701,7 @@
             "title":"Spirit Warriors"
         },
         "1121222":{
+            "author_name":"Rob",
             "choices":[
                 "Stay where you are.",
                 "Cross the desert."
@@ -705,6 +712,7 @@
             "title":"Desert or Forest? (F)"
         },
         "11212221":{
+            "author_name":"butterfly",
             "choices":[
                 "Go back to help the creature",
                 "Continue running through the forest"
@@ -896,6 +904,7 @@
             "title":"Out of the frying pan..."
         },
         "112212":{
+            "author_name":"Janiya",
             "choices":[
                 "Agree to let Leeara come along",
                 "Tell her that she can't come"
@@ -918,6 +927,7 @@
             "title":"Your New Companion (F)"
         },
         "11221212":{
+            "author_name":"Dreamagurl",
             "choices":[
                 "You get scared and run",
                 "You use your powers of light"
@@ -938,6 +948,7 @@
             "title":"Running"
         },
         "112212122":{
+            "author_name":"Kuro",
             "choices":[
                 "Take away the light and hear Meldorv's story",
                 "Intensify the light and make Meldorv your slave"
@@ -1102,6 +1113,7 @@
             "title":"Freedom (M)"
         },
         "121121":{
+            "author_name":"maga",
             "choices":[
                 "Take the boat ride",
                 "Swim"
@@ -1188,6 +1200,7 @@
             "title":"Ho Hum (M)"
         },
         "1211221":{
+            "author_name":"Silver Dragon",
             "choices":[
                 "Engage the lumbering creature in conversation",
                 "Make it go dark and slip away while he's not looking"
@@ -1279,6 +1292,7 @@
             "title":"The Rabbit (M)"
         },
         "12121112":{
+            "author_name":"Zak",
             "choices":[
                 "Put on the hood of invisibility, and run away",
                 "Gang up on the centaur while hes down and get information."
@@ -1289,6 +1303,7 @@
             "title":"Corruption"
         },
         "121211122":{
+            "author_name":"mystic",
             "choices":[
                 "You decide to attack him head on",
                 "Use your cloak and attack him that way."
@@ -1299,6 +1314,7 @@
             "title":"Chapter 9: Centurin"
         },
         "1212111221":{
+            "author_name":"mystic",
             "choices":[
                 "You try to dodge the dagger",
                 "You try to use your cloaks invisibility"
@@ -1331,6 +1347,7 @@
             "title":"Inisible at last"
         },
         "1212111222":{
+            "author_name":"mystic",
             "choices":[
                 "You command your shadow to save you",
                 "you try to avoid the blade"
@@ -1429,6 +1446,7 @@
             "title":"Bye Shadow (M)"
         },
         "121221":{
+            "author_name":"Joe",
             "choices":[
                 "turn invisible and summon your shadow friend.",
                 "turn invisible and summon the dead dwarve's spirit."
@@ -1439,6 +1457,7 @@
             "title":"Attack"
         },
         "1212212":{
+            "author_name":"wrighter555",
             "choices":[
                 "Go back to hiding and run",
                 "Stand and fight"
@@ -1529,6 +1548,7 @@
             "title":"Stay in Winifred's House tonight"
         },
         "122122":{
+            "author_name":"misstimountaincop",
             "choices":[
                 "Go to F'lorin's to fix your magical arrows?",
                 "Go to Samada's to eat and sleep for the night."
@@ -1539,6 +1559,7 @@
             "title":"Friend or Foe? (F)"
         },
         "1221222":{
+            "author_name":"misstimountaincop",
             "choices":[
                 "Join Samada, and look at the map later?",
                 "Take the map, and find your own way to the castle?"
@@ -1549,6 +1570,7 @@
             "title":"There Must Be A Way! (F)"
         },
         "12212221":{
+            "author_name":"misstimountaincop",
             "choices":[
                 "Find F'lorin to fix the arrows first?",
                 "Train with Samada, so you can use your majical powers?"
@@ -1559,6 +1581,7 @@
             "title":"A Gift from the Woodlands... (F)"
         },
         "122122211":{
+            "author_name":"misstimountaincop",
             "choices":[
                 "Go back to Smada's house, train for war, and share the Prophecy?",
                 "Have F'Lorin mend your arrows?"
@@ -1837,6 +1860,7 @@
             "title":"your course (M)"
         },
         "13111":{
+            "author_name":"Finneas Macabre",
             "choices":[
                 "continue"
             ],
@@ -1846,6 +1870,7 @@
             "title":"Cramming for your first test (M)"
         },
         "131111":{
+            "author_name":"Finneas Macabre",
             "choices":[
                 "Take out the last one first",
                 "Try to split them up"
@@ -1891,7 +1916,7 @@
         },
         "1311111111":{
             "author_id":"honeycombs",
-            "author_name":"\u00c2\u00a7onny- Feel the Hate.",
+            "author_name":"\u00a7onny-",
             "choices":[
                 "You ask to learn their survival skills."
             ],
@@ -1901,6 +1926,7 @@
             "title":"Elvish Powers"
         },
         "1311111112":{
+            "author_name":"purpletwilight",
             "choices":[
                 "Avoid Domarian",
                 "Confront Domarian"
@@ -1921,6 +1947,7 @@
             "title":"Avoid Domarian"
         },
         "1311112":{
+            "author_name":"Finneas Macabre",
             "choices":[
                 "Wait for the other two Orcs to return",
                 "Go looking for the other two Orcs"
@@ -1931,6 +1958,7 @@
             "title":"Bloodied Hands (M)"
         },
         "13111121":{
+            "author_name":"Finneas Macabre",
             "choices":[
                 "Run Like Hell",
                 "Stick around and see who else hates orcs."
@@ -1941,6 +1969,7 @@
             "title":"Tidying Up (M)"
         },
         "131111212":{
+            "author_name":"Finneas Macabre",
             "choices":[
                 "Go with the elves to their city",
                 "Get some more infomation first"
@@ -2011,6 +2040,7 @@
             "title":"Pick off the charging orcs and hope for the best"
         },
         "1311112122":{
+            "author_name":"Finneas Macabre",
             "choices":[
                 "Find your own way.",
                 "Join Derin, and see his city."
@@ -2021,6 +2051,7 @@
             "title":"Going to the City Anyway (M)"
         },
         "13111121222":{
+            "author_name":"Finneas Macabre",
             "choices":[
                 "continue"
             ],
@@ -2041,6 +2072,7 @@
             "title":"The Test"
         },
         "13111122":{
+            "author_name":"blackdragon",
             "choices":[
                 "Go up",
                 "Go to the river"
@@ -2052,7 +2084,7 @@
         },
         "131111222":{
             "author_id":"honeycombs",
-            "author_name":"\u00c2\u00a7onny- Feel the Hate.",
+            "author_name":"\u00a7onny-",
             "choices":[
                 "You go and get the bag."
             ],
@@ -2096,6 +2128,7 @@
             "title":"Passing of the sword"
         },
         "13112":{
+            "author_name":"blackdragon",
             "choices":[
                 "Help the man",
                 "Go around him leaving him to die"
@@ -2128,6 +2161,7 @@
             "title":"Joining up"
         },
         "1311212":{
+            "author_name":"Joe",
             "choices":[
                 "You accept his guidance",
                 "You say,  \"No thanks, but I can get along by myself\""
@@ -2150,6 +2184,7 @@
             "title":"New Nature (M)"
         },
         "13121":{
+            "author_name":"Joe",
             "choices":[
                 "Help the strange rock.",
                 "Scorn the strange rock and walk away."
@@ -2172,6 +2207,7 @@
             "title":"Confrontation (M)"
         },
         "1312111":{
+            "author_name":"Scratch",
             "choices":[
                 "Sword",
                 "Cloak"
@@ -2183,7 +2219,7 @@
         },
         "13121111":{
             "author_id":"honeycombs",
-            "author_name":"\u00c2\u00a7onny- Feel the Hate.",
+            "author_name":"\u00a7onny-",
             "choices":[
                 "You begin your journey to the River of Dan."
             ],
@@ -2271,6 +2307,7 @@
             "title":"Forget the rock and leave"
         },
         "13122":{
+            "author_name":"Joe",
             "choices":[
                 "Enter the portal.",
                 "Continue on your way."
@@ -2406,6 +2443,7 @@
             "title":"Have breakfast in the room."
         },
         "132111111112":{
+            "author_name":"Super Sheep!",
             "choices":[
                 "Tell her the full truth",
                 "Lie"
@@ -2545,6 +2583,7 @@
             "title":"Faith"
         },
         "1321112":{
+            "author_name":"hotstuff",
             "choices":[
                 "Follow him!",
                 "Remain on course."
@@ -2634,6 +2673,7 @@
             "title":"The Kiss (F)"
         },
         "1321112112111":{
+            "author_name":"RonaldWeasley",
             "choices":[
                 "Accept readily.",
                 "Decline."
@@ -2678,6 +2718,7 @@
             "title":"Cautious Choices"
         },
         "1321112122":{
+            "author_name":"prettypixy",
             "choices":[
                 "Run from him...remember trust no one",
                 "Ask why he roams this wood"
@@ -2723,7 +2764,7 @@
         },
         "13211122":{
             "author_id":"honeycombs",
-            "author_name":"\u00c2\u00a7onny- Feel the Hate.",
+            "author_name":"\u00a7onny-",
             "choices":[
                 "You walk over to the orc and pick up the sword and the bag, and then continue yo",
                 "You continue on quest without bothering to look in the bag or get the sword"
@@ -2734,6 +2775,7 @@
             "title":"The sniper."
         },
         "132111221":{
+            "author_name":"Empress Sun",
             "choices":[
                 "Eat one of the seeds",
                 "Plant one of the seeds in the ground"
@@ -2815,6 +2857,7 @@
             "title":"The Calling"
         },
         "1321112212":{
+            "author_name":"Solara",
             "choices":[
                 "The first rock, and head West",
                 "The second rock, and head East"
@@ -2825,6 +2868,7 @@
             "title":"You've planted the seed"
         },
         "13211122121":{
+            "author_name":"KarenP6",
             "choices":[
                 "The dark man submits to the Elfs request and escorts her on her quest..",
                 "The dark man retorts knowing that the Elf needs him as well and he challenges he"
@@ -2993,6 +3037,7 @@
             "title":"The House of Mikia (F)"
         },
         "132112111":{
+            "author_name":"Timeless",
             "choices":[
                 "Stay",
                 "Go into the forest to find the traveler"
@@ -3082,6 +3127,7 @@
             "title":"You decline the meal and ask for answers"
         },
         "13211212":{
+            "author_name":"Jazz",
             "choices":[
                 "You continue asking questions about why your here.",
                 "You continue asking questions about the Items Of Talca."
@@ -3155,6 +3201,7 @@
             "title":"Burial (F)"
         },
         "132121121":{
+            "author_name":"Jessica",
             "choices":[
                 "Take along the frog.",
                 "Try to get information from the frog."
@@ -3177,6 +3224,7 @@
             "title":"Glory Turns Ugly (F)"
         },
         "13212112111":{
+            "author_name":"Hino Rei-san",
             "choices":[
                 "Continue to walk through the night.",
                 "Stop for the night, set up camp."
@@ -3199,6 +3247,7 @@
             "title":"To trust or not"
         },
         "1321211211112":{
+            "author_name":"Paula",
             "choices":[
                 "You trust them, and stay at their camp",
                 "You question them more, to prove they're not enemies"
@@ -3219,12 +3268,14 @@
             "title":"You question them more, to prove they're no..."
         },
         "13212112112":{
+            "author_name":"Celebrian",
             "content":"<div class=\"\"><div> <span> You take out your rod and get into fighting stance. You can feel the dark elf coming nearer. The little frog then poked his head out of your pocket, \"Why not use your bow?\"<br>\r\n    \"I'm not really sure how to use it yet,\" you tell him feeling stupid.<br>\r\n  The frog seemed to shrug and then slipped back into your pocket. You wait straining your ears trying to hear the dark elve's foot steps and heard nothing. <br>\r\n      Suddenly you are knocked to the ground,  great pain shoots up your arm. You have been shot obviously by the dark elf. Struggling you get to your feet and yank out the arrow crying out in pain.<br>\r\n    You look around frantically tring to spot the enemy. The trees seem to tell you to look in their direction. You obey and spot him hidden in the shadows of the trees getting ready to fire another arrow.<br>\r\n    This time you take him by suprise and charge towards him. You manage to hit the dark elf hard on the shoulder. He reacts quickly and whips out his knife and stabs you in the stomach. You fall to your knees knowing you have failed the wizard.<br>\r\n   You notice the little frog hop out of your pocket and stand in front of the dark elf as to confront him. The dark elf laughs and lifts up his foot to crush the brave frog.<br>\r\n     You can't bear to watch and turn away. You expect to hear the crushing of bones but instead you hear the cries of the dark elf.<br>\r\n               Weakly you turn to look at what was happening. A wolf was in place of the frog attacking the dark elf merciesly. When his cries fell silent the wolf backed away and a bright light surrounded him. <br>\r\n     When the light faded a male elf took his place. The elf approaches you and kneels down beside you. \"Sleep,\" he whispers into your ear and you obey.<br>\r\n                      </span></div></div>",
             "created":1051246800,
             "id":154727,
             "title":"An Unexpected Event"
         },
         "1321211212":{
+            "author_name":"Hino Rei-san",
             "choices":[
                 "You take the frog with you, maybe he can find out more information later.",
                 "You decline and go on without him."
@@ -3244,6 +3295,7 @@
             "title":"Come Along (F)"
         },
         "13212112122":{
+            "author_name":"Pagan and Proud!",
             "choices":[
                 "Decide to give in and go with him.",
                 "Deny him and try to go the other way."
@@ -3262,6 +3314,7 @@
             "title":"A glimmer in his eyes"
         },
         "1321212":{
+            "author_name":"Bookwyrm",
             "choices":[
                 "You ask about the destroyed crops",
                 "You demand that the men leave the forest"
@@ -3317,6 +3370,7 @@
             "title":"Creating Poison (F)"
         },
         "1321221":{
+            "author_name":"Tweety",
             "choices":[
                 "Climb the tree to get a better view.",
                 "Take the path to the right."
@@ -3327,6 +3381,7 @@
             "title":"A new companion, and a fork in the road"
         },
         "13212211":{
+            "author_name":"socrates",
             "choices":[
                 "Take the other path.",
                 "Leave the path to look for a way around the creatures."
@@ -3337,6 +3392,7 @@
             "title":"Munch and Brunch"
         },
         "132122111":{
+            "author_name":"socrates",
             "choices":[
                 "continue"
             ],
@@ -3374,6 +3430,7 @@
             "title":"Embarking"
         },
         "132122112":{
+            "author_name":"socrates",
             "choices":[
                 "Continue as directly as possible South.",
                 "Seek more immediate help to fight the evil creatures nearby."
@@ -3449,6 +3506,7 @@
             "title":"Dream It's Over"
         },
         "132122112111122":{
+            "author_name":"pink_sparkle",
             "choices":[
                 "You leave the feast to thank him",
                 "Greet Nywinda and prepare to eat"
@@ -3481,6 +3539,7 @@
             "title":"Start a conversation with Nywinda's brother"
         },
         "13212211211112222":{
+            "author_name":"mentalfemaleuk",
             "choices":[
                 "speak to her and enquire why you fainted?",
                 "treat her like an enemy as perhaps it was she who poisoned you?"
@@ -3503,6 +3562,7 @@
             "title":"Speculation"
         },
         "13212212":{
+            "author_name":"Tweety",
             "choices":[
                 "Cross the little creek and investigate the cave",
                 "Continue south on your journey"
@@ -3582,6 +3642,7 @@
             "title":"voices (F)"
         },
         "1322111":{
+            "author_name":"Kris",
             "choices":[
                 "Pull out your bow and get ready to battle!",
                 "Turn around and run to wherever the road leads you."
@@ -3592,6 +3653,7 @@
             "title":"The over traveled road (F)"
         },
         "13221111":{
+            "author_name":"Kris",
             "choices":[
                 "Keep running backwards.",
                 "Call to the nearby trees to help you."
@@ -3636,6 +3698,7 @@
             "title":"The Horse"
         },
         "13221112":{
+            "author_name":"CanadianRainbows",
             "choices":[
                 "Enter the shack",
                 "Try to fight off the pursuers"
@@ -3738,6 +3801,7 @@
             "title":"nature war (F)"
         },
         "132211211":{
+            "author_name":"Gijinka Destroyer",
             "choices":[
                 "Stop the fire! Quick!",
                 "Continue after those villians!"
@@ -3748,12 +3812,14 @@
             "title":"Flames of Wrath (F)"
         },
         "1322112111":{
+            "author_name":"Gijinka Destroyer",
             "content":"<div class=\"\"><div> <span>In a panic you call to the birds, asking them to fly as fast as they can across the canopies. The birds obey, as a multitude of them swarm over the treetops.  But the winds that follow only spread the fire, allowing the flames to jump farther to more trees.  This fire is not candle that can be put out by a puff of wind.  You need water and you need it fast.<br>\r\n<br>\r\nThere is no river immediately by.  You try calling water, just in case, but only streams respond.  You try again, concentrating hard.  You are so busy standing there with your eyes closed, you do not notice one of the monsters running up behind you.<br>\r\n<br>\r\nFinally you hear water...it sounds as if a dam has broken.  You open your eyes and see a large wall of water heading your direction.<br>\r\n<br>\r\nYou turn to run, not even thinking about calling it off.  You have underestimated your own power. <br>\r\nAs you turn, you face the monster.  It barely registers, you have no reaction time.  He spears you in the heart, as the world fades to black.<br>\r\n<br>\r\nWhen you open your eyes you are back in your home, in bed.  Was it all a dream?  Perhaps you could dream again and make better choices.</span></div></div>",
             "created":1043470800,
             "id":175890,
             "title":"Igneous Ocean (F)"
         },
         "1322112112":{
+            "author_name":"Gijinka Destroyer",
             "content":"<div class=\"\"><div> <span>The flames start to inch their way towards you, but you cannot stop; putting those monsters in their place is all that matters! With a flick of your fingers a landslide rolls down the cliff before you, and though the heat of the flames is overcoming you, you feel this is the right thing to do.<br>\r\n<br>\r\nThe creatures are crushed by the boulders, and you smile in satisfaction.<br>\r\n<br>\r\nYour smile is short lived at the tongues of flames lick at you, catching you on fire.  You try to stop, drop and roll, but it's far too late for that.  You are surrounded by the flames that are engulfing the very thing you tried to protect.<br>\r\n<br>\r\nWhen you open your eyes, you are back at home in bed.  Was it all a dream?  Perhaps.  Why don't you go to sleep and find out?</span></div></div>",
             "created":1043470800,
             "id":175891,
@@ -3796,6 +3862,7 @@
             "title":"The Truth as Best You Know It (F)"
         },
         "132211212111":{
+            "author_name":"Niffy",
             "choices":[
                 "Call upon nature to defend yourself yet again",
                 "Pretend trust to see what they are planning."
@@ -3806,6 +3873,7 @@
             "title":"What to do?"
         },
         "1322112121112":{
+            "author_name":"Amanda",
             "choices":[
                 "Go to the Village",
                 "Go on"
@@ -3918,6 +3986,7 @@
             "title":"Dancing the Night Away (F)"
         },
         "1322112121121111111":{
+            "author_name":"Meg*The Sorceress Genie*",
             "choices":[
                 "Kiss him. You don't care about your fear.",
                 "Pull away and run. You are not ready for a relationship."
@@ -3928,6 +3997,7 @@
             "title":"Dance"
         },
         "13221121211211111111":{
+            "author_name":"Erika Strom",
             "choices":[
                 "Go up to his room",
                 "Start dancing again"
@@ -3962,6 +4032,7 @@
             "title":"Face it!"
         },
         "13221121211211111111221":{
+            "author_name":"A.J.Scott",
             "choices":[
                 "Begin training"
             ],
@@ -3994,6 +4065,7 @@
             "title":"Not fair"
         },
         "13221121211211111112":{
+            "author_name":"A.J.Scott",
             "choices":[
                 "Open the door",
                 "keep it shut and wait for him to leave"
@@ -4004,6 +4076,7 @@
             "title":"Too soon for love"
         },
         "1322112121121111112":{
+            "author_name":"A.J.Scott",
             "choices":[
                 "Slow dance with Deren",
                 "Slow dance with Chip"
@@ -4109,6 +4182,7 @@
             "title":"The Future (F)"
         },
         "132211212112111122221":{
+            "author_name":"Horned tiger dragon",
             "choices":[
                 "Allow Deren to travel with you",
                 "Go it on your own"
@@ -4187,6 +4261,7 @@
             "title":"A Cautious Choice"
         },
         "132211212121":{
+            "author_name":"Erika Strom",
             "choices":[
                 "smile in return",
                 "stare back at him blankly and demand answers"
@@ -4255,6 +4330,7 @@
             "title":"Meeting New Friends (F)"
         },
         "132211212211":{
+            "author_name":"Eve",
             "choices":[
                 "No! this isn't Lord of the rings",
                 "Sure...he is good looking"
@@ -4810,6 +4886,7 @@
             "title":"The Resevoir (M)"
         },
         "1411212":{
+            "author_name":"Happy Puppy",
             "choices":[
                 "Negotiate.  Try to get some information and items.",
                 "Introduce yourself with extreme prejudice."
@@ -4897,6 +4974,7 @@
             "title":"Dark Spirits (M)"
         },
         "14121":{
+            "author_name":"jimbonathon",
             "choices":[
                 "\"Tell me how to reach the valley of zar\"",
                 "\"Show yourself\""
@@ -4907,6 +4985,7 @@
             "title":"Dead branches."
         },
         "141211":{
+            "author_name":"Artemis Noon",
             "choices":[
                 "allow him to follow behind you",
                 "challenge him so you can continue to follow the arrow"
@@ -4917,6 +4996,7 @@
             "title":"new friend, or foe"
         },
         "1412111":{
+            "author_name":"spikey chongalong",
             "choices":[
                 "Agree to be blindfolded and surrender our weapons",
                 "Agree to 'prove' you have no ill intent to this land"
@@ -4957,6 +5037,7 @@
             "title":"\"Yes, spirit, let us join. You and I.\""
         },
         "14122":{
+            "author_name":"jimbonathon",
             "choices":[
                 "Go investigate the noise",
                 "follow you"
@@ -5025,6 +5106,7 @@
             "title":" Decline the duel"
         },
         "1412212":{
+            "author_name":"Untapped_Poet",
             "choices":[
                 "Convince her to turn regardless of cost to you or her*",
                 "Ask her all the questions that plague your mind*"
@@ -5071,12 +5153,14 @@
             "title":"hunting (M)"
         },
         "14122211":{
+            "author_name":"jimbonathon",
             "content":"<div class=\"\"><div> <span>You call upon three more warriors and tell them to prepare to attack. <br>\r\n You all wait in the trees, and prepare to ambush the band of people. As they walk past, you cry \"attack!\" and all seven of you jump from the trees. <br>\r\n Two of the elves are killed in the struggle, but the wizard easily banish's the dead warriors. He then turns to you, his staff raised.<br>\r\n \"I herefore withdraw all power from you\" he cries \"and as you have abused it, the mission is no longer yours!\" <br>\r\n And with that, he brings his staff down. There is a flash of light, and you wake up back in your bed. <br>\r\n Was it a dream? Was it for real? Who knows? Whatever it was, you are no longer part of it...</span></div></div>",
             "created":1062219600,
             "id":171445,
             "title":"Ambush"
         },
         "14122212":{
+            "author_name":"bladeblazer",
             "choices":[
                 "Stay and...",
                 "Flee to..."
@@ -5087,6 +5171,7 @@
             "title":"A little bit of recon..."
         },
         "141222121":{
+            "author_name":"jimbonathon",
             "choices":[
                 "Continue your quest.",
                 "Turn to a life of evil with your army of the dead."
@@ -5097,6 +5182,7 @@
             "title":"Fight"
         },
         "1412221211":{
+            "author_name":"bladeblazer",
             "choices":[
                 "Ressurect...",
                 "Onward to the Valley of Zar!"
@@ -5223,6 +5309,7 @@
             "title":"Creature Feature (F)"
         },
         "142121":{
+            "author_name":"Julia Moore",
             "choices":[
                 "You decide to begin your travel with the creature",
                 "You decide to begin your travel without the creature"
@@ -5233,6 +5320,7 @@
             "title":"Off we go."
         },
         "1421211":{
+            "author_name":"Julia Moore",
             "choices":[
                 "You follow him, forgetting about your mission",
                 "You decide to tell him about where you need to go"
@@ -5255,6 +5343,7 @@
             "title":"You follow him, forgetting about your mission"
         },
         "14212112":{
+            "author_name":"\u0139ori\u00ebnst\u0105r",
             "choices":[
                 "You decide that the creature will be helpful and you ask him to come with you.",
                 "You decide that he can not be trusted and continue your journey alone for now"
@@ -5365,6 +5454,7 @@
             "title":"Binding Up the Creature (F)"
         },
         "1421221":{
+            "author_name":"Buttercup",
             "choices":[
                 "Release the creature, in return for your wish",
                 "Try to capture the father as well"
@@ -5375,6 +5465,7 @@
             "title":"The Mysterious Intruder (F)"
         },
         "14212211":{
+            "author_name":"Rhiannon",
             "choices":[
                 "Try to hit it away with the whip",
                 "Try to move out the way"
@@ -5385,6 +5476,7 @@
             "title":"Wishes (F)"
         },
         "142122111":{
+            "author_name":"Rhiannon",
             "choices":[
                 "Join him",
                 "Decline his offer"
@@ -5439,6 +5531,7 @@
             "title":"Friend or Foe?"
         },
         "142122111222":{
+            "author_name":"Rhiannon",
             "choices":[
                 "Be his friend",
                 "Kill him"
@@ -5449,6 +5542,7 @@
             "title":"Friend or Fiend"
         },
         "1421221112221":{
+            "author_name":"Rhiannon",
             "choices":[
                 "You chase after him?",
                 "Coutinue to Zar Valley?"
@@ -5459,6 +5553,7 @@
             "title":"Friendship? Maybe not....Then Again"
         },
         "1421221112222":{
+            "author_name":"Rhiannon",
             "choices":[
                 "Stop killing",
                 "Ignore that voice"
@@ -5469,6 +5564,7 @@
             "title":"DIE!"
         },
         "142122112":{
+            "author_name":"dr_hunnicutt",
             "choices":[
                 "Ignore them and continue on your way",
                 "Go with them to their village"
@@ -5721,6 +5817,7 @@
             "title":"Stepping Out (M)"
         },
         "15111":{
+            "author_name":"Joe",
             "choices":[
                 "Follow the forest to the Northwest, using the riverbed as a road.",
                 "Chase the thing in the cave."
@@ -5790,6 +5887,7 @@
             "title":"The Plot"
         },
         "15111121122":{
+            "author_name":"fozzy",
             "choices":[
                 "Dress quickly and hurry to the banquet hall",
                 "Take the chance to look around while everyone else is in the banquet"
@@ -5902,6 +6000,7 @@
             "title":"Shrink Quest"
         },
         "15112":{
+            "author_name":"Joe",
             "choices":[
                 "Dash off in fear of painful death.",
                 "Prepare to die."
@@ -5934,12 +6033,14 @@
             "title":"The Spirit of the Swamp"
         },
         "1511221":{
+            "author_name":"Bannen",
             "content":"<div class=\"\"><div> <span>Your courage finally melts away as the monstrosity leers at you, confident of your fate.  You are no longer able to face the thing and you dash past it, deeper into the swamp.<br>\r\n<br>\r\nThe evil river spirit cackles with glee as he chases you.  He knows the swamp well, and now is completely sure that he will have his meal.<br>\r\n<br>\r\nYou discover you can run as fast as any track star, but the mud and overall muckiness of the swamp slow you down considerably.<br>\r\n<br>\r\nYour pursuer quickly catches you and tackles you to the ground.  As it sinks its teeth into you, you hope the others survive long enough to complete the mission.  Darkness mists before your eyes soon after.<br>\r\n*****<br>\r\n<br>\r\nYour eyes jolt open as fragments of your dream remain in your mind.  You look at the clock and realize that there are still several hours left before dawn.  Your nightmare had shaken you, but you were disapointed with how it turned out, and you settled your head back on the pillow, determined to succeed on your next try.</span></div></div>",
             "created":1050123600,
             "id":152936,
             "title":"Running is hard to do in a swamp"
         },
         "1511222":{
+            "author_name":"Saeltari",
             "choices":[
                 "\"I am a hero.\"",
                 "\"A fool, thppppt...\""
@@ -6040,6 +6141,7 @@
             "title":"Cutting Loose (M)"
         },
         "151212":{
+            "author_name":"Joe",
             "choices":[
                 "Naw, too risky. I'll escape later.",
                 "Yep, sounds good!"
@@ -6050,6 +6152,7 @@
             "title":"The Riverbed. (M)"
         },
         "1512121":{
+            "author_name":"Azmodeus",
             "choices":[
                 "Start a conversation?",
                 "Finally decide to use your pocket knife to cut your ropes to get away."
@@ -6060,6 +6163,7 @@
             "title":"Are you delicious?"
         },
         "15121211":{
+            "author_name":"Joe",
             "choices":[
                 "Continue"
             ],
@@ -6081,6 +6185,7 @@
             "title":"A Potential Comrade"
         },
         "1512121111":{
+            "author_name":"diamanda",
             "choices":[
                 "Go back to sleep",
                 "Alert your captors that he had escaped"
@@ -6280,6 +6385,7 @@
             "title":"Why Stay Yourself? That's so Weak!"
         },
         "1512121112":{
+            "author_name":"diamanda",
             "choices":[
                 "Stop  and make camp",
                 "Ride on"
@@ -6362,6 +6468,7 @@
             "title":"Your New Discovery (M)"
         },
         "15122122":{
+            "author_name":"Disciple",
             "choices":[
                 "Make your dwelling in the tree.",
                 "Risk the journey in the dark."
@@ -6372,6 +6479,7 @@
             "title":"The Road Gets Rougher"
         },
         "151222":{
+            "author_name":"Kyambu Varna",
             "choices":[
                 "Do you listen to the story",
                 "Do you walk away"
@@ -6382,6 +6490,7 @@
             "title":"Story Time"
         },
         "1512221":{
+            "author_name":"Kyambu Varna",
             "choices":[
                 "RUN; They could be after you",
                 "What is this about , you wonder?"
@@ -6404,6 +6513,7 @@
             "title":"A new friend"
         },
         "15122212":{
+            "author_name":"Justin Young",
             "choices":[
                 "\"Keep going, no time to waste!!!\"",
                 "\"It's getting dark, a warm hutt's better than the cold ground...\""
@@ -6505,6 +6615,7 @@
             "title":"weapon of choice (F)"
         },
         "152111":{
+            "author_name":"Gijinka Destroyer",
             "choices":[
                 "Hit it, I guess.",
                 "No! Hit the bird, hit the bird!"
@@ -6515,6 +6626,7 @@
             "title":"The Bag in the Tree (F)"
         },
         "1521111":{
+            "author_name":"Gijinka Destroyer",
             "choices":[
                 "Open the fairy's bottle...she hates him.",
                 "Return the fairy...I wonder what I should wish for..."
@@ -6525,6 +6637,7 @@
             "title":"The Boy and the Fairy (F)"
         },
         "15211111":{
+            "author_name":"button1991",
             "choices":[
                 "Run after the boy!",
                 "Go to the Faerie!"
@@ -6535,6 +6648,7 @@
             "title":"The Fairy's Release (F)"
         },
         "152111111":{
+            "author_name":"Tam Lynne",
             "choices":[
                 "Promise the boy.  You need the information.",
                 "It's not worth it.  Let him go and seek your own way."
@@ -6566,6 +6680,7 @@
             "title":"Good Faerie or Bad Faerie?"
         },
         "15211111211":{
+            "author_name":"mentalfemaleuk",
             "choices":[
                 "stay with them a while"
             ],
@@ -6575,6 +6690,7 @@
             "title":"faerie land"
         },
         "152111112111":{
+            "author_name":"navi",
             "content":"<div class=\"\"><div> <span>   All the faeries see you and seem to gather around you. You start to float in the sky. &lt;Thankyou for helping our sister.&gt; You hear in your head. We now give you a gift. There is a great flash of light and suddenly you are surrounded by glass. Looking around you notice you are inside a bottle being held by......you.<br>\r\n    You look at your hands and see the fairy's hands. You are in her body. The bottle is held up to your face and you tell yourself. \"I'm a sorceress, fool. You are now in a position that i put you into. Just know this no good deed goes unpunished.\"<br>\r\n     Suddenly there is a swarm of faeries and your bottle is knocked down and shatters, shattering your fragile body with it.  There is no pain in death.</span></div></div>",
             "created":1169096400,
             "id":374537,
@@ -6691,6 +6807,7 @@
             "title":"Slowly open your eyes and take a peek."
         },
         "15211112":{
+            "author_name":"Gijinka Destroyer",
             "choices":[
                 "May I travel with you?",
                 "I would like a different wish..."
@@ -6701,6 +6818,7 @@
             "title":"Make a Wish (F)"
         },
         "152111121":{
+            "author_name":"Gijinka Destroyer",
             "choices":[
                 "Stop, Soliloquy! Please free the fairies!",
                 "Sure, let's see."
@@ -6711,6 +6829,7 @@
             "title":"Soliloquy's Secret (F)"
         },
         "1521111212":{
+            "author_name":"Gijinka Destroyer",
             "choices":[
                 "White, like the color of Soliloquy's robes...",
                 "Black, like the color of his bow..."
@@ -6730,6 +6849,7 @@
             "title":"Choices galore (F)"
         },
         "152111121211":{
+            "author_name":"Tanzeriner",
             "choices":[
                 "The path continues"
             ],
@@ -6820,6 +6940,7 @@
             "title":"you are dead (F)"
         },
         "15212":{
+            "author_name":"Michette",
             "choices":[
                 "Approach him.",
                 "Divert your course"
@@ -6830,6 +6951,7 @@
             "title":"Sticks and Stones May Break our Bones"
         },
         "152121":{
+            "author_name":"diamanda",
             "choices":[
                 "Water Magic",
                 "Shifter Magic"
@@ -7000,6 +7122,7 @@
             "title":"Interupted Nap"
         },
         "1522112":{
+            "author_name":"Muskrat",
             "choices":[
                 "Do you peek outside through a hole and risk being seen?",
                 "Or do you continue hiding inside the trunk a hope they go away?"
@@ -7010,6 +7133,7 @@
             "title":"to Peek or not to Peek"
         },
         "15221121":{
+            "author_name":"Muskrat",
             "choices":[
                 "Do you wait calmy for your seemingly emminent doom are the possibility that this",
                 "Or beg for mercy like a groveling dog?"
@@ -7032,6 +7156,7 @@
             "title":"You decide to stay where you are and wait."
         },
         "15222":{
+            "author_name":"mentalfemaleuk",
             "choices":[
                 "You gallop away on his horse leaving him stranded",
                 "You help him by fighting as best you can"
@@ -7050,6 +7175,7 @@
         "description":"<td align=\"left\" class=\"norm\">This is a fantasy story - your choices will determine your fate and your destiny.  <br>\r\nChoose your character and start reading!  <br>\r\nYou will be faced with many choices and how you \"live\" is up to you.  There's some action/adventure, romance (or at least a chance at it), and of course, a chance for you to be a part by adding on!  <br>\r\n<br>\r\n***If you choose to add, please think about what you are adding.  Do not add a chapter with one or two sentances - please write something with at least a little substance and meaning.  I want you to add, but if it's something that is way out there or doesn't fit in the story, I will edit it (or delete, whichever the case may be).  This is for the enjoyment of the entire story and readers.  Thanks.***<br>\r\n<br>\r\nHere is a map/layout of the area description.<br>\r\nYou start out in the center of The Great Dark Forest.<br>\r\n<br>\r\nNorth:  The Swamp of the Ghost River.  Legend has it this was once a great river, but the forest was jealous and dammed it up on two ends, creating a stagnant, dead swampland.  Many disappearances have been attributed to this swamp.  Inhabitants: Unknown.<br>\r\n<br>\r\nFurther North:  The Cascading Mountains.  These snowy mountains are breathtaking, but a dangerous trek.  Inhabitants: Goblins and Dwarves.<br>\r\n<br>\r\nEven Further North:  The Empire of Light.  One of the destinations - a real jewel of a city.  Inhabitants:  Wizards.<br>\r\n<br>\r\nNorth East:  Ending of the Swamp of the Ghost River and beginning of a dried up river bed. Inhabitants: Unknown.<br>\r\n<br>\r\nFurther North East:  Undergound Caverns and rolling hillsides.  Inhabitants: Goblins in the caverns.<br>\r\n<br>\r\nEast:  Underground Caverns and a dry riverbed.  Inhabitants: Goblins in the caverns.<br>\r\n<br>\r\nFurther East:  Very rocky terrain that turns into deep valleys.  Inhabitants: Orcs.<br>\r\n<br>\r\nFurther East:  The Valley of Zar, one of the destinations.  A place full of shadows - better watch your back.  Inhabitants: Dark Elves.<br>\r\n<br>\r\nSouth East:  Forest until it runs out!  Ends in a mess.....Tree Miners.  Inhabitants: Orcs and Dark Elves.<br>\r\n<br>\r\nFurther South East:  Rocky, dead terrain.<br>\r\n<br>\r\nSouth:  Lush, dense forest all the way until you reach the village of Dan'ne Dale (or Dora Moore - depending on your story).  Inhabitants:  Woodland (good) Elves.<br>\r\n<br>\r\nFurther South:  Deep hills and beautiful forest (not dark).  A giant, mighty river (The Great River) that splits 4 different times.<br>\r\n<br>\r\nFurther South:  The Rivers of Dan (all the forks in the Great river), one of the destinations.  Inhabitants:  Wise Elves<br>\r\n<br>\r\nSouth West:  Forest that eventually ends in sharp, drastic cliffs.  A river is at the bottom of the cliffs (part of the Great river).<br>\r\n<br>\r\nWest:  Dry river bed with increasingly rocky terrain.<br>\r\n<br>\r\nFurther West:  Drastic cliffs and more rocky terrain.<br>\r\n<br>\r\nEven Further West:  The Dark Castle, one of the destinations.  Inhabitants: Humans.<br>\r\n<br>\r\nNorth West:  One end of the Swamp of the Ghost River and the beginning of a dry riverbed.  Inhabitants: Unknown.<br>\r\n<br>\r\nFurther North West:  Mines.  Inhabitants: Goblins and Dwarves.</td>",
         "id":609481,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1588059840,
         "modified":1588059840,
         "pretty_title":"Mystical Forest"
     }

@@ -38,6 +38,7 @@
             "title":"The heist"
         },
         "1111":{
+            "author_name":"PunkRockBabe",
             "choices":[
                 "A new plan",
                 "Modify the old plan"
@@ -61,7 +62,7 @@
         },
         "1112":{
             "author_id":"brontosaurus",
-            "author_name":"Elycia Lee \u00e2\u0098\u00ae",
+            "author_name":"Elycia Lee \u262e Novel-Writing",
             "choices":[
                 "Continue story"
             ],
@@ -72,7 +73,7 @@
         },
         "11121":{
             "author_id":"brontosaurus",
-            "author_name":"Elycia Lee \u00e2\u0098\u00ae",
+            "author_name":"Elycia Lee \u262e Novel-Writing",
             "choices":[
                 "She gets medical attention but unreported",
                 "She got medical attention and reported"
@@ -119,6 +120,7 @@
             "title":"nothing to lose"
         },
         "112111":{
+            "author_name":"Gwydion",
             "choices":[
                 "Kat is able to contact help on the phone",
                 "Kat can't contact anyone"
@@ -173,6 +175,7 @@
             "title":"A cure."
         },
         "11222":{
+            "author_name":"TinaMarie",
             "choices":[
                 "Kat drags Lari to another doctor",
                 "Lari refuses a second opinion"
@@ -267,6 +270,7 @@
             "title":"Iceland At Last"
         },
         "121122":{
+            "author_name":"queen leprechaun",
             "choices":[
                 "go to the hotel",
                 "turn around, go home"
@@ -277,6 +281,7 @@
             "title":"new face"
         },
         "1211221":{
+            "author_name":"Patrick",
             "choices":[
                 "She turned pale as she heard the voice on the tape",
                 "She calmly listened to the tape and got ready"
@@ -345,6 +350,7 @@
             "title":"Hijacked"
         },
         "1221":{
+            "author_name":"Wurdly",
             "choices":[
                 "Bad guys are cute too",
                 "Can Lari save the day?"
@@ -692,6 +698,7 @@
         "description":"<td align=\"left\" class=\"norm\">This story is technically action/adventure, but on a certain level, it's also fantasy. What have you always wanted to do with your life? Would it take the threat of a shortened lifespan for you to do it?  Where would you go?  What would you do? Try to save the world?  Or try to save yourself?</td>",
         "id":127297,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1191264540,
         "modified":1191264540,
         "pretty_title":"Six Months to Live"
     }

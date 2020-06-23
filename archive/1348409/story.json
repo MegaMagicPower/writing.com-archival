@@ -268,7 +268,7 @@
         },
         "1121321":{
             "author_id":"normerican2",
-            "author_name":"10\u00c2\u00a5",
+            "author_name":"10\u00a5",
             "choices":[
                 "A dead end!",
                 "The vet's office!"
@@ -280,7 +280,7 @@
         },
         "11213211":{
             "author_id":"normerican2",
-            "author_name":"10\u00c2\u00a5",
+            "author_name":"10\u00a5",
             "choices":[
                 "Lift your tail in acceptance.",
                 "Make a run for it."
@@ -292,7 +292,7 @@
         },
         "112132111":{
             "author_id":"normerican2",
-            "author_name":"10\u00c2\u00a5",
+            "author_name":"10\u00a5",
             "choices":[
                 "He makes you his bitch.",
                 "You manage to avoid him."
@@ -1063,6 +1063,7 @@
         "description":"<td align=\"left\" class=\"norm\">This story is based on the 1959 version of Disney's The Shaggy Dog (Not the crappy remake version). Except it can be either gender and any dog! Happy Transforming!</td>",
         "id":1348409,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1459130580,
         "modified":1459130580,
         "pretty_title":"The Shaggy Dog"
     }

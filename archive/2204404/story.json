@@ -19,9 +19,9 @@
             "author_id":"chrisern",
             "author_name":"ShadowBlade",
             "choices":[
-                "Joey himself-a desire or wish of his.",
-                "Somebody else forces it onto Joey.",
-                "Luck or chance.",
+                "Joey causes it himself.",
+                "Somebody else causes it.",
+                "It Just Happens?",
                 "Other."
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>We'll follow Joey.<br>\r\n<br>\r\nWhat causes the regression?</span></div></span></div>",
@@ -64,7 +64,7 @@
             "choices":[
                 "They Mess with some sort of Artifact",
                 "They Find a Spellbook",
-                "They Ingest a Potion"
+                "They get dosed with a Potion"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The Twins Regress due to Some sort of Magical Cause. What happens?</span></div></span></div>",
             "created":1577163600,
@@ -653,10 +653,10 @@
                 "More Magical Options",
                 "Even More Magical Options "
             ],
-            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The Twins Ingest some sort of Magical Potion?</span></div></span></div>",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The Twins are affected by some sort of Magical Potion?</span></div></span></div>",
             "created":1577163600,
             "id":2764136,
-            "title":"They Ingest a Potion"
+            "title":"They get dosed with a Potion"
         },
         "13131":{
             "author_id":"chrisern",
@@ -763,6 +763,7 @@
         "description":"<td align=\"left\" class=\"norm\">Rules:<br>\r\nFocus on Physical Regression. Mental Regression can come with the Physical Regression though.<br>\r\nNo Death, Abuse, Sex, \"Fluids\" Creepy Stuff Fetishes Etc.<br>\r\nHave Fun.</td>",
         "id":2204404,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1582174020,
         "modified":1582174020,
         "pretty_title":"A Regressive Reunion"
     }

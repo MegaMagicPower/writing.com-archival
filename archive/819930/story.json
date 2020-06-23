@@ -40,6 +40,7 @@
             "title":"Antique goods"
         },
         "1111":{
+            "author_name":"heygoodlookin",
             "choices":[
                 "She sees the price and just sets the clock on the counter",
                 "She doesn't see the price and tests the clock to see if it works!"
@@ -50,6 +51,7 @@
             "title":"going a little cuckoo"
         },
         "11112":{
+            "author_name":"heygoodlookin",
             "choices":[
                 "Wave excitedly at the female shopkeeper!  She sounds friendly.",
                 "Pose as a cowboy.  Yeehaw!  You don't want to be found just yet."
@@ -60,6 +62,7 @@
             "title":"stuck in time"
         },
         "111121":{
+            "author_name":"heygoodlookin",
             "choices":[
                 "show you to him",
                 "keep you hidden"
@@ -106,6 +109,7 @@
             "title":"Grease and oil, yum yum!"
         },
         "1141":{
+            "author_name":"randomguy",
             "choices":[
                 "Go to an unoccupied table",
                 "Go to an occupied table"
@@ -116,6 +120,7 @@
             "title":"The Diner"
         },
         "11412":{
+            "author_name":"randomguy",
             "choices":[
                 "The Mom, Son, and Daughter",
                 "The Teens"
@@ -126,6 +131,7 @@
             "title":"Content of Tables"
         },
         "114122":{
+            "author_name":"randomguy",
             "choices":[
                 "Climb up one of the teens to the booth above.",
                 "Hang out by the feet."
@@ -136,6 +142,7 @@
             "title":"Teen Titans"
         },
         "1141221":{
+            "author_name":"randomguy",
             "choices":[
                 "scratches an itch.",
                 "grabs you."
@@ -255,6 +262,7 @@
             "title":"Past the four stores."
         },
         "1152":{
+            "author_name":"randomguy",
             "choices":[
                 "Sandals",
                 "Tennis Shoes"
@@ -287,6 +295,7 @@
             "title":"YEEEEE-haw!"
         },
         "115221":{
+            "author_name":"randomguy",
             "choices":[
                 "Drop Off Now",
                 "Hang In There"
@@ -297,6 +306,7 @@
             "title":"Why Did Tim Cross The Road?"
         },
         "1152212":{
+            "author_name":"randomguy",
             "choices":[
                 "an ice cream parlor.",
                 "a clothing store."
@@ -600,6 +610,7 @@
             "title":"Feels of the jeans"
         },
         "1222":{
+            "author_name":"randomguy",
             "choices":[
                 "Follow the path.",
                 "Go on through the woods."
@@ -676,6 +687,7 @@
             "title":"You So Cute Maybe I could keep you as my baby"
         },
         "122212":{
+            "author_name":"randomguy",
             "choices":[
                 "Go with these giants",
                 "Carry on alone"
@@ -686,6 +698,7 @@
             "title":"The Enormous Campers"
         },
         "1222121":{
+            "author_name":"randomguy",
             "choices":[
                 "...but it's no use.  You fall.",
                 "...and somehow, you do."
@@ -708,6 +721,7 @@
             "title":"Setting up Camp"
         },
         "122212122":{
+            "author_name":"randomguy",
             "choices":[
                 "The Two Girls",
                 "The Couple"
@@ -730,6 +744,7 @@
             "title":"Your Turn"
         },
         "12221212211":{
+            "author_name":"randomguy",
             "choices":[
                 "the blonde.",
                 "the brunette."
@@ -799,6 +814,7 @@
             "title":"Rummagings"
         },
         "1222121221121":{
+            "author_name":"randomguy",
             "choices":[
                 "follow her.",
                 "check out her discarded clothes."
@@ -809,6 +825,7 @@
             "title":"Changing"
         },
         "1222121222":{
+            "author_name":"randomguy",
             "choices":[
                 "Sleeping Bags",
                 "Gear"
@@ -875,6 +892,7 @@
         "description":"<td align=\"left\" class=\"norm\">You have started on your way to a weekend camping trip into the local woods of the area. You are just walking out of town when you suddenly find yourself shrunk to 1 inch in height. What will you do from there?</td>",
         "id":819930,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1578936060,
         "modified":1578936060,
         "pretty_title":"Camping trip  to shrinking trip"
     }

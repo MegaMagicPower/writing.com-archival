@@ -248,6 +248,18 @@
             "created":1590037200,
             "id":2838822,
             "title":"Other"
+        },
+        "14521":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will you be reborn as an original character?</span></div></span></div>",
+            "created":1590469200,
+            "id":2841628,
+            "title":"As Told by Ginger"
         }
     },
     "info":{
@@ -258,7 +270,8 @@
         "description":"<td align=\"left\" class=\"norm\">One day, you die, and meet a god of reincarnation, who offers to reincarnate you into any type of world you want, but there\u2019s a catch. No matter what kind of world you choose, you have to be reborn as a girl! You can choose your race, but you can\u2019t choose gender since the god of reincarnation wants you to be a girl.</td>",
         "id":2201544,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1590045840,
+        "last_full_update":0,
+        "modified":1590554520,
         "pretty_title":"Reincarnated as a Girl"
     }
 }

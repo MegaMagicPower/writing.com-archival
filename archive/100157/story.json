@@ -13,6 +13,7 @@
             "title":"Out of the Ordinary"
         },
         "11":{
+            "author_name":"Zoo Duck",
             "choices":[
                 "Bill falls back asleep and is late for work.",
                 "Bill lies in bed trying to sleep, but the phone rings...."
@@ -23,6 +24,7 @@
             "title":"Bill the Disbeliever"
         },
         "112":{
+            "author_name":"Deidre",
             "choices":[
                 "\"Since, you know, nobody can see us, do you want to come over?\"",
                 "\"HELP!!!\""
@@ -45,6 +47,7 @@
             "title":"Neighbor Betty"
         },
         "12":{
+            "author_name":"Zoo Duck",
             "choices":[
                 "The neighbors confront Bill.",
                 "Bill begins apologizing profusely for his overgrown yard."
@@ -80,6 +83,7 @@
             "title":"Possible Solutions"
         },
         "1212":{
+            "author_name":"peculiar",
             "choices":[
                 "continue",
                 "continue"
@@ -90,6 +94,7 @@
             "title":"Sure Bill, Whatever"
         },
         "12121":{
+            "author_name":"JoKateJess",
             "choices":[
                 "Bill goes insane and kills himself along with Tyrette.",
                 "Tyrette has the baby."
@@ -110,6 +115,7 @@
             "title":"Wild Bill and his fancies."
         },
         "1212111":{
+            "author_name":"bari123",
             "choices":[
                 "baby a grass devil",
                 "Baby a seductive mother nature"
@@ -120,6 +126,7 @@
             "title":"Baby is born"
         },
         "12121111":{
+            "author_name":"bari123",
             "choices":[
                 "He enters the car",
                 "he continues his stroll"
@@ -130,6 +137,7 @@
             "title":"Devil of the weeds"
         },
         "12121112":{
+            "author_name":"bari123",
             "choices":[
                 "Invite's Cloette to stay",
                 "Tells Cloette to leave"
@@ -140,6 +148,7 @@
             "title":"Baby a seductive mother nature"
         },
         "12122":{
+            "author_name":"gaki_tomodachi",
             "choices":[
                 "She's worse than the bug, ahk! Shoot her anyway!",
                 "Try to explain things..."
@@ -174,6 +183,7 @@
             "title":"Nosy neighbours!"
         },
         "1221":{
+            "author_name":"Zoo Duck",
             "choices":[
                 "Bill inspects his chemicals in the shed to see if he can figure out whats up",
                 "Bills bagged grass has been torn open by dogs and spread all over."
@@ -196,6 +206,7 @@
             "title":"Radioactive Fallout"
         },
         "122111":{
+            "author_name":"sand",
             "choices":[
                 "Bill goes home, convinced it was a bad dream",
                 "Bill takes the axe back and dives under the porch."
@@ -206,6 +217,7 @@
             "title":"the chase"
         },
         "1221111":{
+            "author_name":"Sheelawolf",
             "choices":[
                 "Something bad's happened to Bill.",
                 "He goes into the yard to figure out how to stop it from growing anymore."
@@ -216,6 +228,7 @@
             "title":"Restless Night"
         },
         "12212":{
+            "author_name":"Zoo Duck",
             "choices":[
                 "Bill wakes up, goes outside, pleased that everything is back to normal.",
                 "Bill wakes up, and sees that a large tree has grown up through his kitchen."
@@ -318,6 +331,7 @@
             "title":"Redwood's Rival"
         },
         "12212121111122":{
+            "author_name":"Lannys",
             "choices":[
                 "Keep chopping",
                 "Stop"
@@ -339,6 +353,7 @@
             "title":"Chop It Down Bll!"
         },
         "1221212111112221":{
+            "author_name":"Lannys",
             "choices":[
                 "Bill Faints",
                 "Bill Talks Back To The Tree"
@@ -395,6 +410,7 @@
             "title":" Silent Tree"
         },
         "122122":{
+            "author_name":"joan",
             "choices":[
                 "Bill stops by the hall closet on the way to grab a bat.",
                 "Bill walks into the kitchen to find the tree he had seen in his dream."
@@ -405,6 +421,7 @@
             "title":"Journey by way of Tree"
         },
         "1221221":{
+            "author_name":"kiana",
             "choices":[
                 "The tree grows back before his eyes",
                 "He runs out of his house, covered in \"blood\""
@@ -415,6 +432,7 @@
             "title":"attack!"
         },
         "1221222":{
+            "author_name":"joan",
             "choices":[
                 "Bill inpects the curious knot hole.",
                 "Bill runs out the front door only to find a green blanket of grass and an angry"
@@ -425,6 +443,7 @@
             "title":"The tree is real"
         },
         "12212221":{
+            "author_name":"joan",
             "choices":[
                 "Bill stepped out into what appeared to be an alternate universe....",
                 "Bill turned and crouched down in the elevator and closed his eyes tight."
@@ -435,6 +454,7 @@
             "title":"The journey has just begun"
         },
         "122122211":{
+            "author_name":"jivas",
             "choices":[
                 "Bills walks in the direction of the sound.",
                 "Bill looks for shelter to analyze things."
@@ -445,6 +465,7 @@
             "title":"WONDERLAND"
         },
         "1221222111":{
+            "author_name":"jivas",
             "content":"<div class=\"\"><div> <span>Closer and closer, the sound intrigued Bill, he ignored the curious surroundings momentarily searching for the source.  Finally he came upon a familiar face; his neighbor Joan!<br>\r\n\"Bill!\" she raced toward him and embraced him desperately.  Her voice was beautiful, like a bird singing.  \"How did you get here?\"  It was then that he realized his own voice was altered, somehow more melodic and flowing.<br>\r\nJoan explained that she had awaken to a rainbow sprouting from her bed.  She followed it out her window and into the yard of tall grass.  It ended at the site of a glorious pot of gold.  She climbed up to look inside and fell into this new world.</span></div></div>",
             "created":1068872400,
             "id":178784,
@@ -468,9 +489,10 @@
         "author_name":"Zoo - Salted and Roasted",
         "brief_description":"Bill wakes up one day to find that the grass in his yard has grown to about ten feet..",
         "created":968171460,
-        "description":"<td align=\"left\" class=\"norm\">Bill wakes up one morning to find that the grass in his yard has grown about ten feet overnight.......This is just the first of a series of strange goings-on that Bill has to deal with ultimately resulting in a battle between a self serving mankind and the embittered plant world. \r<br>\n\r<br>\nThis is the Interactive Story. Feel free to add a chapter anywhere you want. For the static item that I am personally working on, try \"<a href=\"\" title=\"\" target=\"_top\">Invalid Item</a>\"\u00a0<a title=\"\" target=\"_blank\"><img style=\"opacity:.4;\" src=\"https://www.Writing.Com/nw.gif\" onmouseover=\"$(this).css('opacity', '1');\" onmouseout=\"$(this).css('opacity', '.4');\" height=\"12\" width=\"12\" border=\"0\"></a>. \r<br>\n\r<br>\nHave fun!  ZooDuck</td>",
+        "description":"<td align=\"left\" class=\"norm\">Bill wakes up one morning to find that the grass in his yard has grown about ten feet overnight.......This is just the first of a series of strange goings-on that Bill has to deal with ultimately resulting in a battle between a self serving mankind and the embittered plant world. \r<br>\n\r<br>\nThis is the Interactive Story. Feel free to add a chapter anywhere you want. For the static item that I am personally working on, try \"<a href=\"https://www.Writing.Com/main/view_item/item_id/127689-Bills-Bermuda-Grass\" title=\"Bill's grass grew ten feet overnight! \r\nWhat the..?\" target=\"_top\">Bill's Bermuda Grass</a>\"\u00a0<a title=\"Bill's grass grew ten feet overnight! \r\nWhat the..?\" href=\"https://www.Writing.Com/main/view_item/item_id/127689-Bills-Bermuda-Grass\" target=\"_blank\"><img style=\"opacity:.4;\" src=\"https://www.Writing.Com/nw.gif\" onmouseover=\"$(this).css('opacity', '1');\" onmouseout=\"$(this).css('opacity', '.4');\" height=\"12\" width=\"12\" border=\"0\"></a>. \r<br>\n\r<br>\nHave fun!  ZooDuck</td>",
         "id":100157,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1316859360,
         "modified":1316859360,
         "pretty_title":"Bermuda Grass"
     }

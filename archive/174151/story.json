@@ -160,6 +160,30 @@
             "id":2712692,
             "title":"Escape from her and go hide"
         },
+        "11111111222":{
+            "author_id":"randomreader05",
+            "author_name":"Foolishreader",
+            "choices":[
+                "She hasn't done anything",
+                "You remember something!"
+            ],
+            "content":"<div class=\"\"><div> <span>You quickly hide from her. You jump of the couch, slightly dazed from the fall but still able to move. You hide under the couch, it being the fastest hiding spot you could get to. \"I just need to stay here, but what am I going to do?!\" You say to yourself.<br>\r\n<br>\r\nWhile your step-mom is crying she soon realizes that you're gone. \"J-Jake! Jake where are you!? \" She says in a panicked voice \"Look I know I may have went to far, but please come out! What have I even done that was so bad up until now?\" She says with worry in her voice.<br>\r\n<br>\r\nYou remain at your hiding spot thinking. You've never like your step-mom, not even since day one. \"Maybe I should give her a chance.\" You say to yourself. \"No! She doesn't care about me! Why should she! I'm not even her real son!\" You go on with your thoughts. 'What has she done?' you think to yourself, trying to remember anything you could use against her. </span></div></div>",
+            "created":1590728400,
+            "id":2843007,
+            "title":"Hide from everyone, you don't trust anyone ..."
+        },
+        "111111112221":{
+            "author_id":"randomreader05",
+            "author_name":"Foolishreader",
+            "choices":[
+                "She finds you",
+                "She doesn't find you"
+            ],
+            "content":"<div class=\"\"><div> <span>You go on thinking and thinking, but you can't come up with much if anything. The most that's happened is her telling you to do some chores, or clean your room. And even if you've refused she would usually end up doing whatever it is she told you to do.<br>\r\n<br>\r\n\"Jake... I'm begging you. Please come and just talk to me! I know I went to far. But you don't have to be my slave anymore!\" You heard your stepmother say with desperation in her voice. You're step-mom soon gets up and begins to search for you.</span></div></div>",
+            "created":1590728400,
+            "id":2843011,
+            "title":"She hasn't done anything"
+        },
         "11111112":{
             "author_id":"imdownhere",
             "author_name":"J_Jackson",
@@ -3658,7 +3682,8 @@
         "description":"<td align=\"left\" class=\"norm\">You are either Jake or Lauren, and can either be shrunken or remain your size and interact with small people.  \r<br>\n\r<br>\nPlease read the first chapter carefully as it decides both of the character's situations.\r<br>\nThere was a lot of other stuff written here, but BLAH!  Go crazy!</td>",
         "id":174151,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1583253900,
+        "last_full_update":0,
+        "modified":1590810720,
         "pretty_title":"Shrinking!"
     }
 }

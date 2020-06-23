@@ -609,6 +609,19 @@
             "id":2381586,
             "title":"Renamon"
         },
+        "1252":{
+            "author_id":"orangeskunk5",
+            "author_name":"OrangeSkunk5",
+            "choices":[
+                "You (Male)",
+                "You (Female)",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who is he going to fart on?</span></div></span></div>",
+            "created":1591938000,
+            "id":2850051,
+            "title":"Guilmon"
+        },
         "1253":{
             "author_id":"leeeol",
             "author_name":"iwasntthere",
@@ -643,7 +656,8 @@
         "description":"<td align=\"left\" class=\"norm\">The people and digimon of the anime Digimon get gassed.<br>\r\n<br>\r\nRules:<br>\r\n<br>\r\n1. Keep it 13+ please.<br>\r\n2. Peeing is allowed.<br>\r\n3. Please watch atleast <i>one</i> episode of Digimon before adding to this story.<br>\r\n4. The characters can fart anywhere.<br>\r\n5. Have fun!<br>\r\n</td>",
         "id":1902674,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1547462400,
+        "last_full_update":1547462400,
+        "modified":1591942560,
         "pretty_title":"Digimon Fart Torture"
     }
 }

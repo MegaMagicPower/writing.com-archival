@@ -206,6 +206,33 @@
             "created":1586235600,
             "id":2814990,
             "title":"Life change"
+        },
+        "12":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Didi",
+                "Charlatte",
+                "Betty deville",
+                "Kira Finster",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which adults or teens from rugrats do we try?</span></div></span></div>",
+            "created":1590469200,
+            "id":2841281,
+            "title":"The adults or teens."
+        },
+        "124":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Other transformations."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will Kimi's mother regress?</span></div></span></div>",
+            "created":1590469200,
+            "id":2841285,
+            "title":"Kira Finster"
         }
     },
     "info":{
@@ -216,7 +243,8 @@
         "description":"<td align=\"left\" class=\"norm\">Bringing this back, once again. Rules. No drugs, no sex. No insulting characters. No unborn or back to the womb. Nothing over the top. All transformations are allowed, save the one above.</td>",
         "id":2217543,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1586362200,
+        "last_full_update":0,
+        "modified":1590502740,
         "pretty_title":"Rugrats TF Adventures reborn"
     }
 }

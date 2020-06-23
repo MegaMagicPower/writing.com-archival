@@ -615,6 +615,7 @@
             "title":"The Walking Dead."
         },
         "113":{
+            "author_name":"SiriusRiddle",
             "choices":[
                 "Zelda",
                 "Other"
@@ -719,6 +720,7 @@
             "title":"Pearl Fey"
         },
         "114":{
+            "author_name":"anonyme",
             "choices":[
                 "Yes, I do.",
                 "No, I don't."
@@ -729,6 +731,7 @@
             "title":"Animal choices"
         },
         "1142":{
+            "author_name":"anonyme",
             "choices":[
                 "Yes!",
                 "No!"
@@ -739,6 +742,7 @@
             "title":"Not a wolf?"
         },
         "11422":{
+            "author_name":"anonyme",
             "choices":[
                 "Yes",
                 "No"
@@ -785,6 +789,7 @@
             "title":"Other..."
         },
         "114222":{
+            "author_name":"anonyme",
             "choices":[
                 "No",
                 "Yes"
@@ -795,6 +800,7 @@
             "title":"Picky readers."
         },
         "1142221":{
+            "author_name":"anonyme",
             "choices":[
                 "Aquarian (Anything in the ocean)",
                 "Birds (well...birds.)"
@@ -3308,7 +3314,7 @@
         },
         "145332":{
             "author_id":"0000w",
-            "author_name":"uouo",
+            "author_name":"0000w",
             "choices":[
                 "Bakugon Brawl! (Yes)",
                 "Bakugan Stand! (No)"
@@ -3482,6 +3488,7 @@
         "description":"<td align=\"left\" class=\"norm\">Here is an interactive where you can write about your favourite anime and/or video game characters transforming into various things.<br>\r\nI won't delete much, but try to keep it PG 13...</td>",
         "id":1100608,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1569413580,
         "modified":1569413580,
         "pretty_title":"Anime/Video Game Transformations"
     }

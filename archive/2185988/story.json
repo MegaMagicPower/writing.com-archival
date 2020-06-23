@@ -162,6 +162,34 @@
             "created":1584162000,
             "id":2801351,
             "title":"Kitty and Rogue try to learn more about Frenchfry"
+        },
+        "123":{
+            "author_id":"zaklionsaurus2",
+            "author_name":"Zakthelion",
+            "choices":[
+                "Magi nation",
+                "Krypto the superdog",
+                "Legion of superheroes"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Well how about magi nation based off the game or how about some super dog with krypto the super dog with his friends or go into the 31 first century with Superman and the legion of superheroes</span></div></span></div>",
+            "created":1592370000,
+            "id":2852509,
+            "title":"More Kids WB shows"
+        },
+        "15":{
+            "author_id":"zaklionsaurus2",
+            "author_name":"Zakthelion",
+            "choices":[
+                "Beyblade",
+                "Yugioh",
+                "Digimon",
+                "Attack on titan ",
+                "My hero academia"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>We need some anime so here are some anime</span></div></span></div>",
+            "created":1592197200,
+            "id":2851758,
+            "title":"More ideas"
         }
     },
     "info":{
@@ -172,7 +200,8 @@
         "description":"<td align=\"left\" class=\"norm\">Frenchfry from lilo and stitch hunger returns and as gained the power to teleport between TV shows and reality </td>",
         "id":2185988,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1584198060,
+        "last_full_update":0,
+        "modified":1592373060,
         "pretty_title":"Frenchfry fattens up"
     }
 }

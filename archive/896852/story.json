@@ -497,6 +497,8 @@
             "choices":[
                 "Gatomon",
                 "Leomon",
+                "Renamon",
+                "Agumon",
                 "Other"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>.................</span></div></span></div>",
@@ -1034,6 +1036,7 @@
             "title":"The Bat Hungers..."
         },
         "12522":{
+            "author_name":"Pyro",
             "choices":[
                 "Prepare your meal.",
                 "Don't waste time and gulp her down!"
@@ -1044,6 +1047,7 @@
             "title":"Amy at the Beach"
         },
         "125221":{
+            "author_name":"Pyro",
             "choices":[
                 "Wait and digest.",
                 "Go find someone else."
@@ -2103,6 +2107,7 @@
         "description":"<td align=\"left\" class=\"norm\">This is a sequel to the interactive Vore story, TV Vore, created with permission from Dawnbringer, author of the original.  Characters from old and new tv shows chow down on people. Please add on.  Nearly anything goes.</td>",
         "id":896852,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1587253440,
         "modified":1587253440,
         "pretty_title":"TV Vore 2"
     }

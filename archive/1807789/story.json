@@ -553,7 +553,7 @@
                 "Uschi verwandelt sich zur\u00fcck!",
                 "Etwas Anderes"
             ],
-            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\u00e2\u0080\u009eDu dumme Fotze hast mich verdaut und ausgeschissen!\u201c Raunte eine k\u00c3\u00b6rperlose Stimme.<br>\r\n<br>\r\n\u00e2\u0080\u009eIch wei\u00c3\u009f, sorry das kommt nicht wieder vor.\u201c Lisa klang tats\u00c3\u00a4chlich entschuldigend.<br>\r\n</span></div></span></div>",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\u201eDu dumme Fotze hast mich verdaut und ausgeschissen!\u201c Raunte eine k\u00f6rperlose Stimme.<br>\r\n<br>\r\n\u201eIch wei\u00df, sorry das kommt nicht wieder vor.\u201c Lisa klang tats\u00e4chlich entschuldigend.<br>\r\n</span></div></span></div>",
             "created":1337576400,
             "id":1342092,
             "title":"Ja klar!"
@@ -9255,6 +9255,31 @@
             "id":2743510,
             "title":"nein"
         },
+        "122321112211221":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "kennenlernen",
+                "etwas anderes"
+            ],
+            "content":"<div class=\"\"><div> <span>Da stand sie nun in der fast leeren Studentenbude, die neue und zuk\u00fcnftige Mitbewohnerin von Petra.<br>\r\nIhr Name war Sabine und Petra war recht angetan von ihr, auch wenn sie vom Erscheinungsbild wohl nur Durchschnitt war, sie war nett und freundlich\u2026<br>\r\n</span></div></div>",
+            "created":1592283600,
+            "id":2852156,
+            "title":"ja"
+        },
+        "1223211122112212":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "Ankuft",
+                "auf dem Weg",
+                "etwas anderes"
+            ],
+            "content":"<div class=\"\"><div> <span>Petra versuchte sich so m\u00e4dchenhaft wie m\u00f6glich zu verhalten, was ihr zun\u00e4chst auch gelang.<br>\r\nSabine meinte, dass sie zumindest mal ein Bett br\u00e4uchten, das sie ja wohl kaum am Fu\u00dfboden schlafen konnten.<br>\r\nPetra schlug vor, wie f\u00fcr Studenten \u00fcblich zu Ikea zu gehen.<br>\r\n</span></div></div>",
+            "created":1592802000,
+            "id":2854982,
+            "title":"etwas anderes"
+        },
         "122321112212":{
             "author_id":"kafoll",
             "author_name":"Kafoll",
@@ -12519,6 +12544,18 @@
             "id":2743356,
             "title":"Lina bemerkt, das Petra den M\u00e4dchen hinterhers..."
         },
+        "1223211122121122211111112121111111111232211":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "weiter",
+                "weiter"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>am Abend als die beiden wieder in der WG sind sprich Lina das Thema an</span></div></span></div>",
+            "created":1592283600,
+            "id":2852150,
+            "title":"ja"
+        },
         "122321112212112221111111212111111111123222":{
             "author_id":"rosenheim34",
             "author_name":"rosenheimer",
@@ -12860,6 +12897,17 @@
             "id":2568068,
             "title":"nach Susann sehen"
         },
+        "122321112212112221111111212111112111111211":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "ok"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>und hat sich von dem Hangover erholt<br>\r\nSie erinnert sich auch noch an das Meiste, was gestern Abend besprochen wurde, insbesondere, dass Petra ein Lesbe ist</span></div></span></div>",
+            "created":1592802000,
+            "id":2854978,
+            "title":"sie ist da"
+        },
         "12232111221211222111111121211112":{
             "author_id":"rosenheim34",
             "author_name":"rosenheimer",
@@ -13088,6 +13136,18 @@
             "created":1543381200,
             "id":2582962,
             "title":"Petra stellt sich vor"
+        },
+        "122321112212112221111111212111123":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "weiter",
+                "weiter"
+            ],
+            "content":"<div class=\"\"><div> <span>Da stand sie nun in der fast leeren Studentenbude, die neue und zuk\u00fcnftige Mitbewohnerin von Petra.<br>\r\nIhr Name war Sabine und Petra war recht angetan von ihr, auch wenn sie vom Erscheinungsbild wohl nur Durchschnitt war, sie war nett und freundlich\u2026<br>\r\n</span></div></div>",
+            "created":1592283600,
+            "id":2852167,
+            "title":"etwas anderes"
         },
         "122321112212112221111111212112":{
             "author_id":"rosenheim34",
@@ -16308,7 +16368,7 @@
                 "sofort",
                 "zu einem sp\u00e4terem Zeitpunkt"
             ],
-            "content":"<div class=\"\"><div> <span>Der Trank hatte bei der Verwandlung der Kleidung gute Arbeit geleistet und Petra war erstaunt dar\u00c3\u00bcber, wie gut der BH sa\u00c3\u009f und war auch sehr froh dar\u00c3\u00bcber, dass sie nun flache Damenschuhe anhatte und nicht etwa Pumps oder High heels oder so einen Kram. Das m\u00c3\u00b6chte sie an Frauen nicht und schon gar nicht an ihr selber!<br>\r\nEs war Mitte August und immer noch Sommer, so war es ok \u00e2\u0080\u009enur\u201c in der Bluse herumzulaufen und mit Freude und Spannung schritt Petra die Stra\u00c3\u009fe hinunter. Im Schaufenster eines Gesch\u00c3\u00a4ftes, an dem sie vorbei kam, spiegelte sie sich und wow, sie war wirklich ein Hingucker geworden und seltsamerweise hatte sich auch ihre Gangart ver\u00c3\u00a4ndert oder waren das die Damenschuhe, die ihr einen damenhaften Gang gaben?<br>\r\nEgal, nun kam der gro\u00c3\u009fe Moment, sie \u00c3\u00b6ffnete die T\u00c3\u00bcr der Wohnungsvermittlung und wurde bereits erwartet.<br>\r\nNun wurde noch einige Details vereinbart.<br>\r\nAlso: Start im  Herbstsemester, d.h. ab 1.September, in einer Woche, soll die WG bereitstehen<br>\r\nOK, dieser Punkt war gekl\u00c3\u00a4rt.<br>\r\nZweitens: Momentan war nur noch eine kleine WG Wohnung frei, also 3 Zimmer, was zur Folge hatte, dass sie nur eine Mitbewohnerin haben wird.<br>\r\nDie Dame sagte, dass sie noch Gl\u00c3\u00bcck habe, denn normalerweise sind die kleinen gleich weg, da man sich da nur mit einer weiteren Person die Wohnung teilen muss.<br>\r\nOK, das war auch gekl\u00c3\u00a4rt.<br>\r\nDie Dame sprach: \u00e2\u0080\u009eich mach jetzt einen Termin mit der zweiten Dame aus und wir treffen uns dann mit ihr. Wenn es f\u00c3\u00bcr beide dann ok ist, kriege ich noch eine Unterschrift, 500\u00e2\u0082\u00ac Kaution, 50\u00e2\u0082\u00ac Geb\u00c3\u00bchr und eine Unterschrift!\u201c<br>\r\nPetra nickte und war mit der Vorgehensweise einverstanden. Dann machten sie einen Termin f\u00c3\u00bcr\u2026<br>\r\n</span></div></div>",
+            "content":"<div class=\"\"><div> <span>Der Trank hatte bei der Verwandlung der Kleidung gute Arbeit geleistet und Petra war erstaunt dar\u00fcber, wie gut der BH sa\u00df und war auch sehr froh dar\u00fcber, dass sie nun flache Damenschuhe anhatte und nicht etwa Pumps oder High heels oder so einen Kram. Das m\u00f6chte sie an Frauen nicht und schon gar nicht an ihr selber!<br>\r\nEs war Mitte August und immer noch Sommer, so war es ok \u201enur\u201c in der Bluse herumzulaufen und mit Freude und Spannung schritt Petra die Stra\u00dfe hinunter. Im Schaufenster eines Gesch\u00e4ftes, an dem sie vorbei kam, spiegelte sie sich und wow, sie war wirklich ein Hingucker geworden und seltsamerweise hatte sich auch ihre Gangart ver\u00e4ndert oder waren das die Damenschuhe, die ihr einen damenhaften Gang gaben?<br>\r\nEgal, nun kam der gro\u00dfe Moment, sie \u00f6ffnete die T\u00fcr der Wohnungsvermittlung und wurde bereits erwartet.<br>\r\nNun wurde noch einige Details vereinbart.<br>\r\nAlso: Start im  Herbstsemester, d.h. ab 1.September, in einer Woche, soll die WG bereitstehen<br>\r\nOK, dieser Punkt war gekl\u00e4rt.<br>\r\nZweitens: Momentan war nur noch eine kleine WG Wohnung frei, also 3 Zimmer, was zur Folge hatte, dass sie nur eine Mitbewohnerin haben wird.<br>\r\nDie Dame sagte, dass sie noch Gl\u00fcck habe, denn normalerweise sind die kleinen gleich weg, da man sich da nur mit einer weiteren Person die Wohnung teilen muss.<br>\r\nOK, das war auch gekl\u00e4rt.<br>\r\nDie Dame sprach: \u201eich mach jetzt einen Termin mit der zweiten Dame aus und wir treffen uns dann mit ihr. Wenn es f\u00fcr beide dann ok ist, kriege ich noch eine Unterschrift, 500\u20ac Kaution, 50\u20ac Geb\u00fchr und eine Unterschrift!\u201c<br>\r\nPetra nickte und war mit der Vorgehensweise einverstanden. Dann machten sie einen Termin f\u00fcr\u2026<br>\r\n</span></div></div>",
             "created":1324270800,
             "id":1242386,
             "title":"... nur die Stra\u00dfe runter."
@@ -16429,6 +16489,14 @@
             "created":1412658000,
             "id":1868136,
             "title":"eine davon ist Michaela"
+        },
+        "12232111221211222111111121221111112111":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>damit hat sich die Sache erledigt</span></div></span></div>",
+            "created":1592283600,
+            "id":2852157,
+            "title":"sie hat einen Freund!"
         },
         "12232111221211222111111121221111112112":{
             "author_id":"rosenheim34",
@@ -16834,6 +16902,18 @@
             "id":2444428,
             "title":"sie trinken"
         },
+        "122321112212112221111111212211112111111":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "schlafen",
+                "etwas anderes"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Verdammt, Petra h\u00e4tte nicht so viel von dem Wein trinken sollen, denn nun drehte sich alles und sie hatte einen m\u00e4chtigen Kater\u2026.</span></div></span></div>",
+            "created":1592802000,
+            "id":2854973,
+            "title":"Petra"
+        },
         "122321112212112221111111212212":{
             "author_id":"rosenheim34",
             "author_name":"rosenheimer",
@@ -17015,6 +17095,17 @@
             "id":2763527,
             "title":"z\u00f6gern"
         },
+        "122321112212112221111111212212111112211111121":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "ok"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>nat\u00fcrlich kann sie nicht gezwungen werden, aber zu dem schwarzen Kleid schaut es doch einfach gut aus</span></div></span></div>",
+            "created":1592283600,
+            "id":2852155,
+            "title":"ja"
+        },
         "122321112212112221111111212212111112211112":{
             "author_id":"rosenheim34",
             "author_name":"rosenheimer",
@@ -17040,6 +17131,18 @@
             "id":2761989,
             "title":"Polizei"
         },
+        "12232111221211222111111121221211111221111211":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "verdammt",
+                "etwas anderes"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>und zwar nicht bei Stefi aber bei Petra das Fl\u00e4schen mit dem Zauberwasser</span></div></span></div>",
+            "created":1592802000,
+            "id":2854979,
+            "title":"ja"
+        },
         "12232111221211222111111121221211111221112":{
             "author_id":"rosenheim34",
             "author_name":"rosenheimer",
@@ -17051,6 +17154,18 @@
             "created":1411016400,
             "id":1858396,
             "title":"woanders"
+        },
+        "122321112212112221111111212212111112211121":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "weiter",
+                "weiter"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>hier ist es nicht sch\u00f6n und Petra versteht warum Stefanie irgendwie anders ist</span></div></span></div>",
+            "created":1592283600,
+            "id":2852165,
+            "title":"eine kleine Wohnung in einem Hochhaus ( Hasnbergl)"
         },
         "122321112212112221111111212212111112211122":{
             "author_id":"rosenheim34",
@@ -17242,6 +17357,18 @@
             "created":1576731600,
             "id":2761534,
             "title":"grad nochmal gut gegangen"
+        },
+        "1223211122121122211111112122121111122111221111111212112221":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "beim Abendessen",
+                "danach"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>sie kann ja nicht anders....</span></div></span></div>",
+            "created":1592802000,
+            "id":2854976,
+            "title":"sie nimmt an"
         },
         "122321112212112221111111212212111112211122111112":{
             "author_id":"rosenheim34",
@@ -17931,6 +18058,17 @@
             "id":2570245,
             "title":"Peter findet eine L\u00f6sung, seine andere Freundi..."
         },
+        "12232111221211222111111221212312112213":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "ok"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>aber dennoch will Tobias Peter nicht im Stich lassen</span></div></span></div>",
+            "created":1592283600,
+            "id":2852159,
+            "title":"etwas anderes"
+        },
         "1223211122121122211111122122":{
             "author_id":"rosenheim34",
             "author_name":"rosenheimer",
@@ -18045,7 +18183,7 @@
                 "seine Eltern kommen",
                 "etwas anderes"
             ],
-            "content":"<div class=\"\"><div> <span>\"Hm, Schade eigentlich!\" dachte sich Peter. Eigentlich war es n\u00c3\u00a4mlich sehr geil f\u00c3\u00bcr ihn, mal im K\u00c3\u00b6rper des \"Feindes\" (sprich: als hei\u00c3\u009fe Blondine) unterwegs zu sein.<br>\r\nAndererseits wollte er nat\u00c3\u00bcrlich auch wieder ein richtiger Kerl sein, um ehrlich zu sein fehlte ihm auch sein \"kleiner Freund\" weiter unten...<br>\r\n<br>\r\nEine Sache wollte er aber noch kurz probieren! Schnell rannte 'er' ins Badezimmer, \u00c3\u00b6ffnete sein Hemd und zog sich den BH herunter! \"Woah...\" brachte er nur noch heraus als ihm sein Paar wohlgeformter Br\u00c3\u00bcste auch schon entgegensprang...<br>\r\n<br>\r\nF\u00c3\u00bcr die n\u00c3\u00a4chsten paar Minuten knetete er nun seine Br\u00c3\u00bcste (dabei kam immer wieder ein \"Ist das geil!\" von ihm), als er pl\u00c3\u00b6tzlich den Motor der sich \u00c3\u00b6ffnenden Garagent\u00c3\u00bcr h\u00c3\u00b6rte! \"Fuck!\".<br>\r\n<br>\r\nSchnell tropfte er wieder ein paar Tropfen auf sich und verwandelte sich zur\u00c3\u00bcck:<br>\r\nPeter f\u00c3\u00bchlte erneut die Verwandlung, die wieder nur ein paar Sekunden dauerte, f\u00c3\u00bcr ihn aber war es genauso wie beim ersten Mal so einmalig, das es ihm sehr viel l\u00c3\u00a4nger vorkam:<br>\r\nDer Verwandlungstrank wirkte wie vorher von oben nach unten: Peter f\u00c3\u00bchlte nun wie sein Haar wieder k\u00c3\u00bcrzer wurde und er auf wieder seine urspr\u00c3\u00bcngliche m\u00c3\u00a4nnliche Frisur hatte\u2026<br>\r\nDann f\u00c3\u00bchlte er genauso wie zuvor ein Brennen seiner Haut am Oberk\u00c3\u00b6rper, als die zwei wohlgeformten Br\u00c3\u00bcste wieder verschwanden und seine m\u00c3\u00a4nnliche Brustbehaarung im gleichen Moment wieder wuchs\u2026<br>\r\nPeter f\u00c3\u00bchle nun, wie sich seine Kleidung ver\u00c3\u00a4nderte und der BH verschwand und die weibliche Bluse wieder zu seinem Hemd wurde\u2026<br>\r\nPeter f\u00c3\u00bchlte nun, dass sich seine H\u00c3\u00bcften und die gesamte Knochenstruktur zur\u00c3\u00bcck ver\u00c3\u00a4nderten. Diesmal blieb er standhaft!<br>\r\n<br>\r\nIm n\u00c3\u00a4chsten Moment ver\u00c3\u00a4nderte sich die Situation in seiner Hose dramatisch, denn sein Ding wuchs wieder wie aus dem Nichts und seine Eier im Sack waren wieder da\u2026<br>\r\nPeter war wieder ein Mann!<br>\r\nSeine Beine wurden muskul\u00c3\u00b6ser und behaarter und er hatte nun auch wieder seine Jeans an, die nun nicht mehr so hauteng war\u2026<br>\r\nes war geschehen und genau im rechten Moment, denn\u2026<br>\r\n</span></div></div>",
+            "content":"<div class=\"\"><div> <span>\"Hm, Schade eigentlich!\" dachte sich Peter. Eigentlich war es n\u00e4mlich sehr geil f\u00fcr ihn, mal im K\u00f6rper des \"Feindes\" (sprich: als hei\u00dfe Blondine) unterwegs zu sein.<br>\r\nAndererseits wollte er nat\u00fcrlich auch wieder ein richtiger Kerl sein, um ehrlich zu sein fehlte ihm auch sein \"kleiner Freund\" weiter unten...<br>\r\n<br>\r\nEine Sache wollte er aber noch kurz probieren! Schnell rannte 'er' ins Badezimmer, \u00f6ffnete sein Hemd und zog sich den BH herunter! \"Woah...\" brachte er nur noch heraus als ihm sein Paar wohlgeformter Br\u00fcste auch schon entgegensprang...<br>\r\n<br>\r\nF\u00fcr die n\u00e4chsten paar Minuten knetete er nun seine Br\u00fcste (dabei kam immer wieder ein \"Ist das geil!\" von ihm), als er pl\u00f6tzlich den Motor der sich \u00f6ffnenden Garagent\u00fcr h\u00f6rte! \"Fuck!\".<br>\r\n<br>\r\nSchnell tropfte er wieder ein paar Tropfen auf sich und verwandelte sich zur\u00fcck:<br>\r\nPeter f\u00fchlte erneut die Verwandlung, die wieder nur ein paar Sekunden dauerte, f\u00fcr ihn aber war es genauso wie beim ersten Mal so einmalig, das es ihm sehr viel l\u00e4nger vorkam:<br>\r\nDer Verwandlungstrank wirkte wie vorher von oben nach unten: Peter f\u00fchlte nun wie sein Haar wieder k\u00fcrzer wurde und er auf wieder seine urspr\u00fcngliche m\u00e4nnliche Frisur hatte\u2026<br>\r\nDann f\u00fchlte er genauso wie zuvor ein Brennen seiner Haut am Oberk\u00f6rper, als die zwei wohlgeformten Br\u00fcste wieder verschwanden und seine m\u00e4nnliche Brustbehaarung im gleichen Moment wieder wuchs\u2026<br>\r\nPeter f\u00fchle nun, wie sich seine Kleidung ver\u00e4nderte und der BH verschwand und die weibliche Bluse wieder zu seinem Hemd wurde\u2026<br>\r\nPeter f\u00fchlte nun, dass sich seine H\u00fcften und die gesamte Knochenstruktur zur\u00fcck ver\u00e4nderten. Diesmal blieb er standhaft!<br>\r\n<br>\r\nIm n\u00e4chsten Moment ver\u00e4nderte sich die Situation in seiner Hose dramatisch, denn sein Ding wuchs wieder wie aus dem Nichts und seine Eier im Sack waren wieder da\u2026<br>\r\nPeter war wieder ein Mann!<br>\r\nSeine Beine wurden muskul\u00f6ser und behaarter und er hatte nun auch wieder seine Jeans an, die nun nicht mehr so hauteng war\u2026<br>\r\nes war geschehen und genau im rechten Moment, denn\u2026<br>\r\n</span></div></div>",
             "created":1324270800,
             "id":1242419,
             "title":"Zur\u00fcckverwandlung"
@@ -18382,7 +18520,7 @@
                 "vewandlung im zug",
                 "etwas anderes"
             ],
-            "content":"<div class=\"\"><div> <span>Seine Mutter fuhr ihn wie versprochen zum Bahnhof in der nahegelegenen Stadt (hier waren die Verbindungen einfach besser) und morgens um 5 war hier echt noch nicht viel los. Peter musste sich nun jedoch wieder irgendwie verwandeln, aber das Klo am Bahnhof hatte zumindest im Eingangsbereich Kameras und es waren zwar nicht viele Leute unterwegs aber das w\u00c3\u00bcrde Aufsehen erregen, wenn sie als Mann hineinging und als Frau herauskommt\u2026</span></div></div>",
+            "content":"<div class=\"\"><div> <span>Seine Mutter fuhr ihn wie versprochen zum Bahnhof in der nahegelegenen Stadt (hier waren die Verbindungen einfach besser) und morgens um 5 war hier echt noch nicht viel los. Peter musste sich nun jedoch wieder irgendwie verwandeln, aber das Klo am Bahnhof hatte zumindest im Eingangsbereich Kameras und es waren zwar nicht viele Leute unterwegs aber das w\u00fcrde Aufsehen erregen, wenn sie als Mann hineinging und als Frau herauskommt\u2026</span></div></div>",
             "created":1325048400,
             "id":1247744,
             "title":"am bahnhof"
@@ -19715,7 +19853,7 @@
                 "... stellte sie fest, dass sie einige Blicke auf sich zog!",
                 "Etwas anderes"
             ],
-            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Der Rest der ca. 2 st\u00c3\u00bcndigen Fahrt verlief problemlos. Doch als Petra in M\u00c3\u00bcnchen ankommt\u2026.</span></div></span></div>",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Der Rest der ca. 2 st\u00fcndigen Fahrt verlief problemlos. Doch als Petra in M\u00fcnchen ankommt\u2026.</span></div></span></div>",
             "created":1326690000,
             "id":1259557,
             "title":"Ankunft in M\u00fcnchen"
@@ -20005,7 +20143,7 @@
                 "Sie setzt sich hin und pinkelt.",
                 "Sie benutzt den Trank!"
             ],
-            "content":"<div class=\"\"><div> <span>Verdammt, als M\u00c3\u00a4dchen scheint man eine kleine oder schwache Blase zu haben und sie muss nun eine \u00c3\u00b6ffentliche Toilette aufsuchen, was nicht das Problem ist, das Problem ist, dass sie nun keinen Schwanz mehr hat und tats\u00c3\u00a4chlich im Sitzen wie das M\u00c3\u00a4dchen eben so tun pinkeln muss\u2026<br>\r\n<br>\r\nSchnell suchte Petra nun das stille \u00c3\u0096rtchen auf und verschwand dort in einer Kabine.</span></div></div>",
+            "content":"<div class=\"\"><div> <span>Verdammt, als M\u00e4dchen scheint man eine kleine oder schwache Blase zu haben und sie muss nun eine \u00f6ffentliche Toilette aufsuchen, was nicht das Problem ist, das Problem ist, dass sie nun keinen Schwanz mehr hat und tats\u00e4chlich im Sitzen wie das M\u00e4dchen eben so tun pinkeln muss\u2026<br>\r\n<br>\r\nSchnell suchte Petra nun das stille \u00d6rtchen auf und verschwand dort in einer Kabine.</span></div></div>",
             "created":1329454800,
             "id":1278744,
             "title":"... muss sie pinkeln."
@@ -21445,7 +21583,7 @@
                 "sie wird erregt dabei",
                 "sie erreicht den zug"
             ],
-            "content":"<div class=\"\"><div> <span>Verdammt, sie musste nun Rennen, Treppen runter und am Gleis 2 wieder rauf\u2026<br>\r\nIhr neuer weiblicher K\u00c3\u00b6rper war perfekt und sicherlich auch sportlich, aber es lies sich nicht vermeiden, dass ihre Br\u00c3\u00bcste wabbelten und schwabbelten\u2026<br>\r\n</span></div></div>",
+            "content":"<div class=\"\"><div> <span>Verdammt, sie musste nun Rennen, Treppen runter und am Gleis 2 wieder rauf\u2026<br>\r\nIhr neuer weiblicher K\u00f6rper war perfekt und sicherlich auch sportlich, aber es lies sich nicht vermeiden, dass ihre Br\u00fcste wabbelten und schwabbelten\u2026<br>\r\n</span></div></div>",
             "created":1330923600,
             "id":1289333,
             "title":"Falsches Gleis, Petra muss rennen!"
@@ -26821,7 +26959,7 @@
                 "M\u00e4dchen bleiben.",
                 "Tropfen!"
             ],
-            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\u00e2\u0080\u009eAlso das geht zu weit!\u201c sagt der weibliche Tobias.<br>\r\nPeter erwidert:<br>\r\n\u00e2\u0080\u009eWillst Du ein M\u00c3\u00a4dchen bleiben oder soll ich nun wieder ein paar Tropfen auf Dich tun?\u201c.<br>\r\n</span></div></span></div>",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\u201eAlso das geht zu weit!\u201c sagt der weibliche Tobias.<br>\r\nPeter erwidert:<br>\r\n\u201eWillst Du ein M\u00e4dchen bleiben oder soll ich nun wieder ein paar Tropfen auf Dich tun?\u201c.<br>\r\n</span></div></span></div>",
             "created":1336021200,
             "id":1328562,
             "title":"Nein"
@@ -32656,6 +32794,17 @@
             "id":2588155,
             "title":"die Wahrheit?"
         },
+        "122321112222111111111111111112211":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "ok"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>bleibt ja nichts anderes \u00fcbrig....</span></div></span></div>",
+            "created":1592283600,
+            "id":2852166,
+            "title":"ja"
+        },
         "1223211122221111111112":{
             "author_id":"rosenheim34",
             "author_name":"rosenheimer",
@@ -34252,6 +34401,19 @@
             "created":1542344400,
             "id":2578571,
             "title":"Luisa kommt nochmal und will Klarheit"
+        },
+        "1223211122222113111111111323111133222231":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "ja",
+                "nicht wirklich",
+                "sie will Beweise"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>und glaubt sie ihm?</span></div></span></div>",
+            "created":1592802000,
+            "id":2854977,
+            "title":"die Wahrheit"
         },
         "122321112222211311111112":{
             "author_id":"rosenheim34",
@@ -36470,6 +36632,30 @@
             "id":2750191,
             "title":"die Dame mit der sie telefoniert hatte"
         },
+        "12232112111111":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "ok"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>sie bekommt die Wohnung wie zugesichert und besprochen und kann gleich rein, um dort ihre zuk\u00fcnftige Mitbewohnerin zu treffen</span></div></span></div>",
+            "created":1592802000,
+            "id":2854986,
+            "title":"ja"
+        },
+        "122321121111111":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "Ankuft",
+                "auf dem Weg",
+                "etwas anderes"
+            ],
+            "content":"<div class=\"\"><div> <span>Ihr Name war Sabine und Petra war recht angetan von ihr, auch wenn sie vom Erscheinungsbild wohl nur Durchschnitt war, sie war nett und freundlich\u2026<br>\r\nPetra versuchte sich so m\u00e4dchenhaft wie m\u00f6glich zu verhalten, was ihr zun\u00e4chst auch gelang.<br>\r\nSabine meinte, dass sie zumindest mal ein Bett br\u00e4uchten, das sie ja wohl kaum am Fu\u00dfboden schlafen konnten.<br>\r\nPetra schlug vor, wie f\u00fcr Studenten \u00fcblich zu Ikea zu gehen.<br>\r\n</span></div></div>",
+            "created":1592802000,
+            "id":2854987,
+            "title":"ok"
+        },
         "1223212":{
             "author_id":"rosenheim34",
             "author_name":"rosenheimer",
@@ -36798,6 +36984,18 @@
             "created":1574398800,
             "id":2750185,
             "title":"jemand kommt dazu"
+        },
+        "1223222111122":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "m\u00e4nnliche Person",
+                "weibliche Person"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>wer kommt dazu?</span></div></span></div>",
+            "created":1592283600,
+            "id":2852154,
+            "title":"jemand anderes"
         },
         "12233":{
             "author_id":"rosenheim34",
@@ -38114,7 +38312,7 @@
                 "sie tanzen",
                 "mehr als nur tanzen"
             ],
-            "content":"<div class=\"\"><div> <span>\u00e2\u0080\u009eAn der Bar, ich bin die blonde gutaussehende Frau..\u201c<br>\r\n<br>\r\n<br>\r\nUnglaublich, Peter ging r\u00c3\u00bcber zur Bar:<br>\r\n<br>\r\n<br>\r\n\u00e2\u0080\u009eHey Mark, bist du es?\u201c fragte er unsicher die h\u00c3\u00bcbsche blonde Frau\u2026<br>\r\n<br>\r\n\u00e2\u0080\u009eJa ich  bin es, habe aber ein Problem!\u201c kam die Antwort, aber es war nicht Marks Stimme, sondern eine weibliche, sehr verf\u00c3\u00bchrerische\u2026<br>\r\nPeter sa\u00c3\u009f nun an der Bar neben seinem Freund, der nun eine super hei\u00c3\u009fe Schnecke in einer engen Hose und einem wei\u00c3\u009fen ebenfalls sehr eng anliegenden Top war\u2026<br>\r\n\u00e2\u0080\u009eWas ist das Problem?\u201c fragte Peter.<br>\r\n\u00e2\u0080\u009eich sitz voll in der scheisse, der Trank funktioniert und hat mich hier zum perfekten Babe gemacht. Ich habe sogar einen Ausweis mit einem weiblichen Namen und all dem Scheiss, aber ich muss 24 Stunden so bleiben\u2026<br>\r\n\u00e2\u0080\u009eVerdammt und nun?\u201c fragte Peter ratlos\u2026.<br>\r\nKeine Antwort, aber Die beiden fanden heraus, dass 1 tropfen von dem Verwandlungstrank gen\u00c3\u00bcgte, um eine perfekte Verwandlung in eine andere Person durchzuf\u00c3\u00bchren, und sogar Dokumente wie z.B. der Ausweis konnte mit einem Tropfen passend gemacht werden. Der einzige Nachteil bzw. Fakt dabei war, dass der verwandelte Zustand exakt 24 Stunden anhielt und die Person oder der Gegenstand innerhalb dieser Zeit nicht nochmal verwandelt werden konnte. So war es Fakt, dass Mark bis Samstag Abend 23.55 eine hei\u00c3\u009fe Blondine bleiben musste. Sie war 18 und hie\u00c3\u009f Marta M\u00c3\u00bcller, wie einfallsreich, aber immerhin\u2026.<br>\r\n<br>\r\nAuf die immer noch offene Frage was nun, fanden die beiden auch nach einigen Bieren keine rechte Antwort, aber da sie nun schon mal hier in der Disko waren und beide nun legal hier sein durften, schlug Peter vor, erst mal Party machen und den Abend genie\u00c3\u009fen.<br>\r\nMarta sagte:\u201c Das kannst du vielleicht, aber ich als Vollweib, wei\u00c3\u009f nicht ob mir das alles so gef\u00c3\u00a4llt!?\u201c<br>\r\n\u00e2\u0080\u009eWarum denn nicht? Lass uns tanzen!\u201c schlug Peter vor\u2026<br>\r\n</span></div></div>",
+            "content":"<div class=\"\"><div> <span>\u201eAn der Bar, ich bin die blonde gutaussehende Frau..\u201c<br>\r\n<br>\r\n<br>\r\nUnglaublich, Peter ging r\u00fcber zur Bar:<br>\r\n<br>\r\n<br>\r\n\u201eHey Mark, bist du es?\u201c fragte er unsicher die h\u00fcbsche blonde Frau\u2026<br>\r\n<br>\r\n\u201eJa ich  bin es, habe aber ein Problem!\u201c kam die Antwort, aber es war nicht Marks Stimme, sondern eine weibliche, sehr verf\u00fchrerische\u2026<br>\r\nPeter sa\u00df nun an der Bar neben seinem Freund, der nun eine super hei\u00dfe Schnecke in einer engen Hose und einem wei\u00dfen ebenfalls sehr eng anliegenden Top war\u2026<br>\r\n\u201eWas ist das Problem?\u201c fragte Peter.<br>\r\n\u201eich sitz voll in der scheisse, der Trank funktioniert und hat mich hier zum perfekten Babe gemacht. Ich habe sogar einen Ausweis mit einem weiblichen Namen und all dem Scheiss, aber ich muss 24 Stunden so bleiben\u2026<br>\r\n\u201eVerdammt und nun?\u201c fragte Peter ratlos\u2026.<br>\r\nKeine Antwort, aber Die beiden fanden heraus, dass 1 tropfen von dem Verwandlungstrank gen\u00fcgte, um eine perfekte Verwandlung in eine andere Person durchzuf\u00fchren, und sogar Dokumente wie z.B. der Ausweis konnte mit einem Tropfen passend gemacht werden. Der einzige Nachteil bzw. Fakt dabei war, dass der verwandelte Zustand exakt 24 Stunden anhielt und die Person oder der Gegenstand innerhalb dieser Zeit nicht nochmal verwandelt werden konnte. So war es Fakt, dass Mark bis Samstag Abend 23.55 eine hei\u00dfe Blondine bleiben musste. Sie war 18 und hie\u00df Marta M\u00fcller, wie einfallsreich, aber immerhin\u2026.<br>\r\n<br>\r\nAuf die immer noch offene Frage was nun, fanden die beiden auch nach einigen Bieren keine rechte Antwort, aber da sie nun schon mal hier in der Disko waren und beide nun legal hier sein durften, schlug Peter vor, erst mal Party machen und den Abend genie\u00dfen.<br>\r\nMarta sagte:\u201c Das kannst du vielleicht, aber ich als Vollweib, wei\u00df nicht ob mir das alles so gef\u00e4llt!?\u201c<br>\r\n\u201eWarum denn nicht? Lass uns tanzen!\u201c schlug Peter vor\u2026<br>\r\n</span></div></div>",
             "created":1325134800,
             "id":1248529,
             "title":"... die blonde gutaussehende Frau."
@@ -39498,7 +39696,7 @@
                 "... stellte sie sich \u00fcber eine Unterhose ihres Sohnes.",
                 "Etwas Anderes."
             ],
-            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>... ihres Sohnes Tim (16). Nerv\u00f6s tippt sie auf der Tastatur ihres Handys herum.<br>\r\n<br>\r\n<span style=\"font-family:comic sans ms, cursive\">Werde mich jetzt gleich vwndeln. LG Tata <img style=\"\" src=\"https://images.Writing.Com/imgs/writing.com/writers/e15/heart.png\" alt=\"*Heart*\" class=\"emoteZ\" title=\"Heart\" border=\"0\" width=\"15\" height=\"15\"><br>\r\nPS: beim Waschen aufpassen!</span><br>\r\n<br>\r\nAls N\u00e4chstes...</span></div></span></div>",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>... ihres Sohnes Tim (16). Nerv\u00f6s tippt sie auf der Tastatur ihres Handys herum.<br>\r\n<br>\r\n<span style=\"font-family:comic sans ms, cursive\">Werde mich jetzt gleich vwndeln. LG Tata <img loading=\"lazy\" style=\"\" src=\"https://images.Writing.Com/imgs/writing.com/writers/e15/heart.png\" alt=\"*Heart*\" class=\"emoteZ\" title=\"Heart\" border=\"0\" width=\"15\" height=\"15\"><br>\r\nPS: beim Waschen aufpassen!</span><br>\r\n<br>\r\nAls N\u00e4chstes...</span></div></span></div>",
             "created":1315285200,
             "id":1182238,
             "title":"... ihres Sohnes Tim (16)."
@@ -41560,10 +41758,10 @@
             "author_id":"rosenheim34",
             "author_name":"rosenheimer",
             "choices":[
-                "\u00e2\u0080\u009eWas machen wir nun heute Abend?\u201c fragte die Rothaarige.",
+                "\u201eWas machen wir nun heute Abend?\u201c fragte die Rothaarige.",
                 "Etwas Anderes."
             ],
-            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Nun war seine Frau begeistert und neidisch zugleich, denn diese super hei\u00c3\u009fe Rothaarige war ziemlich gut gebaut und hatte einen eleganten Rock an und dazu eine passende Bluse\u2026<br>\r\n<br>\r\n</span></div></span></div>",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Nun war seine Frau begeistert und neidisch zugleich, denn diese super hei\u00dfe Rothaarige war ziemlich gut gebaut und hatte einen eleganten Rock an und dazu eine passende Bluse\u2026<br>\r\n<br>\r\n</span></div></span></div>",
             "created":1321851600,
             "id":1226573,
             "title":"... gr\u00f6\u00dfere Br\u00fcste und einen Rock an."
@@ -41578,7 +41776,7 @@
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\u201eWas machen wir nun heute Abend?\u201c fragte die Rothaarige...</span></div></span></div>",
             "created":1328072400,
             "id":1269254,
-            "title":"\u0084Was machen wir nun heute Abend?\u201c"
+            "title":"\u201eWas machen wir nun heute Abend?\u201c"
         },
         "14111112211212111":{
             "author_id":"kafoll",
@@ -44444,7 +44642,7 @@
                 "... eines seiner Kinder studieren wird.",
                 "Etwas Anderes"
             ],
-            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Unsere Geschichte vom \u00e2\u0080\u009eUndercover Dad\u201c startet damit, dass Martin 45 geworden ist und...</span></div></span></div>",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Unsere Geschichte vom \u201eUndercover Dad\u201c startet damit, dass Martin 45 geworden ist und...</span></div></span></div>",
             "created":1330578000,
             "id":1286877,
             "title":"der plan"
@@ -44528,7 +44726,7 @@
                 "\"Hm... erz\u00e4hl was \u00fcber dich!\" sagte Laura.",
                 "Etwas Anderes"
             ],
-            "content":"<div class=\"\"><div> <span>Die beiden stellten sich vor und Tina sagte, dass sie noch eine dritte Mitbewohnerin bekommen werden, irgendeine Petra, die sich sehr kurzfristig f\u00c3\u00bcr das Zimmer in der WG entschieden hatte. Aber die wird wohl erst morgen kommen und dann ist erst mal Wochenende bevor das Studium mit den Vorlesungen losgeht.<br>\r\n\u00e2\u0080\u009eWas machen wir heute?\u201c fragte Tina\u2026.<br>\r\n</span></div></div>",
+            "content":"<div class=\"\"><div> <span>Die beiden stellten sich vor und Tina sagte, dass sie noch eine dritte Mitbewohnerin bekommen werden, irgendeine Petra, die sich sehr kurzfristig f\u00fcr das Zimmer in der WG entschieden hatte. Aber die wird wohl erst morgen kommen und dann ist erst mal Wochenende bevor das Studium mit den Vorlesungen losgeht.<br>\r\n\u201eWas machen wir heute?\u201c fragte Tina\u2026.<br>\r\n</span></div></div>",
             "created":1345179600,
             "id":1406446,
             "title":"\"Hi, ich bin die Tina! Du bist Laura, richt..."
@@ -44600,7 +44798,7 @@
                 "in M\u00fcnchen",
                 "auf dem Weg dorthin"
             ],
-            "content":"<div class=\"\"><div> <span>So nun war es an der Zeit ihren Plan umzusetzen, nachdem Martin sich langsam daran gew\u00c3\u00b6hnt hatte, keinen Schwanz mehr zu haben!<br>\r\nNun ging es also auf nach M\u00c3\u00bcnchen in der neuen Gestalt, um die kleine Wohnung neben seiner Tochter zu beziehen\u2026<br>\r\n</span></div></div>",
+            "content":"<div class=\"\"><div> <span>So nun war es an der Zeit ihren Plan umzusetzen, nachdem Martin sich langsam daran gew\u00f6hnt hatte, keinen Schwanz mehr zu haben!<br>\r\nNun ging es also auf nach M\u00fcnchen in der neuen Gestalt, um die kleine Wohnung neben seiner Tochter zu beziehen\u2026<br>\r\n</span></div></div>",
             "created":1331010000,
             "id":1290026,
             "title":"etwas anderes"
@@ -46254,7 +46452,7 @@
                 "\"Warte!\" sagte sie und trank etwas aus einem kleinen Fl\u00e4schen.",
                 "\"Habe ich versucht, funktioniert nur nicht!\" sagte sie."
             ],
-            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\u00e2\u0080\u009eSpielt keine Rolle!\u201c sprach das M\u00c3\u00a4dchen mit der m\u00c3\u00a4nnlichen Stimme. \"Du musst allerdings noch an der Stimme arbeiten!\" antwortete Mathias.</span></div></span></div>",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\u201eSpielt keine Rolle!\u201c sprach das M\u00e4dchen mit der m\u00e4nnlichen Stimme. \"Du musst allerdings noch an der Stimme arbeiten!\" antwortete Mathias.</span></div></span></div>",
             "created":1325221200,
             "id":1249160,
             "title":"\"... hast du das gemacht!?\"."
@@ -46326,7 +46524,7 @@
                 "\"Okay, Sohn...\".",
                 "Sie zieht alle Register!"
             ],
-            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\u00e2\u0080\u009eich muss das erst mal verkraften!\u201c sagte der verlegene Mathias und ihm war gar nicht danach mit dem h\u00c3\u00bcbschen M\u00c3\u00a4dchen, das nun willig vor ihm stand, was anzufangen\u2026</span></div></span></div>",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\u201eich muss das erst mal verkraften!\u201c sagte der verlegene Mathias und ihm war gar nicht danach mit dem h\u00fcbschen M\u00e4dchen, das nun willig vor ihm stand, was anzufangen\u2026</span></div></span></div>",
             "created":1325221200,
             "id":1249203,
             "title":"Mathias wird nur noch verlegener!"
@@ -47177,7 +47375,7 @@
                 "so sch\u00fcchtern ist",
                 "Etwas Anderes"
             ],
-            "content":"<div class=\"\"><div> <span>Er schaut sich zu Hause um, niemand ist da. Also schaltet er schnell seinen PC ein und surft auf Seiten, wo er nackte M\u00c3\u00a4dchen zu sehen bekommt.<br>\r\nDabei holt er sich einen runter. Als er gekommen ist denkt er wie meistens in solchen Situationen wie gern er eine Freundin h\u00c3\u00a4tte, aber irgendwie schien ihn kein M\u00c3\u00a4dchen so recht zu m\u00c3\u00b6gen, weil er\u2026<br>\r\n<br>\r\n</span></div></div>",
+            "content":"<div class=\"\"><div> <span>Er schaut sich zu Hause um, niemand ist da. Also schaltet er schnell seinen PC ein und surft auf Seiten, wo er nackte M\u00e4dchen zu sehen bekommt.<br>\r\nDabei holt er sich einen runter. Als er gekommen ist denkt er wie meistens in solchen Situationen wie gern er eine Freundin h\u00e4tte, aber irgendwie schien ihn kein M\u00e4dchen so recht zu m\u00f6gen, weil er\u2026<br>\r\n<br>\r\n</span></div></div>",
             "created":1325739600,
             "id":1252869,
             "title":"und surft im internet"
@@ -47524,7 +47722,7 @@
                 "ja aber nicht allein",
                 "vergiss es"
             ],
-            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So gern Yvonne ihrem Sohn helfen wollte, ihr kam nun W\u00c3\u00bcrgereiz und sie musste aufh\u00c3\u00b6ren. Mathias nahm das sichtlich mit und fragte ob er schnell duschen sollte\u2026</span></div></span></div>",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So gern Yvonne ihrem Sohn helfen wollte, ihr kam nun W\u00fcrgereiz und sie musste aufh\u00f6ren. Mathias nahm das sichtlich mit und fragte ob er schnell duschen sollte\u2026</span></div></span></div>",
             "created":1326258000,
             "id":1256471,
             "title":"Yvonne und der Brechreiz"
@@ -47752,7 +47950,7 @@
                 "\"Ja was wohl... Sex!\".",
                 "oder das"
             ],
-            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Als sie Mathias sah sagte die h\u00c3\u00bcbsche Braunhaarige, dass sie zu ihm wollte\u2026.<br>\r\nMathias war nun auch neugierig geworden und wollte wissen: \u00e2\u0080\u009eWas genau willst Du von mir?\u201c<br>\r\n<br>\r\n</span></div></span></div>",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Als sie Mathias sah sagte die h\u00fcbsche Braunhaarige, dass sie zu ihm wollte\u2026.<br>\r\nMathias war nun auch neugierig geworden und wollte wissen: \u201eWas genau willst Du von mir?\u201c<br>\r\n<br>\r\n</span></div></span></div>",
             "created":1343624400,
             "id":1393226,
             "title":"ja"
@@ -49655,12 +49853,13 @@
     "info":{
         "author_id":"kafoll",
         "author_name":"Kafoll",
-        "brief_description":"Eines Tages findet jemand einen Zaubertrank mit Verwandlungskr\u00c3\u00a4ften auf Ebay!",
+        "brief_description":"Eines Tages findet jemand einen Zaubertrank mit Verwandlungskr\u00e4ften auf Ebay!",
         "created":1315162860,
-        "description":"<td align=\"left\" class=\"norm\">Eines Tages findet jemand einen Zaubertrank mit Verwandlungskr\u00c3\u00a4ften auf Ebay!</td>",
+        "description":"<td align=\"left\" class=\"norm\">Eines Tages findet jemand einen Zaubertrank mit Verwandlungskr\u00e4ften auf Ebay!</td>",
         "id":1807789,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1577101080,
+        "last_full_update":1577101080,
+        "modified":1592832000,
         "pretty_title":"Der Verwandlungstrank"
     }
 }

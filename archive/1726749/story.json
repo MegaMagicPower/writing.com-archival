@@ -1815,6 +1815,30 @@
             "id":1962973,
             "title":"Confidant Queen"
         },
+        "12433232":{
+            "author_id":"potatoking",
+            "author_name":"Potato King",
+            "choices":[
+                "Paw growth?",
+                "More/other"
+            ],
+            "content":"<div class=\"\"><div> <span>After all, there's a fairly wide range for what counts as \"transformation\". So what should happen to Vitani?<br>\r\n<br>\r\n(Also, the options for her kinda dead ended here, so I think it's good to have a \"more\" or \"other\" option available, in case something you wanted wasn't present, so you can write it in.)</span></div></div>",
+            "created":1591765200,
+            "id":2849153,
+            "title":"Transformation, but what does that mean?"
+        },
+        "124332321":{
+            "author_id":"potatoking",
+            "author_name":"Potato King",
+            "choices":[
+                "Anthro",
+                "Feral"
+            ],
+            "content":"<div class=\"\"><div> <span>Paw growth! <br>\r\n<br>\r\nWell howdy, I'm glad you clicked this chapter!<br>\r\n<br>\r\nOne more little choice to make before we start though, and it does make a difference here.<br>\r\n<br>\r\nShould she be anthro, or feral?<br>\r\n<br>\r\n If she's anthro, then she'll have a proper pair of plantigrade feet. And the story will probably end up being set in some kinda AU where the characters and settings are translated to be more like a human society. i.e., A city or town where she, Kiara, Kovu, and the others live in houses and go to highschool, or something like that.<br>\r\n<br>\r\n If she's feral, it'll just be the normal setting. Pridelands and outlands, you know. She'd have digitigrade hindpaws and be a quadruped.<br>\r\n<br>\r\n Which'd you prefer?</span></div></div>",
+            "created":1591765200,
+            "id":2849156,
+            "title":"Paw growth?"
+        },
         "125":{
             "choices":[
                 "Sarafina",
@@ -1847,6 +1871,18 @@
             "created":1490677200,
             "id":2295858,
             "title":"Zira"
+        },
+        "12522":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "Older",
+                "Younger"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will Zira get older or younger?</span></div></span></div>",
+            "created":1590987600,
+            "id":2843947,
+            "title":"Age change"
         },
         "13":{
             "author_id":"nagastener",
@@ -1974,6 +2010,19 @@
             "created":1559710800,
             "id":2669400,
             "title":"Shenzi"
+        },
+        "1333":{
+            "author_id":"potatoking",
+            "author_name":"Potato King",
+            "choices":[
+                "Weight gain",
+                "Inflation",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Well, why not weight gain? It's always a good option- and it's especially fun for Shenzi!<br>\r\n<br>\r\nAlternatively...I don't know, inflation? Similar vein, but different enough to warrant its own option, probably.</span></div></span></div>",
+            "created":1591938000,
+            "id":2849999,
+            "title":"Something else for Shenzi?"
         },
         "14":{
             "author_id":"nagastener",
@@ -2130,6 +2179,18 @@
             "id":2820550,
             "title":"Male"
         },
+        "1511111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Magic",
+                "Science"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How will he transform into a lion cub?</span></div></span></div>",
+            "created":1590901200,
+            "id":2843877,
+            "title":"A lion cub"
+        },
         "151112":{
             "author_id":"johnny2",
             "author_name":"littlejohn",
@@ -2141,6 +2202,18 @@
             "created":1587186000,
             "id":2820579,
             "title":"Female"
+        },
+        "1511121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Magic",
+                "Science"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How will she transform into a lion cub?</span></div></span></div>",
+            "created":1590987600,
+            "id":2843948,
+            "title":"A lion cub"
         },
         "15112":{
             "author_id":"johnny2",
@@ -2165,6 +2238,18 @@
             "created":1587358800,
             "id":2821505,
             "title":"Male"
+        },
+        "1511211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Magic",
+                "Science"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How will he transform into a lion?</span></div></span></div>",
+            "created":1591938000,
+            "id":2850021,
+            "title":"A lion"
         },
         "151122":{
             "author_id":"johnny2",
@@ -4442,6 +4527,19 @@
             "id":2407653,
             "title":"A (body) part of something greater?"
         },
+        "1523321122":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "He swaps bodies with someone",
+                "His changes has something to do with his species",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What else could happen to Janja?</span></div></span></div>",
+            "created":1591851600,
+            "id":2849527,
+            "title":"Something else"
+        },
         "1523322":{
             "author_id":"mrmasterplan",
             "author_name":"MrMasterplan",
@@ -4513,6 +4611,19 @@
             "created":1521003600,
             "id":2464338,
             "title":"Yes"
+        },
+        "15233221212":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "Simba",
+                "Bunga",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who else could Jasiri swap bodies with?</span></div></span></div>",
+            "created":1591851600,
+            "id":2849531,
+            "title":"Someone else"
         },
         "1523322122":{
             "author_id":"mysterykid18",
@@ -4609,6 +4720,31 @@
             "created":1522990800,
             "id":2475713,
             "title":"Humanoid Hyena?"
+        },
+        "1523322122222":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "Yes, that's it!",
+                "No, that's not it!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Maybe Jasiri will turn into a different species of animal?</span></div></span></div>",
+            "created":1591851600,
+            "id":2849530,
+            "title":"No Longer A Hyena?"
+        },
+        "15233221222221":{
+            "author_id":"mysterykid18",
+            "author_name":"Mysteryguy18",
+            "choices":[
+                "Lion",
+                "Cheetah",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will Jasiri turn into a lion or a cheetah?</span></div></span></div>",
+            "created":1591851600,
+            "id":2849672,
+            "title":"Yes, that's it!"
         }
     },
     "info":{
@@ -4619,7 +4755,8 @@
         "description":"<td align=\"left\" class=\"norm\">In the Lion King, there has always been an air of mystery. Now, the characters are finding out what this means, as they begins to change...<br>\r\n<br>\r\n-------<br>\r\n<br>\r\nBasically, this is an expansion/body alteration story for the Lion King at heart, although for the sake of a good story I can overlook not including any examples of change. I would prefer good writing over straight fetish work, but the main aim of this story is to entertain :)<br>\r\n<br>\r\nThe list of changes includes, but isn't limited to:<br>\r\n<br>\r\nInflation<br>\r\nBody part expansion<br>\r\nGrowth<br>\r\nShrinking<br>\r\nMuscle increase/decrease<br>\r\nAge changing<br>\r\nTransformations<br>\r\nPregnancy<br>\r\n*Weight Gain*<br>\r\n<br>\r\nI am fairly tolerant over what I will allow here, but I will reserve the right to edit any chapters that do not reach a certain quality. (IE, are riddled with basic mistakes)<br>\r\n<span style=\"text-decoration:line-through\"><br>\r\nHowever, I will not allow weight gain in this story. As much as I would want to see it, there are already two Lion King weight gain stories, and I don't think a third is necessary. </span> As one of the Lion King weight gain stories has disappeared, and the other two cater exclusively for one gender each and have limited options available, I am now allowing weight gain storylines to be added to this story.<br>\r\n<br>\r\nThe characters may be made anthros in the story, either as a transformation or in general, as long as it is stated at the start of the branch.<br>\r\n<br>\r\nOther than that, don't kill off the characters without asking me first (I will allow it for a good story reason), and have fun while making this a good story :)</td>",
         "id":1726749,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1587380580,
+        "last_full_update":0,
+        "modified":1591939620,
         "pretty_title":"Changing Circle of Life"
     }
 }

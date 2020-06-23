@@ -4146,6 +4146,69 @@
             "id":2837580,
             "title":"Yes"
         },
+        "141222232211211":{
+            "author_id":"mbrody",
+            "author_name":"MBrody",
+            "choices":[
+                "a green T-shirt, a flowery pink diaper, and a pair of shoes -- and that's it",
+                "a pink shirt and a diaper -- and that's it"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0You decided then to go with it and trade lives with Ruby's baby sister. What is the baby wearing?</span></div></span></div>",
+            "created":1590901200,
+            "id":2843679,
+            "title":"Swap with her baby sister"
+        },
+        "1412222322112112":{
+            "author_id":"byren",
+            "author_name":"CJ",
+            "choices":[
+                "Notice that you're wet",
+                "Notice that you're hungry",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>You felt a little strange for a second and then suddenly you realised that you were now in the crib where Ruby's baby sister was.<br>\r\n<br>\r\nYou looked down at yourself and checked over your new \"outfit\" which consisted of a pink shirt and a diaper. You patted the diaper you were now wearing, noticing that it was now the correct size to fit you perfectly.<br>\r\n Finally you noticed that you had something in your mouth, taking it out you found that it was a pacifier.<br>\r\n By now you were blushing, this was kind of ridiculous... But you were still interested in seeing what life from this perspective would be like.<br>\r\n<br>\r\nYou looked through the bars of your crib to see that the baby you had swapped with was now wearing the little girl's clothes you had been wearing.<br>\r\n<br>\r\nWhat do you do now?</span></div></div>",
+            "created":1591160400,
+            "id":2845176,
+            "title":"a pink shirt and a diaper -- and that's it"
+        },
+        "14122223221121123":{
+            "author_id":"mbrody",
+            "author_name":"MBrody",
+            "choices":[
+                "I notice someone walking in the nursery.",
+                "I have messed my diaper."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0What do you do now?</span></div></span></div>",
+            "created":1591246800,
+            "id":2845848,
+            "title":"Something else"
+        },
+        "141222232211211231":{
+            "author_id":"byren",
+            "author_name":"CJ",
+            "choices":[
+                "\"Your\" older sister",
+                "\"Your\" mother",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><div> <span>Since you were getting used to your surroundings you didn't notice that someone had entered the room. You eventually looked up and finally you noticed them. You covered yourself up with the blanket in the crib, suddenly feeling embarrassed to be seen this way.<br>\r\n<br>\r\nWho had entered the room?</span></div></div>",
+            "created":1591333200,
+            "id":2846323,
+            "title":"I notice someone walking in the nursery."
+        },
+        "141222232211211232":{
+            "author_id":"byren",
+            "author_name":"CJ",
+            "choices":[
+                "Embrace the life of a baby girl and cry to be changed",
+                "Take off the dirty diaper yourself",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>You had been looking around the nursery, admiring your new bedroom when you noticed a smell...<br>\r\n<br>\r\nYou looked down at your diaper and squirmed around a bit. Eww... You'd messed yourself, but you hadn't even noticed! That was a bit worrying, it seemed as though swapping clothes with the baby girl had cost you your bowel control.<br>\r\n<br>\r\nWhat do you do about this?</span></div></div>",
+            "created":1591333200,
+            "id":2846326,
+            "title":"I have messed my diaper."
+        },
         "14122223221122":{
             "author_id":"mbrody",
             "author_name":"MBrody",
@@ -6002,7 +6065,8 @@
         "description":"<td align=\"left\" class=\"norm\">Your name is Phillip Parker and one day you gain the ability to swap the clothes you are wearing with the clothes that a girl you know is wearing just by thinking about it. Other people don't notice the change except for those you swapped with. The only exception to this rule is if you really want to you can allow someone else to see the changes.<br>\r\n<br>\r\n<b>Basic Rules: </b><br>\r\n1. No personality changes<br>\r\n2. No killing characters<br>\r\n3. The main character gains no other powers<br>\r\n4. the swap must be with someone you know (no celebrities)<br>\r\n<br>\r\nPlease add and <b>Enjoy!</b><br>\r\n<br>\r\nP.S. The clothes adjust size (but not proportions) to fit you and people think that it is normal for you to wear the clothes you gain in the swap</td>",
         "id":1676621,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1589814180,
+        "last_full_update":0,
+        "modified":1591378080,
         "pretty_title":"Outfit Swaps"
     }
 }

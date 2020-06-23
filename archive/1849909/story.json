@@ -2,7 +2,7 @@
     "chapters":{
         "1":{
             "author_id":"dudeman1235",
-            "author_name":"liam",
+            "author_name":"Trev",
             "choices":[
                 "The 1st Doctor - Susan, Ian, Barbara, Vicki, Steven, Katarina, Dodo.",
                 "The 2nd Doctor - Ben, Polly, Jamie, Victoria, Zoe.",
@@ -17,7 +17,7 @@
         },
         "15":{
             "author_id":"dudeman1235",
-            "author_name":"liam",
+            "author_name":"Trev",
             "choices":[
                 "The 5th Doctor - Adric, Tegan, Nyssa, Turlough, Erimem.",
                 "The 6th Doctor - Peri, Frobisher, Mel, Flip.",
@@ -32,7 +32,7 @@
         },
         "155":{
             "author_id":"dudeman1235",
-            "author_name":"liam",
+            "author_name":"Trev",
             "choices":[
                 "The 9th Doctor - Rose, Jackie, Mickey, Jack, Adam.",
                 "The 10th Doctor - Martha, Donna.",
@@ -45,7 +45,7 @@
         },
         "1553":{
             "author_id":"dudeman1235",
-            "author_name":"liam",
+            "author_name":"Trev",
             "choices":[
                 "The 11th Doctor - Amy, Rory, River, Kazran, Abigail.",
                 "The 12th Doctor - Clara, Danny, Vastra, Jenny, Strax.",
@@ -70,7 +70,7 @@
         },
         "15533":{
             "author_id":"dudeman1235",
-            "author_name":"liam",
+            "author_name":"Trev",
             "choices":[
                 "Other Media Companions.",
                 "Other"
@@ -95,12 +95,13 @@
     },
     "info":{
         "author_id":"dudeman1235",
-        "author_name":"liam",
+        "author_name":"Trev",
         "brief_description":"An Interactive Story about the girls of Doctor Who, from 1963-2014",
         "created":1329907920,
         "description":"<td align=\"left\" class=\"norm\">Fanservice for FA Doctor Who fans! </td>",
         "id":1849909,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1532531280,
         "modified":1532531280,
         "pretty_title":"The Doctor Who Weight Gain Extravaganza!"
     }

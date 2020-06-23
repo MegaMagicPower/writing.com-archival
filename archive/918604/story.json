@@ -29,6 +29,7 @@
             "title":"Raven's Room"
         },
         "111":{
+            "author_name":"Purple",
             "choices":[
                 "try to get raven' s attention.",
                 "Wait untill she wakes up to talk to her."
@@ -39,6 +40,7 @@
             "title":"Raven comes in."
         },
         "1111":{
+            "author_name":"Somesort of name",
             "choices":[
                 "She swallows you whole and alive",
                 "You escape"
@@ -595,6 +597,7 @@
             "title":"Bathroom break"
         },
         "125":{
+            "author_name":"GammaRae",
             "choices":[
                 "You listen for a while. This should be interesting. You need rest anyway.",
                 "You try to get Cyborg's attention."
@@ -605,6 +608,7 @@
             "title":"A Friendly Giant?"
         },
         "1251":{
+            "author_name":"GammaRae",
             "choices":[
                 "Try to get Cyborg's attention now",
                 "Laugh"
@@ -615,6 +619,7 @@
             "title":"Topic of Conversation"
         },
         "12512":{
+            "author_name":"GammaRae",
             "choices":[
                 "You're in Cyborg's spoon",
                 "Raven senses you"
@@ -625,12 +630,14 @@
             "title":"Talk about hot!"
         },
         "125121":{
+            "author_name":"GammaRae",
             "content":"<div class=\"\"><div> <span>Suddenly, you feel yourself lifted up and thrust into hot darkness. You barely realize what's happening until you're halfway down Cyborg's throat! There is no chance when you land in his stomach. <br>\r\n<br>\r\n\"Mmm-mmmm!\" Cyborg says loundly. \"Man! That's good chili! What'd you put in here, Beast Boy?\" <br>\r\n<br>\r\n\"The secret ingredient,\" Beast Boy replied with a smile. He was unaware that Cyborg enjoyed the taste of you, not the extra datl peppers that Beast Boy threw in. <br>\r\n<br>\r\n                     THE END</span></div></div>",
             "created":1116046800,
             "id":250375,
             "title":"\"Man! That's some good chili!\""
         },
         "125122":{
+            "author_name":"GammaRae",
             "choices":[
                 "You are found!"
             ],
@@ -640,6 +647,7 @@
             "title":"\"Your chili is afraid\""
         },
         "1251221":{
+            "author_name":"GammaRae",
             "choices":[
                 "\"You're a spy!\"",
                 "\"We need to investigate this further.\""
@@ -650,6 +658,7 @@
             "title":"Found!"
         },
         "12512211":{
+            "author_name":"GammaRae",
             "choices":[
                 "Cyborg \"takes care\" of you.",
                 "Cyborg recognizes you from the donut shop."
@@ -660,6 +669,7 @@
             "title":"Accused of Spying!"
         },
         "125122112":{
+            "author_name":"GammaRae",
             "choices":[
                 "Raven and Starfire guard you",
                 "Cyborg and Beast Boy guard you"
@@ -670,6 +680,7 @@
             "title":"Donut Clerk"
         },
         "1251221121":{
+            "author_name":"GammaRae",
             "choices":[
                 "You stay on the table to wait",
                 "You ask to be picked back up again"
@@ -841,6 +852,7 @@
             "title":"Raven plans a snack"
         },
         "125122112122111":{
+            "author_name":"Everyone",
             "choices":[
                 "Finish the cake",
                 "Devour by Raven"
@@ -872,6 +884,7 @@
             "title":"Get it started!"
         },
         "125122112122111111":{
+            "author_name":"angsta",
             "choices":[
                 "starfire then raven",
                 "both"
@@ -882,6 +895,7 @@
             "title":"STRFIRE STARTED"
         },
         "1251221121221112":{
+            "author_name":"Purple",
             "choices":[
                 "Hide in the closet.",
                 "Hide under her dresser."
@@ -892,6 +906,7 @@
             "title":"Distractions"
         },
         "12512211212211121":{
+            "author_name":"Purple",
             "choices":[
                 "Jump In the clothes.",
                 "Don't move."
@@ -1127,6 +1142,7 @@
             "title":"The Big'un"
         },
         "1341":{
+            "author_name":"NathanielTheWere",
             "choices":[
                 "\"I think I'll keep you as a pet.  I'm sure we'll have lots of fu",
                 "\"I'll show you to Robin.  He'll know what to do.\""
@@ -1196,6 +1212,7 @@
             "title":"Beast Boy is Hungry!"
         },
         "1412":{
+            "author_name":"ghost",
             "choices":[
                 "His girlfriend comes in",
                 "His boyfriend Robin comes in"
@@ -1206,6 +1223,7 @@
             "title":"Your new life as a pet and the Device"
         },
         "14122":{
+            "author_name":"ghost",
             "choices":[
                 "Both go into a bedroom room and get intimate",
                 "You try to escape from your master."
@@ -1216,6 +1234,7 @@
             "title":"BB+Robin Forever!"
         },
         "141221":{
+            "author_name":"NYn",
             "choices":[
                 "You try to beak out of your jar",
                 "You deside to wait and see what happens"
@@ -1342,6 +1361,7 @@
             "title":"You stop growing "
         },
         "143112":{
+            "author_name":"Everyone",
             "choices":[
                 "The closet",
                 "Under the bed"
@@ -1352,6 +1372,7 @@
             "title":"Hiding and go seek"
         },
         "1431121":{
+            "author_name":"Everyone",
             "choices":[
                 "Set up camp",
                 "Keep on peeking on Raven for long time"
@@ -1362,6 +1383,7 @@
             "title":"In the Closet"
         },
         "14311212":{
+            "author_name":"Everyone",
             "choices":[
                 "Avoid the hand",
                 "You got  caught by hand of Raven"
@@ -1372,6 +1394,7 @@
             "title":"Raven Spotted her prey"
         },
         "143112122":{
+            "author_name":"Everyone",
             "choices":[
                 "Raven swallow you whole",
                 "Tried to pull your knife"
@@ -1382,6 +1405,7 @@
             "title":"The Hunger eyes"
         },
         "1431121221":{
+            "author_name":"Everyone",
             "choices":[
                 "You  able to get Raven to cough you up.",
                 "You struggles about but is quickly digested."
@@ -1392,6 +1416,7 @@
             "title":" Accepting fate to try to escape Raven"
         },
         "14311212211":{
+            "author_name":"Everyone",
             "choices":[
                 "Fight to the end",
                 "Get Digest"
@@ -1413,6 +1438,7 @@
             "title":"Inside..."
         },
         "143112122112":{
+            "author_name":"Everyone",
             "content":"<div class=\"\"><div> <span>Everything happens much faster than you anticipated as you began to pound at the yeilding slick wall of Raven's tummy.<br>\r\n<br>\r\n\"No good Feeple, I can resist bringing you up longer than it will take for you to become part of me,\" Raven laughed, seeming all around you.<br>\r\n<br>\r\nPanic struck. You began clawing fiercly at the mucky surface of the walls around you. No good. Slowly liquid was rising around You. You could feel the Raven laughing at you struggles. It couldn't end this way, not like this!<br>\r\n<br>\r\nRaven had laid down on her couch and waited patiently until she felt the struggles within her slow, and finally stop. Grinning, she patted her tummy and commented sweetly, \"Now you understand pain Stranger. Now...\"<br>\r\n<br>\r\nSomething felt cold inside Raven's body as she came back to her senses. The sweet giant mysterious girl gasped and sat up, realizing what she had done. A guilty chill ran through her as she looked around with frightened eyes. She had eaten you, one of the few she had.<br>\r\n<br>\r\nPutting a hand to her mouth, as if to try to block what she had already done, Raven struggled to realize what had happened to her to make her so angry suddenly.<br>\r\n<br>\r\nShe never found out what caused her emotions to sway so much. Nor did anyone really find out where You had gone.</span></div></div>",
             "created":1115528400,
             "id":249110,
@@ -1425,6 +1451,7 @@
             "title":"The first bite is the deepest bite"
         },
         "1431122":{
+            "author_name":"Everyone",
             "choices":[
                 "Sleeping on the ground with my sleeping bag"
             ],
@@ -1434,6 +1461,7 @@
             "title":"The Steath of Hiding"
         },
         "14311221":{
+            "author_name":"Everyone",
             "choices":[
                 "Sleeping"
             ],
@@ -1443,6 +1471,7 @@
             "title":"Night time for you and the sleeping beauty"
         },
         "143112211":{
+            "author_name":"Everyone",
             "choices":[
                 "Raven left the room",
                 "Stay where you are"
@@ -1453,6 +1482,7 @@
             "title":"Good Morning"
         },
         "1431122111":{
+            "author_name":"Everyone",
             "choices":[
                 "Either break free",
                 "Panic  for your death"
@@ -1474,6 +1504,7 @@
             "title":"legs out of action"
         },
         "143112211111":{
+            "author_name":"Darkness",
             "choices":[
                 "Stay where you are",
                 "or call for backup"
@@ -1484,6 +1515,7 @@
             "title":"Raven is blind"
         },
         "1431122111111":{
+            "author_name":"Darkness",
             "choices":[
                 "Peek",
                 "Raven looking around for you"
@@ -1506,6 +1538,7 @@
             "title":"the hunt is on"
         },
         "143112211111121":{
+            "author_name":"Darkness",
             "choices":[
                 "Raven Notice you",
                 "Hide in the Cloth"
@@ -1527,6 +1560,7 @@
             "title":"discovered"
         },
         "14311221111112111":{
+            "author_name":"Everyone",
             "choices":[
                 "Get swallow alive",
                 "BE SLAVE FOREVER !!!"
@@ -1537,6 +1571,7 @@
             "title":"You got Caught by Raven"
         },
         "143112211111121111":{
+            "author_name":"Everyone",
             "choices":[
                 "To the mouth you goes",
                 "I must break free with something you got"
@@ -1547,6 +1582,7 @@
             "title":"Raven's waiting mouth"
         },
         "1431122111111211111":{
+            "author_name":"Everyone",
             "choices":[
                 "Tried to get out before you get swallow",
                 "Get swallow"
@@ -1557,6 +1593,7 @@
             "title":"Struggle inside the mouth"
         },
         "14311221111112111112":{
+            "author_name":"Everyone",
             "choices":[
                 "You moving back and forward"
             ],
@@ -1566,6 +1603,7 @@
             "title":"The feeling inside she felt is incrisble"
         },
         "143112211111121111121":{
+            "author_name":"Everyone",
             "choices":[
                 "You reaching to the stomach"
             ],
@@ -1575,6 +1613,7 @@
             "title":"Your almost toward the stomach..."
         },
         "1431122111111211111211":{
+            "author_name":"Everyone",
             "choices":[
                 "Either fight your way out",
                 "Get Digest"
@@ -1617,6 +1656,7 @@
             "title":"Hell hath no fury...."
         },
         "14311221112":{
+            "author_name":"Everyone",
             "choices":[
                 "The Escape",
                 "To the stomach"
@@ -1627,6 +1667,7 @@
             "title":"Trouble inside of Raven"
         },
         "143112211121":{
+            "author_name":"Everyone",
             "choices":[
                 "Fight to the end",
                 "You been strangle"
@@ -1637,6 +1678,7 @@
             "title":"Fate believe death or alive"
         },
         "1431122111212":{
+            "author_name":"Everyone",
             "choices":[
                 "Let her eat you alive",
                 "*talk to yourself* Move move !!"
@@ -1647,6 +1689,7 @@
             "title":"Death awake"
         },
         "14311221112121":{
+            "author_name":"Everyone",
             "choices":[
                 "Your body can't move it getting digested",
                 " tried to break free causing her to puke"
@@ -1657,6 +1700,7 @@
             "title":"Stomach of Raven"
         },
         "143112211121211":{
+            "author_name":"E",
             "choices":[
                 "You are digested.",
                 "you digest and are still alive in the intestines of raven."
@@ -1667,6 +1711,7 @@
             "title":"what happens to all food in the stomach."
         },
         "143112211121212":{
+            "author_name":"Everyone",
             "choices":[
                 "You are now getting digested"
             ],
@@ -1676,6 +1721,7 @@
             "title":"Inside of Raven's Stomach"
         },
         "1431122111212121":{
+            "author_name":"Everyone",
             "content":"<div class=\"\"><div> <span>You: uhh Raven CAN YOU PLEASE GET ME OUT OF HERE !!! I JUST DON'T WANT TO DIE IN HERE !!<br>\r\n<br>\r\nRaven: Don't worry my love I'm gonna enjoy my meal once your inside of me. But First my stomach acid will burn your body. Once is that over it gonna be liquid gonna be my source of my power of Wisdom<br>\r\n<br>\r\nYou: *scream in pain* ahhhhh I feel so dizzy and you clap and don't remember what happen <br>\r\n<br>\r\nRaven: *rub her tummy twice* there there it'll be all over once you stop moving around inside of me<br>\r\n<br>\r\nRaven: *burp* oop excuse me<br>\r\n<br>\r\nYou: YOU WELCOME !! <br>\r\n<br>\r\nRaven: Enjoy your stay I hope you can stay alive inside me for like 3 days *giggle and blush*</span></div></div>",
             "created":1114059600,
             "id":246182,
@@ -2410,6 +2456,7 @@
             "title":"Slade's Escape"
         },
         "143212211121":{
+            "author_name":"Everyone",
             "choices":[
                 "Head back to Raven's Room to explain what happen to you ?"
             ],
@@ -2419,6 +2466,7 @@
             "title":"The help from Raven"
         },
         "1432122111211":{
+            "author_name":"Everyone",
             "choices":[
                 "Raven is so hungry",
                 "You can ask her break the spell"
@@ -2429,6 +2477,7 @@
             "title":"The Story how you got here ?"
         },
         "14321221112111":{
+            "author_name":"Everyone",
             "choices":[
                 "In her stomach"
             ],
@@ -2438,6 +2487,7 @@
             "title":"The Mouth of Hunger"
         },
         "143212211121111":{
+            "author_name":"Everyone",
             "choices":[
                 "You give Raven fist of Fury Indigestion",
                 "mmmm.... BUURRRRRPP!!!"
@@ -2448,6 +2498,7 @@
             "title":"Raven enjoys her lunch."
         },
         "1432122111211111":{
+            "author_name":"Everyone",
             "choices":[
                 "You are now get digested",
                 "Raven has indigestion so badly, she throws you up"
@@ -2466,6 +2517,7 @@
             "title":"Bye-Bye"
         },
         "14321221112111112":{
+            "author_name":"Everyone",
             "choices":[
                 "Under the Bed",
                 "Screw This I'm running toward the door"
@@ -2476,6 +2528,7 @@
             "title":"Place to hide and fast"
         },
         "143212211121111121":{
+            "author_name":"Everyone",
             "choices":[
                 "Destiny awake"
             ],
@@ -2485,6 +2538,7 @@
             "title":"There is no place to go"
         },
         "1432122111211111211":{
+            "author_name":"Everyone",
             "content":"<div class=\"\"><div> <span>Raven: *open her mouth wide open*<br>\r\n<br>\r\nYou: struggle back and for<br>\r\n<br>\r\nRaven: You are so cute when you did that<br>\r\n<br>\r\nYou: made a swt face <br>\r\n<br>\r\nRaven: pull you into her mouth<br>\r\n<br>\r\nRaven: *tosses you in her mouth and swallows*<br>\r\n<br>\r\nRaven: *pat her stomach* thank you stranger I'm very happy of you.<br>\r\n<br>\r\nYou: shouted YOU WELCOME !! can you please let me out now I don't want to die in this place<br>\r\n<br>\r\nRaven: *heard her tummy talking to her*I can't let you out you gonna be part of me forever<br>\r\n<br>\r\nYou feel a giant earthquake from under you, the juices are rising and the digestion begins. You are being digested and there isn't anything you can't do about it. You are now part of the Teen Titans...Only as part of Raven.<br>\r\n<br>\r\n</span></div></div>",
             "created":1113973200,
             "id":246061,
@@ -2533,6 +2587,7 @@
             "title":"Free...I think."
         },
         "1432122122":{
+            "author_name":"razer",
             "choices":[
                 "\"Sure go right ahead Raven\"",
                 "\"No but I got something else in mind\""
@@ -2543,6 +2598,7 @@
             "title":"To enter or not to enter"
         },
         "14321221221":{
+            "author_name":"razer",
             "choices":[
                 "Go in for half an hour",
                 "Go in till she wants you to come out"
@@ -2553,6 +2609,7 @@
             "title":"Getting ready"
         },
         "143212212212":{
+            "author_name":"poojawaman",
             "choices":[
                 "Head first?\"",
                 "Feet fIrst?\""
@@ -2563,6 +2620,7 @@
             "title":"The chocse"
         },
         "1432122122122":{
+            "author_name":"razer",
             "choices":[
                 "\"yea im ready\""
             ],
@@ -2572,6 +2630,7 @@
             "title":"Feet first"
         },
         "14321221221221":{
+            "author_name":"razer",
             "choices":[
                 "Talk to Raven",
                 "Go to sleep"
@@ -2582,6 +2641,7 @@
             "title":"Being swallowed by Ravens pussy"
         },
         "143212212212212":{
+            "author_name":"razer",
             "choices":[
                 "Everything is fine in the morning",
                 "You have changed"
@@ -2592,6 +2652,7 @@
             "title":"Changes"
         },
         "1432122122122121":{
+            "author_name":"razer",
             "choices":[
                 "Ask if you can come out",
                 "Ask what she wants to do today"
@@ -2602,6 +2663,7 @@
             "title":"Waking up bright and early"
         },
         "14321221221221211":{
+            "author_name":"razer",
             "choices":[
                 "\"You want to try vore?\"",
                 "\"You want to go back in?\""
@@ -2622,6 +2684,7 @@
             "title":"Tastey!"
         },
         "1432122122122122":{
+            "author_name":"razer",
             "choices":[
                 "YOUR NOT  A GUY ANYMORE!",
                 "You feel like you have..... powers!"
@@ -2632,6 +2695,7 @@
             "title":"Changes for the better or worse"
         },
         "14321221221221221":{
+            "author_name":"razer",
             "choices":[
                 "\"Yes there is a way.\"",
                 "\"Not that I know of it looks like your a girl now.\""
@@ -2642,6 +2706,7 @@
             "title":"The terror of the moment"
         },
         "14321221222":{
+            "author_name":"razer",
             "choices":[
                 "Well you asked so your going in",
                 "Second thoughts"
@@ -3135,6 +3200,7 @@
             "title":"Rampage"
         },
         "151112":{
+            "author_name":"podaddy",
             "choices":[
                 "takes a bath with him",
                 "go to sleep with him"
@@ -3227,6 +3293,7 @@
             "title":"Who is coming?"
         },
         "1512":{
+            "author_name":"Somesort of name",
             "choices":[
                 "Wait and be expelled",
                 "Climb out"
@@ -3351,6 +3418,7 @@
             "title":"Continue"
         },
         "15122":{
+            "author_name":"Somesort of name",
             "choices":[
                 "Wait and see what happens"
             ],
@@ -3360,6 +3428,7 @@
             "title":"Ice climbers!"
         },
         "151221":{
+            "author_name":"Somesort of name",
             "choices":[
                 "Raven walks in"
             ],
@@ -3421,6 +3490,7 @@
             "title":"You want to take the back entrance..."
         },
         "152":{
+            "author_name":"Charles",
             "choices":[
                 "\"Thank you Starfire. You're too kind.\"",
                 "\"Thank you for inviting me to your disco party, Starfire.\""
@@ -3431,6 +3501,7 @@
             "title":"Starfire's disco party"
         },
         "1521":{
+            "author_name":"Charles",
             "choices":[
                 "Glad God",
                 "Looky"
@@ -3441,6 +3512,7 @@
             "title":"Son of Mad Mod"
         },
         "15212":{
+            "author_name":"Charles",
             "choices":[
                 "\"I'm on my way.\"",
                 "\"You handle it, Mad Mod. I'm beat.\""
@@ -3451,6 +3523,7 @@
             "title":"Pendallum action"
         },
         "152121":{
+            "author_name":"Charles",
             "choices":[
                 "\"I'm here for the disco party.\"",
                 "\"I'm here to take Starfire somewhere.\""
@@ -3461,6 +3534,7 @@
             "title":"Halt! Who are you?"
         },
         "1521212":{
+            "author_name":"Charles",
             "choices":[
                 "was looking out the window",
                 "sees Looky and asks him if he wants to be part of the disco party"
@@ -3471,6 +3545,7 @@
             "title":"Looky's world"
         },
         "15212122":{
+            "author_name":"Charles",
             "choices":[
                 "The other titans come into the room",
                 "Meanwhile back at the disco party..."
@@ -3587,6 +3662,7 @@
             "title":"Be agressive, swallow her without asking."
         },
         "153":{
+            "author_name":"Charles",
             "content":"<div class=\"\"><div> <span>\"Oh, great.\" Groaned Raven. \"A bug. I hate bugs. I'm going to crush this sucker flat.\"<br>\r\n She then activated a back spell thingy to crush me flat. I screamed. \"Raven, what are you doing?I can explain! It's not what you think! Can we talk about it, please? No! No!!!\"<br>\r\n Raven then dropped the spell. \"You want to talk about it?\" She asked.<br>\r\n \"Yes.\" I shivered. \"I didn't mean to break in! I'm sorry!\"<br>\r\n \"Well, if you're really sorry, I'm going to ask you a few questions.\" Said Raven. \"I hope you have answers.\"<br>\r\n \"Yes.\" I said. \"I do.\"<br>\r\n \"Ahem.\" Began Raven. \"How did you get in this whole tower?\"<br>\r\n \"I saw a small hole. I crawled in.\"<br>\r\n \"Was there anyone following you?\"<br>\r\n \"No. I was alone.\"<br>\r\n \"Did you do anything to Starfire?\"<br>\r\n \"No. She was gone when I came here.\"<br>\r\n \"Was there a hole on Starfire's door?\"<br>\r\n \"Yes. I saw it.\"<br>\r\n \"Just one more question. How did you get so small?\"<br>\r\n \"I don't know. All I remember is getting zapped in the head by slade.\"<br>\r\n \"Oh, no.\" Groaned Raven. \"It's Slade's shrink ray. I heard that anyone who gets zapped by it, they keep shrinking by the minute until they disappear completely.\"<br>\r\n \"Disappear!?\" I gasped. \"Completely!? Oh, no! What am I going to do!?\"<br>\r\n \"Luckily,\" Continued Raven. \"I know a cure for the shrink ray.\"<br>\r\n Then she zapped me with a black spell. Then I grew back to myself again. \"Thanks a lot, Raven.\" I said. \"I'm probably going to need you next week, too.\"<br>\r\n Then she flew off to fight Slade.</span></div></div>",
             "created":1110258000,
             "id":239046,
@@ -3601,6 +3677,7 @@
         "description":"<td align=\"left\" class=\"norm\"> Instructions<br>\r\n<br>\r\n Anything goes now! Vore, crushing, whatever you want!  If you want you may e-mail me at Sk8er5300@aol.com. I really need some entries here, PLEASE!<br>\r\nThank you,<br>\r\n    Hungryblob<br>\r\n<br>\r\nPS PLEASE MAKE NEW CHAPTERS!!!!!!!<br>\r\n </td>",
         "id":918604,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1564479300,
         "modified":1564479300,
         "pretty_title":"Teen Titans vore"
     }

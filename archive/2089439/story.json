@@ -1,8 +1,8 @@
 {
     "chapters":{
         "1":{
-            "author_id":"ing09",
-            "author_name":"ignoredniceguy",
+            "author_id":"theoutlaw",
+            "author_name":"TheOutlaw",
             "choices":[
                 "Male ruler (natural weight gain only)",
                 "Male ruler (magic growth allowed)",
@@ -15,8 +15,8 @@
             "title":"Who are you?"
         },
         "11":{
-            "author_id":"ing09",
-            "author_name":"ignoredniceguy",
+            "author_id":"theoutlaw",
+            "author_name":"TheOutlaw",
             "choices":[
                 "An young thin woman",
                 "A young plump woman",
@@ -106,8 +106,8 @@
             "title":"No queen... yet"
         },
         "12":{
-            "author_id":"ing09",
-            "author_name":"ignoredniceguy",
+            "author_id":"theoutlaw",
+            "author_name":"TheOutlaw",
             "choices":[
                 "A young thin woman",
                 "A young plump woman",
@@ -121,8 +121,8 @@
             "title":"Male ruler (magic growth allowed)"
         },
         "13":{
-            "author_id":"ing09",
-            "author_name":"ignoredniceguy",
+            "author_id":"theoutlaw",
+            "author_name":"TheOutlaw",
             "choices":[
                 "A young thin man",
                 "A young muscular man",
@@ -175,8 +175,8 @@
             "title":"tyrannical queen"
         },
         "14":{
-            "author_id":"ing09",
-            "author_name":"ignoredniceguy",
+            "author_id":"theoutlaw",
+            "author_name":"TheOutlaw",
             "choices":[
                 "A young thin man",
                 "A young muscular man",
@@ -230,13 +230,14 @@
         }
     },
     "info":{
-        "author_id":"ing09",
-        "author_name":"ignoredniceguy",
+        "author_id":"theoutlaw",
+        "author_name":"TheOutlaw",
         "brief_description":"Rule an island nation where the most beautiful women are large.",
         "created":1467777900,
         "description":"<td align=\"left\" class=\"norm\">You are a ruler of a island nation where the female image of beauty is to be as large as possible. (Female weight gain only)</td>",
         "id":2089439,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1579459140,
         "modified":1579459140,
         "pretty_title":"The Weight of Power"
     }

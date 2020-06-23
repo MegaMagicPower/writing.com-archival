@@ -42,6 +42,18 @@
             "id":2840274,
             "title":"Wait a second, is this some kind of Hitchhikers..."
         },
+        "141":{
+            "author_id":"batman645",
+            "author_name":"Pictureviewer1997",
+            "choices":[
+                "Call out to the cackler, who might be a witch",
+                "Start running"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You scream aloud hoping for someone to pay attention.<br>\r\n<br>\r\nAfter about 20 minutes of on and off screaming you hear something that sounds like a witch cackling.</span></div></span></div>",
+            "created":1591074000,
+            "id":2844605,
+            "title":"Panic"
+        },
         "142":{
             "author_id":"batman645",
             "author_name":"Batman645",
@@ -66,17 +78,30 @@
             "created":1590296400,
             "id":2840565,
             "title":"Look up the Entry as told"
+        },
+        "1423":{
+            "author_id":"batman645",
+            "author_name":"Pictureviewer1997",
+            "choices":[
+                "BACK ITCH GONNA SCRATCH",
+                "Alright I'm sorry for smashing the guide, just get this shit off my arm."
+            ],
+            "content":"<div class=\"\"><div> <span>Wait what are you OH NO DON'T SMASH THE GUIDE.<br>\r\n<br>\r\nYou smash the guide for the shiny parts you assume are inside, but unfortunately this causes a weird goolike substance to coat your hands as you beat the guide against a loose rock. The goo refuses to come off, so guess you have some new fashionable gloves, even if the goo is chirping.<br>\r\n<br>\r\nAny other priceless technology you want to destroy, you neanderthal?</span></div></div>",
+            "created":1591074000,
+            "id":2844610,
+            "title":"SMASH THE MAGIC BOX FOR ITS SHINIES"
         }
     },
     "info":{
         "author_id":"batman645",
-        "author_name":"Batman645",
+        "author_name":"Pictureviewer1997",
         "brief_description":"A generic enough CYOA story with TG elements.",
         "created":1590311460,
         "description":"<td align=\"left\" class=\"norm\">Hi there, I couldn't find a better name for this, so its New Day.<br>\r\n<br>\r\nIt's a Choose Your Own adventure I will port partially from my comment based DA account, then leave for others to complete and maybe write a passage on occasionally.<br>\r\n<br>\r\nRules:<br>\r\n18+ characters (if a character is under-aged in canon, it will be their adult version)<br>\r\nKeep it clean enough for writing.com, I don't want to have to moderate this all the time or reupload the entire thing again.<br>\r\n<br>\r\nAhem, lets start at the beginning...</td>",
         "id":2222625,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1590366360,
+        "last_full_update":0,
+        "modified":1591092900,
         "pretty_title":"New Day TG"
     }
 }

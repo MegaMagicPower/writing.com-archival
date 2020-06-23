@@ -220,6 +220,30 @@
             "id":2705562,
             "title":"Run into town trying to search for charmcaster"
         },
+        "112132":{
+            "author_id":"skull10i",
+            "author_name":"Skull12",
+            "choices":[
+                "General store",
+                "Mall"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where does he find her?</span></div></span></div>",
+            "created":1592542800,
+            "id":2853596,
+            "title":"Someplace else"
+        },
+        "1121322":{
+            "author_id":"sapphireninja",
+            "author_name":"Secptor",
+            "choices":[
+                "A lingerie store",
+                "An evening grown store"
+            ],
+            "content":"<div class=\"\"><div> <span>Ben saw some magenta lights coming from a mall, he quickly enter. He saw that no one was there, it felt like a trap. Yet, Ben decided to look for Charmcaster alone anyway. As Ben searched the mall, he felt a sense of dread coming over him. He knew Charmcaster was around, soon he saw someone in....</span></div></div>",
+            "created":1592629200,
+            "id":2854206,
+            "title":"Mall"
+        },
         "1123":{
             "author_id":"uraniumfreak",
             "author_name":"none of your buisness",
@@ -1270,7 +1294,8 @@
         "description":"<td align=\"left\" class=\"norm\">No kill.<br>\r\nFemale human DNA can be in the Omnitrix.<br>\r\nOnly Ben TG.<br>\r\nSex allowed.</td>",
         "id":1980290,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1583922960,
+        "last_full_update":1583922960,
+        "modified":1592691000,
         "pretty_title":"Ben 10 Omnitrix TG"
     }
 }

@@ -2730,6 +2730,33 @@
             "id":2783583,
             "title":"They Get Trapped in Old broken Rv and get buried "
         },
+        "152111":{
+            "author_id":"magicdream",
+            "author_name":"Abracadabra.",
+            "choices":[
+                "They got hungry.",
+                "One of them needed the bathroom.",
+                "One was thirsty.",
+                "Back at home, people are starting to get worried.",
+                "Other."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Two hours later....</span></div></span></div>",
+            "created":1591851600,
+            "id":2849961,
+            "title":"Skip ahead 2 hours"
+        },
+        "152112":{
+            "author_id":"magicdream",
+            "author_name":"Abracadabra.",
+            "choices":[
+                "Lincoln, Lynn, and Lana bored in the RV.",
+                "The rest of the Louds searching."
+            ],
+            "content":"<div class=\"\"><div> <span>It was a day later.<br>\r\nThankfully, the RV's water was still running, so they could drink and use the bathroom, and they'd found some canned food they were living on, but that didn't mean they were liking it any.<br>\r\nMeanwhile, back at home, the rest of the Louds were worried sick.<br>\r\nWho do we follow?</span></div></div>",
+            "created":1591851600,
+            "id":2849964,
+            "title":"Skip ahead 1 day"
+        },
         "153":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
@@ -2871,6 +2898,36 @@
             "created":1577941200,
             "id":2768423,
             "title":"Go tell Lori."
+        },
+        "15324131":{
+            "author_id":"magicdream",
+            "author_name":"Abracadabra.",
+            "choices":[
+                "Get the parents.",
+                "Talk to Lisa.",
+                "Drive Lisa to the doctor.",
+                "Call 911.",
+                "Other."
+            ],
+            "content":"<div class=\"\"><div> <span>Lisa then snatched Lori's phone and began pressing buttons and saying, \"Beep, beep, boop, boop.\"<br>\r\n\"Hey!\". said Lori, \"I was literally talking to Bobby.\" Then, she picked up her phone and said, \"Sorry, Boo-Boo Bear. I think I'd better call you back. Something seems to be wrong with my sister Lisa.\"<br>\r\nThen, she said to Lincoln, \"OK, what seems to be the trouble?\"<br>\r\n<br>\r\n\"Well,\" said Lincoln, \"She asked me why there was science equipment in her and Lily's room and then when I started checking her for amnesia, she didn't know what that was. But she knows her name, age, and all that jazz.\"<br>\r\n<br>\r\nWhat does Lori do?</span></div></div>",
+            "created":1591851600,
+            "id":2849958,
+            "title":"Started playing with her phone."
+        },
+        "15324132":{
+            "author_id":"magicdream",
+            "author_name":"Abracadabra.",
+            "choices":[
+                "Ask for a cookie.",
+                "Ask Lori what amnesia is.",
+                "Ask Lori why there's science equipment in her bedroom.",
+                "Play with Leni's dressmakers' dummy.",
+                "Ask Lori for a piggyback ride."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What does Lisa do?</span></div></span></div>",
+            "created":1591851600,
+            "id":2849960,
+            "title":"SE"
         },
         "153242":{
             "author_id":"magicdream",
@@ -3169,6 +3226,21 @@
             "id":2774578,
             "title":"Continue."
         },
+        "153352512111":{
+            "author_id":"magicdream",
+            "author_name":"Abracadabra.",
+            "choices":[
+                "Watch TV.",
+                "Read.",
+                "Play with her rabbit Gary.",
+                "Talk to her siblings.",
+                "Other."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What does Luan do now that she's at home and on crutches?</span></div></span></div>",
+            "created":1591419600,
+            "id":2846607,
+            "title":"RC 1"
+        },
         "1533525122":{
             "author_id":"magicdream",
             "author_name":"Abracadabra.",
@@ -3194,6 +3266,18 @@
             "created":1584421200,
             "id":2802700,
             "title":"She gets knocked unconscious."
+        },
+        "1533525131":{
+            "author_id":"magicdream",
+            "author_name":"Abracadabra.",
+            "choices":[
+                "In her bunk.",
+                "On the couch."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>They decided to keep a close eye on Luan, and if she was still unconscious at midnight, they'd take her to the doctor.<br>\r\nThey put Luan...</span></div></span></div>",
+            "created":1591419600,
+            "id":2846612,
+            "title":"They go with Lola\u2019s plan and watch her uncons..."
         },
         "15335252":{
             "author_id":"magicdream",
@@ -3298,6 +3382,51 @@
             "id":2783536,
             "title":"Soothe Lily."
         },
+        "1533525221111111":{
+            "author_id":"magicdream",
+            "author_name":"Abracadabra.",
+            "choices":[
+                "Lisa calls the whole family in and tells them about it.",
+                "Lisa puts clothes on Lily so she ca be seen.",
+                "Lily crawls off.",
+                "Someone comes in.",
+                "Other."
+            ],
+            "content":"<div class=\"\"><div> <span>Lisa picked up Lily and began rocking her.<br>\r\n\"Fear not, younger sibling,\" she said, \"You have simply become invisible due to my invention, but it will wear off eventually.\"<br>\r\nSatisfied, Lily crawled out of Lisa's arms.<br>\r\nWhat happens now?</span></div></div>",
+            "created":1591419600,
+            "id":2846598,
+            "title":"Yeah"
+        },
+        "1533525221111112":{
+            "author_id":"magicdream",
+            "author_name":"Abracadabra.",
+            "choices":[
+                "Playing a lullaby.",
+                "Singing.",
+                "Talking.",
+                "Dancing.",
+                "Giving her a toy."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does Lisa soothe the crying, invisible Lily?</span></div></span></div>",
+            "created":1591419600,
+            "id":2846599,
+            "title":"SE."
+        },
+        "15335252211112":{
+            "author_id":"magicdream",
+            "author_name":"Abracadabra.",
+            "choices":[
+                "Lincoln.",
+                "Lana.",
+                "Rita.",
+                "Luna.",
+                "Other."
+            ],
+            "content":"<div class=\"\"><div> <span>\"Younger sibling?\" said Lisa, \"Lily?\".<br>\r\nBut Lily was nowhere to be seen.<br>\r\nLisa observed the transparent patch on the carpet and the box of invisibility powder being knocked over, and so induced that it had spilled on Lily.<br>\r\nShe decided to go to someone for help, but who?</span></div></div>",
+            "created":1591419600,
+            "id":2846601,
+            "title":"No."
+        },
         "153352522112":{
             "author_id":"magicdream",
             "author_name":"Abracadabra.",
@@ -3348,6 +3477,34 @@
             "created":1580965200,
             "id":2783520,
             "title":"Continue."
+        },
+        "1533525221124111":{
+            "author_id":"magicdream",
+            "author_name":"Abracadabra.",
+            "choices":[
+                "Ask his sisters if they pulled his hair.",
+                "Accidentally touch Lily.",
+                "Shrug it off.",
+                "Other."
+            ],
+            "content":"<div class=\"\"><div> <span>Lincoln was very confused.<br>\r\nIt was Lily's voice, and nobody else in the family called him \"Incoln\", but he could not see her.<br>\r\nThen, he felt a tug on his hair-- Lily had climbed onto a chair and was pulling on his hair.<br>\r\nHe turned around but couldn't see anyone.<br>\r\nWhat does he do?</span></div></div>",
+            "created":1591419600,
+            "id":2846602,
+            "title":"Yup"
+        },
+        "1533525221124112":{
+            "author_id":"magicdream",
+            "author_name":"Abracadabra.",
+            "choices":[
+                "Reach out and touch Lincoln.",
+                "Keep crawling around.",
+                "Try to get Lincoln to pick her up.",
+                "Other."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What does the invisible Lily do?</span></div></span></div>",
+            "created":1591419600,
+            "id":2846604,
+            "title":"SE"
         },
         "15335252211242":{
             "author_id":"magicdream",
@@ -3523,6 +3680,45 @@
             "created":1580965200,
             "id":2783516,
             "title":"Hours."
+        },
+        "1533525223124121":{
+            "author_id":"magicdream",
+            "author_name":"Abracadabra.",
+            "choices":[
+                "Tell everybody.",
+                "Keep it secret."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\"Approximately three hours,\" said Lisa.<br>\r\nSo Leni finished diapering Lily, and it looked rather surreal seeing a seemingly-floating diaper, but at least she knew the situation wasn't permanent.<br>\r\nWhat do they do?</span></div></span></div>",
+            "created":1591851600,
+            "id":2849969,
+            "title":"3"
+        },
+        "1533525223124122":{
+            "author_id":"magicdream",
+            "author_name":"Abracadabra.",
+            "choices":[
+                "Tell everybody.",
+                "Keep it secret."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\"Four,\" replied Lisa.<br>\r\n\"Well,\" said Leni, trying as best she could to put the new diaper on the invisible Lily, \"At least it's only temporary.\"<br>\r\nWhat do they do?</span></div></span></div>",
+            "created":1591851600,
+            "id":2849970,
+            "title":"4"
+        },
+        "1533525223124123":{
+            "author_id":"magicdream",
+            "author_name":"Abracadabra.",
+            "choices":[
+                "It is time for lunch.",
+                "They tell everyone about what happened to Lily.",
+                "It is Lily's nap time.",
+                "Someone walks in.",
+                "Other."
+            ],
+            "content":"<div class=\"\"><div> <span>\"Six,\" replied Lisa.<br>\r\n\"Like, that's a long time,\" said Leni, \"But at least we know it's not permanent,\" and she put the new diaper on Lily, which was rather hard because she couldn't see Lily.<br>\r\nWhat happens now?</span></div></div>",
+            "created":1591851600,
+            "id":2849973,
+            "title":"6"
         },
         "15335252231242":{
             "author_id":"magicdream",
@@ -3958,6 +4154,75 @@
             "id":2783522,
             "title":"Herself."
         },
+        "15335252532111":{
+            "author_id":"magicdream",
+            "author_name":"Abracadabra.",
+            "choices":[
+                "One year.",
+                "Newborn.",
+                "One month.",
+                "Three months.",
+                "Other."
+            ],
+            "content":"<div class=\"\"><div> <span>One day, Lisa was in her and Lily's room tinkering, and invented something: a remote to make you younger and older!<br>\r\nHowever, when she was about to go downstairs and show it to her family, she tripped over Lily's bottle and landed on the remote.<br>\r\nThe remote was fine, but she activated it and turned herself into a baby!<br>\r\nHow old?</span></div></div>",
+            "created":1591419600,
+            "id":2846590,
+            "title":"A remote"
+        },
+        "153352525321112":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup",
+                "Nope."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She was a newborn physically, but, was she also mentally?</span></div></span></div>",
+            "created":1591419600,
+            "id":2846710,
+            "title":"Newborn."
+        },
+        "15335252532112":{
+            "author_id":"magicdream",
+            "author_name":"Abracadabra.",
+            "choices":[
+                "Seven months.",
+                "One year.",
+                "Newborn.",
+                "Three months.",
+                "Other."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Lisa was upstairs in her and Lily's room.<br>\r\nShe was trying to invent a gas to make her levitate, and Lily was kept well away in case it backfired.<br>\r\nUnfortunately, it did backfire, and turned Lisa into a baby, but how old?</span></div></span></div>",
+            "created":1591419600,
+            "id":2846591,
+            "title":"A gas"
+        },
+        "153352525321121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Nah."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Physically, she was now 7 months old, but, was she mentally herself?</span></div></span></div>",
+            "created":1591419600,
+            "id":2846712,
+            "title":"Seven months."
+        },
+        "15335252532113":{
+            "author_id":"magicdream",
+            "author_name":"Abracadabra.",
+            "choices":[
+                "A potion.",
+                "A shot.",
+                "A pill.",
+                "A ray.",
+                "A powder."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What is Lisa's invention that she uses to accidentally turn herself into a baby?</span></div></span></div>",
+            "created":1591419600,
+            "id":2846592,
+            "title":"SE"
+        },
         "1533525253215":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
@@ -3970,6 +4235,60 @@
             "created":1580965200,
             "id":2783523,
             "title":"Other."
+        },
+        "15335252532151":{
+            "author_id":"magicdream",
+            "author_name":"Abracadabra.",
+            "choices":[
+                "16 years younger (a one-year-old).",
+                "17 years younger (a zero-year-old)."
+            ],
+            "content":"<div class=\"\"><div> <span>Lisa hadn't given up trying to lengthen the lifespan of her Pop-Pop.<br>\r\nShe was more content with his inevitable death now, but she thought, why give up?<br>\r\nSo, for his visit, she was going to give him lemonade that had her formula in it, which made you roughly 16-17 years younger.<br>\r\n<br>\r\nUnfortunately, things didn't go as planned: Lori had made herself a lemonade too, and had accidentally drank the wrong one, making her...</span></div></div>",
+            "created":1591419600,
+            "id":2846594,
+            "title":"Yup"
+        },
+        "153352525321511":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Nah."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Lori was soon 1 year old physically, though mentally still herself. Acting fast, Lisa got her to Lily's room and diapered her, but, did Lori stay still as this was done?</span></div></span></div>",
+            "created":1591419600,
+            "id":2846718,
+            "title":"16 years younger (a one-year-old)."
+        },
+        "15335252532152":{
+            "author_id":"magicdream",
+            "author_name":"Abracadabra.",
+            "choices":[
+                "One year.",
+                "Three months.",
+                "Seven months.",
+                "Newborn.",
+                "Other."
+            ],
+            "content":"<div class=\"\"><div> <span>Lisa was planning revenge on Luan for pieing her in the face that morning: make her inhale a powder that would cause her to become mute for an hour.<br>\r\nShe made a powder, sneaked into Luna and Luan's room, and threw the powder on Luan. Luan managed to inhale it, but instead of rendering her mute, it made her into a baby of...</span></div></div>",
+            "created":1591419600,
+            "id":2846596,
+            "title":"Luan"
+        },
+        "15335252532153":{
+            "author_id":"magicdream",
+            "author_name":"Abracadabra.",
+            "choices":[
+                "Lincoln.",
+                "Lynn Jr.",
+                "Luna.",
+                "Leni.",
+                "One of the parents."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who is accidentally turned into a baby by Lisa?</span></div></span></div>",
+            "created":1591419600,
+            "id":2846597,
+            "title":"More test subjects."
         },
         "153352525322":{
             "author_id":"ehock",
@@ -4010,6 +4329,34 @@
             "id":2783590,
             "title":"Other."
         },
+        "153352525322151":{
+            "author_id":"magicdream",
+            "author_name":"Abracadabra.",
+            "choices":[
+                "Head over to Mr. Grouse's house to use the bathroom.",
+                "Alert Lana to the situation so they can fix the toilet.",
+                "Ground the kids like in \"Sleuth or Consequences\"."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Lynn Sr. was the first one up in this morning.<br>\r\nNaturally, he needed to pee, so he went to the toilet, and found it was broken.<br>\r\nWhat does he do first?</span></div></span></div>",
+            "created":1591160400,
+            "id":2845533,
+            "title":"Lynn Sr."
+        },
+        "153352525322152":{
+            "author_id":"magicdream",
+            "author_name":"Abracadabra.",
+            "choices":[
+                "Lola.",
+                "Lori.",
+                "Lucy.",
+                "Luan.",
+                "Other."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who discovers the toilet's clogged?</span></div></span></div>",
+            "created":1591160400,
+            "id":2845534,
+            "title":"Someone else."
+        },
         "1533525253222":{
             "author_id":"yejdbdinsknsk8",
             "author_name":"Yejdbdinsknsk8",
@@ -4034,6 +4381,21 @@
             "id":2783527,
             "title":"The goth with the Beautiful Blue eyes "
         },
+        "153352525322211":{
+            "author_id":"magicdream",
+            "author_name":"Abracadabra.",
+            "choices":[
+                "They tattle on Lucy.",
+                "Cut to dinner.",
+                "Cut to bedtime.",
+                "Cut to the next day.",
+                "Other."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\"I will haunt you 'til karma happens!\", said Lucy spookily.<br>\r\nWhat happens now?</span></div></span></div>",
+            "created":1591160400,
+            "id":2845531,
+            "title":"I will Haunt You Till Karma Happens(Eventual Hu..."
+        },
         "153352525322212":{
             "author_id":"yejdbdinsknsk8",
             "author_name":"Yejdbdinsknsk8",
@@ -4046,6 +4408,36 @@
             "id":2836058,
             "title":"I will Hurt You Soon(Paranoia Of Physical Harm)"
         },
+        "1533525253222121":{
+            "author_id":"magicdream",
+            "author_name":"Abracadabra.",
+            "choices":[
+                "Play board games.",
+                "Play cards.",
+                "Read.",
+                "Draw.",
+                "Play with action figures."
+            ],
+            "content":"<div class=\"\"><div> <span>\"We try to hide in my room 'til the heat turns down,\" said Lincoln.<br>\r\n\"OK,\" said Lynn, and they walked down the hallway to Lincoln's room.<br>\r\n\"Now,\" said Lincoln, \"To keep ourselves entertained, let's...\"</span></div></div>",
+            "created":1591160400,
+            "id":2845529,
+            "title":"We Try To hide in My room till the heat turns d..."
+        },
+        "1533525253222122":{
+            "author_id":"magicdream",
+            "author_name":"Abracadabra.",
+            "choices":[
+                "Gus's Games and Grub.",
+                "The swimming pool.",
+                "The movies.",
+                "Dairyland.",
+                "Other."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\"We'll hit the road to get away from Lucy!\", said Lincoln.<br>\r\nWhere do Lincoln and Lynn go?</span></div></span></div>",
+            "created":1591160400,
+            "id":2845530,
+            "title":"We hit the road to get away from Lucy "
+        },
         "15335252532222":{
             "author_id":"ehock",
             "author_name":"Writers",
@@ -4057,6 +4449,192 @@
             "created":1581915600,
             "id":2788513,
             "title":"Lucy: Sigh,ok here\u2019s more ideas"
+        },
+        "153352525322221":{
+            "author_id":"magicdream",
+            "author_name":"Abracadabra.",
+            "choices":[
+                "Lynn gives her family wedgies and has to make it up.",
+                "The Louds stand up to a bully who wedgied them.",
+                "Other."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Wedgies aren't that much of a plot point.<br>\r\nHow could we make them into a plot point?</span></div></span></div>",
+            "created":1591160400,
+            "id":2845525,
+            "title":"Sure thing."
+        },
+        "1533525253222213":{
+            "author_id":"ehock",
+            "author_name":"Writers",
+            "choices":[
+                "The whole family has a Wedgie War.",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How bout these choices?</span></div></span></div>",
+            "created":1591333200,
+            "id":2846149,
+            "title":"Other."
+        },
+        "15335252532222132":{
+            "author_id":"ehock",
+            "author_name":"Writers",
+            "choices":[
+                "The whole family gets in wedgie related mishaps outside of their house.",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What should happen then?</span></div></span></div>",
+            "created":1591678800,
+            "id":2848871,
+            "title":"Something else."
+        },
+        "153352525322221322":{
+            "author_id":"ehock",
+            "author_name":"Writers",
+            "choices":[
+                "Luan pranks her whole family and herself with wedgie pranks.",
+                "More choices."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>This then?</span></div></span></div>",
+            "created":1591678800,
+            "id":2848872,
+            "title":"Something else."
+        },
+        "153352525322222":{
+            "author_id":"eric709",
+            "author_name":"G-Breaker",
+            "choices":[
+                "That sounds great!",
+                "No. Anymore ideas out there?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about Lisa invents a shrinking device and chooses Lincoln to be her test subject?</span></div></span></div>",
+            "created":1591678800,
+            "id":2848766,
+            "title":"Maybe we should see if we have any other ideas."
+        },
+        "1533525253222221":{
+            "author_id":"magicdream",
+            "author_name":"Abracadabra.",
+            "choices":[
+                "The size of a younger kid.",
+                "Doll-sized.",
+                "Bug-sized."
+            ],
+            "content":"<div class=\"\"><div> <span>Lisa was marvelling over her latest invention: a shrinking device! It was programmed to shrink someone or something for one day, now she needed a test subject.<br>\r\nJust then, Lincoln came in and said, \"Hey, Lis, have you seen my VR goggles?\".<br>\r\n\"No,\" said Lisa, \"but I was wondering if you would like to test my new size reduction device.\"<br>\r\n\"You want to shrink me?!\" said Lincoln.<br>\r\n\"Affirmative,\" said Lisa, \"But do not fret, male sibling: the effects will wear off after twenty-four hours.\"<br>\r\n<br>\r\nAfter hearing that the effects would not be permanent, Lincoln allowed himself to be shrunk, and he ended up....</span></div></div>",
+            "created":1591851600,
+            "id":2849952,
+            "title":"That sounds great!"
+        },
+        "15335252532222211":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Lisa's.",
+                "Other sizes."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was he about Lily's size?</span></div></span></div>",
+            "created":1591851600,
+            "id":2849966,
+            "title":"The size of a younger kid."
+        },
+        "15335252532222213":{
+            "author_id":"eric709",
+            "author_name":"G-Breaker",
+            "choices":[
+                "Help Lisa study in the garden.",
+                "Explore the rest of the house."
+            ],
+            "content":"<div class=\"\"><div> <span>Lincoln agreed to be Lisa's test subject for her new shrinking device and stood right in front of its path waiting for it to fire. Lincoln was a little bit nervous about it at first, but Lisa assured him that the process was perfectly safe and that there wouldn't be any severe side effects. However, before she activated the machine to give Lincoln a lower perspective of the house, Lisa gave Lincoln a special black body suit that she said would protect him from all of the dangers of the microscopic world.<br>\r\n<br>\r\n\"Before we start the process male sibling, I insist that you wear this protective suit.\" Lisa instructed. \"What's it for sis?\" Lincoln asked. \"This special suit is made with a specialized energy field I created that makes it virtually indestructible along with the person wearing it, while also allowing you to breathe in an airless environment. So as long as you're the size of an arthropod, this suit will keep you from getting seriously injured if anyone unknowingly compresses your minuscule form under the soles of their lower extremities or if you somehow get ingested by any unaware, normal-sized homo sapiens.\" Lincoln looked at her silently with confused eyes as he was putting on the suit. \"It'll keep you safe if you stepped on or eaten by anyone.\" Lisa said to make it more clear for Lincoln. \"Oh, I get it.\" He replied. \"Okay Lis, I'm ready. Fire it up!\" Lincoln said as he finished putting the suit on.<br>\r\n<br>\r\nLisa entered the commands into her shrink ray's computer and set the machine's size chart to ant-size (roughly 1/4-1/2 of an inch tall) and fired the beam directly at Lincoln. Lincoln's whole body was engulfed in a bright blue beam that immediately reduced his size to that of an average house fly. The sudden energy of the ray caused Lincoln to pass out for a bit. Once he woke up a few seconds later, he was shocked at the sight around him as he saw that Lisa's room had increased tremendously in size. He looked around him and saw that the green carpet fibers he was standing on before now towered over him like trees at twice his current height. He looked around and saw Lisa's work desk in the distance along with her bed and Lily's crib now looked like humongous skyscrapers and he would need a telescope just to see the very top of them. Lisa lifted up her safety goggles and looked where her older brother once stood. She was amazed that her invention worked and let out a yelp in excitement. \"Success!\" she cried. Lincoln heard this and covered his ears at how loud the sound of her voice was. Lisa took a pair of modified binoculars and scanned the floor to look for her miniaturized sibling. Once she saw that he was still standing in the same place, Lisa carefully walked over to her brother's location with a pair of tweezers and a magnifying glass to pick him up off the floor.<br>\r\n<br>\r\nAs Lisa carefully walked over to Lincoln, he felt the ground shake from every one of her footsteps which made him fall on his back. Lincoln soon saw Lisa towering above him like a mountain and had his jaw drop in stunned amazement with a hint of fear as well. Lisa's eyes looked down at Lincoln and she used the tweezers to pick him up off the floor as he grabbed them and placed him on top of her desk. \"Seems my new invention is a success, huh Lincoln?\" Lisa asked and noticed that Lincoln was covering his ears from the high volume of her booming voice. So she decided to speak more quietly for him and put a speaking device in front of him so she could hear him. \"So not so big male sibling, how does it feel to be the size of an insect?\" Lisa asked in a very quiet voice. Lincoln spoke into the speaker and answered \"To be honest Lis, it's both amazing and really scary at the same time.\" Lisa nodded in agreement as she looked at her minuscule brother. \"Now Lincoln, I've equipped your suit with a communication apparatus on your left wrist so that I can stay in contact with you while you're out exploring the wonders of the microscopic world.\" Lisa said as Lincoln looked at the watch on his wrist. \"And on your feet, I've also installed a pair of rocket boots so that you can fly around and get around the place faster without having to walk. They are activated by pressing the red button on your wrist com.\" Lisa instructed as Lincoln pushed the button and felt himself being lifted off of the desk. Of course it was hard for him to keep himself balanced at first, but in a few seconds Lincoln managed to stabilize himself and fly more steadily. \"Whoa, this is awesome!\" Lincoln shouted with glee as he flew himself quickly around Lisa's large head and marveled at how amazing her hair was up close. \"This is amazing Lisa! I feel like I could go anywhere now.\" Lincoln said through the speaker as Lisa smiled at her brother's enthusiasm. \"I'm glad you're having fun with your new stature elder brother. So now that you're fully equipped and prepared the gigantic world around you, how do you want to spend the next 24 hours in this state?\" Lisa asked. \"You can either help me to study the vastness of the insect world in the garden or maybe you could explore the rest of the house at your current miniaturized size. What do you think?\"</span></div></div>",
+            "created":1592024400,
+            "id":2850808,
+            "title":"Bug-sized."
+        },
+        "153352525322222132":{
+            "author_id":"eric709",
+            "author_name":"G-Breaker",
+            "choices":[
+                "Stay upstairs and look in his his sisters' rooms.",
+                "Go downstairs and fly around to see his sisters along with Mom and Dad."
+            ],
+            "content":"<div class=\"\"><div> <span>\"You know what Lis, I think I'm just gonna fly around the rest of the house and see how it looks from this size.\" Lincoln said. Lisa nodded in agreement. \"Fine by me Lincoln, and just so you know I've also included a timer in your communicator to let you know when you'll return to normal size.\" Lisa said. \"Okay Lisa, thanks for the gear. I'll let you know if I find anything while I'm out. See you around.\" Lincoln responded and flew past her towards the open door. But not before flying to Lily in her crib and waving to the infant.<br>\r\n<br>\r\n\"Hey Lily..\" Lincoln said to her. Lily looked in confusion at the tiny 'bug' floating in front of her face and soon noticed that it was Lincoln. She put a big smile on her face and let out a happy squeal trying to reach for her tiny brother. \"Incon li'l! Heh heh heh!\" Lily laughed excitedly as she attempted to grab Lincoln in her pudgy hand, but to no avail. Lincoln dodged her hands in a funny flight pattern and then flew behind Lily to tickle her on her back. Lily laughed with happiness as she fell on her backside in the crib. Lincoln flew to her front before she could fall on top of him and tickled her belly as well which mad the baby laugh even more. Lincoln could feel how soft, pudgy and nice Lily's baby skin was and was happy that he got to make her laugh at his new size. He then flew up to Lily's face and planted a kiss on her cheek. \"There you go, little sis. Okay gotta fly.\" Lincoln said as he was about to fly away. But before Lincoln could get away from the baby, Lily finally managed to grab hold of his tiny form in the palm of her right hand. Lincoln felt squeezed in Lily's closed hand but also found it soothing to feel Lily's baby soft skin on him. Lily put Lincoln onto her chest and gave Lincoln a comforting hug in her arms. Lincoln returned the hug as he felt the warmth of Lily's arms along with the soothing rhythm of Lily's beating heart around him. Lisa adored the cute scene in front of her as her miniaturized brother gave Lily some peace and comfort. \"I love you to Lily.\" Lincoln said as Lily released him from the hug and waved goodbye as he flew away from her crib.<br>\r\n<br>\r\nLincoln finally flew out of the open door into the hallway and pondered on where he should start his tiny adventure in the confines of the Loud House. Lincoln saw how vast and free the large hallway was and felt like he was an actual housefly that was flying around all willy-nilly throughout the house. He thought it would be fun but hoped that nobody would be around with a flyswatter or spray him with pesticides. \"Now let's see, where should I start exploring?\" Lincoln asked himself. \"I could stay up here and look into all of my sisters' rooms to see how big they look from this perspective. On the other hand, I could fly downstairs and see if some of them are down there with Mom and Dad.\" Lincoln thought as he made his choice. \"You know what, I'll think I'll...\"</span></div></div>",
+            "created":1592024400,
+            "id":2850845,
+            "title":"Explore the rest of the house."
+        },
+        "1533525253222221321":{
+            "author_id":"eric709",
+            "author_name":"G-Breaker",
+            "choices":[
+                "The terrible twins.",
+                "The lair of the Athlete and the Queen of Darkness."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Whose room does Lincoln go into first?<br>\r\n<br>\r\nLola and Lana's room?<br>\r\nLynn and Lucy's room?</span></div></span></div>",
+            "created":1592024400,
+            "id":2850848,
+            "title":"Stay upstairs and look in his his sisters' rooms."
+        },
+        "15335252532222213212":{
+            "author_id":"eric709",
+            "author_name":"G-Breaker",
+            "choices":[
+                "Stay with Lynn and Lucy?",
+                "Go to Luna and Luan's room."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Lincoln go into Lynn and Lucy's room or into one of the others?</span></div></span></div>",
+            "created":1592024400,
+            "id":2850850,
+            "title":"The lair of the Athlete and the Queen of Darkness."
+        },
+        "153352525322222132122":{
+            "author_id":"eric709",
+            "author_name":"G-Breaker",
+            "choices":[
+                "Luna and Luan's bedroom.",
+                "Lori and Leni's bedroom."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is it Luna and Luan's bedroom or the final option, Lori and Leni's bedroom?</span></div></span></div>",
+            "created":1592024400,
+            "id":2850852,
+            "title":"The Rocker and the Clown"
+        },
+        "1533525253222221321222":{
+            "author_id":"eric709",
+            "author_name":"G-Breaker",
+            "choices":[
+                "Try to jump onto Leni's foot and risk getting stepped on by her flip-flop.",
+                "Fly out of the way and hover around Lori."
+            ],
+            "content":"<div class=\"\"><div> <span>Lincoln decided to start his adventure in Lori and Leni's bedroom, so he flew to the end of the hallway and went to the door on the left. Lori told Lincoln to stay out of her room, but he figured he'll be fine as long as she doesn't see him coming. Since Lincoln was already the size of a bug, he wanted to get a bug's eye view of the place and went in by crawling through the gap right under the closed door. When Lincoln was on the other side of the door, he marveled at the gigantic sight in front of him. His oldest sisters had one of the biggest bedrooms out of all of his sisters. Everything from his point of view looked like a massive skyscraper, from the towering beds above him to the girls in the room. From Lincoln's perspective, Lori and Leni looked like gigantic monsters who were miles above him, almost like he really was just a dust mite in their carpet.<br>\r\n<br>\r\nLori was texting on her phone, as usual, while Leni was on her bed reading one of her fashion magazines. \"Hey Lori, you have got to check out this new dress here in this month's catalog, it's like totes adorbs.\" Leni said. \"Not right now Leni, I'm a little busy texting.\" Lori replied. \"OMG! Bobby just texted me and said he made a brand new statue of me out of the mercado's leftover popsicle sticks. You literally have to see this.\" Lori said with zealous as she went to show Leni the picture of the statue that Bobby just sent her. As Lori was walking over to Leni, Lincoln could feel all of the shock waves from her footsteps and because Lori was much bigger than Lisa, the shock waves she made with her feet were much more intense than the ones Lisa made. \"So cute.\" Leni said when she saw the picture. \"You know what Lori, I think I'm gonna go downstairs for a drink and then after that can I get a ride to the mall?\" Leni asked. \"Sure, but you'll have to do my laundry first and don't forget, I like the lavender scented dryer sheets.\" Lori answered. \"Okay.\" Leni sighed. As Leni got up off of her bed she was heading towards the door and was heading right for Lincoln on the floor.<br>\r\n<br>\r\nLincoln saw Leni rising above him higher and higher as she came closer to him. The sight of her gigantic sandaled feet coming toward him ready to stomp on him made him quiver in fear. Lincoln was about to move out of the way and then thought that he could risk having Leni stomp on him and hitch a ride on her foot, or he could fly out of the way with his rockets and head over to explore around Lori instead. <br>\r\n<br>\r\nWhich will it be?</span></div></div>",
+            "created":1592110800,
+            "id":2850961,
+            "title":"Lori and Leni's bedroom."
+        },
+        "15335252532222213212221":{
+            "author_id":"eric709",
+            "author_name":"G-Breaker",
+            "choices":[
+                "He makes it on top of her toes.",
+                "He doesn't make it and gets stepped on."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Leni's gigantic feet are heading straight towards Lincoln. Lincoln decided to take a chance and jump for it. Will make it onto Leni's foot in time or does he get crushed right under her humongous flip-flop?</span></div></span></div>",
+            "created":1592110800,
+            "id":2851004,
+            "title":"Take a Chance!"
+        },
+        "1533525253222222":{
+            "author_id":"magicdream",
+            "author_name":"Abracadabra.",
+            "choices":[
+                "Lincoln spends a day with Lynn and her team.",
+                "Lincoln and Clyde enter a competition.",
+                "The family tries to get Lana to take a bath.",
+                "Lincoln and Clyde go to a cowboy-themed place.",
+                "Other."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What could we do?</span></div></span></div>",
+            "created":1591851600,
+            "id":2849956,
+            "title":"No. Anymore ideas out there?"
         }
     },
     "info":{
@@ -4067,7 +4645,8 @@
         "description":"<td align=\"left\" class=\"norm\">Hi there! This is about the Nickelodeon show <i>The Loud House</i>, however, I do have some rules, so please read this carefully if you want to join in:<br>\r\n<br>\r\n1. <b>No permanent changes to the status quo.</b> This means that things such as deaths (except in the cases of canonically-dead characters such as Harriet), permanent moves (except for the Santiagos' canonical move), permanent breakups, and the like are prohibited. Temporary lovers' quarrels, plots where it looks like a character might move, etc, are fine, and so are things such as dimension-hopping, transformations, and time travel (looking at you, Lucy and Lisa) as long as they're eventually reversed.<br>\r\n<br>\r\n2. <b>Don't rewrite a character's personality</b>, for instance, saying that Luan is secretly a psychopath, or that Lincoln secretly wishes he was a baby again, or having Lana give up car repair. Keep everyone recognisable. If Lisa makes an experiment that changes someone's personality or whatever, that's fine, as long as the changes are reversed.<br>\r\n<br>\r\n3. <b>Nothing too sexual.</b> Nudity in a nonsexual context is fine (heck, a running gag in the show is Lily taking her diaper off), but don't describe it in a pervy way. No explicit sex, no pedophilia (things like Clyde's crush on Lori are fine but no actual romance with a significant age gap where someone's underage, and no one should perv on someone much younger than them), NO INCEST. Also, while there are no strict rules since I have trouble telling who has a kink and who doesn't, I'm going to make a blanket rule and say that if you have a kink for something, don't write about it, but if you don't have a kink, don't worry about accidentally coming off as kinky. (For instance, if you don't have a kink, then you can write about one of the sisters growing to be a giant for comedy or plot value, but if you have the giantess fetish, just don't.)<br>\r\n<br>\r\nOther than that, run wild. As Lincoln would say, let's do this!</td>",
         "id":2208782,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1589579400,
+        "last_full_update":0,
+        "modified":1592118120,
         "pretty_title":"Loud House Interactive"
     }
 }

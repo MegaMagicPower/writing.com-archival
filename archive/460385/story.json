@@ -82,6 +82,7 @@
             "title":"A Point of Honor"
         },
         "1121":{
+            "author_name":"Elven Lady Keladry of Imaldris",
             "choices":[
                 "Continue the fight for his honor and risk angering Julia",
                 "Stop fighting and go with her, in disgrace"
@@ -139,6 +140,7 @@
             "title":"The Knight's challenge"
         },
         "1122":{
+            "author_name":"Black Mage",
             "choices":[
                 "The Attack"
             ],
@@ -148,6 +150,7 @@
             "title":"The Black Knight Triumphs!"
         },
         "11221":{
+            "author_name":"Black Mage",
             "choices":[
                 "The Reward"
             ],
@@ -157,6 +160,7 @@
             "title":"The Attack"
         },
         "112211":{
+            "author_name":"Black Mage",
             "choices":[
                 "Dark Truth"
             ],
@@ -166,6 +170,7 @@
             "title":"Benjamin"
         },
         "1122111":{
+            "author_name":"Black Mage",
             "choices":[
                 "Investigate",
                 "Disregard"
@@ -210,12 +215,14 @@
             "title":"Three On A Journey"
         },
         "11221112":{
+            "author_name":"Black Mage",
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ben and Julia disregard the rustling and tramp ahead. They hear the rustling again and again until a sword pops out of the brush and stabs Ben. Then the wielder of the sword turns on Julia and slays her........and so the story is now at its end.</span></div></span></div>",
             "created":1025931600,
             "id":116998,
             "title":"Your story has been terminated"
         },
         "12":{
+            "author_name":"skunkymonkey",
             "choices":[
                 "Laughs at Julia's stupidity.",
                 "Is stunned by her beauty and says nothing."
@@ -238,6 +245,7 @@
             "title":"Near Death"
         },
         "1211":{
+            "author_name":"kyo",
             "choices":[
                 "The Black Knight hears a horrifing sound and runs.",
                 "Julia jumps out of the way just in time and draws a small dagger."
@@ -248,6 +256,7 @@
             "title":"Unexpected Move."
         },
         "12112":{
+            "author_name":"L",
             "choices":[
                 "Alex finally decides to stand up and be a man...",
                 "Alex continues to watch in awed love as Julia whups the knight."
@@ -340,6 +349,7 @@
             "title":"Flight"
         },
         "122":{
+            "author_name":"Squeak",
             "choices":[
                 "Slowly followed her.",
                 "Called out to her."
@@ -350,6 +360,7 @@
             "title":"Defeat"
         },
         "1222":{
+            "author_name":"Lady Kelady Snape",
             "choices":[
                 "They go to get weapons first",
                 "They get food first"
@@ -412,6 +423,7 @@
         "description":"<td align=\"left\" class=\"norm\">In an ancient kingdom a young man, Alex, escorts the princess Julia on a diplomatic mission. Alex has been employed by the palace and seeks a glorious reputation after years of mockery by others. </td>",
         "id":460385,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1488940200,
         "modified":1488940200,
         "pretty_title":"The Journey"
     }

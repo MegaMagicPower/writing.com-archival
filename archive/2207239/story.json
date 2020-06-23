@@ -133,6 +133,17 @@
             "created":1586408400,
             "id":2816128,
             "title":"V: Arasaka-Unterschlupf; Silent Night?"
+        },
+        "1111111111111":{
+            "author_id":"blackie",
+            "author_name":"Blackie",
+            "choices":[
+                "V: The Voodoo Boys Spy Hunt @ EBM"
+            ],
+            "content":"<div class=\"\"><div> <span>Als ich aufwachte, stand die Anf\u00fchrerin der Arasaka-Einheit vor meinem Bett. Sie sagte: \"ich hoffe, Sie haben gut geschlafen.\"<br>\r\n<br>\r\nIch erwiderte: \"ja, habe ich. Wieso sind Sie hier?\"<br>\r\n<br>\r\nSie antwortete: \"ich habe einen neuen Auftrag f\u00fcr Sie. Wir haben Informationen, nach denen ein Mitarbeiter von EBM f\u00fcr die Voodoo Boys spionieren soll. Legen Sie dem Kerl das Handwerk. T\u00f6ten Sie ihn meinetwegen. Solange Sie keine Spuren hinterlassen, k\u00f6nnen wir damit leben.\"<br>\r\n<br>\r\nIch sagte: \"ich nehme nicht an, dass ich mir um die Bezahlung Gedanken machen muss. Ich bin einverstanden.\"<br>\r\n<br>\r\nSie erwiderte: \"super. Ich bringe Sie zu diesem Kerl.\"<br>\r\n<br>\r\nIch stieg gemeinsam mit ihr in ihren SUV.</span></div></div>",
+            "created":1590987600,
+            "id":2844015,
+            "title":"V: Night City; Morgengrauen"
         }
     },
     "info":{
@@ -143,7 +154,8 @@
         "description":"<td align=\"left\" class=\"norm\">V hatte unvollendete Arbeit zu erledigen, die sie nach Night City f\u00fchrte. Ein gnadenloser Kampf gegen verschiedene Gangs und die Polizei.</td>",
         "id":2207239,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1586436900,
+        "last_full_update":0,
+        "modified":1591007700,
         "pretty_title":"Cyberpunk 2077: Night City Reloaded"
     }
 }

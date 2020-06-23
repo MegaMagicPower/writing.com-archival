@@ -387,6 +387,21 @@
             "id":2082028,
             "title":"Cobalion"
         },
+        "125":{
+            "author_id":"cooling999",
+            "author_name":"cooling999",
+            "choices":[
+                "Rayquaza",
+                "Lugia",
+                "Arceus",
+                "Latios",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What about these options?</span></div></span></div>",
+            "created":1591333200,
+            "id":2846545,
+            "title":"Other"
+        },
         "13":{
             "author_id":"ink-boys",
             "author_name":"xyz",
@@ -566,7 +581,8 @@
         "description":"<td align=\"left\" class=\"norm\">It has been said legendary pokemon only show themselves to humans who have pure hearts and let's themselves get capture. But it's different this time. The legendary pokemon are looking for humans for either taking their place, make them their new playmates or make them their mates. Five long time friends where about to meet these legendary pokemon. This is the last story I'm going to use these characters.</td>",
         "id":2066810,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1578281220,
+        "last_full_update":0,
+        "modified":1591419300,
         "pretty_title":"Legendary encounter"
     }
 }

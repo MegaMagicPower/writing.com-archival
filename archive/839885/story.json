@@ -58,6 +58,7 @@
             "title":"Ken's welcome"
         },
         "111112":{
+            "author_name":"Trenbob",
             "choices":[
                 "you take his place as emperor",
                 " the guards sound the alarm"
@@ -92,6 +93,7 @@
             "title":"Bolivian"
         },
         "113":{
+            "author_name":"Trenbob",
             "choices":[
                 "weredramon",
                 "grifarmon"
@@ -102,6 +104,7 @@
             "title":"a Digimon of the dark lord"
         },
         "1131":{
+            "author_name":"fat_Foxbear",
             "choices":[
                 "\"i think it is time we report to Lord Ken\""
             ],
@@ -167,6 +170,7 @@
             "title":"Serpamon"
         },
         "12311":{
+            "author_name":"Trenbob",
             "choices":[
                 "Its the DigiDestine",
                 "Its a squad of the emperors soldiers"
@@ -177,6 +181,7 @@
             "title":"comuning with nature"
         },
         "12312":{
+            "author_name":"fat_Foxbear",
             "choices":[
                 "order a full out charge",
                 "try to flank them"
@@ -243,6 +248,7 @@
             "title":"orbinmon"
         },
         "123221":{
+            "author_name":"Noah Won",
             "choices":[
                 "A reptile/lizard/dragon digimon",
                 "A mammal digimon(dog, cat, dolphin, etc.)"
@@ -332,6 +338,7 @@
             "title":"Weapon"
         },
         "131":{
+            "author_name":"Mercury",
             "choices":[
                 "Left button",
                 "Right button"
@@ -342,6 +349,7 @@
             "title":"Upgrades"
         },
         "1311":{
+            "author_name":"zeldafreak0806",
             "choices":[
                 "Go back to your world and think about what just happnd",
                 "head right into the adventure"
@@ -408,6 +416,7 @@
             "title":"She wants to thank you"
         },
         "1312":{
+            "author_name":"Fenrir",
             "choices":[
                 "Assist the yellow creature.",
                 "Move on to something else."
@@ -418,6 +427,7 @@
             "title":"And so it begins."
         },
         "13121":{
+            "author_name":"Fenrir",
             "choices":[
                 "Find the Emporer",
                 "Go spy on Matt and Gabumon"
@@ -428,6 +438,7 @@
             "title":"Heroism"
         },
         "131212":{
+            "author_name":"Fenrir",
             "choices":[
                 "Hide behind some boxes near the entrance.",
                 "Try to make it into a building."
@@ -600,6 +611,7 @@
             "title":"your new companion"
         },
         "133":{
+            "author_name":"JAT",
             "choices":[
                 "\"Aguman!\"",
                 "\"Impmon!\""
@@ -661,6 +673,7 @@
             "title":"You're the cat's MEOW"
         },
         "1332":{
+            "author_name":"teenoftime",
             "choices":[
                 "the emperor",
                 "the digidestond"
@@ -671,6 +684,7 @@
             "title":"meeting impmon"
         },
         "13321":{
+            "author_name":"teenoftime",
             "choices":[
                 "Your first battle with the evil digmon emperor",
                 " you meet kari kamia"
@@ -681,6 +695,7 @@
             "title":"The digmon knight is born"
         },
         "133212":{
+            "author_name":"teenoftime",
             "choices":[
                 "go over and talk to her",
                 "ingore her"
@@ -691,6 +706,7 @@
             "title":"A day off"
         },
         "1332121":{
+            "author_name":"teenoftime",
             "choices":[
                 "accpet",
                 "politely refuse"
@@ -701,6 +717,7 @@
             "title":"meeting kari"
         },
         "13321211":{
+            "author_name":"teenoftime",
             "choices":[
                 "the big date",
                 "right before the date"
@@ -731,6 +748,7 @@
         "description":"<td align=\"left\" class=\"norm\">(Based on Season 02)<br>\r\nThe Digimon Emperor still reigns with an iron fist, with his own \"Dark DigiDestined\" at his disposal!  DigiDestined and Digimon alike arm themselves and prepare for total war!  Will the Digital World be able to survive the coming conflict?<br>\r\nWill you help the DigiDestined defeat the Emperor?  Or will you help Ken crush the resistance?  Or will you be a mercenary, fighting for your own ends?<br>\r\n<br>\r\nThe choice is yours.  Take up your sword and prepare for THE DIGITAL WARS!</td>",
         "id":839885,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1578765360,
         "modified":1578765360,
         "pretty_title":"The Digital Wars"
     }

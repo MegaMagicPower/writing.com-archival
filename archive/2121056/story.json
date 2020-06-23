@@ -17,7 +17,7 @@
         },
         "11":{
             "author_id":"3applemaster",
-            "author_name":"\u00c3\u0080pple33master",
+            "author_name":"\u00c0pple33master",
             "choices":[
                 "Forced to",
                 "She likes",
@@ -32,7 +32,7 @@
         },
         "111":{
             "author_id":"3applemaster",
-            "author_name":"\u00c3\u0080pple33master",
+            "author_name":"\u00c0pple33master",
             "choices":[
                 "Fred (for one of his traps)",
                 "Someone else"
@@ -44,7 +44,7 @@
         },
         "1111":{
             "author_id":"3applemaster",
-            "author_name":"\u00c3\u0080pple33master",
+            "author_name":"\u00c0pple33master",
             "choices":[
                 "Argue",
                 "Accept it"
@@ -69,7 +69,7 @@
         },
         "115":{
             "author_id":"3applemaster",
-            "author_name":"\u00c3\u0080pple33master",
+            "author_name":"\u00c0pple33master",
             "choices":[
                 "Blackmail",
                 "Something else"
@@ -81,7 +81,7 @@
         },
         "1151":{
             "author_id":"3applemaster",
-            "author_name":"\u00c3\u0080pple33master",
+            "author_name":"\u00c0pple33master",
             "choices":[
                 "Daphne ",
                 "One of the guys",
@@ -94,7 +94,7 @@
         },
         "11511":{
             "author_id":"3applemaster",
-            "author_name":"\u00c3\u0080pple33master",
+            "author_name":"\u00c0pple33master",
             "choices":[
                 "Readers choice 1",
                 "Readers choice 2"
@@ -106,7 +106,7 @@
         },
         "11512":{
             "author_id":"3applemaster",
-            "author_name":"\u00c3\u0080pple33master",
+            "author_name":"\u00c0pple33master",
             "choices":[
                 "Fred",
                 "Shaggy"
@@ -118,7 +118,7 @@
         },
         "115121":{
             "author_id":"3applemaster",
-            "author_name":"\u00c3\u0080pple33master",
+            "author_name":"\u00c0pple33master",
             "choices":[
                 "Readers choice 1",
                 "Readers choice 2"
@@ -130,7 +130,7 @@
         },
         "115122":{
             "author_id":"3applemaster",
-            "author_name":"\u00c3\u0080pple33master",
+            "author_name":"\u00c0pple33master",
             "choices":[
                 "Readers choice 1",
                 "Readers choice 2"
@@ -142,7 +142,7 @@
         },
         "11513":{
             "author_id":"3applemaster",
-            "author_name":"\u00c3\u0080pple33master",
+            "author_name":"\u00c0pple33master",
             "choices":[
                 "Scooby doo",
                 "Someone else"
@@ -154,7 +154,7 @@
         },
         "115131":{
             "author_id":"3applemaster",
-            "author_name":"\u00c3\u0080pple33master",
+            "author_name":"\u00c0pple33master",
             "choices":[
                 "Readers choice 1",
                 "Readers choice 2"
@@ -163,6 +163,19 @@
             "created":1500181200,
             "id":2354345,
             "title":"Scooby doo"
+        },
+        "1152":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "playing truth or dare",
+                "part of a new law that was passed",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what other reason would Velma end up in diapers?</span></div></span></div>",
+            "created":1592370000,
+            "id":2852730,
+            "title":"Something else"
         },
         "12":{
             "author_id":"supreme123",
@@ -219,7 +232,7 @@
         },
         "1252":{
             "author_id":"3applemaster",
-            "author_name":"\u00c3\u0080pple33master",
+            "author_name":"\u00c0pple33master",
             "choices":[
                 "For one of Fred traps",
                 "By blackmail",
@@ -232,7 +245,7 @@
         },
         "12521":{
             "author_id":"3applemaster",
-            "author_name":"\u00c3\u0080pple33master",
+            "author_name":"\u00c0pple33master",
             "choices":[
                 "Argue",
                 "Accept it"
@@ -244,7 +257,7 @@
         },
         "12522":{
             "author_id":"3applemaster",
-            "author_name":"\u00c3\u0080pple33master",
+            "author_name":"\u00c0pple33master",
             "choices":[
                 "Velma",
                 "One of the guys"
@@ -268,7 +281,7 @@
         },
         "125222":{
             "author_id":"3applemaster",
-            "author_name":"\u00c3\u0080pple33master",
+            "author_name":"\u00c0pple33master",
             "choices":[
                 "Fred",
                 "Shaggy"
@@ -280,7 +293,7 @@
         },
         "1252222":{
             "author_id":"3applemaster",
-            "author_name":"\u00c3\u0080pple33master",
+            "author_name":"\u00c0pple33master",
             "choices":[
                 "Yes I am sure",
                 "No someone else"
@@ -292,7 +305,7 @@
         },
         "12522222":{
             "author_id":"3applemaster",
-            "author_name":"\u00c3\u0080pple33master",
+            "author_name":"\u00c0pple33master",
             "choices":[
                 "Scooby doo",
                 "Someone else"
@@ -379,7 +392,7 @@
         },
         "143":{
             "author_id":"3applemaster",
-            "author_name":"\u00c3\u0080pple33master",
+            "author_name":"\u00c0pple33master",
             "choices":[
                 "For on of Fred's traps",
                 "Blackmail",
@@ -392,7 +405,7 @@
         },
         "1431":{
             "author_id":"3applemaster",
-            "author_name":"\u00c3\u0080pple33master",
+            "author_name":"\u00c0pple33master",
             "choices":[
                 "Accept it",
                 "Argue"
@@ -404,7 +417,7 @@
         },
         "1432":{
             "author_id":"3applemaster",
-            "author_name":"\u00c3\u0080pple33master",
+            "author_name":"\u00c0pple33master",
             "choices":[
                 "Fred",
                 "Shaggy",
@@ -417,7 +430,7 @@
         },
         "14321":{
             "author_id":"3applemaster",
-            "author_name":"\u00c3\u0080pple33master",
+            "author_name":"\u00c0pple33master",
             "choices":[
                 "Readers choice 1",
                 "Readers choice 2"
@@ -429,7 +442,7 @@
         },
         "14322":{
             "author_id":"3applemaster",
-            "author_name":"\u00c3\u0080pple33master",
+            "author_name":"\u00c0pple33master",
             "choices":[
                 "Readers choice 1",
                 "Readers choice 2"
@@ -441,7 +454,7 @@
         },
         "14323":{
             "author_id":"3applemaster",
-            "author_name":"\u00c3\u0080pple33master",
+            "author_name":"\u00c0pple33master",
             "choices":[
                 "Scooby doo",
                 "Someone else"
@@ -453,7 +466,7 @@
         },
         "143231":{
             "author_id":"3applemaster",
-            "author_name":"\u00c3\u0080pple33master",
+            "author_name":"\u00c0pple33master",
             "choices":[
                 "Readers choice 1",
                 "Readers choice 2"
@@ -623,6 +636,46 @@
             "created":1500526800,
             "id":2356993,
             "title":"winnie the werewolf"
+        },
+        "1513":{
+            "author_id":"ghostdog1235",
+            "author_name":"TheFriendlyReviewer",
+            "choices":[
+                "Incontinence",
+                "Likes them",
+                "Spell gone wrong?",
+                "Other suggestions"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about this selection of choices?</span></div></span></div>",
+            "created":1591419600,
+            "id":2846620,
+            "title":"something else"
+        },
+        "155":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "phantasma",
+                "Daphne's cousin shannon(from the loch nes monster movie)",
+                "someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what other girl from Scooby doo ends up in diapers?</span></div></span></div>",
+            "created":1591419600,
+            "id":2846691,
+            "title":"someone else"
+        },
+        "1553":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "wonder woman",
+                "sia",
+                "someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what other girls from the Scooby doo franchise ends up in diapers?(a thought just accrued to me, do celebrities and characters that guest stared on Scooby doo count for this?)</span></div></span></div>",
+            "created":1591419600,
+            "id":2846706,
+            "title":"someone else"
         }
     },
     "info":{
@@ -633,7 +686,8 @@
         "description":"<td align=\"left\" class=\"norm\">No gore<br>\r\nNo males in diapers (can diaper someone though)<br>\r\nNo killing<br>\r\nNo pregnancy<br>\r\nFeel free to be descriptive just warn before you do on the chapter<br>\r\nNo ending please</td>",
         "id":2121056,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1562621940,
+        "last_full_update":1562621940,
+        "modified":1592401500,
         "pretty_title":"Scooby doo girls in Diapers"
     }
 }

@@ -294,6 +294,21 @@
             "id":1339393,
             "title":"Another choice..."
         },
+        "11211112":{
+            "author_id":"cooling999",
+            "author_name":"cooling999",
+            "choices":[
+                "A hybrid Bulbasaur",
+                "A hybrid Latias",
+                "A hybrid Lugia",
+                "A hybrid Latios",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What does Ash turn into?</span></div></span></div>",
+            "created":1591333200,
+            "id":2846540,
+            "title":"Multiple Options brench..."
+        },
         "113":{
             "author_id":"bogger",
             "author_name":"Shinuto",
@@ -2018,12 +2033,13 @@
     "info":{
         "author_id":"gawayne",
         "author_name":"DJ Jaxx",
-        "brief_description":"A Disease is spreading throughout the pok\u00c3\u00a8mon world...and creating Pok\u00c3\u00a8morphs!",
+        "brief_description":"A Disease is spreading throughout the pok\u00e8mon world...and creating Pok\u00e8morphs!",
         "created":1262154240,
-        "description":"<td align=\"left\" class=\"norm\">Most of the girls of the pok\u00c3\u00a8mon world, wild Pok\u00c3\u00a8mon, and a few guys, catch  the disease Neo Pok\u00c3\u00a8rus! transforming them into Pok\u00c3\u00a8morphs!<br>\r\n<br>\r\nThe rules are:<br>\r\n<br>\r\nNo homosexuality<br>\r\n<br>\r\nSex is allowed, but try to have an actual story!<br>\r\n<br>\r\nOC's can appear, but they must be a wild pok\u00c3\u00a8mon gone pok\u00c3\u00a8morph, and must interact CONSISTANTLY with at least one canonical character.<br>\r\n<br>\r\nBe descriptive!<br>\r\n<br>\r\nHave fun!</td>",
+        "description":"<td align=\"left\" class=\"norm\">Most of the girls of the pok\u00e8mon world, wild Pok\u00e8mon, and a few guys, catch  the disease Neo Pok\u00e8rus! transforming them into Pok\u00e8morphs!<br>\r\n<br>\r\nThe rules are:<br>\r\n<br>\r\nNo homosexuality<br>\r\n<br>\r\nSex is allowed, but try to have an actual story!<br>\r\n<br>\r\nOC's can appear, but they must be a wild pok\u00e8mon gone pok\u00e8morph, and must interact CONSISTANTLY with at least one canonical character.<br>\r\n<br>\r\nBe descriptive!<br>\r\n<br>\r\nHave fun!</td>",
         "id":1631118,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1568822820,
-        "pretty_title":"Neo Pok\u00c3\u00a8rus: The Pok\u00c3\u00a8morph disease!"
+        "last_full_update":0,
+        "modified":1591418640,
+        "pretty_title":"Neo Pok\u00e8rus: The Pok\u00e8morph disease!"
     }
 }

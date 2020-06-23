@@ -3188,6 +3188,19 @@
             "id":2830339,
             "title":"The Girls"
         },
+        "125212":{
+            "author_id":"sizewatcher",
+            "author_name":"SizeWatcher",
+            "choices":[
+                "Sakura",
+                "Hinata",
+                "Other girl"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Sakura or Hinata?</span></div></span></div>",
+            "created":1590728400,
+            "id":2842754,
+            "title":"Only the young"
+        },
         "12522":{
             "author_id":"bokoneymen",
             "author_name":"Sommen",
@@ -3257,6 +3270,31 @@
             "created":1567486800,
             "id":2712806,
             "title":"Someone else "
+        },
+        "125231222":{
+            "author_id":"sizewatcher",
+            "author_name":"SizeWatcher",
+            "choices":[
+                "Rock Lee",
+                "Kiba",
+                "More dudes!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Rock Lee or Kiba?</span></div></span></div>",
+            "created":1590728400,
+            "id":2842753,
+            "title":"Someone else "
+        },
+        "1252312223":{
+            "author_id":"quandix",
+            "author_name":"pickles",
+            "choices":[
+                "Hinata ",
+                "Someone else "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about Hinata?</span></div></span></div>",
+            "created":1591246800,
+            "id":2845674,
+            "title":"More people "
         },
         "1253":{
             "author_id":"grimtuesday",
@@ -3367,6 +3405,45 @@
             "id":1454833,
             "title":"A Girl"
         },
+        "12533122112":{
+            "author_id":"sizewatcher",
+            "author_name":"SizeWatcher",
+            "choices":[
+                "Sakura",
+                "Ino",
+                "Other gal"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Perhaps Sakura or Inu or some other gal?</span></div></span></div>",
+            "created":1590728400,
+            "id":2842746,
+            "title":"A different girl"
+        },
+        "125331221123":{
+            "author_id":"sizewatcher",
+            "author_name":"SizeWatcher",
+            "choices":[
+                "Hanabi",
+                "Tsunade",
+                "Other girl or woman"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Then how about Hanabi or Tsunade? Or are you looking for some other girl or woman?</span></div></span></div>",
+            "created":1590728400,
+            "id":2842748,
+            "title":"Other gal"
+        },
+        "1253312211233":{
+            "author_id":"sizewatcher",
+            "author_name":"SizeWatcher",
+            "choices":[
+                "Tenten",
+                "Temari",
+                "Someone else."
+            ],
+            "content":"<div class=\"\"><div> <span>A Strength Transfer Jutsu<br>\r\n  <br>\r\nHow about this, a new jutsu has been developed, one that is designed to strength the user at the cost of the victim. Basically, muscles, chakra, and strength are taken from one person and given to whoever uses the jutsu. So basically <br>\r\n a strength transfer jutsu<br>\r\n  <br>\r\n<br>\r\n<br>\r\n Who is girl who will use this powerful new Jutsu? Who is the only one using this jutsu?<br>\r\nTenten or Temari? Someone else?</span></div></div>",
+            "created":1590728400,
+            "id":2842755,
+            "title":"Other girl or woman"
+        },
         "1253312212":{
             "choices":[
                 "yes",
@@ -3448,6 +3525,19 @@
             "created":1469941200,
             "id":2189060,
             "title":"No, ANYBODY else."
+        },
+        "12533122122":{
+            "author_id":"sizewatcher",
+            "author_name":"SizeWatcher",
+            "choices":[
+                "Sasuke",
+                "Kakashi",
+                "More options"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay maybe Sasuke or Kakashi have it?</span></div></span></div>",
+            "created":1590728400,
+            "id":2842750,
+            "title":"no someone else"
         },
         "125332":{
             "author_id":"bokoneymen",
@@ -3556,6 +3646,270 @@
             "created":1547874000,
             "id":2605027,
             "title":"Something else"
+        },
+        "125332222":{
+            "author_id":"quandix",
+            "author_name":"pickles",
+            "choices":[
+                "Yes ",
+                "Something else "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>One of the cast gain the ability to alter reality itself as they see fit.</span></div></span></div>",
+            "created":1590814800,
+            "id":2843061,
+            "title":"A God amongst men"
+        },
+        "1253322221":{
+            "author_id":"quandix",
+            "author_name":"pickles",
+            "choices":[
+                "Naruto ",
+                "Someone else "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who shall wield this awesome power?</span></div></span></div>",
+            "created":1590814800,
+            "id":2843063,
+            "title":"Yes "
+        },
+        "12533222211":{
+            "author_id":"quandix",
+            "author_name":"pickles",
+            "choices":[
+                "Original series ",
+                "Some point later"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>At what point in the timeline does this take place?</span></div></span></div>",
+            "created":1590814800,
+            "id":2843064,
+            "title":"Naruto "
+        },
+        "125332222112":{
+            "author_id":"quandix",
+            "author_name":"pickles",
+            "choices":[
+                "Shippuden ",
+                "Later"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about the second series </span></div></span></div>",
+            "created":1592629200,
+            "id":2854015,
+            "title":"Chronicles!!"
+        },
+        "1253322221122":{
+            "author_id":"quandix",
+            "author_name":"pickles",
+            "choices":[
+                "The last",
+                "Later"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about this time? </span></div></span></div>",
+            "created":1592629200,
+            "id":2854018,
+            "title":" The epilogue time"
+        },
+        "12533222211222":{
+            "author_id":"quandix",
+            "author_name":"pickles",
+            "choices":[
+                "Pre Boruto",
+                "Later"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What of this point in time?</span></div></span></div>",
+            "created":1592629200,
+            "id":2854019,
+            "title":"Before the next gen"
+        },
+        "125332222112222":{
+            "author_id":"quandix",
+            "author_name":"pickles",
+            "choices":[
+                "Boruto ",
+                "Something else "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Maybe this point is to your liking?</span></div></span></div>",
+            "created":1592629200,
+            "id":2854022,
+            "title":"Time marches on "
+        },
+        "1253322221122222":{
+            "author_id":"quandix",
+            "author_name":"pickles",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about a completely different history/timeline all together?</span></div></span></div>",
+            "created":1592629200,
+            "id":2854025,
+            "title":"Another path"
+        },
+        "12533222212":{
+            "author_id":"quandix",
+            "author_name":"pickles",
+            "choices":[
+                "Sasuke ",
+                "Someone else "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What about this one?</span></div></span></div>",
+            "created":1592629200,
+            "id":2854010,
+            "title":"Someone else "
+        },
+        "125332222122":{
+            "author_id":"quandix",
+            "author_name":"pickles",
+            "choices":[
+                "Sakura ",
+                "Someone else "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about this one?</span></div></span></div>",
+            "created":1592629200,
+            "id":2854012,
+            "title":"Another candidate "
+        },
+        "1253322221222":{
+            "author_id":"quandix",
+            "author_name":"pickles",
+            "choices":[
+                "Hinata ",
+                "Someone else "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is this one worthy of ascension?</span></div></span></div>",
+            "created":1592629200,
+            "id":2854014,
+            "title":"Another contender "
+        },
+        "12533222212222":{
+            "author_id":"ridley23",
+            "author_name":"writer49er",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, to streamline this, let's separate characters by gender.<br>\r\n<br>\r\nRemember, Naruto, Sasuke, Sakura, and Hinata have already been offered, so skip them in the following chapters.</span></div></span></div>",
+            "created":1592629200,
+            "id":2854070,
+            "title":"Someone else "
+        },
+        "125332222122221":{
+            "author_id":"ridley23",
+            "author_name":"writer49er",
+            "choices":[
+                "Nope.",
+                "Sure"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>And I may as well add this as an option: maybe you want a genderswapped version of a female character?</span></div></span></div>",
+            "created":1592629200,
+            "id":2854071,
+            "title":"Male"
+        },
+        "1253322221222212":{
+            "author_id":"ridley23",
+            "author_name":"writer49er",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, let's get the obvious two choices out of the way, do you want a male version of either Sakura or Hinata?</span></div></span></div>",
+            "created":1592629200,
+            "id":2854074,
+            "title":"Sure"
+        },
+        "125332222122222":{
+            "author_id":"ridley23",
+            "author_name":"writer49er",
+            "choices":[
+                "Nope.",
+                "Sure"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>And I may as well add this as an option: maybe you want a genderswapped version of a male character?</span></div></span></div>",
+            "created":1592629200,
+            "id":2854072,
+            "title":"Female"
+        },
+        "1253322221222221":{
+            "author_id":"ridley23",
+            "author_name":"writer49er",
+            "choices":[
+                "Yes",
+                "Next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Alright, how about Ino?</span></div></span></div>",
+            "created":1592715600,
+            "id":2854501,
+            "title":"Nope."
+        },
+        "12533222212222212":{
+            "author_id":"ridley23",
+            "author_name":"writer49er",
+            "choices":[
+                "Yes",
+                "Next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Maybe TenTen?</span></div></span></div>",
+            "created":1592715600,
+            "id":2854503,
+            "title":"Next"
+        },
+        "125332222122222122":{
+            "author_id":"ridley23",
+            "author_name":"writer49er",
+            "choices":[
+                "Stay in the Leaf Village",
+                "Somewhere else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Somebody from another village?</span></div></span></div>",
+            "created":1592715600,
+            "id":2854506,
+            "title":"Next"
+        },
+        "1253322221222221222":{
+            "author_id":"ridley23",
+            "author_name":"writer49er",
+            "choices":[
+                "Yes",
+                "Next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The Sand Village?</span></div></span></div>",
+            "created":1592715600,
+            "id":2854507,
+            "title":"Somewhere else."
+        },
+        "12533222212222212222":{
+            "author_id":"ridley23",
+            "author_name":"writer49er",
+            "choices":[
+                "Yes",
+                "Next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Maybe the Mist?</span></div></span></div>",
+            "created":1592715600,
+            "id":2854509,
+            "title":"Next"
+        },
+        "125332222122222122222":{
+            "author_id":"ridley23",
+            "author_name":"writer49er",
+            "choices":[
+                "Yes",
+                "Next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The morally ambiguous Hidden Sound Village?</span></div></span></div>",
+            "created":1592715600,
+            "id":2854511,
+            "title":"Next"
+        },
+        "1253322221222222":{
+            "author_id":"ridley23",
+            "author_name":"writer49er",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, let's get the obvious two choices out of the way, do you want a female version of either Naruto or Sasuke?</span></div></span></div>",
+            "created":1592629200,
+            "id":2854073,
+            "title":"Sure"
         },
         "13":{
             "author_id":"grimtuesday",
@@ -6045,6 +6399,18 @@
             "id":2108428,
             "title":"someone else."
         },
+        "1551211122":{
+            "author_id":"tiggers",
+            "author_name":"Dale Gibson ",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about Ino wanting to have fun by messing<br>\r\nWith Sakuras mind through hypnosis?</span></div></span></div>",
+            "created":1590814800,
+            "id":2843086,
+            "title":"no some thing or someone else."
+        },
         "155122":{
             "author_id":"hollowking",
             "author_name":"Hollowking",
@@ -6116,6 +6482,18 @@
             "created":1482728400,
             "id":2254412,
             "title":"lets end for now"
+        },
+        "15512222":{
+            "author_id":"erofox",
+            "author_name":"Erofox",
+            "choices":[
+                "Anko",
+                "someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about Anko</span></div></span></div>",
+            "created":1591246800,
+            "id":2845942,
+            "title":"older kunoichi"
         },
         "1553":{
             "author_id":"evilfuzzy9",
@@ -14055,7 +14433,8 @@
         "description":"<td align=\"left\" class=\"norm\">Okay, so, it is basically th same Naruto story, only with any number of twists, from weight gain to gender bender. More will be explained inside. Pairings are encouraged but not required, but NaruHina is heavily encouraged. Please add on.<br>\r\n<br>\r\nAlso, be sure to be very descritive in your writing, keep it logical, don't end the story, antry to avoid killing characters, be sure to try and use good spelling and grammer, d none of the characters are to ever be immobile no matter how much they weigh.<br>\r\n<br>\r\nJust follow these rules and I will usually leave your writing alone.</td>",
         "id":1630133,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1589329500,
+        "last_full_update":0,
+        "modified":1592754240,
         "pretty_title":"Naruto, Completely Different"
     }
 }

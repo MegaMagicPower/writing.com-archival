@@ -477,7 +477,7 @@
         },
         "13111111":{
             "author_id":"3applemaster",
-            "author_name":"\u00c3\u0080pple33master",
+            "author_name":"\u00c0pple33master",
             "choices":[
                 "Readers choice 1",
                 "Readers choice 2"
@@ -537,7 +537,7 @@
         },
         "1311111111221":{
             "author_id":"3applemaster",
-            "author_name":"\u00c3\u0080pple33master",
+            "author_name":"\u00c0pple33master",
             "choices":[
                 "Yes",
                 "No"
@@ -1451,6 +1451,7 @@
         "description":"<td align=\"left\" class=\"norm\">One day bart woke up in a wet bed</td>",
         "id":1749448,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1581999540,
         "modified":1581999540,
         "pretty_title":"bart simpson in diapers"
     }

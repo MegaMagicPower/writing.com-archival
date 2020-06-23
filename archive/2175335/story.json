@@ -4610,6 +4610,18 @@
             "id":2592269,
             "title":"Phoebe."
         },
+        "14121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "A wish",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She's regressed how?</span></div></span></div>",
+            "created":1592024400,
+            "id":2850728,
+            "title":"Yes."
+        },
         "14123":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
@@ -4623,6 +4635,56 @@
             "created":1548478800,
             "id":2608107,
             "title":"Other reasons."
+        },
+        "141233":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Rachel",
+                "Monica.",
+                "Both of them, or anyone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>With her crazy childhood, she likes to be babied, but by who?</span></div></span></div>",
+            "created":1592024400,
+            "id":2850731,
+            "title":"She likes them."
+        },
+        "141234":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "dared",
+                "part of a new law that was passed",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what other reason is Phoebe in diapers?</span></div></span></div>",
+            "created":1592024400,
+            "id":2850715,
+            "title":"Other reasons."
+        },
+        "1412341":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Rachel",
+                "Monica, or anyone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who dares her into diapers?</span></div></span></div>",
+            "created":1592024400,
+            "id":2850726,
+            "title":"dared"
+        },
+        "1412342":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "yeah",
+                "something else about the new law"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>does the new Law involve a new kind of license that will allow those who apply for one to be classified as babies even in public and allows them to do activities that are more for babies and small children?</span></div></span></div>",
+            "created":1592024400,
+            "id":2850743,
+            "title":"part of a new law that was passed"
         },
         "1413":{
             "author_id":"jd88237",
@@ -8146,6 +8208,31 @@
             "id":2648824,
             "title":"Sure."
         },
+        "142133222211":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "The High School",
+                "The Summers' Home",
+                "Somewhere Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Buffy ends up in an alternate reality by falling through a portal, but where does Buffy find the portal?</span></div></span></div>",
+            "created":1591851600,
+            "id":2849655,
+            "title":"Reader's Choice 1"
+        },
+        "1421332222112":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Dawn's bedroom, or any place else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She finds it in her bedroom?</span></div></span></div>",
+            "created":1591851600,
+            "id":2849656,
+            "title":"The Summers' Home"
+        },
         "142133222212":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
@@ -9482,6 +9569,559 @@
             "created":1546837200,
             "id":2600343,
             "title":"Buffy told her"
+        },
+        "14233233":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No, Another Reason"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do Buffy and Dawn decide to go to a resort for sister bonding, but end up getting unwanted pampering?</span></div></span></div>",
+            "created":1592024400,
+            "id":2850623,
+            "title":"No, Something Else"
+        },
+        "142332331":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup",
+                "Anything else that tipped them off."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>On arriving at the resort, they first noticed something was up when they found their rooms were nurseries?</span></div></span></div>",
+            "created":1592024400,
+            "id":2850624,
+            "title":"Yes"
+        },
+        "1423323312":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "They were checked to see if they were wearing diapers",
+                "They were given a gift basket with baby items",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What else could happen that tipped them off?</span></div></span></div>",
+            "created":1592024400,
+            "id":2850660,
+            "title":"Anything else that tipped them off."
+        },
+        "14233233122":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Dawn",
+                "Buffy.",
+                "Dawn accepts it, or something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>After finding baby bottles, pacifiers and so on in gift baskets, who asks about it?</span></div></span></div>",
+            "created":1592024400,
+            "id":2850663,
+            "title":"They were given a gift basket with baby items"
+        },
+        "142332331223":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No, Buffy accepts it",
+                "Buffy pretends to be nice accepts it and tells Dawn to do the same"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Dawn accept it?</span></div></span></div>",
+            "created":1592024400,
+            "id":2850665,
+            "title":"Dawn accepts it, or something else."
+        },
+        "1423323312231":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah, but had Buffy do it for her.",
+                "Yes on her own.",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Dawn: Thanks.<br>\r\nBuffy: Dawn?<br>\r\nDawn: I didn't have an actual childhood, remember?<br>\r\nBuffy: You had to bring that up.<br>\r\nThey soon headed to their room. Did Dawn dress up as a baby with itims from the basket?</span></div></span></div>",
+            "created":1592024400,
+            "id":2850668,
+            "title":"Yes"
+        },
+        "14233233122312":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Their beds were cribs",
+                "Instead of dressers they had changing stations",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><div> <span>They arrive at their hotel room and Dawn immediately heads to the bathroom.<br>\r\n<br>\r\nBuffy: \"You have to go that bad?\"<br>\r\n<br>\r\nDawn: \"I'm going to get into the outfit they gave me.\"<br>\r\n<br>\r\nBuffy: \"Okay. Call out if you need help getting diapered baby sis.\"<br>\r\n<br>\r\nBuffy went to put there things up in the sleeping area and found.....</span></div></div>",
+            "created":1592024400,
+            "id":2850740,
+            "title":"Yes on her own."
+        },
+        "142332331223121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "No, made the best of it.",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did she try to call for the desk clerk, thinking there was a mix up?</span></div></span></div>",
+            "created":1592024400,
+            "id":2850744,
+            "title":"Their beds were cribs"
+        },
+        "1423323312231211":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Try and explain there's been a mistake",
+                "Accept the help with getting diapered",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><div> <span>Buffy walks into the sleeping area and instead of two beds she sees two cribs. Buffy feeling they must have been given the wrong room decides to call the main desk. She goes over to the hotel phone and presses the number for the main desk.<br>\r\n<br>\r\nClerk: \"Yes how may I help?\"<br>\r\n<br>\r\nBuffy: \"Yeah you have a room under the name Summers but there's a mistake. We have two cribs in place of beds.\"<br>\r\n<br>\r\nClerk: \"No. Miss Summers you said you and your sister wanted to be pampered. Here that means you wear pampers and get treated like babies. Now do you need someone to come and pamper you?\"<br>\r\n<br>\r\nWhat does Buffy do?</span></div></div>",
+            "created":1592024400,
+            "id":2850751,
+            "title":"Yeah"
+        },
+        "14233233122312112":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "About Dawn's age.",
+                "Older, or younger then her."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The staff member who comes to help her is her own age?</span></div></span></div>",
+            "created":1592024400,
+            "id":2850752,
+            "title":"Accept the help with getting diapered"
+        },
+        "142332331223121121":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Buffy heads to the changing stations",
+                "Buffy tells about Dawn in the bathroom"
+            ],
+            "content":"<div class=\"\"><div> <span>Buffy figuring that since Dawn would enjoy this getting to have a childhood decided to go along. She requested help with her pampering and waited. A few minutes later a woman the same age as Buffy entered.<br>\r\n<br>\r\n\"So you need help with your pampering?\"<br>\r\n<br>\r\nBuffy: \"Yeah.\"<br>\r\n<br>\r\n\"Well let's go to the changing stations.\"<br>\r\n<br>\r\nWhat happens next?</span></div></div>",
+            "created":1592024400,
+            "id":2850836,
+            "title":"Yeah"
+        },
+        "1423323312231211211":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah, and cooed like a baby.",
+                "Yeah, and asked more about the resort.",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Buffy headed to one of them. The girl, Stacey, a blonde with what sounded to Buffy like a New York accent, got her undressed when Buffy got on the table, then began to work. As she did, did Buffy stay still.</span></div></span></div>",
+            "created":1592024400,
+            "id":2850868,
+            "title":"Buffy heads to the changing stations"
+        },
+        "14233233122312112113":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No, but moves around due to nerves"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Buffy kick her legs like a baby?</span></div></span></div>",
+            "created":1592024400,
+            "id":2850875,
+            "title":"SE"
+        },
+        "142332331223121121131":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Dawn entered, in a baby outfit.",
+                "The powder did something to Buffy's mind, or SE."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Deciding to have fun with this, Buffy soon began kicking her legs like a baby. Laughing, Stacey held her still, and had just sprinkled her with baby powder when...</span></div></span></div>",
+            "created":1592024400,
+            "id":2850877,
+            "title":"Yes"
+        },
+        "1423323312231211211311":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "A t-shirt and diaper",
+                "A Onesie",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Dawn entered wearing what?</span></div></span></div>",
+            "created":1592024400,
+            "id":2850881,
+            "title":"Dawn entered, in a baby outfit."
+        },
+        "14233233122312112113111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Put into the cribs for naps.",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Buffy smiled, seeing Dawn in a t-shirt and diaper. Soon, she was also diapered, and put into an onesie. Next, both were given the rules for the resort during their stay?</span></div></span></div>",
+            "created":1592024400,
+            "id":2850887,
+            "title":"A t-shirt and diaper"
+        },
+        "142332331223121121131111":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Reader's Choice 1",
+                "Reader's Choice 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Stacy: \"Okay you two here are the rules for the resort.\"<br>\r\n<br>\r\nThe rules are.....</span></div></span></div>",
+            "created":1592024400,
+            "id":2850893,
+            "title":"Yeah"
+        },
+        "1423323312231211211311111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "No, bottle time, or for something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>1: You'll act like babies during your stay. 2: Staff will punish you if you misbehave. 3: You can act like yourselves if you go outside the resort.<br>\r\nWere there any other rules?</span></div></span></div>",
+            "created":1592024400,
+            "id":2850895,
+            "title":"Reader's Choice 1"
+        },
+        "14233233122312112113111112":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No, they were allowed to ask questions if they had any",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>There weren't any other rules but did that mean it was time for the girls bottles?</span></div></span></div>",
+            "created":1592024400,
+            "id":2850898,
+            "title":"No, bottle time, or for something else."
+        },
+        "142332331223121121131111121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Yeah, but Buffy offered to feed Dawn, and vice versa.",
+                "Another drink was in them."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Both were fed bottles of milk?</span></div></span></div>",
+            "created":1592024400,
+            "id":2850901,
+            "title":"Yes"
+        },
+        "142332331223121121131111122":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Dawn did."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was it Buffy that had some questions?</span></div></span></div>",
+            "created":1592024400,
+            "id":2850900,
+            "title":"No, they were allowed to ask questions if they ..."
+        },
+        "1423323312231211211311111221":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No",
+                "She can be, but a personal nanny cost extra"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Buffy: \"Stacy will you be our personal nanny or will others be taking care of us?\"<br>\r\n<br>\r\nWhat is Stacy's answer?</span></div></span></div>",
+            "created":1592024400,
+            "id":2850905,
+            "title":"Yeah"
+        },
+        "14233233122312112113111112212":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "No, Buffy first.",
+                "Dawn first."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Stacey: Two others will be taking care of you. Care to meet them now?<br>\r\nBuffy: Sure.<br>\r\nDid they meet them at the same time?</span></div></span></div>",
+            "created":1592024400,
+            "id":2850909,
+            "title":"No"
+        },
+        "142332331223121121131111122121":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No, takes Buffy and Dawn to them"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Stacy go to the phone to call the other two to the room?</span></div></span></div>",
+            "created":1592024400,
+            "id":2850928,
+            "title":"Yeah"
+        },
+        "1423323312231211211311111221212":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Chloe with Dawn, Cheryl with Buffy.",
+                "Other way around."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Both were taken to meet them.<br>\r\nFirst, was Chloe, a blonde, with light blue eyes. The other was Cheryl, a green eyed redhead, with an athletic build. Who would be with whom?</span></div></span></div>",
+            "created":1592024400,
+            "id":2850929,
+            "title":"No, takes Buffy and Dawn to them"
+        },
+        "14233233122312112113111112212121":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "The dining room setting a table for Buffy and Dawn",
+                "A Playground watching other babies",
+                "Somewhere Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Chloe would be with Dawn and Cheryl with Buffy but where were the two when Stacy took Buffy and Dawn to them?</span></div></span></div>",
+            "created":1592110800,
+            "id":2851140,
+            "title":"Chloe with Dawn, Cheryl with Buffy."
+        },
+        "142332331223121121131111122121211":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "On their laps."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Both were found in the dining room, but, did they put Buffy and Dawn into high chairs?</span></div></span></div>",
+            "created":1592110800,
+            "id":2851141,
+            "title":"The dining room setting a table for Buffy and Dawn"
+        },
+        "1423323312231211211311111221212112":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Buffy and Dawn both accept the bottled",
+                "Buffy and Dawn both reject the bottles",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><div> <span>Stacy took Buffy and Dawn downstairs to the dining room where two girls were working on setting things up. Stacy took Buffy and Dawn over to them. Stacy introduced the four and explained that Cheryl would be with Buffy while Chloe would be with Dawn. Chloe and Cheryl then sat down and patted their laps so Buffy and Dawn sat down in their nanny's lap. Stacy meanwhile had went into the back room and when she returned with bottles and handed them to Cheryl and Chloe who then went to feed Buffy and Dawn.<br>\r\n<br>\r\nWhat happens next?</span></div></div>",
+            "created":1592110800,
+            "id":2851193,
+            "title":"On their laps."
+        },
+        "14233233122312112113111112212121121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Dawn talked to Chloe",
+                "Something else that happened."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Both drank about half. After being burped, did Buffy talk with Cheryl?</span></div></span></div>",
+            "created":1592110800,
+            "id":2851195,
+            "title":"Buffy and Dawn both accept the bottled"
+        },
+        "142332331223121121131111122121211213":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "yep",
+                "both needed to go",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>did Buffy or dawn suddenly need to use the bathroom?</span></div></span></div>",
+            "created":1592110800,
+            "id":2851200,
+            "title":"Something else that happened."
+        },
+        "1423323312231211211311111221212112131":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Buffy",
+                "Dawn"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which one suddenly felt the need to go?</span></div></span></div>",
+            "created":1592110800,
+            "id":2851218,
+            "title":"yep"
+        },
+        "14233233122312112113111112212121121311":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Dawn",
+                "Stacey",
+                "Cheryl."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Buffy: Aw man, gotta go.<br>\r\nWho pointed out she was wearing a diaper and could use it?</span></div></span></div>",
+            "created":1592110800,
+            "id":2851223,
+            "title":"Buffy"
+        },
+        "1423323312231211211311111221212112132":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Both had to pee",
+                "Both had to poop",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>After drinking about half their bottles and being burped Buffy and Dawn both felt the need to use the bathroom, but what did they have to do?</span></div></span></div>",
+            "created":1592110800,
+            "id":2851219,
+            "title":"both needed to go"
+        },
+        "14233233122312112113111112212121121323":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "Buffy has to poop while Dawn has to pee",
+                "Dawn has to poop while Buffy has to pee"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do Buffy and Dawn both have to pee and poop?</span></div></span></div>",
+            "created":1592110800,
+            "id":2851220,
+            "title":"Something Else"
+        },
+        "142332331223121121131111122121211213231":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "By stacey."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>On doing so, both were changed by Chloe and Cheryl?</span></div></span></div>",
+            "created":1592110800,
+            "id":2851224,
+            "title":"Yes"
+        },
+        "14233233122312112113111112212121123":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No, Buffy accepts it while Dawn rejects it"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Dawn accept the bottle while Buffy rejects it?</span></div></span></div>",
+            "created":1592110800,
+            "id":2851196,
+            "title":"Something Else"
+        },
+        "142332331223121121131111122121211231":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "No, explained she was still getting use to everything.",
+                "Another reason."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Buffy politely rejected it, wanting to be breast fed?</span></div></span></div>",
+            "created":1592110800,
+            "id":2851198,
+            "title":"Yes"
+        },
+        "142332331223121121131111122121212":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "the sandbox",
+                "the monkey bars",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Dawn and Buffy were taken down to a playground where there were other people in diapers and hotel staff watching them.<br>\r\n<br>\r\nBuffy and dawn first decided to try out...</span></div></span></div>",
+            "created":1592110800,
+            "id":2851181,
+            "title":"A Playground watching other babies"
+        },
+        "1423323312231211211311111221212122":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Nah, try to work out with them, with pull ups."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Having not sused them for years, did both decide to have fun with them?</span></div></span></div>",
+            "created":1592110800,
+            "id":2851186,
+            "title":"the monkey bars"
+        },
+        "1423323312231211211311111221212123":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "yeah",
+                "somewhere else in the playground"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>did Dawn find a large patch of mud and dragged Buffy over to play in the mud?</span></div></span></div>",
+            "created":1592110800,
+            "id":2851316,
+            "title":"something else"
+        },
+        "142332331223121121131111122121213":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "yep",
+                "somewhere else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>where Buffy and Dawn changed into swim diapers and water wings(floaties) and taken to the hotel pool?</span></div></span></div>",
+            "created":1592110800,
+            "id":2851184,
+            "title":"Somewhere Else"
+        },
+        "142332331223121121131111123":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No, Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was it time for the girls to get in their cribs for nap time?</span></div></span></div>",
+            "created":1592024400,
+            "id":2850899,
+            "title":"Something Else"
+        },
+        "1423323312231211211311111231":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Buffy was first.",
+                "Dawn was the first."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did both get tucked in at the same time?</span></div></span></div>",
+            "created":1592024400,
+            "id":2850903,
+            "title":"Yes"
+        },
+        "142332332":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Sure",
+                "Anything else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do Willow and Tara adopt them, and want them as their babies?</span></div></span></div>",
+            "created":1592024400,
+            "id":2850639,
+            "title":"No, Another Reason"
         },
         "142333":{
             "author_id":"supreme123",
@@ -25825,6 +26465,68 @@
             "id":2610536,
             "title":"Something Else"
         },
+        "144331331":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "A",
+                "Kate Randall",
+                "someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>who would blackmail Hanna into diapers?</span></div></span></div>",
+            "created":1592024400,
+            "id":2850717,
+            "title":"She's Blackmailed"
+        },
+        "1443313312":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No, Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Kate use what Hanna said about Isabella to blackmail her into diapers?</span></div></span></div>",
+            "created":1592024400,
+            "id":2850718,
+            "title":"Kate Randall"
+        },
+        "1443313313":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup",
+                "Aria, or anyone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is it Spencer?</span></div></span></div>",
+            "created":1592024400,
+            "id":2850733,
+            "title":"someone else"
+        },
+        "14433133132":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No, Alison",
+                "Someone Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is Aria blackmailing Hanna?</span></div></span></div>",
+            "created":1592024400,
+            "id":2850745,
+            "title":"Aria, or anyone else."
+        },
+        "144331331321":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "For something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Aria's blackmailing Hanna over her grades.</span></div></span></div>",
+            "created":1592024400,
+            "id":2850746,
+            "title":"Yes"
+        },
         "144331332":{
             "author_id":"jd88237",
             "author_name":"jdawg1985",
@@ -25887,6 +26589,459 @@
             "created":1548997200,
             "id":2611052,
             "title":"Falls through a magic mirror"
+        },
+        "144331333112":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No, Their Home"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Hanna fall through the mirror at the store?</span></div></span></div>",
+            "created":1591851600,
+            "id":2849657,
+            "title":"No, something her and Ashley find in a store."
+        },
+        "1443313331121":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Laying on a changing table being diapered",
+                "Laying in a crib",
+                "Somewhere Else"
+            ],
+            "content":"<div class=\"\"><div> <span>Hanna and her mom were at a store shopping for furniture. Hanna had become bored and snuck off on her own. Hanna was walking around the store when she came upon a mirror. Hanna walked up to it and even though she liked it she knew her mom couldn't afford it. As Hanna placed her hand up on it the magic of the mirror activated and a portal opened up. Before she could react Hanna found herself suck inside of the mirror.<br>\r\n<br>\r\nWhen Hanna came out of the other side she found she was....</span></div></div>",
+            "created":1591851600,
+            "id":2849798,
+            "title":"Yes"
+        },
+        "14433133311211":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Spencer.",
+                "Mona.",
+                "Anyone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She found herself on a changing table, being diapered, but by who?</span></div></span></div>",
+            "created":1591851600,
+            "id":2849800,
+            "title":"Laying on a changing table being diapered"
+        },
+        "144331333112113":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No, Her stepsister Kate",
+                "Someone Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was Hanna being diapered by Aria?</span></div></span></div>",
+            "created":1591851600,
+            "id":2849807,
+            "title":"Anyone else."
+        },
+        "1443313331121131":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "No, to her shock, was babbling like a baby."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Aria was diapering her, even cooing at her. Hanna tried to ask what was going on finding she sounded like herself?</span></div></span></div>",
+            "created":1591851600,
+            "id":2849808,
+            "title":"Yes"
+        },
+        "14433133311211311":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Aria explains what is going on",
+                "Aria silences Hanna using a pacifier",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><div> <span>Hanna sighed as she had a headache from the fall. She found herself laying on her back at first she blinked her eyes adjusting to the light. She went to get up but was stopped and looked up to see the person keeping her down is Aria.<br>\r\n<br>\r\nAria: \"Not yet miss Fussy pants. I'm not done changing you.\"<br>\r\n<br>\r\nAria then brought up a fresh diaper and lifted Hanna's legs. Hanna next felt her ass and privates being covered in baby powder. As her legs were put down Hanna felt Aria closing and taping up the diaper. Finally getting her thoughts back Hanna realized what was happening and had questions.<br>\r\n<br>\r\nHanna: \"Aria what the Hell?\"<br>\r\n<br>\r\nWhat happens next?</span></div></div>",
+            "created":1591851600,
+            "id":2849828,
+            "title":"Yeah"
+        },
+        "144331333112113112":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Tried to spit it out, but, couldn't."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>A pacifier was put into her mouth, silencing her, but, did she start sucking on it?</span></div></span></div>",
+            "created":1591851600,
+            "id":2849832,
+            "title":"Aria silences Hanna using a pacifier"
+        },
+        "144331333112113113":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Yep",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Hanna get stunned seeing Aria put a foul smelling diaper into a diaper pail?</span></div></span></div>",
+            "created":1591851600,
+            "id":2849831,
+            "title":"Something Else"
+        },
+        "1443313331121131131":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Asked what was going on? ",
+                "Looked at Aria with a dumbfounded look",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><div> <span>As Hanna is waiting for an answer she sees Aria lift up a obviously used diaper and put it in a diaper pail. As the diaper was moved by Aria Hanna got a whiff of it and  could tell by the foul odor the diaper had been messy. Aria then returned and patted Hanna's diaper.<br>\r\n<br>\r\nAria: \"There know you are all clean and not a stinky baby.\"<br>\r\n<br>\r\nHow does Hanna react?</span></div></div>",
+            "created":1591851600,
+            "id":2849835,
+            "title":"Yep"
+        },
+        "14433133311211311312":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "To somewhere else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She gave Aria a dumbfounded look, before finding herself being picked up, and taken to a playpen?</span></div></span></div>",
+            "created":1591851600,
+            "id":2849837,
+            "title":"Looked at Aria with a dumbfounded look"
+        },
+        "144331333112113113122":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Put in a crib",
+                "Put in a baby bouncer",
+                "Somewhere Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where else could Hanna be taken?</span></div></span></div>",
+            "created":1591851600,
+            "id":2849858,
+            "title":"To somewhere else."
+        },
+        "1443313331121131131221":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Singing to her.",
+                "Reading a story",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She was tucked into a crib, and Aria got her to sleep by...</span></div></span></div>",
+            "created":1591851600,
+            "id":2849860,
+            "title":"Put in a crib"
+        },
+        "14433133311211311312213":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "30 Minutes",
+                "One Hour",
+                "Another Time"
+            ],
+            "content":"<div class=\"\"><div> <span>Aria turned on the mobile hanging over the crib. Hanna watched as the figures began moving and listened to the music playing. Before Hanna knew it her eyelids were heavy and she drifted off to sleep. Aria turned off the main light and turned on a night light before leaving the room.<br>\r\n<br>\r\nHanna ended up sleeping for how long?</span></div></div>",
+            "created":1591851600,
+            "id":2849939,
+            "title":"SE"
+        },
+        "144331333112113113122131":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Hanna explored the room.",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She woke up 30 minutes later. Did Aria re-enter?</span></div></span></div>",
+            "created":1591851600,
+            "id":2849945,
+            "title":"30 Minutes"
+        },
+        "1443313331121131131221313":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No, starts crying scared of where she is",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Hanna wakes up and tries to get out of the diaper?</span></div></span></div>",
+            "created":1591851600,
+            "id":2849947,
+            "title":"SE"
+        },
+        "14433133311211311312213132":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Walked around the room.",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Aria entered, picking her up, and began rocking her gently?</span></div></span></div>",
+            "created":1591851600,
+            "id":2849949,
+            "title":"No, starts crying scared of where she is"
+        },
+        "144331333112113113122131322":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Hanna starts playing with Aria's hair",
+                "Aria checks Hanna's diaper",
+                "Hanna burps from being patted on the back"
+            ],
+            "content":"<div class=\"\"><div> <span>Aria hearing Hanna cry over the baby monitor went into the nursery. Aria then walked over to the crib and picked Hanna up. Aria then positioned Hanna so that Hanna's legs were wrapped around Aria's waist, Hanna's arms were around her neck, and Hanna's head was resting on Aria's shoulder. Aria then walked around the room patting Hanna on the back and this soon got Hanna's crying down to sniffling.<br>\r\n<br>\r\nWhat happens next?</span></div></div>",
+            "created":1591938000,
+            "id":2850119,
+            "title":"Walked around the room."
+        },
+        "1443313331121131131221313222":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Pats Hanna's diapered bottom",
+                "Pops Hanna's diaper and looks over Hanna's shoulder into the diaper"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does Aria check Hanna's diaper?</span></div></span></div>",
+            "created":1591938000,
+            "id":2850120,
+            "title":"Aria checks Hanna's diaper"
+        },
+        "14433133311211311312213132221":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Dry",
+                "Messy."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She finds it wet?</span></div></span></div>",
+            "created":1591938000,
+            "id":2850122,
+            "title":"Pats Hanna's diapered bottom"
+        },
+        "14433133311211311312213132222":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Wet",
+                "Messy",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>As Aria was walking around the room she decided to see if Hanna was crying because she needed another change. Aria brought her hand up to Hanna's waist and pulled the diaper back. Aria looked over Hanna's shoulder and found her diaper was?</span></div></span></div>",
+            "created":1591938000,
+            "id":2850141,
+            "title":"Pops Hanna's diaper and looks over Hanna..."
+        },
+        "144331333112113113122131322223":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Hanna's wet and Messy",
+                "Hanna's Dry"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What else could Aria see when she pulls back Hanna's diaper and looks inside?</span></div></span></div>",
+            "created":1591938000,
+            "id":2850143,
+            "title":"Something Else"
+        },
+        "1443313331121131131221313222232":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup",
+                "Nope, SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Hanna was dry. Did Hanna try to ask Aria why she was treated like a baby?</span></div></span></div>",
+            "created":1591938000,
+            "id":2850145,
+            "title":"Hanna's Dry"
+        },
+        "14433133311211311312213132222321":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Hanna is a baby",
+                "Another Reason"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>As Aria was checking Hanna's diaper she heard Hanna whisper in her ear \"Why am I being treated like a baby?\"<br>\r\n<br>\r\nWhat is Aria's answer?</span></div></span></div>",
+            "created":1591938000,
+            "id":2850150,
+            "title":"Yup"
+        },
+        "144331333112113113122131322223211":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Fainted.",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Aria: You are a baby, sweetie. Did Hanna try to ask any more questions?</span></div></span></div>",
+            "created":1591938000,
+            "id":2850151,
+            "title":"Hanna is a baby"
+        },
+        "1443313331121131131221313222232113":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Reader's Choice 1",
+                "Reader's Choice 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Hanna thinking Aria was joking giggled.<br>\r\n<br>\r\nHanna: \"Nice joke Aria. We are the same age. Now put me down and get me panties.\"<br>\r\n<br>\r\nHow does Aria react?</span></div></span></div>",
+            "created":1591938000,
+            "id":2850159,
+            "title":"SE"
+        },
+        "14433133311211311312213132222321131":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Any other reaction."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She shows her a mirror, and Hanna sees her looks are more babyish?</span></div></span></div>",
+            "created":1591938000,
+            "id":2850163,
+            "title":"Reader's Choice 1"
+        },
+        "144331333112113113122131322223211311":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "1 year old",
+                "3 years old",
+                "Another Age"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Aria carrying Hanna takes her over to a full length mirror so she can see her reflection.<br>\r\n<br>\r\nAria: \"See Han you are a baby.\"<br>\r\n<br>\r\nHanna looks at the reflection in the mirror and sees she's how old?</span></div></span></div>",
+            "created":1591938000,
+            "id":2850334,
+            "title":"Yeah"
+        },
+        "1443313331121131131221313222232113111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Her mind beban regressing before she could.",
+                "Spencer came in, or something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She looked to be about 1 year old, physically. Did Hanna ask why she still sounded like herself?</span></div></span></div>",
+            "created":1591938000,
+            "id":2850336,
+            "title":"1 year old"
+        },
+        "14433133311211311312213132222321131113":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "spencer came in",
+                "normal in body, baby in reflection and to everyone else",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>did spencer come in, or did Hanna look down at herself and see that she was still physically herself even if her reflection show her as a baby?</span></div></span></div>",
+            "created":1591938000,
+            "id":2850387,
+            "title":"Spencer came in, or something else."
+        },
+        "144331333112113113122131322223211311132":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Tried to use the mirror to get back to her world, or SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Hanna react to this by crying?</span></div></span></div>",
+            "created":1591938000,
+            "id":2850407,
+            "title":"normal in body, baby in reflection and to every..."
+        },
+        "144331333112113113122131322223211311133":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No, tried reaching out to go through the mirror trying to return to reality",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Hanna look down and see she was a baby physically as well as in the reflection?</span></div></span></div>",
+            "created":1591938000,
+            "id":2850398,
+            "title":"something else"
+        },
+        "1443313331121131131221313222232113111331":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Asked more about this world, or SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She got a good look at herself. She found she was a baby physically as well. Did she crawl to Aria, then?</span></div></span></div>",
+            "created":1591938000,
+            "id":2850435,
+            "title":"Yes"
+        },
+        "1443313331121131131221313222232113111332":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "No, something else happened.",
+                "It worked, and she returned home."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Aria block her from doing so, though?</span></div></span></div>",
+            "created":1591938000,
+            "id":2850408,
+            "title":"No, tried reaching out to go through the mirror..."
+        },
+        "14433133311211311312213132222321131113322":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "yep",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>did Hanna just hit the solid reflective glass of the mirror in the attempt to use it to get back to her world?</span></div></span></div>",
+            "created":1591938000,
+            "id":2850416,
+            "title":"No, something else happened."
+        },
+        "144331333112113113122131322223211311133221":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Mona entered.",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>All she manage to do was to hit the reflection. Did Aria spank her?</span></div></span></div>",
+            "created":1591938000,
+            "id":2850437,
+            "title":"yep"
+        },
+        "1443313331122":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "In a crib.",
+                "Somewhere else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ashley was helping her hang it in her room, when she fell through it. She landed...</span></div></span></div>",
+            "created":1591851600,
+            "id":2849659,
+            "title":"No, Their Home"
         },
         "144331333113":{
             "author_id":"jd88237",
@@ -27915,6 +29070,44 @@
             "id":2610541,
             "title":"Something Else"
         },
+        "144332331":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "A",
+                "Alison",
+                "Someone Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who blackmails Spencer into wearing diapers?</span></div></span></div>",
+            "created":1592024400,
+            "id":2850847,
+            "title":"She's Blackmailed"
+        },
+        "1443323313":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No, Mona Does it",
+                "No, Someone Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Melissa blackmail her sister into diapers?</span></div></span></div>",
+            "created":1592024400,
+            "id":2850851,
+            "title":"Someone Else"
+        },
+        "14433233132":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "For not accepting that she's changed from being A.",
+                "Another reason."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Mona blackmails Spencer why?</span></div></span></div>",
+            "created":1592024400,
+            "id":2850872,
+            "title":"No, Mona Does it"
+        },
         "144332332":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
@@ -28364,6 +29557,19 @@
             "created":1549774800,
             "id":2615351,
             "title":"No, someone else in another store."
+        },
+        "144332333":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No, Part of a new law that is passed",
+                "Another Reason"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is Spencer in diapers because of being in Radley?</span></div></span></div>",
+            "created":1592024400,
+            "id":2850723,
+            "title":"Something Else"
         },
         "144333":{
             "author_id":"kameron94",
@@ -38491,6 +39697,43 @@
             "id":2594239,
             "title":"yeah"
         },
+        "14533213":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "to start over with Bex",
+                "class assignment",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what reason would Andi Mack be in diapers?</span></div></span></div>",
+            "created":1592024400,
+            "id":2850721,
+            "title":"More reasons."
+        },
+        "145332131":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Online",
+                "A magazine."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She wanted to start over with Bex, but, where did she get the idea for this from?</span></div></span></div>",
+            "created":1592024400,
+            "id":2850738,
+            "title":"to start over with Bex"
+        },
+        "145332132":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Sure.",
+                "Anyone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>It was part of her Home Economics class. Half the class would be babies, others parents. Would Buffy be her parent for the assignment?</span></div></span></div>",
+            "created":1592024400,
+            "id":2850742,
+            "title":"class assignment"
+        },
         "1453322":{
             "author_id":"kameron94",
             "author_name":"Kameron",
@@ -43237,6 +44480,19 @@
             "created":1571720400,
             "id":2737072,
             "title":"Reader's Choice 1"
+        },
+        "1453333112311":{
+            "author_id":"abdwb",
+            "author_name":"Jake",
+            "choices":[
+                "Just wearing diapers",
+                "just wetting diapers",
+                "wetting and messing diapers"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Riley had developed a diaper fetish.  She really loved diapers.  She loved....</span></div></span></div>",
+            "created":1592197200,
+            "id":2851873,
+            "title":"Yeah"
         },
         "1453333112312":{
             "author_id":"jd88237",
@@ -51241,6 +52497,45 @@
             "id":2739225,
             "title":"She liked them"
         },
+        "145333333311211":{
+            "author_id":"abdwb",
+            "author_name":"Jake",
+            "choices":[
+                "put London in a diaper",
+                "started a bath for London",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>London was up in her room.  She was getting ready for her night with Maddie.  Maddie was going to treat London like a baby.  Maddie got to London's room.<br>\r\n<br>\r\nOnce inside, Maddie...</span></div></span></div>",
+            "created":1592370000,
+            "id":2852993,
+            "title":"Yeah"
+        },
+        "1453333333112111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "L ondon kicked her lges like a baby.",
+                "Called Maddie Mommy, or babbled like a baby.",
+                "Thanked her for doing this as herself."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Maddie soon got to work, powdering and diapering the heiress. As she worked...</span></div></span></div>",
+            "created":1592370000,
+            "id":2852995,
+            "title":"put London in a diaper"
+        },
+        "1453333333112113":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Breast fed her.",
+                "Put her down for a nap.",
+                "Anything else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Maddie did what else first with London?</span></div></span></div>",
+            "created":1592456400,
+            "id":2853159,
+            "title":"something else"
+        },
         "145333333312":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
@@ -52967,6 +54262,31 @@
             "created":1573362000,
             "id":2744931,
             "title":"Regressed."
+        },
+        "14533333332221":{
+            "author_id":"abdwb",
+            "author_name":"Jake",
+            "choices":[
+                "Kate",
+                "Lizzie",
+                "someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Kate was regressing.  She was regressing because of a wish.  The wish was made by....</span></div></span></div>",
+            "created":1592629200,
+            "id":2854327,
+            "title":"Yeah"
+        },
+        "145333333322212":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Sure",
+                "Other reasons."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Lizzie made the wish due to being angry at how Kate had treated her in the past?</span></div></span></div>",
+            "created":1592629200,
+            "id":2854328,
+            "title":"Lizzie"
         },
         "1453333333223":{
             "author_id":"kameron94",
@@ -59457,6 +60777,56 @@
             "id":2803052,
             "title":"yeah"
         },
+        "145333333333312":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "regressed",
+                "likes them",
+                "another reason"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what reason would Chelsea from Raven's home end up in diapers?</span></div></span></div>",
+            "created":1592024400,
+            "id":2850720,
+            "title":"Chelsea."
+        },
+        "1453333333333122":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Tess, or anyone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She likes Raven to baby her?</span></div></span></div>",
+            "created":1592024400,
+            "id":2850735,
+            "title":"likes them"
+        },
+        "14533333333331222":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Tess",
+                "Levi",
+                "someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>is it Tess that she likes to be babied by, or maybe her son Levi who seems to sometimes act like the parent between the two?</span></div></span></div>",
+            "created":1592024400,
+            "id":2850749,
+            "title":"Tess, or anyone else."
+        },
+        "145333333333312222":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "RC 1",
+                "RC 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Why does Levi agree to baby his mother?</span></div></span></div>",
+            "created":1592024400,
+            "id":2850750,
+            "title":"Levi"
+        },
         "145333333333313":{
             "author_id":"kameron94",
             "author_name":"Kameron",
@@ -62813,6 +64183,121 @@
             "created":1550293200,
             "id":2618389,
             "title":"Another person gets it for her."
+        },
+        "14533333333332323231132222132":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Bridget pushes Cheyenne through the mirror",
+                "Cheyenne touches her reflection and is pulled in",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><div> <span>Cheyenne was getting her dream home fixed up. Currently Cheyenne was home alone as Can was at work and Reba was babysitting  Elizabeth. As Cheyenne was working there was a knock on the door Cheyenne answered it and found waiting on the other side Bridget.<br>\r\n<br>\r\nBridget went on to explain she was there because she brought a house warming gift. The gift turned out to be a full length mirror. The two ladies got the mirror upstairs to Cheyenne and Van's bedroom. After getting the mirror setup Cheyenne was admiring her reflection when what happens!</span></div></div>",
+            "created":1591938000,
+            "id":2850139,
+            "title":"Bridget"
+        },
+        "145333333333323232311322221322":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "In a crib.",
+                "In a high chair.",
+                "Anywhere else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Cheyenne stepped to it, gently touching her reflection, suddenly being pulled in. On waking, she was surprised she wasn't cut. She was also surprised to find herself...</span></div></span></div>",
+            "created":1591938000,
+            "id":2850144,
+            "title":"Cheyenne touches her reflection and is pulled in"
+        },
+        "1453333333333232323113222213223":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No, A Playpen"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Cheyenne find herself on a changing table being diapered?</span></div></span></div>",
+            "created":1591938000,
+            "id":2850147,
+            "title":"Anywhere else."
+        },
+        "14533333333332323231132222132231":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Kyra",
+                "An older version of Elizabeth.",
+                "Anyone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She found herself on a changing table, being put into a fresh diaper, but by whom?</span></div></span></div>",
+            "created":1591938000,
+            "id":2850149,
+            "title":"Yes"
+        },
+        "145333333333323232311322221322313":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No, Reba",
+                "No, Barbara Jean"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Cheyenne find herself being put in a fresh diaper by Bridget?</span></div></span></div>",
+            "created":1591938000,
+            "id":2850152,
+            "title":"Anyone else."
+        },
+        "1453333333333232323113222213223132":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yes, sounding like herself.",
+                "Yes, but sounding like a baby.",
+                "Someone came in before she could ask."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>It was Reba. Did Cheyenne try to ask what was going on?</span></div></span></div>",
+            "created":1591938000,
+            "id":2850155,
+            "title":"No, Reba"
+        },
+        "14533333333332323231132222132231323":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Kyra",
+                "An Older Version of Elizabeth",
+                "Someone Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who came in before Cheyenne could talk?</span></div></span></div>",
+            "created":1591938000,
+            "id":2850157,
+            "title":"Someone came in before she could ask."
+        },
+        "145333333333323232311322221322313232":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "9 years old.",
+                "12 years old.",
+                "Other ages."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Someone who looked like Elizabeth entered. She looked to be about...</span></div></span></div>",
+            "created":1591938000,
+            "id":2850160,
+            "title":"An Older Version of Elizabeth"
+        },
+        "145333333333323232311322221322313233":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No Bridget"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is it Barbra Jean that comes in?</span></div></span></div>",
+            "created":1591938000,
+            "id":2850331,
+            "title":"Someone Else"
         },
         "14533333333332323233":{
             "author_id":"kameron94",
@@ -68041,6 +69526,32 @@
             "id":2665429,
             "title":"SE"
         },
+        "1531123":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "part of a music video",
+                "she fell through a portal",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what other reason does Ariana Grande end up in diapers?</span></div></span></div>",
+            "created":1591765200,
+            "id":2849399,
+            "title":"She likes them or other reasons."
+        },
+        "15311231":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "It was a long shoot and she wanted to cut down on bathroom breaks",
+                "Her character was in diapers",
+                "Another Reason"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Why was Ariana wearing a diaper for a music video?</span></div></span></div>",
+            "created":1591765200,
+            "id":2849402,
+            "title":"part of a music video"
+        },
         "15313":{
             "author_id":"jd88237",
             "author_name":"jdawg1985",
@@ -68067,6 +69578,31 @@
             "id":2607350,
             "title":"Carrie Underwood"
         },
+        "1531311":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "She occasionally gets nervous on stage and has accidents",
+                "Another Reason"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Why does Carrie like diapers?</span></div></span></div>",
+            "created":1591592400,
+            "id":2848074,
+            "title":"She likes them"
+        },
+        "15313111":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No, developed it while having to perform on tv doing American Idol",
+                "No, Developed it after American Idol seeing the number of fans she had"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Has Carrie always had this problem going back to when she was a kid and did talent shows?<br>\r\n</span></div></span></div>",
+            "created":1591592400,
+            "id":2848077,
+            "title":"She occasionally gets nervous on stage and has ..."
+        },
         "1531312":{
             "author_id":"jd88237",
             "author_name":"jdawg1985",
@@ -68079,6 +69615,509 @@
             "created":1548392400,
             "id":2607455,
             "title":"She loses a bet"
+        },
+        "15313121":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Who's new song goes #1 first",
+                "Who wins an award they are both nominated for",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Carrie made what bet with Taylor?</span></div></span></div>",
+            "created":1591506000,
+            "id":2847583,
+            "title":"Taylor Swift"
+        },
+        "153131211":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Diapered and dressed her.",
+                "Showed her a nursery, or something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Taylor won the bet, as her song went to number 1 a week before Carrie's. Carrie later arrived at Taylor's house to accept it. Taylor first went over rules?</span></div></span></div>",
+            "created":1591506000,
+            "id":2847587,
+            "title":"Who's new song goes #1 first"
+        },
+        "1531312111":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><div> <span>Carrie showed up at Taylor's to pay off the bet. Taylor invited Carrie in and they went into the living room. Carrie sat down on the couch how Taylor remained standing looking down at her.<br>\r\n<br>\r\nTaylor: \"Okay Carrie let's go over the rules #1 You will act like a baby for the week you are here. #2 You will call me mommy and ask me for permission before doing anything #3 When in public you can be yourself but I won't have you messing up my car with a dirty diaper so you will be changed like a baby.\"<br>\r\n<br>\r\nTaylor: \"Any questions baby?\"<br>\r\n<br>\r\nCarrie: \"Is that all the rules mommy?\"<br>\r\n<br>\r\nAre there any more rules?<br>\r\n<br>\r\n</span></div></div>",
+            "created":1591506000,
+            "id":2847621,
+            "title":"Yeah"
+        },
+        "15313121112":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup",
+                "Anything else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Next is diapering and dressing Carrie?</span></div></span></div>",
+            "created":1591506000,
+            "id":2847632,
+            "title":"No"
+        },
+        "153131211121":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "To a spare bedroom set up as a nursery upstairs",
+                "Over to a changing mat set up in the living room",
+                "Somewhere Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Taylor: \"No. That's all the rules baby.\"<br>\r\n<br>\r\nCarrie: \"Okay mommy. Then I guess baby needs her diaper.\"<br>\r\n<br>\r\nTaylor: \"Okay baby come with mommy.\"<br>\r\n<br>\r\nWhere does Taylor take Carrie?</span></div></span></div>",
+            "created":1591506000,
+            "id":2847652,
+            "title":"Yup"
+        },
+        "1531312111211":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "A changing mat.",
+                "Somewhere else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Both went upstairs to a nursery that had been a spare room. Carrie was put on a changing table?</span></div></span></div>",
+            "created":1591506000,
+            "id":2847656,
+            "title":"To a spare bedroom set up as a nursery upstairs"
+        },
+        "15313121112111":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Taylor helps Carrie over to a mirror so she can see herself",
+                "Taylor has Carrie get on the floor and crawl around",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><div> <span>Once Carrie entered the nursery she stepped out of her shoes, took off her pants and panties. Carrie then went over to a changing table where Taylor was standing with supplies ready. Carrie laid down as Taylor first powdered her front and lifted up Carrie's legs and powdered her bum. Part of Taylor getting things set up was she already had a diaper on the changing table when Carrie laid down. So with a diaper under Carrie after finishing the powdering Taylor sat the powder down and dropped Carrie's legs. Taylor then folded up and taped the diaper.<br>\r\n<br>\r\nWith Carrie diapered what happens next?</span></div></div>",
+            "created":1591506000,
+            "id":2847661,
+            "title":"Yeah"
+        },
+        "153131211121112":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup",
+                "Another part of the nursery."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Carrie was soon crawling around, but, did she end up in the playpen?</span></div></span></div>",
+            "created":1591506000,
+            "id":2847665,
+            "title":"Taylor has Carrie get on the floor and crawl ar..."
+        },
+        "1531312111211121":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Carrie plays with toys in the playpen",
+                "Carrie decided to be naughty and explores the upstairs of Taylor's house",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><div> <span>After getting Carrie diapered and helping her off the changing table Taylor told Carrie it was time for her to get into baby mode. Carrie got down on all fours and started crawling around the room. Eventually Taylor pointed where she wanted Carrie to crawl. Carrie does as she's told and ends up in a playpen.<br>\r\n<br>\r\nTaylor: \"Okay baby you stay here and play mommy is going downstairs to fix lunch. Don't worry if you need anything just cry into this.\"<br>\r\n<br>\r\nTaylor handed Carrie a baby monitor and then left the room.<br>\r\n<br>\r\nWhat happens next?</span></div></div>",
+            "created":1591506000,
+            "id":2847678,
+            "title":"Yup"
+        },
+        "15313121112111211":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Her first choice to play with was some of the dolls?</span></div></span></div>",
+            "created":1591506000,
+            "id":2847681,
+            "title":"Carrie plays with toys in the playpen"
+        },
+        "153131211121112112":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "A Rattle",
+                "Blocks",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What else could Carrie decide to play with first?</span></div></span></div>",
+            "created":1591506000,
+            "id":2847682,
+            "title":"Something else."
+        },
+        "15313121112111213":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No, Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Carrie decide to go over to the mirror so she can check herself out?</span></div></span></div>",
+            "created":1591592400,
+            "id":2848042,
+            "title":"Something Else"
+        },
+        "153131211122":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Takes her shopping for diapers",
+                "Feeds Carrie a bottle",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Instead of diapering Carrie what does Taylor do next with her?</span></div></span></div>",
+            "created":1591678800,
+            "id":2848528,
+            "title":"Anything else."
+        },
+        "1531312111221":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Follow Carrie and Taylor's shopping trip",
+                "Skip to Carrie and Taylor returning home"
+            ],
+            "content":"<div class=\"\"><div> <span>Carrie: \"Okay, so since we have gone over the rules I guess it's time for me to be diapered.\"<br>\r\n<br>\r\nTaylor: \"No. We have to go shopping. I wanted to know the diapers would fit, so come on let's go.\"<br>\r\n<br>\r\nTaylor walked over to a hook beside the door and got her car keys. Carrie right behind following her.<br>\r\n<br>\r\nWhere do we go next?</span></div></div>",
+            "created":1591678800,
+            "id":2848530,
+            "title":"Takes her shopping for diapers"
+        },
+        "15313121112212":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "She did it herself."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>After Carrie helped with putting things away, Carrie was diapered by Taylor?</span></div></span></div>",
+            "created":1591678800,
+            "id":2848541,
+            "title":"Skip to Carrie and Taylor returning home"
+        },
+        "153131211122121":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "In the living room",
+                "In a spare bedroom that is set up as a nursery",
+                "Somewhere Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Taylor: \"Okay baby now it's time for your diapering?\"<br>\r\n<br>\r\nCarrie: \"Where are we going to do it?\"<br>\r\n<br>\r\nWhat is Taylor's answer?</span></div></span></div>",
+            "created":1591678800,
+            "id":2848569,
+            "title":"Yeah"
+        },
+        "1531312111221212":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Kicked like a baby.",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Both went to an extra room that had been turned into a nursery. Taylor had Carrie get on a changing mat. As she set to work, did Carrie stay still?</span></div></span></div>",
+            "created":1591678800,
+            "id":2848571,
+            "title":"In a spare bedroom that is set up as a nursery"
+        },
+        "15313121112212121":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Carrie crawls around the room",
+                "Taylor takes Carrie to a full length mirror so she can see herself",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><div> <span>They arrived in a spare bedroom Taylor had setup as a nursery for Carrie. Taylor went over to the changing mat getting supplies ready while Carrie got undressed. Remembering the rules Carrie got down on all fours and crawled over to the changing mat. Carrie held her legs and bottom up allowing Taylor to clean and powder her. When that was done Taylor taped up the diaper.<br>\r\n<br>\r\nWhat happens next?</span></div></div>",
+            "created":1591678800,
+            "id":2848688,
+            "title":"Yeah"
+        },
+        "153131211122121212":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "To dress her in baby clothes.",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Carrie soon saw herself in a mirror. As a baby, she asked Taylor...</span></div></span></div>",
+            "created":1591678800,
+            "id":2848693,
+            "title":"Taylor takes Carrie to a full length mirror so ..."
+        },
+        "1531312111221212122":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No, to be put down for a nap because she's sleepy",
+                "No, Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Carrie ask for a bottle because she's thirsty?</span></div></span></div>",
+            "created":1591678800,
+            "id":2848697,
+            "title":"SE"
+        },
+        "15313121112212121222":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Tucked her into the crib."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Taylor agreed, but, did she rock her in a rocking chair, first?</span></div></span></div>",
+            "created":1591678800,
+            "id":2848698,
+            "title":"No, to be put down for a nap because she's ..."
+        },
+        "153131211122121212222":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Sings Her a lullaby",
+                "Turned on the mobile that was above the crib",
+                "Reads her a bedtime story"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Taylor took Carrie over to the crib and tucked her in, but how does she help Carrie go to sleep?</span></div></span></div>",
+            "created":1591678800,
+            "id":2848856,
+            "title":"Tucked her into the crib."
+        },
+        "1531312111221212122222":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "1 hour.",
+                "30 minutes.",
+                "Another time."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Carrie soon went to sleep, sleeping for...</span></div></span></div>",
+            "created":1591678800,
+            "id":2848862,
+            "title":"Turned on the mobile that was above the crib"
+        },
+        "15313121112212121222221":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No, Carrie wakes up and cries like a baby for mommy",
+                "No, Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>At one hour does Taylor return to wake Carrie?</span></div></span></div>",
+            "created":1591678800,
+            "id":2848875,
+            "title":"1 hour."
+        },
+        "153131211122121212222212":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Hungry",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The reason she was crying, a wet diaper?</span></div></span></div>",
+            "created":1591678800,
+            "id":2848880,
+            "title":"No, Carrie wakes up and cries like a baby for m..."
+        },
+        "1531312111221212122222123":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No, She's in a poopy diaper"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was Carrie scared waking up in a strange room forgetting where she was?</span></div></span></div>",
+            "created":1591678800,
+            "id":2848883,
+            "title":"SE"
+        },
+        "15313121112212121222221231":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "RC 1",
+                "RC 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She freaked out, forgetting where she was. Taylor came in, and calmed her how?</span></div></span></div>",
+            "created":1591678800,
+            "id":2848885,
+            "title":"Yes"
+        },
+        "153131211122121212222212311":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Sits in a rocking chair",
+                "Walks around the room"
+            ],
+            "content":"<div class=\"\"><div> <span>Taylor hearing Carrie crying over the baby monitor rushed upstairs entering the nursery. Once in the nursery Taylor went over to the crib and picked Carrie up and started rocking her to calm her.<br>\r\n<br>\r\nAs Taylor rocks Carrie she also does what?</span></div></div>",
+            "created":1591765200,
+            "id":2848984,
+            "title":"RC 1"
+        },
+        "1531312111221212122222123112":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Carrie soon relaxed. She gently started playing with Taylor's hair?</span></div></span></div>",
+            "created":1591765200,
+            "id":2848995,
+            "title":"Walks around the room"
+        },
+        "15313121112212121222221231121":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Taylor yelps because Carrie accidentally pulls Taylor's hair",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><div> <span>Taylor lifted Carrie out of the crib and held her so Carrie's legs are around Taylor's hips and Carrie's head is on Taylor's shoulder. Taylor rocks her and walks around the room and soon Carrie's cries turn to sniffling. Carrie brings her hand up and starts playing with Taylor's hair.<br>\r\n<br>\r\nWhat happens next?</span></div></div>",
+            "created":1591765200,
+            "id":2849154,
+            "title":"Yup"
+        },
+        "153131211122121212222212311212":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No, Checked Carrie's diaper by popping it",
+                "No, Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Taylor check Carrie's diaper by patting Carrie's butt?</span></div></span></div>",
+            "created":1591765200,
+            "id":2849338,
+            "title":"Something Else"
+        },
+        "1531312111221212122222123112122":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Wet",
+                "Messy",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Taylor decided to check Carrie's diaper and she did this by bringing her hand up and pulling the diaper back. Taylor then peaked over Carrie's shoulder looking into the diaper and sees Carrie is...<br>\r\n</span></div></span></div>",
+            "created":1591851600,
+            "id":2849439,
+            "title":"No, Checked Carrie's diaper by popping it"
+        },
+        "15313121112212121222221231121223":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Carrie was wet and Messy",
+                "Carrie was dry and clean"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What else could Taylor see peeking into Carrie's diaper?</span></div></span></div>",
+            "created":1591851600,
+            "id":2849441,
+            "title":"Something Else"
+        },
+        "153131211122121212222212311212232":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes since she's hungry",
+                "Yes since she'll do whatever her mommy wants",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><div> <span>Taylor popped Carrie's diaper back and patted her back \"It's okay baby you are all clean.\"<br>\r\n<br>\r\nCarrie: \"Sowwy mommy. Forgot where I was and got scared.\"<br>\r\n<br>\r\nTaylor hugging Carrie \"It's okay. How about mommy takes baby downstairs for lunch.\"<br>\r\n<br>\r\nWhat is Carrie's response?</span></div></div>",
+            "created":1592110800,
+            "id":2851204,
+            "title":"Carrie was dry and clean"
+        },
+        "1531312111221212122222123112122321":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Feeling a bit hungry, Carrie agreed. Taylor fed her a grilled cheese sandwich?</span></div></span></div>",
+            "created":1592110800,
+            "id":2851207,
+            "title":"Yes since she's hungry"
+        },
+        "15313121112212121222221231121223211":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "A Bottle",
+                "A Sippy Cup",
+                "A Regular Glass"
+            ],
+            "content":"<div class=\"\"><div> <span>Taylor carried Carrie downstairs to the kitchen and sat her in a high chair. Taylor then went over and got a plate that had a grilled cheese on it along with a knife and fork. She sat the plate in front of Carrie and began cutting up the sandwich and feeding Carrie.<br>\r\n<br>\r\nWhat did Taylor have fixed for Carrie to drink?</span></div></div>",
+            "created":1592110800,
+            "id":2851217,
+            "title":"Yup"
+        },
+        "153131211122121212222212311212232111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Milk.",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She'd filled it with grape juice?</span></div></span></div>",
+            "created":1592110800,
+            "id":2851222,
+            "title":"A Bottle"
+        },
+        "1531312111221212122222123112122321113":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No, Apple Juice",
+                "No, Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Taylor put prune juice in the bottle to help Carrie poop?</span></div></span></div>",
+            "created":1592110800,
+            "id":2851226,
+            "title":"SE"
+        },
+        "15313121112212121222221231121223211131":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><div> <span>Taylor went over to the refrigerator to fix Carrie a bottle so she would have something to wash the grilled cheese down. After taking a few moments to decide on what to give Carrie Taylor decided on prune juice.  Taylor thought to herself as she fixed the bottle \"I don't know when the last time Carrie used the bathroom is but I don't want her getting stopped up.\" Taylor brought the bottle over to Carrie's high chair and after Carrie took a few bites Taylor offered Carrie the bottle. Carrie accepted it but did she recognize the taste of the prune juice?</span></div></div>",
+            "created":1592197200,
+            "id":2851638,
+            "title":"Yes"
+        },
+        "1531312111222":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Milk.",
+                "Juice",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What was in said bottle?</span></div></span></div>",
+            "created":1591678800,
+            "id":2848542,
+            "title":"Feeds Carrie a bottle"
         },
         "1531313":{
             "author_id":"jd88237",
@@ -68117,6 +70156,19 @@
             "id":2665733,
             "title":"Yes"
         },
+        "1531313311":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Her Home",
+                "On the set of a Music Video",
+                "Somewhere Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Carrie ended up in diapers after ending up in an alternate reality. She ended up in the alternate reality after going through a portal, but where was she when she found the portal?</span></div></span></div>",
+            "created":1591506000,
+            "id":2847736,
+            "title":"Reader's Choice 1"
+        },
         "153131332":{
             "author_id":"jd88237",
             "author_name":"jdawg1985",
@@ -68140,6 +70192,42 @@
             "created":1560056400,
             "id":2671060,
             "title":"Yes"
+        },
+        "1531313322":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No, Another Reason"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is Carrie Underwood wearing diapers for a music video?</span></div></span></div>",
+            "created":1591765200,
+            "id":2849171,
+            "title":"No, Another Reason"
+        },
+        "15313133221":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "She was playing a baby",
+                "Another Reason"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Why is Carrie wearing a diaper for a music video?</span></div></span></div>",
+            "created":1591765200,
+            "id":2849173,
+            "title":"Yes"
+        },
+        "153131332212":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No, Another Reason"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was the video being shot at night and Carrie decided to wear diapers to cut down on bathroom breaks?</span></div></span></div>",
+            "created":1591765200,
+            "id":2849175,
+            "title":"Another Reason"
         },
         "153132":{
             "author_id":"templar1119",
@@ -69599,6 +71687,195 @@
             "created":1555909200,
             "id":2648371,
             "title":"Something Else"
+        },
+        "15322332":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is Ashley in diapers because she went through a portal?</span></div></span></div>",
+            "created":1591765200,
+            "id":2849393,
+            "title":"No"
+        },
+        "153223321":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Her Home",
+                "Her Dressing Room on the set of Pretty Little Liars",
+                "Somewhere Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where was Ashley at when she went through the portal?</span></div></span></div>",
+            "created":1591765200,
+            "id":2849395,
+            "title":"Yes"
+        },
+        "1532233212":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "In a bedroom.",
+                "In a livng room.",
+                "Anywhere else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Seeing a light in her wardrobe, she tried to get a look at it, being pulled in. She soon found herself...</span></div></span></div>",
+            "created":1591765200,
+            "id":2849396,
+            "title":"Her Dressing Room on the set of Pretty Little L..."
+        },
+        "15322332122":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Laying on a couch",
+                "Sitting in a playpen",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ashley found herself where in a living room?</span></div></span></div>",
+            "created":1591765200,
+            "id":2849401,
+            "title":"In a livng room."
+        },
+        "153223321221":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Still as herself.",
+                "Some other way."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The first thing she noticed was how she was dressed. She was dressed as a baby?</span></div></span></div>",
+            "created":1591765200,
+            "id":2849407,
+            "title":"Laying on a couch"
+        },
+        "1532233212211":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Had on nothing but a diaper",
+                "Had on a onesie",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How was Ashley dressed as a baby?</span></div></span></div>",
+            "created":1591765200,
+            "id":2849410,
+            "title":"Yeah"
+        },
+        "15322332122111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Sasha.",
+                "Troian",
+                "Anyone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She tried to get it off, when someone came in, but, who?</span></div></span></div>",
+            "created":1591765200,
+            "id":2849411,
+            "title":"Had on nothing but a diaper"
+        },
+        "153223321221113":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No, Janel",
+                "No, Someone Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is it Lucy that comes in?</span></div></span></div>",
+            "created":1591765200,
+            "id":2849416,
+            "title":"Anyone else."
+        },
+        "1532233212211132":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Janel entered. On seeing Ashley trying to take off the diaper, did she spank her?</span></div></span></div>",
+            "created":1591765200,
+            "id":2849425,
+            "title":"No, Janel"
+        },
+        "15322332122111321":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Janel starts spanking Ashley's diapered bottom",
+                "Janel pulls the diaper down spanking Ashley bare bottom"
+            ],
+            "content":"<div class=\"\"><div> <span>Ashley was sitting up trying to get the diaper off when Janel walked in and saw what Ashley was doing.<br>\r\n<br>\r\nJanel: \"Ashley! What are you doing!\"<br>\r\n<br>\r\nAshley looked up startled and saw Janel marching towards her. Janel then sat down next to Ashley. The next thing Ashley knew she was over Janel's lap.<br>\r\n<br>\r\nWhat happens next?</span></div></div>",
+            "created":1591765200,
+            "id":2849430,
+            "title":"Yup"
+        },
+        "153223321221113211":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup",
+                "5"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ashley is spanked ten times?</span></div></span></div>",
+            "created":1591765200,
+            "id":2849432,
+            "title":"Janel starts spanking Ashley's diapered bottom"
+        },
+        "1532233212211132111":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Starts Crying",
+                "Asks What's Going On",
+                "Says yes she understands"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Janel spanked Ashley ten times lecturing her as she spanked Ashley.<br>\r\n<br>\r\nJanel: \"Bad baby Ashley! Baby needs her diapey! So it stays on! Understand?\"<br>\r\n<br>\r\nWhat does Ashley do?</span></div></span></div>",
+            "created":1591851600,
+            "id":2849435,
+            "title":"Yup"
+        },
+        "15322332122111321112":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "RC 1",
+                "RC 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ashley: What the hell!. Janel explains that...</span></div></span></div>",
+            "created":1591851600,
+            "id":2849611,
+            "title":"Asks What's Going On"
+        },
+        "15322332123":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "bathroom",
+                "on the set of pretty little liars but something's different",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>does Ashley Benson find herself in a bathroom?</span></div></span></div>",
+            "created":1591765200,
+            "id":2849403,
+            "title":"Anywhere else."
+        },
+        "153223321231":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "She was sitting on a potty chair that was her size",
+                "She was in the bath tub"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>After going through the portal Ashley found herself in a bathroom, but what was she doing in the bathroom?</span></div></span></div>",
+            "created":1591765200,
+            "id":2849404,
+            "title":"bathroom"
         },
         "15323":{
             "author_id":"jd88237",
@@ -72020,6 +74297,44 @@
             "id":2651203,
             "title":"She talks like herself"
         },
+        "153233223323232":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No, Another Way"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Sarah end up in diapers after going through a portal?</span></div></span></div>",
+            "created":1591765200,
+            "id":2849349,
+            "title":"Perhaps some other reason."
+        },
+        "1532332233232321":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "In a crib.",
+                "In a high chair.",
+                "Somewhere else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She found the portal in her house. Seeing a strange light in her bedroom, she went to investigate it. She found herself being pulled into the portal, landing...</span></div></span></div>",
+            "created":1591765200,
+            "id":2849351,
+            "title":"Yes"
+        },
+        "15323322332323213":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No, A Sandbox",
+                "No, Somewhere Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Sarah find herself sitting on a potty chair used for potty training toddlers?</span></div></span></div>",
+            "created":1591765200,
+            "id":2849357,
+            "title":"Somewhere else."
+        },
         "15323322333":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
@@ -72056,6 +74371,119 @@
             "created":1566277200,
             "id":2705168,
             "title":"SE"
+        },
+        "15323322333322":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No, Someone Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about Jennifer Morrison?</span></div></span></div>",
+            "created":1591765200,
+            "id":2849408,
+            "title":"SE"
+        },
+        "153233223333221":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "part of a new law that was passed",
+                "fell through a portal",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>how does Jennifer Morrison end up in diapers?</span></div></span></div>",
+            "created":1591851600,
+            "id":2849589,
+            "title":"Yes"
+        },
+        "1532332233332211":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Reader's Choice 1",
+                "Reader's Choice 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does a new law that passed cause Jennifer Morrison to be diapered?</span></div></span></div>",
+            "created":1591851600,
+            "id":2849643,
+            "title":"part of a new law that was passed"
+        },
+        "15323322333322111":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Yep",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does the new law create a new kind of license that allows people who apply for it that don't want to be adults any more to be able to act as a baby out in public, do activities that are more known for babies and small children to enjoy, ect.</span></div></span></div>",
+            "created":1591851600,
+            "id":2849685,
+            "title":"Reader's Choice 1"
+        },
+        "153233223333221111":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "She can't handle the pressure of being a role model being an actress",
+                "Another Reason"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What makes Jennifer apply for this license?</span></div></span></div>",
+            "created":1591851600,
+            "id":2849688,
+            "title":"Yep"
+        },
+        "1532332233332212":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Her Home",
+                "The town where Once Upon A Time was filmed",
+                "Another Place"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where does Jennifer Morrison find the portal that she falls through?</span></div></span></div>",
+            "created":1591851600,
+            "id":2849616,
+            "title":"fell through a portal"
+        },
+        "15323322333322122":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "The store they used for Gold's Pawn Shop",
+                "The Sheriff's Office",
+                "Somewhere Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where in the town where Once Upon A Time was filmed did Jennifer encounter the portal?</span></div></span></div>",
+            "created":1591851600,
+            "id":2849803,
+            "title":"The town where Once Upon A Time was filmed"
+        },
+        "153233223333221221":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Laying on a changing table being diapered",
+                "Laying in a crib",
+                "Somewhere Else"
+            ],
+            "content":"<div class=\"\"><div> <span>On the show Once Upon A Time they were getting ready to shoot in Gold's Pawn Shop. Jennifer was the first one in the store used for the setting. While waiting for the rest of the crew she looked around at the items set up for display in the shop. Jennifer then noticed a mirror she hadn't seen before. Thinking it was something from the shop the production people forgot to move she ignored it at first. After waiting a few moments longer she began to get fidgety and then for some reason felt a compulsion to go to the mirror. Once over there she put her hand up to her reflection and a portal formed. Before Jennifer could react she found herself pulled in. When Emma came out the other side she found she was.....</span></div></div>",
+            "created":1591851600,
+            "id":2849816,
+            "title":"The store they used for Gold's Pawn Shop"
+        },
+        "1532332233332212211":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Lana Parrilla",
+                "Ginnifer Goodwin",
+                "Someone Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>After falling through the portal Jennifer found herself laying on a table. After taking a moment to get her bearings Jennifer looked up to see she was being diapered by who?</span></div></span></div>",
+            "created":1591851600,
+            "id":2849940,
+            "title":"Laying on a changing table being diapered"
         },
         "1533":{
             "author_id":"jd88237",
@@ -72132,6 +74560,31 @@
             "created":1555822800,
             "id":2647867,
             "title":"Yeah."
+        },
+        "154112":{
+            "author_id":"erebuselysium",
+            "author_name":"Wikia",
+            "choices":[
+                "She changes her now.",
+                "She decides to wait."
+            ],
+            "content":"<div class=\"\"><div> <span>It was late afternoon at the Price house. The golden hour hit the windows, bathing the room in a warm glow that set the scene perfectly. <br>\r\n<br>\r\nChildhood friends Maxine Caulfield and Chloe Price were spending time together like they have been for months, but for half that time, they would spend Friday nights together like the sleepovers of heir youth. While they would spend their nights like typical girls reaching womanhood, Fridays became a special night.<br>\r\n<br>\r\nMax and Chloe were sharing Chloe's bed. Chloe forgone the usual rock music in-favor the silence of the afternoon. Her mom was working overtime at the diner and step-douche was out too, leaving the two of them alone together. <br>\r\n<br>\r\nMax let herself go limp in her friend's arms, relaxing in Chloe's embrace as she mindlessly suckled in her friend's nipple. With her free hand, Chloe reached over and cupped Max's underwear. Unobstructed by her jeans, Max's underwear was free for view, the white of its thick padding now swollen with yellow.<br>\r\n<br>\r\n\"It looks like this baby girl has had a little too much to drink.\"<br>\r\n<br>\r\nMax fought her instincts to cover herself (her face, her underwear, her entire body) in shame and she tried to fold her legs, made difficult by her thick undies. Chloe wasn't producing any milk obviously. She was a woman in her late teens and out of all of the many irresponsible things she's ever done, getting knocked up wasn't one of them. She has no intention of having kids, especially when she was perfectly content with taking care of one baby girl in particular. <br>\r\n<br>\r\nSeeing her childhood sister from another mother after years of silence was certainly a surprise, it came at the most unusual times. <br>\r\n<br>\r\nChloe was threatening to out Nathan for his drug pedaling, only to receive a bullet in her stomach for the trouble. She was certain she was going to die when she woke up in the hospital. While the bullet missed anything that would have caused her massive problems, Max was able to keep her from bleeding out before her step-dad cuffed Nathan and the ambulance came to take her away. After weeks of check-ups, physical therapy and a new prescription of over-the-counter painkillers, Chloe was good and ready to see the world. <br>\r\n<br>\r\nTracking Max down at the school was not difficult, but even as someone as self-centered as Chloe could tell that Max was not okay. She seemed to be in a perpetual funk, wandering the halls and going about her day as though <i>she</i> was the one with a brush with death. It took Max two weeks before she broke down crying in her arms, saying how she has been struggling to sleep and even started wetting the bed. She didn't feel comfortable telling her why, but seeing her friend like this made want to take a gun and hunt down whoever or whatever did this to the person that saved her life.<br>\r\n<br>\r\nOne thing led to another, and they began to role-play. Max played the role of the baby to escape to a more innocent time where she didn't have to face her depression. Chloe played the role of her mom. It gave her a reason to care. Made her feel responsible. <br>\r\n<br>\r\nChloe never really found out what made Max so in-shock, but she at least figured out how to help bring her out of her shell.</span></div></div>",
+            "created":1592715600,
+            "id":2854550,
+            "title":"Mommy Chloe and Baby Max"
+        },
+        "1541121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "yeah",
+                "Thanked Chloe as herself.",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Chloe smiled.<br>\r\n\"\"I'll change you now, babygirl.\"<br>\r\nMax relaxed as Chloe got the diaper, baby powder, and more, and set to work. As she did, did Max kick her legs like a baby?</span></div></span></div>",
+            "created":1592715600,
+            "id":2854551,
+            "title":"She changes her now."
         },
         "154113":{
             "author_id":"kameron94",
@@ -73464,6 +75917,18 @@
             "id":2808681,
             "title":"Charlotte"
         },
+        "155132111122":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "In a crib",
+                "Somewhere else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where did Angelica wake up the next morning?</span></div></span></div>",
+            "created":1592024400,
+            "id":2850509,
+            "title":"In her sleep."
+        },
         "1551321112":{
             "author_id":"johnny2",
             "author_name":"littlejohn",
@@ -73900,6 +76365,18 @@
             "created":1589518800,
             "id":2836086,
             "title":"A pacifier"
+        },
+        "155132111211111211212111112111111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Angelica suck on the pacifier right away?</span></div></span></div>",
+            "created":1591506000,
+            "id":2847749,
+            "title":"Yes"
         },
         "15513211121111121121211112":{
             "author_id":"johnny2",
@@ -74360,6 +76837,30 @@
             "id":2823869,
             "title":"Yes"
         },
+        "15513213111211111122211212111111111111211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "She cried",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How did Angelica react?</span></div></span></div>",
+            "created":1591160400,
+            "id":2845079,
+            "title":"Wet"
+        },
+        "15513213111211111122211212111111111111212":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "She cried",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How did Angelica react?</span></div></span></div>",
+            "created":1591160400,
+            "id":2845080,
+            "title":"Dirty"
+        },
         "155132131112111111222112121111112":{
             "author_id":"johnny2",
             "author_name":"littlejohn",
@@ -74480,6 +76981,30 @@
             "id":2838362,
             "title":"Yes"
         },
+        "1551321311121111112221121213121111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was he upset that Angelica used her diaper?</span></div></span></div>",
+            "created":1592024400,
+            "id":2850839,
+            "title":"Drew"
+        },
+        "1551321311121111112221121213121112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was she upset that Angelica used her diaper?</span></div></span></div>",
+            "created":1592370000,
+            "id":2853014,
+            "title":"Charlotte"
+        },
         "1551321311121111112222":{
             "author_id":"johnny2",
             "author_name":"littlejohn",
@@ -74528,6 +77053,18 @@
             "created":1585198800,
             "id":2808059,
             "title":"No"
+        },
+        "1551321323":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Angelica have too many accidents?</span></div></span></div>",
+            "created":1592802000,
+            "id":2854798,
+            "title":"Any other reasons."
         },
         "1551322":{
             "author_id":"supreme123",
@@ -74629,6 +77166,81 @@
             "id":2802326,
             "title":"Nah, Kim Possible."
         },
+        "15513321":{
+            "author_id":"18natem",
+            "author_name":"Weekend532",
+            "choices":[
+                "She likes them.",
+                "Other options please."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So why is Kim Possible diapered?</span></div></span></div>",
+            "created":1591160400,
+            "id":2845241,
+            "title":"Kim Possible"
+        },
+        "155133212":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Sure",
+                "Regressed.",
+                "Any other ideas."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about part of a Home Economics assignment?</span></div></span></div>",
+            "created":1591160400,
+            "id":2845243,
+            "title":"Other options please."
+        },
+        "1551332123":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "captured",
+                "new dress code for girls at her school",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what other reason does Kim possible end up in diapers?</span></div></span></div>",
+            "created":1591160400,
+            "id":2845249,
+            "title":"Any other ideas."
+        },
+        "15513321231":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Sure",
+                "Anybody else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is it Shego that captures her?</span></div></span></div>",
+            "created":1591160400,
+            "id":2845251,
+            "title":"captured"
+        },
+        "15513322":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "punished",
+                "fel into a portal",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what reason would Shego be in diapers?</span></div></span></div>",
+            "created":1591160400,
+            "id":2845247,
+            "title":"Shego"
+        },
+        "155133221":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup",
+                "Anyone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is it Kim who punishes her?</span></div></span></div>",
+            "created":1591160400,
+            "id":2845248,
+            "title":"punished"
+        },
         "15513323":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
@@ -74728,6 +77340,90 @@
             "id":2817648,
             "title":"More cartoons"
         },
+        "15513332231":{
+            "author_id":"18natem",
+            "author_name":"Weekend532",
+            "choices":[
+                "Kimi.",
+                "More options please."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So which grown up character is diapered?</span></div></span></div>",
+            "created":1591333200,
+            "id":2846153,
+            "title":"Yes"
+        },
+        "155133322311":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Age regression",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How will Kimi be put back in diapers?</span></div></span></div>",
+            "created":1591333200,
+            "id":2846156,
+            "title":"Kimi."
+        },
+        "1551333223111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Magic",
+                "Science"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What causes Kimi's regression?</span></div></span></div>",
+            "created":1591419600,
+            "id":2847103,
+            "title":"Age regression"
+        },
+        "15513332231112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "A machine",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of science?</span></div></span></div>",
+            "created":1591419600,
+            "id":2847105,
+            "title":"Science"
+        },
+        "155133322311121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "An age changing ray",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What would this machine be?</span></div></span></div>",
+            "created":1591506000,
+            "id":2847649,
+            "title":"A machine"
+        },
+        "1551333223111212":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "A youth restoration chamber",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What other type of machine would de-age Kimi?</span></div></span></div>",
+            "created":1591506000,
+            "id":2847654,
+            "title":"Something else"
+        },
+        "15513332231112121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Field Trip",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How did Kimi get to the chamber in the first place?</span></div></span></div>",
+            "created":1591592400,
+            "id":2848219,
+            "title":"A youth restoration chamber"
+        },
         "15513332232":{
             "author_id":"johnny2",
             "author_name":"littlejohn",
@@ -74776,6 +77472,42 @@
             "created":1586926800,
             "id":2819046,
             "title":"Age regression"
+        },
+        "155133322321111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did D.W. make the wish herself?</span></div></span></div>",
+            "created":1591506000,
+            "id":2847629,
+            "title":"A wish"
+        },
+        "1551333223211111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "She was jealous of Kate",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Why did D.W. wish to be a baby again?</span></div></span></div>",
+            "created":1591506000,
+            "id":2847659,
+            "title":"Yes"
+        },
+        "1551333223211112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Her parents",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who else would wish for D.W. to be a baby again?</span></div></span></div>",
+            "created":1591506000,
+            "id":2847690,
+            "title":"No"
         },
         "1553":{
             "author_id":"angelyounker",
@@ -74906,7 +77638,8 @@
         "description":"<td align=\"left\" class=\"norm\">Hello Everyone! Through request I have made a female version of my Days As A Diaper Boy. In this story you can diaper any female character from shows, movies, comics ect. and even create your own characters to diaper. <br>\r\n<br>\r\nRules:<br>\r\n<br>\r\nNo Sex: I have rated this story 13+ so please don't include any explicit sex scenes. You can imply it happened but don't go into detail about it.<br>\r\n<br>\r\nFemales only: This is more to keep starting options down since what happens is that lots of people add character options but never actually go through with them. Males in diapers can appear but they can't be the focus. A male version of this story can be found here: <a class=\"blue2roll\" rel=\"nofollow\" href=\"https://www.writing.com/main/interact/item_id/2142178-Days-As-A-Diaper-Boy\" target=\"_blank\">https://www.writing.com/main/interact/item_id/2142178-Days-As-A-Diaper-Boy</a><br>\r\n<br>\r\nHave fun: Pretty self-explanatory and it is why we're all here after all. <br>\r\n</td>",
         "id":2175335,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1589958960,
+        "last_full_update":0,
+        "modified":1592805480,
         "pretty_title":"Days As A Diaper Gal"
     }
 }

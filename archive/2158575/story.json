@@ -1523,7 +1523,8 @@
             "choices":[
                 "Coco Bandicoot",
                 "Tawna Bandicoot",
-                "Nina Cortex"
+                "Nina Cortex",
+                "Trophy Girls from Crash Team Racing"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who gets head-swapped?</span></div></span></div>",
             "created":1526792400,
@@ -1916,6 +1917,20 @@
             "id":2502442,
             "title":"Wonder Woman herself"
         },
+        "151133":{
+            "author_id":"dayaman",
+            "author_name":"dayaman",
+            "choices":[
+                "Legion of Super-Heroes",
+                "New Gods",
+                "Doom Patrol",
+                "other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>More DC franchises...</span></div></span></div>",
+            "created":1592283600,
+            "id":2852276,
+            "title":"other"
+        },
         "1512":{
             "author_id":"dayaman",
             "author_name":"dayaman",
@@ -2062,6 +2077,20 @@
             "id":2495923,
             "title":"other"
         },
+        "1512341":{
+            "author_id":"dayaman",
+            "author_name":"dayaman",
+            "choices":[
+                "Gamora",
+                "Nebula",
+                "Mantis",
+                "other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which lady from Guardians of the Galaxy?</span></div></span></div>",
+            "created":1592283600,
+            "id":2852274,
+            "title":"Guardians of the Galaxy"
+        },
         "1512343":{
             "author_id":"dayaman",
             "author_name":"dayaman",
@@ -2100,6 +2129,21 @@
             "created":1532754000,
             "id":2526061,
             "title":"Black Widow"
+        },
+        "15123442":{
+            "author_id":"dayaman",
+            "author_name":"dayaman",
+            "choices":[
+                "Maria Hill",
+                "Melinda May",
+                "Daisy Johnson, aka Skye/Quake",
+                "Jemma Simmons",
+                "other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which SHIELD agent?</span></div></span></div>",
+            "created":1592283600,
+            "id":2852275,
+            "title":"other S.H.I.E.L.D."
         },
         "152":{
             "author_id":"dayaman",
@@ -2309,7 +2353,8 @@
         "description":"<td align=\"left\" class=\"norm\">This story is about female characters from TV/movies/games/etc. and female celebrities ending up with new bodies from the neck down.<br>\r\n<br>\r\nSome brief rules:<br>\r\n1. The focus is on head swaps. Yes, headless is allowed, but it should only be temporary until the character head finds a new body.<br>\r\n2. All bodies are applicable: male, female, animal, robot, etc.<br>\r\n3. Males can be put in swap-nanigans, but again, the focus is on the ladies.<br>\r\n4. No sex between those whose bodies are related. But sex between the heads of two who are related is okay as long as their bodies are not of the same family.<br>\r\n5. Conjoinment is allowed, as long as at least one of the shared body's heads is different from the body.<br>\r\n6. Pictures of head swaps are not necessary, but they are recommended.<br>\r\n<br>\r\nHave fun!</td>",
         "id":2158575,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1568968260,
+        "last_full_update":1568968260,
+        "modified":1592335140,
         "pretty_title":"Fictional and Famous Female Head Swaps"
     }
 }

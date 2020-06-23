@@ -91,6 +91,30 @@
             "created":1431666000,
             "id":1978247,
             "title":"DragonBall, DBZ or DBGT"
+        },
+        "15":{
+            "author_id":"lordaizen",
+            "author_name":"Grimmjow",
+            "choices":[
+                "Bleach",
+                "(Flash step to the next option)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about bleach</span></div></span></div>",
+            "created":1590469200,
+            "id":2841470,
+            "title":"Bleach "
+        },
+        "151":{
+            "author_id":"lordaizen",
+            "author_name":"Grimmjow",
+            "choices":[
+                "Controller ",
+                "Victim"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are you the controller or victim </span></div></span></div>",
+            "created":1590469200,
+            "id":2841472,
+            "title":"Bleach"
         }
     },
     "info":{
@@ -101,7 +125,8 @@
         "description":"<td align=\"left\" class=\"norm\">Anime characters either gain the power to swap or are the victims of a swap which can be any of the following <br>\r\n<br>\r\nHead Swap<br>\r\nGender Swap<br>\r\nSpecies Swap<br>\r\nClothing Swap<br>\r\nOccupation Swap <br>\r\nLife Swap <br>\r\nMouth/Voice Swap <br>\r\nAge Swap<br>\r\nPersonality Swap<br>\r\nBody Swap<br>\r\nIQ Swap<br>\r\n<br>\r\nIf the character is the swapy they can decide if people know or not however if the character is the victim they will not know about the swap<br>\r\n</td>",
         "id":1976184,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1579934220,
+        "last_full_update":0,
+        "modified":1590536340,
         "pretty_title":"Anime Swap"
     }
 }

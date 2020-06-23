@@ -570,6 +570,34 @@
             "created":1550120400,
             "id":2617601,
             "title":"Big Succubus Belly"
+        },
+        "14":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Male Human; Female Yokai",
+                "Female Human; Male Yokai",
+                "Female Human; Female Yokai",
+                "Male Human; Male Yokai Broventures",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>I mean its kinda obvious...</span></div></span></div>",
+            "created":1592110800,
+            "id":2851269,
+            "title":"Feudal-Near Imperial Japan Fantasy"
+        },
+        "143":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Jiyu Masakoto",
+                "Ai-Chan",
+                "Another girl"
+            ],
+            "content":"<div class=\"\"><div> <span>Jiyu Masakoto: one of the daughters of the emperor of the land of the rising sun. Fiery in temperament, but chained down do to her own family, Masakoto seeks adventure beyond the small home her father had placed her in.<br>\r\n<br>\r\nAi-Chan:<br>\r\nA hermit and thief, Ai-Chan only wishes for the next bit for a meal. Her sights are set on a score that could change her life.</span></div></div>",
+            "created":1592715600,
+            "id":2854774,
+            "title":"Female Human; Female Yokai"
         }
     },
     "info":{
@@ -580,7 +608,8 @@
         "description":"<td align=\"left\" class=\"norm\">A youkai interactive for any type of demon girl you want is finally here!  Here are some guidelines to follow:<br>\r\n<br>\r\n1) Make decent, grammatically correct chapters<br>\r\n2) Female expansion only, but you may make male characters as well to interact with these youkai.<br>\r\n3) No instant or nonsensical expansions<br>\r\n4) No slob stuff<br>\r\n5) No deaths or anything of the sort<br>\r\n6) Any youkai you want is allowed</td>",
         "id":1850743,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1550162400,
+        "last_full_update":1550162400,
+        "modified":1592799060,
         "pretty_title":"Youkai Expansion Interactive!"
     }
 }

@@ -1064,6 +1064,45 @@
             "id":2840474,
             "title":"Generation 1"
         },
+        "1533":{
+            "author_id":"mariomaster88",
+            "author_name":"marioman",
+            "choices":[
+                "Generation 3",
+                "Generation 4",
+                "Even more Generations"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, maybe these?</span></div></span></div>",
+            "created":1590382800,
+            "id":2841099,
+            "title":"More generations"
+        },
+        "15333":{
+            "author_id":"mariomaster88",
+            "author_name":"marioman",
+            "choices":[
+                "Generation 5",
+                "Generation 6",
+                "Just then, more generations!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Alright, maybe these?</span></div></span></div>",
+            "created":1590382800,
+            "id":2841100,
+            "title":"Even more Generations"
+        },
+        "153333":{
+            "author_id":"mariomaster88",
+            "author_name":"marioman",
+            "choices":[
+                "Generation 7",
+                "Generation 8",
+                "How about one of the spinoff games?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay then, these are all that\u2019s left... for now.</span></div></span></div>",
+            "created":1590382800,
+            "id":2841101,
+            "title":"Just then, more generations!"
+        },
         "155":{
             "author_id":"billybobjoe8",
             "author_name":"BillyBobJoe",
@@ -1198,6 +1237,19 @@
             "id":2412365,
             "title":"Hang on a moment"
         },
+        "155322111":{
+            "author_id":"ohshc",
+            "author_name":"las moras",
+            "choices":[
+                "Pearl.",
+                "Marina.",
+                "Both."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Pearl, Marina or both?</span></div></span></div>",
+            "created":1591851600,
+            "id":2849845,
+            "title":"Sure"
+        },
         "155322112":{
             "author_id":"kingjack16",
             "author_name":"Swagmaster",
@@ -1270,6 +1322,18 @@
             "created":1587358800,
             "id":2821780,
             "title":"Pit"
+        },
+        "155332":{
+            "author_id":"jojo1212",
+            "author_name":"nonono",
+            "choices":[
+                "ARMS",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What about ARMS</span></div></span></div>",
+            "created":1592802000,
+            "id":2855280,
+            "title":"I'm finished!"
         }
     },
     "info":{
@@ -1280,7 +1344,8 @@
         "description":"<td align=\"left\" class=\"norm\">Alright, now I've extended my reach to my favorite video game company! As before, there are no rules to anything, so you can be as clean or as dirty as you want! So just choose a story path and game on!</td>",
         "id":2137324,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1590351540,
+        "last_full_update":0,
+        "modified":1592885820,
         "pretty_title":"Marioman's Nintendo Weight Gain"
     }
 }
