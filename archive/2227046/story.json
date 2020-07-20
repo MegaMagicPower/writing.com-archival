@@ -1,0 +1,151 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"jfoxx",
+            "author_name":"Johnny Foxx",
+            "choices":[
+                "I am male",
+                "I am female"
+            ],
+            "content":"<div class=\"\"><div> <span>You strap the small dagger and leather pouch of gold to your belt, and bid your parents farewell one last time, before mounting your chestnut mare that you raised from a foal. Your mother is trying to hold back tears, of joy or sorrow, you cannot tell. Your father just gives you a proud smile, and they both wave goodbye as you ride away across the property line of your family's farm towards the capital. <br>\r\n<br>\r\nSince the age o f five, you've always wanted to join the ranks of the Heroes. Your parents would tell you stories of the most famous Heroes from when they were your age, and their mighty and noble deeds. Slaying monsters, rescuing those in danger and distress, battling evil overlords who sought to enslave the land. Even as a child, you knew you wanted to be one of them. Today, you are finally of age to set out on your own, and fulfill your lifelong dream.<br>\r\n<br>\r\nFor three days, you ride West across fields and through forests until you reach the capital gates. Having grown up on a humble farm, you can't help but marvel at the sights of the magnificent city as your horse clops along through the cobblestone streets, not even noticing the stares and a few sneers you receive from the nobles dressed in their satin and velvet outfits. <br>\r\n<br>\r\nYou find yourself at the entrance to the Hero's Academy, where all Heroes train before officially joining the Guild. You hitch your horse by the entrance and enter a grand hall, the walls lined with tapestries bearing the Guild's insignia. At the end of the hall is a large desk of polished wood, a female elf sitting behind it, surrounded by parchment and writing quills. As you approached she looks up and says \"May I help you?\" <br>\r\n<br>\r\n\"I wish to enroll at the academy.\" You state proudly. The elf sighs before reaching under the desk and heaving up a massive ledger bound in leather and emblazoned with the Guild's symbol. \"Name?\" \"Taren Feldrake.\" \"Preferred class?\" <br>\r\n<br>\r\n(Before we go any further, is your character male or female? Also after selecting your class and sub-class, don't bother describing your time spent at the academy, and just skip ahead to when you graduate. This story is supposed to focus on Heroes, not Heroes-in-training.)</span></div></div>",
+            "created":1594962000,
+            "id":2870227,
+            "title":"Your Journey Begins..."
+        },
+        "11":{
+            "author_id":"jfoxx",
+            "author_name":"Johnny Foxx",
+            "choices":[
+                "Rogue",
+                "Mage",
+                "Warrior"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Come again?\" You say confusedly.<br>\r\n<br>\r\n<br>\r\nThe elf sighs again, this time with a more frustrated tone, before saying \"Do you want to study Rogue, Mage or Warrior skills?\" <br>\r\n<br>\r\n<br>\r\nTo be honest, you didn't have any particular preference, and just decided to go with the one that sounded best to you.</span></div></div>",
+            "created":1594962000,
+            "id":2870231,
+            "title":"I am male"
+        },
+        "111":{
+            "author_id":"jfoxx",
+            "author_name":"Johnny Foxx",
+            "choices":[
+                "Archer",
+                "Ranger",
+                "Bard",
+                "Shadowfoot",
+                "Infiltrator"
+            ],
+            "content":"<div class=\"\"><div> <span>What will be your sub-class?<br>\r\n<br>\r\nArcher: A master of the bow and arrow. Can hit a target from hundreds of yards away.<br>\r\n<br>\r\nRanger: Good with a bow, but not as good as an Archer. Also equally adept with a pair of daggers.<br>\r\n<br>\r\nBard: Uses an enchanted instrument to enhance companion's abilities and cast various effects on enemies.<br>\r\n<br>\r\nShadowfoot: A master of stealth and alchemy, capable of sneaking up on enemies completely undetected before stabbing them in the back with a poisoned blade.<br>\r\n<br>\r\nInfiltrator: The perfect thief, an expert at picking locks as well as pockets. Uses Crossbow as primary weapon.<br>\r\n</span></div></div>",
+            "created":1594962000,
+            "id":2870238,
+            "title":"Rogue"
+        },
+        "112":{
+            "author_id":"jfoxx",
+            "author_name":"Johnny Foxx",
+            "choices":[
+                "Wizard",
+                "Warlock",
+                "Monk",
+                "Necromancer",
+                "Sorcerer"
+            ],
+            "content":"<div class=\"\"><div> <span>What is your Sub-class?<br>\r\n<br>\r\nWizard: Specializes in defensive magic.<br>\r\n<br>\r\nWarlock: Specializes in offensive magic.<br>\r\n<br>\r\nMonk: Specializes in healing<br>\r\n<br>\r\nNecromancer: Can raise the dead to aid in battle.<br>\r\n<br>\r\nSorcerer: Jack of all trades. Decent in all forms of magic, but is not particularly great in any specific kind.</span></div></div>",
+            "created":1594962000,
+            "id":2870242,
+            "title":"Mage"
+        },
+        "113":{
+            "author_id":"jfoxx",
+            "author_name":"Johnny Foxx",
+            "choices":[
+                "Barbarian",
+                "Knight",
+                "Paladin",
+                "Brawler",
+                "Battlemage"
+            ],
+            "content":"<div class=\"\"><div> <span>What is your sub-class?<br>\r\n<br>\r\nBarbarian: Relies on heavy weapons and brute force. No armor.<br>\r\n<br>\r\nKnight: Equally proficient with a sword or axe. Medium armor<br>\r\n<br>\r\nPaladin: Specializes in swords and claymores. Heavy armor.<br>\r\n<br>\r\nBrawler: Uses an axe for primary weapon. Little armor.<br>\r\n<br>\r\nBattlemage: Wields a made in one hand, and basic spells in the other. Light armor.</span></div></div>",
+            "created":1594962000,
+            "id":2870244,
+            "title":"Warrior"
+        },
+        "12":{
+            "author_id":"jfoxx",
+            "author_name":"Johnny Foxx",
+            "choices":[
+                "Rogue",
+                "Mage ",
+                "Warrior"
+            ],
+            "content":"<div class=\"\"><div> <span>\"I beg your pardon?\" You say.<br>\r\n<br>\r\nThe elf sighs again, this time more frustratedly, and asks \"Do you wish to study Rogue, Mage or Warrior Skills?\" <br>\r\n<br>\r\nYou didn't really care which one you took, so you picked at random.</span></div></div>",
+            "created":1594962000,
+            "id":2870233,
+            "title":"I am female"
+        },
+        "122":{
+            "author_id":"deverx",
+            "author_name":"SWLatina",
+            "choices":[
+                "Illusionist",
+                "Wizard",
+                "Druid"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So what type of mage do you want to be?<br>\r\n<br>\r\nIllusionist, Wizard or Druid?</span></div></span></div>",
+            "created":1595048400,
+            "id":2871042,
+            "title":"Mage "
+        },
+        "1223":{
+            "author_id":"deverx",
+            "author_name":"SWLatina",
+            "choices":[
+                "human",
+                "half giant",
+                "half elf"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Listen With Your Heart,\" the Ancient Tree Mother Chants.<br>\r\n<br>\r\nAll the Sapling Daughters, including yourself, answer \"And You Will Understand.\" <br>\r\n<br>\r\nIt is how the Morning Song ends, the one all the druids sing to greet the morning.<br>\r\n<br>\r\nIt's a good life. Mostly.<br>\r\n<br>\r\nIt's just not the one you were expecting to live.<br>\r\n<br>\r\nFour years ago, you had left your parents' farm for the big city, hoping for a life of fame and fortune. You somehow got accepted into the Hero's Academy, went through testing, and found yourself learning \"Nature Magic\" from Aknavi, an ancient but beautiful elf woman. Your education took place in the Sacred Grove in the Middle of the Yinroh Forest. And while you learned Nature Magic in the middle of nowhere, you collected food and cultivated plant and did other chores.<br>\r\n<br>\r\nIn other words, it was like never leaving the farm to get your magical education.<br>\r\n<br>\r\nYou had plenty of friends, who were all referred to as aunts, mothers, sisters and cousins. Everyone who studied at the Sacred Grove were women, and beautiful women at that. Even you are beautiful. Well, you weren't bad looking to begin with, but you would drop jaws and cause instant erections if you walked down the main street of the local farming village now.<br>\r\n<br>\r\nNot that you can do anything with your new looks now. Your totally surrounded by elven and human women, and even if you had sapphic leanings, sex is strictly taboo in the Sacred Grove.  <br>\r\n<br>\r\nSo all your time is spent studying, doing chores and singing morning and evening rituals.<br>\r\n<br>\r\nDefinitely not the life you were expecting to live when you left the farm four years ago.<br>\r\n<br>\r\nAs the morning ritual ends, the Ancient Tree Mother calls out \"Birchvene.\" You're startled to hear the Ancient Tree Mother call out your name, and she has to call it once more before your respond.<br>\r\n<br>\r\n\"Yes, Ancient Tree Mother,\" you answer as you stand up.<br>\r\n<br>\r\n\"Come forward, daughter,\" she continues. \"The world has needs of one of our numbers, and I choose you to go.I wish you to meet your travelling companion. Come forward, man of the world,\" she continues. Stepping out of the shadow is a large male</span></div></div>",
+            "created":1595048400,
+            "id":2871088,
+            "title":"Druid"
+        },
+        "123":{
+            "author_id":"deverx",
+            "author_name":"SWLatina",
+            "choices":[
+                "Paladin",
+                "Ranger",
+                "Fighter"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Orders, Tree or just swing the sword willy-nilly?\" the elf asks.<br>\r\n<br>\r\n\"Excuse me?\" you respond, eyes blinking as you try to decipher the elf's question.<br>\r\n<br>\r\nThe elf sighs overdramatically, but then, elves have a habit of being overly dramatic about everything.<br>\r\n<br>\r\n\"You may,\" he began with a deep sigh, \"Seek to wield a sword for one of the Orders, and thus earn the title of Paladin. You may,\" he continues, \"Try to learn woodcraft from one of my people, or from an elf wannabe human, and excel with the bow, and take the title of Ranger. Or you can forget all the extras and focus strictly on being a  Fighter. Which will it be?\" </span></div></div>",
+            "created":1594962000,
+            "id":2870289,
+            "title":"Warrior"
+        },
+        "1231":{
+            "author_id":"deverx",
+            "author_name":"SWLatina",
+            "choices":[
+                "kill a dragon",
+                "find a unicorn",
+                "rescue a princess"
+            ],
+            "content":"<div class=\"\"><div> <span>As you climb on your charger Pudoris, you wave at the locals who have gathered outside the gate of the local chapter house of the Order of Allimac. As the newest initiate to ascend to the rank of member of the Order (albeit the most junior member), you expect a rousing cheer as you leave your chapter house on your first quest.<br>\r\n<br>\r\nThe locals are there to see you off, all right, but there's an air of disappointment about them, rather than excitement.<br>\r\n<br>\r\nThe reason is that you are undoubtedly the most attractive initiate your chapter house has seen in generations. With your long, dark lustrous hair, statuesque build, dusky skin and exotic beauty, there were many in the village who hoped you would fail in your training and somehow find your way into the local brothel.<br>\r\n<br>\r\nSadly for them, you are not only the most beautiful paladin that the local chapter house has ever produced, you are arguably the best young warrior as well.<br>\r\n<br>\r\nWhich means that, to the disappointment of many of the villagers, you have remained chaste in both your actions and in your dress.<br>\r\n<br>\r\nAs you ride out on your horse, attired in the light plate of your order, you give the crowd one last wave as you head out on your first quest, which is to</span></div></div>",
+            "created":1594962000,
+            "id":2870687,
+            "title":"Paladin"
+        }
+    },
+    "info":{
+        "author_id":"jfoxx",
+        "author_name":"Johnny Foxx",
+        "brief_description":"Become a hero or die trying in this spoof\\homage of classic RPG's. ",
+        "created":1594970820,
+        "description":"<td align=\"left\" class=\"norm\">You were born a nobody, a measly farmer living in poverty with your parents. But even from a young age, you always dreamed of becoming a Hero. Heroes and Heroines are like the celebrities of this world, admired and loved by the public, raking in the gold and swooned over by fanboys\\girls. You swore that the day you came of age, you would join the Hero's Academy and make a name for yourself. Well, that day has arrived. Biding your parents farewell, you set out with only the clothes on your back, a small pouch of gold coins and a dagger for protection. You journey to the capital to begin your new life. <br>\r\n<br>\r\nHow This Works<br>\r\n<br>\r\nAt the end of the first chapter, you shall select your character's gender, followed by your class type and your sub-class. From there, it's all up to you where your adventures will lead you. Will you climb the ranks of the Guild and become the greatest Hero who ever lived? Or will you fail and fall into obscurity, your name forever lost to history?<br>\r\n<br>\r\nRules:<br>\r\n<br>\r\n1. This is meant to be a sort of parody of old school role-playing games like D&amp;D and things like that. Try to add some humor here and there . <br>\r\n2. If you're going to kill the main character, don't make it overly gory or descriptive. Also, let the story get to a decent length first.<br>\r\n3. All chapters are to be a minimum of 3 to 5 paragraphs long. <br>\r\n<br>\r\nI reserve the right to add or edit rules as needed. Hope you enjoy the story!</td>",
+        "id":2227046,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1595090400,
+        "modified":1595090400,
+        "pretty_title":"So You Want To Be a Hero?"
+    }
+}

@@ -10,7 +10,7 @@
                 "A Trainer with a team",
                 "scenarios "
             ],
-            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How do want to start this?</span></div></span></div>",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How to start this?</span></div></span></div>",
             "created":1591765200,
             "id":2848980,
             "title":"A normal beginning"
@@ -26,6 +26,21 @@
             "created":1592024400,
             "id":2850855,
             "title":"Wild Pokemon"
+        },
+        "111":{
+            "author_id":"dragonkiller21",
+            "author_name":"Dragonkiller21 ",
+            "choices":[
+                "Kanto (gen 1)",
+                "Johto (gen 2)",
+                "Hoenn (gen 3)",
+                "Sinnoh (gen 4)",
+                "More "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>But from were though?</span></div></span></div>",
+            "created":1592974800,
+            "id":2855920,
+            "title":"Starter"
         }
     },
     "info":{
@@ -36,8 +51,8 @@
         "description":"<td align=\"left\" class=\"norm\">Rules<br>\r\n<br>\r\n1.) Only Pokemon can grow<br>\r\n<br>\r\n2.) Height should be the focus but you can in cress some of the other aspects of them<br>\r\n<br>\r\n3.) Anthro is fine<br>\r\n <br>\r\n4.) no death. you can add vore just as long as the person, pokemon is not digested by the big pokemon</td>",
         "id":2224001,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1591782660,
-        "modified":1592094600,
+        "last_full_update":1592983740,
+        "modified":1592983740,
         "pretty_title":"Pokemon Growth"
     }
 }

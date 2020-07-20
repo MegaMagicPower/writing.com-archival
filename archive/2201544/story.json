@@ -224,6 +224,50 @@
             "id":2830362,
             "title":"A Fictional World"
         },
+        "141":{
+            "author_id":"starfighter364",
+            "author_name":"Starfighter364",
+            "choices":[
+                "Original",
+                "GX",
+                "5Ds",
+                "Zexal",
+                "More choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which series?</span></div></span></div>",
+            "created":1593493200,
+            "id":2859088,
+            "title":"Yugioh"
+        },
+        "1415":{
+            "author_id":"starfighter364",
+            "author_name":"Starfighter364",
+            "choices":[
+                "Arc-V",
+                "Vrains",
+                "A manga universe",
+                "More choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about these?</span></div></span></div>",
+            "created":1593493200,
+            "id":2859092,
+            "title":"More choices"
+        },
+        "143":{
+            "author_id":"starfighter364",
+            "author_name":"Starfighter364",
+            "choices":[
+                "Original anime",
+                "Games",
+                "Adventures manga",
+                "Twilight Wings anime",
+                "More choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which Pokemon world?</span></div></span></div>",
+            "created":1593493200,
+            "id":2859086,
+            "title":"Pokemon "
+        },
         "145":{
             "author_id":"kaiblastx3",
             "author_name":"mason",
@@ -260,6 +304,54 @@
             "created":1590469200,
             "id":2841628,
             "title":"As Told by Ginger"
+        },
+        "145211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will you still have all the memories of your previous life?</span></div></span></div>",
+            "created":1593493200,
+            "id":2859043,
+            "title":"Yes"
+        },
+        "14522":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will you be reborn as an original character?</span></div></span></div>",
+            "created":1593493200,
+            "id":2859046,
+            "title":"Rugrats/All Grown Up"
+        },
+        "145221":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will you still have all the memories of your previous life?</span></div></span></div>",
+            "created":1593493200,
+            "id":2859458,
+            "title":"Yes"
+        },
+        "14523":{
+            "author_id":"kefkathejester",
+            "author_name":"KefkaTheMadJester",
+            "choices":[
+                "Monster girl Encyclopedia?",
+                "Another"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>One of these</span></div></span></div>",
+            "created":1594011600,
+            "id":2862378,
+            "title":"Other places to be"
         }
     },
     "info":{
@@ -270,8 +362,8 @@
         "description":"<td align=\"left\" class=\"norm\">One day, you die, and meet a god of reincarnation, who offers to reincarnate you into any type of world you want, but there\u2019s a catch. No matter what kind of world you choose, you have to be reborn as a girl! You can choose your race, but you can\u2019t choose gender since the god of reincarnation wants you to be a girl.</td>",
         "id":2201544,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":0,
-        "modified":1590554520,
+        "last_full_update":1594719180,
+        "modified":1594719180,
         "pretty_title":"Reincarnated as a Girl"
     }
 }

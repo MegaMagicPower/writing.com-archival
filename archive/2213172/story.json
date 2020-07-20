@@ -2,7 +2,7 @@
     "chapters":{
         "1":{
             "author_id":"rickroll10000",
-            "author_name":"Petra",
+            "author_name":"Lovergurl",
             "choices":[
                 "TV and Movies",
                 "Anime and Manga",
@@ -16,7 +16,7 @@
         },
         "11":{
             "author_id":"rickroll10000",
-            "author_name":"Petra",
+            "author_name":"Lovergurl",
             "choices":[
                 "1: Star Wars",
                 "2: Game of Thrones",
@@ -31,7 +31,7 @@
         },
         "111":{
             "author_id":"rickroll10000",
-            "author_name":"Petra",
+            "author_name":"Lovergurl",
             "choices":[
                 "Male",
                 "Female"
@@ -43,7 +43,7 @@
         },
         "1111":{
             "author_id":"rickroll10000",
-            "author_name":"Petra",
+            "author_name":"Lovergurl",
             "choices":[
                 "The Real World",
                 "In Universe"
@@ -68,7 +68,7 @@
         },
         "1112":{
             "author_id":"rickroll10000",
-            "author_name":"Petra",
+            "author_name":"Lovergurl",
             "choices":[
                 "The Real World",
                 "In Universe"
@@ -80,7 +80,7 @@
         },
         "11121":{
             "author_id":"rickroll10000",
-            "author_name":"Petra",
+            "author_name":"Lovergurl",
             "choices":[
                 "Rey",
                 "Ahsoka",
@@ -93,7 +93,7 @@
         },
         "112":{
             "author_id":"rickroll10000",
-            "author_name":"Petra",
+            "author_name":"Lovergurl",
             "choices":[
                 "Male",
                 "Female"
@@ -105,7 +105,7 @@
         },
         "1121":{
             "author_id":"rickroll10000",
-            "author_name":"Petra",
+            "author_name":"Lovergurl",
             "choices":[
                 "The Real World",
                 "In Universe"
@@ -130,7 +130,7 @@
         },
         "1122":{
             "author_id":"rickroll10000",
-            "author_name":"Petra",
+            "author_name":"Lovergurl",
             "choices":[
                 "The Real World",
                 "In Universe"
@@ -142,7 +142,7 @@
         },
         "11221":{
             "author_id":"rickroll10000",
-            "author_name":"Petra",
+            "author_name":"Lovergurl",
             "choices":[
                 "Sansa",
                 "Daenerys",
@@ -155,7 +155,7 @@
         },
         "113":{
             "author_id":"rickroll10000",
-            "author_name":"Petra",
+            "author_name":"Lovergurl",
             "choices":[
                 "Male",
                 "Female"
@@ -167,7 +167,7 @@
         },
         "1131":{
             "author_id":"rickroll10000",
-            "author_name":"Petra",
+            "author_name":"Lovergurl",
             "choices":[
                 "The Real World",
                 "In Universe"
@@ -192,7 +192,7 @@
         },
         "1132":{
             "author_id":"rickroll10000",
-            "author_name":"Petra",
+            "author_name":"Lovergurl",
             "choices":[
                 "The Real World",
                 "In Universe"
@@ -204,7 +204,7 @@
         },
         "11321":{
             "author_id":"rickroll10000",
-            "author_name":"Petra",
+            "author_name":"Lovergurl",
             "choices":[
                 "Uhura",
                 "Jaylah",
@@ -217,7 +217,7 @@
         },
         "114":{
             "author_id":"rickroll10000",
-            "author_name":"Petra",
+            "author_name":"Lovergurl",
             "choices":[
                 "Male",
                 "Female"
@@ -254,7 +254,7 @@
         },
         "1142":{
             "author_id":"rickroll10000",
-            "author_name":"Petra",
+            "author_name":"Lovergurl",
             "choices":[
                 "The Real World",
                 "In Universe"
@@ -266,7 +266,7 @@
         },
         "11421":{
             "author_id":"rickroll10000",
-            "author_name":"Petra",
+            "author_name":"Lovergurl",
             "choices":[
                 "Buffy",
                 "Cordelia"
@@ -275,6 +275,19 @@
             "created":1583384400,
             "id":2797023,
             "title":"The Real World"
+        },
+        "114211":{
+            "author_id":"rickroll10000",
+            "author_name":"Lovergurl",
+            "choices":[
+                "A spoiled rotten bitch",
+                "A bimbo who should be in kindergarten because of how dumb she is",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of Bimbo do you make her</span></div></span></div>",
+            "created":1593838800,
+            "id":2861322,
+            "title":"Buffy"
         },
         "114212":{
             "author_id":"kameron94",
@@ -314,6 +327,30 @@
             "id":2848472,
             "title":"Disney descendants"
         },
+        "11511":{
+            "author_id":"rickroll10000",
+            "author_name":"Lovergurl",
+            "choices":[
+                "The Real World",
+                "In Universe"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Choose your world</span></div></span></div>",
+            "created":1593234000,
+            "id":2857415,
+            "title":"Male"
+        },
+        "11512":{
+            "author_id":"rickroll10000",
+            "author_name":"Lovergurl",
+            "choices":[
+                "The Real World",
+                "In Universe"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Choose your world</span></div></span></div>",
+            "created":1593925200,
+            "id":2862176,
+            "title":"Female"
+        },
         "1152":{
             "author_id":"rickroll10000",
             "author_name":"Lovergurl",
@@ -325,6 +362,30 @@
             "created":1591419600,
             "id":2847041,
             "title":"Icarly"
+        },
+        "11521":{
+            "author_id":"rickroll10000",
+            "author_name":"Lovergurl",
+            "choices":[
+                "The Real World",
+                "In Universe"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Choose your world</span></div></span></div>",
+            "created":1593406800,
+            "id":2858399,
+            "title":"Male"
+        },
+        "11522":{
+            "author_id":"rickroll10000",
+            "author_name":"Lovergurl",
+            "choices":[
+                "The Real World",
+                "In Universe"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Choose your world</span></div></span></div>",
+            "created":1594962000,
+            "id":2870425,
+            "title":"Female"
         },
         "1153":{
             "author_id":"kameron94",
@@ -351,6 +412,30 @@
             "id":2843704,
             "title":"Victorious"
         },
+        "115311":{
+            "author_id":"rickroll10000",
+            "author_name":"Lovergurl",
+            "choices":[
+                "The Real World",
+                "In Universe"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Choose your world</span></div></span></div>",
+            "created":1593752400,
+            "id":2860776,
+            "title":"Male"
+        },
+        "115312":{
+            "author_id":"rickroll10000",
+            "author_name":"Lovergurl",
+            "choices":[
+                "The Real World",
+                "In Universe"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Choose your world</span></div></span></div>",
+            "created":1594357200,
+            "id":2865436,
+            "title":"Female"
+        },
         "11532":{
             "author_id":"rickroll10000",
             "author_name":"Lovergurl",
@@ -363,9 +448,33 @@
             "id":2843955,
             "title":"Big Bang theory"
         },
+        "115321":{
+            "author_id":"rickroll10000",
+            "author_name":"Lovergurl",
+            "choices":[
+                "The Real World",
+                "In Universe"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Choose your world</span></div></span></div>",
+            "created":1593493200,
+            "id":2859479,
+            "title":"Male"
+        },
+        "115322":{
+            "author_id":"rickroll10000",
+            "author_name":"Lovergurl",
+            "choices":[
+                "The Real World",
+                "In Universe"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Choose your world</span></div></span></div>",
+            "created":1594184400,
+            "id":2864261,
+            "title":"Female"
+        },
         "12":{
             "author_id":"rickroll10000",
-            "author_name":"Petra",
+            "author_name":"Lovergurl",
             "choices":[
                 "1: Bleach",
                 "2: Fate/stay night Franchise",
@@ -380,7 +489,7 @@
         },
         "121":{
             "author_id":"rickroll10000",
-            "author_name":"Petra",
+            "author_name":"Lovergurl",
             "choices":[
                 "Male",
                 "Female"
@@ -417,7 +526,7 @@
         },
         "1212":{
             "author_id":"rickroll10000",
-            "author_name":"Petra",
+            "author_name":"Lovergurl",
             "choices":[
                 "The Real World",
                 "In Universe"
@@ -429,7 +538,7 @@
         },
         "12121":{
             "author_id":"rickroll10000",
-            "author_name":"Petra",
+            "author_name":"Lovergurl",
             "choices":[
                 "Rukia",
                 "Orihime",
@@ -442,7 +551,7 @@
         },
         "122":{
             "author_id":"rickroll10000",
-            "author_name":"Petra",
+            "author_name":"Lovergurl",
             "choices":[
                 "Male",
                 "Female"
@@ -479,7 +588,7 @@
         },
         "1222":{
             "author_id":"rickroll10000",
-            "author_name":"Petra",
+            "author_name":"Lovergurl",
             "choices":[
                 "The Real World",
                 "In Universe"
@@ -491,7 +600,7 @@
         },
         "12221":{
             "author_id":"rickroll10000",
-            "author_name":"Petra",
+            "author_name":"Lovergurl",
             "choices":[
                 "Arturia",
                 "Jeanne",
@@ -504,7 +613,7 @@
         },
         "123":{
             "author_id":"rickroll10000",
-            "author_name":"Petra",
+            "author_name":"Lovergurl",
             "choices":[
                 "Male",
                 "Female"
@@ -541,7 +650,7 @@
         },
         "1232":{
             "author_id":"rickroll10000",
-            "author_name":"Petra",
+            "author_name":"Lovergurl",
             "choices":[
                 "The Real World",
                 "In Universe"
@@ -553,7 +662,7 @@
         },
         "12321":{
             "author_id":"rickroll10000",
-            "author_name":"Petra",
+            "author_name":"Lovergurl",
             "choices":[
                 "Sakura",
                 "Ino",
@@ -566,7 +675,7 @@
         },
         "124":{
             "author_id":"rickroll10000",
-            "author_name":"Petra",
+            "author_name":"Lovergurl",
             "choices":[
                 "Male",
                 "Female"
@@ -603,7 +712,7 @@
         },
         "1242":{
             "author_id":"rickroll10000",
-            "author_name":"Petra",
+            "author_name":"Lovergurl",
             "choices":[
                 "The Real World",
                 "In Universe"
@@ -628,7 +737,7 @@
         },
         "13":{
             "author_id":"rickroll10000",
-            "author_name":"Petra",
+            "author_name":"Lovergurl",
             "choices":[
                 "1: Fire Emblem",
                 "2: Final Fantasy series",
@@ -643,7 +752,7 @@
         },
         "131":{
             "author_id":"rickroll10000",
-            "author_name":"Petra",
+            "author_name":"Lovergurl",
             "choices":[
                 "Male",
                 "Female"
@@ -680,7 +789,7 @@
         },
         "1312":{
             "author_id":"rickroll10000",
-            "author_name":"Petra",
+            "author_name":"Lovergurl",
             "choices":[
                 "The Real World",
                 "In Universe"
@@ -705,7 +814,7 @@
         },
         "132":{
             "author_id":"rickroll10000",
-            "author_name":"Petra",
+            "author_name":"Lovergurl",
             "choices":[
                 "Male",
                 "Female"
@@ -742,7 +851,7 @@
         },
         "1322":{
             "author_id":"rickroll10000",
-            "author_name":"Petra",
+            "author_name":"Lovergurl",
             "choices":[
                 "The Real World",
                 "In Universe"
@@ -767,7 +876,7 @@
         },
         "133":{
             "author_id":"rickroll10000",
-            "author_name":"Petra",
+            "author_name":"Lovergurl",
             "choices":[
                 "Male",
                 "Female"
@@ -804,7 +913,7 @@
         },
         "1332":{
             "author_id":"rickroll10000",
-            "author_name":"Petra",
+            "author_name":"Lovergurl",
             "choices":[
                 "The Real World",
                 "In Universe"
@@ -828,7 +937,7 @@
         },
         "134":{
             "author_id":"rickroll10000",
-            "author_name":"Petra",
+            "author_name":"Lovergurl",
             "choices":[
                 "Male",
                 "Female"
@@ -925,6 +1034,18 @@
             "id":2850807,
             "title":"Male"
         },
+        "13512":{
+            "author_id":"rickroll10000",
+            "author_name":"Lovergurl",
+            "choices":[
+                "The Real World",
+                "In Universe"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Choose your world</span></div></span></div>",
+            "created":1594011600,
+            "id":2863097,
+            "title":"Female"
+        },
         "1352":{
             "author_id":"rickroll10000",
             "author_name":"Lovergurl",
@@ -936,6 +1057,30 @@
             "created":1590814800,
             "id":2843055,
             "title":"kingdom hearts"
+        },
+        "13521":{
+            "author_id":"rickroll10000",
+            "author_name":"Lovergurl",
+            "choices":[
+                "The Real World",
+                "In Universe"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Choose your world</span></div></span></div>",
+            "created":1593579600,
+            "id":2860150,
+            "title":"Male"
+        },
+        "13522":{
+            "author_id":"rickroll10000",
+            "author_name":"Lovergurl",
+            "choices":[
+                "The Real World",
+                "In Universe"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Choose your world</span></div></span></div>",
+            "created":1595134800,
+            "id":2871438,
+            "title":"Female"
         },
         "1353":{
             "author_id":"rickroll10000",
@@ -1031,8 +1176,8 @@
         "description":"<td align=\"left\" class=\"norm\">Turn your favorite girls from any world and turn them into sex addicted bimbos who worship you the main character can be female as well not many lesbian harem works on here so might as well put here right<br>\r\n<br>\r\nRules: no scat or water play and no guro/ryona or anything similar</td>",
         "id":2213172,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":0,
-        "modified":1592289300,
+        "last_full_update":1594397640,
+        "modified":1595138700,
         "pretty_title":"Fictional Girl Bimbofication"
     }
 }

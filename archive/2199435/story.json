@@ -2723,7 +2723,7 @@
             "author_name":"Cardinal Priest",
             "choices":[
                 "Yeah",
-                "See Marilyn as her mommy."
+                "something else"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does she question her about them later?</span></div></span></div>",
             "created":1588914000,
@@ -3490,6 +3490,80 @@
             "created":1586494800,
             "id":2816600,
             "title":"something else"
+        },
+        "12413":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "a wish",
+                "an enchanted object",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what other reason would Evie be physically regressed?</span></div></span></div>",
+            "created":1594184400,
+            "id":2864062,
+            "title":"something else"
+        },
+        "124131":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Mal did.",
+                "It was Jane, or someone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Evie make said wish that regressed her?</span></div></span></div>",
+            "created":1594184400,
+            "id":2864065,
+            "title":"a wish"
+        },
+        "1241311":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "She wanted to be Dizzy's little sister",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Why would Evie make a wish to physically regress herself?</span></div></span></div>",
+            "created":1594184400,
+            "id":2864102,
+            "title":"Yeah."
+        },
+        "12413111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup.",
+                "Nah, as she slept."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She made the wish on a magic mirror. Not the one her mother gave her, but one Jane had gotten her as a birthday gift. Did it start to work right away?</span></div></span></div>",
+            "created":1594184400,
+            "id":2864107,
+            "title":"She wanted to be Dizzy's little sister"
+        },
+        "12413112":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Sure.",
+                "Any other reason she'd wish this."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She wanted Carlos and Jane to get an idea on what it was like to be parents?</span></div></span></div>",
+            "created":1594184400,
+            "id":2864108,
+            "title":"Something else"
+        },
+        "124132":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Sure.",
+                "Anything else it might've been."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Said object was a version of her mother's magic mirror?</span></div></span></div>",
+            "created":1594184400,
+            "id":2864076,
+            "title":"an enchanted object"
         },
         "1243":{
             "author_id":"supreme123",
@@ -4617,7 +4691,7 @@
                 "Put them down for a nap in the crib that big enough for them both",
                 "Something else"
             ],
-            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What else did Mal and aegis do with Jane and Carlos?</span></div></span></div>",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What else did Mal and Evie do with Jane and Carlos?</span></div></span></div>",
             "created":1587790800,
             "id":2824151,
             "title":"SE"
@@ -5256,8 +5330,8 @@
         "description":"<td align=\"left\" class=\"norm\">the girls from all 3 Disney descendants movies, the wicked world animated short series, and the isle of the lost books, why is up to you.<br>\r\n<br>\r\nthe rules are this.<br>\r\n<br>\r\nrule 1. no weight gain<br>\r\nrule 2. no killing characters<br>\r\nrule 3. don't \"end\" a story before it gets started. I will delete those.<br>\r\nrule 4. no insulting religion</td>",
         "id":2199435,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":0,
-        "modified":1592573940,
+        "last_full_update":1594214700,
+        "modified":1594214700,
         "pretty_title":"Disney descendants girls diapered"
     }
 }

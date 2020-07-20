@@ -51,12 +51,29 @@
             "choices":[
                 "Max",
                 "Iris",
-                "Other"
+                "Team Rocket Trio",
+                "Dawn",
+                "Other characters"
             ],
-            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay who will it be then?</span></div></span></div>",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, who will it be then?</span></div></span></div>",
             "created":1572066000,
             "id":2738750,
             "title":"More characters"
+        },
+        "11153":{
+            "author_id":"mysterio",
+            "author_name":"FFtheSnake",
+            "choices":[
+                "Rocketshipping 4 Life",
+                "A Chemical Dip",
+                "We're Good Guys Now... ",
+                "The Sexy Adventures of Team Rocket",
+                "Other Plot Ideas"
+            ],
+            "content":"<div class=\"\"><div> <span>This branch specifically has Jessie, James, and Meowth as a whole being the focus instead of just one of them.  Anyway.  What happens to our trio of goofy failure villains?<br>\r\n<br>\r\n1.) Jessie and James have finally stopped denying how they feel for each other.  They aren't lovey-dovey types, but they deeply care for each other... and have mad, passionate sex a lot.  With no protection.  Which results in the obvious happening...<br>\r\n<br>\r\n2.) The trio get dumped in a vat of chemicals but emerge surprisingly unscathed.  It's only later when the changes start to actually happen.  <br>\r\n<br>\r\n3.) Giovanni pushes the trio too far, and they quit.  They have no idea what to do now.<br>\r\n<br>\r\n4.) James and Jesse decide to seduce every Gym Leader they come across and steal their Pokemon that way.  </span></div></div>",
+            "created":1592888400,
+            "id":2855555,
+            "title":"Team Rocket Trio"
         },
         "112":{
             "author_id":"mysterio",
@@ -180,10 +197,10 @@
             "author_id":"mysterio",
             "author_name":"FFtheSnake",
             "choices":[
-                "Because they want to",
-                "Because they're eating people",
                 "Because they're captured and forcefed",
+                "Because they're eating people",
                 "Because they're pregnant with a LOT",
+                "A combination of two and three",
                 "Other reasons..."
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>My personal favorite option.  But why do they gain blubber?</span></div></span></div>",
@@ -275,7 +292,8 @@
         "description":"<td align=\"left\" class=\"norm\">Pretty much exactly what it says on the opening. A Pokemon/Digimon-centric interactive. Almost every fetish allowed, except scat and watersports (I will allow MENTION of it, but nothing excessively detailed) and torture. None of that. Nope.<br>\r\n<br>\r\nBeyond that, go wild and have fun. Pick a character and start from there. Do anything you want to do to the mons or with the mons.</td>",
         "id":2203390,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1590368340,
+        "last_full_update":1592936580,
+        "modified":1592936580,
         "pretty_title":"Pokemon/Digimon - Anything Goes"
     }
 }

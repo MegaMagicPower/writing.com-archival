@@ -83,6 +83,7 @@
             "title":"Hungry horse"
         },
         "11121":{
+            "author_name":"Chris",
             "choices":[
                 "Try to exlpain",
                 "Run"
@@ -141,6 +142,7 @@
             "title":"Find the father"
         },
         "11122":{
+            "author_name":"Chris",
             "choices":[
                 "Have some sympathy",
                 "Mmmm, snack."
@@ -197,6 +199,7 @@
             "title":"Horse in the town"
         },
         "1112221":{
+            "author_name":"Snookums",
             "choices":[
                 "Eat the viallgers and the church and turn them into a Poop Memorial of teh viall",
                 "just take a dump now and get the rest later"
@@ -207,6 +210,7 @@
             "title":"hungry hungry horsie"
         },
         "11122211":{
+            "author_name":"Snookums",
             "choices":[
                 "The end?",
                 "Then end!"
@@ -310,6 +314,42 @@
             "created":1498107600,
             "id":2340770,
             "title":"Nope, sorry, you're still gonna be eaten!"
+        },
+        "11311121":{
+            "author_id":"cvontine",
+            "author_name":"Tyler",
+            "choices":[
+                "Keep eating",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>You examine the furry critter in your hand. \u201cWhy you\u2019re nothing but a pathetic little wolf.\u201d You pause as your stomach growls, sounding like thunder to everyone below. \u201cNo matter a crumb like you will do.\u201d Parting your lips you raise the creature above your open maw. Dangling him from your fingers as he frantically pleaded for mercy. Releasing your grip you watched as he tumbled through the air before landing with a splat on your fat tongue. You relished in his tasty form before sending him down your wet gullet with a sickening GULUUURK. \u201cGod I forgot just how tasty you little grapes are.\u201d You traced him down your neck before he disappeared into your expansive gut. Nothing but a crumb really as it grumbled for me.</span></div></div>",
+            "created":1592888400,
+            "id":2855532,
+            "title":"stomach"
+        },
+        "113111211":{
+            "author_id":"cvontine",
+            "author_name":"Tyler",
+            "choices":[
+                "Sleep off the meal",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>You felt your stomach as it hungered for more. The wolf only spiking your appetite as you began to salivate. You noticed the townspeople as they cowered in fear. Surely a few wouldn\u2019t hurt, after all they\u2019d be a tribute for you. You reach down grabs handfuls of citizens as you brought them to your waiting maw. Shoving them inside before gulping them in hordes. After a few minutes you rest your hand on your bloated gyt. Feeling your citizens squirm inside. \u201cBURAAAP ahh that was a good meal I think I\u2019ll take a nap.\u201d Picking your teeth with a claw you turned as he began heading back to your castle. You may have overdone it as there were roughly 50 people packed away inside. \u201cI\u2019ll worry about that tomorrow when I have to shit them back out.\u201d</span></div></div>",
+            "created":1592888400,
+            "id":2855535,
+            "title":"Keep eating"
+        },
+        "113111212":{
+            "author_id":"cvontine",
+            "author_name":"Tyler",
+            "choices":[
+                "Wolf POV",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What\u2019s your choice?</span></div></span></div>",
+            "created":1592888400,
+            "id":2855533,
+            "title":"Other"
         },
         "113112":{
             "author_id":"silverzeo",
@@ -419,6 +459,7 @@
             "title":"The giant leap to destruction."
         },
         "1132":{
+            "author_name":"Chris",
             "choices":[
                 "Your now food",
                 "Humiliation first, your taken on a stroll to see your so called \"underlings&"
@@ -597,6 +638,7 @@
             "title":"Musky The Vile bear"
         },
         "1141":{
+            "author_name":"giantess bunny",
             "choices":[
                 "looks tasty",
                 "perfect for some humiliation and slavery"
@@ -913,6 +955,7 @@
             "title":"the bear is satisfied. More play!"
         },
         "11412":{
+            "author_name":"giantess bunny",
             "choices":[
                 "My lord",
                 "Goddess"
@@ -1127,6 +1170,7 @@
             "title":"Your Bony Lair"
         },
         "11521":{
+            "author_name":"Kraulgator",
             "choices":[
                 "Introduce yourself and try to break the ice.",
                 "wait for him to respond."
@@ -3203,7 +3247,8 @@
         "description":"<td align=\"left\" class=\"norm\">The offical sequal to the doggie bowl, more options for playing each side, Macros, Semi-macros, Normal, and Micro characters will be offered, five a piece. the final inital selection will be oddball characters with unussual talents<br>\r\n<br>\r\n<br>\r\nPlaces<br>\r\nThe City(Unnamed yet)A massive place built for Beasts greater than 200feet tall rulled by a ruthless sultan of A black Lion. Designed in opulant and artistic fasion the rules are draconian(as in brutal) and the people who live there are in constant fear of the ruler, but nothing else.</td>",
         "id":536771,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1590105120,
+        "last_full_update":1592932920,
+        "modified":1592932920,
         "pretty_title":"Jungle Fever"
     }
 }

@@ -171,7 +171,7 @@
             "choices":[
                 "Sunita: Shanghai Innenstadt"
             ],
-            "content":"<div class=\"\"><div> <span>Ich erreichte den Waffenh\u00e4ndler nach wenigen Minuten. Er sagte: \"Sie m\u00fcssen Sunita sein. Was kann ich f\u00fcr Sie tun?\"<br>\r\n<br>\r\nIch antwortete erstaunt: \"ich habe mir hier ja m\u00e4chtig einen Namen gemacht, das \u00fcberrascht mich. Was haben Sie f\u00fcr mich?\"<br>\r\n<br>\r\nEr sagte: \"f\u00fcr Sie habe ich hier etwas Besonderes.\" Er legte eine Pistole vor mich: \"das ist eine FNX-9. 17 Schuss-Magazin.\"<br>\r\n<br>\r\nIch sagte: \"das nenne ich mal eine Pistole. Ich danke Ihnen. Wieviel?\"<br>\r\n<br>\r\nEr antwortete: \"Sagen wir 1500 Credits.\"<br>\r\n<br>\r\nIch legte ihm das Geld hin und ging.</span></div></div>",
+            "content":"<div class=\"\"><div> <span>Ich erreichte den Waffenh\u00e4ndler nach wenigen Minuten. Er sagte: \"Sie m\u00fcssen Sunita sein. Was kann ich f\u00fcr Sie tun?\"<br>\r\n<br>\r\nIch antwortete erstaunt: \"ich habe mir hier ja m\u00e4chtig einen Namen gemacht, das \u00fcberrascht mich. Was haben Sie f\u00fcr mich?\"<br>\r\n<br>\r\nEr sagte: \"f\u00fcr Sie habe ich hier etwas Besonderes.\" Er legte eine Pistole vor mich: \"das ist eine FNX-9. 17 Schuss-Magazin.\"<br>\r\n<br>\r\nIch sagte: \"das nenne ich mal eine Pistole. Ich danke Ihnen. Wieviel?\"<br>\r\n<br>\r\nEr antwortete: \"Sagen wir 1500 Credits.\"<br>\r\n<br>\r\nIch legte ihm das Geld hin, steckte die Pistole ein und ging.</span></div></div>",
             "created":1590728400,
             "id":2842824,
             "title":"Sunita: Shanghai; der Restposten-Waffenh\u00e4ndler"
@@ -197,6 +197,17 @@
             "created":1591765200,
             "id":2849227,
             "title":"Sunita: Shanghai Krankenhaus"
+        },
+        "1111111111111111111":{
+            "author_id":"blackie",
+            "author_name":"Blackie",
+            "choices":[
+                "Sunita: Shanghai Pursuit"
+            ],
+            "content":"<div class=\"\"><div> <span>Ich lief weiter durch die Stadt. Ich dachte dar\u00fcber nach, inwieweit die Bruderschaft \u00fcber meine Bewegungen informiert war. Ich h\u00f6rte Linette sprechen: <i>\"Nod ist sich wahrscheinlich dar\u00fcber im Klaren, dass du dich noch hier aufh\u00e4ltst. Sie wissen aber nicht wo.\"</i><br>\r\n<br>\r\nIch sagte: \"das beruhigt mich ungemein, Linette.\"<br>\r\n<br>\r\nIch lief weiter, brachte mich hinter einem geparkten Fahrzeug in Deckung, als ich zwei Nod-Soldaten ausmachte, die sich scheinbar unterhielten. Ich blendete den Teil von mir aus, der sie t\u00f6ten wollte. Linette sagte: <i>\"man muss ja nicht gleich jeden Nod umlegen, Sunita. Mal sehen, wo die uns hinf\u00fchren.\"</i><br>\r\n<br>\r\nSie stiegen in ein Fahrzeug, das in den Farben der Bruderschaft lackiert und  an den T\u00fcren mit dem Nod-Logo versehen war.<br>\r\n<br>\r\nIch schlug den Nod-Beobachtungsposten bewusstlos, der neben seinem Motorrad stand.<br>\r\n<br>\r\nDamit nahm ich die Verfolgung auf.</span></div></div>",
+            "created":1594875600,
+            "id":2869663,
+            "title":"Sunita: Shanghai Innenstadt"
         }
     },
     "info":{
@@ -207,8 +218,8 @@
         "description":"<td align=\"left\" class=\"norm\">Vanessa hatte sich geopfert, Nod hatte ihr keine Wahl gelassen.<br>\r\n<br>\r\nAber ich werde den Kampf gegen Nod fortsetzen.<br>\r\n<br>\r\nIch bin Sunita.</td>",
         "id":2222486,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":0,
-        "modified":1591822740,
+        "last_full_update":1594905540,
+        "modified":1594905540,
         "pretty_title":"Tiberian Incursion: Shattered Memories"
     }
 }

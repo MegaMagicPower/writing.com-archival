@@ -2171,6 +2171,31 @@
             "id":2851722,
             "title":"Get up and go use the potty (much to your disap..."
         },
+        "11111112222212212311":{
+            "author_id":"diokno44",
+            "author_name":"Filipino4-ever",
+            "choices":[
+                "You try and wipe yourself",
+                "Ask for help",
+                "Don't wipe"
+            ],
+            "content":"<div class=\"\"><div> <span>As you weren't yet comfortable using the toilets yet, at least if your mom wasn't there, and especially if they were outside your home, you head to a stall with a training potty. You remove your diaper, plop down, and poop. The question is, once done, how do you wipe?</span></div></div>",
+            "created":1593838800,
+            "id":2861393,
+            "title":"A training potty stall in the bathroom"
+        },
+        "11111112222212212313":{
+            "author_id":"diokno44",
+            "author_name":"Filipino4-ever",
+            "choices":[
+                "You have to pee",
+                "The door handle jiggles"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You don't wanna use the potty. To you, the potty is dumb. Grinning to yourself, you plop down on the toilet, giggling. You begin to grunt and fart as you fill your diaper while atop the toilet. However, soon...</span></div></span></div>",
+            "created":1593838800,
+            "id":2861394,
+            "title":"Your diaper"
+        },
         "1111111222221221232":{
             "author_id":"diokno44",
             "author_name":"Filipino4-ever",
@@ -10342,6 +10367,18 @@
             "id":2276615,
             "title":"Try and find mom"
         },
+        "122131":{
+            "author_id":"diokno44",
+            "author_name":"Filipino4-ever",
+            "choices":[
+                "Was sympathetic",
+                "Teased her"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Anna's mommy had always told her not to wait if she had an accident. She raised her hand, as the teacher soon called on her. \"Mrs. Teacher, I made a poopy.\" she said. The class...</span></div></span></div>",
+            "created":1594962000,
+            "id":2870195,
+            "title":"Anna raises her hand and tells the teacher she ..."
+        },
         "122132":{
             "author_id":"diokno44",
             "author_name":"Filipino4-ever",
@@ -14009,7 +14046,7 @@
         },
         "13233212111111112":{
             "author_id":"kw_kyky",
-            "author_name":"kw_kyky",
+            "author_name":"Lalala13",
             "choices":[
                 "Angry at Amy for having another accident",
                 "Sympathetic towards Amy"
@@ -14021,7 +14058,7 @@
         },
         "132332121111113":{
             "author_id":"kw_kyky",
-            "author_name":"kw_kyky",
+            "author_name":"Lalala13",
             "choices":[
                 "The training potty first",
                 "The toilet first"
@@ -14161,8 +14198,8 @@
         "description":"<td align=\"left\" class=\"norm\">well... like subtitle say. This interactive fiction was mainly focused on potty contents.<br>\r\n<br>\r\nThing to note before you add new chapter.<br>\r\n1.There's (almost) no limit about character getting in a potty situation, you can write pretty much what you want as long as it doesn't go extremely graphic.<br>\r\n2.No sexual content allowed. Please. We are trying to keep story not going to Rated R<br>\r\n3.If you are going to add choice chapter, make sure you put in some detail, not just a \"And he pick a?\" Thingy.<br>\r\n4.Please avoid profanities, please.<br>\r\n5.The (main) stories are focusing on children. <br>\r\n6.Stay in the character [in another word : don't turn six years old into Einstein]<br>\r\n7.No nudity allowed</td>",
         "id":1908481,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":0,
-        "modified":1592238960,
+        "last_full_update":1594967340,
+        "modified":1594967340,
         "pretty_title":"\"Potty training not included\""
     }
 }

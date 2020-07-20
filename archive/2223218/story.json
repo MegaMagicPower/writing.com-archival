@@ -121,9 +121,9 @@
             "author_id":"bennym",
             "author_name":"bennym",
             "choices":[
-                "Reader choice ",
-                "Reader choice ",
-                "Reader choice "
+                "Playpen ",
+                "Crib",
+                "High chair "
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where did she end up?</span></div></span></div>",
             "created":1590987600,
@@ -1345,6 +1345,19 @@
             "created":1591765200,
             "id":2849031,
             "title":"No, Another Way"
+        },
+        "1523322":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "baby license",
+                "new adoption law",
+                "something else about the new law"
+            ],
+            "content":"<div class=\"\"><div> <span>would this new Law involve a new kind of license that allows those who apply for it to be classified as a baby in public, or maybe the new law allows people to adopt other people regardless of age and the adopted person basically has to act as their new parents baby and \"grow up\" from there?</span></div></div>",
+            "created":1593061200,
+            "id":2856715,
+            "title":"part of a new law that was passed"
         },
         "1523323":{
             "author_id":"diaperss",
@@ -4460,6 +4473,130 @@
             "created":1591765200,
             "id":2849195,
             "title":"Another Reason"
+        },
+        "1533323333332333":{
+            "author_id":"haleypotter417",
+            "author_name":"Miracle Butterfly",
+            "choices":[
+                "Diaper Tswizzel",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about Taylor Swift</span></div></span></div>",
+            "created":1592974800,
+            "id":2856257,
+            "title":"Next"
+        },
+        "15333233333323331":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "She Likes Them",
+                "She Lost A Bet",
+                "Another Reason"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Why is Tswizzel diapered?</span></div></span></div>",
+            "created":1592974800,
+            "id":2856264,
+            "title":"Diaper Tswizzel"
+        },
+        "153332333333233313":{
+            "author_id":"bennym",
+            "author_name":"bennym",
+            "choices":[
+                "Yeah",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is she regressed</span></div></span></div>",
+            "created":1592974800,
+            "id":2856366,
+            "title":"Another Reason"
+        },
+        "15333233333323332":{
+            "author_id":"haleypotter417",
+            "author_name":"Miracle Butterfly",
+            "choices":[
+                "Yes! Diaper Emma",
+                "No, another option"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What about Emma Watson?</span></div></span></div>",
+            "created":1592974800,
+            "id":2856258,
+            "title":"Someone else"
+        },
+        "153332333333233321":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "A Role in a movie",
+                "She Lost A Bet",
+                "Another Reason"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Why is Emma diapered?</span></div></span></div>",
+            "created":1592974800,
+            "id":2856265,
+            "title":"Yes! Diaper Emma"
+        },
+        "1533323333332333213":{
+            "author_id":"bennym",
+            "author_name":"bennym",
+            "choices":[
+                "Yeah",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is she regressed?</span></div></span></div>",
+            "created":1592974800,
+            "id":2856365,
+            "title":"Another Reason"
+        },
+        "15333233333323332132":{
+            "author_id":"diaperss",
+            "author_name":"diaperss",
+            "choices":[
+                "Yes",
+                "Some other reason"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Could it be that Emma likes them?</span></div></span></div>",
+            "created":1593061200,
+            "id":2856695,
+            "title":"No"
+        },
+        "153332333333233321321":{
+            "author_id":"bennym",
+            "author_name":"bennym",
+            "choices":[
+                "Likes being babied ",
+                "Using it like wearing a toilet ",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Why does she <br>\r\n(Note in this scenario she is overweight)</span></div></span></div>",
+            "created":1593061200,
+            "id":2856707,
+            "title":"Yes"
+        },
+        "1533323333332333213211":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Another Celebrity",
+                "A woman she pays to be her nanny"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Emma liked wearing diapers because she liked being babied, but who does she like being babied by?</span></div></span></div>",
+            "created":1593061200,
+            "id":2856709,
+            "title":"Likes being babied "
+        },
+        "15333233333323332132111":{
+            "author_id":"bennym",
+            "author_name":"bennym",
+            "choices":[
+                "Selena Gomez ",
+                "Miley Cyrus",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who is it?</span></div></span></div>",
+            "created":1593061200,
+            "id":2856711,
+            "title":"Another Celebrity"
         }
     },
     "info":{
@@ -4470,8 +4607,8 @@
         "description":"<td align=\"left\" class=\"norm\">No rules..... go add it<br>\r\nJust celebrities in diapers and how they got there <br>\r\n</td>",
         "id":2223218,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1590989400,
-        "modified":1592756820,
+        "last_full_update":1593101280,
+        "modified":1593101280,
         "pretty_title":"Celebrities in diapers"
     }
 }

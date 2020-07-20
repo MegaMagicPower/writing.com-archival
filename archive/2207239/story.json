@@ -144,6 +144,39 @@
             "created":1590987600,
             "id":2844015,
             "title":"V: Night City; Morgengrauen"
+        },
+        "11111111111111":{
+            "author_id":"blackie",
+            "author_name":"Blackie",
+            "choices":[
+                "V: Target identified?"
+            ],
+            "content":"<div class=\"\"><div> <span>Ich wurde mit einem Lufttaxi von Arasaka zur EBM-Zentrale geflogen. Die Wache an der T\u00fcr nickte mir nur zu und lie\u00df mich eintreten.<br>\r\n<br>\r\nIch sah \u00fcberall EBM-Mitarbeiter an Computern sitzen. Ich scannte die Mitarbeiter. Bei einem davon schlug der Scanner an.<br>\r\n<br>\r\n<i>Bedrohung: sehr hoch.</i><br>\r\n<br>\r\nIch wusste, dass ich mein Ziel gefunden hatte. Er versuchte, m\u00f6glichst unauff\u00e4llig zu wirken. Ich wartete ab; ich wusste, dass ich ihn vor all den Mitarbeitern nicht ausschalten konnte.<br>\r\n<br>\r\nNach etwa zehn Minuten machte sich der Kerl auf den Weg zur Toilette. Ich folgte ihm unauff\u00e4llig.<br>\r\n<br>\r\nDie Frage, die ich mir stellte, war nicht, ob ich mit ihm fertigwerden w\u00fcrde. Nein, vielmehr war es die Frage, ob ich nach dem Job unbemerkt hier rauskam.<br>\r\n<br>\r\nAls der Typ sein Bed\u00fcrfnis beendet hatte, legte ich von hinten einen Arm um seinen Hals.<br>\r\n<br>\r\nEr schwieg vor Angst. Ich sagte: \"ich bring dich hier raus. Wenn die Typen von EBM merken, dass du hier warst, t\u00f6ten sie dich.\"<br>\r\n<br>\r\nIch lockerte den Griff um seinen Hals, um ihn sprechen zu lassen: \"wir m\u00fcssen so tun, als w\u00fcrden wir eine Beziehung f\u00fchren. Gib dein Bestes.\"<br>\r\n<br>\r\nAlso schmiss ich ihn gegen die Wand und verfiel in einen langen, leidenschaftlichen Kuss. Dann ging ich h\u00e4ndchenhaltend mit ihm durch den Haupteingang nach drau\u00dfen.</span></div></div>",
+            "created":1593406800,
+            "id":2858571,
+            "title":"V: The Voodoo Boys Spy Hunt @ EBM"
+        },
+        "111111111111111":{
+            "author_id":"blackie",
+            "author_name":"Blackie",
+            "choices":[
+                "V: Arasaka-Lufttaxi, Nachbesprechung"
+            ],
+            "content":"<div class=\"\"><div> <span>Ich verlie\u00df mit dem Typen die Zentrale. Er lief vor mir, damit er nicht gesehen wurde. Er fragte: \"warum holst du mich eigentlich hier raus?\"<br>\r\n<br>\r\nIch sagte: \"das kann ich dir nicht sagen, f\u00fcrchte ich.\"<br>\r\n<br>\r\nWir liefen durch eine dunkle Gasse. Ich schlug ihm ohne Vorwarnung mein Knie in die Weichteile, den Schlag auf seinen Kopf konnte er abfangen. Ich zog meine Pistole und schoss ihm in den Bauch. Ich lie\u00df ihn auf dem Boden in seiner Blutlache sitzen.<br>\r\n<br>\r\nIch sagte: \"jetzt kann ichs dir sagen. Ich arbeite f\u00fcr Arasaka.\"<br>\r\n<br>\r\nSein Gesicht verzog sich zu einem gequ\u00e4lten L\u00e4cheln: \"ich h\u00e4tte...sowieso...keinen Ausweg gehabt. Ich w\u00e4re... tot gewesen, wenn mich...EBM in die Finger bekommen...h\u00e4tte. Hast du mir ja...auch gesagt.\"<br>\r\n<br>\r\nIch erwiderte: \"tut mir leid, war nur \u00b4n Job.\"<br>\r\n<br>\r\nSein Kopf neigte sich zur Seite. Er war tot.<br>\r\n<br>\r\nIch kontaktierte meine Auftraggeberin: \"es ist erledigt.\"<br>\r\n<br>\r\nSie gab zur\u00fcck: <i>\"ich lasse Sie abholen, V. Gute Arbeit.\"</i><br>\r\n<br>\r\nWenig sp\u00e4ter kam ein Arasaka-Lufttaxi herangeflogen, in das ich einstieg.</span></div></div>",
+            "created":1593406800,
+            "id":2858574,
+            "title":"V: Target identified?"
+        },
+        "1111111111111111":{
+            "author_id":"blackie",
+            "author_name":"Blackie",
+            "choices":[
+                "V: Night City: Vor der Arasaka-Zentrale"
+            ],
+            "content":"<div class=\"\"><div> <span>Ich setzte mich meiner Auftraggeberin gegen\u00fcber. Sie sagte: \"Sie waren super. Ich danke Ihnen nochmal f\u00fcr Ihre Hilfe.\" Ich erwiderte: \"kein Problem, ich helfe gerne.\"<br>\r\n<br>\r\nMeine Auftraggeberin h\u00e4ndigte mir einen Creditchip aus: \"das sind mit Gefahrenzulage 200.000.\"<br>\r\n<br>\r\nIch sagte: \"ich danke Ihnen vielmals.\" Sie fragte: \"wo soll ich Sie absetzen lassen?\"<br>\r\n<br>\r\nIch erwiderte: \"fliegen Sie mich einfach zur\u00fcck zu Ihrer Zentrale, von dort aus komme ich dann alleine zurecht.\"<br>\r\n<br>\r\nSie nickte und gab ihrem Piloten die entsprechende Anweisung durch.</span></div></div>",
+            "created":1593579600,
+            "id":2859707,
+            "title":"V: Arasaka-Lufttaxi, Nachbesprechung"
         }
     },
     "info":{
@@ -154,8 +187,8 @@
         "description":"<td align=\"left\" class=\"norm\">V hatte unvollendete Arbeit zu erledigen, die sie nach Night City f\u00fchrte. Ein gnadenloser Kampf gegen verschiedene Gangs und die Polizei.</td>",
         "id":2207239,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":0,
-        "modified":1591007700,
+        "last_full_update":1593615360,
+        "modified":1593615360,
         "pretty_title":"Cyberpunk 2077: Night City Reloaded"
     }
 }

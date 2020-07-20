@@ -1815,6 +1815,7 @@
             "title":"Captured For A School Project."
         },
         "134212121":{
+            "author_name":"**BookGuy**",
             "choices":[
                 "Jeremy takes a good long look.",
                 "Jeremy wants to experiment with his find."
@@ -1837,6 +1838,7 @@
             "title":"Too Late for Sorry"
         },
         "13421212111":{
+            "author_name":"BookGuy",
             "choices":[
                 "Jeremy finds a way to keep Matt with him at all times.",
                 "Jeremy finds a place to keep Matt secret in his room"
@@ -1847,6 +1849,7 @@
             "title":"Under the hand"
         },
         "134212121111":{
+            "author_name":"Firenze",
             "choices":[
                 "Matt finds a way to get out",
                 "Jimmy finds Matt when Jermey is taking a bath"
@@ -1857,6 +1860,7 @@
             "title":"An accessory"
         },
         "1342121211111":{
+            "author_name":"BookGuy",
             "choices":[
                 "Matt makes it to the floor before Jeremy returns.",
                 "Jeremy returns just as Matt leaves the jar."
@@ -1990,6 +1994,7 @@
             "title":"Your jar falls out of the locker and rolls away..."
         },
         "134212122":{
+            "author_name":"BookGuy",
             "choices":[
                 "Jeremy prepares the cage for a long stay for Matt.",
                 "Jeremy can't leave Matt alone and takes him out again."
@@ -2000,6 +2005,7 @@
             "title":"Matt's new home"
         },
         "1342121221":{
+            "author_name":"BookGuy",
             "choices":[
                 "Matt uses the stuff Jeremy left to try to escape.",
                 "Matt settles in for the night."
@@ -4421,6 +4427,7 @@
             "title":"Jarring"
         },
         "1512121":{
+            "author_name":"**BookGuy**",
             "choices":[
                 "Andy takes out a magnifying glass.",
                 "Andy plays with \"the bug\" Matt"
@@ -4466,6 +4473,7 @@
             "title":"No More!"
         },
         "151212121":{
+            "author_name":"**BookGuy**",
             "choices":[
                 "Andy thinks of another game for the bug.",
                 "Matt is determined to keep this up."
@@ -4544,6 +4552,7 @@
             "title":"The drier starts up"
         },
         "15121212112":{
+            "author_name":"**BookGuy**",
             "choices":[
                 "Matt is too scared to move.",
                 "Matt begins to walk up Andy's arm"
@@ -4566,6 +4575,7 @@
             "title":"To Move or Not to Move..."
         },
         "1512121211212":{
+            "author_name":"BookGuy",
             "choices":[
                 "Andy likes what the bug did and brings it closer to look at",
                 "Andy puts the bug back on his arm, he wants it to climb."
@@ -4588,6 +4598,7 @@
             "title":"Andy likes what the bug did and brings it close..."
         },
         "1512122":{
+            "author_name":"**BookGuy**",
             "choices":[
                 "During the game, the ball heads for the jar",
                 "During the game, someone else sees the jar."
@@ -4866,6 +4877,7 @@
             "title":"Soda is Bad for You..."
         },
         "151221221121211111":{
+            "author_name":"Writerperson",
             "choices":[
                 "Matt melts and Andy drinks him",
                 "Matt is swallowed whole"
@@ -4876,6 +4888,7 @@
             "title":"melting!!"
         },
         "1512212211212111111":{
+            "author_name":"GueastPass",
             "choices":[
                 "You explore his body!",
                 "You exit via.......Back Door"
@@ -4976,6 +4989,7 @@
             "title":"Into Jake's Mouth"
         },
         "15122122112121112111":{
+            "author_name":"Writerperson",
             "choices":[
                 "Matt is digested",
                 "Jake has to throw up"
@@ -6172,7 +6186,7 @@
         "description":"<td align=\"left\" class=\"norm\">Typical high school student Matt, a 17-year-old genius but still a bit of a nerd, invents a shrinking formula and tests it on himself. <br>\r\n<br>\r\nIt works!<br>\r\n<br>\r\nThere's only flaw in his plan. The antidote doesn't work and Matt finds himself trapped at his tiny size.<br>\r\n<br>\r\nDesperate to get help, he tries to make contact with:<br>\r\n<br>\r\nKellie, Matt's 15-year-old sister.<br>\r\nAndy, Matt's best friend.<br>\r\n<br>\r\nThis is more of an adventure story. Feel free to add. In fact, additions are encouraged.<br>\r\n<br>\r\n<br>\r\n</td>",
         "id":933025,
         "image_url":"https://www.Writing.Com/main/images/action/display_cover/id/101121.jpg",
-        "last_full_update":0,
+        "last_full_update":1590802380,
         "modified":1590802380,
         "pretty_title":"Shrinking Matt"
     }

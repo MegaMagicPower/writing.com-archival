@@ -7,7 +7,7 @@
                 "Gibi Asmr ",
                 "Pokimane  (gamer)",
                 "Avagg (gamer)",
-                "Sasha Grey (gamer, ex adult star) ",
+                "LexiPoll (Asmr and Twitch streamer) ",
                 "More "
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which person are you shrunk near? </span></div></span></div>",
@@ -60,13 +60,28 @@
             "id":2831354,
             "title":"Avagg (gamer)"
         },
+        "14":{
+            "author_id":"bloodrayne",
+            "author_name":"Blood",
+            "choices":[
+                "On her desk as she streams ",
+                "By her shoe under the chair while she streams ",
+                "On her sandal ",
+                "On her headset/mic",
+                "More "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where are you? </span></div></span></div>",
+            "created":1593234000,
+            "id":2857431,
+            "title":"LexiPoll (Asmr and Twitch streamer) "
+        },
         "15":{
             "author_id":"bloodrayne",
             "author_name":"Blood",
             "choices":[
-                "Alex Zedra (from Cod MW) ",
+                "Leeanna Vamp (podcast )",
                 "Dakota Kai (wwe Diva and gamer) ",
-                "LeeAnna Vamp ",
+                "Ashley Nocera (Youtuber)",
                 "Amie Lynn ",
                 "More "
             ],
@@ -74,6 +89,21 @@
             "created":1588136400,
             "id":2827281,
             "title":"More  streamers "
+        },
+        "151":{
+            "author_id":"bloodrayne",
+            "author_name":"Blood",
+            "choices":[
+                "On the floor as her tiny guest ",
+                "In her food as she eats on stream ",
+                "Under the couch as she sits and talks ",
+                "Climbing her crocs by the door ",
+                "More "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where are you? </span></div></span></div>",
+            "created":1594098000,
+            "id":2863698,
+            "title":"Leeanna Vamp (podcast )"
         },
         "152":{
             "author_id":"bloodrayne",
@@ -140,8 +170,8 @@
         "description":"<td align=\"left\" class=\"norm\">Get shrunk by your favorite female streamers, gamers and more. Pics will be added. Additions rewarded </td>",
         "id":2220610,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":0,
-        "modified":1591664520,
+        "last_full_update":1594387680,
+        "modified":1594387680,
         "pretty_title":"Shrunk by Streamers,Youtubers and more "
     }
 }

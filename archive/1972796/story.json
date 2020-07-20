@@ -1085,6 +1085,18 @@
             "id":2779950,
             "title":"A living being\u2019s head"
         },
+        "115311212":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "Your girlfriend, Michelle",
+                "Your sister, Jenna"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You decide you want to take a girl\u2019s head; that should interesting. So who do you target?</span></div></span></div>",
+            "created":1593579600,
+            "id":2859763,
+            "title":"Human, female"
+        },
         "115311213":{
             "author_id":"tpds",
             "author_name":"TPDSMCH",
@@ -1097,6 +1109,627 @@
             "id":2852712,
             "title":"Animal, house pet"
         },
+        "1153112132":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "Apollo goes to fetch his dog chain.",
+                "Apollo goes to recruit more cynocephali."
+            ],
+            "content":"<div class=\"\"><div> <span>You locate your Siberian Husky, Apollo, resting in the living room, his grey and white body. Apollo has always been a great companion to you and your family. He has enjoyed walks with you and has been a great friend. Now, you feel you can trust him to become your master.<br>\r\n<br>\r\nYou have your body put the sword to his neck, after placing your head on the sofa to the side of him.<br>\r\n<br>\r\n\u201cAlright, Apollo, ready to become human?\u201d you ask him.<br>\r\n<br>\r\nApollo stirs, and before long, your body, under your command, cuts cleanly through his neck. It then gets hold of his head and places it on its neck stump.<br>\r\n<br>\r\n<i>Let\u2019s see what happens now,</i> you think to yourself as all this is going on. You remember reading that a part not attached to the original body will lose connection. <i>Will he become a good master? Will he not? Will I get the chance to experience life as a dog?</i><br>\r\n<br>\r\nThe last of those questions is answered as Apollo gains control of your body. He grabs your head and then attaches your head to his former body. You gain control of it while he does something.</span></div></div>",
+            "created":1593147600,
+            "id":2856897,
+            "title":"Your dog, Apollo"
+        },
+        "11531121321":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "He is acting human and puts the collar on you, intending to walk you.",
+                "He is acting pretty much like a dog and has put the collar on him somehow."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Apollo puts down the longsword and walks off, coming minutes later with his blue collar and dog chain. You take note of his behaviour during this.</span></div></span></div>",
+            "created":1593234000,
+            "id":2857399,
+            "title":"Apollo goes to fetch his dog chain."
+        },
+        "115311213211":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "He answers in English - he's taking you for a lap round the block.",
+                "He answers in his own bark language - what is he planning?",
+                "He barks at you, but you understand it perfectly.",
+                "He speaks a garbled mess of human sounds. You can't understand English any more!",
+                "On Pavlovian impulse, Apollo bolts out the door as soon as you say \"Walk\"!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Apollo is developing human habits rather quickly. He goes over to you, attaches the collar and prepares to walk you towards the door.<br>\r\n<br>\r\n\"So, you taking me for a walk?\" you ask. Apollo looks at you and gives his reply.</span></div></span></div>",
+            "created":1593320400,
+            "id":2858033,
+            "title":"He is acting human and puts the collar on you, ..."
+        },
+        "115311213213":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "You both understand each other, both speaking English",
+                "You somehow understand each other even though you speak English and he barks",
+                "You can't understand each other, you still speak English and he barks",
+                "You can't understand each other, you're now barking while he talks",
+                "Neither of you can speak, your throats not properly aligning"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You watch as he throws the collar and dog chain into a bin. You wonder why he did that - maybe he thinks you're both human now - and try to question him about it.</span></div></span></div>",
+            "created":1593320400,
+            "id":2858031,
+            "title":"He throws the chain away. He considers both of ..."
+        },
+        "11531121322":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "You",
+                "Apollo"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You figure from Apollo\u2019s behaviour that he does not want to be the only dog-headed human in the world and intends to do something about that. He walks off with the longsword in hand.<br>\r\n<br>\r\nThe story goes to...</span></div></span></div>",
+            "created":1593234000,
+            "id":2857400,
+            "title":"Apollo goes to recruit more cynocephali."
+        },
+        "115311213221":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "After some time, Apollo returns having \u2018humanized\u2019 every pet dog in the street.",
+                "After some time, Apollo comes back with a harem of dog-headed women."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You wonder why Apollo would do this, and hope he will come back. Surely the neighborhood will be full of dog-heads by the time he comes back.</span></div></span></div>",
+            "created":1593234000,
+            "id":2857401,
+            "title":"You"
+        },
+        "115311213225":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "Around town, swapping pet dog's heads with those of their owners",
+                "To a pet store or kennel, to give the dogs there human bodies",
+                "To the dog park, where the other dogs don't know what to make of him",
+                "To your girlfriend's house, who he now feels is his girlfriend",
+                "To your neighbor's house, as he loves her Australian Shepard, Maxi"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So Apollo has wondered off, longsword in hand, leaving you behind. Where does he go?</span></div></span></div>",
+            "created":1593320400,
+            "id":2858028,
+            "title":"Why don't we follow Apollo during his adven..."
+        },
+        "1153112132252":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "Pet store",
+                "Kennel"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where, exactly?</span></div></span></div>",
+            "created":1593666000,
+            "id":2860487,
+            "title":"To a pet store or kennel, to give the dogs ther..."
+        },
+        "1153112132253":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "...a young athletic man and his male greyhound.",
+                "...a young stylish woman and her female chihuahua."
+            ],
+            "content":"<div class=\"\"><div> <span>Apollo walks on his own to the local dog park, where dozens of the town\u2019s dog lovers are out enjoying themselves with their canine friends. The sight of him leads to scenes of confusion. Many of the humans in the park think he is some guy in a dog mask, a few convince themselves he is some interdimensional warrior from a world where dog-headed humans are in charge. The dogs are just as confused by him as their humans.<br>\r\n<br>\r\nThe speculation ends as Apollo goes and, using the longsword, swaps the head of...</span></div></div>",
+            "created":1593493200,
+            "id":2858905,
+            "title":"To the dog park"
+        },
+        "1153112132254":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "...swap her head with her pet dog, a Labrador.",
+                "...give her a head from a dog he decapitated on the street."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The longsword's magic has convinced Apollo that your girlfriend is his girlfriend and he decides to go and see her. After making it to her house, he decides...</span></div></span></div>",
+            "created":1593406800,
+            "id":2858669,
+            "title":"To your girlfriend's house"
+        },
+        "11531121322541":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "Apollo goes back to your house to get you.",
+                "Michelle tried to work out what has happened."
+            ],
+            "content":"<div class=\"\"><div> <span>Apollo sees Michelle relaxing in the garden with her Labrador Retriever Millie resting beside her. Michelle is sitting enjoying the fresh day with Millie beside her bowl. Millie\u2019s coat is a blackish color, and she has a red collar on her neck.<br>\r\n<br>\r\nApollo has had feelings for Millie and he decides she could use a human body. He decides that Michelle\u2019s body would be perfect. While Michelle is not looking, he cuts Millie\u2019s head off with the sword. He then decapitates Michelle and places Millie\u2019s head where her owner\u2019s head was. He then places Michelle\u2019s head where Millie\u2019s head was.<br>\r\n<br>\r\nAnd then the adventure continues.</span></div></div>",
+            "created":1593666000,
+            "id":2860203,
+            "title":"...swap her head with her pet dog, a Labrador."
+        },
+        "115311213225413":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "...he catches up and attempts to convince her to accept the change.",
+                "...he loses her."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Millie panics at her head being placed on a human body, not liking the idea of it, and runs away. Apollo notices this and runs after her. After some time chasing her...</span></div></span></div>",
+            "created":1593925200,
+            "id":2861630,
+            "title":"Millie freaks out, not enjoying the human body ..."
+        },
+        "1153112132254131":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "Millie is persuaded to appreciate being given a human body",
+                "Millie refuses to accept it; she wants to swap back"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Apollo finds Millie huddled in an alleyway, and tries to convince her to accept the human body and its perks. What happens?</span></div></span></div>",
+            "created":1594184400,
+            "id":2864228,
+            "title":"he catches up and attempts to convince her to a..."
+        },
+        "1153112132254132":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "...find a different woman to give a dog's head.",
+                "...take Michelle home to you."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Apollo loses sight of Millie with her human body, and so he decides to...</span></div></span></div>",
+            "created":1594184400,
+            "id":2864227,
+            "title":"he loses her (continue from Apollo's perspe..."
+        },
+        "115311213225414":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "To a restaurant, to try and experience a romantic meal among humans",
+                "To generate more dogs for conversion"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where do Apollo and Millie go with your body and Michelle\u2019s body respectively?</span></div></span></div>",
+            "created":1593838800,
+            "id":2861275,
+            "title":"Apollo takes Millie on a date."
+        },
+        "1153112132254141":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "...a proper three-course human meal.",
+                "...a one-course meal with a nutritional value close to what a dog would eat."
+            ],
+            "content":"<div class=\"\"><div> <span>Apollo and Millie both agree to meet at the local French restaurant and head into the respective homes of you and Michelle, with Millie taking Michelle with her dog body inside. They then dress in the finest clothes they can find, with Apollo putting on your blue jacket, blue and white shirt, navy dress pants and brown dress shoes, and Millie putting on Michelle\u2019s red mini-dress, yellow skirt and high-heel shoes. They meet up outside the restaurant after leaving you both behind. They then find a table and, with no-one knowing that they are newly-formed dog-human hybrid, decide to have...</span></div></div>",
+            "created":1594098000,
+            "id":2863387,
+            "title":"To a restaurant, to try and experience a romant..."
+        },
+        "11531121322541411":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "...go to your house, after picking up Michelle first.",
+                "...find a pack of stray poodles outside - might as well convert some staff."
+            ],
+            "content":"<div class=\"\"><div> <span>The wait staff spot the dog heads on Apollo and Millie\u2019s, thinking they are in dog masks, but they are willing to ignore this as long as they can somehow eat properly while \u2018wearing\u2019 them - and clean up, of course.<br>\r\n<br>\r\nApollo and Millie decide to each have a <i>hors d'oeuvre</i>of prawn and salmon terrine, a main course of Lyon-style chicken with vinegar sauce, and a plate of macaroons for dessert. They pass on wine and chocolate dessert as they do not know if their tolerance to them has changed post-transformation, but they will find out later.<br>\r\n<br>\r\nAfter Apollo and Millie pay the bill, and without letting people figure it out, they leave the restaurant and...</span></div></div>",
+            "created":1594616400,
+            "id":2867661,
+            "title":"...a proper three-course human meal."
+        },
+        "11531121322541415":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "An Italian restaurant",
+                "A fast-food joint",
+                "Nowhere, they just go home and try to cook something themselves",
+                "They try to explain, but it's confused with threatening the staff with a sword",
+                "They stay, proving they're not wearing masks by slicing their dog heads off"
+            ],
+            "content":"<div class=\"\"><div> <span>Apparently, this restaurant has a 'no non-functional masks allowed' policy (barring every kind of mask other than the ones that supposedly prevent the spread of disease), and Apollo and Millie, mistaken for people in dog masks, are made to leave. They must now find somewhere without such a policy. Which do they settle on?</span></div></div>",
+            "created":1594443600,
+            "id":2866360,
+            "title":"...nothing, the wait staff refuse to serve the ..."
+        },
+        "1153112132254142":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "Visit your ex Wendy and give her body to her dog",
+                "Visit Michelle's ex and give his body to his dog"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Apollo and Millie decide to give more dogs human bodies and then hang out with them, but where do they start?</span></div></span></div>",
+            "created":1594098000,
+            "id":2863429,
+            "title":"To gather more dogs for conversion"
+        },
+        "1153112132254143":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "A regular-looking dog who can't talk, but is still very intelligent for a dog",
+                "A regular-looking dog who can talk",
+                "A slightly anthropomorphized dog with mostly canine features",
+                "A heavily anthropomorphized dog with mostly human features",
+                "A dog headed human, what a coincidence"
+            ],
+            "content":"<div class=\"\"><div> <span>There is a CGI comedy film playing at the local movie theater, and Apollo wants to see it with Millie because there is a canine in the lead role. They make their way to the theater and see the poster for the movie in which shows the lead character, who is...</span></div></div>",
+            "created":1594616400,
+            "id":2867856,
+            "title":"To a movie theater, there's an animated com..."
+        },
+        "11531121322541434":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "...an anthropomorphic police dog - it\u2019s a buddy cop comedy.",
+                "...a pet dog turned into an anthro by mystical means, with all the hijinks."
+            ],
+            "content":"<div class=\"\"><div> <span>The movie Apollo wants to see with Millie features a heavily anthropomorphized dog. The character\u2019s head and fur is similar to that of a German Shepherd, and they have a tail, but the body frame is that of a human, they have human arms, and they seem to have human legs complete with human feet. The movie follows...</span></div></div>",
+            "created":1594702800,
+            "id":2868227,
+            "title":"A heavily anthropomorphized dog with mostly hum..."
+        },
+        "115311213225414343":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "...Apollo invites Millie to your home.",
+                "...Millie convinces Apollo to stay in what is now her house for the night."
+            ],
+            "content":"<div class=\"\"><div> <span>The movie Apollo wants to see with Millie is an animated, dog-starring parody of <i>Indiana Jones</i>, titled <i>Indiana Bones</i> (PG, 120 minutes) The title character is an anthropomorphic German Shepherd, living in a world where humans have never existed and dogs are the dominant species, who is seeking to beat a bunch of ruthless treasure hunters in finding golden riches in a location similar to Mexico - a lot like any adventure archeologist in fiction.<br>\r\n<br>\r\nWith no-one knowing they are dog-headed people, and the staff thinking they are people in dog masks, Apollo and Millie buy tickets for the movie and make it into the theatre. After the movie...<br>\r\n<br>\r\n<b>Extra chapter ideas</b>:<br>\r\n...Apollo wants to create a real Indiana Bones.<br>\r\n...Apollo and Millie go back to their separate homes.<br>\r\n...Apollo feels the need to wee - on a fire hydrant.</span></div></div>",
+            "created":1594875600,
+            "id":2869502,
+            "title":"...Indiana Bones, an adventure archeologist."
+        },
+        "1153112132254143433":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "- The female archaeologist & Indy's love interest, Anita",
+                "- The token cat ex-mercenary, Karloff",
+                "- The linguist, an old Border Collie named Roman.",
+                "- The Native, a fiesty Chihuahua named Texcoco",
+                "- Original character do not steal"
+            ],
+            "content":"<div class=\"\"><div> <span>Having instantly become a fan of Indiana Bones, Apollo decides he wants to create a real-life, dog-headed-human version of Indiana Bones. Convincing Millie to help him with this, they locate a stray German Shepherd whose fur color and coat type matches Indiana Bones and decide to use his head as the head of their version. They then locate a loner with Indiana Bones' body type who would be easy to disappear, and remove his head with the longsword after waiting for him to fall .<br>\r\n<br>\r\nOnce the German Shepherd's head is removed from his body and attached to the man's body, Apollo and Millie convince him in some way that he is Indiana Bones, or 'Indy' for short. The newly-created 'Indy' waits about a day while Apollo and Millie gather his attire, buying a fedora, shirt, pants and footwear that match the film Indy's attire. They then get 'Indy' to put the clothes and spend some time admiring their creation.<br>\r\n<br>\r\nApollo and Millie spend some time admiring their creation, before thinking of whatever create versions of the rest of Indy's team. After deciding to do so, they decide to start with...</span></div></div>",
+            "created":1594875600,
+            "id":2869945,
+            "title":"...Apollo wants to create a real Indiana Bones."
+        },
+        "11531121322541434331":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "Indy, Karloff, Roman, Anita and Texcoco leave for Mexico.",
+                "Apollo and Millie want to know if they join them on their adventure.",
+                "The group try to Indy\u2019s team into full anthros.",
+                "The group go to your home for a gathering.",
+                "They go for a walk around."
+            ],
+            "content":"<div class=\"\"><div> <span>Having created their version of Indiana Bones, Apollo and Millie decide they want to create their own versions of the rest of the principal protagonists. Indy agrees, on the basis that he would be lonely without them.<br>\r\n<br>\r\nFirst up is Anita, Indy\u2019s archeologist colleague and love interest. Remembering what they saw in the film, Apollo and Millie track down a second German Shepherd, this one female (this is what Anita is in the film), bring her to the house and remove her head. Indy, meanwhile, goes off and acquires clothes similar to what Anita wears in the film. Using the body of a single woman with few connections as Anita\u2019s body, the three dogs attach the female German Shepherd\u2019s head to the woman\u2019s body and give her the identity of Anita.<br>\r\n<br>\r\nNext up is Karloff, the ex-mercenary cat. Apollo and Millie are used to cats - having quite a few in their neighborhoods - and it is not difficult for them to acquire a stray tabby cat for use with their Karloff. The cat has the same gender and body coat as what Karloff is depicted as. It takes sometime for Indy and Anita to get used to the cat, given the usual antagonism between cats and dogs - but eventually they manage. After all, film Karloff had an uneasy start with the rest of Indy\u2019s team after they first met him. The cat\u2019s head is attached to another single man with few connections, with similar body type to Karloff, and is given his identity complete with film Karloff\u2019s attire.<br>\r\n<br>\r\nThe next one, Roman, the language expert, is a little tricky. Indy\u2019s body is that of a 40-something man, his head is that of a five-year-old German Shepherd, Anita\u2019s body is that of a 30-something woman, her head is that of a four-year-old German Shepherd, Karloff\u2019s body is that of a 20-something man and his head is that of a two-year-old cat, but Roman is supposed to be elderly. This means creating a version of him requires a bit of thinking. Fortunately, Apollo, Millie, Indy, Anita and Karloff are able to acquire the body of a 70-something senior and the head of a 11-year-old Border Collie, which they combine to create Roman.<br>\r\n<br>\r\nThe last of the team to be created is Texcoco, the Chihuahua Maya-Aztec archetype. The team use the head of a two-year-old Chihuahua and the body of a short yet tough Latina/Mestizo woman in her 20\u2019s. The woman happens to have clothes that match what someone like Texcoco would wear.<br>\r\n<br>\r\nFollowing this...</span></div></div>",
+            "created":1594962000,
+            "id":2870292,
+            "title":"- The female archaeologist Anita"
+        },
+        "11531121322541435":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "...is the only one in this world.",
+                "...lives in a world full of them, much like in Cars, Sing or Zootopia."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>By complete coincidence, the protagonist of the movie Apollo wants to see with Millie is a human with a dog\u2019s head. And this dog-headed human...</span></div></span></div>",
+            "created":1594702800,
+            "id":2868218,
+            "title":"A dog headed human, what a coincidence"
+        },
+        "1153112132254144":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "The dogs reveal the beach outfits and go swimming.",
+                "They notice people with dogs in the area, time for some head-swapping."
+            ],
+            "content":"<div class=\"\"><div> <span>The two dogs agree to meet with each other at a dog-friendly beach later that day, as both dogs love being by the sea. Millie walks into the house, takes off the clothes Michelle had been wearing, puts sunscreen all over her new human body and then puts the clothes back on along with her former owner\u2019s blue two-piece bikini underneath. She then grabs two towels, a beach ball and her leash. She puts the towels and ball into Michelle\u2019s car, then leashes her confused form owner and gets her into the car.<br>\r\n<br>\r\nApollo, meanwhile, walks back to your house and does something similar. He takes off his/your clothes, puts sunscreen all over his/your body, then puts the clothes back on over your favorite swimming trunks. He grabs two towels and his dog chain. He puts the towels in the car, leashes you and gets you into the car.<br>\r\n<br>\r\nHalf a hour later, you and Michelle both find themselves at the beach along with Apollo and Millie. Both of you have been there before walking the dogs, but thanks to the longsword, Apollo and Millie are now technically the humans. The two dogs get you both out of the car and chain you both to some chairs. What happens next?</span></div></div>",
+            "created":1594011600,
+            "id":2862303,
+            "title":"To a beach, both dogs love the ocean"
+        },
+        "11531121322541441":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "Very well for a first time",
+                "Swimming is harder than doggie paddling, the dog-heads need a lifeguard rescue.",
+                "Apollo gets swept out to sea, leaving you down a dog and a body.",
+                "They do so well, they decide to rent surf boards.",
+                "Well, and you and Michelle doggie paddle out to join them."
+            ],
+            "content":"<div class=\"\"><div> <span>Apollo and Millie take off the clothes that were over them, revealing Apollo in your swimming trunks and Millie in Michelle's bikini. After they reapply the sunscreen (Millie had brought some with her), you and Michelle watch as they enter the water. They attempt swimming, but how do they do?</span></div></div>",
+            "created":1594357200,
+            "id":2865384,
+            "title":"The dogs reveal the beach outfits and go swimming."
+        },
+        "1153112132255":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "...her young adult master.",
+                "...your real girlfriend."
+            ],
+            "content":"<div class=\"\"><div> <span>Apollo's first priority is turn the neighbor's Australian Shephard, Maxi, into a dog-headed human by cutting her head off and putting it on a human's body. When he was still a full husky, he used to look longingly at Maxi as she walked with her master. This especially occurred when you were walking him. Now is his chance to really make him his girlfriend - or 'bitchfriend', if you like.<br>\r\n<br>\r\nHe is lucky, as Maxi is sitting happily on the neighbor's lawn, her dog chain attached to a pole. After cutting her head off, Apollo decides to attach her head to the body of...</span></div></div>",
+            "created":1593406800,
+            "id":2858668,
+            "title":"To turn Maxi into a cynocephalic"
+        },
+        "11531121322552":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "Michelle tries to communicate with them.",
+                "Your neighbor has followed Apollo, looking for her dog Maxi."
+            ],
+            "content":"<div class=\"\"><div> <span>Along with having desires for Maxi, Apollo has feelings for your real girlfriend Michelle which could be more recent. He gets into your car and drives to her house, taking Maxi with him. Her head sits on his lap in the front seat, while her body, which is currently still under her control, sits on the seat beside him.<br>\r\n<br>\r\nEventually, he reaches the house and sees Michelle resting on her chair outside. With her noticing, he comes over with the sword and cuts her head off.<br>\r\n<br>\r\n\u201cWhoa, what was that?\u201d she can be heard saying as she is decapitated.<br>\r\n<br>\r\nApollo grabs her head and makes his way towards Maxi\u2019s body. He attaches her head to Maxi\u2019s body, allowing her to see what\u2019s going on. Michelle sits there on her new dog body stunned as Apollo grabs Maxi\u2019s head and attaches it to Michelle\u2019s body, which had moved several yards while she had control of it. Now Maxi gains control of Michelle\u2019s body, which Apollo sees as the chance to truly gain a dog-headed girlfriend.</span></div></div>",
+            "created":1593579600,
+            "id":2859490,
+            "title":"...your real girlfriend."
+        },
+        "115311213225521":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "All three can speak English.",
+                "The two dog-headed humans bark while Michelle speaks English."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Michelle wants to know what is going on, and tries asking Apollo and Maxi what they are doing.</span></div></span></div>",
+            "created":1593752400,
+            "id":2860703,
+            "title":"Michelle tries to communicate with them."
+        },
+        "115311213225522":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "...give her body to Michelle's dog Millie.",
+                "...decide that Maxi should take her owner's body."
+            ],
+            "content":"<div class=\"\"><div> <span>\"Maxi, where are you?!\"<br>\r\n<br>\r\nMaxi recognizes the voice. It is her owner. She must have noticed that she was missing. She could have reported it to the police, but here she is looking around on her own. The owner is stunned to see Maxi's body with Michelle's head stuck on, as well as her own pet's head on top of Michelle's body along with Apollo on his human body. Michelle calls to the strange woman to help her with this, and she attempts to pull Michelle's head off to no avail. Apollo moves in and decapitates Maxi's owner, then he and Maxi...</span></div></div>",
+            "created":1594616400,
+            "id":2867909,
+            "title":"Your neighbor has followed Apollo, looking for ..."
+        },
+        "1153112132255222":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "Convert more dogs to dog headed humans",
+                "Hang out on the town"
+            ],
+            "content":"<div class=\"\"><div> <span>Deciding she wants control over her owner\u2019s body, Maxi goes in and brings out Michelle\u2019s black Labrador Millie. Apollo then decapitates Millie and removes Michelle\u2019s head from Maxi\u2019s old body and Maxi\u2019s head from Michelle\u2019s. Following this, Michelle\u2019s head ends up on that of her dog, and Maxi\u2019s owner\u2019s head on hers. With Maxi\u2019s head on her owner\u2019s body, Millie is given Michelle\u2019s body.<br>\r\n<br>\r\nApollo, Maxi and Millie decide to...<br>\r\n<br>\r\n<b>Extra chapter ideas</b><br>\r\n- Walk you, Michelle and Maxi\u2019s owner<br>\r\n- Detach their old bodies\u2019 tails and attach them to their bodies<br>\r\n- Go home - enough is enough for today</span></div></div>",
+            "created":1594789200,
+            "id":2868827,
+            "title":"...decide that Maxi should take her owner's..."
+        },
+        "11531121322552221":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "Kat, the other dog living with your family",
+                "Davis, Maxi\u2019s brother"
+            ],
+            "content":"<div class=\"\"><div> <span>Apollo and Maxi decide to form a dog-headed human pack and convince Millie to help them expand it. Millie decides it would be fun to hang out with lots of different dogs and it would be easier for them to handle things if they had human bodies. Who is the first dog they go after to give them a human body?<br>\r\n<br>\r\n<b>Extra chapter ideas</b>:<br>\r\n- Bonnie, the chihuahua belonging to your ex<br>\r\n- Sancho the pit bull, who lives on your street<br>\r\n- Adam, the German Shepherd next door to Michelle\u2019s</span></div></div>",
+            "created":1594875600,
+            "id":2869507,
+            "title":"Convert more dogs to dog headed humans"
+        },
+        "115311213225522211":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "Apollo, Maxi and Millie go to Davis, Maxi's brother, first.",
+                "Apollo, Maxi and Millie go to your ex Wendy's house",
+                "Apollo, Maxi and Millie go up and down the street creating dog heads.",
+                "Apollo, Maxi and Millie encounter Michelle's sister on the street.",
+                "Follow Kat and her human-headed dog charges - including you."
+            ],
+            "content":"<div class=\"\"><div> <span>Meanwhile, you sit up at home on Apollo's body and watch your sister Jenna come with Apollo's adoptive sister, Kat. A Labrador/husky mix ('Siberian Retriever'), Kat has been as much a companion to Jenna as Apollo has been to you. While Apollo has been walking around with your body and converting two female dogs into dog-humans, Jenna has been out on a long walk with Kat. You often found it amusing that a dog would be called 'Kat', as you consider it one letter away from 'Cat'.<br>\r\n<br>\r\nFor a few minutes, Jenna does not notice you with a mismatched body. It is only when you imitate Apollo's bark that she spots your predicament.<br>\r\n<br>\r\n\"Jesus, John, what's happened to you?\" she asks, shocked by your head on Apollo's body. \"Where's Apollo?\"<br>\r\n<br>\r\n\"He's walked off on his own with my body,\" you say, still able to talk despite having spent several minutes to an hour on a dog body.<br>\r\n<br>\r\n\"What are you talking about?\" she asks.<br>\r\n<br>\r\n\"I found this sword that can detach body parts without harming or killing a living being recently,\" you explain. \"I decapitated myself and Apollo and placed his head on my body. He then decided to attach my head to his body and then he walked off. Wherever he is, he could been swapping humans and dogs as we speak.\"<br>\r\n<br>\r\n\"Really, John? Do you think they'll come for Kat?\"<br>\r\n<br>\r\n\"I'd say so. I think he's already gone for Maxi next door and Millie at Michelle's, and they are likely helping him.\"<br>\r\n<br>\r\n---<br>\r\n<br>\r\nApollo, Maxi and Millie are busy putting Michelle and Maxi's owner into the boot of Michelle's car when they see a dog show up at their feet. It is Michelle's family's other dog, Goldie, a Golden Retriever. Millie reassures her adoptive sister that everything is fine and gets her used to Apollo and Maxi. Before long, the canines are in the passenger cabin, with Millie at the wheel, Apollo in the other front seat and Maxi in the backseat with Goldie - the three dog-headed humans are wearing seatbeats, while Goldie is restrained with a dog belt. The three do not exactly pay heed to the conversation in the boot.<br>\r\n<br>\r\n- Michelle: \"What the hell is Millie doing? I don't want to be a dog forever!\"<br>\r\n- Maxi's owner: \"Calm down, Michelle. Everything will be fine. Except it's not fine now because Maxi is one of those things now.\"<br>\r\n- Michelle: \"So is Millie! What makes her think I'll be fine in the back?\"<br>\r\n- Maxi's owner: \"Just relax. It'll be alright.\"<br>\r\n<br>\r\n---<br>\r\n<br>\r\nBack at your house, Jenna is complimenting what to do with you and your mismatched body.<br>\r\n<br>\r\n\"Do you think I can be removed from this body?\" you ask.<br>\r\n<br>\r\n\"I can try,\" she says. Kat comes in and looks at the ensuing scene. Jenna moves to pull your head off Apollo's body, but try as she might, she cannot remove it.<br>\r\n<br>\r\n\"It's not coming off!\" she cries.<br>\r\n<br>\r\n\"I tried that with my body and it detached fine. Maybe it is only between the head and the original body that happens.\"<br>\r\n<br>\r\n\"Well, I'll try it again.\"<br>\r\n<br>\r\nShe tries again, tugging and tugging, but fails.<br>\r\n<br>\r\nJust as Jenna is about to go for a third try, Apollo on your body, Maxi on her owner's body and Millie on Michelle's body arrive with Maxi's owner on Maxi's body and Michelle on Millie's body. Seeing Jenna tugging at your head, Apollo does a quick swing of the longsword and decapitates her. You try to warn her, but by the time she hears it, it is too late. You can only watch helplessly as the three decapitate Kat and attach her head to Jenna's body. Jenna's head ends up on Kat's body.<br>\r\n<br>\r\nFollowing this, the dog-heads agree that Kat will stay and look after you, Michelle, Jenna, Maxi's owner and Goldie while Apollo, Maxi and Millie go off converting more dogs.</span></div></div>",
+            "created":1595048400,
+            "id":2871180,
+            "title":"Kat, the other dog living with your family"
+        },
+        "1153112132255222115":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "Kat overhears you, and starts speaking English.",
+                "Kat overhears you, and continues barking."
+            ],
+            "content":"<div class=\"\"><div> <span>While her three fellow dog-headed humans are out, Kat lets Goldie loose in the garden and sets about feeding you, Michelle, Jenna and Maxi\u2019s owner. She makes you four sit at the dining table, placing four small bowls in front of you.<br>\r\n<br>\r\n\u201cDidn\u2019t think it would come to this,\u201d you sigh as the four paws of your dog body rest on the chair.<br>\r\n<br>\r\n\u201cWhat, us getting swapped with dogs?\u201d Michelle wonders, \u201cAnd our own dogs for that.\u201d<br>\r\n<br>\r\n\u201cYes, exactly.\u201d<br>\r\n<br>\r\n\u201cSo why did I have to get involved in this?\u201d Jenna asks.<br>\r\n<br>\r\n\u201cThey decided they wanted to give your other dog - as in Kat - a human body and felt that your body would be perfect,\u201d Maxi\u2019s owner says.<br>\r\n<br>\r\n\u201cReally? How could you understand them?\u201d<br>\r\n<br>\r\n\u201cI\u2019m not entirely sure,\u201d Michelle says. \u201cAll I know about Goldie being here is they spotted her and got her into the passenger cabin.\u201d<br>\r\n<br>\r\n\u201cOk, then,\u201d Jenna says.<br>\r\n<br>\r\n\u201cBy the way,\u201d Michelle turns to Maxi\u2019s owner, \u201cI never fully got your name.\u201d<br>\r\n<br>\r\n\u201cFelicia.\u201d<br>\r\n<br>\r\n--- <br>\r\n<br>\r\nIn the kitchen, Kat, apron on over Jenna\u2019s/her clothes, finds the recipe for homemade dog food that you and Jenna have often made for her and Apollo online and decides to feed it to the pair/four of you now that roles have switched. The recipe consists of brown rice, ground poultry, spinach, shredded zucchini, peas and shredded carrot. She boils one and a half cups of the rice in a large saucepan in three cups of water in accordance with the instructions on the packet. After setting it aside, she heats a tablespoon of olive oil in a stockpot over medium heat, then she adds the turkey and cooks it for around 4 minutes, crumbling it as she goes. She stirs in the vegetables and rice and cooks for a similar amount of time, until the spinach has wilted. She then sets it aside to cool.<br>\r\n<br>\r\n---<br>\r\n<br>\r\nOnce the mixture has cooled, Kat pours it out into her old food bowl. Goldie sees it and goes over. She sniffs and then starts happily eating. She gets the feeling that it is better tasting than any she\u2019s had at home.<br>\r\n<br>\r\nKat then goes and starts serving the dog food to you, Jenna, Felicia and Michelle. She spoons the equivalent of a cup into the small bowl in front of you.<br>\r\n<br>\r\n\u201cWhy is she feeding us this?\u201d you ask.<br>\r\n<br>\r\n\u201cMaybe she knows we are dog-human hybrids too and is feeding us the same thing we\u2019ve given her,\u201d Jenna says.<br>\r\n<br>\r\n\u201cBesides, it\u2019s a small meal, I think,\u201d Felicia says.<br>\r\n<br>\r\n\u201cAt least we\u2019ve got vegetables,\u201d Michelle says.<br>\r\n<br>\r\n\u201cDo you think we can get our bodies back?\u201d Jenna asks as Kat moves onto her bowl.<br>\r\n<br>\r\n\u201cMaybe we can,\u201d you say, \u201cwe should be able to outsmart a pack of dogs.\u201d<br>\r\n<br>\r\n---<br>\r\n<br>\r\n<b>Note</b>:<br>\r\n- The dog food reprice is taken from the website damndelicious.net (<a rel=\"nofollow\" href=\"https://damndelicious.net/2015/04/27/diy-homemade-dog-food/\" target=\"_blank\">https://damndelicious.net/2015/04/27/diy...</a>). No theft of any copyright is intended.<br>\r\n- My ideas for choices 3 through 5 are: \u2018Kat ignores you and continues serving.\u2019 - \u2018Kat is sidelined by someone knocking on the door.\u2019 - and \u2018Meanwhile, with Apollo, Maxi and Millie...\u2019</span></div></div>",
+            "created":1595134800,
+            "id":2871478,
+            "title":"Follow Kat and her human-headed dog charges"
+        },
+        "11531121322554":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "...create more cynocephaly-type Orthruses.",
+                "...acquire a third dog head."
+            ],
+            "content":"<div class=\"\"><div> <span>Apollo attaches Maxi\u2019s head to your body, perched beside his head, so that the creature he has become turns into an anthropomorphic kind of Orthrus, a mythological two-headed dog. Or, you could say they had become a Orthrus-cynocephalic hybrid. This one is a mash-up of human, Siberian Husky, and Australian Shepherd. Apollo and Maxi, now sharing control of your body, decide to...</span></div></div>",
+            "created":1593579600,
+            "id":2859489,
+            "title":"Orthrus Cynocephalus"
+        },
+        "115311213225541":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "Cut various dog's heads off and put two dog heads on human bodies.",
+                "Decapitate your neighbor and see if they can duplicate their heads."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How do Maxi and Apollo</span></div></span></div>",
+            "created":1593666000,
+            "id":2860495,
+            "title":"...create more cynocephaly-type Orthruses."
+        },
+        "115311213225542":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "Another husky or another Australian Shepherd",
+                "A German Shepherd"
+            ],
+            "content":"<div class=\"\"><div> <span>Apollo and Maxi decide to go a step further with their heads. Instead of being just a human-bodied, two-breed-headed Orthrus, they will become an anthropomorphic, cynocephalic version of a more famous multi-headed monster often depicted as a dog - the Cerberus, famous in Greek mythology as the guardian of the Underworld. So what is the breed of the first dog to 'donate' a head?</span></div></div>",
+            "created":1593666000,
+            "id":2860498,
+            "title":"Cerberus Cynocephalus"
+        },
+        "1153112132255422":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "...go to create more of them.",
+                "...go back to where you are and walk you."
+            ],
+            "content":"<div class=\"\"><div> <span>Maxi convinces Apollo to let her brother Davis join in the fun of sharing a human body. Fifteen minutes ago, when Maxi was still a true dog, she and Davis were resting in the neighbor\u2019s living room, but then the neighbor wanted to let the two outside. Only Maxi obliged. Davis was content with resting on the sofa in the living room, and his master let him say there. Now, with the master away, the time is ripe.<br>\r\n<br>\r\nIn the living room, Davis rests his eyes. He is trying to have a good nap. He is interrupted when Maxi and Apollo walk in on him. His sister and this husky who has been obsessed by her split control of their human body between them to make the job of getting Davis\u2019 head easier. Maxi uses the body to give Davis an opportunity to smell her head to calm any nerves he has, followed by a reassuring rub. Apollo uses the body to cut Davis\u2019 head off. The two dogs perch Davis\u2019 head on the other side of Apollo\u2019s head. Although uncomfortable at first, Davis eventually gives in and joins them. The trio then...</span></div></div>",
+            "created":1593752400,
+            "id":2861006,
+            "title":"Meet Davis"
+        },
+        "11531121322554221":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "Find Maxi and Davis\u2019 owner and her brother, see if they can copy their own heads",
+                "Go to the kennel and gather all the dogs there."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Apollo, Davis and Maxi decide to create more Cerberus-like cynocephali, but where do they start?</span></div></span></div>",
+            "created":1594184400,
+            "id":2863986,
+            "title":"...go to create more of them."
+        },
+        "115311213225543":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "...go to attach Apollo\u2019s tail to their joint body, taking it from you.",
+                "...decide to create more creatures like them."
+            ],
+            "content":"<div class=\"\"><div> <span>Maxi convinces Apollo in some way to attach her tail to the body they are now sharing (yours). With that, their joint body goes over to where Maxi\u2019s body lies dormant. They cut off her tail and, roughly guessing where it would be if a human had a tail, attach it to the body. By coincidence, the tail attaches just about where the coccyx (human tailbone) is, and about in line. It begins to wag now that it attached. Maxi expresses happiness at having her tail. She and Apollo then dump the tailless, headless body that used to belong to Maxi in a place where it will be hard to find. They then...</span></div></div>",
+            "created":1593666000,
+            "id":2860484,
+            "title":"...attach Maxi's tail to your body."
+        },
+        "1153112132255432":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "The local dog show",
+                "The nearest kennel"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Maxi and Apollo decide to create more human creatures with two dog heads and a dog's tail, but where do they start?</span></div></span></div>",
+            "created":1593838800,
+            "id":2861343,
+            "title":"...decide to create more creatures like them."
+        },
+        "115311213225544":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "Your neighbor",
+                "Your girlfriend"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What female body do they decide on?</span></div></span></div>",
+            "created":1593666000,
+            "id":2860494,
+            "title":"...Maxi wants to share a female body with Apollo"
+        },
+        "115311213225545":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "The two dog heads explain what they have done, speaking in English.",
+                "The two dog heads bark, but you understand what they are 'saying'."
+            ],
+            "content":"<div class=\"\"><div> <span>You, having Apollo's old body, sit in the room he left you in, wondering where he is. You occasionally look out the window to see if you can see him or anyone who has been turned, but you do not see anyone like that. After a few minutes, you hear the door knob turning and look to see who it is. You see him coming into the room - and are surprised with your neighbor's dog's head beside him! While he was out, he cut off the head of Maxi, who he had feelings for, and put it on your body beside him. She must have convinced him that you sharing the body would be fun, so within less than a minute of seeing him and with help of that sword, you find your head back on your body, except you have to share it with two dog heads. Apollo's head is on one side of your head. Maxi's head is on the other side. \"What's going on?\" you think to yourself, and try to talk to the dog heads about it.</span></div></div>",
+            "created":1593666000,
+            "id":2860493,
+            "title":"Cut to you"
+        },
+        "11531121323":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "Apollo walks over and you allow him to take the frisbee.",
+                "You try throwing the frisbee at him from your mouth to see how he\u2019ll catch it."
+            ],
+            "content":"<div class=\"\"><div> <span>Apollo walks off with your body, leaving the longsword behind. After a few minutes, you follow him. When you catch up, you see that he has his favorite frisbee in one hand and the handle of the door to the outside in the other. By the looks of this, he has been waiting for you to show up. Once he sees you, he opens the door and you run outside for a few yards into the backyard, wondering what he is going to do.<br>\r\n<br>\r\nWithin moments, Apollo throws the frisbee at you. You remember from doing exactly that to him that dogs catch things thrown at them in their teeth, and you manage to do so effortlessly.</span></div></div>",
+            "created":1593234000,
+            "id":2857553,
+            "title":"Apollo retrieves his favorite frisbee, he wants..."
+        },
+        "115311214":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "...African section (Buffalos, Wildebeest, Zebras, Giraffes, Warthogs, Gazelles).",
+                "...Elephant house.",
+                "...Big cats section",
+                "... Reptile House",
+                "... Aviary"
+            ],
+            "content":"<div class=\"\"><div> <span>Feeling a little mischievous, you decide to hit the zoo and take a head from one of the animals. You place your head on your neck stump to avoid drawing attention - you can always un-attach it when you get there. After a few minutes, you get into the zoo and make your way towards the...</span></div></div>",
+            "created":1592888400,
+            "id":2855703,
+            "title":"Animal, from the local zoo"
+        },
+        "1153112141":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "...a wildebeest",
+                "...a zebra"
+            ],
+            "content":"<div class=\"\"><div> <span>A few hundred yards into the zoo is its largest habitat, the African plains area. Here, they keep 29 African Buffalo, 20 black wildebeest, five ostriches, six warthogs, nine zebras, 23 giraffes, six sable antelopes, 19 springboks and 20 gazelles. In the case of the gazelles, there is one male and 19 females.<br>\r\n<br>\r\nYou enter the habitat and cut the head off...</span></div></div>",
+            "created":1593406800,
+            "id":2858633,
+            "title":"...African section"
+        },
+        "1153112143":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "...a tiger.",
+                "...a lion."
+            ],
+            "content":"<div class=\"\"><div> <span>You walk into the big cats area, where some of the zoo's carnivore residents are. Since these cats apparently do not like mixing together, they are spaced out into different sections. This also keeps them separate from other animals, which the zookeepers would know could fall prey to them in the wild. You manage to slip into an exhibit and cut the head off...</span></div></div>",
+            "created":1593406800,
+            "id":2858622,
+            "title":"...Big cats section"
+        },
+        "115311215":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "A Gryphon.",
+                "A Unicorn.",
+                "A Dragon.",
+                "A Gorgon.",
+                "A Dullahan."
+            ],
+            "content":"<div class=\"\"><div> <span>Since you found the magic longsword in the woods, you decide to go back and see if you can find a magical creature. You head into the woods and start looking up and down, travelling down every path. After about an hour of searching, a magical creature indeed appears before you.  What is it?</span></div></div>",
+            "created":1594962000,
+            "id":2870644,
+            "title":"You found a magic sword in the woods, why not t..."
+        },
         "11531122":{
             "author_id":"tpds",
             "author_name":"TPDSMCH",
@@ -1108,6 +1741,33 @@
             "created":1592542800,
             "id":2853666,
             "title":"An everyday object"
+        },
+        "115311221":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "Basketball",
+                "Football"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You decide to see what happens when a ball is placed on the neck stump. So what kind of ball do you select?</span></div></span></div>",
+            "created":1593147600,
+            "id":2856931,
+            "title":"Ball"
+        },
+        "1153112211":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "You find you can still control the ball-headed body.",
+                "The ball takes control of the body, becoming its head!",
+                "Your body collapses, under no one's control.",
+                "Your consciousness is transferred to your body.",
+                "It rolls right off. The magic doesn't allow that."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Going to the garage, you take out a basketball that is lying around and, after placing your head on the shelf, attach it to your neck stump. Once the basketball is attached, what happens?</span></div></span></div>",
+            "created":1594443600,
+            "id":2865811,
+            "title":"Basketball"
         },
         "115312":{
             "author_id":"dayaman",
@@ -2895,6 +3555,21 @@
             "id":2853665,
             "title":"Steal an animal head"
         },
+        "123331151":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "German Shepherd",
+                "Golden Retriever",
+                "Chihuahua",
+                "Poodle",
+                "Shiba Inu"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You decide you want to take an dog's head. But which breed do you opt for?</span></div></span></div>",
+            "created":1592888400,
+            "id":2855484,
+            "title":"Dog"
+        },
         "1233312":{
             "choices":[
                 "bring both heads back to your room",
@@ -3241,6 +3916,232 @@
             "created":1592715600,
             "id":2854543,
             "title":"find another head to add to the collection."
+        },
+        "12512232125":{
+            "author_id":"gavalar",
+            "author_name":"Gavalar",
+            "choices":[
+                "Finish your collection by adding your parent's heads",
+                "Organise your head collection into categories ",
+                "Check how the neighbourhood is coping in their new headless state",
+                "Choose a head to wear",
+                "You want more heads"
+            ],
+            "content":"<div class=\"\"><div> <span>As you leave your house, you come up with a rough plan of what you wanted to do. You wanted more heads, and you wanted them now. You decide that your fastest &amp; most convenient option was to use The Longsword on your next door neighbours, the Smiths.<br>\r\n<br>\r\nYou approach and knock on your neighbour's door, to which you were shortly then after greeted by 47 year old Mr Smith. Before he could even respond to your unexpected visit, you swing the Longsword through Mr Smith's neck, separating his head from the rest of his body and immediately freezing time.<br>\r\n<br>\r\nWith time now frozen for the next 5 minutes, you take advantage of the situation to carefully lift Mr Smith's head away from his neck and proceed past his now headless body and into the house. Inside you find Mr Smith's wife who is 45 years old aswell as his two daughters, who are 18 and 20 respectively. You swiftly relieve them all of their heads then leave the house carrying them all before time resumes again.<br>\r\n<br>\r\nAs you walk home, you struggle to carry all 4 of your neighbours heads aswell as the Longsword itself. You decide that next time you will make sure to bring something to help carry them. You make it back to your room and sit your new heads down on your desk next to Emma's. Though you still have some frozen time left, you decide to press the hilt and resume time.<br>\r\n<br>\r\nOnce time resumes, you observe the heads on your desk. They all appear emotionless just like Emma's was earlier. Their eyes gaze at you briefly before looking around the room they now find themselves in. You take their lack of a proper response as a good sign.<br>\r\n<br>\r\nCurious about how the Smiths are coping without their heads, you walk back outside and down the street. You see Mr Smith standing at the front door where you left him, looking a little confused as to why he is there. He waves in your direction as he notices you. As you wave back, you spot Mrs Smith appear behind him, curious as to why her husband is at the door before walking back into the house. As expected, the Smiths are completely unaware that they all had their heads stolen just moments ago.<br>\r\n<br>\r\nPleased at the result of your handiwork, you rush back home to retrieve an old sack that had been laying around the garage. You then head on down the street again to add more heads to your collection. You repeat the same process as you had done with the Smiths, taking the heads of the Kennedy's, the Malcolm's and so on, stopping by your house to drop off some heads once the sack became full or too heavy. By late afternoon, the entire neighbourhood had been deemed headless.<br>\r\n<br>\r\nBack in your room, you look over your new collection of around 50 heads. You had collected a diverse range of heads of different ages, genders and ethnicity. You have certainly outdone yourself. With so many heads you don't know where to begin or how you are going to explain this.</span></div></div>",
+            "created":1593147600,
+            "id":2857203,
+            "title":"Make a sweep of the entire neighbourhood "
+        },
+        "125122321251":{
+            "author_id":"tjmmason",
+            "author_name":"Shrugs",
+            "choices":[
+                "Go back to where you found the sword",
+                "Look at the note for a clue"
+            ],
+            "content":"<div class=\"\"><div> <span>With every head in the neighbourhood in your possession you felt very accomplished, when this day started you were the only person you had ever know who didn\u2019t have a head, or so you thought, but now you were the only person who had any, you looked over the collection, and in turn they all looked back at you with their creepy expressionless faces, you can\u2019t wait to finally try one on for the first time.<br>\r\nWhile you decide you put away the sword and try to think who\u2019s head would be perfect to wear, I was then that you heard a voice coming from within the house, you follow it until you see your mother on the couch FaceTiming one of her fiends, her name was small and she lived just down the street, at least that was what she was wearing when you relieved her and her family of their heads, she was replying to your mother with notes that she would hold up to the camera.<br>\r\nWhen you realised your parents still had their heads your knew that to complete the set, two more Heads were required, You ran upstairs and retrieved the sword before returning to your mother and without her noticing, you slice clean through her neck, wit time frozen you stare at her for a moment before Lightly plucking her head of her Heck and cradling it in your hands, you took much better care of this head than any other, even Emma\u2019s.<br>\r\nYou head back upstairs and place her head on a shelf next to Emma\u2019s and restart time, no sprite to you she acts just like the other heads, you then turn around and go in search of your dad, and luckily for you he is in the kitchen making some ungodly thing in the blender, and the same as your mother, you sliced the sword through his neck and brought his head to your room.<br>\r\nYou dedicated a special shelf just for your family, looking at all of them sitting there, you couldn\u2019t help but think as if something or someone was missing.<br>\r\nYou pondered for a while, You thought about how similar the sword cuts on other people where to your own neck stump, but you had always been headless, even before you found the sword, or where you?<br>\r\nEveryone else whose head was now here in your collection, to them in their altered reality they had never had heads and only you knew about them.<br>\r\nThe more you thought about it the more it made your mind ache, perhaps you had a head originally, but cut it off and can now no longer remember due to reality being re written.<br>\r\nYou want to delve deeper into this theory but how do you do so ? </span></div></div>",
+            "created":1593579600,
+            "id":2859769,
+            "title":"Finish your collection by adding your parent"
+        },
+        "1251223212514":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "Nothing happens",
+                "Your old head reappears as part of your head collection"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What happens when you press the button on the hilt?</span></div></span></div>",
+            "created":1593752400,
+            "id":2860665,
+            "title":"Press the button on the hilt"
+        },
+        "12512232125142":{
+            "author_id":"gavalar",
+            "author_name":"Gavalar",
+            "choices":[
+                "Put your head back on",
+                "Press the button on the hilt again",
+                "Put on a different head",
+                "Forget those memories! Make new ones!",
+                "Use the Longsword on yourself again"
+            ],
+            "content":"<div class=\"\"><div> <span>Eager to find answers to support your theory, you press the button on the hilt. Since time currently isn't frozen you hope that pressing the hilt again will trigger another function.<br>\r\n<br>\r\nAfter waiting around 30 seconds, you don't notice any differences in yourself or your surroundings. Perhaps your theory was wrong and you really were born headless, unlike everyone who's heads you'd stolen. Disappointed, you turn around to face the shelf displaying the heads of your family members, only to discover something unexpected.<br>\r\n<br>\r\nTo the left of your sister's head sat a head that you didn't recognise, yet felt oddly familiar. It was male, probably around late teens or early twenties with short brown hair and green eyes. You don't recall taking this head from someone else, and the more you stare at the row next to it the more you begin to notice a resemblance to the rest of your family, especially your father.<br>\r\n<br>\r\n<i>\"Is that my head?\"</i> You think to yourself. You still don't recall ever having a head, yet the evidence appeared to be staring right back at you with an expressionless face.<br>\r\n<br>\r\nMaybe your theory was correct after all. It now seemed plausible that you had previously discovered The Longsword, used it to chop your own head off, lost all of your memories of having a head then made it reappear after pressing the button on the hilt again.<br>\r\n<br>\r\n<i>\"That is my head!\"</i> You scream internally. The excitement and relief of knowing that you always had head like everyone else flooding your mind. You are pleasantly surprised at how your head looks. During your time being headless, you hadn't put much thought into what your head would look like.<br>\r\n<br>\r\nYou find yourself wondering why the memories of your head hadn't returned along with it. It was only through deduction that you managed to identify your head in the first place.<br>\r\n<br>\r\nYou wonder if there is a way to unlock those memories.</span></div></div>",
+            "created":1594011600,
+            "id":2862307,
+            "title":"Your old head reappears as part of your head co..."
+        },
+        "125122321251422":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "Your memories return",
+                "The head collection disappears - a must unexpected happening"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What happens when you press the button again?</span></div></span></div>",
+            "created":1594011600,
+            "id":2862455,
+            "title":"Press the button on the hilt again"
+        },
+        "12512232125143":{
+            "author_id":"gavalar",
+            "author_name":"Gavalar",
+            "choices":[
+                "Chop your head off again",
+                "Try attaching another head next to your own",
+                "Play with your head collection",
+                "Present one of the heads to a headless family member",
+                "Try selling some of the heads"
+            ],
+            "content":"<div class=\"\"><div> <span>Eager to find answers to support your theory, you press the button on the hilt. Since time currently isn't frozen you hope that pressing the hilt again will trigger another function.<br>\r\n<br>\r\nYour mind becomes hazy for around 30 seconds before you come to again.<br>\r\n<br>\r\n<i>\"Did I just black out?\"</i> You wonder. You gasp in surprise at hearing your thoughts out loud. Where did they come from? And how did you just make that gasping noise?<br>\r\n<br>\r\nYou notice that your neck feels a little heavier than before, and your sight seems a little different. You reach your hand up to your neck, expecting to feel your flat stump, only to be met with something else protruding from your neck! Reaching further, it feels fleshy just like your neck, it feels rounder and it has hair in places.<br>\r\n<br>\r\nSuddenly a lightbulb goes off in your mind and everything makes sense. You rush to the bathroom and look in the mirror. You see a familiar face staring back at you. You let out a satisfied smile.<br>\r\n<br>\r\n<i>\"That's right. I do have a head. I've always had one!\" </i>You tell the face in the mirror.<br>\r\n<br>\r\nYou remember everything now. The Longsword, chopping your head off, subsequently chosing to lose your memories. It was exciting to finally know the truth. You rub your cheek as you take in the sensation of having a head once again. It hadn't been long since you lost it, but it felt like a lifetime.<br>\r\n<br>\r\nWalking back through to your room, you look over your vast collection of heads and grin. <br>\r\n<br>\r\n\"This is incredible!\"</span></div></div>",
+            "created":1594011600,
+            "id":2862312,
+            "title":"Your head is returned to your shoulders, along ..."
+        },
+        "125122321251431":{
+            "choices":[
+                "You remembered your headful days, but remained your body",
+                "You were now your head and your body has its own mind!",
+                "You went back to how you were, confused by the head on the ground",
+                "You were your body, but now all the heads were awake (including yours)",
+                "You were your head and all the others heads are awake now too"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Having taken so many heads you were now something of a decap pro. You swung the sword through the neck of what seemed to be your brand new head.<br>\r\nYour head fell to the ground, rolling across the floor.<br>\r\n<br>\r\nThis time...</span></div></span></div>",
+            "created":1594357200,
+            "id":2865547,
+            "title":"Chop your head off again"
+        },
+        "1251223212514311":{
+            "author_id":"gavalar",
+            "author_name":"Gavalar",
+            "choices":[
+                "Carry your head around in public like a Dullahan",
+                "Present your collection to your headless family & let them select a head",
+                "Try on a new head",
+                "Try on multiple heads at once",
+                "Call your girlfriend, Michelle and get her involved"
+            ],
+            "content":"<div class=\"\"><div> <span>You stand in place feeling slightly dazed for around a minute as your senses readjust to your headless state again. When you finally come to your senses, you look down to find your severed head laying at your feet. Glancing to the side a bit, you notice that your right hand is still clutching The Longsword.<br>\r\n<br>\r\n\"Oh, that's right! I just chopped my head off again, didn't I?\" You remind yourself as you subconsciously choose to keep your memories this time. <br>\r\n<br>\r\nYou bend down &amp; scoop your head off the floor, mentally noting how weird it feels to hold your own head in your hands as it stares blankly back at you. You had held many heads in those hands over the course of the day, but something about holding your own made it feel odd (or rather More odd than holding a living severed head already was). You were holding a piece of yourself that was no longer under your control. It was then that you were reminded of how light your neck feels without a head resting on it; something that never occurred to you the first time you lost it.<br>\r\n<br>\r\nAs you broke out from your mesmerized headless gaze, you turn back to the shelf to rest your head next to your sister's where you found it. You stand proudly as you admire the now complete set of your families heads, including your own. However your admiring gaze would soon be interrupted by the distracting racket of dozens of heads all breathing, yawning, coughing &amp; even sneezing.<br>\r\n<br>\r\nYou turn to face the rest of your head collection. You were still pleased with the work you had put in to gain so many, but now you were left wondering \"What the hell am I going to do with all of these?\" <br>\r\nTo have so many in such a small space like your bedroom seemed impractical. Besides, what would people think if they saw your collection, especially those that you had stolen from? <br>\r\n<br>\r\nIt was an issue you would need to address at some point, but for now you wanted to enjoy yourself.</span></div></div>",
+            "created":1594443600,
+            "id":2866156,
+            "title":"You remembered your headful days, but remained ..."
+        },
+        "1251223212514314":{
+            "author_id":"theheadsman",
+            "author_name":"The Headsman",
+            "choices":[
+                "add your head to the collection",
+                "go check up on your family's bodies"
+            ],
+            "content":"<div class=\"\"><div> <span>You stand in place feeling slightly dazed for around a minute as your senses readjust to your headless state again. When you finally come to your senses, you look down to find your severed head laying at your feet. Glancing to the side a bit, you notice that your right hand is still clutching The Longsword.<br>\r\n<br>\r\n\"Oh, that's right! I just chopped my head off again, didn't I?\" You remind yourself as you subconsciously choose to keep your memories this time.<br>\r\n<br>\r\nYou reach down to grab your head but are interupted by \"Woah, looks like someone fell off\". You quickly dart back up to see your entire collection of heads was no longer dormant. Everyone you had taken was open eyed and looking around, many looked oddly content.<br>\r\n\"Well, are you going to grab him? He is your head\" your sister said from her spot on the shelf. You looked back down to see your own head looking at you with a \"I haven't got all day\" look. You promptly grab your head. <br>\r\n<br>\r\nNot sure what to do, you give your collection a \"be right back\" gesture and take your head somewhere private. You type on your phone to ask a question, \"What's going on here?\" You ask, despite likely being the person who knows the most.<br>\r\n<br>\r\n\"I don't know. Somehow when we last beheaded ourself heads are no longer dormant\" your head guessed.<br>\r\n<br>\r\n\"Wait, we?\"<br>\r\n<br>\r\n\"Well I don't know, maybe it was you maybe it was me. Whoever turned us from one to two\"<br>\r\n<br>\r\n\"So you can remember?\" You ask, realizing that would make sense if you did.<br>\r\n<br>\r\n\"Yeah, I even remember when I was a headless body collecting all those heads. Then I cut my head off and suddenly I'm the head\"<br>\r\n<br>\r\n\"Woah, I remember all that too\" as you deduce your head and body split off of the same consciousness<br>\r\n<br>\r\n\"So what now, body?\" Your bodiless head asks you.<br>\r\n<br>\r\n\"I'm not sure, do you think they remember?\"<br>\r\n<br>\r\n\"I doubt it, pretty sure they'd all be freaking out if they did\"<br>\r\n<br>\r\nYou simply nod your headless neck and then carry your head back in the room.<br>\r\n<br>\r\n\"There's my boys\" your bodiless mother remarks.<br>\r\n<br>\r\nYou wave to her. <br>\r\n<br>\r\n\"Did you happen to see my body when you were out there? I was just wondering what it was up to\" she asked.<br>\r\n<br>\r\nYou shake your neck.<br>\r\n<br>\r\n\"Ah, oh well. I know not everyone was born headless but it was so nice of you to offer to take care of all of us\" she said, confirmed that reality was still altered.<br>\r\n<br>\r\nYou shurg as a thank you. You then...</span></div></div>",
+            "created":1594530000,
+            "id":2867190,
+            "title":"You were your body, but now all the heads were ..."
+        },
+        "12512232125143143":{
+            "author_id":"quad2",
+            "author_name":"Joe",
+            "choices":[
+                "Play with these heads",
+                "Contact their bodies, see if any want their heads back",
+                "Attach one of the heads ",
+                "Have a movie night with all of your heads",
+                "Take some heads with you on a field trip"
+            ],
+            "content":"<div class=\"\"><div> <span>You typed on the phone to ask what happened with all the heads responding at the same time. It was overwhelming to the point where they had to vote on who can speak to you. It was decided that your girlfriend's head get to speak up. You were surprised on how her head gets into the mix but then again you were cutting off heads left to right.<br>\r\n<br>\r\n\"It's been a while but there was a disease that would had spread unless our heads were popped off. Luckily, you came in and cut off our heads just in time. We don't mind being like this as long as you took care of us. Though it is sad that you suffer the same disease like us. Now no one here has their heads on,\" Michelle's head said.<br>\r\n<br>\r\nYou were surprised that this was the story these heads remembered. You decided to roll with it as you placed your head back in the collection. Curious to know more, you continued to listen to what Michelle explanation on the matter.<br>\r\n<br>\r\n\"Our bodies from what you told us are just continuing life as always minus us. Most of us were relieved that things are normal for the most part. Though we're still here and there's no news on the disease yet. We just made due as heads,\" Michelle's head said. \"In fact, we kind of gotten used to it. Must be nauseating in losing your head just now.\"<br>\r\n<br>\r\nYou were on the clear over the fact that these heads do not notice the truth on the matter. You decided to play along and act as if you just lost your head and confused on the matter.<br>\r\n<br>\r\n\"No matter, you'll take care of us as usual even without your head,\" Michelle's head said.<br>\r\n<br>\r\n\"I'm right here,\" your head said.<br>\r\n<br>\r\n\"I know silly! You're on break,\" Michelle's head said.<br>\r\n<br>\r\nAll the heads went back to what they were doing which for the most part is just chatting about random stuff. Suddenly, seeing this triggered some memories about this reality. Mostly on preferences for these heads or how to take care of these heads. It was odd but you decided to roll with it. And so, you decided to...</span></div></div>",
+            "created":1594962000,
+            "id":2870536,
+            "title":"ask your collection questions, learn about the ..."
+        },
+        "125122321251431434":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "...a comedy film.",
+                "...a romantic film.",
+                "...a superhero film.",
+                "...a Western film.",
+                "...a crime film."
+            ],
+            "content":"<div class=\"\"><div> <span>\"HEY, HEADS, WANT TO WATCH A MOVIE?\"<br>\r\n<br>\r\nThis is what you wrote on your phone and flashed in front of your head collection. You wanted to know if they had any interest in the idea.<br>\r\n<br>\r\n\"What is the body doing?\" Michelle's head asked.<br>\r\n<br>\r\n\"He's wondering if he should give us a movie night,\" another head said.<br>\r\n<br>\r\n\"Ok, if that's what he's planning, let's go with it.\"<br>\r\n<br>\r\nAnd all the other heads similarly agreed. You gathered all the heads in the living room, facing the television with the DVD player. You brought in wood blocks of different sizes, arranging them to ensure every head had a view. You had quite a few DVD movies in another non-head collection, and you decided to let your head select the movie. He went for...</span></div></div>",
+            "created":1595134800,
+            "id":2871649,
+            "title":"Have a movie night with all of your heads"
+        },
+        "125122321255":{
+            "author_id":"tjmmason",
+            "author_name":"Shrugs",
+            "choices":[
+                "The mall",
+                "A sleazy motel"
+            ],
+            "content":"<div class=\"\"><div> <span>You have become drunk with the power the sword has given you, as you gaze upon the immense collection of severed heads that fill the room, one thing spiralled in your brain.<br>\r\n<br>\r\n\u2018There\u2019s not enough, You need more\u2019<br>\r\n<br>\r\nDissatisfied with your collection so far, and determined to add more to it you retrieve the old sack from before and in addition, a duffel bag From the trunk of your dads car and the most important of all, the sword.<br>\r\nYou make your way outside, passing your parents who were sitting on the couch watching television, your father calls you.<br>\r\n<br>\r\n\u201cJohn, wherever you\u2019re going, don\u2019t stay out too late\u201d<br>\r\n<br>\r\nYou look back at him and give a thumbs up, you stare at both of their heads as you do so, you clench your fist slightly whilst turning around and walking out the door.<br>\r\n<br>\r\n\u2018No, they\u2019re your parents, you can\u2019t take their heads\u2019 you thought as you leave.<br>\r\n<br>\r\nYou pick up your bike and start to ride away, looking around at the now headless members of the community, you felt pleased with what you had done, for the first 5 minutes you could not see a single head on anyone\u2019s neck, until you came upon a small group of 3 female joggers, one of which still had her head, you must have missed her on your original sweep, or she wasn\u2019t from the area, either way she wouldn\u2019t have that head for long.<br>\r\nAs you rode up along side them you whip out the sword and slice it through her neck, you slow down and get off your bike before walking over to the now frozen joggers, you reach for the ones head and lift it off her neck and look over it, she was black with short slightly curly dark hair in a ponytail, with an elegant face and very inviting lips, afterward you place her head in the sack and walk back over to the bike before pressing the button on the sword and starting time once more.<br>\r\nThe joggers carry on without a slightest care that one of them no longer has their noggin, you look in the sack and The head just stares blankly at you like the others, you get back on your bike and carry on with your journey.<br>\r\nWhile on your ride you pass several people who still had their heads, had is the important word there, they do not have those heads anymore, when you spotted one it was promptly sliced off and placed in the bag, you had acquired 9 new heads before reaching the edge of the neighbourhood and arriving at ...</span></div></div>",
+            "created":1593493200,
+            "id":2859452,
+            "title":"You want more heads"
+        },
+        "1251223212551":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "The food court, first order of business!",
+                "A clothes shop, mannequins ahoy!",
+                "The plaza, where a marble statue of a woman awaits you blade!",
+                "An art supply shop, where you can turn a few heads!",
+                "A women's yoga studio, should fit the bill!"
+            ],
+            "content":"<div class=\"\"><div> <span>You arrive at the local mall, ready to take shopper's heads. Heck, you could even steal the heads of any mannequins there were if you want to. You make a good observation and see hundreds of heads on people; which look ripe for the taking. Starting from ____________________, you start stealing everyone's heads for the collection; and the best part of this is, they will never know!</span></div></div>",
+            "created":1594011600,
+            "id":2862759,
+            "title":"The mall"
+        },
+        "12512232125511":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "...proceed to the nearest shop.",
+                "...head for the next most popular part of the mall."
+            ],
+            "content":"<div class=\"\"><div> <span>You enter the food court, where dozens of shoppers are eating. You creep up behind behind a patron eating some kind of chicken dish and remove their head, instantly freezing time. You then make your way around the food court, taking all of those dozens of shoppers\u2019 heads. You even steal the heads of the workers in the food stalls.<br>\r\n<br>\r\nNow that the sack is heavy with all the heads, you dump it in a place where nobody (pun intended) will find it. You take a bag of Maris Piper potatoes from one of the stalls, empty it and leave into the side of the food court just as time resumes.<br>\r\n<br>\r\nYou watch as all the headless shoppers and staff members get up and start leaving the food court. Without heads they have no reason to be there. Without memories of having heads, they have no memory of even being there. Pleased with what you have done, you...</span></div></div>",
+            "created":1594184400,
+            "id":2863922,
+            "title":"The food court, first order of business!"
+        },
+        "12512232125512":{
+            "author_id":"tjmmason",
+            "author_name":"Shrugs",
+            "choices":[
+                "Your best female friend ",
+                "Your hot female teacher "
+            ],
+            "content":"<div class=\"\"><div> <span>As you walked through the crowd you took not of each and every head that passed you by, and occasionally glanced at their bodies, there was too many and you liked that fact, but you couldn\u2019t just go willy nilly with the sword, no, you had to be organised, so you headed inside the next store you saw, a clothes shop.<br>\r\nThere was a good selection of people within, all of them distracted by the clothes, this was going to be easy, in mere moments you could relieve each and every one of them of their head, but finding the right one to start is always the hard part, with so much variety you sit down for a moment to help decide, it was then that you spotted a mannequin, it was standing in the lingerie department wearing quite the sexy number, you walked over to it and realised it was part of a small display with two other mannequins although these ones didn\u2019t have their heads, you glanced around the store and took in all the mannequins before pulling out the sword and decapitating the mannequin.<br>\r\nWith all if time now frozen you lift the mannequins head of its neck before doing the same with the remainder that littered the store, this didn\u2019t take you long and soon you had a sack full of mannequin heads, but before you restarted time and began removing actual peoples heads you walk over to the first mannequin you beheaded and ran you hand over it, bringing your fingers up to its neck stump and feeling it all over and finally reading in and rubbing your stumps together in an attempt to kiss it.<br>\r\nYou then restarted time and walked over to the first person you saw, she was in the lingerie department and holding up some bras to her chest, you tap her on the shoulder and swing at her neck when she sees you, you started enjoying the faces people make just before they lose their head forever, you don\u2019t think you would ever wear any of the female heads but they add more variety to the collection.<br>\r\nWith Everyone relieved of their noggins and not long left on the timer you run to the dressing rooms and Begin removing their heads too, you admit seeing several women without their heads and wearing very little clothes was definitely a benefit, and with seconds left you reach the second to last room, when you open the door you see ...</span></div></div>",
+            "created":1594616400,
+            "id":2868068,
+            "title":"A clothes shop, mannequins ahoy!"
+        },
+        "1251223212552":{
+            "author_id":"tjmmason",
+            "author_name":"Shrugs",
+            "choices":[
+                "Crystal",
+                "Ruby"
+            ],
+            "content":"<div class=\"\"><div> <span>When you reach the edge of the neighbourhood and enter into the more run down part of town the first thing you come across is the sleazy \u2018Luxury Leisure Motel\u2019, there was nothing luxury about it, it wasn\u2019t very appealing, loud arguments are constantly occurring and on almost every time you have ever walked past there are always hookers loitering around, and on several occasions they have offered you services.<br>\r\nToday was no different, as when you rode past, there were 2 very obvious hookers on the curb in front of the motel, one of them called out to you.<br>\r\n<br>\r\n\u201cHey headless boy, you want anything?\u201d She spoke in an alluring manner<br>\r\n<br>\r\nYou ignored the words for the moment, for you knew that in a few moments neither of them would have their heads any more, you rode up to a street lamp and chained your bike to it before walking in the direction of the 2 women.<br>\r\n<br>\r\n\u201cSee, I knew he was interested\u201d one of the said to the other whilst gesturing toward you<br>\r\n<br>\r\nAs you approach the women you reach for the sword but before you could reach it you stop yourself.<br>\r\n<br>\r\n\u2018No\u2019 you thought \u2018that would be too simple\u2019<br>\r\n<br>\r\nYou lower your hand and continue, you wanted to play a little game with these two, one of the women was black, she was very sexy in your opinion, she had a rather large chest for her slim build, she had short but straight black hair with some pink highlights and a beautiful face that had maybe a little too much makeup on it, she wore a short red dress that ended high on her thighs with black stockings that ended just below, and a purple leather coat with a white frilly collar.<br>\r\nThe other girl was white, she was rather bland looking in your opinion, she was very skinny and didn\u2019t look that healthy, she had messy long  blond hair with not the most appealing face, and similarly to her friend, way too much makeup, she had a short zebra print dress and black sleeveless denim jacket.<br>\r\nYou definitely knew which of the two you preferred.<br>\r\n<br>\r\n\u201cHey mr headless\u201d the black woman spoke in her alluring tone \u201cwe don\u2019t see many people around here who don\u2019t got heads, you guys usually stay around in that other neighbourhood, what\u2019s the matter? You get bored of those headless gals? You looking to be with a woman that\u2019s got a good head on her shoulders? the names Crystal\u201d she reaches for her neck and rubs it as she says this.<br>\r\n<br>\r\n\u201cYeah, I got a head too, if that\u2019s what your interested in, I\u2019m ruby by the way\u201d the other replies, but rather jittery as she does so<br>\r\n<br>\r\nYou reach for your phone and begin to type something<br>\r\n<br>\r\n\u201cYeah I\u2019m interested in a good time\u201d<br>\r\n<br>\r\nYou show this too ...<br>\r\n</span></div></div>",
+            "created":1593579600,
+            "id":2859493,
+            "title":"A sleazy motel"
+        },
+        "1251223212555":{
+            "author_id":"tjmmason",
+            "author_name":"Shrugs",
+            "choices":[
+                "A stripper",
+                "A woman behind the bar"
+            ],
+            "content":"<div class=\"\"><div> <span>On the edge of the neighbourhood, nestled between two building was your target, \u2018the booty trap\u2019, the only quote on quote \u201cgentlemen\u2019s club\u201d in town, although you and your friends always used to just refer to it as \u2018the Strip club\u2019.<br>\r\nYou and your friends would alway come over here at night, you always hoped to catch a glimpse at something, probably a nude woman, but surprisingly there was never anything going on outside the club, even now that a few of you have got fake IDs you still never went in, none of you were ever brave enough, until tonight.<br>\r\nYou rode your bike around the corner and locked it up on a street lamp, you then stashed the duffel bag and sack behind a dumpster, you opened them to double check all the heads where still there, and Luckily they all appeared to be, satisfied with your hiding spot you made your way towards the club.<br>\r\nNot many people where around but the ones that where always glanced in your direction, your guess should be they are staring at your headlessness, but with you having rewrites reality you weren\u2019t the only one without a head, so maybe these people knew some of the now headless members of your community, nonetheless you payed them very little mind, until that is you reached the clubs entrance, the bouncer looks you over before asking you <br>\r\n<br>\r\n\u201cYou got any ID?\u201d In a gruff voice<br>\r\n<br>\r\nYou then hold up a finger and pull out your fake drivers license, there on the front is your neck stump for him to see, you pass it to him trying to hide your nervousness, he looks back and forth between the license and you for several moments before saying <br>\r\n<br>\r\n\u201cHow do I know this is you? This could be any headless guy, all your necks look the same to me\u201d <br>\r\n<br>\r\n\u201cHey woah man\u201d a nearby man butts in \u201cyou can\u2019t say something like than, you can\u2019t just say that they \u2018all look alike\u2019, that\u2019s offensive man\u201d he turns you you and says \u201ccan you believe this guy, saying that all headless people look alike\u201d you where about type out how much you agreed with him before he turned back to the bouncer and grabbed your fake ID and looks at it, \u201clook this is clearly him man, just let him in\u201d he starts to aggressively glare at the bouncer while handing back your fake ID.<br>\r\n<br>\r\n\u201cYeah sure, he can come in\u201d the bouncer retorts after several seconds.<br>\r\n<br>\r\nYou glance back to the friendly guy and typed out.<br>\r\n<br>\r\n\u201cThanks dude\u201d<br>\r\n<br>\r\nHe read this and replied <br>\r\n<br>\r\n\u201cNo problem\u201d and winked before walking away.<br>\r\n<br>\r\nAfter all these years you were finally going to know what it is like in there, you were not disappointed, it lived up to all the anticipation, there were 5 poles littered around, each with a very attractive woman dancing on it, a large bar with yet a few more women, and several booths littered the walls with even more women giving lapdances to patrons, there were even a few walking around, all were scantily clad, this was heaven.<br>\r\nYou were so entranced in the sight before you you briefly forgot why you were here, you wanted more heads, no you needed more, and the people in this establishment had some very nice ones, both strippers and patrons, you walked around before settling on who's you would take first ...</span></div></div>",
+            "created":1593579600,
+            "id":2859665,
+            "title":"A strip club"
         },
         "1251223213":{
             "author_id":"tjmmason",
@@ -4180,6 +5081,31 @@
             "id":2853635,
             "title":"that she knows someone who'd love it as a gift"
         },
+        "135154":{
+            "choices":[
+                "She sets you on her shelf",
+                "She brings your down for dinner",
+                "She's goes to a sleepover, and brings you along",
+                "Brings you to her theater practice, she plans to use you as a prop",
+                "Gives your body your head, and takes the longsword for her own enjoyment"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Cuter?\" you stop dribbling your head, just holding it.<br>\r\n<br>\r\n\"Yeah, both pieces\" she giggles. \"I'd be happy to hold onto your head, and girls would go wild over a strapping headless man\"<br>\r\n<br>\r\n\"What's your idea\" you ask, knowing she's got something up her sleeve.<br>\r\n<br>\r\n\"Just for the week, let's try it. I carry your head around and we can see how your body does with the ladies\"<br>\r\n<br>\r\n\"For a week?\" you ask<br>\r\n<br>\r\n\"If you like it, it can go longer\"<br>\r\n<br>\r\n\"Am I going to be bouncy the whole time?\" you dribble yourself again a bit.<br>\r\n<br>\r\nShe holds up her finger with an \"I've got an idea\" before she walks up, grabs your head, plops you on your neck and then pulls you back off.<br>\r\n<br>\r\n\"Woah, I can't feel my body anymore\" you say. She then drops you on the ground. Rather than bouncing you roll. <br>\r\n<br>\r\n\"Perfect\" she says.<br>\r\n<br>\r\n\"Perfect, what's my body supposed to do if its not being controlled?\"<br>\r\n<br>\r\nShe turns you around and says \"That\". You see your headless body roaming your room on its own. \"How 'bout it?\" she asks.<br>\r\n<br>\r\n\"Fine. One week\"<br>\r\n<br>\r\nShe giggled and then...</span></div></div>",
+            "created":1594357200,
+            "id":2865568,
+            "title":"she thinks you look cuter without a head"
+        },
+        "1351542":{
+            "author_id":"theheadsman",
+            "author_name":"Bodiless",
+            "choices":[
+                "your body comes down to greet everyone",
+                "your sister decides she wants to use the sword too"
+            ],
+            "content":"<div class=\"\"><div> <span>Your sister carries you down the stairs after hearing your mom call dinner.<br>\r\n\"Oh lord!\" your mother shouts as your sister and you come into view. She starts freaking out. Just about to scream your sister calms her down. <br>\r\n\"Wait, wait, its okay\" she tells her. <br>\r\n<br>\r\n\"Yeah, I'm fine\" you chime in to help her case.<br>\r\n<br>\r\nYour mother wipes off her forehead, \"You scared me half to death, I thought you decapitated your brother\"<br>\r\n<br>\r\n\"Well, I didn't. He did that himself\" she says with a suspicious amount of excitement. <br>\r\n<br>\r\n\"You what?\" your mother turns to you in disbelief. <br>\r\n<br>\r\n\"I found a magic sword, cut my head off and am totally okay\" you don't feel like explaining all the detail.<br>\r\n<br>\r\n\"Okay? You have no body!\" she raises her voice.<br>\r\n<br>\r\n\"Actually he does\" your sister comes to your aid, \"it's just upstairs\"<br>\r\n<br>\r\n\"Upstairs?\" your mother asks despite just hearing it.<br>\r\n<br>\r\n\"Yeah, his body has its own mind, its super cool. Anyways I told him he looked good headless and I would watch after his head while maybe his body finds a girlfriend\"<br>\r\n<br>\r\nYour mom had the most confused look on her face. \"I'm not going to even try to understand. So I'm going to be seeing a headless body around here too?\"<br>\r\n<br>\r\n\"Yep\" your sister replies. \"Who knows, maybe more. That sword does seem to have an allure\"<br>\r\n<br>\r\nYour mom simply shook her head as she sat down at the table. Your sister brought you over and sat down. She placed you down in your spot, standing on your neck.<br>\r\nYour dad joins and a similar conversation to with your mom ensues.<br>\r\n<br>\r\nYour sister takes her role seriously as she helps feed you. Dinner goes by about as normally as it can given the current condition.<br>\r\n<br>\r\nAs dinner is wrapping up...</span></div></div>",
+            "created":1594875600,
+            "id":2869952,
+            "title":"She brings your down for dinner"
+        },
         "1352":{
             "author_id":"playerone",
             "author_name":"PlayerOne",
@@ -4566,6 +5492,18 @@
             "id":2854101,
             "title":"doesn't tell you, because she's terrified"
         },
+        "14211531":{
+            "author_id":"theheadsman",
+            "author_name":"The Headsman",
+            "choices":[
+                "let's trade heads",
+                "let's try putting then back on"
+            ],
+            "content":"<div class=\"\"><div> <span>Miss Dodds peered in the box.<br>\r\n\"This must be his head. I wonder how it got in here\" she thought to her headless self upon seeing your head, but it wasn't alone. There was another head, this one female and weirdly familiar. She stared at it long and hard. Then suddenly it clicked. \"Wait, is this mine?\" She wondered. It certainly looked like hers but she wasn't headless. Or at least she thought till she reached up and grabbed onto her vaccant neck to realize it was indeed hers.<br>\r\nMiss Dodds wanted to scream however her lack of a head prevented her from it. She then continued feeling her neck, it was actually quite nice. Maybe being headless wasn't too bad. She then scooped both the heads up and walked back to you.<br>\r\n<br>\r\nShe doesn't say anything (obviously) but holds up both heads in either hand.<br>\r\nYou pull out your phone to type \"What are these?\" You ask, knowing her head but a little confused by the male head.<br>\r\n<br>\r\nShe sets the heads down so she can reply \"our missing heads it would seem\"<br>\r\n<br>\r\n\"Our?\" You ask<br>\r\n<br>\r\n\"Yes, you seemed to have lost your head when you went to the supply closet. I have no idea how I lost mine, there must be something in the closet.\"<br>\r\n<br>\r\nYou came to the same realization she just did. You grasp your headless neck only to remember beheading yourself after you hid Miss Dodds' head! She still can't remember it though, maybe it had to do with you being the wielder of the sword.<br>\r\n<br>\r\n\"Well, what do we do now?\" You asked her. To which she replied...</span></div></div>",
+            "created":1594530000,
+            "id":2867174,
+            "title":"She finds both heads"
+        },
         "14211532":{
             "author_id":"bodiless2",
             "author_name":"Bodiless",
@@ -4577,6 +5515,109 @@
             "created":1592802000,
             "id":2855144,
             "title":"She only notices yours"
+        },
+        "142115324":{
+            "author_id":"theheadsman",
+            "author_name":"The Headsman",
+            "choices":[
+                "a student asks about her missing head",
+                "a student whispers to you about the headlessness"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Well, I'm keeping it til at least the end of the day!\" She notified you.<br>\r\n<br>\r\n\"What? My own head?\" You ask a little surprised at her reaction but interested to see how it would play out.<br>\r\n<br>\r\n\"Indeed, I'm not one for pranks, so I don't care if you even cut your own head off for one.\" She then marched over to her desk and sat your head down like a trophy. <br>\r\n\"Now, go to your seat, class is about to start\" she instructes as she starts writing on the white board.<br>\r\n<br>\r\nYou go over and sit in your seat. You watch as students start walking in. Like clockwork each one freezes for a moment with their jaw dropped seeing their headless teacher and then seeing you with your head on the desk. Quickly everyone piles in and the bel rings.<br>\r\n<br>\r\nMiss Dodds starts writing on the board \"Good morning, class\" she then continues with some announcements. All the students are in shock still.<br>\r\n<br>\r\n\"Now you may have noticed John is a little headless today.\" She wrote. \"He thought it would be amusing to hide his head in the supply closet and surprise me headless. His head is now mine til the end of the day. If anyone else pulls anything similar I'll have your head too\" she then sharply underlines it.<br>\r\n<br>\r\nAll the kids still look confused.<br>\r\n<br>\r\nThen...</span></div></div>",
+            "created":1594530000,
+            "id":2867202,
+            "title":"Confiscates your head, she doesn't tolerate..."
+        },
+        "1421153241":{
+            "author_id":"theheadsman",
+            "author_name":"Bodiless",
+            "choices":[
+                "Miss Dodds grabs and attaches your head",
+                "The students convince her its no big deal, she rocks the headless look"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Uh, Miss Dodds\" a girl from the back of the class rose her hand.<br>\r\nYour headless teacher spun around to look at her. She simply pointed to her.<br>\r\n<br>\r\n\"What about your head?\" the girl asked.<br>\r\n<br>\r\nMiss Dodds was taken back, putting her hand up to her collar bone in a \"why would you ask that?\" gesture. She writes \"My head?\" on the board, evidently confused.<br>\r\n<br>\r\n\"Yeah, you're just as headless as John!\" another student shouted.<br>\r\n\"Where'd your head go?\" another asks.<br>\r\n<br>\r\nShe then frantically reaches up to touch the top of her neck, only to discover she really was headless. She starts panicking a bit. Quickly opening every drawer of her desk, looking for it. <br>\r\n\"I don't know. Where is my head?\" she writes to enlist the help of students.<br>\r\n<br>\r\nThen...<br>\r\n<br>\r\nAnother chapter to add:<br>\r\n-A student finds her head for her</span></div></div>",
+            "created":1594875600,
+            "id":2869920,
+            "title":"a student asks about her missing head"
+        },
+        "1421153242":{
+            "author_id":"theheadsman",
+            "author_name":"Bodiless",
+            "choices":[
+                "He asks you to behead him too",
+                "Suddenly Miss Dodd's head wakes up!"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Psst, hey, did she really just take your head away?\" a guy behind you asks.<br>\r\n<br>\r\nYou quickly jot down your response on a note and pass it. <br>\r\n\"Actually I found this cool magic sword and cut my own head off. She then found my head and wasn't too happy about it\"<br>\r\n<br>\r\n\"Woah, a magic sword, wait, did you cut her head off too? Where is it?\" he asked.<br>\r\n<br>\r\n\"Well the sword makes you not realize you're headless until someone points it out, but yeah, I did. I hid it in the supply closet\" you pass another note.<br>\r\n<br>\r\n\"Does she not know?\" he asks in shock.<br>\r\n<br>\r\n\"As far as I know, she thinks I'm the only one who's lost a head. I had no idea after I cut my own off until she brought me my head\"<br>\r\n<br>\r\n\"Woah, that's crazy. Do you still have it?\" <br>\r\n<br>\r\nYou nodded your neck. Class then went by as normal. At the end you went up to Miss Dodd. \"So, do I get my head back now?\" you type to her. <br>\r\nShe types back, \"Sorry, but I'm going to have to keep it until at least tomorrow. I've got to show my morning classes what happens when you try to prank someone\". You decide not to fight it. In fact, it wasn't too bad being headless, you figured she could at least hold onto it for awhile. You wave to her as she packs up her bag and walks out, completely unaware that she too is headless.<br>\r\nYou go to leave but find the student from earlier at the door.<br>\r\n\"Hey, I'm Noah\" he says, extending his hand. You shake it. \"Want to go hang out?\" <br>\r\n<br>\r\nYou nod your neck again in response. You start to leave before he stops again, \"Want to take Miss Dodd's head with us?\"<br>\r\nNow, that wasn't a bad idea. Might be useful in exploring this all more. You nod again before running back to the closet. Noah followed close behind. You open to box to reveal her sleeping head. <br>\r\n\"That's crazy\" he said. You then slip it into your backpack and head out back to your place.<br>\r\nYou guys head straight for your room, having brought the sword and your teacher's head.<br>\r\nYou open the backpack and set both on your desk. \"What now?\" you type to Noah.<br>\r\n<br>\r\nMore story options to add:<br>\r\n-He wants to see what happens if you put her head on</span></div></div>",
+            "created":1594702800,
+            "id":2868644,
+            "title":"a student whispers to you about the headlessness"
+        },
+        "14211532421":{
+            "author_id":"theheadsman",
+            "author_name":"Bodiless",
+            "choices":[
+                "hide his head and don't tell him",
+                "put his head on the desk with Miss Dodds and see what happens",
+                "reind him he asked to be headless",
+                "give him Ms. Dodds' head",
+                "place his head on your shoulders"
+            ],
+            "content":"<div class=\"\"><div> <span>\"How about you cut my head off too?\" he asks, pointing to his own head.<br>\r\n<br>\r\n\"You sure?\" you type<br>\r\n<br>\r\n\"Yeah, it'd be really cool. Plus we could really mess with people\"<br>\r\n<br>\r\nHe made a fair point, it was cool. Its not like you had any more of a specific reason for cutting your own head off.<br>\r\n<br>\r\nYou then stand up while he was sitting there, raise the sword and swing. You slice through his neck as his head goes flying off, landing on the floor.<br>\r\n<br>\r\n<i>Shit, I forgot to ask him if he wanted it pointed out</i> you think before you hit the hilt's button. You then...</span></div></div>",
+            "created":1595221200,
+            "id":2872128,
+            "title":"He asks you to behead him too"
+        },
+        "14211532422":{
+            "author_id":"theheadsman",
+            "author_name":"Bodiless",
+            "choices":[
+                "You and Noah explain she is a head and her body has yours",
+                "You and Noah make up a story that you were both beheaded and you saved her head"
+            ],
+            "content":"<div class=\"\"><div> <span>You simply point to Miss Dodds' lost head.<br>\r\nYou both lean into get a good look at it. <br>\r\n<br>\r\n\"Wow, this whole headless thing is crazy. She's just sleeping while her body roams around\" Noah comments aloud.<br>\r\n<br>\r\nYou both inspect her dormant head when suddenly her eyes flash open. You both tumble back like someone had pushed you.<br>\r\n\"Hey, what's going on here?\" she asks, looking around.<br>\r\n<br>\r\n\"Noah, is that you?\" her eyes then dart to you \"Oh my goodness, who are you? You're headless!!\"<br>\r\n<br>\r\n\"This is John\" Noah informs her.<br>\r\n<br>\r\n\"John! What happened to your head? How are you alive, are you okay?\" she asks, still yet to notice her own predicament. <br>\r\n<br>\r\n\"Hi, Miss Dodds\" you begin to type, \"It's a long story, but I'm okay. In fact I'm quite enjoying it\" you type to her, curious if she will figure out she's a head.<br>\r\n<br>\r\n\"If you say so. I just can't get over your neck. There's skin, like you never had a head there. Where is your head at least?\" she asks.<br>\r\n<br>\r\n\"Oh, I'm just not using right now. I think its a decoration somewhere\" you reference her body's possession of it unknowing to her.<br>\r\n<br>\r\n\"Interesting she says. Well let me know if its available. I'm a little fond of it, I'd put it right on my desk\" she says with kind intentions, \"Though you do look good with your new style\" <br>\r\n<br>\r\nYou and Noah resist laughing given that's exactly what the rest of her has done.<br>\r\n\"Now, hold on a moment. I can't feel anything below my neck\" she says, becoming cautious \"and I can't seem to move at all either\"<br>\r\n<br>\r\nThen...<br>\r\n<br>\r\n<br>\r\nAnother chapter to add:<br>\r\n-Meanwhile your head wakes up with Miss Dodd's body</span></div></div>",
+            "created":1594875600,
+            "id":2869932,
+            "title":"Suddenly Miss Dodd's head wakes up!"
+        },
+        "142115324223":{
+            "author_id":"theheadsman",
+            "author_name":"Bodiless",
+            "choices":[
+                "Puts you on her neck, you gain controll",
+                "Puts you on her neck, she has controll",
+                "Brings you to her house to look for her head",
+                "Brings you to your house to look for her head",
+                "Emails you, demanding answers"
+            ],
+            "content":"<div class=\"\"><div> <span>While your body and Noah dealt with Miss Dodds' head, far off back in the classroom someone else was waking up.<br>\r\n<br>\r\nYou slowly open your eyes. <br>\r\n<i>What's going on?</i><br>\r\nYou could see your English classroom, from what seemed to be your teacher's desk. Your eyes focused a bit more as you saw a figure moving about the room. It was a woman, but something about her was off. Your vision clears up for you to notice, she's headless!<br>\r\nBased on her style and where you were, it had to be Miss Dodds. But why was she headless and what on Earth were you doing here. You notice that you don't feel anything below your neck, wonder what that's about.<br>\r\n<br>\r\nThen Miss Dodds sees you. She looks surprised, or as surprised as a headless person can look. She walks over to you, pulling out her phone to type:<br>\r\n\"You're awake?! Did the rest of you do this? Can you feel it?\"<br>\r\n<br>\r\n\"The rest of me? What are you talking about?\" you ask her, confused by her message.<br>\r\n<br>\r\n\"Your body! You haven't always been a head\" she types.<br>\r\n<br>\r\n\"My body? I'm a head?\" you start to ask before it begins to dawn on you. You can't feel anything below your neck, well aside from Miss Dodds' desk against what feels like a flat end to your neck. She was headless, so who was to say you couldn't be a head? <br>\r\n\"Crap, I'm just a head!\" you exclaim, \"What happened, why am I here?\" you ask her.<br>\r\n<br>\r\nShe looks like she's thinking. Unknown to you she was observing how your head seemed to have no recollection of what your body had done.<br>\r\n\"Well, I'm not sure how, but you took your own head off and left it in the supply closet. Your body tried to spook me like that. But I found your head, so as punishment for trying to prank a teacher I kept your head. The whole time your head seemed to be sleeping\" she catches you up.<br>\r\n<br>\r\nHmm, it was strange you couldn't remember how you ended up getting your head off.<br>\r\nNot knowing of the sword or the mode you ask, \"So what happened to your head, then?\"<br>\r\n<br>\r\n\"My head?\" she quickly types. If she could speak she was about to tell you it was right atop her neck, however as she reached up there, she discovered no such head existed. You watch as Miss Dodds frantically moves her hands over her empty neck stump, grasping it too.<br>\r\n\"Where's my head?!\" she typed.<br>\r\n<br>\r\n\"I don't know, I didn't even realize I was a head\" you tell her. \"Maybe you left it at home?\"<br>\r\n<br>\r\n\"Maybe\" she replied, \"or maybe your body has something to do with this\"<br>\r\n<br>\r\nYou watch her pace about quickly before she...</span></div></div>",
+            "created":1595221200,
+            "id":2872127,
+            "title":"Meanwhile your head wakes up with Miss Dodd'..."
+        },
+        "1421153244":{
+            "author_id":"theheadsman",
+            "author_name":"Bodiless",
+            "choices":[
+                "Pointed out Miss Dodds' headlessness",
+                "Was upset, so you tell her Dodds' took your head"
+            ],
+            "content":"<div class=\"\"><div> <span>Class goes by weirdly normally. Miss Dodds made it obvious that she had no idea she was headless but the class was very hesitant to point it out and just played along.<br>\r\nAt the end of the day you returned to her classroom to find your head still sitting on her desk and her still without her head or any idea of it.<br>\r\nYou wave to her. She waves back and walks over to you.<br>\r\n\"So, do I get my head back now?\" you ask.<br>\r\n<br>\r\n\"Yes and no. I find this prank quite serious, so I contacted your mother to come out to pick up your head\" she proclaimed.<br>\r\n<br>\r\n<i>Aw, crap. She doesn't even know about the sword</i> you thought. What was she going to think? At least no one seemed any the wiser that you had technically stolen Miss Dodds' head. You started trying to figure out how to explain this. You come up with a story that it was actually Miss Dodds who beheaded you. But maybe you could just tell the truth, about your head at least.<br>\r\n<br>\r\nFor now you simply nod your neck and go sit at a desk waiting.<br>\r\nYou wait.<br>\r\n<br>\r\nand wait.<br>\r\n<br>\r\nAnd after a little more waiting your mom came through the door. She looked straight at your teacher, then to you, then back at your teacher.<br>\r\nYour mother then...<br>\r\n<br>\r\nOther chapters to add:<br>\r\n-Thought it was cool, so you tell her about the sword</span></div></div>",
+            "created":1594875600,
+            "id":2869911,
+            "title":"Ms Dodds says your mother will have to come in ..."
+        },
+        "14211533":{
+            "choices":[
+                "Accept her head",
+                "Tell her that the head is her's",
+                "Say the head must belong to someone else",
+                "Offer her the head, but don't tell her it's hers",
+                "Before you can decide, the rest of the class arrives"
+            ],
+            "content":"<div class=\"\"><div> <span>She looks carefully at the head. This didn't look like your head to her, this definitely seemed to be a woman's head. But she hasn't seen anyone else without a head, so it must belong to you.<br>\r\n<br>\r\nYour headless teacher walks back over to you carrying what looked like you remember to be her head. She hands it to you. She doesn't seem to realize what it is. Wanting to keep the joke up, you ask \"What's this?\" on your phone.<br>\r\n<br>\r\nShe pulls out her phone and types, \"Your head, is it not?\"<br>\r\n<br>\r\n\"My head?\" you ask confused.<br>\r\n<br>\r\n\"Yes, you are missing it\"<br>\r\n<br>\r\nYou pause for a moment before running to the mirror. You look at your blank, headless neck. You sure were headless. But where did your head go? Knowing full well what you did to Miss Dodd you wonder if she beheaded you in revenge. But then why would she think that her head was yours?<br>\r\n<br>\r\nYou decide to...</span></div></div>",
+            "created":1594357200,
+            "id":2865559,
+            "title":"She finds her own head, but assumes it belongs ..."
         },
         "1423":{
             "author_id":"tjmmason",
@@ -5144,6 +6185,18 @@
             "id":2852345,
             "title":"You were supposed to hit the gym anyway, why le..."
         },
+        "1521311231":{
+            "author_id":"theheadsman",
+            "author_name":"The Headsman",
+            "choices":[
+                "to workout with you",
+                "to have their heads cut off too"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Woah, man, lose your head?\" A guy stops and asks.<br>\r\n<br>\r\n\"You could say that\" you reply while deciding to have your body do another set, just to show off your headlessness.<br>\r\n<br>\r\n\"That's is awesome\" he says watching your headless body lift. Your conversation draws in a few others. One of the girls on the threadmills hops off and comes to check out the headless guy in town.<br>\r\n\"How'd you do it?\" She asked, having a hard time keeping her eyes off your body.<br>\r\n<br>\r\n\"Well, I didn't see much room for a head in 'body'-building, so I cut it off\" you said, thinking that sounded more clever and cool than a magic sword.<br>\r\n<br>\r\n\"Damn, nice\" the guy said while the girl simply slid her fingers around her neck, deep in thought.<br>\r\nThe group then wants...</span></div></div>",
+            "created":1594530000,
+            "id":2867310,
+            "title":"someone asks about your headlessness"
+        },
         "1521311232":{
             "author_id":"bodiless2",
             "author_name":"Bodiless",
@@ -5155,6 +6208,105 @@
             "created":1592802000,
             "id":2855213,
             "title":"a woman who has used the sword before approaches"
+        },
+        "15213112321":{
+            "author_id":"theheadsman",
+            "author_name":"The Headsman",
+            "choices":[
+                "sets you down while she finished squats",
+                "bikes home with you"
+            ],
+            "content":"<div class=\"\"><div> <span>\"What? Like to keep?\" You ask in surprise.<br>\r\n<br>\r\n\"Yeah, or borrow if that's what's okay\" the built headless woman typed back.<br>\r\n<br>\r\n\"I thought heads held you back\" you jest.<br>\r\n<br>\r\n\"I'm not putting you on my neck if that's what you thought. You'd simply be a head I carry around, I'd even bring you to the gym with me if you wanted\"<br>\r\n<br>\r\n\"What about your own head?\" You asked.<br>\r\n<br>\r\n\"Well, I used to have it at home. I ended up a bit short on cash and it was next to go. I love being headless but I feel a bit lonely without a head sometimes now\"<br>\r\n<br>\r\n\"You sold it? Besides, I control my body. Even if I didn't, wouldn't it get lonely too? You try to figure out logistics, feeling weirdly willing.<br>\r\n<br>\r\n\"Yes, but she was fine with it and went to a good owner. I just don't get to see her anymore. Well, I can show you a trick about that. As for your body, I'd make sure you got to see him regularly\"<br>\r\n<br>\r\n\"Ya know, I never thought about picking girls up in the gym. I wondered if coming in headless would do anything, but I wasn't expecting her to want my head. But why not, I guess\" you say. You can tell even without a head she's laughing.<br>\r\n<br>\r\nShe then picks you up and sets you against your own neck. Being a permanent detachment you don't reattach. \"Now think about your body having its own mind\" she types. You think really hard. Then she lifts you up and you slowly lose all feeling below your neck. She spins you around to see your headless body. It touches your neck before realizing what's going on. It then simply waves, grabs your gym bag and leaves.<br>\r\n<br>\r\n\"Wow, I haven't even been detached a whole day and I've already lost my head\" to which you feel her laugh as she holds you. <br>\r\n<br>\r\n\"What's your name by the way?\" You ask.<br>\r\n<br>\r\n\"Beth\" she types. You tell her yours and she then...</span></div></div>",
+            "created":1594530000,
+            "id":2867255,
+            "title":" your head."
+        },
+        "152131123211":{
+            "author_id":"theheadsman",
+            "author_name":"Bodiless",
+            "choices":[
+                "Treadmill",
+                "Sit-ups"
+            ],
+            "content":"<div class=\"\"><div> <span>Beth then carries you over to a squat rack. <br>\r\n\"If you're trying to get me working more, I'm afraid I may need a body for that\" you continue to joke, assuming she's just doing squats. She then sets you down on the floor facing the rack. You realize just how handy it is having a bit of neck to stand on. You did a good job beheading yourself.<br>\r\n<br>\r\nBeth then racks some weights and gets under the bar, with her back to you. You blush now immediately knowing this must be intentional. She starts squatting down, her butt coming almost right up to you. You are just left to watch in awe, a little frustrating you were without your body for her teasing.<br>\r\n<br>\r\nThen she tries going even lower. Her rear smacks into you and tips you over. You roll just a little bit away. You hear her rack the weights and come over to pick you up.<br>\r\n\"Sorry about that\" she types into her phone. <br>\r\n<br>\r\n\"Don't worry, certainly wasn't the worst to happen today\" you inform her.<br>\r\nShe chuckles before taking you to your next stop...</span></div></div>",
+            "created":1594875600,
+            "id":2869904,
+            "title":"sets you down while she finished squats"
+        },
+        "152131123215":{
+            "author_id":"theheadsman",
+            "author_name":"Bodiless",
+            "choices":[
+                "Work out truly headless this time",
+                "Head home for the day, your family is still unaware of the sword"
+            ],
+            "content":"<div class=\"\"><div> <span>You stretch your arms. Damn, it sure feels good to be headless. You feel the AC of the gym blowing down on the top of your bare neck stump. <br>\r\nSure, it's cool being normally headless, but there's a certain charm to being a headless body. It's kinda odd listening to your own head talk as it did to Beth. You look up to see them.<br>\r\n<br>\r\nBeth had your head tucked under her arm. She waved bye at you. You waved back. <br>\r\n\"See ya later, body!\" your head called out. You waved again.<br>\r\nLucky head, you thought. Would have been nice if she was more interested in your body, but oh well. They leave, heading right out the door.<br>\r\n<br>\r\nYou then sit there wondering what to do next. It felt nice not having a head. Hell, you even felt pumped up to work out more.<br>\r\nWhat do you do?<br>\r\n<br>\r\nExtra chapters<br>\r\n-Find yet another sword victim on the treadmills</span></div></div>",
+            "created":1594702800,
+            "id":2868701,
+            "title":"meanwhile, with your newly freed body..."
+        },
+        "1521311232153":{
+            "author_id":"theheadsman",
+            "author_name":"Bodiless",
+            "choices":[
+                "another headless woman",
+                "a headless man",
+                "a woman's lower half",
+                "a woman with 2 heads of different races",
+                "A man's head on a woman's body"
+            ],
+            "content":"<div class=\"\"><div> <span>You decide the best thing about now would be a good run, headless and all. You head over to the treadmills.<br>\r\nTo your surprise the woman who took your head wasn't the only one in this seemingly detached gym.<br>\r\nRunning next to the open treadmill was...</span></div></div>",
+            "created":1595221200,
+            "id":2872027,
+            "title":"Find yet another sword victim on the treadmills."
+        },
+        "15213112324":{
+            "author_id":"theheadsman",
+            "author_name":"The Headsman",
+            "choices":[
+                "toss your head in her gym bag when she's not looking",
+                "ask her out"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Oh, hogging it huh?\" You play with her as you pick your head back up.<br>\r\n<br>\r\n\"Yeah, you were just setting your head on it. That's why I went headless\" she typed as she got down on the bench with the weights racked.<br>\r\n<br>\r\n\"Yeah, yeah, holds ya back\" you continue with her.<br>\r\n<br>\r\nShe doesn't respond but instead starts bench pressing. Quite a bit for her looks. You decide to quickly set your head on the floor and spot her. She does a few really good reps, then starts wavering a bit. Looking like she's about to drop it you grab the bar and rack it.<br>\r\n<br>\r\nShe leaned up, \"Thanks for spotting\" she typed.<br>\r\n<br>\r\n\"No problem, wouldn't want you to drop the weights and decapitate yourself\"<br>\r\n<br>\r\nShe laughed before moving on in her workout.<br>\r\n<br>\r\nWarming up to her, you decide to...<br>\r\n<br>\r\nMore chapter options:<br>\r\n-help spot her since you finished your workout</span></div></div>",
+            "created":1594530000,
+            "id":2867321,
+            "title":"to use the bench your head is resting on, quit ..."
+        },
+        "152131123241":{
+            "author_id":"theheadsman",
+            "author_name":"Bodiless",
+            "choices":[
+                "your body had left",
+                "your body had a crowd around doing weight challenges "
+            ],
+            "content":"<div class=\"\"><div> <span>Interested in finding out more about the headless woman, you figured the best way would be to have a little fun. You carry your head over by her, wait til she isn't looking and then you toss yourself into her open gym bag. You make a soft landing in her extra clothes. Though now you have to blindly navigate your body back home. You luckily are fairly good at texting without looking and know all your contacts. You decide to simply text your sister to come help pick you up from the gym.<br>\r\nAfter steering your body back to some seating you feel the bag being picked up.<br>\r\nYou go on a bit of a ride. You get set down again in the locker room while it sounds like she showers, then carried over to the lockers themselves. Her hand reaches into the bag for clothes, but instead touches your face.<br>\r\n<br>\r\nYou can tell she's alarmed before she reaches in both hands and pulls you out. Well, more like throwing you out as you land on the bench. She recoils realizing she has yet to put on any of her clothes. She quickly grabs them from her bag to cover herself. She then turns around and slips everything on. She turns back to you, pulls her phone out once more, \"What the hell is going on?!\"<br>\r\n<br>\r\n\"Oh, its your bag I fell into, glad its at least someone I know\" you say.<br>\r\n<br>\r\n\"Don't think for a second I 'm going to believe you didn't put yourself there. Where's your body?\"<br>\r\n<br>\r\n\"Well\" you start to say, ready to proclaim its waiting for pickup. You then realize you can't feel it anymore. \"Uh, I don't know\"<br>\r\n<br>\r\n\"I thought you controlled it\" she typed quickly.<br>\r\n<br>\r\n\"I did too, I had it walk over to the bench to wait for pickup, but I can't feel it anymore\".<br>\r\n<br>\r\nShe slaps her hand against her vacant neck stump. \"Ugh, this is why I don't wear heads. Now I've got to get you back to your body\"<br>\r\n<br>\r\n\"So I'm guessing we're not just headed to your place\" you keep a smile on.<br>\r\n<br>\r\nShe seemed to laugh a bit. \"Damnit, I'm helping because some part of me likes you. I'm not sure if throwing your head in my bag makes you cute or a perv\"<br>\r\nYou just laugh as she picks you up. You had to admit, it was much nicer being carried by her than your own body. She brought you out of the locker room to see...<br>\r\n<br>\r\n<br>\r\nNot sure but another chapter idea is:<br>\r\n-decide to ditch your body, she's holding onto you now<br>\r\n<br>\r\nIt just may be repetitive from another path</span></div></div>",
+            "created":1594702800,
+            "id":2868696,
+            "title":"toss your head in her gym bag when she's no..."
+        },
+        "152131123244":{
+            "author_id":"theheadsman",
+            "author_name":"Bodiless",
+            "choices":[
+                "Put your head in the locker and workout blindly with her",
+                "You both race on the treadmill. Winner keeps your head"
+            ],
+            "content":"<div class=\"\"><div> <span>You follow Beth (as she told you on your walk) over to the treadmill.<br>\r\nShe has a certain grace as she runs with nothing above her neck.  You set your head down in the cup holder. Good thing people had such large water bottles that your neck could fit. You then start running, awkwardly at first as you work on commanding your body from this angle. You get in the swing of it and are soon jogging normally. You look over to see Beth give you a thumbs up. You've been enjoying being removed from your body so far, but watching her you started to wonder what it was like to be just plainly headless. Maybe there was more experimenting with the sword to be done.<br>\r\n<br>\r\nYou snap out of your thoughts as you notice Beth taking a break and showing you something on her phone.<br>\r\n\"Hey, I've got an idea. Up for a challenge?\" it read.<br>\r\n<br>\r\n\"Ah, head off challenges already, huh? I'm game\" you reply.<br>\r\nYou hoped to see a smile but forgot she has no head.<br>\r\n<br>\r\nShe then types up her challenge. She turns it around to show you...</span></div></div>",
+            "created":1594875600,
+            "id":2869916,
+            "title":"do some headless jogging on the treadmill, wher..."
+        },
+        "152131125":{
+            "author_id":"theheadsman",
+            "author_name":"Bodiless",
+            "choices":[
+                "Your body trips up and accidently locks you in your locker",
+                "You get the idea to hide your head for someone to find"
+            ],
+            "content":"<div class=\"\"><div> <span>You promptly tuck your head under you arm and head downstairs, to the door, and out of the house.<br>\r\nThe sunlight and fresh air hit the top of your neck stump as you were now out to face the world without a head on your shoulders. You start your nice stroll to school. It was luckily in walking distance, and you were feeling a little showy with your new power. You definitely turned heads as you walked on past with yours in hand.<br>\r\n<br>\r\nNo one really bothered you on the walk. Once you got to school you head in and straight to your locker. There's still plenty of students there for after-school activities. You get similar stares from them on your way. When you get to it you open it up and then place your head on the top shelf. <br>\r\n\"Wow, that's convenient\" you think aloud. You knew where everything was so you had no trouble getting your forgotten book without being able to see it.<br>\r\n<br>\r\nFrom this angle you were pretty much facing your body head on (though you were anything but head on).<br>\r\nIt just hit you how surreal this all was as you looked at your vacant neck, covered in smooth skin like you didn't belong on it, but also the sharp 90 degree angle of your neck's edge that shows how cleanly it was cut off.<br>\r\n<br>\r\nWhile you are busy enjoying your new state....</span></div></div>",
+            "created":1594875600,
+            "id":2869944,
+            "title":"You forgot some things in your locker, head bac..."
         },
         "1522":{
             "author_id":"lurkingleapold",
@@ -5485,6 +6637,34 @@
             "created":1496293200,
             "id":2329141,
             "title":"someone in your family"
+        },
+        "1523111134":{
+            "author_id":"lurkingleapold",
+            "author_name":"Bangle",
+            "choices":[
+                "do some research, find out just how many others John had sliced.",
+                "email the other 6 people, try and arrange a group orgy for massive profit.",
+                "get in touch with a lawyer, and see just how much she could legally ruin John.",
+                "delete her account, hide her condition, and go on with life as normal.",
+                "see who's knocking on her front door..."
+            ],
+            "content":"<div class=\"\"><div> <span>Bodacious_B00bs:  <i>Is this a new meme or something?</i><br>\r\n<br>\r\nNoFreaksHere:  <i>I bet its like gorrilla marketing for some new editing software or something</i><br>\r\n<br>\r\n1LoquaciousCun7:  <i>Wow, you used the wrong version of \"guerrilla\" AND you misspelled it.  I hope you know that 3rd graders aren't allowed on this site.</i><br>\r\n<br>\r\nWeeeeeeeeeb:  <i>Huh, never knew I had this fetish.</i><br>\r\n<br>\r\nReading through the comments, following each link posted by both old fans and newcomers, and slowly spooning dry cereal into her mouth as her permanently detached head rested in her lap, Wendy couldn't help but feel a little cheated.  She was the first headless streamer, and had accrued more tips for yesterday's performance than she had on any other day of streaming (a modest $500 after taxes, but when you considered the fact that only 81 people had been watching at the height of the stream's popularity and the fact that she only streamed for a little over 15 minutes, it was quite a sum), but she was the ONLY headless streamer for less than two hours.<br>\r\n<br>\r\nJohn had evidently been very busy with his blade, as no fewer than six separate people had recorded themselves in various states of disassembly and to various degrees of lewdness.  Wendy recognized most of them.  John's twin sister Jenna (who by pure coincidence shared Wendy's stage name, and who had stupidly decided to use her real name for her sex tapes) was the most easily identifiable, as she spent half an hour eating herself out with her own severed head in various poses, stopping only to mug at the camera and make the most cringe inducing puns conceivable.  John's girlfriend Michelle was also easy to recognize, as while her head was out of frame and she used an alias for her account, it was a video of John (who's upper body was out of frame the entire video, so you had no idea if he'd done anything to himself) bending her headless body over his own bed and pounding her ass senseless while Michelle moaned just behind the camera.  You were very familiar with that room, and that cock inside her.<br>\r\n<br>\r\nThe next woman was a surprise to Wendy, her and John's woodworking teacher Ms. Kane.  Well, it was a surprise to see a recording of HER TEACHER'S very distinct headless body with her wrists and ankles tied to (presumably) her bedposts while a train of dudes formed an orderly queue to ream her (and a few spent some time in the line exploring the hole of the man in front of them).  Though, it wasn't necessarily a surprise that someone as hot as Ms. Kane would have guys lining up to fuck her.  She was fucking gorgeous, with almost cartoonishly proportioned curves, milk chocolate skin that was unnaturally youthful due to her lack of kids and strict diet &amp; exercise regimen, and the fact that she always seemed to get a little too \"cute\" with her students making her very memorable.  Her video was by far the most popular, and while she'd hidden the donation numbers, if Wendy'd gotten $500 for  only 15 minutes of naked guitar playing, she could only imagine what Ms Kane gotten for nearly two hours of non-stop reaming.  Other than STI's, if any of the guys' condoms ripped.<br>\r\n<br>\r\nThe next woman was a hispanic girl Wendy vaguely knew of from school, someone on the women's soccer team she couldn't remember the name of, but she definitely knew her face which was both on camera the whole video and was the only one of the women to have it firmly attached to her body.  Unlike the other streamers, this girl (who ironically went by the very suggestive \"Ball-Kicking-Dom\") had an entirely non-sexual stream.  It was just her in her backyard practicing footwork and taking trickshots into a soccer net, her uniform was maybe a size too small but it wasn't really exposing anything to the audience and it looked worn enough to have just been bought when she was younger and smaller.  She was very good, Wendy thought, her legs moving in ways that would surely cause Wendy's own ankles to instantly and violently explode, and judging by the modifications John had made this B-K-D, she had likely requested the changes herself.  Both of her arms now ended right above the elbow, leaving her with no way of accidentally touching the ball with her hands and getting penalized while also lightening herself up considerably allowing her to move a little quicker than before.  Damn, she must be really serious about her soccer career prospects, if she was willing to have both of her arms chopped off.<br>\r\n<br>\r\nThe last of the streamers \"Jenna's\" fans had linked her two was a pair, most likely boyfriend and girlfriend judging by the activities they got up to.  Both boyfriend and girlfriend had similar body types, lean and slender with pale skin and tons of hair around their genitals and in their pits but basically none anywhere else.  While neither of their heads made an appearance, Wendy would guess that the two were both East Asian, especially since there was a poster of some anime or... whatever the Korean equivalent was called behind them, with words written in an East Asian language.  While both boyfriend and Girlfriend lacked a head, the boyfriend was otherwise intact, whereas the girl had been absolutely hacked to pieces by John's blade.  Her feet had been removed from her ankles, her ankles from her calves, her calves from her knees, her knees from her thighs, her thighs from her hips, her hips from her waist, her waist from her bust, her bust from her neck and shoulders, and her arms had been sliced at the wrists, both sides of the elbow, and the shoulders.  She was nothing more than a pile of pieces spread over the floor, which her boyfriend teased and enjoyed one by one with methodical but passionate gusto.  How John convinced this woman, IF John did this to her willingly, Wendy had no idea, but she did find it fascinating and of all the videos she watched that one for the longest amount of time.<br>\r\n<br>\r\nWhen she'd finished, Wendy frowned.  Not only was she no longer unique, as John had sliced no fewer than 6 other women and who knows how many hadn't recorded themselves or were keeping a low profile.  Wendy was much more likely to be identified now that people would be sharing videos of these other headless girls, many of whom were much less secretive about their identities.  One of John's victims could be sent one of Jenna's videos, recognize her figure, and then start talking, the whole world would know who Jenna Jamma really is!  Maybe this was a good time for Jenna to retire, for Wendy to nuke all of her recorded streams and bury the evidence, find some way to hide her headlessness...<br>\r\n<br>\r\nThen again, was it so bad if people knew?  After all, Wendy could get John in some serious trouble if this damaged her reputation.  Whether or not she liked her headlessness, what John did was still permanent disfigurement, and surely some lawyer or another would be willing to help Wendy sue him for all he's worth... oh, right.  He ain't worth shit.  Still, now that so many women were doing this, it might become normalized.  She'd be just another headless streamer, and with its normalization the money and fans would be far more forthcoming.  Wendy had already received more money than ever before, and her viewer count was extremely good for a spur of the moment unscheduled broadcast at a weird time of day.<br>\r\n<br>\r\nIn the end, Wendy decides to...</span></div></div>",
+            "created":1594875600,
+            "id":2870076,
+            "title":"links to other headless streamers. Apparently, ..."
+        },
+        "15231111341":{
+            "author_id":"bobboled",
+            "author_name":"bobboled",
+            "choices":[
+                "Make John cut her up in an interesting way to comepete with the other streamers",
+                "Force John to give up the blade through legal action",
+                "Attack John, cut him up, and mess with the other streamers"
+            ],
+            "content":"<div class=\"\"><div> <span>Apparently John had been <i>very</i> busy since Wendy had least seen that loser.  Curious to see how far John's little chopping spree had gone, and to see if there were any more cut apart streamers other than the ones her fans had told her about, she began to search.  With her head sat upon her desk and her fingers typing away, she felt her jaw hit the table as she saw no less than five more people had been chopped up by John and were now streaming their detached bodies for all the internet to see.  <br>\r\n<br>\r\nThe first new streamer she found was none other than her friend and sometimes stream partner Cori!  The buxom blonde had her fat pillowy ass pointed at the camera, her ass-cheeks spread before the void of the internet.  But, rather than having her stomach resting on her bed like she should in that position, her severed upper body was behind her lower half, hugging her the flat plane of her hips to her large beasts.  She was doing a parody instructional video of how a woman's anatomy works.  She flipped her legs over and opened them spread eagle, then maneuvered her torso to the floor so her her face was right next to her snatch.  She pointed out each anatomical feature of the vagina, then explained, in detail and with visuals, how to please a vagina a she began to eat herself out.  Wendy clicked away, semi disgusted that her friend took a deal with John, but nonetheless impressed with her knowledge of anatomy.<br>\r\n<br>\r\nThe next person to stream after being affected by the blade was someone Wendy had seen on the track and field team.  Or, at least, she had sen most of her.  Whereas Cori had had herself split in half, and the soccer girl had merely had part of her arms removed, this crazy woman had decided to completely remove the upper half of her body!  Wendy was in shock, unable to understand how someone could do this to themselves.  In fact, the only reason she could tell who it was was due to the rose tattoo on the legs ankle.  She watch, as the pair of legs, nude with large muscular thighs, toned calves, and a round tight ass, sat cross-legged in front of a keyboard with a smoothie and banana next to her feet.  The legs clumsily typed away at the keyboard, excitedly telling viewers about how she was able to run faster without, as she put it, 'all that dead weight' on her.  Many were asking how she was even alive, or able to eat.  She soon answered their questions as her feet carefully, yet shakily, lifted the tip of the straw in the smoothie to her unshaven pussy.  Her lips seemed to tremble a bit as the straw was grasped, and then a sucking sound could be heard.  Wendy had to click away, it was just too weird.<br>\r\n<br>\r\nAfter that she saw a random woman she did not know.  She was tall, skinny and black, with a very cute looking face.  Her detached head was in the front of the screen, while her nude headless body sat on the bed in the background with her head obscuring its crotch.  She seemed to be sucking on something in her mouth, and doing so also seemed to be causing her great pleasure.  She winked and her body stood up as she spit something fleshy and wet from her mouth with a low moan.  Her crotch was empty, and the thing that rested near her detached head was her saliva soaked and twitching cunt.  Wendy was getting a little unnerved at how easily these women were devolving into such erotic acts, but it also made her realize she may have to step up her game to keep any followers for her own stream.<br>\r\n<br>\r\nThe last two streamers, a lesbian couple, had to be the weirdest of the bunch.  Even with all the weird things Wendy had just seen, this took the cake.  The couple were mixed race, a very tan Latina woman and a pasty white redhead.  The first thing that Wendy noticed was that the skin tones were all wrong.  The Latina's arms, legs and breasts were too pale, and the redheads were too tan.  That, and they had each other's faces somehow attached to each others crotch, which Wendy thought was impossible for the blade.  Adding onto that, where their face should have been was a patch of Velcro, and attached the that were each others anus and vagina.  She pieced it together pretty quick after that.  The pair had sort of gotten around the no attaching clause by adhering Velcro to their bodies, and after Jon chopped off their respective parts, they were able to swap parts between them quite easily.  Although, to Wendy's eyes, it was obvious the Velcro wouldn't hold forever and as well, the limbs on the torsos were in control making each girl move around somewhat oddly as they were remotely piloting each other's torso.<br>\r\n<br>\r\nWendy huffed, upset that John had not only messed up her perfect body, but that he had also cut into her revenue stream!  She had to get back with him, somehow...<br>\r\n</span></div></div>",
+            "created":1595134800,
+            "id":2871482,
+            "title":"do some research, find out just how many others..."
         },
         "15231112":{
             "author_id":"dayaman",
@@ -8106,6 +9286,31 @@
             "id":2779778,
             "title":"\"Sure. Michelle might want to use it.\""
         },
+        "1551213":{
+            "choices":[
+                "To take your head home, keeping you",
+                "To have her head cut off and join you on the shelf",
+                "You to put your head back on, then she wants you to cut her head off",
+                "You to make another cut... to remove your OTHER head",
+                "To go out on a date, with both your head and body"
+            ],
+            "content":"<div class=\"\"><div> <span>Your body pulls out your phone and starts texting your girlfriend, Michelle, inviting her over.<br>\r\n\"Oh, nice choice\" you comment to your body from your spot on the shelf. Your body gives you a thumbs up. <br>\r\n<br>\r\nWhile waiting on her to show up you sat patiently on the shelf, wondering if this was just your new spot, you didn't mind it at least. You kinda enjoyed being a shelf decoration. Your body sat on the edge of your bed playing a game on your TV. You then hear a knock at your door, followed by it opening and the voice of your mother, \"Oh, Michelle! How are you? He's up in his room if you want to head up\".<br>\r\n<br>\r\nYou listen as her footsteps approach, she then opens your door. Her jaw drops and eyes widen, you can tell she was about to scream. <br>\r\n<br>\r\n\"No, no, no. Wait, I'm okay\" you say as your body gestures for you.<br>\r\n<br>\r\n\"Holy crap\" she says, trying to calm down. Your body walks over to her and gives her a hug. Without a head your body now stood just taller than her.<br>\r\n\"What happened?\" she plainly asked.<br>\r\n<br>\r\n\"Long story short: I found a magic sword that can detach body parts, decapitated myself and now my body has a mind of its own\" you fill her in.<br>\r\nShe jumps a bit from your body in surprise, \"You mean you aren't controlling it?\"<br>\r\n<br>\r\n\"Nope, we're kinda like two people now. I think. As far as I know, he's still 'me'\"<br>\r\n<br>\r\nShe then walks closer to you on the shelf, \"So can you go back on?\"<br>\r\n<br>\r\n\"Haven't tried yet. My body texted you pretty soon after I cut myself off\" you inform her.<br>\r\n<br>\r\nShe looks at you, then back at your body, then back at you.<br>\r\nMichelle wants....</span></div></div>",
+            "created":1594357200,
+            "id":2865554,
+            "title":"Your body puts you on a shelf, and invites your..."
+        },
+        "15512132":{
+            "author_id":"theheadsman",
+            "author_name":"The Headsman",
+            "choices":[
+                "escorted her body out",
+                "got busy with her body"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Really?\" You ask a little surprised. You weren't expecting her to jump on the headless train so fast.<br>\r\n<br>\r\n\"Yeah, sure, so long as your body doesn't mind having two heads. I figured my body can also still come over and spend some quality time with yours\" she winks to you.<br>\r\n<br>\r\nYou smile back to her. \"Very well, body, the honor is yours\"<br>\r\n<br>\r\nShe doesn't even put together what you meant before your body had picked up the sword and swung. It went straight through her neck. It was neat to see actually happen as her head flew off her body, landing on the floor and rolling across the room as her body simply felt it's new, empty neck. <br>\r\n<br>\r\nWhile her body was preoccupied with it's newly found headlessness your body walks over and picks her up. It sets her on the shelf next to you, then turns you both so you can see each other.<br>\r\n<br>\r\n\"That. Was. Awesome\" she said excitedly.<br>\r\n<br>\r\n\"Enjoying it then?\" You laughed.<br>\r\n<br>\r\n\"Yes, this is so cool. I'm just a head. I can feel things with the bottom of my neck\"<br>\r\n<br>\r\nYou lean in as much you can with your neck to give her a kiss. She returns.<br>\r\n<br>\r\n\"So now your body will take care of us?\" She asked.<br>\r\n<br>\r\n\"I believe so\"<br>\r\n<br>\r\nShe smiled. Then, your body...</span></div></div>",
+            "created":1594530000,
+            "id":2867234,
+            "title":"To have her head cut off and join you on the shelf"
+        },
         "155122":{
             "choices":[
                 "Stays with your head",
@@ -8256,6 +9461,81 @@
             "id":2732466,
             "title":"Someone else"
         },
+        "15512213":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "The other heads try to converse with you.",
+                "Some headless bodies come in looking for their heads."
+            ],
+            "content":"<div class=\"\"><div> <span>Having taken someone's laundry bag (someone who probably lost their head), your body comes back and puts you into it. You do not go very far, and you see the fruits of your body's efforts. In the laundry bag are dozens of heads, mostly human, but there are some animal heads. It becomes clear to you that, after throwing out your head, the body thought about starting a head collection, so it went around cutting heads off people. Since the sword is on sentience mode, it is possibly there are more headless bodies out there, either looking for the body that took their head, or going about their day as if they had a head.<br>\r\n<br>\r\nYour body clears a space in the house and starts putting down heads, starting with your head. It takes between thirty minutes and two hours to sort the heads. Once that is done, something happens.</span></div></div>",
+            "created":1593493200,
+            "id":2859076,
+            "title":"Head Collector"
+        },
+        "155122133":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "One of the human heads",
+                "One of the animal heads"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which of the heads does your body take?</span></div></span></div>",
+            "created":1593666000,
+            "id":2860200,
+            "title":"Your body decides to attach one of his heads"
+        },
+        "1551221335":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "A dog\u2019s head",
+                "A cat\u2019s head"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The body took several animal heads during his adventure, no doubt giving their bodies the ability to walk without a head. Now he takes and attaches one, but which?</span></div></span></div>",
+            "created":1593752400,
+            "id":2860982,
+            "title":"One of the animal heads."
+        },
+        "15512214":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "A body removes the women\u2019s heads from a bag and puts them next to you.",
+                "The female bodies do a striptease for your body."
+            ],
+            "content":"<div class=\"\"><div> <span>Two hours later, your body returns, and it is not alone. A dozen headless women follow it and surround you before picking you up and carrying you inside.<br>\r\n<br>\r\nIt is not long before you realize that one particular female body belongs to your girlfriend Michelle, judging by the shape of the body and the clothes it is wearing. She was probably lured by your body, or maybe one of its companions.<br>\r\n<br>\r\nThe rest of the female bodies are all those of young women in their teens or early 20\u2019s. Six of these bodies are those of Caucasian women, one is that of an Asian woman, two are those of Latina women and the remaining two appear to belong to African-American women.<br>\r\n<br>\r\nIt is not too long before...</span></div></div>",
+            "created":1593234000,
+            "id":2857405,
+            "title":"Headless Harem"
+        },
+        "155122142":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "Your body changes the music or puts it on loop",
+                "A group of headless male bodies come into your home and join the fun",
+                "Your body reattaches you and returns your control",
+                "Your body reattaches you, but remains independent",
+                "Your body begins filming this scene"
+            ],
+            "content":"<div class=\"\"><div> <span>Your body goes over to your computer, turns it on and works at it for a few moments. Judging from what comes out of the speakers next, it selected strip club-type instrumental music. Clearly it has turned your home into an impromptu strip club.<br>\r\n<br>\r\nMichelle's body takes the lead, and begins stripping down gradually like a stripper during the dance. Over the course of the next few minutes, the other female bodies join in, occasionally coming over to your body and dancing close to it. You know it does not have a head with which to judge the headless girls, but you do not think that would have mattered. It is doing what it wants to do, and because you are not attached you cannot stop it.<br>\r\n<br>\r\nAfter a few minutes of this erotic/exotic dancing...</span></div></div>",
+            "created":1593320400,
+            "id":2858134,
+            "title":"The female bodies do a striptease for your body."
+        },
+        "155122145":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "One soccer team, consisting of your body and the female bodies",
+                "Two soccer teams, one including headless male bodies"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is it just the one soccer team, or more? Note that you may be used for a soccer ball.</span></div></span></div>",
+            "created":1593320400,
+            "id":2858130,
+            "title":"The bodies reveal they've formed a headless..."
+        },
         "155124":{
             "author_id":"bodiless2",
             "author_name":"Bodiless",
@@ -8267,6 +9547,43 @@
             "created":1592802000,
             "id":2855209,
             "title":"Your body can't see or hear, and manages to..."
+        },
+        "1551245":{
+            "choices":[
+                "Brought your body outside to look for your head",
+                "Searches your room to find you",
+                "Seats you on the couch and tries to find a way to communicate",
+                "She calls your stepfather for help",
+                "She can't process this, and goes into shock"
+            ],
+            "content":"<div class=\"\"><div> <span>Your headless body stumbles back into the house, patting around its empty neck wondering where its lost head was.<br>\r\n<br>\r\nYour mom was in the living room when she heard the door open. \"Hello?\" she called out. Not getting a response, she readied herself a bit as she got up and walked to the front door.<br>\r\n<br>\r\nUp in your room you could hear her scream.<br>\r\n<br>\r\n\"John!\" she said frantically as your headless body flailed about. \"Where's your head?\" to which your body didn't seem to respond.<br>\r\nShe was trying not to freak out over her headless son at the moment. <br>\r\n<br>\r\nShe then...</span></div></div>",
+            "created":1594357200,
+            "id":2865562,
+            "title":"it turns around and wanders back in, where your..."
+        },
+        "15512452":{
+            "author_id":"theheadsman",
+            "author_name":"The Headsman",
+            "choices":[
+                "offers to care for your head",
+                "wants to try reattaching you"
+            ],
+            "content":"<div class=\"\"><div> <span>You hear the footsteps of your body and mother come upstairs and approach your room. The door swings open. She puts her hands to her mouth in shock. \"Oh my God, what the hell happened!\" She exclaimed more than asked.<br>\r\n<br>\r\n\"It's okay, I'm okay\" you say from the floor.<br>\r\n<br>\r\n\"Okay? You're headless! I get up from the couch to see your headless body fumbling about. Don't you ever do that again\"<br>\r\n<br>\r\n\"Well, I'm not sure I can\" you laugh, making light of your self inflicted situation.<br>\r\n<br>\r\nShe then walked over, bent down and picked you up. She stands up holding you eye level.<br>\r\n\"What happened?\"<br>\r\n<br>\r\n\"Well, I'd say you wouldn't believe me, but kinda hard at this point. I found a magical sword.\" You dart your eyes to it as a gesture, \"it can cut off body parts without harm. It has a few different settings too. I set it on a mode that made it so my body would have a mind of its own and cut my head off\" you then smile.<br>\r\n<br>\r\nShe looks like she's about to pass out. \"I can't believe you cut your own head off, how long have you been like this?\"<br>\r\n<br>\r\n\"Not too long, my body wandered off but you seemed to find it, or maybe him, quickly\"<br>\r\n<br>\r\n\"Half scared my head off\" she finally joked to you. \"So you don't control your body?\"<br>\r\n<br>\r\n\"Not at all, I can't even feel it. I'm just a head. I thought maybe my body would be able to see magically or something but I think he's blind without me\"<br>\r\n<br>\r\n\"Oh Lord, now I've got twins\" she sighs. <br>\r\n<br>\r\nYou laugh, \"well I guess that would kind of make us brothers\".<br>\r\n<br>\r\nShe then...</span></div></div>",
+            "created":1594530000,
+            "id":2867212,
+            "title":"Searches your room to find you"
+        },
+        "155124524":{
+            "author_id":"theheadsman",
+            "author_name":"Bodiless",
+            "choices":[
+                "Call out for your sister",
+                "Try to communicate with your body"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Wait, what?\" you are taken back by her decision.<br>\r\n<br>\r\n\"Going around and decapitating yourself is hardly what I'd describe as responsible. And think of your poor body\" she says sternly while putting you on your desk. She sets you down so you are standing up on the base of your neck. Your body comes into the room, still struggling a bit, but getting a bit more used to navigating now.<br>\r\n<br>\r\n\"So what do I do know?\" you ask her as she returns to the door.<br>\r\n<br>\r\n\"Up to you, I'm sure you know people to help you out, maybe your body. Which, by the way, body, you are welcome around whenever\" <br>\r\nYou were surprised how nice she was being to your body but you weren't sure it could even hear her.<br>\r\nShe then left your room. Now what?  </span></div></div>",
+            "created":1594702800,
+            "id":2868625,
+            "title":"confiscates the sword, and leaves you like this"
         },
         "15513":{
             "author_id":"playerone",
@@ -12197,6 +13514,17 @@
             "id":2779765,
             "title":"Neck"
         },
+        "1553311111":{
+            "author_id":"ananymph",
+            "author_name":"Yea",
+            "choices":[
+                "Next day"
+            ],
+            "content":"<div class=\"\"><div> <span>\u201cWhat happened? Why can\u2019t i feel anything below my-oh.\u201d \u201cYou fainted while i was doing the magic trick and your body is mine for a while or permanently.\u201d you replied. \u201cOk. Well since i can\u2019t really do about it. Can you put her some clothes at least?\u201d You put her in a tshirt and tights and sandals. You grab Ana and placed her by the sword. You explained the mode to her. \u201cOh, good thing you chose me though. I mean I\u2019ll honest I enjoy this. I want to lick my feet while i\u2019m here.\u201d She licks her own feet. \u201cI want to get my boss and turn her into my slave...Hey what about we make her into my worker.\u201d <br>\r\n\u201cSure.\u201d</span></div></div>",
+            "created":1595134800,
+            "id":2871490,
+            "title":"Her head woke up"
+        },
         "1553311112":{
             "author_id":"ananymph",
             "author_name":"Yea",
@@ -12220,6 +13548,33 @@
             "created":1580360400,
             "id":2780399,
             "title":"Cut Cassie and get their faceless heads"
+        },
+        "155331112":{
+            "author_id":"ananymph",
+            "author_name":"Yea",
+            "choices":[
+                "Fine",
+                "No",
+                "Cut her up more first",
+                "Trade lower halves with her",
+                "You'd rather enjoy her top half"
+            ],
+            "content":"<div class=\"\"><div> <span>She comes outside and comes down the stairs but instead of the expected outfit it\u2019s a bikini and she wore the bunny headband. \u201cSo...What do you think?\u201d<br>\r\n<br>\r\n\u201cIt\u2019s appropriate.\u201d you said shyly. You pointed out where to lie down and proceeded to cut her in half. <br>\r\n<br>\r\nHer lower half stood up as if it was waiting any commands. Ana could feel her lower half ,but just because you had to for the magic trick. \u201cWoah. Just woah.\u201d she said as if she was speechless. \u201cSo, do you want to have fun with my lower half?\u201d<br>\r\n<br>\r\n\u201cNo, it\u2019s ok.\u201d<br>\r\n<br>\r\n\u201cCmon i know you want have sex with it.\u201d </span></div></div>",
+            "created":1594962000,
+            "id":2870760,
+            "title":"Lower half"
+        },
+        "1553311121":{
+            "author_id":"ananymph",
+            "author_name":"Yea",
+            "choices":[
+                "Cut her head",
+                "Just leave them first and clean your selfo"
+            ],
+            "content":"<div class=\"\"><div> <span>You remove her panty and her heels. \u201cOh you\u2019re really excited aren\u2019t you.\u201d she said as she removes her bra. Her DD sized tits jiggling. Your dick rises up and she unzips your pants. Her feet grab your dick and plays with it. You moan as she moans also. You went straight for the pussy. \u201cHarder! Harder! Faster Faster!\u201d And then...<br>\r\n<br>\r\n<br>\r\nYou wake up. Her lower half is walking around naked. You see Ana\u2019s upper half asleep. So what now? </span></div></div>",
+            "created":1595221200,
+            "id":2871831,
+            "title":"Fine"
         },
         "15533112":{
             "author_id":"ananymph",
@@ -13019,6 +14374,84 @@
             "id":2855132,
             "title":"Head"
         },
+        "1553321224113":{
+            "author_id":"theheadsman",
+            "author_name":"The Headsman",
+            "choices":[
+                "sneaks you to her room",
+                "shows you to her family"
+            ],
+            "content":"<div class=\"\"><div> <span>You crash into a bundle of hay before rolling down and onto a plastic pickup liner. You hear the sound of a beefy engine as you bump and roll around. You put two and two together to realize you must've landed in a truck. A farmer's by the look of it. You couldn't see much where you were going but you could look up to see road signs indicating you were well on your way out of town.<br>\r\n<br>\r\nYou had a few thoughts of regret run past you, but overall you didn't see this as a bad thing. This was an adventure. A super cool, bodiless adventure. Besides, who really needs a body anyways? You entertained yourself with thoughts as you rolled around on your adventure. You oddly enjoyed the feeling of being separated from your body and now at quite a distance. <br>\r\n<br>\r\nYou road along as the road transitioned from pavement to gravel. The old truck's brakes squeaked as it came to a stop.  You hear the door open and feel the truck shake as it's slammed shut. Footsteps walk around the side of the truck and suddenly the tailgate drops. There's a red haired woman in a button up and overalls who's jaw drops.<br>\r\n<br>\r\n\"There's a head in the truck! Someone's head!\" She calls out.<br>\r\n<br>\r\n\"No no, I'm not... Wait, I am a head, but I'm not what you think\" you frantically try to ease her.<br>\r\n<br>\r\n\"Hold up\" she calls again. She then looks at you, \"what the hell are you?\"<br>\r\n<br>\r\n\"I'm John actually, I accidentally landed in your truck as you were driving out of town\" <br>\r\n<br>\r\n\"You landed? You don't have a body or something?\" She interrogates, seemingly not afraid of a disembodied head who can talk.<br>\r\n<br>\r\n\"Well, I do. Actually I'm normally fairly tall, though not as much now\" you get a small chuckle out of her, \"I used this sort of magic sword that caused my head to shoot off my body, straight across town and here I landed\"<br>\r\n<br>\r\n\"Wow, you're saying a nice tall headless man could've landed in my truck and yet I get the head?\"<br>\r\n<br>\r\nYou laugh and both smile.<br>\r\n\"I'm Ellie\" she tells you, reaching her hand out to shake yours before retracting realizing her habbit holds no ground here.<br>\r\n<br>\r\n\"If you'd like to see my body, you could always bring me back to the city\"<br>\r\n<br>\r\n\"Maybe, but not now, gas money's a bit thin. Though I'm heading back again in a few days.\"<br>\r\n<br>\r\n\"So, uh, sorry to have dropped in on you like this. I didn't mean to be a bother\"<br>\r\n<br>\r\n\"Aw, don't be sorry. Looks like I just got me a head to look after for a few days.\"<br>\r\n<br>\r\nShe then snatches you up and..</span></div></div>",
+            "created":1594530000,
+            "id":2867270,
+            "title":"In the bed of a pickup truck, driving out of town"
+        },
+        "15533212241131":{
+            "author_id":"theheadsman",
+            "author_name":"Bodiless",
+            "choices":[
+                "try to video chat your body",
+                "make you a comfy head bed"
+            ],
+            "content":"<div class=\"\"><div> <span>\"My family's going to be in a ruckus if they see I've brought a man home, no less his head only\" she explains.<br>\r\n<br>\r\n\"Fair enough\" you laugh. As she stuffs you in a bag and quickly heads up to her room. You hear her walk in and say hi to everyone before heading up the stairs. You hear the door close behind you both as she enters. She then promptly reaches in the bag and pulls you out. <br>\r\n\"Hey there, again\" she smiles.<br>\r\n<br>\r\n\"Hey, there\" you smile back. \"So what now?\"<br>\r\n<br>\r\n\"Well, I guess I've got you at least for the next week\"<br>\r\n<br>\r\n\"At least?\"<br>\r\n<br>\r\n\"You never know, maybe I'll like having a head around\" she teases.<br>\r\n<br>\r\n\"I'm sure my body could always just take yours\" <br>\r\n<br>\r\n\"Maybe I wouldn't mind\" she sounds a little interested in the prospect. <br>\r\n<br>\r\n\"So what do you do each day?\" you ask, curious of the schedule.<br>\r\n<br>\r\n\"With summer, I usually go work on the farm during the day but spend a lot of time in my room, so that's perfect\" she says as she sets you down on her desk. You then nod.<br>\r\n<br>\r\n\"First things, first though\" she says, \"We should...</span></div></div>",
+            "created":1594702800,
+            "id":2868646,
+            "title":"sneaks you to her room."
+        },
+        "1553321224114":{
+            "author_id":"theheadsman",
+            "author_name":"The Headsman",
+            "choices":[
+                "no one",
+                "a whole pool party"
+            ],
+            "content":"<div class=\"\"><div> <span>Kur-plunk you land in the water. You float pretty well as a head as you come straight back up to the surface. You bob there in a pool. You look around to see that it's actually just a backyard pool at someone's house. You immediately look to see who the pool may belong too.<br>\r\n<br>\r\nIn the pool with you is...<br>\r\n<br>\r\nMore chapter options:<br>\r\n-a group of other 'victims' of the sword</span></div></div>",
+            "created":1594530000,
+            "id":2867275,
+            "title":"In a backyard swimming pool"
+        },
+        "155332125":{
+            "author_id":"lurkingleapold",
+            "author_name":"Bangle",
+            "choices":[
+                "yourself.",
+                "your girlfriend, Michelle.",
+                "your sister, Jenna.",
+                "your best friend, Stefan.",
+                "your ex-girlfriend Wendy."
+            ],
+            "content":"<div class=\"\"><div> <span>Lost &amp; Found Mode:<br>\r\n<br>\r\n<i>In this mode, one of the longsword's edges will become copper tinted while the other side will remain steel colored.  When a cut is made, any body part on the copper side of the blade will disappear in a cloud of smoke, and reappear somewhere semi-random within a 1 mile radius of the steel-side of the blade.  The part cannot reappear anywhere that would immediately endanger or destroy it, and it will always reappear somewhere the part's owner could conceivably walk to (so it wouldn't appear in a cave a mile beneath the earth or in a passing airplane) hence the \"semi-random\" addendum, but there are no other rules on where it can appear, and there's nothing preventing someone from moving the parts outside the mile radius.  The severed part's owner will retain control and sensation of any removed part no matter how far away it is, removed parts cannot be reattached to anyone but the original owner, and the part's owner will develop a rudimentary \"sixth sense\", which will let them sense if they are generally getting closer to or further away from their severed part(s) whenever the owner is moving.<br>\r\n<br>\r\nIf the owner finds and reattaches their severed part(s), they \"win\", and as a reward they will be granted the ability to remove and reattached any previously severed part at will without the need of the sword and without the part disappearing.  If another slice is made, however, the game will reset and the owner will have to find their part(s) again, even if it's a part they'd already found before.</i><br>\r\n<br>\r\nYou turn the dial to this option and keep reading.<br>\r\n<br>\r\n<i>Anyhow, I must be going, please use the sword to its full advantage<br>\r\nSincerely,<br>\r\nWsxol.</i><br>\r\n<br>\r\nEager to play the most bizarre game of hide &amp; seek in your life, you decide to test the longsword on...</span></div></div>",
+            "created":1594875600,
+            "id":2870102,
+            "title":"Lost & Found mode"
+        },
+        "1553321251":{
+            "author_id":"theheadsman",
+            "author_name":"Bodiless",
+            "choices":[
+                "cut off your head",
+                "cut off your body (you'll be your head)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ready to have some fun with this, you decide what you'll be searching for.</span></div></span></div>",
+            "created":1595134800,
+            "id":2871688,
+            "title":"yourself."
+        },
+        "15533212511":{
+            "author_id":"theheadsman",
+            "author_name":"Bodiless",
+            "choices":[
+                "a shopping center",
+                "a warehouse",
+                "a public park",
+                "a gated community",
+                "it keeps changing direction, someone's moving it"
+            ],
+            "content":"<div class=\"\"><div> <span>You position the blade against your neck, ready to slice. With the note you were ready to treat this like a game.<br>\r\n<i>Ready</i><br>\r\nYou swung the blade back.<br>\r\n<i>Set</i><br>\r\nYou prepared your grip<br>\r\n<i>GO!</i><br>\r\nYou swung the blade back through your own neck. You felt it slice clean through, You were prepared to watch your head go tumbling down to the ground, but instead you found no head at all. You suddenly felt the air against the skin atop your smooth neck stump. You reached your hand up to feel, its was crazy. But you also noticed a new feeling. Something much more subtle, like a small presence. You think that must be your head, in your little game of Hide and Seek.<br>\r\nIt felt a little weak, that must of meant your head was pretty far away. <br>\r\n<br>\r\nDeciding that you would go at this game yourself, you sneak down the stairs and out the front door. Ah, now you had the fresh air against the top of your neck.<br>\r\nYou try walking in various directions to see if your head sense got any stronger. It felt a wee bit stronger to your left. So left it was. You started walking down the street that way. You definitely get some funny looks from passerbys as they gawk at your lack of a head. Some seem to think its cool, others are a little scared.<br>\r\nYou're proud of your neck though and that's what matters.<br>\r\n<br>\r\nYour head sense gets stronger as you walk that way, and into the main part of the city.<br>\r\nThough your journey eventually brings you to a crossroads.<br>\r\n<br>\r\nYou notice your head sense drags you in the direction of...</span></div></div>",
+            "created":1595221200,
+            "id":2872130,
+            "title":"cut off your head"
+        },
         "1553322":{
             "author_id":"playerone",
             "author_name":"PlayerOne",
@@ -13406,7 +14839,7 @@
         "id":1972796,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
         "last_full_update":1591700760,
-        "modified":1592873580,
+        "modified":1595270340,
         "pretty_title":"The Longsword"
     }
 }

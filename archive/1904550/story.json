@@ -333,6 +333,30 @@
             "id":2675969,
             "title":"Something else "
         },
+        "112":{
+            "author_id":"deverx",
+            "author_name":"SWLatina",
+            "choices":[
+                "Grow you",
+                "Shrink you"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is the scientist going to grow you, or shrink you?</span></div></span></div>",
+            "created":1594184400,
+            "id":2864326,
+            "title":"Expansion/shrink"
+        },
+        "1121":{
+            "author_id":"deverx",
+            "author_name":"SWLatina",
+            "choices":[
+                "He plans to grow you to twice your current height",
+                "He plans to increase the size of your breasts by two cup sizes"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How much and what parts will he grow?</span></div></span></div>",
+            "created":1594184400,
+            "id":2864327,
+            "title":"Grow you"
+        },
         "113":{
             "choices":[
                 "Beth",
@@ -2281,8 +2305,8 @@
         "description":"<td align=\"left\" class=\"norm\">You (use your handle for your name) and your family, (At least older sister Beth, younger sister Julie and twin sister Lucy, and 2 parents (Biological are Mother: Annabelle Father:Jeremy). others may be added.) are used as test subjets for your neighbors tests.<br>\r\nRules.<br>\r\nA little sex is okay, just not to much.<br>\r\nDon't go over board with family.<br>\r\nAnything else goes.</td>",
         "id":1904550,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1580447220,
-        "modified":1591998240,
+        "last_full_update":1594255020,
+        "modified":1594255020,
         "pretty_title":"The experiments"
     }
 }

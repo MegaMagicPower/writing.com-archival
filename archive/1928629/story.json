@@ -4,10 +4,10 @@
             "author_id":"mranderson",
             "author_name":"Mr. Anderson",
             "choices":[
-                "You're a 16y old girl",
-                "You're a 16y old boy",
-                "You're a 20y old girl",
-                "You're a 20y old boy",
+                "You're a 18y old girl",
+                "You're a 18y old boy",
+                "You're a 25y old girl",
+                "You're a 25y old boy",
                 "You're someone else"
             ],
             "content":"<div class=\"\"><div> <span>A beautiful saturday evening, you decide to take a walk. You have a lot of problem in your private life and you want to disconnect from the civilisation. So, you walk to the small forest close to your house. It's refreshing and you like the sound of nature. But, after 15 minutes of walking, you find - between two large trees - a very old well, almost in ruin. You look inside but there is nothing than darkness. With your hand in your pocket, you feel a coin you probably forgot there. That's how you have the idea to throw the coin and make a wish...</span></div></div>",
@@ -28,7 +28,7 @@
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span><i>What cool wish could I say ?</i> you think</span></div></span></div>",
             "created":1366434000,
             "id":1575269,
-            "title":"You're a 16y old girl"
+            "title":"You're a 18y old girl"
         },
         "111":{
             "author_id":"mranderson",
@@ -856,8 +856,8 @@
             "author_id":"mranderson",
             "author_name":"Mr. Anderson",
             "choices":[
-                "If it's impossible poeple try again and again by all mean.",
-                "If it's impossible they can do it anyway.",
+                "If it's impossible, they try again and again by all mean.",
+                "If it's impossible, they can do it anyway.",
                 "Something else"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You think about a good wish and say.<br>\r\n\"I wish everyone obey to what I say even if it's impossible.\"<br>\r\nAnd you throw the coin</span></div></span></div>",
@@ -2243,7 +2243,7 @@
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span><i>What cool wish could I say ?</i> you think</span></div></span></div>",
             "created":1365742800,
             "id":1570318,
-            "title":"You're a 16y old boy"
+            "title":"You're a 18y old boy"
         },
         "121":{
             "author_id":"mranderson",
@@ -4146,7 +4146,7 @@
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span><i>What wish could I say ?</i> you think.</span></div></span></div>",
             "created":1366434000,
             "id":1575277,
-            "title":"You're a 20y old girl"
+            "title":"You're a 25y old girl"
         },
         "131":{
             "author_id":"mranderson",
@@ -4616,7 +4616,7 @@
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span><i>What wish could I say ?</i> you think.</span></div></span></div>",
             "created":1366434000,
             "id":1575278,
-            "title":"You're a 20y old boy"
+            "title":"You're a 25y old boy"
         },
         "141":{
             "author_id":"mranderson",
@@ -5590,7 +5590,8 @@
             "author_name":"Mr. Anderson",
             "choices":[
                 "First wish",
-                "More wishes"
+                "More wishes",
+                "First wish"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What wish could I say ? you think.</span></div></span></div>",
             "created":1461733200,
@@ -5946,7 +5947,7 @@
         "description":"<td align=\"left\" class=\"norm\">As you take a walk in the forest in your backyard, you find an old well. For the fun you throw a coin and make a wish...</td>",
         "id":1928629,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":0,
+        "last_full_update":1592009160,
         "modified":1592009160,
         "pretty_title":"The wishes"
     }

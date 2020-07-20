@@ -844,6 +844,19 @@
             "id":2680365,
             "title":"All the tens"
         },
+        "12114122":{
+            "author_id":"deverx",
+            "author_name":"SWLatina",
+            "choices":[
+                "All the diamonds",
+                "The pair of tens",
+                "The Ace and the King"
+            ],
+            "content":"<div class=\"\"><div> <span>You thought about hanging on to the tens, but your gut told you that was going to be the low hand. So you hang on to your diamonds and take three cards.<br>\r\n<br>\r\nYou draw the Ace of Clubs and Two of Diamonds.<br>\r\n<br>\r\nSo much for listening to your gut.<br>\r\n<br>\r\nAnd, as luck would have it, you have the low hand, with the next lowest hand being Tifa's  with a pair of nines.<br>\r\n<br>\r\n\"At this rate, kid, we'll be rid of you soon,\" Nadine says, with a tone that says kidding/not kidding. Tifa gives her a pointed look, then gives you a softer one. \"Do not worry, I am sure your luck will improve.\"<br>\r\n<br>\r\nWith a sigh that says \"I hope so,\" you remove your jacket as the next hand is dealt out.<br>\r\n<br>\r\n-----------------<br>\r\n<br>\r\nYour Cards: A(D), K(D), Q(D), 10(S), 10(D)<br>\r\n<br>\r\nClothing Count:<br>\r\n<br>\r\nPlayer: Baseball cap, jacket, sneakers, socks, t-shirt, jeans, boxer shorts.<br>\r\nTifa: Gloves, sleeves, suspenders, boots, shorts, top, panties<br>\r\nCassie: Shoes, Socks, Top, Sports bra, Shorts, Panties<br>\r\nChloe: Boots, Socks, T-shirt, Jeans, Bra, panties<br>\r\nNadine: Boots, Socks, T-Shirt, Khakis, Bra, panties<br>\r\n<br>\r\nYou keep</span></div></div>",
+            "created":1594270800,
+            "id":2864599,
+            "title":"All the diamonds"
+        },
         "1211413":{
             "author_id":"hjeff90",
             "author_name":"HJeff",
@@ -1371,7 +1384,7 @@
         },
         "1222221211":{
             "author_id":"deverx",
-            "author_name":"DeverX",
+            "author_name":"SWLatina",
             "choices":[
                 "The Queen and the pair of fives",
                 "The pair of fives"
@@ -1383,7 +1396,7 @@
         },
         "12222212112":{
             "author_id":"deverx",
-            "author_name":"DeverX",
+            "author_name":"SWLatina",
             "choices":[
                 "The pair of fives",
                 "Everything but the five of clubs",
@@ -1396,7 +1409,7 @@
         },
         "122222121121":{
             "author_id":"deverx",
-            "author_name":"DeverX",
+            "author_name":"SWLatina",
             "choices":[
                 "The pair of tens",
                 "Everything but the ten of spades",
@@ -1409,7 +1422,7 @@
         },
         "1222221211211":{
             "author_id":"deverx",
-            "author_name":"DeverX",
+            "author_name":"SWLatina",
             "choices":[
                 "The pair of tens",
                 "The ten of clubs and the nine and eight",
@@ -1422,7 +1435,7 @@
         },
         "12222212112111":{
             "author_id":"deverx",
-            "author_name":"DeverX",
+            "author_name":"SWLatina",
             "choices":[
                 "none of your cards (Discard all five)",
                 "The King of Clubs",
@@ -1436,7 +1449,7 @@
         },
         "122222121121113":{
             "author_id":"deverx",
-            "author_name":"DeverX",
+            "author_name":"SWLatina",
             "choices":[
                 "The Ace",
                 "The Ace and the King",
@@ -1574,7 +1587,7 @@
         },
         "122224":{
             "author_id":"deverx",
-            "author_name":"DeverX",
+            "author_name":"SWLatina",
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The world around you begins flashing and breaking down into little pixels,<br>\r\n<br>\r\nSuddenly, you find yourself in an empty parking lot, with no sign of the Inventory. You search for the Inventory for the rest of your life, but never find it.</span></div></span></div>",
             "created":1582002000,
             "id":2789375,
@@ -1606,7 +1619,7 @@
         },
         "1241":{
             "author_id":"deverx",
-            "author_name":"DeverX",
+            "author_name":"SWLatina",
             "choices":[
                 "you're going to have to play a new table",
                 "you're going to have to go home"
@@ -1618,7 +1631,7 @@
         },
         "12411":{
             "author_id":"deverx",
-            "author_name":"DeverX",
+            "author_name":"SWLatina",
             "choices":[
                 "Injustice: Gods Among Us",
                 "The 2020 Avengers Video Game",
@@ -1631,7 +1644,7 @@
         },
         "12412":{
             "author_id":"deverx",
-            "author_name":"DeverX",
+            "author_name":"SWLatina",
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The character escorts you out a door and you find yourself in an empty parking lot, with no sign of the Inventory. You search all your life, but you never find the Inventory again.</span></div></span></div>",
             "created":1582088400,
             "id":2789655,
@@ -1672,7 +1685,7 @@
         },
         "12512":{
             "author_id":"deverx",
-            "author_name":"DeverX",
+            "author_name":"SWLatina",
             "choices":[
                 "head for the exit too",
                 "Keep your seat"
@@ -1684,7 +1697,7 @@
         },
         "125121":{
             "author_id":"deverx",
-            "author_name":"DeverX",
+            "author_name":"SWLatina",
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The next thing you know, you're in an empty parking lot, with nothing else in sight.<br>\r\n<br>\r\nYou spend the rest of your life trying to find the inventory, but never find it again.</span></div></span></div>",
             "created":1581742800,
             "id":2787896,
@@ -1692,7 +1705,7 @@
         },
         "125122":{
             "author_id":"deverx",
-            "author_name":"DeverX",
+            "author_name":"SWLatina",
             "choices":[
                 "an empty parking lot",
                 "a large room full of new furry characters"
@@ -1704,7 +1717,7 @@
         },
         "1251221":{
             "author_id":"deverx",
-            "author_name":"DeverX",
+            "author_name":"SWLatina",
             "choices":[
                 "both Aces",
                 "both Aces and the King",
@@ -1717,7 +1730,7 @@
         },
         "12512211":{
             "author_id":"deverx",
-            "author_name":"DeverX",
+            "author_name":"SWLatina",
             "choices":[
                 "run for one of the doors",
                 "leap on top of the glowing ball"
@@ -1729,7 +1742,7 @@
         },
         "125122111":{
             "author_id":"deverx",
-            "author_name":"DeverX",
+            "author_name":"SWLatina",
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The next thing you know, you find yourself in an open parking lot, with the Inventory nowhere in sight.<br>\r\n<br>\r\nYou spend the rest of your life looking for the inventory, but to no avail.</span></div></span></div>",
             "created":1581829200,
             "id":2788166,
@@ -1737,7 +1750,7 @@
         },
         "125122112":{
             "author_id":"deverx",
-            "author_name":"DeverX",
+            "author_name":"SWLatina",
             "choices":[
                 "We thought we would play a little game, Fran answers",
                 "You'll find out, Fran says mysteriously"
@@ -1747,9 +1760,34 @@
             "id":2788200,
             "title":"leap on top of the glowing ball"
         },
+        "1251221121":{
+            "author_id":"deverx",
+            "author_name":"SWLatina",
+            "choices":[
+                "The King and the Ten",
+                "All of the diamonds"
+            ],
+            "content":"<div class=\"\"><div> <span>\"A little game?\" you ask, both excited and nervous.<br>\r\n<br>\r\n\"Mmmmm hmmmm,\" Fran says with a grin. \"Here's how it's going to work. Before we start the regular game back up, you're going to play a one-on-hand with each one of us. if you lose, you take of one piece of clothing. If one of us loses, we have to take off a piece of clothing.\"<br>\r\n<br>\r\n\"And you get to choose the piece of clothing we remove,\" Makota chimed in as she gave you a saucy wink.<br>\r\n<br>\r\n\"And get to play with anything that get's exposed. Doesn't that sound like fun?\" Felicia said excitedly.<br>\r\n<br>\r\nIt certainly sounded exciting to you. You wanted to say something, but found you couldn't get your mouth to working. Instead, you just nodded, hoping you didn't look too goofy. The girls just laughed, but it was a good-natured laugh.<br>\r\n<br>\r\n\"I'll go first,\" Vika said, blushing a little at her boldness. You nod, then force yourself to concentrate.<br>\r\n<br>\r\n-------------<br>\r\n<br>\r\nYour cards: K(D), 10(D), 6(C). 4(D), 3(C)<br>\r\n<br>\r\nClothing count:<br>\r\n<br>\r\nPlayer: Baseball cap, jacket, sneakers, socks, t-shirt, jeans, boxer shorts.<br>\r\nFelicia: Gloves, shoes, dress, panties<br>\r\nMakoto Nanaya: Gloves, Boots, Stockings, Top, Skirt shorts<br>\r\nFran: Helmet, Shoes, Stockings/wrappings, gloves, shoulder sleeves, shorts, bustier, panties<br>\r\nVika: Shoes/wrappings, Arm and wrist bracelets, top, shorts, panties<br>\r\n<br>\r\nYou keep<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n</span></div></div>",
+            "created":1593147600,
+            "id":2857032,
+            "title":"We thought we would play a little game, Fran an..."
+        },
+        "12512211211":{
+            "author_id":"deverx",
+            "author_name":"SWLatina",
+            "choices":[
+                "Felicia",
+                "Makoto Nanaya",
+                "Fran"
+            ],
+            "content":"<div class=\"\"><div> <span>You draw the Queen of DIamonds, the Six of Diamonds and the Ten of Hearts.<br>\r\n<br>\r\nOkay, maybe it's enough to beat whatever Viki has.<br>\r\n<br>\r\nViki takes one card and, when you show your pair of tens, she gives you a sad smile.<br>\r\n<br>\r\n\"Sorry,\" she adds as she shows you an Ace High flush.<br>\r\n<br>\r\nWith a sigh, you take off your hat. <br>\r\n<br>\r\n\"So who's up next?\" Vika asks.<br>\r\n<br>\r\n---------------<br>\r\n<br>\r\nNo cards dealt.<br>\r\n<br>\r\nPlayer: <span style=\"text-decoration:line-through\">Baseball cap</span>, jacket, sneakers, socks, t-shirt, jeans, boxer shorts.<br>\r\nFelicia: Gloves, shoes, dress, panties<br>\r\nMakoto Nanaya: Gloves, Boots, Stockings, Top, Skirt shorts<br>\r\nFran: Helmet, Shoes, Stockings/wrappings, gloves, shoulder sleeves, shorts, bustier, panties<br>\r\nVika: Shoes/wrappings, Arm and wrist bracelets, top, shorts, panties<br>\r\n<br>\r\nThe next one-on-one player is</span></div></div>",
+            "created":1593493200,
+            "id":2859413,
+            "title":"The King and the Ten"
+        },
         "1251222":{
             "author_id":"deverx",
-            "author_name":"DeverX",
+            "author_name":"SWLatina",
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You find yourself in an empty parking lot, with no building in sight.<br>\r\n<br>\r\nYou spend the rest of your life looking for the Inventory, but can never find it again.</span></div></span></div>",
             "created":1581742800,
             "id":2787907,
@@ -1769,7 +1807,7 @@
         },
         "12521":{
             "author_id":"deverx",
-            "author_name":"DeverX",
+            "author_name":"SWLatina",
             "content":"<div class=\"\"><div> <span>As the cards get dealt out, you look at the other players and say, \"You know what? This isn't my thing.\"<br>\r\n<br>\r\nAll the jaws in the room drop as you walk out the door, never looking back. You never see the Inventory again, but then again, you never look for it again either.</span></div></div>",
             "created":1582002000,
             "id":2789399,
@@ -1852,7 +1890,7 @@
         },
         "12531112":{
             "author_id":"deverx",
-            "author_name":"DeverX",
+            "author_name":"SWLatina",
             "choices":[
                 "The pair of fives",
                 "Everything but the five of hearts",
@@ -1878,7 +1916,7 @@
         },
         "125311131":{
             "author_id":"deverx",
-            "author_name":"DeverX",
+            "author_name":"SWLatina",
             "choices":[
                 "The Ace",
                 "The Ace and King",
@@ -1888,6 +1926,19 @@
             "created":1582088400,
             "id":2789648,
             "title":"Everything but the two of diamonds"
+        },
+        "1253111312":{
+            "author_id":"deverx",
+            "author_name":"SWLatina",
+            "choices":[
+                "All the clubs",
+                "The Queen",
+                "The Queen and the Ten"
+            ],
+            "content":"<div class=\"\"><div> <span>Keeping the Ace and King, you draw three cards.<br>\r\n<br>\r\nYou draw the Ace of Diamonds, the Queen of Spaces and the Seven of Clubs. <br>\r\n<br>\r\nPair of Aces should keep you off the bottom, you think smugly to yourself. It would be better if you got the high hand, considering the side bet going on, but as long as you're not the one losing, then the odds are you'll eventually get a winning hand.<br>\r\n<br>\r\nClaire ends up losing the hand with a  pair of threes.<br>\r\n<br>\r\n\"Well, everyone has ponied up but our cheerleader,\" Claire laughed as she pulled off her gloves. Juliet stuck out her tongue, which made everyone laugh.<br>\r\n<br>\r\n\"I just think she's just waiting for the kid to get the high hand before she loses,\" Jill remarks, which gets a shriek from Juliet and general laughter as the next hand is dealt out.<br>\r\n<br>\r\n------<br>\r\n<br>\r\nYour Hand: Q(C) 10(S) 7(C) 4(C) 3(C)<br>\r\n<br>\r\nClothing Count:<br>\r\n<br>\r\nPlayer: <span style=\"text-decoration:line-through\">Baseball cap</span>, jacket, sneakers, socks, t-shirt, jeans, boxer shorts.<br>\r\nJill: <span style=\"text-decoration:line-through\">Gloves</span>, <span style=\"text-decoration:line-through\">shoes and socks</span>, blue top, pants, black tank top, bra, panties.<br>\r\nJuliet: Bracelets and leg warmers, shoes, skirt, hair scrunchies, stockings, cheerleader top, purple thong.<br>\r\nClaire: <span style=\"text-decoration:line-through\">Gloves</span>, boots and socks, vest, short t-shirt, jeans, bra, panties.<br>\r\nAnnie: <span style=\"text-decoration:line-through\">Gloves</span>, jacket, boots, stockings, skirt, yellow top, panties.<br>\r\n<br>\r\nYou keep</span></div></div>",
+            "created":1594184400,
+            "id":2864003,
+            "title":"The Ace and King"
         },
         "1253112":{
             "author_id":"hjeff90",
@@ -2080,7 +2131,7 @@
         },
         "12531211":{
             "author_id":"deverx",
-            "author_name":"DeverX",
+            "author_name":"SWLatina",
             "choices":[
                 "The Ace",
                 "The Ace and the nine",
@@ -2758,8 +2809,8 @@
         "description":"<td align=\"left\" class=\"norm\"> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0The Inventory is a former speakeasy turned hangout for all manner of characters from the video game world. On a normal night you could find all sorts in the club drinking, talking or participating in one of the many high stakes gambling games that the place hosts for its diverse clientele.<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Tonight, however, is not a normal night. Tonight you, lucky gamer, have been invited to a very special game. You will play a game of poker against four lovely video game heroines. Not just any poker, either. Strip poker. The winner is the last one left at the table with their modesty intact. Will you win or will you lose your shirt...literally?<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0It's going to be a long night.<br>\r\n<br>\r\n<b>General Rules:</b><br>\r\n<br>\r\n-No growth/shrink or body modification of any kind.<br>\r\n-Nothing scatological. No peeing and no diapers, either.<br>\r\n-No vore.<br>\r\n-No extreme torture, violence or death. (BDSM is just fine, though)<br>\r\n<br>\r\n<b>Game Rules:</b><br>\r\n<br>\r\n-Each entry is a single hand in the game. It will begin with the player's choice of discard from the previous chapter. The loser of the hand removes a single article of clothing. Once new cards are dealt and its time to select cards again a new page is made. There are no time lapses or glossing over of hands in single chapters.<br>\r\n<br>\r\n-Don't make any of the choices at the end of a chapter be the result of the hand. For instance, none of the choices should be \"X wins the hand\" or \"X loses the hand.\" It should always pertain to the cards the player has, unless the current event being decided on does not have to do with the poker game, such as a forfeit.<br>\r\n<br>\r\n-Always end each chapter with the status of the current characters, as seen in the chapters already posted. This will help future writers of chapters to be clear on what is currently going on.<br>\r\n<br>\r\n-Once a player loses their last article of clothing, they must perform a forfeit. The forfeit is author's choice. It can be anything from simple embarrassing tasks like posing for photos or streaking to full on sex. It's best to gauge the current tone of the story to feel what kind of forfeit would be appropriate at that time. The longer the game goes on, the racier they tend to become.<br>\r\n<br>\r\n-The game continues until all but the player are naked or until the player loses.<br>\r\n<br>\r\n-Should the player lose, once they strip and perform the forfeit the story branch ends with a game over. The game does not continue once the player is out.<br>\r\n<br>\r\n-Don't be afraid to write dialogue between the characters. Some of the most memorable parts of the game Poker Night at the Inventory are the conversations, so throw in some good insides jokes or just some good dialogue between the players.</td>",
         "id":1979048,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1582132080,
-        "modified":1582132080,
+        "last_full_update":1594281840,
+        "modified":1594281840,
         "pretty_title":"Strip Poker Night at the Inventory"
     }
 }

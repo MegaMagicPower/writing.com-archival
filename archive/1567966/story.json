@@ -96,7 +96,7 @@
         },
         "114":{
             "author_id":"deverx",
-            "author_name":"DeverX",
+            "author_name":"SWLatina",
             "choices":[
                 "On the beach",
                 "In the middle of a medieval village",
@@ -146,6 +146,19 @@
             "created":1569128400,
             "id":2721994,
             "title":"Going Solo on the 4th Floor"
+        },
+        "123":{
+            "author_id":"deverx",
+            "author_name":"SWLatina",
+            "choices":[
+                "go down to the basement where they keep school plans and other info",
+                "go to the town's planning commission archives after school",
+                "just forget about it"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>David decides to</span></div></span></div>",
+            "created":1594270800,
+            "id":2864611,
+            "title":"Other options"
         },
         "13":{
             "author_id":"inuyasha21",
@@ -199,6 +212,18 @@
             "id":1706889,
             "title":"Bills grows while playing the game"
         },
+        "1313":{
+            "author_id":"deverx",
+            "author_name":"SWLatina",
+            "choices":[
+                "Bill remains in this world",
+                "Bill shifts to a different reality"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Bill's sudden and dramatic growth spurt  happen in this world, or does it somehow shift him into an alternate reality?</span></div></span></div>",
+            "created":1593493200,
+            "id":2859420,
+            "title":"Bill instantly grows bigger right there and now."
+        },
         "132":{
             "choices":[
                 "Continue (Bill's perspective)",
@@ -223,7 +248,7 @@
         },
         "13221":{
             "author_id":"ivan33",
-            "author_name":"Jake",
+            "author_name":"Ivan",
             "choices":[
                 "Go after daddy",
                 "see the mess your giant father left behind"
@@ -235,7 +260,7 @@
         },
         "132211":{
             "author_id":"ivan33",
-            "author_name":"Jake",
+            "author_name":"Ivan",
             "choices":[
                 "Now",
                 "Later"
@@ -259,7 +284,7 @@
         },
         "13221111":{
             "author_id":"ivan33",
-            "author_name":"Jake",
+            "author_name":"Ivan",
             "choices":[
                 "More father son time",
                 "DitcH dad( dads pov)"
@@ -871,8 +896,8 @@
         "description":"<td align=\"left\" class=\"norm\">So I've seen alot of gentle female giants, but there's only one or two gentle male giant stories. So here it is! <br>\r\n<br>\r\n1. NO FEMALE GIANTS!  There are ALOT of other gentle giantess stories to add to.<br>\r\n<br>\r\n2. There can be evil giants, but the gentle giant is the main character. The gentle gaint CANNOT turn evil. <br>\r\n<br>\r\n3. There CAN be more than one gentle giant in each story.<br>\r\n<br>\r\n4. Like my other stories, I alow language, gay characters, and sex.<br>\r\n<br>\r\n5. PLEASE ADD! I will be giving 300 GPs for every GOOD chapter. By that I mean, a decent length. Don't post one or two sentences and expect the GPs. <br>\r\n<br>\r\nHAVE FUN!</td>",
         "id":1567966,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1585075560,
-        "modified":1585075560,
+        "last_full_update":1594284540,
+        "modified":1594284540,
         "pretty_title":"Gentle Male Giants"
     }
 }

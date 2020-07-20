@@ -1081,7 +1081,7 @@
             "choices":[
                 "start"
             ],
-            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>cool idea to have also an age regression here <img style=\"\" src=\"https://images.Writing.Com/imgs/writing.com/writers/e15/smile.png\" alt=\"*Smile*\" class=\"emoteZ\" title=\"Smile\" border=\"0\" width=\"15\" height=\"15\"></span></div></span></div>",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>cool idea to have also an age regression here <img loading=\"lazy\" style=\"\" src=\"https://images.Writing.Com/imgs/writing.com/writers/e15/smile.png\" alt=\"*Smile*\" class=\"emoteZ\" title=\"Smile\" border=\"0\" width=\"15\" height=\"15\"></span></div></span></div>",
             "created":1488171600,
             "id":2282878,
             "title":"Yes"
@@ -12742,7 +12742,7 @@
             "choices":[
                 "continue"
             ],
-            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>of course since you are twins <img style=\"\" src=\"https://images.Writing.Com/imgs/writing.com/writers/e15/smile.png\" alt=\"*Smile*\" class=\"emoteZ\" title=\"Smile\" border=\"0\" width=\"15\" height=\"15\"></span></div></span></div>",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>of course since you are twins <img loading=\"lazy\" style=\"\" src=\"https://images.Writing.Com/imgs/writing.com/writers/e15/smile.png\" alt=\"*Smile*\" class=\"emoteZ\" title=\"Smile\" border=\"0\" width=\"15\" height=\"15\"></span></div></span></div>",
             "created":1583211600,
             "id":2796025,
             "title":"Same kind for both"
@@ -13224,6 +13224,32 @@
             "created":1512968400,
             "id":2426668,
             "title":"In a changing world..."
+        },
+        "155332":{
+            "author_id":"jacksmith3",
+            "author_name":"Mikejam76",
+            "choices":[
+                "Yes",
+                "No",
+                "Next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Someone become a clone of a celebrity.</span></div></span></div>",
+            "created":1593320400,
+            "id":2857859,
+            "title":"Move along."
+        },
+        "1553321":{
+            "author_id":"jacksmith3",
+            "author_name":"Mikejam76",
+            "choices":[
+                "M8ni  miley",
+                "Skip to later",
+                "Happen slowly"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Little boy turns into a clone of miley cyrus.</span></div></span></div>",
+            "created":1593320400,
+            "id":2857860,
+            "title":"Yes"
         }
     },
     "info":{
@@ -13234,8 +13260,8 @@
         "description":"<td align=\"left\" class=\"norm\">Welcome to the interactive \"Things Change for No Reason\", where the cause of things like gender bending, body switching, or age regression is not required. Here are some terms and conditions before the fun begins:<br>\r\n<br>\r\n1. Don't put down a cause for someone's transformation; I don't want to be made a liar from the title. So no ray guns, pandemics, witches, or any of that stuff. However, things like wishes are acceptable since they technically lack physical presence to really be considered \"causes.\" Just don't overdo them.<br>\r\n<br>\r\n2. No exceeding the rating or putting in offensive material.<br>\r\n<br>\r\n3. Show some respect for grammar and story structure.<br>\r\n<br>\r\n4. Don't waste space for choices. For example, in \"Body Swap\", don't just waste the space on one story; give multiple choices. Be sure to use \"other\" or \"something else\" choices to give others the chance to give out their ideas.</td>",
         "id":1505033,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":0,
-        "modified":1591518480,
+        "last_full_update":1593334260,
+        "modified":1593334260,
         "pretty_title":"Things Change For No Reason"
     }
 }

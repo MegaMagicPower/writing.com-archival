@@ -36,6 +36,30 @@
             "id":2455386,
             "title":"Get in the car with Grant, and drive off."
         },
+        "1111":{
+            "author_id":"cornsnacks",
+            "author_name":"Sakuya Kawakami",
+            "choices":[
+                "You tell Grant that the two of you need to get inside your house",
+                "You tell Grant to stay on lookout in the car"
+            ],
+            "content":"<div class=\"\"><div> <span>You head back to your house with Grant. When the car pulls into your neighborhood, you feel a sense of dread at what you are about to approach. Grant has his mouth wide open at all the destruction around the hood. It looks like a bunch of bombs have gone off.. houses destroyed, walls caved in, and yards full of smoking wreckage. \"Holy shit dude.\" He says in shock. \"I have to check if my family is okay! Where is everyone?\" <br>\r\n<br>\r\n\"I think I should go in.\" You respond back to him, not feeling sure. Your neighbors' house, the Hendersons, looks completely torn apart. Worse, you see a puddle of a dark looking liquid pouring from under the front door and dripping into the front lawn. \"I told you we should've gone to get guns!\" You tell Grant to shut up, he is going on some rant about how the two of you are going to die. You are taking breaths to try to bring yourself back.. Okay, time to look at this situation. A group of deranged individuals, or <i>vampires</i> if we want to go there, have been attacking Ridgedon. Family might be dead.. but even with all his precautions and your mom's disapproval, you know for a fact that your dad keeps a shotgun in his bedroom.<br>\r\n\"Look Grant, the door to my house looks held together with wooden boards. I don't see anyone around. Can I borrow your phone to call them inside?\"<br>\r\n<br>\r\nBeing a passenger with no choice, Grant reluctantly hands you the phone. He is concerned that you two are sitting in the car, which is missing a passenger seat and sparking from the blunt damage it just took. He is on the lookout and even with all the damage, it looks like whatever or whoever caused it.. has left the neighborhood. \"Dammit, no reception for some reason.. I can't connect and I can't see if the news is saying anything.\" You hand the phone back to Grant. </span></div></div>",
+            "created":1593666000,
+            "id":2860661,
+            "title":"Back to the Old House"
+        },
+        "11112":{
+            "author_id":"cornsnacks",
+            "author_name":"Sakuya Kawakami",
+            "choices":[
+                "Grant comes out to join you",
+                "He's had enough..."
+            ],
+            "content":"<div class=\"\"><div> <span>\"Hey! What the hell, man!\" Grant yells at you but you are already out of the car. He watches you in disbelief as you quickly walk over up your porch and try to figure out how to open the boarded door. He is free to follow or do as he wishes yet he just stays in the car, probably too immobilized by the horrors you two have witnessed already. Damn, you think to yourself, I know they keep a key under the mat but that doesn't help too much when the whole door is just blocked up. <br>\r\n<br>\r\nYou try to take one of the wooden planks out, careful not to get your hand caught on a loose rusty nail. No doubt dad had done this in a rush judging by how sloppy it is... \"Come on man, hurry up!\" Grant yells again through the missing place in the car where the passenger door would be. Instead of yelling back and getting caught in some pointless shouting match, you hold your hand up to as if silently requesting him to shut the fuck up. You lift up the welcome mat and find a different key underneath. Knowing dad, he must've put in some other way to get in the house and this has to be it... This one opens a door in the back, there's a gate but it shouldn't be too hard to get their attention from there... \"Grant I gotta keep finding a way to get in here, my parents seem to be safe at least...\"</span></div></div>",
+            "created":1593925200,
+            "id":2861648,
+            "title":"A Bad Friend"
+        },
         "1112":{
             "author_id":"tsarbacon",
             "author_name":"Dank Memes",
@@ -128,8 +152,8 @@
         "description":"<td align=\"left\" class=\"norm\">In 1850, a priest from Boston had come out to the territory that would later become Arizona, after hearing tales of people being slaughtered by unholy creatures of the night, known as \"vampires\" to the old world. He arrived in the small mining town of Old Canyon, and began questioning the residents about the vampires. He was told where to find what most considered to be the main coven, and was told a incantation that he could use lock the creatures in their cave. He went on his way, armed with wooden stakes, holy water, and the incantation. He found the cave that the coven called home, and dismounted his horse, and took out his bottle of holy water. He began dousing the entrance with it, while reciting the incantation. Before he could finish it, though, he was ambushed by members of the coven. He managed to take a few out with stakes to the heart, but he ultimately got pinned by one of them. It taunted him, and then readied to drain his blood, when he began praying. As if by the Lord's hand, the priest managed to break free of the vampire holding him down, and stabbed it in the heart. He then proceeded with reciting the incantation, and did it near perfectly, and just as he finished, a lightning bolt struck the cave's entrance, causing it to collapse, trapping the coven inside. The priest had sealed the unholy creatures away for good, or so he thought.<br>\r\n<br>\r\n146 years later, in 1996, a group of five teenagers drive out to the fabled cave, with the intent of camping and possibly catching a vampire on film. Some of them get drunk, and manage to accidentally free the coven, which leads to the deaths of four of the teens. and mysteriously, the half-vampire transformation of one. With the coven not sated from the blood of the four teens, they make their way to the nearby town of Ridgedon, which is about two miles from the abandoned remains of Old Canyon. Ridgedon may not have any residents by morning...</td>",
         "id":2149808,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1519195140,
-        "modified":1592698140,
+        "last_full_update":1593928560,
+        "modified":1593928560,
         "pretty_title":"Night of the Vampires"
     }
 }

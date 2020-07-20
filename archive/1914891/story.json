@@ -216,6 +216,31 @@
             "id":2510123,
             "title":"Jack Checks Out His New Body"
         },
+        "1132":{
+            "author_id":"switcher",
+            "author_name":"switcher",
+            "choices":[
+                "Forcing A Swap",
+                "Finding Someone Else",
+                "Giving Up"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>John shook his head. \"No thanks, kiddo. I've some important stuff to do that you'd just not be able to do,\" His father answered. Jack released a sigh of disappointment, looking back down at the remote and..</span></div></span></div>",
+            "created":1594357200,
+            "id":2865240,
+            "title":"John Doesn't Agree"
+        },
+        "11323":{
+            "author_id":"switcher",
+            "author_name":"switcher",
+            "choices":[
+                "Maddy",
+                "Erica"
+            ],
+            "content":"<div class=\"\"><div> <span>Jack decided to toss the remote aside before heading up to his bedroom, feeling as if the remote was a total waste as his mother dislikes it and his father isn't willing to swap with him. Someone else doesn't see it was such, though, and that is..</span></div></div>",
+            "created":1594357200,
+            "id":2865243,
+            "title":"Giving Up"
+        },
         "12":{
             "author_id":"kaiensekai",
             "author_name":"Kaien",
@@ -391,6 +416,18 @@
             "created":1566709200,
             "id":2707637,
             "title":"Erica"
+        },
+        "12331":{
+            "author_id":"switcher",
+            "author_name":"switcher",
+            "choices":[
+                "Maddy Flips",
+                "Maddy's Happy"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Hey Maddy! I want to show you something!\" Erica exclaims as she rushes upstairs to her older sister's bedroom, the evil grin still plastered on her young face. The thirteen year old was dressed in a pair of light blue jeans along with a white tee that read \"Peace\" in rainbow lettering. She also had a silver heart necklace around her neck and silver earrings in her ears. Her hair was blonde and was braided. Upon making it up to her sister's bedroom, Erica knocked on the door before waiting outside anxiously. Her tongue glossed over the braces on her teeth, causing her to think about how she couldn't wait to get rid of them as she'll now be Maddy. <br>\r\n<br>\r\nAfter a couple of minutes, Maddy opened up the bedroom door to reveal herself. She was dressed in a pair of black leggings along with a dark red tanktop, while on her left wrist was a pink Apple watch and a plaid scrunchies . Her dirty blonde hair was done up in a messy bun, which allowed for some bumps to be seen on her forehead near her hairline. She seemed to have been filming a TikTok. \"What is it, Erica?\" Maddy questioned her sister, placing her hand on her hip and waiting for an answer. \"Oh, I just wanted to do this,\" Erica responded before pointing the remote at her older sister and causing the two to almost instantly switch bodies with each other.</span></div></div>",
+            "created":1594357200,
+            "id":2865232,
+            "title":"Maddy"
         }
     },
     "info":{
@@ -401,8 +438,8 @@
         "description":"<td align=\"left\" class=\"norm\">Plot: Jack finds a body swapping remote that lets two people switch bodies. So he tries it out on his Mom.<br>\r\n<br>\r\nCharacters:<br>\r\nJack - 16<br>\r\nMom (Jennifer) - 38<br>\r\nMaddy (Older Daughter) - 15<br>\r\nErica (Younger Daughter) - 13<br>\r\nFather (John) - 40<br>\r\n</td>",
         "id":1914891,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1582236720,
-        "modified":1582236720,
+        "last_full_update":1594362540,
+        "modified":1594362540,
         "pretty_title":"Family Body Swap"
     }
 }

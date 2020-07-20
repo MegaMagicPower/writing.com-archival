@@ -20,10 +20,10 @@
             "author_name":"sup",
             "choices":[
                 "Tina, age 15",
-                "Jessica, age 13",
+                "Jessica, age 21",
                 "Hillary, age 12",
                 "Sally, age 17",
-                "Racheal, age 10"
+                "Racheal, age 19"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The good old US of A. Where immigrants come to make their dreams come true. Now you must select a girl you want to blow up. The girls and their ages are down below.</span></div></span></div>",
             "created":1361768400,
@@ -31,15 +31,17 @@
             "title":"USA"
         },
         "112":{
+            "author_id":"ncurto772",
+            "author_name":"nic",
             "choices":[
-                "Little Miss Beauty Queen",
-                "World's Largest Fruit",
-                "Little Miss Sex Icon"
+                "While Jessica is going to class, she runs into someone",
+                "She has a free block in the day and decides to go somewhere",
+                "Jessica decided todays the day she'll finish her final project"
             ],
-            "content":"<div class=\"\"><div> <span>If you've ever watched Toddlers and Tiara's or Honey Boo Boo, you might know that beauty pageants are a big deal. Jessica was not very good at them, despite what her pushy mother told her. And when her mother wanted something, she would do anything to get it. There was one space in a trophy case that had to go to something, and she was desperate. She had shipped for a special stick of gum to help her win a prize. She was hoping Jessica would be the future...</span></div></div>",
-            "created":1362114000,
-            "id":1541775,
-            "title":"Pushed to success"
+            "content":"<div class=\"\"><div> <span>Living in an apartment, along with taking core curriculum classes and balancing a part time job would be difficult for most people, however Jessica was not most.  She had stood out from her peers most of her life due to her above average intelligence and incredible time management skills.  When first attending college, she choose the path of bio-engineer due to her fascination with the natural world and humans ability to potentially tame it for their own needs.<br>\r\n<br>\r\nHer intelligence was not the only noteworthy thing that distinguished her, the 5'10 stature also contributed along with her jet black hair, slender frame and perky assets.  Jessica had everything going for her that a girl her age could want, however one day would change her life in ways she could not imagine..</span></div></div>",
+            "created":1592370000,
+            "id":2852776,
+            "title":"Jessica, age 21"
         },
         "1122":{
             "author_id":"frown",
@@ -1849,11 +1851,11 @@
             "author_id":"frown",
             "author_name":"sup",
             "choices":[
-                "Yumi, age 12",
+                "Yumi, age 17",
                 "Mai, age 15",
                 "Naomi, age 16",
                 "Momoko, age 11",
-                "Sakura, age 13"
+                "Sakura, age 18"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So you have chosen to go with the land of the rising sun. Now you choose who will get blueberried. Will it be a school girl, a geisha? Its up to you.</span></div></span></div>",
             "created":1361768400,
@@ -2092,9 +2094,9 @@
             "author_id":"frown",
             "author_name":"sup",
             "choices":[
-                "Alice, age 10",
-                "Elizabeth, age 12",
-                "Felicity, age 13",
+                "Alice, age 19",
+                "Elizabeth, age 22",
+                "Felicity, age 18",
                 "Susan, age 15",
                 "Tiffany, age 16"
             ],
@@ -2628,8 +2630,8 @@
                 "Genji, age 16",
                 "Ling, age 14",
                 "Mei Li, age 15",
-                "Ming, age 11",
-                "Yi, age 13"
+                "Ming, age 17",
+                "Yi, age 24"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So you have decided to go with the country famous for its enormous wall. Now lets see which chinese girl gets blown out of proportion.</span></div></span></div>",
             "created":1361768400,
@@ -3149,7 +3151,7 @@
             "choices":[
                 "Kaliska, age 14",
                 "Nirvelli, age 15",
-                "Wenona, age 11"
+                "Wenona, age 18"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So you've chosen the hindu capital of the world. Now you have to select the girl who will be the spiritual embodiment of the blueberry.</span></div></span></div>",
             "created":1361854800,
@@ -3259,7 +3261,7 @@
             "choices":[
                 "Isabella, age 15",
                 "Roselia, age 12",
-                "Tessa, age 8"
+                "Tessa, age 17"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So you've decided to go with Italy, home to the leaning tower of piza. Now we see which girl become a berry ripe enough for a glass of wine.</span></div></span></div>",
             "created":1361854800,
@@ -3465,7 +3467,7 @@
             "author_id":"frown",
             "author_name":"sup",
             "choices":[
-                "Belinda, age 11",
+                "Belinda, age 19",
                 "Mora, age 13",
                 "Sierra, age 15"
             ],
@@ -3560,8 +3562,8 @@
             "author_id":"frown",
             "author_name":"sup",
             "choices":[
-                "Adreena, age 13",
-                "Carry, age 9"
+                "Adreena, age 18",
+                "Carry, age 15"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So you have chosen the supposed home of the greek gods. Now choose which girl becomes a large enough blueberry to be named a goddess.</span></div></span></div>",
             "created":1361941200,
@@ -3572,7 +3574,7 @@
             "author_id":"frown",
             "author_name":"sup",
             "choices":[
-                "Isis, age 12",
+                "Isis, age ???",
                 "Suma, age 14"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So you have decided to travel to the country of past pharohs. Now select the girl who will be the blue gem of the desert.</span></div></span></div>",
@@ -3609,8 +3611,8 @@
             "author_id":"frown",
             "author_name":"sup",
             "choices":[
-                "Acadia, age 9",
-                "Ruthie, age 8"
+                "Acadia, age 19",
+                "Ruthie, age 18"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So you have decided to go with our neighbor to the north, eh? Now select the girl who will be a cool blue blueberry.</span></div></span></div>",
             "created":1361941200,
@@ -3858,8 +3860,8 @@
         "description":"<td align=\"left\" class=\"norm\">We fetish writers have always kept blueberry inflation in the US, but now I decided it was time to spice things up by taking it all around the world in different countries. <br>\r\n<br>\r\nRules<br>\r\n<br>\r\nadditional blueberries allowed, but the girl you select must somehow be the victim<br>\r\n<br>\r\nNo popping<br>\r\n<br>\r\nNo WG, but different body parts inflating at allowed.<br>\r\n<br>\r\nother fruits are okay as well but keep the main girl a blueberry<br>\r\n<br>\r\nno excessive nudity. down to either panties or thong are okay.<br>\r\n<br>\r\nyour choice whether the girl likes it or not<br>\r\n<br>\r\nAny chapters I find to be inadequete will be deleted<br>\r\n<br>\r\nAnd the last rule is: Have fun.<br>\r\n<br>\r\nNo male blueberries<br>\r\n<br>\r\nEnjoy</td>",
         "id":1921362,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":0,
-        "modified":1592407860,
+        "last_full_update":1594784340,
+        "modified":1594784340,
         "pretty_title":"Blueberries from around the World"
     }
 }

@@ -306,6 +306,18 @@
             "id":2851872,
             "title":"I can still cut you to pieces!"
         },
+        "1122":{
+            "author_id":"gigajules",
+            "author_name":"Gigajules",
+            "choices":[
+                "Take the weapon! What's the worst that could happen?",
+                "Resist the urge"
+            ],
+            "content":"<div class=\"\"><div> <span>You notice a large sword laying on the counter. Or at least you assume it's a sword, given the shape, but rather than a handle, guard, and blade, the weapon seems to be made of some sort of black metal, forged into intricate spiraling tendrils that curl together into a blade.<br>\r\n<br>\r\nBefore you even realise it, you find yourself running your fingers across the metal of the weapon. A sudden, intense desire to pick up the blade, feel its weight in your hands.<br>\r\n<br>\r\nWhat do you do?</span></div></div>",
+            "created":1594098000,
+            "id":2863173,
+            "title":"A new weapon"
+        },
         "12":{
             "author_id":"gigajules",
             "author_name":"Gigajules",
@@ -436,6 +448,19 @@
             "id":2847768,
             "title":"Keep Fighting!"
         },
+        "132":{
+            "author_id":"mr_j",
+            "author_name":"Dragos Drakkar",
+            "choices":[
+                "\u2026smoothly masculine.",
+                "\u2026seductively feminine.",
+                "\u2026gravelly inhuman."
+            ],
+            "content":"<div class=\"\"><div> <span>Despite the obvious allure of helping out the shopkeeper\u2019s friend, you decide to check the blacksmith. You figure you might be able to get an upgrade to your equipment out of the task if anything.<br>\r\n<br>\r\nThe elf gives you the directions through the city when you ask, and you are soon on your way.<br>\r\n<br>\r\nYou twirl your new staff as you walk through the twisting maze-like streets. There\u2019s a slight sensation almost like a slow and light heartbeat within the featureless wood. From what little you know, it\u2019s a reaction to your otherwise latent magical potential. It\u2019s also a sign that you made the right choice.<br>\r\n<br>\r\nGripping the staff tighter and thrusting it into the sky, you focus a bit. Your reward is a small burst of sparks that fade away within a few moments. Put enough time and effort into your abilities, and that will be just an imperceptible fraction of what you might be able to do later on. Even still, you grin from the elation of having even this barest scrap of power at your fingertips.<br>\r\n<br>\r\nSome uneventful minutes later, you came to the edge of the city and the blacksmith\u2019s building. The forge is cold and hasn\u2019t seen use in some time. Even your unskilled eye can tell that. You poke around the outside of the shop for a bit, but freeze when you hear a noise from inside. You can\u2019t be sure, but it sounded like a scream. Gripping the staff tighter and making yourself ready, you wait and see if anything else will happen. After seconds turn into minutes though, you start to relax your guard a bit.<br>\r\n<br>\r\nComing back around to the front of the store, you try the door. Knocking at first, repeating several times with waits between gets no results. You end up with a similar response to calling out for the blacksmith to respond. Biting your lip you next try the door but find it locked. Not all that surprising, you figure.<br>\r\n<br>\r\nYou stare at the lock for several more seconds pondering if you should do what you are considering. Then you figure that the blacksmith is almost certain to be in trouble, and that would warrant it. With that decided you take a step back and thrust the point of your staff at the metal. Concentrating on what you hope to be a simple unlock spell, you get rewarded with a metallic clank and the door opening a hairsbreadth.<br>\r\n<br>\r\nYou give a quick glance all around you before moving up to the door. Trying to hear anything beyond the door doesn\u2019t work, so you reach out and cautiously push on the door. You frown as the sunlight illuminates the space beyond the door. Rather than a rustic building like the outside suggests, you are now looking into a dark and gloomy passage made of stone blocks and extending beyond what should be possible given the size of the building from the outside.<br>\r\n<br>\r\nYou frown and bite your lip as you toss a mental coin before taking a quick step past the door. You leap back as quick as you can, but with no result. Several further attempts take you slightly further each time before you retreat back outside.<br>\r\n<br>\r\nOne final attempt gets cut short as the door slams behind you, sealing you inside the dark passage. The tip of your staff lights up enough for you to see a few steps away. The inside of the door has been changed as well, now looking like a castle\u2019s well reinforced door rather than the door you opened from the outside.<br>\r\n<br>\r\nA sudden chill sweeps up your back as a voice calls from out of the darkness, \u201cOh good, another plaything, do come in my dear.\u201d<br>\r\n<br>\r\nYou throw your back against the door, holding your staff out in preparation but nothing comes out of the shadows, and the voice doesn\u2019t speak up again. Now that your fear is starting to fade, you realize the voice sounded\u2026</span></div></div>",
+            "created":1594357200,
+            "id":2865724,
+            "title":"Strange goings on at the blacksmith"
+        },
         "14":{
             "author_id":"gigajules",
             "author_name":"Gigajules",
@@ -551,8 +576,8 @@
         "description":"<td align=\"left\" class=\"norm\">Your name is Pearl. You are a young woman, have just turned eighteen, heading toward the city of Tutoria to start your new life as an adventurer.<br>\r\n<br>\r\nStarting appearance:<br>\r\n<br>\r\nHeight: 5'4\"<br>\r\n<br>\r\nBuild: skinny<br>\r\n<br>\r\nCup size: A<br>\r\n<br>\r\nWaist size: Extra-small<br>\r\n<br>\r\nHair: black, strait cut<br>\r\n<br>\r\nEyes: light blue<br>\r\n<br>\r\nYou have little to your name but the ragged clothes on your back, but you are determined to become great.<br>\r\n<br>\r\nYour journey begins here...</td>",
         "id":2221640,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":0,
-        "modified":1592270280,
+        "last_full_update":1594441020,
+        "modified":1594441020,
         "pretty_title":"Jewel Quest"
     }
 }

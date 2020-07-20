@@ -420,6 +420,159 @@
             "id":2794962,
             "title":"Any others."
         },
+        "11331":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Mary Anne",
+                "Stacey",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who is chosen to be kristy's parent?</span></div></span></div>",
+            "created":1593838800,
+            "id":2861517,
+            "title":"Yeah"
+        },
+        "113311":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Mary Anne first dressed Kristy like a baby.",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>To her surprise, it was Mary Anne. The two had been close friends for years, so, this wouldn't be any trouble for her. First, did they work through rules?</span></div></span></div>",
+            "created":1593838800,
+            "id":2861526,
+            "title":"Mary Anne"
+        },
+        "11332":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Yeah",
+                "Lost a bet",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is kristy in diapers because she and her friends babysit each other in between jobs to keep their skills sharp, and it's kristy's turn?</span></div></span></div>",
+            "created":1593838800,
+            "id":2861577,
+            "title":"Other reasons."
+        },
+        "113321":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Mary Anne.",
+                "Stacey.",
+                "Claudia, or one of the others in the club."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Wow. Surprised I didn't think of that. Cool idea.<br>\r\n<br>\r\nAnyway, Kristy's babysitter this time around is...</span></div></span></div>",
+            "created":1593838800,
+            "id":2861580,
+            "title":"Yeah"
+        },
+        "1133213":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Claudia",
+                "Dawn"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is it Claudia that's babysitting kristy?</span></div></span></div>",
+            "created":1594098000,
+            "id":2863664,
+            "title":"Claudia, or one of the others in the club."
+        },
+        "11332131":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Claudia first diapered Kristy?</span></div></span></div>",
+            "created":1594098000,
+            "id":2863669,
+            "title":"Claudia"
+        },
+        "11332132":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The California went right to work, starting by diapering Kristy?</span></div></span></div>",
+            "created":1594184400,
+            "id":2864061,
+            "title":"Dawn"
+        },
+        "113321322":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "feed her",
+                "give her a bath",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what else does Dawn do first With Kristy?</span></div></span></div>",
+            "created":1594184400,
+            "id":2864064,
+            "title":"SE"
+        },
+        "1133213222":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah, and talked as herself with Dawn.",
+                "Yeah, and cooed like a baby.",
+                "Splashed, or SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She soon had things ready for the bath. During said bath, did Kristy relax?</span></div></span></div>",
+            "created":1594184400,
+            "id":2864069,
+            "title":"give her a bath"
+        },
+        "1133213223":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Go over rules.",
+                "Anything else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does she put her down for her nap?</span></div></span></div>",
+            "created":1594184400,
+            "id":2864083,
+            "title":"something else"
+        },
+        "113322":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Stacey.",
+                "Mary Anne, or anyone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She wound up losing a bet with Claudia?</span></div></span></div>",
+            "created":1593838800,
+            "id":2861578,
+            "title":"Lost a bet"
+        },
+        "12":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup",
+                "Likes being babied.",
+                "Any other reasons."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is she being babysat by one of the other club members to sharpen their skills?</span></div></span></div>",
+            "created":1594098000,
+            "id":2863474,
+            "title":"Claudia"
+        },
         "13":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
@@ -432,6 +585,32 @@
             "created":1583125200,
             "id":2795677,
             "title":"Stacey"
+        },
+        "133":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Babysat by one of the other club members in between jobs",
+                "Part of a new dress code at school",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What other reason is Stacey in diapers?</span></div></span></div>",
+            "created":1594098000,
+            "id":2863644,
+            "title":"More reasons."
+        },
+        "1331":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup.",
+                "Claudia.",
+                "Mary Anne, or Dawn."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is it Kristy that babysits her?</span></div></span></div>",
+            "created":1594098000,
+            "id":2863647,
+            "title":"Babysat by one of the other club members in bet..."
         },
         "14":{
             "author_id":"supreme123",
@@ -496,6 +675,118 @@
             "created":1580619600,
             "id":2781670,
             "title":"Any more characters."
+        },
+        "1531":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Mallory.",
+                "Any other characters."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You sure you wanna go with her, though?</span></div></span></div>",
+            "created":1594270800,
+            "id":2865120,
+            "title":"Sure."
+        },
+        "1533":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Janine",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who else from babysitters club ends up in diapers?</span></div></span></div>",
+            "created":1593838800,
+            "id":2861524,
+            "title":"Any others."
+        },
+        "15331":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Other reasons."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does she like to be babied, feeling like being a genius is overwhelming?</span></div></span></div>",
+            "created":1594270800,
+            "id":2865118,
+            "title":"Janine"
+        },
+        "15332":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Sure.",
+                "Another combo.",
+                "Any other characters."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Hmm, more than one of the girls, like Mary Anne and Kristy?</span></div></span></div>",
+            "created":1593838800,
+            "id":2861529,
+            "title":"Someone else"
+        },
+        "153322":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup.",
+                "Stacey and Claudia.",
+                "Any others."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Hmm. Kristy and Stacey?</span></div></span></div>",
+            "created":1594789200,
+            "id":2869381,
+            "title":"Another combo."
+        },
+        "1533221":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Sure, or by Mary Anne and Claudia.",
+                "Oher reasons both are diapered, and so on."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are both baby-sat by Dawn and Mary Anne?</span></div></span></div>",
+            "created":1594875600,
+            "id":2869659,
+            "title":"Yup."
+        },
+        "1533223":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Kristy and Claudia",
+                "the whole club",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what other combo could we try?</span></div></span></div>",
+            "created":1594875600,
+            "id":2869609,
+            "title":"Any others."
+        },
+        "15332231":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are both babysat by other members in between jobs?</span></div></span></div>",
+            "created":1594875600,
+            "id":2869618,
+            "title":"Kristy and Claudia"
+        },
+        "15332232":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Sure.",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>do they all babysit each other when they aren't having a babysitting gig?</span></div></span></div>",
+            "created":1594875600,
+            "id":2869622,
+            "title":"the whole club"
         }
     },
     "info":{
@@ -506,8 +797,8 @@
         "description":"<td align=\"left\" class=\"norm\">If anyone else remembers, or has heard of the Baby-Sitter's Club series, please add to it.<br>\r\nRules.<br>\r\n1: No drugs.<br>\r\n2: No killing anyone off.<br>\r\n3: No insulting religions.<br>\r\n4: Make chapters as long as you can.<br>\r\n5: Have fun.</td>",
         "id":2200851,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1583178900,
-        "modified":1583178900,
+        "last_full_update":1594904280,
+        "modified":1594904280,
         "pretty_title":"Baby-Sitter's Club (adult babies.)"
     }
 }

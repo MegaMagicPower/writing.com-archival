@@ -271,7 +271,7 @@
         },
         "1212":{
             "author_id":"deverx",
-            "author_name":"DeverX",
+            "author_name":"SWLatina",
             "choices":[
                 "shrinks Hailey down to three inches",
                 "has other ideas"
@@ -480,7 +480,7 @@
         },
         "12412":{
             "author_id":"deverx",
-            "author_name":"DeverX",
+            "author_name":"SWLatina",
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Hailey and Bob worked on the machine, but nothing happened.<br>\r\n<br>\r\nIn the end, the entire project was shelved, and Bob and Hailey were assigned to other projects.</span></div></span></div>",
             "created":1581742800,
             "id":2787648,
@@ -687,6 +687,19 @@
             "created":1116046800,
             "id":250468,
             "title":"Clare comes with Hailey"
+        },
+        "1342":{
+            "author_id":"deverx",
+            "author_name":"SWLatina",
+            "choices":[
+                "shrank to six inches",
+                "returned to her normal height",
+                "completely disappeared"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Well, we can mark this as a success,\" Bob told  as he smiled at the now tiny Clare, who was still looking around at the world in confusion.<br>\r\n<br>\r\nBob was about to suggest to Hailey that she take Clare home for further study when all the alarms around Clare started going off. In the blink of an eye, Clare</span></div></div>",
+            "created":1593493200,
+            "id":2859424,
+            "title":"8 inches"
         },
         "14":{
             "choices":[
@@ -982,7 +995,7 @@
         },
         "15221211112":{
             "author_id":"deverx",
-            "author_name":"DeverX",
+            "author_name":"SWLatina",
             "choices":[
                 "ignore it, deciding what to do with Victoria next.",
                 "sets Victoria down to answer it."
@@ -1011,6 +1024,27 @@
             "created":1115614800,
             "id":249294,
             "title":"The vent not taken"
+        },
+        "153":{
+            "author_id":"deverx",
+            "author_name":"SWLatina",
+            "choices":[
+                "Victoria was suddenly six inches tall",
+                "Victoria was restored to her normal height",
+                "Victoria shrank out of sight"
+            ],
+            "content":"<div class=\"\"><div> <span>Without any fanfare, Victoria was shrunk down to six inches.<br>\r\n<br>\r\nAnd almost immediately, every alarm in the place went off.<br>\r\n<br>\r\n\"What's...what's happening?\" Victoria asked, but even Bob didn't have time to make a caustic or sarcastic remark to her, as he was too busy making entries and adjustments on the panel.<br>\r\n<br>\r\n\"Just stay put, Victoria, we're having some stability issues,\" Hailey shouted.<br>\r\n<br>\r\nThen, without warning,</span></div></div>",
+            "created":1593234000,
+            "id":2857532,
+            "title":"...shrunk Victoria down to 3 inches"
+        },
+        "1532":{
+            "author_id":"deverx",
+            "author_name":"SWLatina",
+            "content":"<div class=\"\"><div> <span>\"Well, that was one great dismal failure,\" Hailey said, as she ran over to her friend Victoria, to see how she felt. Victoria assured her friend she felt all right.<br>\r\n<br>\r\n\"Not to worry,\" Bob assured the two women, as he systematically shut the power down to the shrinking device, \"We'll get her working again in no time.\"<br>\r\n<br>\r\nBut Bob was to be proven wrong. The funding for the project was cut off, the machine was dismantled, and he would never have a chance to shrink another human being again.</span></div></div>",
+            "created":1593234000,
+            "id":2857534,
+            "title":"Victoria was restored to her normal height"
         },
         "154":{
             "choices":[
@@ -1150,8 +1184,8 @@
         "description":"<td align=\"left\" class=\"norm\">A team of scientists invent a Quantum Shrink Ray. It stores the person's size in a pocket of another reality. What happens to the first person under the beam?<br>\r\n<br>\r\nCharacters:<br>\r\nHailey-27, beautiful, auburn hair, petite, 5'5\". One of the scientists.<br>\r\nBob-27, dirty-blonde hair, medium build, good looking, 5'9\". He's the other scientist.<br>\r\n<br>\r\nBoth are fairly athletic and, of course, pretty smart.<br>\r\n<br>\r\nAdd other characters as you like. Other people can shrink as well. Characters can change size throughout, just keep the continuity when they do. No: guy/guy erotic content, keep the foot fetish to a minimum, and obviously no naughty stuff with characters under 18. Also, try to keep the storylines at least 6 chapters long before killing someone off. Otherwise, go wild.</td>",
         "id":871627,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1581787380,
-        "modified":1581787380,
+        "last_full_update":1593569040,
+        "modified":1593569040,
         "pretty_title":"Shrinking Scientists"
     }
 }

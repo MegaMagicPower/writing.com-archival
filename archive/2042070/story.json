@@ -1207,6 +1207,18 @@
             "id":2845024,
             "title":"Just one of them"
         },
+        "12533222323231222111221112111111121211111111121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Angelica explain to him why she's still dressed as a baby?</span></div></span></div>",
+            "created":1592974800,
+            "id":2856431,
+            "title":"Yes"
+        },
         "12533222323231223":{
             "author_id":"kameron94",
             "author_name":"Kameron",
@@ -1677,6 +1689,18 @@
             "id":2843479,
             "title":"In his bedroom"
         },
+        "12533222323243231221111111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "He felt something bite him",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What woke Little Bear up?</span></div></span></div>",
+            "created":1592974800,
+            "id":2856420,
+            "title":"Yes"
+        },
         "125332223232432312211112":{
             "author_id":"johnny2",
             "author_name":"littlejohn",
@@ -1703,6 +1727,18 @@
             "created":1591592400,
             "id":2848339,
             "title":"On top of it all"
+        },
+        "12533222323243231221111221":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>As Felicia saw Little Bear having breakfast, did she start to get hungry as well?</span></div></span></div>",
+            "created":1593147600,
+            "id":2857071,
+            "title":"Going to the table for Breakfast"
         },
         "12533222323243232":{
             "author_id":"johnny2",
@@ -1775,6 +1811,30 @@
             "created":1590814800,
             "id":2843481,
             "title":"A wish"
+        },
+        "125332223232432322111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "A star",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What did she make the wish on?</span></div></span></div>",
+            "created":1592974800,
+            "id":2856425,
+            "title":"Yes"
+        },
+        "1253322232324323221111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Immediately",
+                "In her sleep"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>When did Emily start to transform?</span></div></span></div>",
+            "created":1593147600,
+            "id":2857073,
+            "title":"A star"
         },
         "13":{
             "author_id":"mariods01",
@@ -2284,6 +2344,42 @@
             "id":2845016,
             "title":"Your Choice"
         },
+        "1451":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Replace a character",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How can we alter this movie?</span></div></span></div>",
+            "created":1592974800,
+            "id":2856474,
+            "title":"Yes"
+        },
+        "14511":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Xiro",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which character shall we replace?</span></div></span></div>",
+            "created":1593147600,
+            "id":2857328,
+            "title":"Replace a character"
+        },
+        "145111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will you transform into a lion and become the new lead male character?</span></div></span></div>",
+            "created":1593925200,
+            "id":2861651,
+            "title":"Xiro"
+        },
         "15":{
             "author_id":"mariods01",
             "author_name":"MarioDS01",
@@ -2446,6 +2542,18 @@
             "created":1501390800,
             "id":2362072,
             "title":"Near the end"
+        },
+        "1523":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Sure",
+                "Other book genres to choose from."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do you wanna go with this option?</span></div></span></div>",
+            "created":1593147600,
+            "id":2857076,
+            "title":"Nonfiction"
         },
         "153":{
             "author_id":"supreme123",
@@ -3984,6 +4092,31 @@
             "id":2676670,
             "title":"Luke"
         },
+        "15333321122":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "to be me or not to be me",
+                "another episode"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what other episode of Jessie do we alter?</span></div></span></div>",
+            "created":1592974800,
+            "id":2856428,
+            "title":"another episode"
+        },
+        "153333211221":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Zuri and ?Emma swap.",
+                "Any other ideas."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>We alter this one to where Jessie switches bodies with Emma?</span></div></span></div>",
+            "created":1592974800,
+            "id":2856446,
+            "title":"to be me or not to be me"
+        },
         "15333322":{
             "author_id":"kameron94",
             "author_name":"Kameron",
@@ -4701,6 +4834,71 @@
             "id":2816384,
             "title":"More"
         },
+        "15523":{
+            "author_id":"dragon47",
+            "author_name":"Dragon47",
+            "choices":[
+                "A Song of Ass and Titties",
+                "Black Friday Trilogy but change something else",
+                "Reader's choice"
+            ],
+            "content":"<div class=\"\"><div> <span>A wise man once said \"they should have gotten boobies instead of weenies\".<br>\r\n<br>\r\nIf you are still wondering, I am talking about George rr Martin.<br>\r\n<br>\r\nChange the storyline of the Black Friday trilogy, specifically the episode \"A Song of Ass and Fire\", so that instead of weiners South Park George rr Martin and HBO are obsessed with boobies.</span></div></div>",
+            "created":1593838800,
+            "id":2861496,
+            "title":"A Song of Ass and Fire"
+        },
+        "155233":{
+            "author_id":"dragon47",
+            "author_name":"Dragon47",
+            "choices":[
+                "Butters (Marjorine) betrays the boys",
+                "The boys send someone other than Butters to infiltrate the girls",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>When Cartman told the boys of the mystical cootie catcher, they boys send in Butters to infiltrate the girls' sleepover to retrieve it.<br>\r\n<br>\r\nBut what if Butters had decided to backstab the boys, chosing to side with the girls (and thus live as a girl)?<br>\r\n<br>\r\nOr what if the boys had sent someone else to infiltrate the girls?</span></div></div>",
+            "created":1593838800,
+            "id":2861498,
+            "title":"Majorine"
+        },
+        "1552332":{
+            "author_id":"dragon47",
+            "author_name":"Dragon47",
+            "choices":[
+                "Kyle",
+                "Stan or Kenny",
+                "Kevin or Tweek"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Who do we send in?\" asks Kyle.  A good question.  The boys had yet to decide on who was going to infiltrate the girls to obtain their magical device.<br>\r\n<br>\r\n\"There's only one person for the job\" says Cartman \"Butters\"<br>\r\n<br>\r\nButters threw down his equipment.  He was having none of Eric's antics this time.  \"That does it Eric!  All you ever do is make me do all the dirty work and humiliate me and get me grounded all the time!  Well I've had it!  Screw you guys, I'm going home\" with that Butters had left the boys' base.<br>\r\n<br>\r\nAll the boys were dumbfounded, but none as dumbfounded as Cartman.  \"FUCK YOU BUTTERS!  I HOPE YOU ROT IN HELL YOU ASSHOLE!\" screams Cartman.<br>\r\n<br>\r\nCartman composed himself before pulling out a piece of paper.  \"Ok with Butters out of the equation, looks like we will instead have to send in...\" he turns to the ginger jewish boy \"Kahl.\"<br>\r\n<br>\r\n\"I'm not dressing as a girl\" Kyle bluntly replies.<br>\r\n<br>\r\nCartman looked at Kyle silently.  Then he repeated \"now Kahl, Butters isn't here so you have to -\"<br>\r\n<br>\r\n\"I'm not dressing as a girl\" Kyle was now getting annoyed.<br>\r\n<br>\r\n\"Kahl, the needs of the many outweigh the needs of the few and right now WE need you to dress up as a little girly and infiltrate a bunch of other little girlies' stupid party so that you can retrieve the ultimate power for us\" Cartman was insistent on sending in Kyle<br>\r\n<br>\r\n\"Dude, he doesn't want to do it\" protests Stan<br>\r\n<br>\r\nNow Cartman was getting really annoyed \" awright Stan with that mouth YOU can be the girl then\" he points right at Stan's face before getting out a pen from his pockets.<br>\r\n<br>\r\n\"Dude, I don't wanna be girl!\" protests Stan.  Just cause he didn't want Cartman to force Kyle to crossdress didn't mean he was willing to take his place.<br>\r\n<br>\r\n\"I dOn WaNa Be A gIrL\" Cartman mocks Stan, using a whiny voice \"Jesus you and Kahl are already acting like such girls\"<br>\r\n<br>\r\nAll of a sudden Kenny raises his hand \"mmm mmm mmm mm mmm mm\" (I'd be happy to be a chick)<br>\r\n<br>\r\n\"Kenny you just want an excuse to grope all the girls\" accuses Kyle.<br>\r\n<br>\r\n\"What about me?\" Says Kevin, who was just wanting an excuse to get closer to Red.  He and Red had been good friends for a while, but Kevin had secretly been crushing on Red since the beginning of the year.<br>\r\n<br>\r\n\"Jesus #*$#@&amp;$ Christ, let me concentrate you assholes\" yells Cartman \"although I will also happily consider you as a candidate Tweek\"<br>\r\n<br>\r\n\"What!!!  I DIDN'T VOLUNTEER!!!!\" Tweeks says<br>\r\n<br>\r\n\"Well you are a volunteer now Tweek so suck my balls\" yells Cartman.  Jotting down some scribblings on his paper, Cartman paused to think before coming to a decision.<br>\r\n<br>\r\n\"Ok guys, I have assessed the data and I have concluded that in the absense of Butters we will have the greatest chances of success by sending in...\"</span></div></div>",
+            "created":1593838800,
+            "id":2861505,
+            "title":"The boys send someone other than Butters to inf..."
+        },
+        "1552333":{
+            "author_id":"dragon47",
+            "author_name":"Dragon47",
+            "choices":[
+                "Broadway Bro Down - Randy doesn't make it in time (Shelly gives Larry a blowjob)",
+                "2016 - Cartman's the Donald Trump stand-in instead of Mr Garrison",
+                "Instead of Craig x Tweek, the Asian girls make yaoi art of Stan x Kyle"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ok these are the final options.  Period.</span></div></span></div>",
+            "created":1594011600,
+            "id":2862681,
+            "title":"Something else"
+        },
+        "15523333":{
+            "author_id":"dragon47",
+            "author_name":"Dragon47",
+            "choices":[
+                "find Kyle",
+                "find Wendy",
+                "ditch School (amd avoid Kyle)"
+            ],
+            "content":"<div class=\"\"><div> <span>Stan, Kyle, Kenny and Cartman stood at the bus stop, waiting for the bus, another normal boring day at South Park.  A little too normal for South Park.<br>\r\n<br>\r\nKyle was the first to speak.  \"Hey Stan, can I ask you something.  In private\" Kyle had bumped his arm against Stan's.<br>\r\n<br>\r\n\"Ah, are you two gonna make out or something?\" snickered Cartman.  But neither Kyle nor Stan had paid the fatass any attention.<br>\r\n<br>\r\nA good distance away from Cartman and Kenny, Kyle says \"Dude do you feel weird about the new kids?\"<br>\r\n<br>\r\n\"The Canadian refugees?\"  Stan was confused, surely his best friend who had an adopted Canadian brother wouldn't have anything negative to say about the Canadian refugees.<br>\r\n<br>\r\n\"No, not the Canadians, I mean the Asian girls\" Kyle corrected Stan \"I don't know about you but everywhere I go I can't help but get the feeling they've been stalking me\"<br>\r\n<br>\r\nStan's eyes widened.  \"Dude, I've been getting that feeling too\".  Kyle's eyes widened too.  \"What exactly was it that they draw again?\" asks Stan.<br>\r\n<br>\r\n\"Beats me dude.  I was just thinking they were trying to stare at my ass or something like Bebe\" replies Kyle.<br>\r\n<br>\r\nAlas the bus arrived, and the two boys rejoined their other friends to enter the bus.  As Stan and Kyle took their seats, they both realized that the Asian girls were at the very back.  And they were all eyeing over the two of them, even though they had both taken separate seats this time.<br>\r\n<br>\r\nStan was just gathering some things from his locker when Wendy approached him from behind.<br>\r\n<br>\r\n\"Am I a joke to you\" said Wendy<br>\r\n<br>\r\nStan turned.  \"What?\"<br>\r\n<br>\r\n\"I just wanna know, is that all I am, a big joke?\" Wendy was very blunt.<br>\r\n<br>\r\nStan stood there stupidly confused for several seconds.  \"Ummm.  No?\"<br>\r\n<br>\r\nAs if on queue, Wendy pulled out a picture, shoving it into Stan's face with the force of an elephant.<br>\r\n<br>\r\n\"Care to explain STANELY!\" Wendy looked pissed off.<br>\r\n<br>\r\n\"I have no idea\" Stan said.  He didn't bother to look at the picture.<br>\r\n<br>\r\n\"How long?\"<br>\r\n<br>\r\n\"What?\"<br>\r\n<br>\r\n\"You heard me.  How long have you been going behind me back with him?\" Wendy accuses<br>\r\n<br>\r\n\"Him?\"<br>\r\n<br>\r\n\"You know exactly what I am talking about\"<br>\r\n<br>\r\n\"I have no idea what you're talking about\"<br>\r\n<br>\r\nWendy came in closer, she was furious.  \"Playing dumb?  Well FUCK YOU!!!!\"  Wendy shoved a middle finger in Stan's face before storming off.<br>\r\n<br>\r\nStan looked at the picture- and what he saw horrified him.  In his hands was a picture, no a drawing of him and Kyle - kissing!<br>\r\n<br>\r\n<a rel=\"nofollow\" href=\"https://images.app.goo.gl/nxKmFhzaq2gnj17DA\" target=\"_blank\">https://images.app.goo.gl/nxKmFhzaq2gnj1...</a><br>\r\n<br>\r\n\"WHAT THE FUCK?\" screamed Stan<br>\r\n<br>\r\nAll of a sudden Butters came up to Stan.  \"Stan, Stan!  Why didn't you tell me you and Kyle were gay now?\"<br>\r\n<br>\r\n\"What!?!?\" shouted Stan.<br>\r\n<br>\r\n\"You know, all that art the Asian girls have been selling around town.  They've been drawing you and Kyle together\" Butters pulls out a picture in his hand.  Stan gagged in his mouth, for the picture was of him and Kyle in a sexually suggestive position.<br>\r\n<br>\r\n<a rel=\"nofollow\" href=\"https://www.pinterest.com/amp/pin/299630181435520612/\" target=\"_blank\">https://www.pinterest.com/amp/pin/299630...</a><br>\r\n<br>\r\n\"Dude what the fuck is this!\" shouted Stan<br>\r\n<br>\r\n\"Now now Stan, there ain't no shame in coming out\" Butters says stupidly<br>\r\n<br>\r\n\"No, I'm not gay.  Kyle and I aren't gay!  I have a girlfriend!\" Stan says.  Suddenly he remembered the confrontation from Wendy just before.  \"Ah crap!\"<br>\r\n<br>\r\nStan runs off from Butters.  As he runs he starts finding all sorts of gay art depicting him and Kyle together plastered all over the school walls and lockers.  Stan could not bear the horror he was witnessing, this was a living nightmare.  He kept running and running to -</span></div></div>",
+            "created":1594011600,
+            "id":2862721,
+            "title":"Instead of Craig x Tweek, the Asian girls make ..."
+        },
         "1553":{
             "author_id":"spunky",
             "author_name":"Ace Jones",
@@ -4723,8 +4921,8 @@
         "description":"<td align=\"left\" class=\"norm\">In this interactive story there is various different popular fiction that has one or more of their stories changed that show what should have happened in a game, show, movie, etc. <br>\r\n<br>\r\nThese stories can be based on stories that actually happened in a series or even in a fanfiction if a certain part or ending did not end up to the way of your liking.<br>\r\n<br>\r\nHope you will enjoy this and add onto the story you see fit.</td>",
         "id":2042070,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1590478740,
-        "modified":1591672800,
+        "last_full_update":1594055760,
+        "modified":1594055760,
         "pretty_title":"Alternate/Extended Storylines/Endings"
     }
 }

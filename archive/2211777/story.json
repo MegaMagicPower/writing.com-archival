@@ -42,6 +42,19 @@
             "id":2797684,
             "title":"She is a random stranger."
         },
+        "1111":{
+            "author_id":"jhb1212",
+            "author_name":"jwriter",
+            "choices":[
+                "12 ft",
+                "18 ft",
+                "bigger"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How big is she?</span></div></span></div>",
+            "created":1593752400,
+            "id":2860873,
+            "title":"she's big"
+        },
         "1112":{
             "author_id":"jhb1212",
             "author_name":"jwriter",
@@ -94,6 +107,45 @@
             "id":2797688,
             "title":"2 feet"
         },
+        "11122221":{
+            "author_id":"jhb1212",
+            "author_name":"jwriter",
+            "choices":[
+                "immediately start to shrink. ",
+                "pass out.",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>A heavy set woman approaches you at the bar and ask you if you notice the Cadillac in the parking lot.  When you look out the widow she drops some liquid into your drink.  When you drink it you </span></div></span></div>",
+            "created":1594443600,
+            "id":2866253,
+            "title":"at a bar"
+        },
+        "111222212":{
+            "author_id":"jhb1212",
+            "author_name":"jwriter",
+            "choices":[
+                "her arms in her bed.",
+                "a crib.",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>When you wake up you are 2 feet tall and in</span></div></span></div>",
+            "created":1594443600,
+            "id":2866254,
+            "title":"pass out."
+        },
+        "1112223":{
+            "author_id":"jhb1212",
+            "author_name":"jwriter",
+            "choices":[
+                "1 foot",
+                "6 inches",
+                "smaller"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How much smaller?</span></div></span></div>",
+            "created":1593752400,
+            "id":2860874,
+            "title":"smaller"
+        },
         "112":{
             "author_id":"jhb1212",
             "author_name":"jwriter",
@@ -132,6 +184,32 @@
             "id":2847578,
             "title":"bigger"
         },
+        "1122":{
+            "author_id":"jhb1212",
+            "author_name":"jwriter",
+            "choices":[
+                "3 feet",
+                "2 feet",
+                "smaller"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How small are you?</span></div></span></div>",
+            "created":1593752400,
+            "id":2860876,
+            "title":"Your small"
+        },
+        "11221":{
+            "author_id":"jhb1212",
+            "author_name":"jwriter",
+            "choices":[
+                "Naturally small (You're a very short person)",
+                "She causes it (shrink ray, potion, spell, ect)",
+                "Accident"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How did you get to be so small?</span></div></span></div>",
+            "created":1593752400,
+            "id":2860877,
+            "title":"3 feet"
+        },
         "113":{
             "author_id":"jhb1212",
             "author_name":"jwriter",
@@ -163,7 +241,7 @@
             "choices":[
                 "3 feet",
                 "2 feet",
-                "Accident"
+                "smaller"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How small are you?</span></div></span></div>",
             "created":1580533200,
@@ -483,6 +561,32 @@
             "id":2791627,
             "title":"drink up"
         },
+        "11522121112":{
+            "author_id":"jhb1212",
+            "author_name":"jwriter",
+            "choices":[
+                "your daughter comes back.",
+                "your wife comes home.",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She places you in a crib and puts mittens on your hands and a strap on pacifier in your mouth.  You can't speak speak or grip anything, and trapped in the crib and reliant on your daughter to get out.  So you just lay there and wait until</span></div></span></div>",
+            "created":1593925200,
+            "id":2861870,
+            "title":"puts you in a crib."
+        },
+        "115221211122":{
+            "author_id":"jhb1212",
+            "author_name":"jwriter",
+            "choices":[
+                "tells your daughter that she's in a lot trouble.",
+                "tells your daughter good job putting dad in his place.",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Your wife comes home, finds you in the crib and she</span></div></span></div>",
+            "created":1593925200,
+            "id":2861872,
+            "title":"your wife comes home."
+        },
         "11522121113":{
             "author_id":"jhb1212",
             "author_name":"jwriter",
@@ -677,8 +781,8 @@
         "description":"<td align=\"left\" class=\"norm\">Rules: No age regression, no same size adult baby play, no male giants, and no death.  Have Fun.</td>",
         "id":2211777,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":0,
-        "modified":1592756880,
+        "last_full_update":1594485120,
+        "modified":1594485120,
         "pretty_title":"Atypical Maternal Giantesses"
     }
 }

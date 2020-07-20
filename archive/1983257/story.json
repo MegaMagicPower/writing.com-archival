@@ -93,7 +93,7 @@
         },
         "114122":{
             "author_id":"normerican2",
-            "author_name":"10\u00c2\u00a5",
+            "author_name":"10\u00a5",
             "choices":[
                 "She's back with her friends, but in Jasmine's body and clothes.",
                 "She's Jasmine's twin sister, Ashley."
@@ -105,7 +105,7 @@
         },
         "1141221":{
             "author_id":"normerican2",
-            "author_name":"10\u00c2\u00a5",
+            "author_name":"10\u00a5",
             "choices":[
                 "\"Why am I a girl?\"",
                 "What happened to my clothes?\""
@@ -697,6 +697,44 @@
             "id":2073222,
             "title":"Misty (Original - Johto)"
         },
+        "13111":{
+            "author_id":"animecsi",
+            "author_name":"Archie Comics Lover",
+            "choices":[
+                "My Girlfriend Ashley ",
+                "Our Baby Sister Ashley",
+                "Gym Leader in Training Ashley"
+            ],
+            "content":"<div class=\"\"><div> <span>(I hope the writer of the PokeAsh thread doesn\u2019t mind me using his/her idea.   If you read this &amp; do then please forgive me but it\u2019s a good idea)<br>\r\n<br>\r\n\u201cSince my sister\u2019s are gone for three months I want you to stay here\u201d Misty said <br>\r\n<br>\r\n\u201cOkay I can do that\u201d<br>\r\n<br>\r\n\u201cBut there\u2019s a catch I promised no boys so since I found this wishing rock I am going to change you\u201d Misty said<br>\r\n. <br>\r\n\"What?\" Ash said in confusion.<br>\r\n<br>\r\n\u201cYou heard me,\" Misty said <br>\r\n<br>\r\n\u201cYeah I heard you but a wishing Rock sounds Farfetch\u2019d\u201d <br>\r\n<br>\r\n\u201cWell let\u2019s find out if it\u2019s real or fake?\u201d<br>\r\n<br>\r\n\u201cI wish you were...</span></div></div>",
+            "created":1594098000,
+            "id":2863190,
+            "title":"Ashley"
+        },
+        "131111":{
+            "author_id":"animecsi",
+            "author_name":"Archie Comics Lover",
+            "choices":[
+                "Lover",
+                "A Girl that\u2019s a friend"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Before continuing does she mean</span></div></span></div>",
+            "created":1594098000,
+            "id":2863193,
+            "title":"My Girlfriend Ashley "
+        },
+        "131112":{
+            "author_id":"animecsi",
+            "author_name":"Archie Comics Lover",
+            "choices":[
+                "Actual Baby (Newborn - 2)",
+                "A girl (5 - 8)",
+                "Identical Twin sister that\u2019s younger by minute"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Before continuing does she mean</span></div></span></div>",
+            "created":1594098000,
+            "id":2863197,
+            "title":"Our Baby Sister Ashley"
+        },
         "13112":{
             "author_id":"acriolu",
             "author_name":"ACRiolu",
@@ -756,6 +794,19 @@
             "created":1590469200,
             "id":2841355,
             "title":"Something else"
+        },
+        "13112122":{
+            "author_id":"animecsi",
+            "author_name":"Archie Comics Lover",
+            "choices":[
+                "Kanto Vulpex",
+                "Alola Vulpex",
+                "What another 890 choices to go"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about a Vulpex </span></div></span></div>",
+            "created":1594098000,
+            "id":2863198,
+            "title":"Something Else"
         },
         "1313":{
             "author_id":"animerules",
@@ -818,6 +869,30 @@
             "id":2841438,
             "title":"Training"
         },
+        "131311111":{
+            "author_id":"eliteeevee",
+            "author_name":"elite eevee",
+            "choices":[
+                "Yes these are ashes moves",
+                "No Ash has other moves"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Level: 20<br>\r\nAbility: Steadfast <br>\r\nMoves: Thunder Punch, Swords Dance, Counter, Focus Blast.</span></div></span></div>",
+            "created":1594184400,
+            "id":2864149,
+            "title":"Male"
+        },
+        "131311112":{
+            "author_id":"eliteeevee",
+            "author_name":"elite eevee",
+            "choices":[
+                "Yes these are ashes moves",
+                "No Ash has other moves"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Level: 20<br>\r\nAbility: Steadfast<br>\r\nMoves: Ice Punch, Rain Dance, Dig, Metal Claw</span></div></span></div>",
+            "created":1594184400,
+            "id":2864153,
+            "title":"Female"
+        },
         "13131112":{
             "author_id":"leviepollard",
             "author_name":"Write/reader",
@@ -830,6 +905,32 @@
             "id":2841439,
             "title":"Contest"
         },
+        "1313112":{
+            "author_id":"animecsi",
+            "author_name":"Archie Comics Lover",
+            "choices":[
+                "Kanto (#1 - #151j",
+                "Johto (#152 - 251)",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>890 Pok\u00e9mon to chose from so let\u2019s narrow it by region</span></div></span></div>",
+            "created":1594098000,
+            "id":2863171,
+            "title":"Other Pok\u00e9mon"
+        },
+        "13131123":{
+            "author_id":"animecsi",
+            "author_name":"Archie Comics Lover",
+            "choices":[
+                "Hoenn (#252 - #386)",
+                "Sinohh (#386 - #493)",
+                "Next four regions"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Well how about the next regions</span></div></span></div>",
+            "created":1594098000,
+            "id":2863172,
+            "title":"More"
+        },
         "13133":{
             "author_id":"n.m.e",
             "author_name":"N.M.E",
@@ -841,6 +942,19 @@
             "created":1453870800,
             "id":2095274,
             "title":"Serena (XY (or Current Series))"
+        },
+        "131332":{
+            "author_id":"animecsi",
+            "author_name":"Archie Comics Lover",
+            "choices":[
+                "Lillie (\ud83c\udf1e&\ud83c\udf15)",
+                "Mallow or Lana (\ud83c\udf1e&\ud83c\udf15)",
+                "Chloe (Journeys)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So which girl is the bet with</span></div></span></div>",
+            "created":1593925200,
+            "id":2861779,
+            "title":"next"
         },
         "14":{
             "author_id":"napo08",
@@ -1447,6 +1561,81 @@
             "id":1809367,
             "title":"More choices"
         },
+        "1551":{
+            "author_id":"animecsi",
+            "author_name":"Archie Comics Lover",
+            "choices":[
+                "Ash",
+                "One of the other guys ",
+                "One of the girls"
+            ],
+            "content":"<div class=\"\"><div> <span>Because of all the new evil organizations that have popped up in recent years.<br>\r\nTeam Aqua.<br>\r\nTeam Magma. <br>\r\nTeam Galactic.<br>\r\nTeam Plasma.<br>\r\nTeam Flare<br>\r\nTeam Skull<br>\r\nCausing trouble, steal and destruction of property <br>\r\n<br>\r\nNot to mention Team Rocket has grown larger and now operating in every region, the Joys and Jenny\u2019s of the world are looking for help and seeing you ______ have asked for your help but you refused _____ says \u201cI asked nicely now I\u2019m making you join as ____\u201d<br>\r\n<br>\r\n<br>\r\n<br>\r\nFILL IN THE FIRST BLANK: Who are you?</span></div></div>",
+            "created":1594530000,
+            "id":2867010,
+            "title":"Recruitment"
+        },
+        "15511":{
+            "author_id":"animecsi",
+            "author_name":"Archie Comics Lover",
+            "choices":[
+                "Officer Jenny",
+                "Nurse Joy"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Fill in the second blank<br>\r\n<br>\r\nWHO WAS ASKING YOU</span></div></span></div>",
+            "created":1594530000,
+            "id":2867011,
+            "title":"Ash"
+        },
+        "155112":{
+            "author_id":"animecsi",
+            "author_name":"Archie Comics Lover",
+            "choices":[
+                "A younger version of Nurse  Joy",
+                "A Girl version who\u2019s a medical student",
+                "A Pok\u00e9mon"
+            ],
+            "content":"<div class=\"\"><div> <span>\u201cWith all the damage, destruction from attacks me, my sisters and cousins are getting over worked would you consider joining the Pokecenter Ash\u201d<br>\r\n<br>\r\n\u201cI\u2019m sorry Nurse Joy I can\u2019t at the\u201d Ash was cut off by <br>\r\n<br>\r\n\u201cNURSE JOY INCOMING WOUNDED\u201d<br>\r\n<br>\r\n\u201cSorry Ash but i can\u2019t do this alone anymore\u201d <br>\r\n <br>\r\nShe pulled a device out of her pocket pointed it at Ash and fired the beam hit turning him into</span></div></div>",
+            "created":1594530000,
+            "id":2867019,
+            "title":"Nurse Joy"
+        },
+        "1551123":{
+            "author_id":"animecsi",
+            "author_name":"Archie Comics Lover",
+            "choices":[
+                "Official Nurse Joy Partner ",
+                "Some other type of Pok\u00e9mon "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which Pok\u00e9mon is it?<br>\r\n<br>\r\n<br>\r\nIs it one of the established partners<br>\r\nChansey, Blissey, Audino, Wigglytuff, Comfey <br>\r\n<br>\r\nor some other type like Kirlia, Gothorita, etc</span></div></span></div>",
+            "created":1594530000,
+            "id":2867032,
+            "title":"A Pok\u00e9mon"
+        },
+        "15512":{
+            "author_id":"animecsi",
+            "author_name":"Archie Comics Lover",
+            "choices":[
+                "Brock, Travis or Max",
+                "Clemont Kiawe or Sophocles "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which guy is it </span></div></span></div>",
+            "created":1594530000,
+            "id":2867014,
+            "title":"One of the other guys "
+        },
+        "15513":{
+            "author_id":"animecsi",
+            "author_name":"Archie Comics Lover",
+            "choices":[
+                "Misty, May or Dawn",
+                "Iris, Serena or Bonnie",
+                "Lille, Lana or Mallow"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which girl is it</span></div></span></div>",
+            "created":1594530000,
+            "id":2867015,
+            "title":"One of the girls"
+        },
         "1552":{
             "author_id":"queendiva",
             "author_name":"QueenDiva",
@@ -1553,8 +1742,8 @@
         "description":"<td align=\"left\" class=\"norm\">Several stories where Ash &amp; the Pokegirl's are Gender Bent, Body/Face/Life swapped, Swap clothing &amp; anything you can think of <br>\r\n<br>\r\nYou can TG, TF, AP, AR &amp; Swap them<br>\r\nThey can have sex just no rape<br>\r\nWeight Gain &amp; Breast Expansion <br>\r\nHowever please No Vore </td>",
         "id":1983257,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":0,
-        "modified":1590530520,
+        "last_full_update":1594576020,
+        "modified":1594576020,
         "pretty_title":"Ash & the Pokegirls New Life"
     }
 }

@@ -2207,6 +2207,30 @@
             "id":2843402,
             "title":"play pen"
         },
+        "1511111212111111122111121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did they try to make a runway?</span></div></span></div>",
+            "created":1593147600,
+            "id":2857342,
+            "title":"Writer's Choice 1"
+        },
+        "1511111212111111122111122":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did they try to find music?</span></div></span></div>",
+            "created":1593234000,
+            "id":2857441,
+            "title":"Writer's Choice 2"
+        },
         "1511111212111112":{
             "author_id":"johnny2",
             "author_name":"littlejohn",
@@ -6255,8 +6279,8 @@
         "description":"<td align=\"left\" class=\"norm\">Stories about The Rugrats using their diapers/underwear and failing at potty training.<br>\r\n<br>\r\nRules<br>\r\n<br>\r\nJust stay on topic and <b>add detail, don't just add 1 or 2 sentences</b><br>\r\nWetting and messing is the focus, don't go crazy with other things.<br>\r\n<br>\r\nNotice: After being messaged a request, I've added an All Grown Up option under Tommy's path for those who want to use it. Feel free to add on to it. <br>\r\n<br>\r\nAlso thank you for 35k chapter views. I didn't know how this would do when creating it. So thanks to those that read or add chapters to this story.</td>",
         "id":2160516,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":0,
-        "modified":1590877500,
+        "last_full_update":1593241680,
+        "modified":1593241680,
         "pretty_title":"Rugrats Diaper Tales"
     }
 }

@@ -12816,6 +12816,18 @@
             "id":2814493,
             "title":"She loves it but she would like to have some pa..."
         },
+        "1131322112211122342212131213112212112122112111122112222212112222121212":{
+            "author_id":"mbrody",
+            "author_name":"MBrody",
+            "choices":[
+                "Denise is now fully-dressed, complete with a pull-up.",
+                "Denise now has a toddler's shirt, but is still half-naked."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0You opted to change reality so Denise was supposed to be three. When this is accomplished...</span></div></span></div>",
+            "created":1595221200,
+            "id":2872124,
+            "title":"change reality so Denise is supposed to be three."
+        },
         "11313221122111223422121312131122121121221121111221122222121122222":{
             "author_id":"mbrody",
             "author_name":"MBrody",
@@ -13164,6 +13176,42 @@
             "id":2820747,
             "title":"no"
         },
+        "11313221122111223422121312131122121121221121111221122222122121222221":{
+            "author_id":"mbrody",
+            "author_name":"MBrody",
+            "choices":[
+                "stay a teenager",
+                "be an adult under thirty."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\"No,\" you mom decided. \"I think I'd actually like to be older than thirteen, but still younger than I was. I think I want to...\"</span></div></span></div>",
+            "created":1595221200,
+            "id":2872119,
+            "title":"older than thirteen but still younger than I wa..."
+        },
+        "113132211221112234221213121311221211212211211112211222221221212222211":{
+            "author_id":"mbrody",
+            "author_name":"MBrody",
+            "choices":[
+                "15",
+                "17 (your age)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Your mom decided that she would like to stay a teenager. She wanted to be...</span></div></span></div>",
+            "created":1595221200,
+            "id":2872120,
+            "title":"stay a teenager"
+        },
+        "113132211221112234221213121311221211212211211112211222221221212222212":{
+            "author_id":"mbrody",
+            "author_name":"MBrody",
+            "choices":[
+                "21",
+                "25"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Your mom chose to become...</span></div></span></div>",
+            "created":1595221200,
+            "id":2872121,
+            "title":"be an adult under thirty."
+        },
         "11313221122111223422121312131122121121221121111221122222122121222222":{
             "author_id":"mbrody",
             "author_name":"MBrody",
@@ -13175,6 +13223,30 @@
             "created":1587186000,
             "id":2820785,
             "title":"younger even than thirteen."
+        },
+        "113132211221112234221213121311221211212211211112211222221221212222221":{
+            "author_id":"mbrody",
+            "author_name":"MBrody",
+            "choices":[
+                "6",
+                "11"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\"No,\" you mom decided. \"I think I'd actually like to be...\"</span></div></span></div>",
+            "created":1595221200,
+            "id":2872113,
+            "title":"a preteen or grade school age."
+        },
+        "113132211221112234221213121311221211212211211112211222221221212222222":{
+            "author_id":"mbrody",
+            "author_name":"MBrody",
+            "choices":[
+                "a twenty-three-month-old toddler.",
+                "an eleven-month-old infant."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\"No,\" you mom decided. \"I think I'd actually like to be...\"</span></div></span></div>",
+            "created":1595221200,
+            "id":2872114,
+            "title":"a baby."
         },
         "11313221122111223422121312131122121121221121111221122222122122":{
             "author_id":"mbrody",
@@ -31110,8 +31182,8 @@
         "description":"<td align=\"left\" class=\"norm\">The real world remote controller <br>\r\n<br>\r\nYou find a box in the ground and open it has a remote that has a his and hers switch. On the bottom of the box is a book and it says you can only control one being at a time. You can pre-set up to 5 and will reset itself ever 2 years\tyou see on the box it says 1996 on the box\t<br>\r\nWho do you want to control with the remote? <br>\r\n1.\t best friend (female)<br>\r\n2.\tbest friend (male)\t<br>\r\n3.\tsister\t<br>\r\n4.\tbrother<br>\r\n5.\tboyfriend or girlfriend<br>\r\n</td>",
         "id":1875153,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":0,
-        "modified":1592881440,
+        "last_full_update":1592881440,
+        "modified":1595268180,
         "pretty_title":"The real world remote controller "
     }
 }

@@ -1,7 +1,7 @@
 {
     "chapters":{
         "1":{
-            "author_id":"k4kinboy",
+            "author_id":"evilguy496",
             "author_name":"evilguy496",
             "choices":[
                 "Vaike",
@@ -16,7 +16,7 @@
             "title":"Mission Start"
         },
         "11":{
-            "author_id":"k4kinboy",
+            "author_id":"evilguy496",
             "author_name":"evilguy496",
             "choices":[
                 "Robin (Female)",
@@ -31,7 +31,7 @@
             "title":"Vaike"
         },
         "12":{
-            "author_id":"k4kinboy",
+            "author_id":"evilguy496",
             "author_name":"evilguy496",
             "choices":[
                 "Olivia",
@@ -46,7 +46,7 @@
             "title":"Kellam"
         },
         "13":{
-            "author_id":"k4kinboy",
+            "author_id":"evilguy496",
             "author_name":"evilguy496",
             "choices":[
                 "Camilla",
@@ -61,7 +61,7 @@
             "title":"Oboro"
         },
         "14":{
-            "author_id":"k4kinboy",
+            "author_id":"evilguy496",
             "author_name":"evilguy496",
             "choices":[
                 "Corrin (Female)",
@@ -76,7 +76,7 @@
             "title":"Camilla"
         },
         "15":{
-            "author_id":"k4kinboy",
+            "author_id":"evilguy496",
             "author_name":"evilguy496",
             "choices":[
                 "You (Self-Insert, Male)",
@@ -91,7 +91,7 @@
             "title":"More"
         },
         "151":{
-            "author_id":"k4kinboy",
+            "author_id":"evilguy496",
             "author_name":"evilguy496",
             "choices":[
                 "Olivia",
@@ -111,6 +111,8 @@
             "choices":[
                 "Tharja",
                 "Edelgard",
+                "Lucina",
+                "Cordelia",
                 "More"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Would you like to choose one of the options?</span></div></span></div>",
@@ -119,7 +121,7 @@
             "title":"More"
         },
         "15155":{
-            "author_id":"k4kinboy",
+            "author_id":"evilguy496",
             "author_name":"evilguy496",
             "choices":[
                 "Female Robin",
@@ -134,7 +136,7 @@
             "title":"More"
         },
         "151555":{
-            "author_id":"k4kinboy",
+            "author_id":"evilguy496",
             "author_name":"evilguy496",
             "choices":[
                 "Celica",
@@ -149,7 +151,7 @@
             "title":"More"
         },
         "153":{
-            "author_id":"k4kinboy",
+            "author_id":"evilguy496",
             "author_name":"evilguy496",
             "choices":[
                 "Emmeryn",
@@ -164,7 +166,7 @@
             "title":"Gangrel"
         },
         "155":{
-            "author_id":"k4kinboy",
+            "author_id":"evilguy496",
             "author_name":"evilguy496",
             "choices":[
                 "Python",
@@ -179,7 +181,7 @@
             "title":"More"
         },
         "1551":{
-            "author_id":"k4kinboy",
+            "author_id":"evilguy496",
             "author_name":"evilguy496",
             "choices":[
                 "Clair",
@@ -193,8 +195,21 @@
             "id":2772561,
             "title":"Python"
         },
+        "1552":{
+            "author_id":"kard999",
+            "author_name":"Antichrist999",
+            "choices":[
+                "Mae ",
+                "Celica",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who does The Scared Mage Gas?</span></div></span></div>",
+            "created":1593579600,
+            "id":2859767,
+            "title":"Boey"
+        },
         "1555":{
-            "author_id":"k4kinboy",
+            "author_id":"evilguy496",
             "author_name":"evilguy496",
             "choices":[
                 "Kiran",
@@ -209,7 +224,7 @@
             "title":"More"
         },
         "15551":{
-            "author_id":"k4kinboy",
+            "author_id":"evilguy496",
             "author_name":"evilguy496",
             "choices":[
                 "Sharena",
@@ -223,8 +238,38 @@
             "id":2772563,
             "title":"Kiran"
         },
+        "155515":{
+            "author_id":"evilguy496",
+            "author_name":"evilguy496",
+            "choices":[
+                "Veronica",
+                "Laevatein",
+                "Loki",
+                "Plumeria",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The villainesses, then?</span></div></span></div>",
+            "created":1593061200,
+            "id":2856736,
+            "title":"More"
+        },
+        "1555155":{
+            "author_id":"evilguy496",
+            "author_name":"evilguy496",
+            "choices":[
+                "Anna",
+                "Gunnthra",
+                "Ylgr",
+                "Laegjarn",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>More characters?</span></div></span></div>",
+            "created":1594875600,
+            "id":2869594,
+            "title":"More"
+        },
         "15555":{
-            "author_id":"k4kinboy",
+            "author_id":"evilguy496",
             "author_name":"evilguy496",
             "choices":[
                 "Owain/Odin",
@@ -277,15 +322,15 @@
         }
     },
     "info":{
-        "author_id":"k4kinboy",
+        "author_id":"evilguy496",
         "author_name":"evilguy496",
         "brief_description":"The warriors of the battlefield take a break to gas the women!",
         "created":1577167620,
         "description":"<td align=\"left\" class=\"norm\">This interactive is for Fire Emblem characters farting, pooping, peeing and other nasty stuff on the girls.<br>\r\nI prefer:<br>\r\nScat<br>\r\nWatersports<br>\r\nGrow/Shrink<br>\r\nAnal Vore (if the fartee shrinks)<br>\r\nMore than 1 person and/or Pokemon farting on the same girl(s)<br>\r\nI allow:<br>\r\nFemale on Female<br>\r\nBody Swap/Revenge/etc. (Female on Female only)<br>\r\nMore than 1 girl being farted on<br>\r\nPenis/Vagina<br>\r\nSex/Rape<br>\r\nFemale versions of Male characters being farted on (but put a link of the picture first)<br>\r\nI don't allow:<br>\r\nDeath<br>\r\nFarting on Male</td>",
         "id":2208550,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":0,
-        "modified":1590946560,
+        "last_full_update":1594896420,
+        "modified":1594896420,
         "pretty_title":"Fire Emblem Female Fart Torture"
     }
 }

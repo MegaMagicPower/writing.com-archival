@@ -860,7 +860,7 @@
         },
         "141221211112":{
             "author_id":"david.johnson",
-            "author_name":"david.johnson",
+            "author_name":"boltbond",
             "choices":[
                 "Something startled Takato from behind",
                 "Other"
@@ -872,7 +872,7 @@
         },
         "1412212111121":{
             "author_id":"david.johnson",
-            "author_name":"david.johnson",
+            "author_name":"boltbond",
             "choices":[
                 "Takato's body moves by his own",
                 "Other"
@@ -1457,6 +1457,18 @@
             "id":2400186,
             "title":"Something a little...unorthodox"
         },
+        "155221":{
+            "author_id":"thetickler",
+            "author_name":"Icy yet Warm",
+            "choices":[
+                "One of his female friends.",
+                "One of his male friends."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Such enthusiasm!~ And whom should he give the \"honour\" of being his foot slave?</span></div></span></div>",
+            "created":1593925200,
+            "id":2861860,
+            "title":"Definitely!"
+        },
         "1553":{
             "author_id":"wolfpack1",
             "author_name":"wolf 1",
@@ -1950,7 +1962,7 @@
         },
         "1553322222222221":{
             "author_id":"0000w",
-            "author_name":"uouo",
+            "author_name":"0000w",
             "choices":[
                 "Takato was 6'0 and Henry was 6'5 (friends come up to their chests)",
                 "Takato was 8'5 and Henry was 9'0 (friends come up to below their stomachs)"
@@ -2448,8 +2460,8 @@
         "description":"<td align=\"left\" class=\"norm\">Takato finds a weird looking digidevice that allows the user to make unlimited wishes.<br>\r\nHe can transform into anything or change somebody else.<br>\r\n<br>\r\nNo gay or lesbian stuff.<br>\r\nNo sex.<br>\r\nNo endings allowed.<br>\r\neverthing else is allowed.</td>",
         "id":1783593,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":0,
-        "modified":1592474580,
+        "last_full_update":1593961200,
+        "modified":1593961200,
         "pretty_title":"The wishing adventures of Takato."
     }
 }

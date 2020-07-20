@@ -5,7 +5,8 @@
             "author_name":"Cardinal Priest",
             "choices":[
                 "Jessie",
-                "Bunk'd."
+                "Bunk'd.",
+                "How about both."
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So, which series do we start with?</span></div></span></div>",
             "created":1585544400,
@@ -620,6 +621,55 @@
             "created":1592456400,
             "id":2853388,
             "title":"Jessie woke up in the morning to find her boss ..."
+        },
+        "1113333232312":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Yeah",
+                "Emma tells her",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Jessie find out from Emma after finding Emma trying to hide from Christina?</span></div></span></div>",
+            "created":1594357200,
+            "id":2865462,
+            "title":"Emma"
+        },
+        "11133332323121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "RC 1",
+                "RC 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Emma is trying to hide from Christina why?</span></div></span></div>",
+            "created":1594357200,
+            "id":2865478,
+            "title":"Yeah"
+        },
+        "111333323231211":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Yep",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is the reason Emma is hiding from her mom because Christina tried to diaper Emma first?</span></div></span></div>",
+            "created":1594357200,
+            "id":2865481,
+            "title":"RC 1"
+        },
+        "1113333232312111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Emma explained the whole thing to Jessie. Did she talk with Emma and Christina before agreeing to be the baby of the family?</span></div></span></div>",
+            "created":1594357200,
+            "id":2865482,
+            "title":"Yep"
         },
         "111333323232":{
             "author_id":"supreme123",
@@ -1269,6 +1319,32 @@
             "id":2846834,
             "title":"yeah"
         },
+        "1143333":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Part of a new law that was passed",
+                "Dared",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What other reason does Christina end up in diapers?</span></div></span></div>",
+            "created":1594789200,
+            "id":2869059,
+            "title":"something else"
+        },
+        "11433331":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Jessie.",
+                "Emma.",
+                "Anyone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Because of this law, she's adopted and re-raised by...</span></div></span></div>",
+            "created":1594789200,
+            "id":2869062,
+            "title":"Part of a new law that was passed"
+        },
         "115":{
             "author_id":"kameron94",
             "author_name":"Kameron",
@@ -1332,6 +1408,31 @@
             "created":1591419600,
             "id":2846721,
             "title":"rosie liotta"
+        },
+        "11533":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Christina, Emma and Zuri",
+                "Bryn  Breitbart",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who else from Jessie end up in diapers?</span></div></span></div>",
+            "created":1594789200,
+            "id":2869061,
+            "title":"someone else"
+        },
+        "115331":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Babied by Jessie.",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>All three are diapered why?</span></div></span></div>",
+            "created":1594789200,
+            "id":2869064,
+            "title":"Christina, Emma and Zuri"
         },
         "12":{
             "author_id":"kameron94",
@@ -1758,6 +1859,56 @@
             "id":2813123,
             "title":"Lou"
         },
+        "12131212":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "yeah",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>does Lou replace Emma's missing panties with diapers because she thought it would be better than going commando(not wearing underwear under her pants)?</span></div></span></div>",
+            "created":1593579600,
+            "id":2860112,
+            "title":"SE"
+        },
+        "121312121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Not right away."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Emma agree with the idea?</span></div></span></div>",
+            "created":1593579600,
+            "id":2860116,
+            "title":"yeah"
+        },
+        "1213121212":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "yep",
+                "claimed she'd rather go commando",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>is the reason she doesn't agree right away because she asked Lou why she couldn't just barrow a pair from her or one of the other woodchuck girls?</span></div></span></div>",
+            "created":1593579600,
+            "id":2860121,
+            "title":"Not right away."
+        },
+        "12131212122":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Lou soon convinces her.",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is she forced at this point?</span></div></span></div>",
+            "created":1593579600,
+            "id":2860127,
+            "title":"claimed she'd rather go commando"
+        },
         "12132":{
             "author_id":"kameron94",
             "author_name":"Kameron",
@@ -1770,6 +1921,32 @@
             "created":1588654800,
             "id":2830453,
             "title":"A prank"
+        },
+        "121321":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "puts her hand in warm water",
+                "list Emma as a bedwetter in her camp file",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what prank does Hazel pull on Emma that has her in diapers?</span></div></span></div>",
+            "created":1594270800,
+            "id":2865163,
+            "title":"Hazel"
+        },
+        "1213212":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Lou",
+                "Zuri.",
+                "Anyone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who notices this inher file after Hazel adds it in?</span></div></span></div>",
+            "created":1594270800,
+            "id":2865172,
+            "title":"list Emma as a bedwetter in her camp file"
         },
         "121322":{
             "author_id":"supreme123",
@@ -1908,6 +2085,31 @@
             "id":2810881,
             "title":"Zuri"
         },
+        "123":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "punishment",
+                "camp activity",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what reason does Hazel end up in diapers?</span></div></span></div>",
+            "created":1593579600,
+            "id":2860093,
+            "title":"Hazel"
+        },
+        "1231":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Lou, or anyone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is it Emma that punishes her?</span></div></span></div>",
+            "created":1593579600,
+            "id":2860097,
+            "title":"punishment"
+        },
         "124":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
@@ -1915,10 +2117,48 @@
                 "Sure",
                 "Other reasons."
             ],
-            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does she like being treated likea baby?</span></div></span></div>",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does she like being treated like a baby?</span></div></span></div>",
             "created":1585630800,
             "id":2810857,
             "title":"Lou"
+        },
+        "1241":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Emma",
+                "Zuri",
+                "someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>who would Lou like to treat her like a baby?</span></div></span></div>",
+            "created":1594270800,
+            "id":2865162,
+            "title":"Sure"
+        },
+        "12411":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Other reasons."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She chooses Emma due to her being the oldest Ross child?</span></div></span></div>",
+            "created":1594270800,
+            "id":2865170,
+            "title":"Emma"
+        },
+        "12413":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Destiny.",
+                "Hmmm, anyone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is it Christina that baby's Lou?</span></div></span></div>",
+            "created":1594270800,
+            "id":2865179,
+            "title":"someone else"
         },
         "1242":{
             "author_id":"kameron94",
@@ -1933,6 +2173,19 @@
             "id":2810864,
             "title":"Other reasons."
         },
+        "12421":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Has Emma do it.",
+                "Zuri, or someone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>After getting diapers in her size, does she diaper herself?</span></div></span></div>",
+            "created":1594270800,
+            "id":2865168,
+            "title":"yeah"
+        },
         "12422":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
@@ -1945,6 +2198,19 @@
             "created":1585630800,
             "id":2810871,
             "title":"camp activity"
+        },
+        "12423":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Sure.",
+                "Turned into a baby.",
+                "Any other ways she'd be in diapers."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Let's see. Is she punished?</span></div></span></div>",
+            "created":1594270800,
+            "id":2865178,
+            "title":"something else"
         },
         "125":{
             "author_id":"kameron94",
@@ -2036,6 +2302,19 @@
             "id":2841786,
             "title":"Yeah"
         },
+        "12513":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Punished.",
+                "Any other reasons."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Part of a camp activity?</span></div></span></div>",
+            "created":1594270800,
+            "id":2865155,
+            "title":"Another Reason"
+        },
         "1252":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
@@ -2048,6 +2327,45 @@
             "created":1590555600,
             "id":2841709,
             "title":"Gwen"
+        },
+        "12523":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Camp activity ",
+                "Someone puts her in them",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What other reason does the camp's resident wild nature girl end up in diapers.</span></div></span></div>",
+            "created":1593666000,
+            "id":2860476,
+            "title":"Any more reasons."
+        },
+        "125231":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "A councilor.",
+                "Another camper.",
+                "Lou."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>As part of a camp activity, Gwen would be babied by someone, but, who?</span></div></span></div>",
+            "created":1593666000,
+            "id":2860481,
+            "title":"Camp activity "
+        },
+        "1253":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Tiffany.",
+                "Others to work with."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Can it be Destiny?</span></div></span></div>",
+            "created":1594357200,
+            "id":2865341,
+            "title":"someone else"
         },
         "13":{
             "author_id":"kameron94",
@@ -2101,6 +2419,31 @@
             "created":1589691600,
             "id":2837313,
             "title":"yep"
+        },
+        "131113":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "yeah",
+                "heads to the camp showers",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>do Jessie and her new \"big sisters\" go to the mess hall to eat?</span></div></span></div>",
+            "created":1593579600,
+            "id":2860084,
+            "title":"Something else."
+        },
+        "1311131":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "As someone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>They soon entered the mess hall, finding places at the same table as Lou?</span></div></span></div>",
+            "created":1593579600,
+            "id":2860095,
+            "title":"yeah"
         },
         "1312":{
             "author_id":"jd88237",
@@ -2323,8 +2666,8 @@
         "description":"<td align=\"left\" class=\"norm\">Another chance at this story.<br>\r\nRules.<br>\r\nNo humilation, insulting characters, sex, drugs. Nothing too over the top.</td>",
         "id":2217541,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":0,
-        "modified":1592587080,
+        "last_full_update":1594827480,
+        "modified":1594827480,
         "pretty_title":"Jessie and Bunk'd AB/DL."
     }
 }

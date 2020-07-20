@@ -13493,6 +13493,32 @@
             "id":1424138,
             "title":"group four or five"
         },
+        "152":{
+            "author_id":"jabbawockez",
+            "author_name":"herge1",
+            "choices":[
+                "School",
+                "Sisters",
+                "Others"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who would you choose?</span></div></span></div>",
+            "created":1595134800,
+            "id":2871768,
+            "title":"(G2)Start with his friends from school, his sis..."
+        },
+        "1521":{
+            "author_id":"jabbawockez",
+            "author_name":"herge1",
+            "choices":[
+                "Tatsuki",
+                "Chizuru",
+                "Orihime"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which classmate would you choose</span></div></span></div>",
+            "created":1595134800,
+            "id":2871771,
+            "title":"School"
+        },
         "154":{
             "author_id":"hydress",
             "author_name":"Stardust",
@@ -13516,7 +13542,7 @@
         "id":1858914,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
         "last_full_update":1472019900,
-        "modified":1472019900,
+        "modified":1595210760,
         "pretty_title":"Ichigo's hypno harem"
     }
 }

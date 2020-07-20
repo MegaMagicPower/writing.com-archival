@@ -1239,7 +1239,7 @@
         },
         "1122":{
             "author_id":"saracen1187",
-            "author_name":"Switcher",
+            "author_name":"Triss Merigold",
             "choices":[
                 "...dial 911.",
                 "...call her mother.",
@@ -1959,6 +1959,18 @@
             "created":1536987600,
             "id":2548163,
             "title":"An Aftershift hits."
+        },
+        "1141321112111121":{
+            "author_id":"mpharoh",
+            "author_name":"lazercorn reborn",
+            "choices":[
+                "Japan",
+                "Africa"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which country?</span></div></span></div>",
+            "created":1593147600,
+            "id":2857377,
+            "title":"Another country"
         },
         "1141322":{
             "choices":[
@@ -8876,8 +8888,8 @@
         "description":"<td align=\"left\" class=\"norm\">My name... well, at this point it's not really important anymore but if you want to know, it was Evan.  I WAS a kind of average high school sophomore... until the Great Shift.  An experiment gone wrong caused most of the world to switch bodies and I wasn't an exception.  Now, well... I'm stuck in a body that's very much not my own.  This is my story.<br>\r\n<br>\r\nFor the most part everything is alright, but there ARE rules:<br>\r\n<br>\r\n<b>1.)</b> Be mindful of grammar.  I don't expect everyone to have perfect grammar but make sure your chapter is readable.  I'll delete it if it's unreadable.<br>\r\n<b>2.)</b> Follow the story.  Taking the story in new directions is fine.  But if you write something that obviously has no connection to the previous chapter(s), it'll get deleted.<br>\r\n<b>3.)</b> Try to keep sex to a minimum.  A little bit is alright, but don't make every chapter about sex or \"playing with my new hot body.\"  If it's over the line, it's gone.<br>\r\n<b>4.)</b> Add CONTENT.  One or two sentences isn't going to cut it.  A paragraph only is pushing it.  If it's just meaningless filler, I'm deleting it.<br>\r\n<b>5.)</b> Don't have the main character switch bodies a lot.  There are \"aftershocks\" but only a handful for the first day or two and they effect less and less people each time so only switch the main character again if you think you've got a good story to tell.<br>\r\n<br>\r\nOther than that, you can do most anything else so have fun.<br>\r\n<br>\r\nI'm aware that the first chapters are meaningless fluff.  I just wanted to get the \"nothing more than a choice\" chapters out of the way immediately so no matter what, people have something to choose.</td>",
         "id":1535461,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1587523200,
-        "modified":1587523200,
+        "last_full_update":1593231600,
+        "modified":1593231600,
         "pretty_title":"The Great Shift"
     }
 }

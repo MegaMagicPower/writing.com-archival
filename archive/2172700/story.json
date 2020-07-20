@@ -753,7 +753,7 @@
             "author_name":"Lonly Wanderer",
             "choices":[
                 "Emma Swan",
-                "Snow White",
+                "Ivy Belfry/ Drizella Tremaine",
                 "Regina Mills",
                 "Aurora",
                 "Other females"
@@ -827,15 +827,16 @@
             "title":"Lily goes home to play with Emma"
         },
         "13113":{
-            "author_id":"jd88237",
-            "author_name":"jdawg1985",
+            "author_id":"pokeprof",
+            "author_name":"Lonly Wanderer",
             "choices":[
-                "Mr. Gold",
-                "Someone Else"
+                "Snow Queen",
+                "Dragon Lady",
+                "More characters"
             ],
-            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who else could Emma be doing a magical lesson with?</span></div></span></div>",
-            "created":1551675600,
-            "id":2626513,
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about Ingrid, she'd probably have a nice time helping Emma to learn magic?<br>\r\n<br>\r\nOr Maleficent, she taught Regina, and Emma's just as stubborn and hard headed?</span></div></span></div>",
+            "created":1584507600,
+            "id":2803418,
             "title":"Other"
         },
         "1312":{
@@ -1264,6 +1265,32 @@
             "id":2839825,
             "title":"Tiny Teacher "
         },
+        "1355":{
+            "author_id":"pokeprof",
+            "author_name":"Lonly Wanderer",
+            "choices":[
+                "Tink's all tiny",
+                "Cute little fairy/nun/sweetie",
+                "More ladies"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Tinkerbell, somehow I forgot to make one of the few tolerable fairies (IMO) an option, whoops<br>\r\n<br>\r\nWhile I'm here, Nova/Astrid, the only fairy I like?</span></div></span></div>",
+            "created":1594702800,
+            "id":2868671,
+            "title":"FAIRIES!"
+        },
+        "13551":{
+            "author_id":"pokeprof",
+            "author_name":"Lonly Wanderer",
+            "choices":[
+                "Didn't even get to keep her height :(",
+                "Stupid magical backlash",
+                "Other scenarios"
+            ],
+            "content":"<div class=\"\"><div> <span>Ok, so how are we going to start this thing?<br>\r\n<br>\r\n1) When the Blue bi...... fairy (yep that was totally what I meant to write) stripped Tink of her powers, she also made sure she wouldn't cause any more trouble for her... by leaving her fairy size but without the wings or magic.<br>\r\n<br>\r\n2) Having gotten used to living in Storybrooke, Tink got bored and decided to try expand her repertoire of magic. It worked for a while, until she tries what she later learns to be a shrinking spell, the misfire knocking her out and sending her away, later found by a 'curious' Henry Mills, on his bed.</span></div></div>",
+            "created":1594702800,
+            "id":2868680,
+            "title":"Tink's all tiny"
+        },
         "14":{
             "choices":[
                 "Emma",
@@ -1398,7 +1425,8 @@
         "description":"<td align=\"left\" class=\"norm\">Characters from the entire OUAT series grow or shrink. Regardless of where they're from this interactive takes place in Storybrooke<br>\r\n<br>\r\nImportant rules:<br>\r\n<br>\r\nMales don't grow, only shrink. Females can shrink or grow.<br>\r\nNo M/m interactions, F/m, F/f and as of recently M/f is allowed.<br>\r\nWill allow futanari only for F/f interactions<br>\r\nNo piss, shit or excessive violence<br>\r\n<br>\r\nPretty easy going about most things, so those are the main rules for the moment, but subject to change if something happens that I feel requires it</td>",
         "id":2172700,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1590215940,
+        "last_full_update":1594769580,
+        "modified":1594769580,
         "pretty_title":"Once Upon A Time Size changing"
     }
 }

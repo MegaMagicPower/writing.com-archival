@@ -1964,6 +1964,19 @@
             "id":2820098,
             "title":"An animal (AWKWARD!!!)"
         },
+        "152132":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "Option 2",
+                "Option 2",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>So; how does Link end up swapping bodies with his Loftwing?<br>\r\n<br>\r\n<br>\r\nOption 1: As part of a scheme to prevent Link from spoiling his plans, Ghirahim casts a spell on Link which will cause him to swap bodies with the next living creature that he touches. Unfortunately for Link, his return back to Skyloft makes said creature his red-feathered Loftwing bird!<br>\r\n<br>\r\n<br>\r\nOption 2: While flying around Skyloft on his Loftwing, Link goes through a mysterious glittering cloud. However, doing so causes him and his Loftwing to swap bodies while still in mid-air! Not only does Link have to get used to having wings in a hurry; he also has to prevent the Loftwing in his body from falling off of his back until they reach solid ground!<br>\r\n<br>\r\n<br>\r\nHowever he ends up swapping with his Loftwing, Link will likely face several challenges.</span></div></div>",
+            "created":1594357200,
+            "id":2865616,
+            "title":"Link will swap bodies with his own Loftwing"
+        },
         "1523":{
             "author_id":"mrmasterplan",
             "author_name":"MrMasterplan",
@@ -2881,6 +2894,79 @@
             "id":2337406,
             "title":"Something else "
         },
+        "1553221223121":{
+            "author_id":"jack4716",
+            "author_name":"jack4716",
+            "choices":[
+                "One we know!",
+                "A new character!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will he turn into a Rito we know or a new character?</span></div></span></div>",
+            "created":1595048400,
+            "id":2870816,
+            "title":"Ritos"
+        },
+        "15532212231211":{
+            "author_id":"jack4716",
+            "author_name":"jack4716",
+            "choices":[
+                "Yes!",
+                "Another Rito"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Maybe Amali, Kass's wife?</span></div></span></div>",
+            "created":1595048400,
+            "id":2870817,
+            "title":"One we know!"
+        },
+        "155322122312111":{
+            "author_id":"jack4716",
+            "author_name":"jack4716",
+            "choices":[
+                "During",
+                "After"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>During or after Botw?</span></div></span></div>",
+            "created":1595048400,
+            "id":2870820,
+            "title":"The Musician's Wife"
+        },
+        "1553221223121111":{
+            "author_id":"jack4716",
+            "author_name":"jack4716",
+            "choices":[
+                "Song",
+                "Mask",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How is he going to be changed?</span></div></span></div>",
+            "created":1595048400,
+            "id":2870821,
+            "title":"Method?"
+        },
+        "15532212231211111":{
+            "author_id":"jack4716",
+            "author_name":"jack4716",
+            "choices":[
+                "Yes!",
+                "Other Idea"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Amali grows tired of her boring life as a mother and wife, and sees the Hero of Hyrule talking to her husband and gets an idea.</span></div></span></div>",
+            "created":1595048400,
+            "id":2870822,
+            "title":"Amali wants out!"
+        },
+        "155322122312111111":{
+            "author_id":"jack4716",
+            "author_name":"jack4716",
+            "choices":[
+                "Amali starts the song",
+                "She waits until midnight"
+            ],
+            "content":"<div class=\"\"><div> <span>Link needed some sleep. <br>\r\n<br>\r\nHe had just spent the past few hours aboard the Divine Beast Vah Medoh, battling the blight that infected the weapon all those years ago. As if battling a Blight wasn't straining enough, he met with Revali and freed his spirit. Even with his loss of memory, he still felt connected to the Champions, feeling guilty for being the only survivor. After being gifted with Revali's Gale, he was transported back to Rito Village, where he now found himself. He would have been content to head to the Inn, if he didn't run into Amali on the way. <br>\r\n<br>\r\n\"Oh, Mister Link! You look exhausted, I have an extra bed if you need somewhere to stay.\" The Rito said with a motherly tone. <br>\r\n<br>\r\n\"I was going to sleep at the Inn.\" Link said, weighing his options. \"Sure, will Kass be ok with this?\" <br>\r\n<br>\r\n\"Oh, Kass and the kids are on a....musical retreat for the night. They'll be back tomorrow evening.\" She said, ecstatic that he agreed. Her plan would be alot easier to implement in the safety of her home.<br>\r\n<br>\r\nLink followed the woman up the winding steps of the village untill they reached her home. Without Kass's music or the children screaming it was peaceful, reminded Link of his own home back in Hateno. Amali showed Link to the open cot and he didn't hesitate, immediately taking his gear off and falling onto the bed, asleep within second. </span></div></div>",
+            "created":1595048400,
+            "id":2871148,
+            "title":"Yes!"
+        },
         "1553221223122":{
             "author_id":"nerdman42",
             "author_name":"Nerdie",
@@ -2904,6 +2990,19 @@
             "created":1531544400,
             "id":2519910,
             "title":"Gerudo"
+        },
+        "15532212231222":{
+            "author_id":"jack4716",
+            "author_name":"jack4716",
+            "choices":[
+                "Bokoblin",
+                "Moblin",
+                "Lizalfos"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which monster we thinking?</span></div></span></div>",
+            "created":1595048400,
+            "id":2870814,
+            "title":"A monster"
         },
         "15532212232":{
             "author_id":"gite",
@@ -3046,7 +3145,8 @@
         "description":"<td align=\"left\" class=\"norm\">Link from the Legend of Zelda games is about to be changed but you get to decide in what way, shape, and form.<br>\r\nRules:<br>\r\nNo Death<br>\r\nNo Gore<br>\r\nShipping is fine<br>\r\nSex is okay<br>\r\nUse characters from the Legend of Zelda series only.<br>\r\nOther then that please go and have fun.</td>",
         "id":1834750,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "modified":1590157800,
+        "last_full_update":1595095620,
+        "modified":1595095620,
         "pretty_title":"The changing adventures with Link"
     }
 }

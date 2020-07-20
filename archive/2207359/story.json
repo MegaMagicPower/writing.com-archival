@@ -30,6 +30,19 @@
             "id":2757181,
             "title":"Sly Cooper Series"
         },
+        "111":{
+            "author_id":"spunky",
+            "author_name":"Ace Jones",
+            "choices":[
+                "Sly Cooper",
+                "Bentley the turtle.",
+                "Someone else."
+            ],
+            "content":"<div class=\"\"><div> <span>Okay you've decided to go with a single male character.<br>\r\n<br>\r\nAlright then.<br>\r\n<br>\r\nAnyway since there's plenty of guys to choose from we'll start things off with the star of the franchise Sly Cooper.<br>\r\n<br>\r\nNow then please select a character.</span></div></div>",
+            "created":1595134800,
+            "id":2871513,
+            "title":"Let's focus on a single male character."
+        },
         "114":{
             "author_id":"vocalrvbplayer",
             "author_name":"Vocal",
@@ -189,6 +202,32 @@
             "id":2796203,
             "title":"Telltales the walking dead"
         },
+        "1511":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "season 1 Clementine(8 years old)",
+                "season 2 Clementine(12 years old)",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>which version of Clementine ends up in diapers?</span></div></span></div>",
+            "created":1595134800,
+            "id":2871520,
+            "title":"Yeah"
+        },
+        "1513":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Lily",
+                "Carley",
+                "someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>who else from Telltale's the walking dead ends up in diapers?</span></div></span></div>",
+            "created":1595134800,
+            "id":2871519,
+            "title":"Others."
+        },
         "152":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
@@ -202,6 +241,45 @@
             "id":2758001,
             "title":"Life is strange"
         },
+        "1521":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Likes to be babied.",
+                "Adopted as part of a new law.",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Max is diapered why?</span></div></span></div>",
+            "created":1595134800,
+            "id":2871524,
+            "title":"Max"
+        },
+        "15212":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Chloe",
+                "Joyce",
+                "someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>who adopts Max due to this new Law?</span></div></span></div>",
+            "created":1595134800,
+            "id":2871527,
+            "title":"Adopted as part of a new law."
+        },
+        "152122":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "She's dressed as a baby by her new big sister Chloe.",
+                "Anything else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>First, both Joyce and Chloe take her through rules?</span></div></span></div>",
+            "created":1595134800,
+            "id":2871529,
+            "title":"Joyce"
+        },
         "1522":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
@@ -213,6 +291,32 @@
             "created":1576299600,
             "id":2759586,
             "title":"Chloe"
+        },
+        "1523":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Victoria",
+                "Kate",
+                "someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>ho else from life is strange do we try?</span></div></span></div>",
+            "created":1595134800,
+            "id":2871523,
+            "title":"More characters"
+        },
+        "15232":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Adopted thanks to a new law.",
+                "Any other reasons."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Kate is diapered due to liking them?</span></div></span></div>",
+            "created":1595134800,
+            "id":2871525,
+            "title":"Kate"
         },
         "155":{
             "author_id":"benz02",
@@ -299,7 +403,7 @@
         "id":2207359,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
         "last_full_update":1588309200,
-        "modified":1588309200,
+        "modified":1595163540,
         "pretty_title":"Big Babies of Video Games (My Version)"
     }
 }

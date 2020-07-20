@@ -1079,6 +1079,109 @@
             "id":2836028,
             "title":"Any other reasons."
         },
+        "115332":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "investigates a mysterious new daycare",
+                "part of a new law that was passed",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>how else does Emma Swan end up in diapers?</span></div></span></div>",
+            "created":1593061200,
+            "id":2856677,
+            "title":"No, Another Reason"
+        },
+        "1153321":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Mary Margaret",
+                "Ruby",
+                "Someone Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who alerted Emma about the mysterious new daycare?</span></div></span></div>",
+            "created":1593061200,
+            "id":2856682,
+            "title":"investigates a mysterious new daycare"
+        },
+        "11533212":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Emma asks more questions",
+                "Emma leaves her lunch to investigate",
+                "Emma finishes her lunch before investigating"
+            ],
+            "content":"<div class=\"\"><div> <span>Ruby came into the sheriff's office with Emma's lunch one day. Emma was at her desk doing paperwork when Ruby sits the picnic basket down on the desk.<br>\r\n<br>\r\nEmma (looking up at Ruby) \"Hey lunch is finally here.\"<br>\r\n<br>\r\nRuby: \"Yeah sorry we got a little backed up. Apparently some new people have joined us from another realm. They have opened a daycare to look after the town's kids.\"<br>\r\n<br>\r\nEmma: \"Must make Gold happy getting new tenants.\"<br>\r\n<br>\r\nRuby: \"That's the thing the daycare just appeared at the edge of town last night along with the new people.\"<br>\r\n<br>\r\nWhat happens next?</span></div></div>",
+            "created":1593061200,
+            "id":2856705,
+            "title":"Ruby"
+        },
+        "115332121":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "yep",
+                "someone came in to complain before she asked",
+                "she asks something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>does Emma ask if anyone in storybrooke has applied to send their kids to the daycare?</span></div></span></div>",
+            "created":1593061200,
+            "id":2856708,
+            "title":"Emma asks more questions"
+        },
+        "1153321211":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Emma: \"Has anyone we know applied to send their kids to the daycare?\"<br>\r\n<br>\r\nWhat is Ruby's answer?</span></div></span></div>",
+            "created":1593061200,
+            "id":2856714,
+            "title":"yep"
+        },
+        "11533212111":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "she ate her lunch and went to check out the daycare",
+                "someone came into her office to complain",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ruby: \"Yeah, from what I've seen so far, a quite a few people have applied including Ashley, Zelena and your mom Mary Margaret.\"<br>\r\n<br>\r\nafter Ruby told Emma this and got her lunch....</span></div></span></div>",
+            "created":1593061200,
+            "id":2856718,
+            "title":"Yes"
+        },
+        "115332121111":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "One Hour",
+                "Forty Five Minutes",
+                "Another Period of Time"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How long did it take Emma to eat her lunch before going to check out the daycare?</span></div></span></div>",
+            "created":1593061200,
+            "id":2856723,
+            "title":"she ate her lunch and went to check out the day..."
+        },
+        "11533213":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Ashley",
+                "Zelena",
+                "someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>who else alerted about the new daycare to Emma?</span></div></span></div>",
+            "created":1593061200,
+            "id":2856690,
+            "title":"Someone Else"
+        },
         "12":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
@@ -1599,7 +1702,7 @@
             "author_id":"tmortell",
             "author_name":"tmort",
             "choices":[
-                "One month later Ruby goes overboard with the feeding & they all gain 100 pounds",
+                "one of the girls makes a mess",
                 "one of the babies used their diaper",
                 "something else"
             ],
@@ -1877,8 +1980,8 @@
         "description":"<td align=\"left\" class=\"norm\">the girls from once upon a time end up in diapers, why is up to you.<br>\r\n<br>\r\nRule 1. no killing off characters.<br>\r\nRule 2. no ending the story paths before they actually start. I will delete those<br>\r\nRule 3. no insulting religion.<br>\r\nRule 4. no sex<br>\r\nRule 5. no weight gain<br>\r\n<br>\r\nhave fun :)</td>",
         "id":2201068,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":0,
-        "modified":1590845520,
+        "last_full_update":1593102480,
+        "modified":1593102480,
         "pretty_title":"once upon a time girls in diapers"
     }
 }

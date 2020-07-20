@@ -166,6 +166,32 @@
             "id":2797734,
             "title":"More "
         },
+        "151":{
+            "author_id":"orangeskunk5",
+            "author_name":"OrangeSkunk5",
+            "choices":[
+                "You are the only Furry",
+                "Everyone else is a Furry, but not you",
+                "Half/Half (Either by All males, All Females or Half of each Sex)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>In what form of it do you wish to have it?</span></div></span></div>",
+            "created":1593493200,
+            "id":2858875,
+            "title":"Gettin' Furry with it"
+        },
+        "1513":{
+            "author_id":"orangeskunk5",
+            "author_name":"OrangeSkunk5",
+            "choices":[
+                "Every Male is a Furry",
+                "Every Female is a Furry",
+                "Half the world (25% Male Furries, 25% Female Furries)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which one?</span></div></span></div>",
+            "created":1593493200,
+            "id":2858882,
+            "title":"Keeping it Fair"
+        },
         "152":{
             "author_id":"jfoxx",
             "author_name":"Johnny Foxx",
@@ -424,8 +450,8 @@
         "description":"<td align=\"left\" class=\"norm\">Let's face it, reality sucks. Don't you ever wish things in our reality were different? For example, a world where magic was real. Or maybe one where superheroes really existed. Well, in this story you can visit these worlds and many more! Whether it's an alternate history scenario, such as the dinosaurs never going extinct, or alternate reality like mentioned above, feel free to run wild with it! </td>",
         "id":2215105,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":0,
-        "modified":1591299420,
+        "last_full_update":1594440900,
+        "modified":1594440900,
         "pretty_title":"Alternate Earths"
     }
 }

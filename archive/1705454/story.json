@@ -115,6 +115,18 @@
             "id":2333752,
             "title":"1 inch"
         },
+        "1112221":{
+            "author_id":"ecnavmc",
+            "author_name":"EcnavMC",
+            "choices":[
+                "Freddy",
+                "Bonnie"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which one? </span></div></span></div>",
+            "created":1594789200,
+            "id":2869126,
+            "title":"Freddy/bonnie"
+        },
         "1112222":{
             "author_id":"alex999999",
             "author_name":"Alexthefurry",
@@ -451,6 +463,18 @@
             "id":2506683,
             "title":"I'm too lazy, let's go classic"
         },
+        "1113322":{
+            "author_id":"golden1987",
+            "author_name":"golden1987",
+            "choices":[
+                "Love, size change, swap or something new",
+                "More types of side effects (other)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So if mike wants to be happy, there is a drink on his desk but what drink is it?</span></div></span></div>",
+            "created":1593752400,
+            "id":2860786,
+            "title":"Feeling creative today, guys,!"
+        },
         "112":{
             "author_id":"zinyzang",
             "author_name":"Zinyzang ",
@@ -639,6 +663,18 @@
             "created":1504933200,
             "id":2383071,
             "title":"Freddy"
+        },
+        "1221":{
+            "author_id":"ecnavmc",
+            "author_name":"EcnavMC",
+            "choices":[
+                "Grow",
+                "Shrink"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which one? </span></div></span></div>",
+            "created":1594789200,
+            "id":2869124,
+            "title":"Grow/shrink"
         },
         "125":{
             "author_id":"cameronplaysmc",
@@ -1296,6 +1332,67 @@
             "id":2478564,
             "title":"How about this?"
         },
+        "1542":{
+            "author_id":"ecnavmc",
+            "author_name":"EcnavMC",
+            "choices":[
+                "The Silver Eyes Trilogy",
+                "The Fazbear\u2019s Frights Series",
+                "A different one. (The Survival Logbook and the Freddy Files) "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which ones? </span></div></span></div>",
+            "created":1594443600,
+            "id":2866431,
+            "title":"Fnaf book"
+        },
+        "15421":{
+            "author_id":"ecnavmc",
+            "author_name":"EcnavMC",
+            "choices":[
+                "The Silver Eyes",
+                "The Twisted Ones/The Fourth Closet"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which book? </span></div></span></div>",
+            "created":1594443600,
+            "id":2866436,
+            "title":"The Silver Eyes Trilogy"
+        },
+        "154212":{
+            "author_id":"ecnavmc",
+            "author_name":"EcnavMC",
+            "choices":[
+                "The Twisted Ones",
+                "The Fourth Closet"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which one? (Sorry about the last chapter, I have a free account)</span></div></span></div>",
+            "created":1594443600,
+            "id":2866440,
+            "title":"The Twisted Ones/The Fourth Closet"
+        },
+        "15423":{
+            "author_id":"ecnavmc",
+            "author_name":"EcnavMC",
+            "choices":[
+                "Survival Logbook",
+                "Freddy Files"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>I\u2019m not sure how these will work, but OK! Which one? </span></div></span></div>",
+            "created":1594443600,
+            "id":2866432,
+            "title":"A different one. (The Survival Logbook and the ..."
+        },
+        "154232":{
+            "author_id":"ecnavmc",
+            "author_name":"EcnavMC",
+            "choices":[
+                "Original",
+                "Updated"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which version? </span></div></span></div>",
+            "created":1594443600,
+            "id":2866434,
+            "title":"Freddy Files"
+        },
         "155":{
             "author_id":"maccar110",
             "author_name":"Fanfic T-Mac",
@@ -1320,6 +1417,18 @@
             "created":1562821200,
             "id":2685477,
             "title":"Something else."
+        },
+        "15532":{
+            "author_id":"ecnavmc",
+            "author_name":"EcnavMC",
+            "choices":[
+                "Special Delivery! ",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What about FNAF AR? (Special Delivery)</span></div></span></div>",
+            "created":1594443600,
+            "id":2866442,
+            "title":"Other"
         }
     },
     "info":{
@@ -1330,8 +1439,8 @@
         "description":"<td align=\"left\" class=\"norm\"> Just like the title says, make up a new story for the characters in FNAF. This includes, but is not limited to time travel, body swapping, TG, TF, new guards, new animatronics, etc...<br>\r\n<br>\r\nAll I ask is that you use good grammar. <br>\r\nSex is allowed, but I would prefer if you don't use it unless it's needed for the story.<br>\r\n<br>\r\nEnjoy!</td>",
         "id":1705454,
         "image_url":"https://www.Writing.Com/main/images/action/display_cover/id/101087.jpg",
-        "last_full_update":1583134080,
-        "modified":1583134080,
+        "last_full_update":1594835520,
+        "modified":1594835520,
         "pretty_title":"FNAF new story"
     }
 }

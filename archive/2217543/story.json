@@ -40,6 +40,45 @@
             "id":2811391,
             "title":"Tommy"
         },
+        "1111":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "One of the other babies",
+                "An older child",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who does Tommy swap bodies with?</span></div></span></div>",
+            "created":1593147600,
+            "id":2857384,
+            "title":"He swaps bodies with someone"
+        },
+        "11111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Sure.",
+                "Phil",
+                "Anyone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>He swaps bodies with Chuckie?</span></div></span></div>",
+            "created":1593147600,
+            "id":2857387,
+            "title":"One of the other babies"
+        },
+        "11113":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "An adult",
+                "An animal",
+                "Any other choices you can think of?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who else could Tommy swap bodies with?</span></div></span></div>",
+            "created":1593147600,
+            "id":2857386,
+            "title":"Someone else"
+        },
         "1112":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
@@ -51,6 +90,58 @@
             "created":1585717200,
             "id":2811542,
             "title":"His changes has something to do with his age"
+        },
+        "11122":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "Age Progression",
+                "Age Swap",
+                "Other Age-Related Changes"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do you really want Tommy to get older, or do you perhaps want him to swap ages with someone?</span></div></span></div>",
+            "created":1594443600,
+            "id":2865824,
+            "title":"Older, or something else?"
+        },
+        "111221":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "Older Toddler/Kid/Pre-Teen (From Age 2 To 12)",
+                "Teenager (From Age 13 To 19)",
+                "Adult (From Age 20 And Up)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What age does Tommy progress to?</span></div></span></div>",
+            "created":1594443600,
+            "id":2865830,
+            "title":"Age Progression"
+        },
+        "1112211":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "A kid.",
+                "A pre-teen."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does he become an older toddler?</span></div></span></div>",
+            "created":1594443600,
+            "id":2865943,
+            "title":"Older Toddler/Kid/Pre-Teen (From Age 2 To 12)"
+        },
+        "111222":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Dil.",
+                "Chuckie.",
+                "Anyone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who will he swap ages with?</span></div></span></div>",
+            "created":1594443600,
+            "id":2865939,
+            "title":"Age Swap"
         },
         "1113":{
             "author_id":"supreme123",
@@ -222,6 +313,31 @@
             "id":2841281,
             "title":"The adults or teens."
         },
+        "122":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "age regression",
+                "age swap",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>how was angelica's mother transformed?</span></div></span></div>",
+            "created":1594530000,
+            "id":2866934,
+            "title":"Charlatte"
+        },
+        "1222":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Another one of the kids, or someone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did she swap ages with her daughter?</span></div></span></div>",
+            "created":1594530000,
+            "id":2866939,
+            "title":"age swap"
+        },
         "124":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
@@ -233,6 +349,45 @@
             "created":1590469200,
             "id":2841285,
             "title":"Kira Finster"
+        },
+        "1242":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "age swap",
+                "she shrinks",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>does Kira swap Ages with Kimi?</span></div></span></div>",
+            "created":1593147600,
+            "id":2857261,
+            "title":"Other transformations."
+        },
+        "12421":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Mental",
+                "Both."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is the swap physical only?</span></div></span></div>",
+            "created":1593147600,
+            "id":2857269,
+            "title":"age swap"
+        },
+        "12422":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Doll.",
+                "Baby.",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>It happens thanks to a shrink ray of Stu's, but, to what size is she shrunk?</span></div></span></div>",
+            "created":1593147600,
+            "id":2857268,
+            "title":"she shrinks"
         }
     },
     "info":{
@@ -243,8 +398,8 @@
         "description":"<td align=\"left\" class=\"norm\">Bringing this back, once again. Rules. No drugs, no sex. No insulting characters. No unborn or back to the womb. Nothing over the top. All transformations are allowed, save the one above.</td>",
         "id":2217543,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":0,
-        "modified":1590502740,
+        "last_full_update":1594570140,
+        "modified":1594570140,
         "pretty_title":"Rugrats TF Adventures reborn"
     }
 }

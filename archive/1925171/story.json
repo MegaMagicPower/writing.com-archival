@@ -492,6 +492,42 @@
             "id":2823653,
             "title":"Toothless"
         },
+        "1111112211111111112222":{
+            "author_id":"mindlessdog",
+            "author_name":"Draxus",
+            "choices":[
+                "Both are now Monstrous Nightmares",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What then?</span></div></span></div>",
+            "created":1594616400,
+            "id":2867905,
+            "title":"No"
+        },
+        "11111122111111111122221":{
+            "author_id":"mindlessdog",
+            "author_name":"Draxus",
+            "choices":[
+                "Movie",
+                "Book"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The movie version or the book version? (The movie version is a lot bigger than the book version)</span></div></span></div>",
+            "created":1594616400,
+            "id":2867906,
+            "title":"Both are now Monstrous Nightmares"
+        },
+        "111111221111111111222212":{
+            "author_id":"mindlessdog",
+            "author_name":"Draxus",
+            "choices":[
+                "Watch it happen",
+                "Already changed"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are they already changed or do we see it happen?</span></div></span></div>",
+            "created":1594616400,
+            "id":2867907,
+            "title":"Book"
+        },
         "111111221111111112":{
             "author_id":"mindlessdog",
             "author_name":"Draxus",
@@ -3416,6 +3452,31 @@
             "id":2805779,
             "title":"Other"
         },
+        "11411111122":{
+            "author_id":"smike666",
+            "author_name":"Dovakin",
+            "choices":[
+                "What happens in the hidden world to hiccup",
+                "They escape with the changes happening to their bodies ",
+                "other options"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Hiccup changes because he was left behind in the hidden world. Astrid flew off with Stormfly. He fell off her Dragon.</span></div></span></div>",
+            "created":1594616400,
+            "id":2867900,
+            "title":"No"
+        },
+        "114111111221":{
+            "author_id":"smike666",
+            "author_name":"Dovakin",
+            "choices":[
+                "Pool of water.",
+                "something else "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How do the changes start? <br>\r\nHiccup falls into a pool of water and it changes him.</span></div></span></div>",
+            "created":1594616400,
+            "id":2867901,
+            "title":"What happens in the hidden world to hiccup"
+        },
         "114112":{
             "author_id":"bonecrusher98",
             "author_name":"Bone",
@@ -3967,6 +4028,42 @@
             "created":1582434000,
             "id":2791617,
             "title":"astrid and toothless"
+        },
+        "114131111":{
+            "author_id":"mindlessdog",
+            "author_name":"Draxus",
+            "choices":[
+                "Toothless is part Hiccup and Astrid is part Stormfly",
+                "Astrid is a complete dragon and Toothless is a human"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What then?</span></div></span></div>",
+            "created":1594011600,
+            "id":2862587,
+            "title":"Yes"
+        },
+        "1141311112":{
+            "author_id":"mindlessdog",
+            "author_name":"Draxus",
+            "choices":[
+                "That's it",
+                "No, something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is that it or is there something else different?</span></div></span></div>",
+            "created":1594011600,
+            "id":2862603,
+            "title":"Astrid is a complete dragon and Toothless is a ..."
+        },
+        "11413111122":{
+            "author_id":"mindlessdog",
+            "author_name":"Draxus",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are they a Zippleback?</span></div></span></div>",
+            "created":1594011600,
+            "id":2862604,
+            "title":"No, something else"
         },
         "115":{
             "author_id":"rjh-kk",
@@ -4595,7 +4692,7 @@
                 "yes",
                 "no"
             ],
-            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>does astrid begin to see toothless in a different way <img style=\"\" class=\"emoteZ\" src=\"https://images.Writing.Com/imgs/writing.com/writers/e15/wink.png\" alt=\"*Wink*\" title=\"Wink\" border=\"0\" width=\"15\" height=\"15\"></span></div></span></div>",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>does astrid begin to see toothless in a different way <img loading=\"lazy\" style=\"\" class=\"emoteZ\" src=\"https://images.Writing.Com/imgs/writing.com/writers/e15/wink.png\" alt=\"*Wink*\" title=\"Wink\" border=\"0\" width=\"15\" height=\"15\"></span></div></span></div>",
             "created":1545627600,
             "id":2593050,
             "title":"other"
@@ -6719,6 +6816,30 @@
             "id":2522622,
             "title":"Species change"
         },
+        "1552311":{
+            "author_id":"mindlessdog",
+            "author_name":"Draxus",
+            "choices":[
+                "Toothless",
+                "Magica"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The cause?</span></div></span></div>",
+            "created":1594011600,
+            "id":2862599,
+            "title":"Night fury"
+        },
+        "15523111":{
+            "author_id":"mindlessdog",
+            "author_name":"Draxus",
+            "choices":[
+                "Toothless wants a a mate so scratches her",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How and why?</span></div></span></div>",
+            "created":1594011600,
+            "id":2862600,
+            "title":"Toothless"
+        },
         "1553":{
             "author_id":"batjap",
             "author_name":"batjap",
@@ -6778,8 +6899,8 @@
         "description":"<td align=\"left\" class=\"norm\">Since I had success with my yugioh transformation story I'd like to try something new, and I want to start with this story about vickings and dragons. All right before starting let's make a few rules:<br>\r\n 1) NO KILLING<br>\r\n 2) Let's keep sex to the minimum( if you really want to put sex, first contact me, please)<br>\r\n 3) Use decent grammar<br>\r\n 4) LET'S HAVE FUN</td>",
         "id":1925171,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":0,
-        "modified":1592221080,
+        "last_full_update":1594663860,
+        "modified":1594663860,
         "pretty_title":"Dragontrainer transformation"
     }
 }

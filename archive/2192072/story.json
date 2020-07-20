@@ -349,14 +349,16 @@
             "author_id":"mysterio",
             "author_name":"FFtheSnake",
             "choices":[
-                "1980s TMNT cartoon",
-                "2000s TMNT cartoon",
-                "More options"
+                "1980s Teenage Mutant Ninja Turtles",
+                "2000s Teenage Mutant Ninja Turtles",
+                "Nickelodeon's Teenage Mutant Ninja Turtles",
+                "Rise of the Teenage Mutant Ninja Turtles",
+                "More options..."
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>It occurs to me that there are multiple TMNT settings to work with.  So I'll just make paths for each of them.</span></div></span></div>",
             "created":1559192400,
             "id":2666728,
-            "title":"Teenage Mutant Ninja Turtles (80s/2000s)"
+            "title":"Teenage Mutant Ninja Turtles (80s/2000s/Nick/Rise)"
         },
         "1213":{
             "author_id":"mysterio",
@@ -405,12 +407,14 @@
             "choices":[
                 "Aladdin",
                 "The Lion King",
-                "More options"
+                "Duck Tales",
+                "Gargoyles",
+                "More options..."
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>This one deserved its own path of options<br>\r\n<br>\r\nIf the movie has an animated series attached to it, then that series is open for use in that path.  The more fatties the better, amirite?</span></div></span></div>",
             "created":1559106000,
             "id":2666242,
-            "title":"The Disney paths (Aladdin/Lion King)"
+            "title":"The Disney paths (Aladdin/LioKi/DuckT/Gargoyles)"
         },
         "1221":{
             "author_id":"mysterio",
@@ -1082,7 +1086,7 @@
             "title":"Majora's Mask?"
         },
         "141231":{
-            "author_id":"mrgeebs",
+            "author_id":"mr-lac",
             "author_name":"Mr Lac",
             "choices":[
                 "On the way to the ranch, Anju felt her gut continue to growl and shake...",
@@ -1190,7 +1194,10 @@
             "author_name":"FatLeaf",
             "choices":[
                 "Kanto",
-                "Other"
+                "Johto",
+                "Hoenn",
+                "Sinnoh",
+                "Other regions..."
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Pokemon is one of Nintendo's most beloved franchises, and there plenty of characters from each Generation to get massively fat. Which region should we choose though?</span></div></span></div>",
             "created":1559278800,
@@ -1479,12 +1486,14 @@
             "choices":[
                 "Street Fighter",
                 "Mortal Kombat",
-                "More options"
+                "King of Fighters",
+                "Tekken",
+                "More options..."
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The author of this story is very fond of fighting games.  To keep things organized, they'll have their own path of options.</span></div></span></div>",
             "created":1559106000,
             "id":2666262,
-            "title":"The Fighting Game paths (SF/MK)"
+            "title":"The Fighting Game paths (SF/MK/KoF/Tekken)"
         },
         "1423":{
             "author_id":"mysterio",
@@ -1902,12 +1911,14 @@
             "choices":[
                 "Final Fantasy",
                 "Final Fantasy 2",
-                "More options"
+                "Final Fantasy 3",
+                "Final Fantasy 4",
+                "More options..."
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>With how many games there are in this ridiculous series, I felt I had to give them their own path for organization's sake</span></div></span></div>",
             "created":1559106000,
             "id":2666264,
-            "title":"The Final Fantasy paths (FF1/FF2)"
+            "title":"The Final Fantasy paths (FF1/FF2/FF3/FF4)"
         },
         "1443":{
             "author_id":"mysterio",
@@ -2105,12 +2116,14 @@
             "choices":[
                 "Persona 1",
                 "Persona 2",
-                "More options"
+                "Persona 3",
+                "Persona 4",
+                "More options..."
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Welcome to the Velvet Room</span></div></span></div>",
             "created":1559106000,
             "id":2666310,
-            "title":"The Persona paths (P1/P2)"
+            "title":"The Persona paths (P1/P2/P3/P4)"
         },
         "1453313":{
             "author_id":"mysterio",
@@ -2159,12 +2172,14 @@
             "choices":[
                 "Dynasty Warriors",
                 "Samurai Warriors",
-                "More options"
+                "Warriors Orochi",
+                "Warriors All-Stars",
+                "More options..."
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Welcome to the hack &amp; slash.</span></div></span></div>",
             "created":1559106000,
             "id":2666313,
-            "title":"The Warriors paths (DW/SW)"
+            "title":"The Warriors paths (DW/SW/WO/WAS)"
         },
         "1453323":{
             "author_id":"mysterio",
@@ -2342,12 +2357,14 @@
             "choices":[
                 "Kingdom Hearts X",
                 "Kingdom Hearts: Birth by Sleep",
+                "Kingdom Hearts",
+                "Kingdom Hearts: Chain of Memories",
                 "Or..."
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>While Kingdom Hearts has a complicated story, it is a great cast of characters and great gameplay. Should we start with Birth by Sleep or much later on?</span></div></span></div>",
             "created":1559365200,
             "id":2667428,
-            "title":"Kingdom Hearts (X/Birth by Sleep)"
+            "title":"Kingdom Hearts (X/Birth by Sleep/1/ChainofMemory)"
         },
         "145333333323":{
             "author_id":"mysterio",
@@ -2460,7 +2477,7 @@
             "author_name":"FFtheSnake",
             "choices":[
                 "They arrive without incident...",
-                "Carmelita and Neyla start to thick how attractive Sly's blubber makes him...",
+                "Carmelita and Neyla start to notice how attractive Sly's blubber makes him...",
                 "Penelope and Bentley discuss the changes..."
             ],
             "content":"<div class=\"\"><div> <span>\t\"...I don't want the others back at the station to see me like this,\" Carmelita said, blushing.  \"I'm in.\" <br>\r\n<br>\r\n\t\"Ruby sent me after the damn gem.  She didn't tell me it could do anything like this,\" Neyla said, scowling.  \"I'm yours.  I'll behave, I promise.\" <br>\r\n<br>\r\n\tPenelope thought for a moment, and sighed.  \"I can't deny it'll be good to work with Bentley again,\" she said.  \"I'll go with you.\" <br>\r\n<br>\r\n\tThe boys looked at each other, and nodded.  \"Okay,\" Murray said.  \"Let's all head to the van.  Bentley, lemme help you... up...\" <br>\r\n<br>\r\n\tEveryone stared.  While they were talking, Bentley had felt his legs tingling.  And to his shock, the turtle realized that he could feel his legs at all.  Slowly, using the nearby display case to brace himself, the flabby turtle had pulled himself to his feet.  He grinned weakly at the group.  \"Like you said, Sly.  We've been changed in other ways.\"  <br>\r\n<br>\r\n\tSly grinned.  \"Happy for ya, bud,\" he said.  \"Hopefully we can fix this before you lose mobility to your belly this time.\" <br>\r\n<br>\r\n\t\"Amen,\" Bentley muttered.<br>\r\n<br>\r\n\tWith some effort, the group of fatties got up and went out of the museum.  After checking around, they saw no one present.  <br>\r\n<br>\r\n\t\"Odd,\" Sly said.  \"You think someone would notice us by now...\" <br>\r\n<br>\r\n\tMurray, with some effort, bent down to pick up a newspaper he noticed.  \"Hey, this paper says its tomorrow,\" he said, holding it up.  <br>\r\n<br>\r\n\tEveryone looked.  It was indeed showing the day after the six of them had gone into the museum.  A full 24 hours had passed since they were affected by the gem.  And the headline was concerning as well: \"MAGICAL GEM FATTENING EVERYONE IT COMES ACROSS.\"  <br>\r\n<br>\r\n\t\"We need to get to the lab NOW,\" Bentley decided, the others agreeing with him.  <br>\r\n<br>\r\n\t\"Uhh, slight problem,\" Murray said.  Everyone looked.  Murray was no longer able to fit through the door of his van.  And after looking at themselves, they realized that they were too big all around to fit everyone in the van.  <br>\r\n<br>\r\n\t\"Damn it,\" Sly muttered.  \"I wish we had a ride big enough for all of us...\" <br>\r\n<br>\r\n\tAnd then suddenly, the van was big enough.  The doors were bigger, the back was bigger... even the steering wheel was configured for Murray's massive new physique. <br>\r\n<br>\r\n\t\"...I wish for a big bag of Skittles!\" Murray said, holding out his hand.  There was a swirling sound, and a large canvas grocery bag appeared in Murray's hand, filled to the brim with every variety of the colorful, fruit-flavored candies.  \"Yaaaay!\" he cheered, stuffing handfuls of the candies into his mouth as he got into the van.  <br>\r\n<br>\r\n\t\"Curious... We can affect the world around us with wishes...\" Bentley said, stroking his chins.  <br>\r\n<br>\r\n\t\"I wish I was skinnier,\" Carmelita said.  She grew even FATTER, her belly expanding outward to hang even more over her waist.  \"Oh, COME ON!!\" <br>\r\n<br>\r\n\t\"Can't affect our weights, though...\" Penelope said.  <br>\r\n<br>\r\n\t\"Let's get moving, people,\" Sly said, everyone else piling into the back, the amount of space there now comofortable for the array of fatties.  Once they were inside, Murray drove off, heading for the lab.  </span></div></div>",
@@ -2600,6 +2617,19 @@
             "created":1578200400,
             "id":2769550,
             "title":"The Mega Bear Virus (FTM tf)"
+        },
+        "1533":{
+            "author_id":"maltesevolpe",
+            "author_name":"fall",
+            "choices":[
+                "Janice runs into a staffer carrying vials",
+                "An infected doctor enters the room",
+                "A wall of hairy fat breaking a wall"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Sample Twnety-nine... results, Negative.\" <br>\r\n<br>\r\nIn the basement of a hospital, Janice wrote down, sighing to herself as she looked at the results of the latest blood test from the infected who had visited the hospital. The young doctor wiped her forehead of stress induced sweat before she pulled up her tablet to check the current stats, letting out a curse at what had been announced. <br>\r\n<br>\r\n\"Another three confirmed infected.\" Janice said, taking in the rotuned, fat filled blimps of men that had used to be ordinary women like herself. One of the files included an image of an infected having attempted to drive a car before the infection kicked in, resulting showing a huge, large obese man having literally outgrown a car, the tires popped and the chassis underneath him. The glass and roof bend outwards from the tons of now hair covered fat breaking through. The image showed the surpise on the bearded, infected man's face with huge easily baseball mitt sized hands pulling back the thick fat rolls whilst Firefighters got to work breaking open the rest of the car to get the huge man fully out.<br>\r\n<br>\r\n\"This is getting out of hand.\" The slim doctor said, at least thankful the huge infected person hadn't grown larger than thirty feet, meaning they should be able to fit into the tented housing the hospital had set up. Course Janice had avoided the area, both due to the risk of infection, and the stench of Body Odor and flatulence that the infected were seemingly constantly letting out. <br>\r\n<br>\r\nDeciding to try and focus on anything, Janice moved to check another sample for any kind of anomoly to try and find a cure, only for the room to suddenly shake. Initially Janice ignored it, figuring it was another mega bear, as they were dubbed by the public, adjusting to their new size and had struggled moving when they feel to the ground. However, the shaking continued with a steady thud, getting louder and stronger with each thud, the sound reminding Janice of footsteps. <br>\r\n<br>\r\n\"What's going on?\" Janice said to herself before moving to the door, as she did...</span></div></div>",
+            "created":1592974800,
+            "id":2856157,
+            "title":"Lab research gone wrong."
         }
     },
     "info":{
@@ -2610,8 +2640,8 @@
         "description":"<td align=\"left\" class=\"norm\">You've heard the phrase before.  Obesity epidemic.  Too many people getting fat.  Well, in this instance, there actual IS an obesity epidemic.  Everyone is suddenly putting on extreme amounts of weight!  Hunger is skyrocketing!  It could be just the named characters, it could be everyone in the setting!<br>\r\n<br>\r\nThe cause could be anything!  Appetite stimulants in the food, alien rays, a virus of some kind... Anything!<br>\r\n<br>\r\nBut no one's getting out of this without at LEAST needing a size XXXXXXXXL shirt<br>\r\n<br>\r\n=============<br>\r\n<br>\r\nSo yeah.  Basically, an extreme weight gain interactive.  <br>\r\n<br>\r\n<u><i><b>Things allowed:</b></i></u><br>\r\n<br>\r\nSex (straight, gay, or otherwise)<br>\r\n<br>\r\nUnrealistic weight gain (both unrealistic weights and unrealistic gaining speeds)<br>\r\n<br>\r\nFetishes other than weight gain (including vore, pregnancy, genderbending, etc.)<br>\r\n<br>\r\nFetishes related to weight gain (life support, stuffing, etc.) <br>\r\n<br>\r\nTransformation<br>\r\n<br>\r\n<u><i><b>Things NOT allowed:</b></i></u> <br>\r\nScat<br>\r\n<br>\r\nWatersports<br>\r\n<br>\r\nFat shaming from non-Villains (If a character is heroic/nice, then they WILL NOT make fun of someone fat)<br>\r\n<br>\r\nOnly 1 to 5 people gaining weight.  (This is an OUTBREAK, people.  Whatever the 'cause, a LOT of people will be becoming fat!)<br>\r\n<br>\r\nReally short or badly written story chapters.  (I reserve the right to edit/delete at will.)  <br>\r\n<br>\r\nNOT leaving an option to continue/restart.<br>\r\n<br>\r\n...That's pretty much it.  Have fun, people!  <br>\r\n<br>\r\n</td>",
         "id":2192072,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":0,
-        "modified":1592674440,
+        "last_full_update":1593018660,
+        "modified":1593018660,
         "pretty_title":"Obesity Outbreak"
     }
 }

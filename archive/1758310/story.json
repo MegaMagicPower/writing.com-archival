@@ -242,6 +242,30 @@
             "id":2092672,
             "title":"Delia Ketchum"
         },
+        "11522":{
+            "author_id":"matisse",
+            "author_name":"Matisse",
+            "choices":[
+                "Chi-Chi",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>There are a lot of misbehaving DBZ characters out there. Who should administer them the discipline they need?</span></div></span></div>",
+            "created":1594443600,
+            "id":2866108,
+            "title":"dragonball z"
+        },
+        "115222":{
+            "author_id":"matisse",
+            "author_name":"Matisse",
+            "choices":[
+                "Bulma it is",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Maybe should it be Bulma?</span></div></span></div>",
+            "created":1594443600,
+            "id":2866111,
+            "title":"Someone else"
+        },
         "11523":{
             "author_id":"fairytail96",
             "author_name":"FairyTail96",
@@ -526,6 +550,68 @@
             "created":1392267600,
             "id":1745298,
             "title":"More"
+        },
+        "125":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "life is strange",
+                "assassin's creed",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what other games should we try?</span></div></span></div>",
+            "created":1594443600,
+            "id":2866115,
+            "title":"Click CLick Click"
+        },
+        "1252":{
+            "author_id":"matisse",
+            "author_name":"Matisse",
+            "choices":[
+                "Desmond Saga",
+                "Helix Saga",
+                "Layla Saga (or the spin-offs)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What saga shall we look at?</span></div></span></div>",
+            "created":1594443600,
+            "id":2866121,
+            "title":"assassin's creed"
+        },
+        "12521":{
+            "author_id":"matisse",
+            "author_name":"Matisse",
+            "choices":[
+                "Altair, Ezio or Connor era",
+                "Present time - Desmond era"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What are shall we look at?</span></div></span></div>",
+            "created":1594443600,
+            "id":2866145,
+            "title":"Desmond Saga"
+        },
+        "125211":{
+            "author_id":"matisse",
+            "author_name":"Matisse",
+            "choices":[
+                "Altair or Ezio era",
+                "Connor era"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which one of these?</span></div></span></div>",
+            "created":1594443600,
+            "id":2866147,
+            "title":"Altair, Ezio or Connor era"
+        },
+        "1252111":{
+            "author_id":"matisse",
+            "author_name":"Matisse",
+            "choices":[
+                "Altair era",
+                "Ezio era"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Shall we focus on the time of Altair or the time of Ezio?</span></div></span></div>",
+            "created":1594443600,
+            "id":2866150,
+            "title":"Altair or Ezio era"
         },
         "13":{
             "author_id":"shadow_lord",
@@ -1616,8 +1702,8 @@
         "description":"<td align=\"left\" class=\"norm\">Certain characters have been naughty. Give them a good old spanking and let the humiliation continue from there. Just make sure they become good kids later on... and if they misbehave, spank them again.<br>\r\n<br>\r\nSpanking can be sexual if you want it to be... Real Life Lesson: anything can be sexual if you want it to be ;)<br>\r\n<br>\r\nBe sure to give more than one options please.<br>\r\n<br>\r\nHave fun!</td>",
         "id":1758310,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1584842580,
-        "modified":1584842580,
+        "last_full_update":1594477380,
+        "modified":1594477380,
         "pretty_title":"Spank Mania"
     }
 }

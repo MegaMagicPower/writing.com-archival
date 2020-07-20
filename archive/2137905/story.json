@@ -1021,6 +1021,19 @@
             "id":2545880,
             "title":"The two of you fall asleep and you both wake up..."
         },
+        "1122":{
+            "author_id":"toybonbon",
+            "author_name":"Toybonbon",
+            "choices":[
+                "Ocelot",
+                "Asian golden cat",
+                "More wild cats"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Alrighty, what kind of wild cat?</span></div></span></div>",
+            "created":1594789200,
+            "id":2869410,
+            "title":"Wild cat "
+        },
         "1123":{
             "author_id":"infinity421",
             "author_name":"infinity421",
@@ -1180,6 +1193,18 @@
             "created":1588309200,
             "id":2828504,
             "title":"Panda "
+        },
+        "11332":{
+            "author_id":"toybonbon",
+            "author_name":"Toybonbon",
+            "choices":[
+                "the sun bear",
+                "someone watching the sun bear"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>are you the sun bear, or a human watching the sun bear???</span></div></span></div>",
+            "created":1594443600,
+            "id":2866400,
+            "title":"Sun Bear"
         },
         "114":{
             "author_id":"infinity421",
@@ -5237,6 +5262,21 @@
             "id":2841467,
             "title":"A snake in captivity (zoo/pet) "
         },
+        "125222":{
+            "author_id":"dragonkiller21",
+            "author_name":"Dragonkiller21 ",
+            "choices":[
+                "Ball Python",
+                "Corn snake ",
+                "Python",
+                "Kingsnake",
+                "More "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What ssssspecies are you?</span></div></span></div>",
+            "created":1593234000,
+            "id":2857662,
+            "title":"Pet"
+        },
         "12523":{
             "author_id":"infinity421",
             "author_name":"infinity421",
@@ -8252,7 +8292,7 @@
                 "Mega Mom and/Or Mega Dad",
                 "other"
             ],
-            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Mega Mother and/Or Father<br>\r\nAn orphan is taken in by animals, and they become there Mom or dad. Intill one day they grow to protect them better <br>\r\n</span></div></span></div>",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Mega Mother and/Or Father<br>\r\nAn orphan is taken in by animals, and they become their mom or dad, until one day they grow to protect them better.</span></div></span></div>",
             "created":1515387600,
             "id":2438262,
             "title":"Another scenario"
@@ -8420,8 +8460,8 @@
         "description":"<td align=\"left\" class=\"norm\">A good while ago, there used to be an interactive on this site called Giant Friendly Animals, created by Kardo, who left the site just over two years ago. As the name suggests, it focused on animals of all kinds growing - growing, and growing, with no end in sight - but remaining gentle, no matter what unimaginable sizes they reached.<br>\r\n<br>\r\nThanks to the efforts of another user who will remain unnamed unless they want to be mentioned directly, I came across a copy of a mostly complete archive of Giant Friendly Animals, and decided to start rebuilding it.<br>\r\n<br>\r\nAs such, the rules for this interactive will be as follows:<br>\r\n<br>\r\n<span style=\"text-decoration:line-through\">1. Stick to the content rating - E. Reveling in growth and power is okay, and innocent, harmless destruction is as well, but let's not have things like swearing, mature content, or detailed descriptions of gore, okay?</span><br>\r\n<b>Please see the edit at the bottom of the page - this item's age rating has been changed to allow for a greater range of content, though the prohibition on gore still applies.</b><br>\r\n<br>\r\n2. Try to keep choice chapters to a minimum- or, if they're necessary, type at least a couple of paragraphs for them. This way the interactive won't be clogged up with filler - though as I'll be directly copying the old interactive into this one, this rule will have to be bent to an extent.<br>\r\n<br>\r\n3. If you want something in a chapter you've written to be edited, don't hesitate to ask me. Of course, if you want me to delete an entire storyline I might decline, but it's always worth at least making sure I know about your concerns.<br>\r\n<br>\r\n4. Please try to keep your writing to at least a decent standard. I don't mind if your writing isn't that good, but at the very least it needs to be legible.<br>\r\n<br>\r\n5. No fat or weight gain-related content is allowed.<br>\r\n<br>\r\n6. Make sure to have fun - lots of endlessly, unstoppably, insatiably growing fun!<br>\r\n<br>\r\nAs a side note, all kinds of macro personalities are allowed - sweet and gentle, to greedy and power-hungry - so long as they remain gentle in their actions.<br>\r\n<br>\r\n<b>EDIT - 03/05/2020</b><br>\r\n<br>\r\nAfter a conversation with a friend I've decided to make some changes to this interactive. First off, the age rating has been raised, to 'May Contain Graphic content'; this is for a reason - I have decided to allow depictions of both muscle and hyper growth in this interactive - just keep things relatively friendly, please!</td>",
         "id":2137905,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":0,
-        "modified":1592563860,
+        "last_full_update":1594868220,
+        "modified":1594868220,
         "pretty_title":"Giant Friendly Animals: Reborn!"
     }
 }

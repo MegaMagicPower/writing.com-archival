@@ -408,6 +408,54 @@
             "id":2447791,
             "title":"Synthetic Life"
         },
+        "11231221":{
+            "author_id":"cornsnacks",
+            "author_name":"Sakuya Kawakami",
+            "choices":[
+                "Investigate your previous buyers",
+                "It is really none of your business.. Try to sleep"
+            ],
+            "content":"<div class=\"\"><div> <span>When you're traveling through the Black Expanse, turning in for the night is not so easily and quite frankly, a life or death situation. You command the ship's computer to go into defensive mode and retire to your chambers. The ship is cramped enough as it is. Between all the weapons you're transporting and the long glass vessels containing your regenerating body parts, there isn't room to do much but use the communication unit or get some rest. You watch your back-up hearts, kidneys, and liver floating around in the nutrient tank. You've been shot at, blown up, and torn limb to limb more times than you can count... on all 12 fingers too. But you're harder to kill than the plague and that is fortunate with all the enemies you make.<br>\r\n<br>\r\nYou never think much about your transactions. Whatever the weapons were used for after the deal was done, that was none of your business. Still, you can't quite forget the lizard creatures from earlier. Most of the time, you know you're selling to some political faction or to someone on a quest of revenge. It had been awhile since you were completely unsure of what someone's intentions were.. and you couldn't quite shake off the bother so easily this time.<br>\r\n</span></div></div>",
+            "created":1592974800,
+            "id":2855889,
+            "title":"Seller's Remorse"
+        },
+        "112312212":{
+            "author_id":"cornsnacks",
+            "author_name":"Sakuya Kawakami",
+            "choices":[
+                "Crawl to the escape pod",
+                "Activate the \"final stand\" weapon "
+            ],
+            "content":"<div class=\"\"><div> <span>You've never cared what someone did with their weapons, so why should you now? Being a synthetic being, you also easily have ways of dealing with any lingering uneasiness over suspicious deals. You sit at the front of the ship and pull out two clear tubes from under the main commands. You attach one through your ear and another through your nostril. Once the ship's computer recognizes you as part of itself, you have access to a whole inventory of chemicals that are stored or can be created instantly. You select one of the most calming sedatives available and feel that lightheaded coolness as the drug pumps into your body. <br>\r\n<br>\r\n<b>Boom!</b> You wake up from a very deeply intoxicated sleep to the sound of an explosion. You detach the chemtubes and scramble to find out what is going on. The ship's alarms are blaring madly and red lights flash as another blast rocks the ship. As you frantically try to find out what got through the first shield, the ship computer informs you that damage is too great and the ship will be self-destructing soon. </span></div></div>",
+            "created":1592974800,
+            "id":2855937,
+            "title":"Try to sleep"
+        },
+        "1123122121":{
+            "author_id":"cornsnacks",
+            "author_name":"Sakuya Kawakami",
+            "choices":[
+                "Your pod drops to an unknown world",
+                "You aim the pod at your attacker's ship"
+            ],
+            "content":"<div class=\"\"><div> <span>You wouldn't have made it this far as a mercenary if you didn't have  a backup plan when the heat was on. This however, would be a first. You pull open a hatch in the command area of your ship. Immediately a cloud of black smoke rises up and you are filled with dread. Was it destroyed?<br>\r\n<br>\r\nHowever this turns out to be melting circuitry from inside the ship that was damaged by one of the blasts. The escape pod itself remains completely intact thankfully, and you fit your body inside it, never actually having used it before. A definite first, you think. Looking around the cramped space, there is just you, very simple controls for a computer, and the unit that takes up most of the pod's functions: a cloaking device Your attackers continue with their volley of shots and the computer kindly reminds you that the hull has been breached. You hear the sound of broken glass and liquid sploshing. There go the backup organs, you think to yourself. When you find out who is behind the attack, you'll make sure they pay this back with their life. <br>\r\n<br>\r\nYou are choosing your next destination, you have mere seconds to choose before you get blasted apart in the cold vacuum of space...</span></div></div>",
+            "created":1592974800,
+            "id":2856143,
+            "title":"Escape Pod"
+        },
+        "11232":{
+            "author_id":"grongo",
+            "author_name":"Grongo",
+            "choices":[
+                "Human",
+                "Non-human"
+            ],
+            "content":"<div class=\"\"><div> <span>The Imperial Hegemony of Man is a massive, military dictatorship that controls it's population through fear and terror. It is constantly expanding outwards into the endlessness of space, already having subjugated, integrated or eradicated countless empires and alien races. They invest an unimaginable amount of resources into their military, in order to build bigger and better war machines to fuel their endless conquest, leaving many of their own worlds to starve and endure horrible conditions. No empire to date has managed to thwart their advance. But there is still a beacon of hope, though it has been glowing dimmer and dimmer...<br>\r\n<br>\r\nA rebellion was formed shortly after the Hegemony's rise. Through Guerilla Warfare the Rebellion has managed to sabotage key supply routes and even temporarily win back the independence of several planets. But recently the Hegemony cracked down hard on the Rebellion, mercilessly hunting down and publicly executing Rebellion members, as well as carrying out strict punishments for anyone with anti-hegemony sentiments. Weaker than ever, you remain the only hope the rebellion has in stopping the Hegemony.<br>\r\n<br>\r\nRight now, you're carrying two cargo crates to a nearby rebellion outpost. The Cargo in question were 40 Vorgant Laser Carbines. Many years ago, the Vorgant empire valiantly fought against the Hegemony, but was eventually crushed. Even though their empire is no more, many Vorgants still hold the spark of liberty within them, and are willing to supply the rebellion with weapons. Just like everything the Vorgants built, these Laser Carbines were rugged, reliable and cheap, perfect for a low budged rebellion.<br>\r\n<br>\r\nAre you a human, who the empire considers a dangerous vagabond and traitor to their species? Or a non-human?</span></div></div>",
+            "created":1593061200,
+            "id":2856669,
+            "title":"A desperate Hero of the Rebellion"
+        },
         "11233":{
             "author_id":"jotokai",
             "author_name":"Joto-Kai",
@@ -1024,8 +1072,8 @@
         "description":"<td align=\"left\" class=\"norm\"><b>You have been placed in command of a ship (space, sea, weird steam punk airship base thingy doesn't matter) and you have to do something depending on which story you enter.</b><br>\r\n<br>\r\n<u>rules</u><br>\r\n1.Have proper grammar, I have been getting a lot of mail (which makes me happy) asking me to check the grammar of some of the chapters, and I'm deeply sorry that I haven't been able to keep up with it recently with allergy season hitting me harder than normal this year I'm sorry about that but, when I get a clear headed minute I'll fix the grammar.<br>\r\n<br>\r\n2.add to the story, I love seeing what you guys come up with to add to these stories<br>\r\n<br>\r\n<br>\r\n<br>\r\nFinally a special thanks to <b>Scythe</b> who I consider a friend and who has been adding to this story nearky as much as I have, so to you my friend thank you. I would also recommend checking out some of his stuff mainly his story \"a day in the life\" which I do enjoy</td>",
         "id":1783478,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1570420020,
-        "modified":1570420020,
+        "last_full_update":1593096540,
+        "modified":1593096540,
         "pretty_title":"your ship"
     }
 }

@@ -4437,7 +4437,7 @@
         },
         "11521112221":{
             "author_id":"wordsmitty",
-            "author_name":"Wordsmitty \u00e2\u009c\u008d\u00ef\u00b8\u008f",
+            "author_name":"Wordsmitty \u270d\ufe0f",
             "choices":[
                 "You take the ring off in anger.",
                 "You notice a dial on the top of the ring."
@@ -4461,7 +4461,7 @@
         },
         "1152111222122":{
             "author_id":"wordsmitty",
-            "author_name":"Wordsmitty \u00e2\u009c\u008d\u00ef\u00b8\u008f",
+            "author_name":"Wordsmitty \u270d\ufe0f",
             "choices":[
                 "Let's try it and see.",
                 "Nah. It must do something else."
@@ -4483,7 +4483,7 @@
         },
         "115211122212212":{
             "author_id":"wordsmitty",
-            "author_name":"Wordsmitty \u00e2\u009c\u008d\u00ef\u00b8\u008f",
+            "author_name":"Wordsmitty \u270d\ufe0f",
             "choices":[
                 "Look for clothes then go exploring.",
                 "Reverse the aging and decide what \"exploring\" you want to do."
@@ -4507,7 +4507,7 @@
         },
         "11521112221222":{
             "author_id":"wordsmitty",
-            "author_name":"Wordsmitty \u00e2\u009c\u008d\u00ef\u00b8\u008f",
+            "author_name":"Wordsmitty \u270d\ufe0f",
             "choices":[
                 "... turns the dial to one of the symbols.",
                 "...  sees something else about the ring."
@@ -4874,6 +4874,7 @@
             "title":"Two-player game"
         },
         "115222":{
+            "author_name":"slykid",
             "choices":[
                 "You bet two years",
                 "You decide to leave"
@@ -8616,6 +8617,19 @@
             "id":324915,
             "title":"Not an Easy Thing to do"
         },
+        "1231112112":{
+            "author_id":"pedro01",
+            "author_name":"pedro01",
+            "choices":[
+                "...as obese as you!",
+                "...shrunk at 3 inches tall!",
+                "...perfectly normal it seems!"
+            ],
+            "content":"<div class=\"\"><div> <span>Well, it looks like you\u2019re gonna he a massive fat boy forever, now that you weighed at 1,030lbs and probably still growing whatever happens in this stage.  Now that you are left like this, Lord Hugo did give you these options, which one you can actually be active by doing jobs as much as possible.  Although it may not be the way you liked, you begin to shrug and sigh before making a response when being offered to have a room to stay.<br>\r\n<br>\r\n\u201cAlright, I guess I don\u2019t mind staying here tonight.  Could you show me the room for me?\u201d  You accepted Lord Hugo\u2019s offer, and you had to place your hands on your big belly, just to give it rub as gently as possible.<br>\r\n<br>\r\n\u201cI\u2019m glad you asked, young man!  Follow me, and I\u2019ll show you the way to your room.\u201d  Lord Hugo responded, and uses his finger to signal you to follow him through the lobby.<br>\r\n<br>\r\nOf course you did so, though you now have to get used to your movements which are nothing more but a waddle, on how obese and wide you are right now.  You can feel your blubber body wobbling in every movement possible, and even you can feel the ground vibrated and hearing thumping noise when you take each step.  You felt a bit embarrassed by it, especially when your butt is so huge, it makes it wobble every step you take. But you knew it may be something you had to get used to it, now that you\u2019re begin life as a half ton-sized teenager.<br>\r\n<br>\r\nYou can feel the sweat going on too, and you only wonder how much longer are the distance between where he started moving from, to his new room to stay.  But thankfully, Lord Hugo would able to get to the door, which looked wide enough for you to get through.  He opened the door, and let\u2019s you in to take a look at the room itself.<br>\r\n<br>\r\n\u201cWhoa!  I must admit it looks so neat you got there, Lord Hugo!\u201d  You was surprised to see how luxurious his room is.<br>\r\n<br>\r\n\u201cIt is indeed!  But if you wanna have a full tour, why don\u2019t you ask your new roommate, and he\u2019ll show you around.  He\u2019s only ten years of age, so try not to be harsh on him.\u201d  Lord Hugo says, as he makes his way out of the room, leaving you looking confused from what he said.<br>\r\n<br>\r\n\u201cWait, a roommate?  What are you talking about?\u201d  You only wonder, as you would shrug and closed the door to have some rest.<br>\r\n<br>\r\nThat\u2019s when you turn around, and spotted a 10 year old in the room with you.  You was so surprised in fact that the boy looks to be...</span></div></div>",
+            "created":1592888400,
+            "id":2855780,
+            "title":"\"Show me to my room\""
+        },
         "123112":{
             "author_id":"starwars13",
             "author_name":"Lord Hugo Prosperio",
@@ -11020,7 +11034,7 @@
         },
         "13121111121":{
             "author_id":"wordsmitty",
-            "author_name":"Wordsmitty \u00e2\u009c\u008d\u00ef\u00b8\u008f",
+            "author_name":"Wordsmitty \u270d\ufe0f",
             "choices":[
                 "Hear beach sounds coming from somewhere.",
                 "Watch the light in the room disappear."
@@ -11878,6 +11892,7 @@
             "title":"Dinner Time"
         },
         "13122111":{
+            "author_name":"mizuho",
             "choices":[
                 "Maid Clothes",
                 "Normal Clothes"
@@ -12908,7 +12923,7 @@
         },
         "131222221122221":{
             "author_id":"wordsmitty",
-            "author_name":"Wordsmitty \u00e2\u009c\u008d\u00ef\u00b8\u008f",
+            "author_name":"Wordsmitty \u270d\ufe0f",
             "choices":[
                 "Bath",
                 "Shower"
@@ -12962,7 +12977,7 @@
         },
         "1312222211222212":{
             "author_id":"wordsmitty",
-            "author_name":"Wordsmitty \u00e2\u009c\u008d\u00ef\u00b8\u008f",
+            "author_name":"Wordsmitty \u270d\ufe0f",
             "choices":[
                 "Do the manly thing",
                 "Go dry off"
@@ -12974,7 +12989,7 @@
         },
         "13122222112222122":{
             "author_id":"wordsmitty",
-            "author_name":"Wordsmitty \u00e2\u009c\u008d\u00ef\u00b8\u008f",
+            "author_name":"Wordsmitty \u270d\ufe0f",
             "choices":[
                 "Towel",
                 "Go back to the closet"
@@ -12986,7 +13001,7 @@
         },
         "131222221122221221":{
             "author_id":"wordsmitty",
-            "author_name":"Wordsmitty \u00e2\u009c\u008d\u00ef\u00b8\u008f",
+            "author_name":"Wordsmitty \u270d\ufe0f",
             "choices":[
                 "you hear someone enter",
                 "a loud alarm goes off"
@@ -12998,7 +13013,7 @@
         },
         "1312222211222212211":{
             "author_id":"wordsmitty",
-            "author_name":"Wordsmitty \u00e2\u009c\u008d\u00ef\u00b8\u008f",
+            "author_name":"Wordsmitty \u270d\ufe0f",
             "choices":[
                 "Who's Gina?",
                 "Who cares?"
@@ -13010,7 +13025,7 @@
         },
         "13122222112222122111":{
             "author_id":"wordsmitty",
-            "author_name":"Wordsmitty \u00e2\u009c\u008d\u00ef\u00b8\u008f",
+            "author_name":"Wordsmitty \u270d\ufe0f",
             "choices":[
                 "Go back to sleep",
                 "Go talk to Gina in the bathroom"
@@ -13022,7 +13037,7 @@
         },
         "131222221122221221111":{
             "author_id":"wordsmitty",
-            "author_name":"Wordsmitty \u00e2\u009c\u008d\u00ef\u00b8\u008f",
+            "author_name":"Wordsmitty \u270d\ufe0f",
             "choices":[
                 "A demon with blood lust ",
                 "A female version of yourself"
@@ -15450,7 +15465,7 @@
         },
         "133111122":{
             "author_id":"wordsmitty",
-            "author_name":"Wordsmitty \u00e2\u009c\u008d\u00ef\u00b8\u008f",
+            "author_name":"Wordsmitty \u270d\ufe0f",
             "choices":[
                 "\"Transformation complete. Nanites terminated. New player?\"",
                 "\"Error 362. Unable to control nanites. Program terminated.\""
@@ -15606,7 +15621,7 @@
         },
         "1331122":{
             "author_id":"wordsmitty",
-            "author_name":"Wordsmitty \u00e2\u009c\u008d\u00ef\u00b8\u008f",
+            "author_name":"Wordsmitty \u270d\ufe0f",
             "choices":[
                 "The muscle room.",
                 "Another room."
@@ -15996,6 +16011,7 @@
             "title":"Ready for Dinner?"
         },
         "1332221":{
+            "author_name":"tag1702",
             "choices":[
                 "Kiss back and see where it goes",
                 "Break away and run"
@@ -17314,7 +17330,7 @@
         },
         "1351121":{
             "author_id":"wordsmitty",
-            "author_name":"Wordsmitty \u00e2\u009c\u008d\u00ef\u00b8\u008f",
+            "author_name":"Wordsmitty \u270d\ufe0f",
             "choices":[
                 "It's like an Alice in Wonderland tea party",
                 "It's a large, dark table with one man staring at you"
@@ -19783,6 +19799,144 @@
             "created":1592802000,
             "id":2855048,
             "title":"Stay with her"
+        },
+        "13531222222222222222222222222222222222222223222":{
+            "author_id":"chenix",
+            "author_name":"Cool Guy",
+            "choices":[
+                "She talks to you",
+                "She ignores you",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Going further down, you see tall woman. She looked to be holding some sort of orb.</span></div></span></div>",
+            "created":1594270800,
+            "id":2865135,
+            "title":"Keep going"
+        },
+        "135312222222222222222222222222222222222222232222":{
+            "author_id":"chenix",
+            "author_name":"Cool Guy",
+            "choices":[
+                "Check it out",
+                "Eh, keep going"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Going even further down, you see a sauna room.</span></div></span></div>",
+            "created":1594270800,
+            "id":2865138,
+            "title":"She ignores you"
+        },
+        "1353122222222222222222222222222222222222222322222":{
+            "author_id":"chenix",
+            "author_name":"Cool Guy",
+            "choices":[
+                "She talks to you",
+                "Ignore her"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Further down, you see a woman in just a robe.</span></div></span></div>",
+            "created":1594270800,
+            "id":2865143,
+            "title":"Eh, keep going"
+        },
+        "13531222222222222222222222222222222222222223222221":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "find it out",
+                "don't care",
+                "you are interrupted"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>who might she be?</span></div></span></div>",
+            "created":1594357200,
+            "id":2865288,
+            "title":"She talks to you"
+        },
+        "13531222222222222222222222222222222222222223222222":{
+            "author_id":"chenix",
+            "author_name":"Cool Guy",
+            "choices":[
+                "She sees you",
+                "Keep going"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Further down, you see another tall woman. She looked to be wearing workout clothes. She looks to have just got done working out as well</span></div></span></div>",
+            "created":1594270800,
+            "id":2865195,
+            "title":"Ignore her"
+        },
+        "135312222222222222222222222222222222222222232222221":{
+            "author_id":"chenix",
+            "author_name":"Cool Guy",
+            "choices":[
+                "Apple",
+                "Grape",
+                "Banana"
+            ],
+            "content":"<div class=\"\"><div> <span>\"You lost dude? Come on in and I'll help you out.\" she said. You figured why not, as you were lost.<br>\r\n<br>\r\nYou entered, and it seemed like a small apartment. \"Sorry for the mess. Usually I am the only one in here.\" she said. You sat down, and she said you could eat one of the fruit on the table. You took a look at what was there. </span></div></div>",
+            "created":1594357200,
+            "id":2865197,
+            "title":"She sees you"
+        },
+        "1353122222222222222222222222222222222222222322222211":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "take it",
+                "no thank you",
+                "you are interrupted"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>you want some?-- she offers it to you</span></div></span></div>",
+            "created":1594357200,
+            "id":2865289,
+            "title":"Apple"
+        },
+        "135312222222222222222222222222222222222222232222222":{
+            "author_id":"chenix",
+            "author_name":"Cool Guy",
+            "choices":[
+                "Talk to her",
+                "Keep going"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You were going to ignore her, but she started to stare at you.</span></div></span></div>",
+            "created":1594357200,
+            "id":2865199,
+            "title":"Keep going"
+        },
+        "1353122222222222222222222222222222222222222322222221":{
+            "author_id":"chenix",
+            "author_name":"Cool Guy",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><div> <span>You saw she was staring at you, you stared back at her. \"Hey, so your new hear right?\" You explained your issue, and she felt sorry for you. \"Wow, that sucks. Wanna come into my apartment? I can help you out?\" she said. You agreed, and walked in. She took you to the kitchen, and got you some water. \"I want to help you out. I need someone to help me with a project. I've been experimenting with some artifacts, and I want to see what some of them do. Will you help me?\"</span></div></div>",
+            "created":1594357200,
+            "id":2865205,
+            "title":"Talk to her"
+        },
+        "13531222222222222222222222222222222222222223222222211":{
+            "author_id":"chenix",
+            "author_name":"Cool Guy",
+            "choices":[
+                "Pink",
+                "Blue",
+                "Green"
+            ],
+            "content":"<div class=\"\"><div> <span>You agreed, as it sounded interesting. \"Perfect, let me get them quick.\" she said, as she walked into another room.<br>\r\n<br>\r\nShe came out with a box, that had three crystals in them. A pink one, a blue one, and a green one. \"I'll let you pick.\"</span></div></div>",
+            "created":1594357200,
+            "id":2865206,
+            "title":"Yes"
+        },
+        "135312222222222222222222222222222222222222232223":{
+            "author_id":"chenix",
+            "author_name":"Cool Guy",
+            "choices":[
+                "Scenario 1",
+                "Scenario 2",
+                "Scenario 3"
+            ],
+            "content":"<div class=\"\"><div> <span>You passed by her, but she asked for your help. \"Please sir, can you get the door for me? This thing is heavier then it looks.\" Being nice, you opened the door for her, as it did looks pretty heavy. \"Thank you! You wanna come in? We can gave a drink.\" You decided why not, and entered the room. You found it was just not a room, but a large apartment. She sat the orb down on a pedestal, an sat down for a second. \"Shit, that thing is heavy.\" You asked what it was. \"Its a magical artificial. When you touch it, it grants you the body of your dreams. However there is always a side effect to it. For me, it gave me this tall, strong, busty body.\" You asked what the side effect was. \"Well, you seem nice enough. For one hour each day, I can't move my body at all. I can still breathe and talk, but I become motionless. Its annoying, but worth it in my honest opinion.\"<br>\r\n<br>\r\nYou looked over at the artifact, and wanted to try it out. \"If you want, go for it. I'll just warn you, there will be a side effect.\"</span></div></div>",
+            "created":1594270800,
+            "id":2865183,
+            "title":"Something else"
         },
         "13532":{
             "author_id":"chenix",
@@ -23170,7 +23324,7 @@
                 "Outside!",
                 "To see everybody else. "
             ],
-            "content":"<div class=\"\"><div> <span>You see yourself in the mirror and you are a cute 7-year-old girl, dressed in a black t-shirt and pink leggings.<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00e2\u0080\u009cIt looks like we\u00e2\u0080\u0099re done!\u00e2\u0080\u009d the Witch said, stepping back. \u00e2\u0080\u009cHave you felt any of the side affects?\u00e2\u0080\u009d<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00e2\u0080\u009cI don\u00e2\u0080\u0099t think so...\u00e2\u0080\u009d you say, worried. As if on cue, you feel a dampness in your leggings. You look down and see a growing wet spot appear in your leggings. You look up to see the Witch staring now at your now-soaked leggings. <br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00e2\u0080\u009cYou were saying?\u00e2\u0080\u009d she said, as you begin to cry. <br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00e2\u0080\u009cI-I-I\u00e2\u0080\u0099m s-sorry, I d-didn\u00e2\u0080\u0099t know...\u00e2\u0080\u009d you stutter, embarrassed. <br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00e2\u0080\u009cShh... shh... it\u00e2\u0080\u0099s okay. Let\u00e2\u0080\u0099s get you changed!\u00e2\u0080\u009d she says, lifting you up and putting you on a changing table.<br>\r\n<br>\r\nThe Witch strips you of your clothing and wipes off your <i>no-no zone</i>. She then places you in a princess pull-up and raises a very short skirt above your new protection. Your new skirt offers no means of concealement from your pull-up and your pull-up can easily be seen from a distance. <br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00e2\u0080\u009dLet\u00e2\u0080\u0099s take a walk!\u00e2\u0080\u009d says the Witch. <br>\r\n<br>\r\n<b>Where do you go?</b></span></div></div>",
+            "content":"<div class=\"\"><div> <span>You see yourself in the mirror and you are a cute 7-year-old girl, dressed in a black t-shirt and pink leggings.<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u201cIt looks like we\u2019re done!\u201d the Witch said, stepping back. \u201cHave you felt any of the side affects?\u201d<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u201cI don\u2019t think so...\u201d you say, worried. As if on cue, you feel a dampness in your leggings. You look down and see a growing wet spot appear in your leggings. You look up to see the Witch staring now at your now-soaked leggings. <br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u201cYou were saying?\u201d she said, as you begin to cry. <br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u201cI-I-I\u2019m s-sorry, I d-didn\u2019t know...\u201d you stutter, embarrassed. <br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u201cShh... shh... it\u2019s okay. Let\u2019s get you changed!\u201d she says, lifting you up and putting you on a changing table.<br>\r\n<br>\r\nThe Witch strips you of your clothing and wipes off your <i>no-no zone</i>. She then places you in a princess pull-up and raises a very short skirt above your new protection. Your new skirt offers no means of concealement from your pull-up and your pull-up can easily be seen from a distance. <br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u201dLet\u2019s take a walk!\u201d says the Witch. <br>\r\n<br>\r\n<b>Where do you go?</b></span></div></div>",
             "created":1499403600,
             "id":2349363,
             "title":"No more toilets!"
@@ -26309,7 +26463,7 @@
         },
         "154222":{
             "author_id":"eblmeg",
-            "author_name":"\u00c3\u008btalfni",
+            "author_name":"\u00cbtalfni",
             "choices":[
                 "Head inside.",
                 "Find another door."
@@ -26321,7 +26475,7 @@
         },
         "1542221":{
             "author_id":"eblmeg",
-            "author_name":"\u00c3\u008btalfni",
+            "author_name":"\u00cbtalfni",
             "choices":[
                 "Blubber rub.",
                 "Other."
@@ -26333,7 +26487,7 @@
         },
         "15422212":{
             "author_id":"eblmeg",
-            "author_name":"\u00c3\u008btalfni",
+            "author_name":"\u00cbtalfni",
             "choices":[
                 "Gender bender.",
                 "Other."
@@ -26838,7 +26992,7 @@
             "title":"To close for comfort"
         },
         "155121":{
-            "content":"<div class=\"\"><div> <span>Finally you cave.... With no control of your own body you walk towards the mirror. <br>\r\n<br>\r\nA smile crosses your lips as you marvel at your own reflection. You could outshine any model with ease. You have a perfectly toned body thats just the right size in all the right places. Your D sized breast are perfect in shape and size for your body. Your face alone is enough to cause you to go weak kneed as you have sculpted features that would make Athena envious. You have flashing blue eyes and softly curled blond hair. <br>\r\n<br>\r\nAs you continue to admire your reflection the watch begins to tick all the louder. The Mirror begins to resonate in rhythm with it and oddly enough even the bra seems to respond in turn. The ticking seems to impact your entire being as you fall into a trance like state. An eternity seems to pass but at the same time not a moment goes by. <br>\r\n<br>\r\nYou turn around and see a shadowy figure picking up your bra. \"That's mine,\" you said simply, pointing. \"Give it back. Now.\" your expression was cool and collected, but your voice betrayed your surprise. The shadowy figure was none other than you. You realize that you are the woman that deceived you. And that this must be the transformation brought on by the watch and bra.<br>\r\n<br>\r\nWith more confidence now you step foreword. \"You like what you see, hmmmm??\" You laugh on the inside As you recall how you felt and brush your hand against your own crotch. The following scene was almost drawn out of you as if it were meant to be. You hold one another until a word that escapes your own comprehension is drawn out of your lips. Boldly you step back and just as you expected you are now back in your old body. <br>\r\n<br>\r\nLaughing you shout your parting words and slip out the door. <br>\r\n<br>\r\nAs you return to the main hall you realize the potential of the mansion. You could practically do anything become anything. You pass door after door until you finally come to one marked race room. \"This could be interesting\" you muse. You step into the room confident that your female you will be time warped and returned to normal any moment. You laugh on the inside thinking about the doppleganger paradox you've just encountered.<br>\r\n<br>\r\n BAM! the slamming of a door interrupts your thoughts. You look to the door to find your female self and she doesn't look happy! Grabbing a nearby potion you throw it at her feet and make a break for it. You were probably stronger than her could overpower her but you didn't want to risk returning to that female body. You dash foreword tossing veils and bottles behind you hoping to slow her down. Finally you see a door and make a run for it. as you burst through the door slamming it behind you. You find yourself in the company of Lord Hugo himself.<br>\r\n<br>\r\n\"There you are Master John!\" He declared. \"I'm aware of your predicament and have arranged a solution.\"<br>\r\n<br>\r\n\"Actually I don't think you are\" You stammer trying to edge your way around him.<br>\r\n<br>\r\n\"Oh don't worry about her, I've already sent her home, With a completely repaired car I might add. That is part of the solution. Clearly two of \"you\" can't exist in one world, so I've allowed her to go home, although changed against her will, and you must never go home however you may go with any changes that you wish.\"<br>\r\n<br>\r\n\"I invite you to return again to the main hall and enjoy all that the mansion has to offer.\" He says politely and vanishes. <br>\r\n<br>\r\nAs he vanishes things become hazy... You remember wrecking your car and hoping to take refuge in the manor you now stand in front of. This odd since of foreboding overcomes you but it vanishes as the rain beats down all the harder and you summon the courage to knock on the large wooden door before you....<br>\r\n<br>\r\n\"<a title=\"Interactive Story Chapter in Item # 746963\" href=\"https://www.Writing.Com/main/interact/item_id/746963/action/view/chapter_map/1\" target=\"_top\">a trip to the Mansion</a>\"\u00a0<a title=\"Open in new window.\" href=\"https://www.Writing.Com/main/interact/item_id/746963/action/view/chapter_map/1\" target=\"_blank\"><img style=\"opacity:.4;\" src=\"https://www.Writing.Com/nw.gif\" onmouseover=\"$(this).css('opacity', '1');\" onmouseout=\"$(this).css('opacity', '.4');\" height=\"12\" width=\"12\" border=\"0\"></a></span></div></div>",
+            "content":"<div class=\"\"><div> <span>Finally you cave.... With no control of your own body you walk towards the mirror. <br>\r\n<br>\r\nA smile crosses your lips as you marvel at your own reflection. You could outshine any model with ease. You have a perfectly toned body thats just the right size in all the right places. Your D sized breast are perfect in shape and size for your body. Your face alone is enough to cause you to go weak kneed as you have sculpted features that would make Athena envious. You have flashing blue eyes and softly curled blond hair. <br>\r\n<br>\r\nAs you continue to admire your reflection the watch begins to tick all the louder. The Mirror begins to resonate in rhythm with it and oddly enough even the bra seems to respond in turn. The ticking seems to impact your entire being as you fall into a trance like state. An eternity seems to pass but at the same time not a moment goes by. <br>\r\n<br>\r\nYou turn around and see a shadowy figure picking up your bra. \"That's mine,\" you said simply, pointing. \"Give it back. Now.\" your expression was cool and collected, but your voice betrayed your surprise. The shadowy figure was none other than you. You realize that you are the woman that deceived you. And that this must be the transformation brought on by the watch and bra.<br>\r\n<br>\r\nWith more confidence now you step foreword. \"You like what you see, hmmmm??\" You laugh on the inside As you recall how you felt and brush your hand against your own crotch. The following scene was almost drawn out of you as if it were meant to be. You hold one another until a word that escapes your own comprehension is drawn out of your lips. Boldly you step back and just as you expected you are now back in your old body. <br>\r\n<br>\r\nLaughing you shout your parting words and slip out the door. <br>\r\n<br>\r\nAs you return to the main hall you realize the potential of the mansion. You could practically do anything become anything. You pass door after door until you finally come to one marked race room. \"This could be interesting\" you muse. You step into the room confident that your female you will be time warped and returned to normal any moment. You laugh on the inside thinking about the doppleganger paradox you've just encountered.<br>\r\n<br>\r\n BAM! the slamming of a door interrupts your thoughts. You look to the door to find your female self and she doesn't look happy! Grabbing a nearby potion you throw it at her feet and make a break for it. You were probably stronger than her could overpower her but you didn't want to risk returning to that female body. You dash foreword tossing veils and bottles behind you hoping to slow her down. Finally you see a door and make a run for it. as you burst through the door slamming it behind you. You find yourself in the company of Lord Hugo himself.<br>\r\n<br>\r\n\"There you are Master John!\" He declared. \"I'm aware of your predicament and have arranged a solution.\"<br>\r\n<br>\r\n\"Actually I don't think you are\" You stammer trying to edge your way around him.<br>\r\n<br>\r\n\"Oh don't worry about her, I've already sent her home, With a completely repaired car I might add. That is part of the solution. Clearly two of \"you\" can't exist in one world, so I've allowed her to go home, although changed against her will, and you must never go home however you may go with any changes that you wish.\"<br>\r\n<br>\r\n\"I invite you to return again to the main hall and enjoy all that the mansion has to offer.\" He says politely and vanishes. <br>\r\n<br>\r\nAs he vanishes things become hazy... You remember wrecking your car and hoping to take refuge in the manor you now stand in front of. This odd since of foreboding overcomes you but it vanishes as the rain beats down all the harder and you summon the courage to knock on the large wooden door before you....<br>\r\n<br>\r\n\"<a title=\"Interactive Story Chapter in Item # 746963\" href=\"https://www.Writing.Com/main/interactive-story/item_id/746963/action/view/chapter_map/1\" target=\"_top\">a trip to the Mansion</a>\"\u00a0<a title=\"Open in new window.\" href=\"https://www.Writing.Com/main/interactive-story/item_id/746963/action/view/chapter_map/1\" target=\"_blank\"><img loading=\"lazy\" style=\"opacity:.4;\" src=\"https://www.Writing.Com/nw.gif\" onmouseover=\"$(this).css('opacity', '1');\" onmouseout=\"$(this).css('opacity', '.4');\" height=\"12\" width=\"12\" border=\"0\"></a></span></div></div>",
             "created":1315198800,
             "id":1181396,
             "title":"Inspect your body in the mirror / the watch has..."
@@ -27017,7 +27171,7 @@
                 "I'll go along with it.....for now.",
                 "I have to get out of here!"
             ],
-            "content":"<div class=\"\"><div> <span>As you look at yourself, you are stunned by the way you look. You see that you are not only a bloated, but also much taller as the sexy lady looks at you from shoulders length. The lady straps her arms around your enormous belly and looks up at you. \"I see that you still have a bulk in your pants,\" she said in an extreamly horny way. You quickly lift your fat rolls to see what was underneath your waist, since you could not see it from her perspective. You notice that the bulk in your stretched out pants is more massive then ever, and not humanly possible. \"Oh my gosh big boy, your package is just so.....huge!\" She began to rub her nipples as you were still in a frozen position. \"Usually all of the men lose their erection by now, but you.....your something special. You enjoy being fat.\" You knew what she said was not true, something was wrong with what she said. You do not want to be fat, and that was final. You look to see her breasts. They were smaller a little while after you slurped upon the magnificant syrup taste, but now they were bigger and better then ever before. A bit of Saliva traveled down your double chin as you stared at them. \"I.....I have to go now, I have to go home to my family.....I can't stay here any longer.\" \"Oh, no need for that honey bun,\" <img style=\"\" class=\"emoteZ\" src=\"https://images.Writing.Com/imgs/writing.com/writers/e15/inlove.png\" alt=\"*Inlove*\" title=\"Inlove\" border=\"0\" width=\"15\" height=\"15\">  she reached for your enourmous ass and started to rub her body against yours. \"Lord Prosperio already took care of that, we already sent out a clone of you  that can never tell the difference from...you.\" she began to laugh since you looked so different from you old self. \"I must say that I do take a liking to you and your enormous and suculent dick. How about you stay here and live with me. You can have as much fun as you want with these,\" she reached for her delicous tits. </span></div></div>",
+            "content":"<div class=\"\"><div> <span>As you look at yourself, you are stunned by the way you look. You see that you are not only a bloated, but also much taller as the sexy lady looks at you from shoulders length. The lady straps her arms around your enormous belly and looks up at you. \"I see that you still have a bulk in your pants,\" she said in an extreamly horny way. You quickly lift your fat rolls to see what was underneath your waist, since you could not see it from her perspective. You notice that the bulk in your stretched out pants is more massive then ever, and not humanly possible. \"Oh my gosh big boy, your package is just so.....huge!\" She began to rub her nipples as you were still in a frozen position. \"Usually all of the men lose their erection by now, but you.....your something special. You enjoy being fat.\" You knew what she said was not true, something was wrong with what she said. You do not want to be fat, and that was final. You look to see her breasts. They were smaller a little while after you slurped upon the magnificant syrup taste, but now they were bigger and better then ever before. A bit of Saliva traveled down your double chin as you stared at them. \"I.....I have to go now, I have to go home to my family.....I can't stay here any longer.\" \"Oh, no need for that honey bun,\" <img loading=\"lazy\" style=\"\" class=\"emoteZ\" src=\"https://images.Writing.Com/imgs/writing.com/writers/e15/inlove.png\" alt=\"*Inlove*\" title=\"Inlove\" border=\"0\" width=\"15\" height=\"15\">  she reached for your enourmous ass and started to rub her body against yours. \"Lord Prosperio already took care of that, we already sent out a clone of you  that can never tell the difference from...you.\" she began to laugh since you looked so different from you old self. \"I must say that I do take a liking to you and your enormous and suculent dick. How about you stay here and live with me. You can have as much fun as you want with these,\" she reached for her delicous tits. </span></div></div>",
             "created":1344834000,
             "id":1404010,
             "title":"You look like a human Grimmis from Mc'D."
@@ -27533,8 +27687,8 @@
         "description":"<td align=\"left\" class=\"norm\">You are an 18 year old male and you wander across and old mansion in your town. Inside are things that will \"change\" your life...<br>\r\n<br>\r\nbased loosely on the website<br>\r\n<a class=\"blue2roll\" rel=\"nofollow\" href=\"http://transformansion.proboards.com\" target=\"_blank\">http://transformansion.proboards.com</a></td>",
         "id":746963,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":0,
-        "modified":1592842320,
+        "last_full_update":1594374660,
+        "modified":1594374660,
         "pretty_title":"The TransforMansion"
     }
 }
