@@ -7895,6 +7895,19 @@
             "id":1929230,
             "title":"Yes"
         },
+        "1432":{
+            "author_id":"navian101",
+            "author_name":"navian",
+            "choices":[
+                "Yes, Spike gives her what is actually a \"Gluttony\" potion.",
+                "No, Spike confesses his plan and sees how Rarity responds",
+                "Delay, Spike sets the tea aside for a bit. Certainly nothing bad could happen?"
+            ],
+            "content":"<div class=\"\"><div> <span>Spike snickered to himself as he poured what was labeled \"love potion\" into Rarity's tea. The young dragon had swiped the vial from Twilight's library/lavatory back at the castle of friendship, the purple alicorn far too engrossed in her books to notice the act of thievery. Spike knew it was wrong but he had grown tired of hoping for Rarity to return or even notice his feelings for her. Thus, impatient and naive he had stolen from the person he viewed as a sister and was now setting about sabotaging his biggest crush.<br>\r\n<br>\r\nToday he had come to help Rarity design some new gowns and dressing for an upcoming festival. As usual his heart beat faster whenever the alabaster-coated unicorn was present. He had already nearly twice spilt the beans and confessed his crime before even committing to it. Now though, after she had politely asked him to brew some tea for her to sip upon whilst designing some lace patterns, Spike dumped the whole vial into her teacup. It's not like there were any real instructions for the potion. In fact, the label was badly aged and tattered, the L and O of Love being the only letters properly visible, but the rest of the smudged ink clearly said \"love potion\" and Spike had enough faith in magic to know that this plan would work.<br>\r\n<br>\r\nCarrying the tea out to Rarity who was happily working away Spike was woefully unaware of the potions true effects. the L and O that were on the label were actually part of a much longer word that had faded out over time.<br>\r\n<br>\r\nIgnorant of his error Spike still had second thoughts as he approached Rarity. She was so kind and caring, not only towards him but to everyone else. If only he could make her see him as a guy instead of a little baby. Hopefully this potion would be the jumpstart he needed to win her over. But should he really go through with such a thing?</span></div></div>",
+            "created":1596171600,
+            "id":2879073,
+            "title":"No, Spike's secret plan."
+        },
         "145":{
             "choices":[
                 "Human Rarity",
@@ -24684,7 +24697,7 @@
         "id":1966893,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
         "last_full_update":1593685680,
-        "modified":1593685680,
+        "modified":1596256560,
         "pretty_title":"Marioman's MLP:FIM Weight Gain"
     }
 }

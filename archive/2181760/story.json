@@ -2211,6 +2211,19 @@
             "id":2648867,
             "title":"Something Else"
         },
+        "13133":{
+            "author_id":"elrick",
+            "author_name":"Elrick",
+            "choices":[
+                "Brittany, the aspiring cheerleader",
+                "Stacey, the science student",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What about theses?</span></div></span></div>",
+            "created":1595826000,
+            "id":2876322,
+            "title":"more options"
+        },
         "132":{
             "author_id":"elrick",
             "author_name":"Elrick",
@@ -2272,8 +2285,8 @@
         "description":"<td align=\"left\" class=\"norm\">Halloween is fast approaching and for the occasion, a costume party has been organized and all the people from the school have been invited. It was for this occasion that you went to the costume shop to find an adequate disguise. What you did not know was that, in this shop, are costumes with unique properties. Masks, makeup and clothes that have the power to transform your life forever. And that's exactly what they will do!</td>",
         "id":2181760,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1594911240,
-        "modified":1594911240,
+        "last_full_update":1595873040,
+        "modified":1595873040,
         "pretty_title":"The haunted costume"
     }
 }

@@ -170,6 +170,78 @@
             "id":821232,
             "title":"A new and unknown Pokemon?"
         },
+        "1111221":{
+            "author_id":"eliteeevee",
+            "author_name":"elite eevee",
+            "choices":[
+                "Ash Escaped",
+                "One of the humans react"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Ash escape or do Dawn or the professor react fast?</span></div></span></div>",
+            "created":1595826000,
+            "id":2876216,
+            "title":"Jump out the window he came in as Dash?"
+        },
+        "11112212":{
+            "author_id":"eliteeevee",
+            "author_name":"elite eevee",
+            "choices":[
+                "Dawn",
+                "The Professor"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who Reacts?</span></div></span></div>",
+            "created":1595826000,
+            "id":2876217,
+            "title":"One of the humans react"
+        },
+        "111122121":{
+            "author_id":"eliteeevee",
+            "author_name":"elite eevee",
+            "choices":[
+                "Throw a pokeball",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What does Dawn do?</span></div></span></div>",
+            "created":1595826000,
+            "id":2876220,
+            "title":"Dawn"
+        },
+        "1111221211":{
+            "author_id":"eliteeevee",
+            "author_name":"elite eevee",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Dawn catch Ash</span></div></span></div>",
+            "created":1595826000,
+            "id":2876221,
+            "title":"Throw a pokeball"
+        },
+        "11112212111":{
+            "author_id":"eliteeevee",
+            "author_name":"elite eevee",
+            "choices":[
+                "Professor Rowan agrees",
+                "Professor Town rejects the idea"
+            ],
+            "content":"<div class=\"\"><div> <span>Dawn picks up the pokeball Ash was now in and turns to Professor Rowan <br>\r\n\"If its alright with you professor i have an idea how about i keep and train MY Pok\u00e9mon and any new information I learn about the new Pok\u00e9mon Ash has become I will send to you. What do you think?\" Dawn asked Professor Rowan</span></div></div>",
+            "created":1595826000,
+            "id":2876230,
+            "title":"Dawn caught a Neko!!"
+        },
+        "111122121111":{
+            "author_id":"eliteeevee",
+            "author_name":"elite eevee",
+            "choices":[
+                "Say sorry for catching Ash",
+                "Train for a contest"
+            ],
+            "content":"<div class=\"\"><div> <span>\"OK very well Dawn I will let you keep Ash and give me all the information you find on that Neko, now hand me your pokedex so I can upgrade it so it is able to send me any new data on Neko\" said Professor Rowan<br>\r\n<br>\r\n\"Sure professor\" Dawn said handing over her pokedex \"how long will it take?\" She asked<br>\r\n<br>\r\n\"Let's see about an hour I guess\" Rowan responded<br>\r\n\"OK see you in an hour\" Dawn said as she ran out the door \"now for something I should really do\" Dawn said looking at Ash's pokeball.<br>\r\n</span></div></div>",
+            "created":1595826000,
+            "id":2876287,
+            "title":"Professor Rowan agrees"
+        },
         "1111222":{
             "author_id":"scilock",
             "author_name":"Scifiwizard",
@@ -943,6 +1015,18 @@
             "created":1539666000,
             "id":2564602,
             "title":"It missed and hit a differnt pokemon"
+        },
+        "1313322222":{
+            "author_id":"eliteeevee",
+            "author_name":"elite eevee",
+            "choices":[
+                "Riolu",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What pokemon did it hit?</span></div></span></div>",
+            "created":1595826000,
+            "id":2876149,
+            "title":"other"
         },
         "132":{
             "choices":[
@@ -3971,7 +4055,7 @@
                 "May",
                 "Ash"
             ],
-            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who do you want to Separate? May    or     Ash<br>\r\nBTW The reason I didn't do Dawn is because I couldn't think of any problems that could arise <img style=\"\" src=\"https://images.Writing.Com/imgs/writing.com/writers/e15/heart.png\" alt=\"*Heart*\" class=\"emoteZ\" title=\"Heart\" border=\"0\" width=\"15\" height=\"15\"></span></div></span></div>",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who do you want to Separate? May    or     Ash<br>\r\nBTW The reason I didn't do Dawn is because I couldn't think of any problems that could arise <img loading=\"lazy\" style=\"\" src=\"https://images.Writing.Com/imgs/writing.com/writers/e15/heart.png\" alt=\"*Heart*\" class=\"emoteZ\" title=\"Heart\" border=\"0\" width=\"15\" height=\"15\"></span></div></span></div>",
             "created":1467003600,
             "id":2171908,
             "title":"Who Sperates?"
@@ -27033,8 +27117,8 @@
         "description":"<td align=\"left\" class=\"norm\">The Transformation Adventures of Ash and Dawn. They find a stone and then the adventures begin.<br>\r\n<br>\r\nYou can also add may or misty in the story to replace Dawn or that they meet each other.<br>\r\n<br>\r\nno sex <br>\r\nno killing<br>\r\n<br>\r\n<br>\r\nYou will be rewarded 50 gift points for a one-line \"option\" chapter, and 200 for a real chapter</td>",
         "id":1605060,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1590483060,
-        "modified":1590483060,
+        "last_full_update":1595868000,
+        "modified":1595868000,
         "pretty_title":"The Transform Adventures of Ash and Dawn"
     }
 }

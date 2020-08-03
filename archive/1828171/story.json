@@ -395,6 +395,18 @@
             "id":2305947,
             "title":"You Again?"
         },
+        "1121211112":{
+            "author_id":"notpeter",
+            "author_name":"Nothig",
+            "choices":[
+                "put out the fire",
+                "get out"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what the how did i get here you say. there is fire everywhere adn a woman next to you holding you are you ok? what happened i say while holding my head and why is there a fire?</span></div></span></div>",
+            "created":1596085200,
+            "id":2878294,
+            "title":"You wake up in somebody else's room... also..."
+        },
         "11212112":{
             "author_id":"evilguy",
             "author_name":"evil dude",
@@ -741,6 +753,18 @@
             "created":1555995600,
             "id":2649175,
             "title":"Buying Some Time"
+        },
+        "113322":{
+            "author_id":"notpeter",
+            "author_name":"Nothig",
+            "choices":[
+                "go help the other prisoner",
+                "run"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>you try to bust out and escape. it opens the prisoner to the left too.i have now escaped now what now</span></div></span></div>",
+            "created":1596085200,
+            "id":2878179,
+            "title":"Try to bust out by yourself"
         },
         "114":{
             "author_id":"evilguy",
@@ -2735,7 +2759,7 @@
         },
         "143121":{
             "author_id":"riverbedwriter",
-            "author_name":"River Staying Home",
+            "author_name":"River",
             "choices":[
                 "Run back to the station and call for help",
                 "Try to hide and stay out of sight"
@@ -3120,8 +3144,8 @@
         "description":"<td align=\"left\" class=\"norm\">A bright neon sign flickers just outside a lonely gas station on the edge of town. Cold beer, cheap cigarettes, stale chips... and endless possibilites for adventure. You thought your first shift at the new gas station would be nothing but a boring way to earn some extra cash...but by the end of the day you'll have earned much more then a measly minimum wage, that's for sure...<br>\r\n<br>\r\n<br>\r\nRules<br>\r\n<br>\r\n1. Adult content is allowed, just don't overdo it.<br>\r\n<br>\r\n2. You may end the story, but try not to end it too early if you can avoid it.<br>\r\n<br>\r\n3. If you plan on adding a chapter please put some effort into it. No one wants to go through 20 pages of story in five minutes.<br>\r\n<br>\r\n4. Chapters with really poor grammer or that are just plain stupid will be edited or deleted. (I don't mind things like magic, aliens, or monsters. But really poor plot structure and hundreds of typos are pushing it...)<br>\r\n<br>\r\n5. You can leave the gas station as long as you have a reason to do so. (Even if that reason is idiotic, poorly justified, or extremely likely to get you killed.)</td>",
         "id":1828171,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1567566120,
-        "modified":1567566120,
+        "last_full_update":1596125220,
+        "modified":1596125220,
         "pretty_title":"Gas Station Attendant"
     }
 }

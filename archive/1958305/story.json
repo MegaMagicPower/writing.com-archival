@@ -262,6 +262,55 @@
             "id":2815922,
             "title":"Stay as Samus"
         },
+        "113112":{
+            "author_id":"trollspud",
+            "author_name":"Hello",
+            "choices":[
+                "Relationships",
+                "Head/Gender"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Shall it be relationships that are swapped? Or one of the others, perhaps?</span></div></span></div>",
+            "created":1595826000,
+            "id":2876037,
+            "title":"Relationships/Head/Gender"
+        },
+        "1132":{
+            "author_id":"at394131",
+            "author_name":"Soulgrim",
+            "choices":[
+                "Body, life and relationship swap with Samus to become her but date peach",
+                "Make her your girlfriend ",
+                "Use another button "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You find Samus training in the gym with her zero suit what do you want to do with her?</span></div></span></div>",
+            "created":1595739600,
+            "id":2875855,
+            "title":"Zero suit"
+        },
+        "11321":{
+            "author_id":"at394131",
+            "author_name":"Soulgrim",
+            "choices":[
+                "Go find peach",
+                "Go check out your new body "
+            ],
+            "content":"<div class=\"\"><div> <span>You really want Samus\u2019s sexy body and it would be nice to be taller so you pull out the remote and push the body swap button and then life swap button and then suddenly you are training you remember  what you were Doing and look down to see Samus\u2019s body in her tight zero suit you turn around to see your old body leaving you quickly grab the remote and hit the relationship swap button then go back to training as to not raise suspicion and then when your done you</span></div></div>",
+            "created":1595739600,
+            "id":2875858,
+            "title":"Body, life and relationship swap with Samus to ..."
+        },
+        "113212":{
+            "author_id":"at394131",
+            "author_name":"Soulgrim",
+            "choices":[
+                "Go find your old body",
+                "Go get peach for some fun"
+            ],
+            "content":"<div class=\"\"><div> <span>You go back to your room feeling your breasts with every step and it\u2019s surprisingly easy to walk in Samus\u2019s heels and you even walking like her man this remote is amazing when you finally In your room you lock the door and go over to the mirror and do some sexy poses and start saying things Samus would never say \u201coh Mario I love you more then anything you  are so hot\u201d say this really turns you on maybe you should make Samus your girlfriend or just get peach </span></div></div>",
+            "created":1595739600,
+            "id":2875866,
+            "title":"Go check out your new body "
+        },
         "115":{
             "choices":[
                 "Zelda",
@@ -2331,6 +2380,18 @@
             "id":2191752,
             "title":"Play,around with your body and life"
         },
+        "1223221112":{
+            "author_id":"at394131",
+            "author_name":"Soulgrim",
+            "choices":[
+                "Check out you new body to the fullest ",
+                "Swap relationships with your old body to still be dating Zelda "
+            ],
+            "content":"<div class=\"\"><div> <span>People thinking of me as a goddess would be fun you think as you press the life swap button and are suddenly transported to the other side of the hallway you look down to see you now have Palutena\u2019s cloths what should you do now that your a goddess?</span></div></div>",
+            "created":1595653200,
+            "id":2874647,
+            "title":"Become palutena"
+        },
         "12233":{
             "author_id":"le_swappr",
             "author_name":"clockworkMelody",
@@ -2966,6 +3027,66 @@
             "created":1473051600,
             "id":2206628,
             "title":"Look through Zelda's clothing "
+        },
+        "1223322222212222":{
+            "author_id":"at394131",
+            "author_name":"Soulgrim",
+            "choices":[
+                "Body/life/head swap ",
+                "Relationship/clothes/gender swap"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What will you do to Palutena with the remote?</span></div></span></div>",
+            "created":1595480400,
+            "id":2873374,
+            "title":"Palutena"
+        },
+        "12233222222122221":{
+            "author_id":"at394131",
+            "author_name":"Soulgrim",
+            "choices":[
+                "Body",
+                "Life/head"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Body life or head?</span></div></span></div>",
+            "created":1595480400,
+            "id":2873376,
+            "title":"Body/life/head swap "
+        },
+        "122332222221222212":{
+            "author_id":"trollspud",
+            "author_name":"Hello",
+            "choices":[
+                "Life Swap",
+                "Head Swap"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So, what will it be? A life swap, or a head swap?</span></div></span></div>",
+            "created":1595480400,
+            "id":2873417,
+            "title":"Life/head"
+        },
+        "12233222222122222":{
+            "author_id":"trollspud",
+            "author_name":"Hello",
+            "choices":[
+                "Yes! Clothes Swap!",
+                "No, Relationship/Gender Swap."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>First, is it a clothing swap?</span></div></span></div>",
+            "created":1595480400,
+            "id":2873409,
+            "title":"Relationship/clothes/gender swap"
+        },
+        "122332222221222222":{
+            "author_id":"trollspud",
+            "author_name":"Hello",
+            "choices":[
+                "Relationship Swap ",
+                "Gender Swap"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is it a Relationship or Gender Swap then?</span></div></span></div>",
+            "created":1595480400,
+            "id":2873411,
+            "title":"No, Relationship/Gender Swap."
         },
         "123":{
             "author_id":"le_swappr",
@@ -7907,6 +8028,318 @@
             "created":1544331600,
             "id":2587498,
             "title":"Body Swap"
+        },
+        "15213112":{
+            "author_id":"at394131",
+            "author_name":"Soulgrim",
+            "choices":[
+                "Life/relationship swap",
+                "Make Lady Palutena your girlfriend "
+            ],
+            "content":"<div class=\"\"><div> <span>\u201cHey pit\u201d you hear your own voice say but you didn\u2019t say anything you turn around to see Palutena in your clothes and remember that you had swapped bodies \u201chey Lady Palutena\u201d say surprised to hear Palutena\u2019s voice coming out of your mouth \u201caren\u2019t you gonna show me around pit?\u201d God your so tired of have to show Palutena around everyone but now you don\u2019t have to you can life swap or relationship swap with her and make her show you around or you can try and get her to fall in love with you  </span></div></div>",
+            "created":1595739600,
+            "id":2875305,
+            "title":"Its lady pal...Pit?"
+        },
+        "152131121":{
+            "author_id":"at394131",
+            "author_name":"Soulgrim",
+            "choices":[
+                "Life ",
+                "Relationship "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You pull out the remote and quickly press the ____ swap button</span></div></span></div>",
+            "created":1595739600,
+            "id":2875759,
+            "title":"Life/relationship swap"
+        },
+        "1521311211":{
+            "author_id":"at394131",
+            "author_name":"Soulgrim",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><div> <span>You pull out the remote and press the life swap button and are suddenly looking at yourself \u201ccome on Lady Palutena \u201c pit responds \u201c thanks pit\u201d you gasp after hearing your voice and look down to see Palutena\u2019s bod in her dress and long green hair blowing into your eyes got to get used to that  do you find anyone you want to swap with?</span></div></div>",
+            "created":1595739600,
+            "id":2875762,
+            "title":"Life "
+        },
+        "15213112111":{
+            "author_id":"at394131",
+            "author_name":"Soulgrim",
+            "choices":[
+                "Samus",
+                "Someone else "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who do you find?</span></div></span></div>",
+            "created":1595739600,
+            "id":2875763,
+            "title":"Yes"
+        },
+        "152131121111":{
+            "author_id":"at394131",
+            "author_name":"Soulgrim",
+            "choices":[
+                "Body/clothes ",
+                "Relationship/life/head"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You find Samus at the gym training with her zero suit. What do you want to swap with her?</span></div></span></div>",
+            "created":1595739600,
+            "id":2875765,
+            "title":"Samus"
+        },
+        "1521311211111":{
+            "author_id":"at394131",
+            "author_name":"Soulgrim",
+            "choices":[
+                "Samus\u2019s body Palutena\u2019s cloths",
+                "Palutena\u2019s body Samus\u2019s clothes "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do you want Samus\u2019s body in Palutena\u2019s clothes or do you want Samus\u2019s clothes on Palutena\u2019s body</span></div></span></div>",
+            "created":1595739600,
+            "id":2875766,
+            "title":"Body/clothes "
+        },
+        "15213112111112":{
+            "author_id":"at394131",
+            "author_name":"Soulgrim",
+            "choices":[
+                "Explore your new body in the zero suit ",
+                "Get Pit (Palutena) to join you"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You point the remote at Samus and press the cloths swap button and then you see Samus training in hand to hand combat in Palutena\u2019s dress and look down to see Samus\u2019s skin tight zero suit hugging your body what do want to do now?</span></div></span></div>",
+            "created":1595739600,
+            "id":2875769,
+            "title":"Palutena\u2019s body Samus\u2019s clothes "
+        },
+        "152131121111121":{
+            "author_id":"at394131",
+            "author_name":"Soulgrim",
+            "choices":[
+                "Viridi knocking on the door",
+                "Nothing "
+            ],
+            "content":"<div class=\"\"><div> <span>\u201cThanks for showing me around pit\u201d You say \u201c but we aren\u2019t done yet\u201d pit responds \u201c sorry I want to see what my room is like \u201c you give an excuse \u201c well just tell me when you want to see the rest of the place\u201d pit says \u201cok\u201d you respond walking over to your room realizing your walking just like Palutena would and you can feel ever movement because of this skin tight suit which makes you want to see yourself even more when you finally get to your room your roommate Viridi isn\u2019t there so you go and lock the door then go over to the full length mirror to see Palutena\u2019s sexy body in Samus\u2019s clothes \u201c damn I look good\u201d you say while doing some poses boobs and ass bouncing with each one just as your about to grope yourself you get interrupted by </span></div></div>",
+            "created":1595739600,
+            "id":2875772,
+            "title":"Palutena\u2019s amazing body "
+        },
+        "1521311211111212":{
+            "author_id":"at394131",
+            "author_name":"Soulgrim",
+            "choices":[
+                "Order pit to join you",
+                "Go and see what Palutena\u2019s life is like"
+            ],
+            "content":"<div class=\"\"><div> <span>As soon as your hands touch your breasts you feel a rush of pleasure as you get faster and more ferocious in groping your breasts but this suit is in the way so you quickly take it off and touch your bare breasts and start getting wet and start heating up this would be so much more fun with someone else </span></div></div>",
+            "created":1595739600,
+            "id":2875805,
+            "title":"Nothing "
+        },
+        "152131122":{
+            "author_id":"at394131",
+            "author_name":"Soulgrim",
+            "choices":[
+                "Find link and Zelda ",
+                "Find link or Zelda "
+            ],
+            "content":"<div class=\"\"><div> <span>The first part of your plan is to find Zelda and link and then relationship swap with Zelda then Palutena then link but you don\u2019t want to be dating your own body so you first decide to body swap back with Palutena so you would be dating her luckily she wants you to show you around so you should be able to find link and Zelda </span></div></div>",
+            "created":1595739600,
+            "id":2875322,
+            "title":"Make Lady Palutena your girlfriend "
+        },
+        "1521311221":{
+            "author_id":"at394131",
+            "author_name":"Soulgrim",
+            "choices":[
+                "Go to your couples room and have some fun ",
+                "Do some more swaps to make things more interesting aka FXF or MXM  if you want "
+            ],
+            "content":"<div class=\"\"><div> <span>While showing Palutena the library you find link and Zelda reading together so you quickly relationship  swap with Zelda then Palutena then link and after swapping with Link Palutena comes over to you and says \u201cThanks for showing me around babe\u201d and gave you a kiss you start blushing uncontrollably and Palutena starts to giggle and says \u201cI love how shy you are just because your my commander in my army doesn\u2019t mean we can\u2019t be together\u201d \u201c ya I know but it\u2019s still so weird \u201c you say as you kiss her back more passionately which reacts by very surprised but also very happy but you probably shouldn\u2019t continue here in front of link and Zelda  </span></div></div>",
+            "created":1595739600,
+            "id":2875333,
+            "title":"Find link and Zelda "
+        },
+        "15213112211":{
+            "author_id":"at394131",
+            "author_name":"Soulgrim",
+            "choices":[
+                "Swap with Palutenas aware",
+                "Swap with Palutena unaware "
+            ],
+            "content":"<div class=\"\"><div> <span>You continue to slowly make out with Palutena as you lead her to your couple\u2019s room and when you get in the door Palutena picked you up and throws you on the bed and gets on top of you and starts kissing you again you can feel her Breasts pushing against your chest you start to get over taken with emotions as you flip Palutena on the bed so your on top of Palutena as you start to ferociously make out with Palutena you are so fast that you can see that Palutena is almost gasping for air so you slow down and now that you can think you wonder if you should body and life swap with Palutena to see how she feels but should you let her in on the swap </span></div></div>",
+            "created":1595739600,
+            "id":2875399,
+            "title":"Go to your couples room and have some fun "
+        },
+        "152131122111":{
+            "author_id":"at394131",
+            "author_name":"Soulgrim",
+            "choices":[
+                "Fine but I want a female body ",
+                "Why don\u2019t we just swap"
+            ],
+            "content":"<div class=\"\"><div> <span>You get off the bed as Palutena catches her breath you go grab the remote and ask \u201c hey babe do you want to spice things up?\u201d To which she asks\u201d how do you mean\u201d \u201cwell I found this remote that allows use to switch things such as clothes life\u2019s and even bodies\u201d you respond \u201c how do you now it works?\u201d She asks skeptically \u201c well I my have tested it\u201d you respond again \u201c What! With who\u201d she asked jealous and angry \u201c it\u2019s ok I did it with you and immediately swapped back I would never do it with anyone else\u201d you half lie which seemed to make Palutena very happy \u201cwhat kind of swap do you recommend?\u201d Palutena asks \u201cwell what do you think about being me and me being you?\u201d You ask back \u201cwell why don\u2019t we try to find you a taller body not that there\u2019s anything wrong with yours but maybe you want to be taller and if you want it can still be a female body I don\u2019t really care but it could make things really fun\u201d to which you say </span></div></div>",
+            "created":1595739600,
+            "id":2875417,
+            "title":"Swap with Palutenas aware"
+        },
+        "1521311221111":{
+            "author_id":"at394131",
+            "author_name":"Soulgrim",
+            "choices":[
+                "Make a Harem ",
+                "Become Samus "
+            ],
+            "content":"<div class=\"\"><div> <span>\u201cWell that\u2019s ok but can a make a recommendation for you become? Palutena asks \u201csure but I don\u2019t know if I can make you aware of the swap\u201d You say \u201c well Can you let me try and use my god powers to see if there\u2019s any hidden features? she asks \u201cNo\u201d you say \u201c why?\u201d She asks suspiciously \u201c I don\u2019t want it to break\u201d you say but in reality you don\u2019t want her to know that you swapped relationships to be with her \u201c it should work if you put your hand on the remote when I do the swap\u201d you say \u201cok but I want you to swap with Samus and can you life swap for the role play?\u201d She asked still a little suspicious  \u201cFine but then I have to also relationship swap so we\u2019re still together\u201d \u201cwell of course I don\u2019t want anyone else but you\u201d this makes your checks start to blush \u201cBut where would Samus be?\u201d You ask \u201c well she is always training in the gym?\u201d Palutena responds Ok let\u2019s go starting to get excited maybe you can make Samus fall in love with you as well and hopefully she is in her zero suit she always looks so good in that you think as both of you arrive to see Samus in a Orange workout Bra And shorts \u201c she looks even better in that not realizing your talking to yourself and Palutena over hears \u201c well maybe you should date her instead\u201d she say very mad at you </span></div></div>",
+            "created":1595739600,
+            "id":2875422,
+            "title":"Fine but I want a female body "
+        },
+        "15213112211111":{
+            "author_id":"at394131",
+            "author_name":"Soulgrim",
+            "choices":[
+                "Get more ladies ",
+                "Get Palutena "
+            ],
+            "content":"<div class=\"\"><div> <span>Maybe I can copy my relationship with Palutena and paste it to Samus and have both of them so you try holding the relationship swap button while pointing the remote at Palutena and then point it at Samus and release the button after doing this you go up to Samus and kiss her and are not surprised when she kisses you back then Palutena runs over and kisses you too and says \u201cyour mine you might be dating both of use but how dare you kiss her in front of me\u201d she says looking sad well I guess she forgot about the remote but suddenly you are grabbed by Samus as she takes you bake to your couples room and locks the door But Palutena starts to bang on the door \u201cwhy did you lock the door?\u201d She asks to which Samus responds\u201d you had your fun with him today now it\u2019s my turn\u201d after she says this you hear Palutena storm off to her room and then Samus put you on the bed and gets on top of you just like Palutena did before and starts to kiss you and her boobs are even better then Palutena\u2019s as you slowly grope her and kiss her back as your body starts to heat up as you both start get closer and closer pushing up against each other Kissing more and more passionately but you weren\u2019t able to put the Remote away And suddenly you were on top of yourself and had the same clothes that Samus was wearing but you  couldn\u2019t do anything about it because pit pull you back in for more as you realize Samus is just as into this as you because her body feels like it\u2019s on fire but it feels so great when pit \u201cSamus\u201d is groping you but you have to be careful about pressing more buttons luckily it wasn\u2019t long before you were done and taking a break but with how great it felt in Samus\u2019s body so you decide to pull the remote out of your shorts pocket And press the relationship swap button to still be with Palutena and pit \u201chey should we get Palutena to join in? you ask pit surprised by your new voice \u201csure if you want to Samus \u201c pit  responds \u201cok I\u2019ll go get her I want to get a change of clothes \u201c you say realizing that you got kind of messy form your fun \u201cok I\u2019ll wait here\u201d pit responded you go and give him a kiss \u201csee ya\u201d you say as you leave first going to your new room and replacing your orange sports bra and shorts for your blue ones but first you check yourself out a bit first doing some poses and god do you look good you think as you start to feel up your nice double DD breasts not as big as Palutena\u2019s but they feel better should you grab a few more ladies to join you or just get Palutena and head back?</span></div></div>",
+            "created":1595739600,
+            "id":2875435,
+            "title":"Make a Harem "
+        },
+        "152131122111111":{
+            "author_id":"at394131",
+            "author_name":"Soulgrim",
+            "choices":[
+                "Become pit",
+                "One of the girls"
+            ],
+            "content":"<div class=\"\"><div> <span>First you go over to grab Palutena Because you need someone to copy and paste from she seem very happy to see you and try\u2019s to bring you over to the bed but you tell her to come with you to witch she seems disappointed but you over and kiss her and that cheers her up and follows you and since it\u2019s dinner time mostly everyone is there when you enter you see 2 more targets peach, and Zelda sitting with there boyfriends but that will change soon as you point the remote at Palutena and hold down the relationship swap button and then point it at peach and Zelda and release the button to see they are no longer sitting with Mario and link but walking over to you \u201cHey Samus!\u201d They say waving at you \u201cwhat\u2019s up?\u201d You ask  \u201cwant to eat with us?\u201d They ask You look at Palutena who looks very upset \u201c I\u2019m good I\u2019ll see you after we eat\u201d they both look kinda disappointed you and Palutena go and get some food and sit down at an empty table Palutena look very excited and says \u201c thanks Samus I really wanted this\u201d she says with a big smile on her face that make your heart melt \u201cno problem babe\u201d after your both done Eating  you go over and get peach and Zelda and head back to your  couples room that turns out to be for all of you when go in you can see the room as tripled in size and the bed double you see pit sitting there waiting do you want to turn back into pit or maybe one of the other girls/ mix and match cloths and bodies </span></div></div>",
+            "created":1595739600,
+            "id":2875448,
+            "title":"HERAM TIME!!!"
+        },
+        "1521311221111112":{
+            "author_id":"at394131",
+            "author_name":"Soulgrim",
+            "choices":[
+                "Palutena/Samus ",
+                "Zelda/peach"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which one of the ladies will you choose?</span></div></span></div>",
+            "created":1595739600,
+            "id":2875449,
+            "title":"One of the girls"
+        },
+        "15213112211111121":{
+            "author_id":"at394131",
+            "author_name":"Soulgrim",
+            "choices":[
+                "Palutena",
+                "Stay as Samus "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will you stay as Samus or just body swap with Palutena and keep Samus clothes and life </span></div></span></div>",
+            "created":1595739600,
+            "id":2875450,
+            "title":"Palutena/Samus "
+        },
+        "152131122111111211":{
+            "author_id":"at394131",
+            "author_name":"Soulgrim",
+            "choices":[
+                "Stay as Palutena",
+                "Have sex with Palutena as pit "
+            ],
+            "content":"<div class=\"\"><div> <span>You point the remote at Palutena and hit the body swap button and suddenly a foot taller and you can feel the sports bra on your huge boobs you ask if you can go to the restroom for a second \u201cof course Samus \u201c pit replayed and then go in and lock the door you look in the mirror to see Palutena\u2019s beautiful body in samus\u2019s blue sports bra and shorts barely containing your new breasts You decide to take of the bra and feel your new bare breasts that are sensitive to the touch I guess she never really does this but it makes it feel so good right now \u201cSamus!! you ok?\u201d You hear everyone asks \u201cya give me a sec you go back out with putting the bra back on and everyone is starring at your chest which makes you very embarrassed but it only lasts a Second as all the other girls start to take off there clothes and throw you on the bed both peach and Zelda start to grope your breasts which makes you cry in pleasure and Samus (In Palutena\u2019s dress) gets on top of you  And starts making out with you  and then suddenly you feel you shorts get taken off and feel something touch your vagina which makes you scream \u201cstop!!!!!\u201d Catching your breath everyone was very confused I\u2019m sorry I wasn\u2019t ready this is to fast \u201csorry Samus are you ok?\u201d Pit asks \u201c I\u2019m ok but \u201c you drag pit to the bathroom \u201c we have never done anything like that before I\u2019m very sensitive \u201c You say still out of breath\u201cI\u2019m sorry Samus it was spur of the moment we have never hade everyone at once\u201d you go and tell everyone you will both need a moment to witch they go and get the clothes back on and go outside \u201cok pit let\u2019s continue\u201d </span></div></div>",
+            "created":1595739600,
+            "id":2875457,
+            "title":"Palutena"
+        },
+        "1521311221111112111":{
+            "author_id":"at394131",
+            "author_name":"Soulgrim",
+            "choices":[
+                "Change and continue ",
+                "Rest and live Palutena\u2019s life"
+            ],
+            "content":"<div class=\"\"><div> <span>You want to now how it feels to have sec in Palutena\u2019s sensitive body but first you go life and relationship swap with Samus to become Palutena again \u201cyou ready lady Palutena?\u201d Asks pit \u201cyes I can\u2019t wait to see how this feels\u201d you respond getting on the bed preparing and then pit proceeds to get on top of you and slowly beings to put his penis closer to your vagina while making out with you to get a boner and then you suddenly feel his penis start to enter you and you feel an explosion of pleasure as you moan\u201ddon\u2019t stop keep going\u201d barley able to breathe and to which pit responds by going deeper and deeper until it\u2019s to much and cum barley able to stay conscience should you become one of the other girls and continue or should you rest and see how it is being Palutena?   </span></div></div>",
+            "created":1595739600,
+            "id":2875756,
+            "title":"Stay as Palutena"
+        },
+        "1521311221111112112":{
+            "author_id":"at394131",
+            "author_name":"Soulgrim",
+            "choices":[
+                "Wake up as Palutena ",
+                "Wake as everyone "
+            ],
+            "content":"<div class=\"\"><div> <span>You click the body swap and life relationship swap \u201cok Samus you ready?\u201d You ask \u201cstart when your ready\u201d she responds To which you throw her on the bed and make out then slowly after preparing you go on in and you hear Samus moan in pleasure but so do the girls as they come back in \u201caww no far you just wanted pit to your self didn\u2019t you Samus?\u201d They ask \u201c no \u201c Samus responds while moaning as suddenly you are grabbed by Zelda who moans as soon as you start then peach grabs you and again the same but you are building up and reaching your limit since you have never done this before as soon as Palutena (Samus) grabs you and while entering you can\u2019t contain it anymore and neither can any of the girls as you all cum and you go and possess Samus (Palutena\u201d) and life swap with Palutena (Samus) to set things back and then swap life\u2019s and relationships to become Palutena and then suddenly pit is on top of you and is cumming  again which makes you cum And pass out </span></div></div>",
+            "created":1595739600,
+            "id":2875502,
+            "title":"Have sex with Palutena as pit "
+        },
+        "15213112211112":{
+            "author_id":"at394131",
+            "author_name":"Soulgrim",
+            "choices":[
+                "Continue ",
+                "Stop"
+            ],
+            "content":"<div class=\"\"><div> <span>Ok hold on you tell Palutena as you press the body swap button then the life swap when you do you are suddenly practicing new moves and you see Palutena talking to your old body you point the remote at your old body and hit the relationship swap and suddenly pit walks off and Palutena walks over to you and says \u201chey Samus\u201d with a joking smile on her face \u201c haha very funny\u201c  you Say getting used to your new voice \u201c ok let\u2019s head back to the couples room\u201d Palutena said while you are walking over you can feel your breasts bouncing with ever step you finally arrive and put the remote in a lock box before going and laying down Palutena soon joins you and you can feel your breasts pushing against each other which makes you of quietly  Moan as you start making out which feels amazing as you both start getting closer and closer and start groping each other this continues for several minutes then Palutena asks if you want to switch bodies and unlocks the lock box \u201csure\u201d Palutena press mode 2 and  then suddenly your standing holding the remote in your hands and see Samus laying on the bed with lust in her eyes you go and put the remote back and then get on top of Samus (Palutena) but she immediately flips you around and starts to kiss you and presses against your body And starts to grope you  you start to grope her back but your new body was so much more sensitive \u201c so you ever pleasure your self Palutena?\u201d You ask breathing hard \u201cNo a goddess would never do such things\u201d She responds \u201cwell It feels really weird but also good\u201d you say\u201dwell that\u2019s great I\u2019m happy you get to feel how I felt\u201d she responds as she takes your dress off and her orange sports bra and shorts when your bare breasts press against each other you scream in pleasure </span></div></div>",
+            "created":1595739600,
+            "id":2875482,
+            "title":"Become Samus "
+        },
+        "1521311221112":{
+            "author_id":"at394131",
+            "author_name":"Soulgrim",
+            "choices":[
+                "Let\u2019s continue ",
+                "Let\u2019s see what we can do with the remote "
+            ],
+            "content":"<div class=\"\"><div> <span>\u201cCome on let\u2019s keep this between us and just swap with each other\u201d you say \u201c fine pit\u201d Lady Palutena responds you then switch to swap mode 2 and then are suddenly on the bed after pressing the body and life swap you can feel a huge weight on your chest you look down to see Palutena dress containing her boobs as your about to touch them you hear your old body \u201c wow I thought it was a joke but now I\u2019m you \u201c \u201c well of course\u201d you whisper not used to your new voice \u201c so should we continue or me use this remote to have some fun?\u201d Palutena asks </span></div></div>",
+            "created":1595739600,
+            "id":2875647,
+            "title":"Why don\u2019t we just swap"
+        },
+        "152131122112":{
+            "author_id":"at394131",
+            "author_name":"Soulgrim",
+            "choices":[
+                "Yes please ",
+                "I need a break "
+            ],
+            "content":"<div class=\"\"><div> <span>You want to keep this amazingly magical device to your self because Palutena might get mad if I tell her about it plus it might make this less fun as you grab the remote while Palutena is catching her breath so she doesn\u2019t see the remote.<br>\r\nYou press the body swap button and then when you press the life swap button you are suddenly out of breath as soon you catch your breath you quickly hide the remote under the bed but Pit \u201cPalutena\u201d asks what it is but you cut him \u201cher\u201d off by starting to kiss her she quickly forgets and starts to kiss you back very passionately god this feels so much better as Palutena and I guess you old body got a little to crazy as she starts to grope your breasts and these new feels over take you as you start taking pits clothes off And pit starts to take off yours but you quickly yell \u201cWait!!\u201d Pit looks kind of scared \u201c what was I doing I\u2019m sorry Lady Palutena I kind of lost myself \u201c after catching your breath you say \u201cit\u2019s ok pit I also got to intoxicated by my emotions \u201c you forgot that you were Palutena for a second and were shocked by your new voice \u201c but that felt amazing\u201d both you and Palutena say in unison \u201cshould we continue?\u201d You ask and pit \u201cPalutena\u201d says</span></div></div>",
+            "created":1595739600,
+            "id":2875413,
+            "title":"Swap with Palutena unaware "
+        },
+        "15213112212":{
+            "author_id":"at394131",
+            "author_name":"Soulgrim",
+            "choices":[
+                "Body and clothes swap with a female  ",
+                "Body and cloths swap Palutena with a male"
+            ],
+            "content":"<div class=\"\"><div> <span>FXF means female X female and MXM means male X male so Zelda with Palutena or link and pit but it can be any female with Palutena or any male with pit but you can also be Palutena with any female Or you can be any male with pit you can even do a life swap if you want</span></div></div>",
+            "created":1595739600,
+            "id":2875359,
+            "title":"Do some more swaps to make things more interest..."
+        },
+        "152131122121":{
+            "author_id":"at394131",
+            "author_name":"Soulgrim",
+            "choices":[
+                "Zelda her body and her  clothes/life  or Palutena\u2019s body and life ",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><div> <span>So you want Zelda\u2019s body and clothes/life If you do a life swap you also have to swap relationships again to still be with Palutena or someone else your still gonna have to look for the other people but they should either be in the library, gym, garden, fighting ring, common area, or the cafeteria  </span></div></div>",
+            "created":1595739600,
+            "id":2875379,
+            "title":"Body and clothes swap with a female  "
         },
         "152132":{
             "author_id":"le_swappr",
@@ -18327,8 +18760,8 @@
         "description":"<td align=\"left\" class=\"norm\"><b>What is this story?</b><br>\r\nFans of swapping fiction may be familiar with a usual technique used to instigate the swaps, being a futuristic remote of sorts. Such a remote is the main plot point of the story, however now this remote is coming to the world of Super Smash Bros for Wii U and Nintendo 3DS. How such a remote arrives in this world will be explained in the first chapter.<br>\r\n<br>\r\nPlease note that this story is based on Super Smash Bros for Wii U and Nintendo 3DS, and as such, will not make reference to future installments. For example, although Ridley has become playable in Super Smash Bros Ultimate, he will still be treated as just a boss character in this story.<br>\r\n<br>\r\n<b>Rules</b><br>\r\n1. No cursing. This is set in the world of a kids game after all.<br>\r\n2. Sex can be had, but don't describe the intimate details.<br>\r\n3. Please don't use characters who have not yet been confirmed for Super Smash Bros for Wii U and Nintendo 3DS. You can use any playable characters, assist trophies, pokeball pokemon, etc. but if it has yet to be confirmed for the latest game in the series, it is treated as not yet having come to the tournament grounds.<br>\r\n4. Do not give the remote new features. Do not make it swap two people who aren't the user. Do not make it swap partially (e.g. lower body instead of full body). Do not make it alter the users personality because of a swap.<br>\r\n5. After the first chapter, please use 2nd person. (e.g. \"You aimed the remote at Mario and pressed the button\") I will be more lenient with this rule if the chapter is actually good, but please do try to stick to 2nd person.<br>\r\n6. Don't overuse chapters that are merely a \"more options\" chapter. It is being used at the start to select the main character, and it's fine to use it to select one of the 6 swap options, but don't spend, like, 10 chapters just deciding who's around a corner.<br>\r\n7. Characters may have a slightly different personality to canon for the sake of the story and the setting of Smash Bros, but don't change them drastically (e.g. psycho killer Villager will not be accepted).<br>\r\n8. Follow the continuity. If a character has found the remote and seen their target in a previous chapter, don't make them find the remote and see their target in the next chapter as well. These chapters are supposed to be happening in chronological order. Also take into account not just the previous chapter, but any chapters before that. (E.g. If a chapter claims Fox's roommate is Pit, then don't change who his roommate is later.). That said, because of the branching nature of the story, different branches may have different continuities. Follow the continuity of the branch you are adding to. (E.g. If a chapter claims that Captain Falcon and Samus are dating, but you're adding to a branch where Samus has been stated to be single, then Samus should be single in your chapter.)<br>\r\nIf a chapter breaks these rules, I will not hesitate to delete it, and you will be notified as to why your chapter was deleted.<br>\r\n<br>\r\n<b>The Remote</b><br>\r\nThe remote is similar in size and shape to an iPhone, but instead of a touch screen it is a grey metal box with buttons on the top. The buttons for swaps are red, while the swap mode buttons are yellow. There is also a secret panel on the back that can be removed to reveal a few extra buttons, but the panel is hidden very well and will most likely not be found unless the remote is carefully analysed with the utmost care. The secrets are not ever mentioned in the instruction booklet, which came in the package with the remote. Regardless of the swap used, the remote will always stay with the user. (e.g. If you use a Life Swap, you'll end up in the targets life exactly where they were, except that you'll still have the remote in your hand.) Regardless of the swap used, it will always be the user and the target that are the swaps, i.e. the remote is incapable of swapping two targets that don't include the user. The user, and the one affected by the swap, is the person who presses the button, but other characters can also be aware of the swaps regardless of the mode if they hold onto the remote while the swap occurs. Swaps will happen almost instantaneously and will give no indication that something is happening, such as a light or sound.<br>\r\n<br>\r\n<i>Swap Buttons</i><br>\r\nBody Swap - Button is labelled by a man's sillouette (similar to what you'd see indicating the men's restroom). This button will swap the physical body of the target with that of the user. The swapees will retain their original lives and clothing, only their bodies will be swapped.<br>\r\nHead Swap - Button is labelled by a side on sillouette of a face. This button will swap the head of the target with that of the user. The swapees will retain their original lives, as well as anything they wore on their head, but anything held with their body such and clothes and weapons will remain with the body, and thus be given to the other person. Unlike most swaps where the swapees stay in place, in this swap the heads travel to their new bodies, and reality will adjust for this provided the right mode is set (e.g. Mario is talking to Peach when Luigi head swaps with Peach. Mario will think he has been having a conversation with Luigi the whole time.). They will also gain any skills that would be required for their new body, such as putting on a bra or walking in heels.<br>\r\nClothes Swap - Button is labelled by a sillouette of a t-shirt and pants. This button will swap the clothing of the target with that of the user. Swapped clothing includes jewelery, piercings, tattoos (not that I know of any Smash Bros characters who them them), makeup, and weapons. All clothing the character owns will be swapped, not just that which they are wearing. They will also gain any skills that would be required for their new clothing, such as putting on makeup or fighting using a sword.<br>\r\nLife Swap - Button is labelled by a hollow man's sillouette. This button will swap the life of the target with that of the user. While on swap mode 1 or 2, this will cause everyone (or everyone except the target) to believe that the swapees are eachother. They will essentially be the other person only they will retain their own bodies, but no one is aware of that fact. This means that characters will refer to them by the name of the life they currently occupy (although feel free to refer to them as the original character during narration if you don't want it to get too confusing), and they will have will have the clothes, skills, and relationships that match the life they are occupying.. If the swap mode is set to 3, they will gain eachother's clothes and skills, and any physical evidence of their name or relationships will be changed to match the other person. Since everyone is aware of the swap, they will still treat the swapees as if they are themselves, but they may feel weird when treating them by their original names or acting upon original relationships.<br>\r\nRelationship Swap - Button is labelled by the sillouette of two hands holding eachother. This button will swap the relationships of the target with that of the user. Relationships include freindship, romance, rivalry, etc. While on swap mode 1 or 2, people will treat the swapees as they would the other person, but they still know that it's the original person. Any physical evidence of said relationships (e.g. letters from one person to another) will be transfered between the swapees. While on swap mode 3, only physical evidence will be swapped, but people may feel weird when acting upon original relationships. In order to adjust for relationships since most of the characters come from different worlds, if someone swaps relationships with someone from another world (game), adjustments will be made for them to live in that world. (E.g. Link swaps relationships with Mario, Link is now a citizen of the Mushroom Kingdom and uses the mushroom logo in the tournament.)<br>\r\nGender Swap - Button is labelled by the symbols for male and female interlocking. This button will swap the gender of the target with that of the user. The swapees will keep their original clothing, life, weapons, etc., but everything will adjust as if they were born the opposite gender (provided it is a swap between a male and a female). The level of masculinity or femininity of the swapees will also affect the outcome (For instance, a male would end up as a more feminine female if he swapped with Peach as opposed to if he swapped with Samus.). If the swapees are the same gender, only the level of femininity or masculinity will be swapped.<br>\r\n<br>\r\n<i>Mode Buttons</i><br>\r\nAll mode buttons are labelled by their number.<br>\r\nSwap Mode 1 - In this mode, only the user, and anyone else holding the remote will be aware of the swaps. Everyone else, including the target, will treat the swaps as if they are completely normal. This is the mode set by default.<br>\r\nSwap Mode 2 - In this mode, only the user, the target, and anyone else holding the remote will be aware of the swaps. Everyone else will treats the swaps as if they are normal. Targets will only be aware of swaps they are a part of. (e.g. Mario swaps clothes with Peach, then swaps clothes with Luigi. Peach will believe Mario is still wearing her clothes, while Luigi will believe he is now wearing Mario's clothes.)<br>\r\nSwap Mode 3 - In this mode, everyone is completely aware of the swaps. Any swaps that wouldn't make sense with people being aware, such as LIfe and Relationship, are explained withing the description of the swap.<br>\r\n<br>\r\n<i>Secret Buttons</i><br>\r\nThese buttons are all hidden under the secret panel, and are not explained within the manual.<br>\r\nUndo - A small blue button that will undo the last swap. Handy if the person you swapped with (and want to swap back with) is not around for you to swap with.<br>\r\nReset - A small red button. This will reverse all swaps up to the set position. If not position is set, then everything will just return to normal.<br>\r\nSet - A small yellow button. This will set a position for the reset to reverse to. If reset is pressed after set, only swaps that occur after pressing set will be reversed. (e.g. from the Swap Mode 2 example, if Mario pressed set after swapping with Peach, then pressed reset after swapping with Luigi, he would only reverse the swap with Luigi.)<br>\r\nScramble - A small green button. This will select one type of swap, and then perform that type of swap randomly on everyone in the close vicinity.<br>\r\nAware - A small orange button. This will cause the person the remote is pointed at to be aware of any swaps that have happened, and any that will happen later. If this feature is used on someone who is set to unaware, they will return to normal awareness dictated by the mode.<br>\r\nUnaware - A small purple button. This will cause the person the remote is pointed at to be unaware of any swaps that have happened, and any that will happen later, regardless of what mode the remote is set to. If this feature is used on someone who is set to aware, they will return to normal awareness dictated by the mode.<br>\r\n<br>\r\n<b>Setting</b><br>\r\nThe Super Smash Bros tournament is a tournament held by the brothers, Master Hand and Crazy Hand. They gather fighters from all throughout the galaxy, with a few handpicked from outside of their own galaxy. The grounds for the tournament have been built floating in outer space, with a colossal dome over the top to keep the air in. At the moment, the fighters are merely training and preparing for the tournament. Even though they all want to win, most of the competitors have made friends with eachother. Even the villains put aside their differences... to an extent. At the very least, they don't engage the heroes in combat whenever they see them. There are living quarters with each character's room (every room is shared between 2 characters. Olimar will always share a room with someone who doesn't need oxygen so he can have the oxygen drained out of his room. That way he doesn't always have to wear the space suit.), a cafeteria, rooms for leisure activities, and a gym. However most of the tournament grounds is taken up by the large stadiums where the battles will actually take place, and where most of the characters prefer to do their training.<br>\r\n<br>\r\nSo that's the basics for the story, sorry if it was a bit long. But now, enjoy. Oh, and feel free to add chapters. I won't be writing the whole story myself.</td>",
         "id":1958305,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1593503340,
-        "modified":1593503340,
+        "last_full_update":1595845020,
+        "modified":1595845020,
         "pretty_title":"Super Smash Bros - The Swapping Remote"
     }
 }

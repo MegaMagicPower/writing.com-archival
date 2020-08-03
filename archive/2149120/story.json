@@ -1171,6 +1171,44 @@
             "created":1579755600,
             "id":2777354,
             "title":"More choice."
+        },
+        "155":{
+            "author_id":"leon_wolf",
+            "author_name":"Leon Wolf",
+            "choices":[
+                "Morgana Grimm",
+                "Ethan Wild",
+                "More names"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Any of these names catch your fancy?</span></div></span></div>",
+            "created":1595739600,
+            "id":2875258,
+            "title":"More choices (custom name)"
+        },
+        "1551":{
+            "author_id":"leon_wolf",
+            "author_name":"Leon Wolf",
+            "choices":[
+                "Grocery Store",
+                "Line Cook",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>You are Morgana Grimm, a twenty-five year old who while you graduated college with a Bachelor's have not had much luck in your degree field. Needing a job, any job would suffice, to help your mom (whom you had to move back in with) with the bills. <br>\r\n<br>\r\nIt was a long a grueling interview process but you had a job. Your first day was today. <br>\r\n<br>\r\nClad in your green work shirt, a pair of jeans, black non slip boots and the tan baseball cap, you were ready. You tied your lavender hair back in a ponytail and entered the workplace.</span></div></div>",
+            "created":1595739600,
+            "id":2875260,
+            "title":"Morgana Grimm"
+        },
+        "15511":{
+            "author_id":"leon_wolf",
+            "author_name":"Leon Wolf",
+            "choices":[
+                "Continue (slow build up)",
+                "Continue (fast build up/time skip)"
+            ],
+            "content":"<div class=\"\"><div> <span>As you entered Roots, the newest grocery store to your town, you weren't sure what to expect. Thankfully you were able to badge in and start your shift without no difficulties. Let's get specific here, you work in the deli department. Since you had no previous food or retail experience, you were making just above minimum wage. <br>\r\n<br>\r\nMany days went by and it seemed like nothing exciting would every happen. How wrong you were.<br>\r\n<br>\r\nYour coworkers were an odd bunch. There was Jaren, he was in his late thirties and he was quickly becoming your best friend at work. Kadence was another one you talked to a lot, she was in her fifties. Dani, your assistant manager, was constantly encouraging you and trying to \"groom\" you into being a stand out employee. Most everyone else did not talk to you, except for Serra, your manager. You could never explain it, but there was always an aura that made you nervous around her. Yes, she was your manager, but she always felt unapproachable. </span></div></div>",
+            "created":1595739600,
+            "id":2875265,
+            "title":"Grocery Store"
         }
     },
     "info":{
@@ -1181,8 +1219,8 @@
         "description":"<td align=\"left\" class=\"norm\">After months of search, and nearly broken, you've finally found a new job and the peace of mind you were looking for.<br>\r\nBut it's that it?<br>\r\n<br>\r\nSomeone says that a job can changes your life and how you see things, but what if your ideal place of work changes you more or less permanently in a way you could not think possible?<br>\r\n<br>\r\nIspired by a previous interactive story, let your mind space out and your hands move on the keyboard to let us know what would you imagine.<br>\r\n<br>\r\n----------------------------------------------------------------------------------<br>\r\n<br>\r\nRULES:<br>\r\n<br>\r\n1.) We do not talk about this interactive story.<br>\r\n<br>\r\n2.) We do not talk about this interactive story.<br>\r\n<br>\r\n3.) Keep spelling and grammar in check as best as you can.<br>\r\n<br>\r\n4.) Try not to make the chapters only a sentence or two long unless it's a choice chapter.<br>\r\n<br>\r\n5.) No limits, but do not kill. The world is already cruel. At least let's imagine something good for once.</td>",
         "id":2149120,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1584021540,
-        "modified":1584021540,
+        "last_full_update":1595741640,
+        "modified":1595741640,
         "pretty_title":"Can a job change your life?"
     }
 }

@@ -267,6 +267,57 @@
             "id":2429930,
             "title":"Change something about the original book"
         },
+        "115331121":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Mona",
+                "a girl from one of the other books is the protagonist",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>could the female protagonist we switch to in the cuckoo clock of doom be Michael's crush Mona?</span></div></span></div>",
+            "created":1595739600,
+            "id":2875624,
+            "title":"Switch to a female protagonist"
+        },
+        "1153311211":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Sure.",
+                "Hmm, anything else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is she effected by the clock in some way?</span></div></span></div>",
+            "created":1595739600,
+            "id":2875735,
+            "title":"Mona"
+        },
+        "1153311212":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Hannah in The Ghost Next Door.",
+                "Any others we can remember."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Not bad. Hmm, is it Carly, if that's how the name was spelled, in The Haunted Mask?</span></div></span></div>",
+            "created":1595739600,
+            "id":2875738,
+            "title":"a girl from one of the other books is the prota..."
+        },
+        "115331122":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "13",
+                "15",
+                "Other ages."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What age will the person be here?</span></div></span></div>",
+            "created":1595739600,
+            "id":2875739,
+            "title":"Switch to a protagonist older than twelve"
+        },
         "115333":{
             "author_id":"supermario5",
             "author_name":"Brown",
@@ -1965,6 +2016,19 @@
             "id":1933002,
             "title":"HorrorLand series"
         },
+        "151":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Yes, yes I want horrorland",
+                "goosebumps most wanted",
+                "another goosebumps series"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>I know what the option says, but with more goosebumps series books out now are you really sure this is what you want?</span></div></span></div>",
+            "created":1595739600,
+            "id":2875578,
+            "title":"Horrorland I said!"
+        },
         "152":{
             "author_id":"supermario5",
             "author_name":"Brown",
@@ -1999,8 +2063,8 @@
         "description":"<td align=\"left\" class=\"norm\">Here you can add onto existing stories set in the Goosebumps universe the original or HorrorLand version continuing onto  certain cliffhangers at the end of various books or adding entirely new stories of your own or characters while you're practically free to add anything other than strong sexual stuff and is written in 2nd format. You can also add the usual stuff shrink/growing or weight gain etc.</td>",
         "id":2026032,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1581212400,
-        "modified":1581212400,
+        "last_full_update":1595807880,
+        "modified":1595807880,
         "pretty_title":"Goosebumps interactive "
     }
 }

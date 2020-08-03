@@ -1700,6 +1700,43 @@
             "id":1040731,
             "title":"A Coin?"
         },
+        "15213222221":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Silver coin",
+                "Gold coin"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of coin?</span></div></span></div>",
+            "created":1595566800,
+            "id":2874391,
+            "title":"Yes"
+        },
+        "152132222211":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Flip the coin",
+                "Put it in her pocket",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>After digging for a while, she spotted something partially buried, glinting in the sunlight.<br>\r\n<br>\r\n\"Hm? What's this?\" she said, as she uncovered and wiped away the sand from it.<br>\r\n<br>\r\nIt was a silver coin! But what was etched on both sides of it were quite puzzling. One side had the word AGE while the other had an arrow pointing upwards. Still it was a pretty neat looking coin despite it's needless value.<br>\r\n<br>\r\nShe then decided to...</span></div></div>",
+            "created":1595826000,
+            "id":2875952,
+            "title":"Coin-Age"
+        },
+        "1521322222113":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Makes a wish on the coin",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She then decided to...</span></div></span></div>",
+            "created":1595998800,
+            "id":2878020,
+            "title":"Make a wish?"
+        },
         "15213222222":{
             "author_id":"adventchild",
             "author_name":"AdventChild",
@@ -1772,6 +1809,18 @@
             "created":1531112400,
             "id":2516929,
             "title":"Two piece"
+        },
+        "15213222222222123":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "She feels funny and starts aging/growing",
+                "Nothing happens yet (gradual growth)"
+            ],
+            "content":"<div class=\"\"><div> <span>After digging for a while, her plastic shovel uncovered something odd as a yellow strap stick from the sand. She pulled on it hard and wiped away most of the sand, revealing it to be a bikini top. Right underneath it, the bikini bottom lied partially buried as well. <br>\r\n<br>\r\nShe looked at the yellow bathing suit with some confusion on how anyone could bury and loose such a thing. And that it looks almost brand new despite the fact. Yet with childlike curiosity she did wondered what it felt like wearing an adult size bikini like this esp. with cups that looked almost bigger than Ms. Rouge's.<br>\r\n<br>\r\nPeeping out of the hole, she glanced over to her mom on their spot to see her sleeping with a magazine on her lap. Cream decided to take her time to try out the bikini in the restroom showers as she got out and headed towards the small blue painted building. She went into the ladies room where the walls and ceiling were colored white while the floor had brown sand tracked tiles. The left side had sinks while the right side had split between toilet stalls and shower stalls with plastic red curtains.<br>\r\n<br>\r\nShe went into a shower stall, drawing the curtain close behind her. She stripped out of the current swimsuit and slipped into the yellow one which clearly was too big for esp. with the cups barely covering her flat chest. She sighed, always wanting to know what was like to be an adult.<br>\r\n<br>\r\nWhat happens next? </span></div></div>",
+            "created":1595998800,
+            "id":2877682,
+            "title":"Yellow"
         },
         "1522":{
             "author_id":"adventchild",
@@ -5074,8 +5123,8 @@
         "description":"<td align=\"left\" class=\"norm\">Select a scenario where Cream ages herself and add what happens from there. There is no age limit.<br>\r\n<br>\r\nRules:<br>\r\n<br>\r\n1. Anything goes except for scat and watersports and WG.<br>\r\n2. Sex is allowed. No gay/lesbianism and no killing off characters.<br>\r\n3. AR is allowed if you want to reset her age - age 6. You can regress her to baby or toddler, but not for too long since this is AP focused.<br>\r\n4. Any other Sonic char can join, but Cream's the main focus.<br>\r\n5. Have fun!<br>\r\n<br>\r\nSonic and chars rightfully belong to Sonic Team and Sega.</td>",
         "id":1664770,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1583776680,
-        "modified":1583776680,
+        "last_full_update":1596072540,
+        "modified":1596072540,
         "pretty_title":"Aging Cream"
     }
 }

@@ -1888,6 +1888,19 @@
             "id":2675825,
             "title":"admit to being a virgin"
         },
+        "12531111":{
+            "author_id":"deverx",
+            "author_name":"SWLatina",
+            "choices":[
+                "The King and Ten",
+                "The King and Nine",
+                "The Ten, Six and Three"
+            ],
+            "content":"<div class=\"\"><div> <span>In \"real\" poker, you can't turn all your cards in, and you'd get laughed at if you even suggested it.<br>\r\n<br>\r\nBut this isn't real poker, and you're ambition isn't drawing the winning hand, it's avoiding the losing one.<br>\r\n<br>\r\nNevertheless, you regret tossing all your cards in when you see your new hand.<br>\r\n<br>\r\nYour New Hand: A(S) Q(S) 7(C) 3(H) 2(D)<br>\r\n<br>\r\nAs luck would have it, the next lowest hand is Juliet's, with an Ace-King high. She gives you a sympathetic smile as you take off your baseball cap, before the next hand is dealt.<br>\r\n<br>\r\n================<br>\r\n<br>\r\nYour cards: K(H) 10(C) 9(H) 6(G) 3(C)<br>\r\n<br>\r\nClothing count:<br>\r\n<br>\r\nPlayer: <span style=\"text-decoration:line-through\">Baseball cap</span>, jacket, sneakers, socks, t-shirt, jeans, boxer shorts.<br>\r\nJill: Gloves, <span style=\"text-decoration:line-through\">shoes and socks</span>, blue top, pants, black tank top, bra, panties.<br>\r\nJuliet: Bracelets and leg warmers, shoes, skirt, hair scrunchies, stockings, cheerleader top, purple thong.<br>\r\nClaire: Gloves, boots and socks, vest, short t-shirt, jeans, bra, panties.<br>\r\nAnnie: <span style=\"text-decoration:line-through\">Gloves</span>, jacket, boots, stockings, skirt, yellow top, panties.<br>\r\n<br>\r\nYou Keep<br>\r\n<br>\r\n</span></div></div>",
+            "created":1595998800,
+            "id":2878018,
+            "title":"nothing (turn all your cards in)"
+        },
         "12531112":{
             "author_id":"deverx",
             "author_name":"SWLatina",
@@ -1939,6 +1952,18 @@
             "created":1594184400,
             "id":2864003,
             "title":"The Ace and King"
+        },
+        "125311132":{
+            "author_id":"deverx",
+            "author_name":"SWLatina",
+            "choices":[
+                "The Kings",
+                "The Kings and the Queen"
+            ],
+            "content":"<div class=\"\"><div> <span>You pull the nine of clubs, the five of hearts and the three clubs. <br>\r\n<br>\r\nIt wasn't a great hand, but at least you didn't have the low hand. That honor went to Juliet. With a smile, she took the scrunchies out of her hair and shook it out.<br>\r\n<br>\r\nYou're happy that you're not the one losing, but with the side bet in place, you really, <b>really</b> want to win at least one hand. Trying not to appear desperate, you hope the next hand is the one that lets you win your first side bet.<br>\r\n<br>\r\n---------------------------------------------------------------------<br>\r\n<br>\r\nYour Cards: K(C), K(D), Q(S), 9(H), 3(H)<br>\r\n<br>\r\nClothing Count:<br>\r\n<br>\r\nPlayer: Baseball cap, jacket, sneakers, socks, t-shirt, jeans, boxer shorts.<br>\r\nJill: <span style=\"text-decoration:line-through\">Gloves</span>, <i>shoes and socks</i>, blue top, pants, black tank top, bra, panties.<br>\r\nJuliet: Bracelets and leg warmers, shoes, skirt, <span style=\"text-decoration:line-through\">hair scrunchies</span>, stockings, cheerleader top, purple thong.<br>\r\nClaire: Gloves, boots and socks, vest, short t-shirt, jeans, bra, panties.<br>\r\nAnnie: <span style=\"text-decoration:line-through\">Gloves</span>, jacket, boots, stockings, skirt, yellow top, panties.<br>\r\n<br>\r\nYou keep</span></div></div>",
+            "created":1596258000,
+            "id":2879100,
+            "title":"The pair of twos"
         },
         "1253112":{
             "author_id":"hjeff90",
@@ -2810,7 +2835,7 @@
         "id":1979048,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
         "last_full_update":1594281840,
-        "modified":1594281840,
+        "modified":1596260760,
         "pretty_title":"Strip Poker Night at the Inventory"
     }
 }

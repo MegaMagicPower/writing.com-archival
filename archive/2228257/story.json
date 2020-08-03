@@ -1,0 +1,44 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"giantanimals",
+            "author_name":"GiantAnimals",
+            "choices":[
+                "Horse",
+                "Donkey",
+                "Mule",
+                "Mythic",
+                "Anthro/Transformation "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What species of Equine are we dealing with?<br>\r\n<br>\r\n(To keep this simple \"horse\" is for generalization plz put the horse species in their thanks)</span></div></span></div>",
+            "created":1596171600,
+            "id":2878756,
+            "title":"Equus of unusual sizes "
+        },
+        "15":{
+            "author_id":"giantanimals",
+            "author_name":"GiantAnimals",
+            "choices":[
+                "Huamn trasnfromed",
+                "Animal transformed",
+                "an anthro"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>are you a human that has transformed into an anthro?<br>\r\n<br>\r\na normal animal who transformed<br>\r\n<br>\r\nan anthro</span></div></span></div>",
+            "created":1596258000,
+            "id":2879346,
+            "title":"Anthro/Transformation "
+        }
+    },
+    "info":{
+        "author_id":"giantanimals",
+        "author_name":"GiantAnimals",
+        "brief_description":"Equines grow get hungry and eat",
+        "created":1596189660,
+        "description":"<td align=\"left\" class=\"norm\">Equines are Hoofed creatures.<br>\r\n<br>\r\nRules <br>\r\n<br>\r\n<br>\r\n1. Only Equines can grow and be Anthro.<br>\r\n<br>\r\n2. Herms are ok as long as they have a reason for them being that way.<br>\r\n<br>\r\n3. Humans can transform into any Equine you wish.<br>\r\n<br>\r\n4. Hyper is fine just try and keep it relative reasonable. Aka there dick can reach their chest and balls at knee level <br>\r\n</td>",
+        "id":2228257,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1596190740,
+        "modified":1596317400,
+        "pretty_title":"Giant Enquines "
+    }
+}

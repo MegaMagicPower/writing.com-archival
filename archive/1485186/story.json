@@ -8583,6 +8583,18 @@
             "id":2851897,
             "title":"Magic Ring?"
         },
+        "132332221212222":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Vial of liquid",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does she turn into an adult?</span></div></span></div>",
+            "created":1595912400,
+            "id":2876744,
+            "title":"Vial of Liquid?"
+        },
         "13233222122":{
             "author_id":"sizewatcher",
             "author_name":"SizeWatcher",
@@ -16885,6 +16897,33 @@
             "id":2868495,
             "title":"Emily Baer"
         },
+        "1352322222222222325":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What if Little Bear aged into an adult?</span></div></span></div>",
+            "created":1595912400,
+            "id":2876745,
+            "title":"Older Little Bear?"
+        },
+        "13523222222222223251":{
+            "author_id":"jobobo19",
+            "author_name":"carl.a.pruuitt",
+            "choices":[
+                "Wish on a star",
+                "Drink a magic water",
+                "Magic artefact",
+                "Someone use a magic spell",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How did Little Bear become an adult?</span></div></span></div>",
+            "created":1595912400,
+            "id":2876970,
+            "title":"Yes"
+        },
         "13523222222222225":{
             "author_id":"redwolf12",
             "author_name":"wolfbood",
@@ -16908,6 +16947,18 @@
             "created":1594702800,
             "id":2868205,
             "title":"As told by Ginger?"
+        },
+        "1352322222222222521":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Would an original character undergo a gender swap?</span></div></span></div>",
+            "created":1595826000,
+            "id":2876619,
+            "title":"Yes"
         },
         "1353":{
             "choices":[
@@ -17626,6 +17677,18 @@
             "created":1592197200,
             "id":2851741,
             "title":"Change the channel already!"
+        },
+        "13532122222":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What about Alvin and the Chipmunks (80s Version)?</span></div></span></div>",
+            "created":1595394000,
+            "id":2872954,
+            "title":"No"
         },
         "135322":{
             "author_id":"adventchild",
@@ -21993,8 +22056,8 @@
         "description":"<td align=\"left\" class=\"norm\">This story is your chance to make that what if you were wondering about on your favourite show, book, comic, etc happen. Please note that the interactive story is rated as such because of the free nature of a 'what if'. However here are a few guidlines that I would like you to follow. These guidelines are in place so everyone can enjoy the story.<br>\r\n<br>\r\n**1. No gay or lesbian content.**<br>\r\n<br>\r\n**2. No scenes of *EXTREME* graphically violent or hardcore sexual nature.**<br>\r\n<br>\r\n**3. Try to write at 'least' two paragraphs a chapter unless it's not supposed to be a chapter (i.e more choices)**<br>\r\n<br>\r\n**4. When writing in the 'something else' paths please put a chapter before it explaining what your chapter is about and give the option of whether or not the reader wants to follow it ('would you like to follow this story path?' option 1 - yes, option 2 -something else)**<br>\r\n<br>\r\n**5. If a game series has a live series or animated counterpart please use the animated part if the game has very little story. (i.e If using pokemon then write about the animated series and not the game because it has almost no story in comparison to the anime) <br>\r\n<br>\r\nAnyone who can make a good actual entry which is at least two paragraphs long I will award an amount of GP based on the quality of the chapter with 100Gp being the minimum Options chapters not included.<br>\r\n<br>\r\n</td>",
         "id":1485186,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1594745940,
-        "modified":1594745940,
+        "last_full_update":1595949540,
+        "modified":1595949540,
         "pretty_title":"What if?"
     }
 }

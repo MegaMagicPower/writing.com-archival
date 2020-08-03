@@ -83,6 +83,19 @@
             "id":2870233,
             "title":"I am female"
         },
+        "121":{
+            "author_id":"deverx",
+            "author_name":"SWLatina",
+            "choices":[
+                "Thief",
+                "Assassin",
+                "Pirate"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What subset of rogue are you?</span></div></span></div>",
+            "created":1595912400,
+            "id":2877009,
+            "title":"Rogue"
+        },
         "122":{
             "author_id":"deverx",
             "author_name":"SWLatina",
@@ -108,6 +121,19 @@
             "created":1595048400,
             "id":2871088,
             "title":"Druid"
+        },
+        "12232":{
+            "author_id":"deverx",
+            "author_name":"SWLatina",
+            "choices":[
+                "a unicorn",
+                "a magical emerald",
+                "a green dragon"
+            ],
+            "content":"<div class=\"\"><div> <span>At a mere five foot tall, you're used to being one of the shortest druids (if not the shortest) in the Sacred Grove. At six foot three, Ancient Tree Mother is the tallest in the order,<br>\r\n<br>\r\nThe warrior who stepped out of the shadows looks to be as twice as tall as the chief druid. You have to tilt your head back to look him in the eye. The giant looks down at you from a beard covered face, giving you an open and friendly smile.<br>\r\n<br>\r\n\"Rabgud has come to us seeking assistance, Birchvene,\" Ancient Tree Mother explained, \"And I believe you are uniquely qualified to assist.\"<br>\r\n<br>\r\nThe giant nodded enthusiastically. \"I'm in search of</span></div></div>",
+            "created":1595221200,
+            "id":2872279,
+            "title":"half giant"
         },
         "123":{
             "author_id":"deverx",
@@ -144,8 +170,8 @@
         "description":"<td align=\"left\" class=\"norm\">You were born a nobody, a measly farmer living in poverty with your parents. But even from a young age, you always dreamed of becoming a Hero. Heroes and Heroines are like the celebrities of this world, admired and loved by the public, raking in the gold and swooned over by fanboys\\girls. You swore that the day you came of age, you would join the Hero's Academy and make a name for yourself. Well, that day has arrived. Biding your parents farewell, you set out with only the clothes on your back, a small pouch of gold coins and a dagger for protection. You journey to the capital to begin your new life. <br>\r\n<br>\r\nHow This Works<br>\r\n<br>\r\nAt the end of the first chapter, you shall select your character's gender, followed by your class type and your sub-class. From there, it's all up to you where your adventures will lead you. Will you climb the ranks of the Guild and become the greatest Hero who ever lived? Or will you fail and fall into obscurity, your name forever lost to history?<br>\r\n<br>\r\nRules:<br>\r\n<br>\r\n1. This is meant to be a sort of parody of old school role-playing games like D&amp;D and things like that. Try to add some humor here and there . <br>\r\n2. If you're going to kill the main character, don't make it overly gory or descriptive. Also, let the story get to a decent length first.<br>\r\n3. All chapters are to be a minimum of 3 to 5 paragraphs long. <br>\r\n<br>\r\nI reserve the right to add or edit rules as needed. Hope you enjoy the story!</td>",
         "id":2227046,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1595090400,
-        "modified":1595090400,
+        "last_full_update":1595958060,
+        "modified":1595958060,
         "pretty_title":"So You Want To Be a Hero?"
     }
 }

@@ -2161,6 +2161,30 @@
             "id":1806643,
             "title":"male"
         },
+        "14513":{
+            "author_id":"writingempire",
+            "author_name":"writingEmpire",
+            "choices":[
+                "Continue established Storyline",
+                "New character"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Before resuming this storyline how about offering more options? Not everyone would like reading a fanfic and not have other options right? So should we continue this storyline or do a different character?</span></div></span></div>",
+            "created":1595394000,
+            "id":2873116,
+            "title":"More choices before we continue?"
+        },
+        "145132":{
+            "author_id":"writingempire",
+            "author_name":"writingEmpire",
+            "choices":[
+                "Julius the tiger who forgot his past",
+                "Different character"
+            ],
+            "content":"<div class=\"\"><div> <span>Now that we moved on to more character options here is one character.<br>\r\n<br>\r\nWaking up with no memory in a strange lab a tiger named Julius by the staff is hoping to get out. Yet the only way out of the lab is take part in an unusual competition where participants are fattened up and forced to wrestle other anthros.<br>\r\n<br>\r\nJulius has seen many people do this with a few gaining their freedom and released into civilization. Yet whatever these crazy scientists have in store could alter his life forever.</span></div></div>",
+            "created":1595394000,
+            "id":2873127,
+            "title":"New character"
+        },
         "1452":{
             "author_id":"ultraman34",
             "author_name":"joe akira",
@@ -2754,8 +2778,8 @@
         "description":"<td align=\"left\" class=\"norm\">Basicaly you are a male human turned into a furry (or anthro, whatever you feel like.) and put through various changes to your person. <br>\r\nshould you manage to escape the lab, you find the world seems to think your alterations are 'normal'.<br>\r\nReality can also be changed so that you always were a furry.</td>",
         "id":1129996,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1583505360,
-        "modified":1595275020,
+        "last_full_update":1595433720,
+        "modified":1595433720,
         "pretty_title":"anthro interactive"
     }
 }

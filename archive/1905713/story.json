@@ -2617,6 +2617,32 @@
             "id":2735253,
             "title":"Nah, too cold for me."
         },
+        "12533222221":{
+            "author_id":"mr_j",
+            "author_name":"Dragos Drakkar",
+            "choices":[
+                "A piece of Atlantean technology",
+                "Knock her out with chloroform",
+                "I subdue her through other means."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ah, the ancient stunner of a princess (and eventual queen) from an underrated movie. How do you capture the white haired beauty?</span></div></span></div>",
+            "created":1595480400,
+            "id":2873366,
+            "title":"The princess from down under"
+        },
+        "12533222222":{
+            "author_id":"mr_j",
+            "author_name":"Dragos Drakkar",
+            "choices":[
+                "Let me take Princess Jasmine.",
+                "What other princesses have you got?",
+                "Give me someone other than the Disney princesses."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Perhaps you might be more interested in Princess Jasmine from Aladdin, or would you prefer yet another Disney Princess? Or perhaps you might want someone else entirely instead?</span></div></span></div>",
+            "created":1595394000,
+            "id":2873190,
+            "title":"Another princess and a fork in the road"
+        },
         "13":{
             "author_id":"batfan94",
             "author_name":"AnimeMadness",
@@ -3087,6 +3113,18 @@
             "created":1568091600,
             "id":2716450,
             "title":"Chloe"
+        },
+        "13532222222222":{
+            "author_id":"wetnoodle420",
+            "author_name":"TheBigNoodle",
+            "choices":[
+                "Yes, crazy ladies.",
+                "No."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Someone from Higurashi: When They Cry?</span></div></span></div>",
+            "created":1595826000,
+            "id":2876335,
+            "title":"Hmm, nah, let's try other ideas."
         }
     },
     "info":{
@@ -3097,8 +3135,8 @@
         "description":"<td align=\"left\" class=\"norm\">Rules : <br>\r\n<br>\r\n1. No one sentence additions<br>\r\n2 no unbirthing, or vore, or scat<br>\r\n3 you only kidnap female heroes<br>\r\n4. Chloroform, gassing is encouraged<br>\r\n<br>\r\nOther than that go wild and have fun with your heroine!!!!!!!!!</td>",
         "id":1905713,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1594781160,
-        "modified":1594781160,
+        "last_full_update":1595874660,
+        "modified":1595874660,
         "pretty_title":"Kidnap a Heroine"
     }
 }

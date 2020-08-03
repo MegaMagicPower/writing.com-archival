@@ -1612,6 +1612,18 @@
             "id":2784689,
             "title":"Something else"
         },
+        "133123":{
+            "author_id":"jadaja",
+            "author_name":"James",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What about an wolf </span></div></span></div>",
+            "created":1595912400,
+            "id":2876696,
+            "title":"Feral options"
+        },
         "13313":{
             "author_id":"ezone_69",
             "author_name":"Ezone",
@@ -1947,6 +1959,18 @@
             "created":1584766800,
             "id":2804727,
             "title":"You have to thrive with your big stomach at work."
+        },
+        "13321221221212211":{
+            "author_id":"kocsis711",
+            "author_name":"KR711",
+            "choices":[
+                "Continue",
+                "Continue"
+            ],
+            "content":"<div class=\"\"><div> <span>You picked up the phone and called your best friend Max.<br>\r\n\"Hi dude. My parents aren't home and I thought you could come over to me if your parents let you.\" You say excitedly.<br>\r\n\"Sounds good. I'll ask them.\"<br>\r\nYou heard softly Max talking to his parents. He spoke to you again a few minutes later.<br>\r\n\"They agreed. It'll be so good! The two of us will only have the whole house.\" He spoke with growing enthusiasm.<br>\r\n\"Yeah we'll ... 'moan'\". You couldn\u2019t finish because suddenly a big foot-shaped bulge appeared on the side of your stomach.<br>\r\n\"Something happened?\" Max asked anxiously.<br>\r\n\"No, it's just my food that doesn't agree with me.\" You explain, looking at your belly resting on your lap.<br>\r\n\"Then it's good. Don't get sick now!\"<br>\r\n\"Yes, Commander.\" You answered as you saluted.<br>\r\n\"Now I'm going to pack my things.\" And he hung up.<br>\r\nYou look at your stomach and ...</span></div></div>",
+            "created":1595912400,
+            "id":2876992,
+            "title":"You invite your best friend(s)."
         },
         "13321221221212212":{
             "author_id":"tmr1941",
@@ -2594,7 +2618,7 @@
         },
         "1421111112":{
             "author_id":"hitman1996",
-            "author_name":"thehitman",
+            "author_name":"Entei211",
             "choices":[
                 "Ray",
                 "Rex"
@@ -2769,6 +2793,54 @@
             "id":2860552,
             "title":"They are anthros."
         },
+        "15521":{
+            "author_id":"jadaja",
+            "author_name":"James",
+            "choices":[
+                "Horse",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which species?</span></div></span></div>",
+            "created":1595912400,
+            "id":2876687,
+            "title":"They have animal-like feet but are bipedal with..."
+        },
+        "155211":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "Stallion",
+                "Mare"
+            ],
+            "content":"<div class=\"\"><div> <span>You are one of a herd of horses living on a human-run farm; but you and your fellow horses are not ordinary horses. You are anthro horses, horses with human-like body frames and hands. You do have the hind limbs of regular horses for legs, however, and that comes with having hooves for feet. You also have tails and the regular horse head.<br>\r\n<br>\r\nYour herd has a special arrangement with the human owners besides the regular purpose of being trained and bred for bipedal horse competition. Whenever the humans are away, the herd gains control of the farm.<br>\r\n<br>\r\nNow to describe you. Are you a stallion or a mare?</span></div></div>",
+            "created":1595912400,
+            "id":2876764,
+            "title":"Horse"
+        },
+        "1552112":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are you the alpha mare, the leader of the herd?</span></div></span></div>",
+            "created":1595912400,
+            "id":2876765,
+            "title":"Mare"
+        },
+        "155212":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You want to follow the farm dog?</span></div></span></div>",
+            "created":1596344400,
+            "id":2879708,
+            "title":"Other"
+        },
         "1553":{
             "author_id":"tpds",
             "author_name":"TPDSMCH",
@@ -2791,8 +2863,8 @@
         "description":"<td align=\"left\" class=\"norm\">You're alone on the farm and you can do anything you want! You can play with your dog, ride your horse. You can even tie yourself up in the middle of a Feld and let the animals mount you all they want! Who knows, maybe your animals can talk, or have the ability to transform into a anthro.<br>\r\n<br>\r\nThere is very little restriction on what you can write. Just have to have good grammar.<br>\r\n<br>\r\nEnjoy your time alone ;)<br>\r\n<br>\r\n<br>\r\n<br>\r\nAlso this story is just startng, so it may be changed up a bit in the future.</td>",
         "id":2113897,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1594019400,
-        "modified":1594019400,
+        "last_full_update":1595953500,
+        "modified":1596395880,
         "pretty_title":"Alone on the farm"
     }
 }

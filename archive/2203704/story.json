@@ -20,8 +20,8 @@
             "author_name":"KitCat27",
             "choices":[
                 "10 Year Old Danny",
-                "8 Year Old Derick",
-                "6 Year Old Alex",
+                "8 Year Old Noah",
+                "6 Year Old Timmy",
                 "4 Year Old Joey",
                 "Other Boys"
             ],
@@ -200,10 +200,10 @@
                 "Sister",
                 "SE"
             ],
-            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>We'll follow 6 Year old Alex, who has a little:</span></div></span></div>",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>We'll follow 6 Year old Timmy, who has a little:</span></div></span></div>",
             "created":1582088400,
             "id":2789832,
-            "title":"6 Year Old Alex"
+            "title":"6 Year Old Timmy"
         },
         "1131":{
             "author_id":"littleleo",
@@ -213,7 +213,7 @@
                 "1 Year Old",
                 "More Choices"
             ],
-            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>He has a little Brother named Nicholas, who's:</span></div></span></div>",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>He has a little Brother named Tommy, who's:</span></div></span></div>",
             "created":1582088400,
             "id":2789833,
             "title":"Brother"
@@ -770,18 +770,18 @@
             "title":"Other."
         },
         "12":{
-            "author_id":"byren",
-            "author_name":"BYron",
+            "author_id":"littleleo",
+            "author_name":"KitCat27",
             "choices":[
-                "11",
-                "12",
-                "13",
-                "14",
-                "Older?"
+                "11-Year Old Michael",
+                "13-Year Old Joseph",
+                "15-Year Old Samuel",
+                "17-Year Old Paul",
+                "More Boys"
             ],
-            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How old exactly?</span></div></span></div>",
-            "created":1577163600,
-            "id":2764041,
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Choose your Protagonist:</span></div></span></div>",
+            "created":1580187600,
+            "id":2779689,
             "title":"Boys 11-18"
         },
         "123":{
@@ -3342,7 +3342,7 @@
                 "Accept it now that everyone knows ",
                 "SE"
             ],
-            "content":"<div class=\"\"><div> <span>Wendy hears her mommy and Amy arrive home and the nothing for a couple of minutes. Suddenly her mom calls her downstairs and Wendy walks hesitantly. When she arrives in the living room, Amy is lying on the floor with her skirt up and her wet diaper in full display. Two diapers are next to her.<br>\r\n<br>\r\nWendy\u2019s daddy suddenly lifts up her skirt and reveals her diaper and says \u201cwe have two babies that need to be changed.\u201d <br>\r\n<br>\r\nDoes Wendy </span></div></div>",
+            "content":"<div class=\"\"><div> <span>Wendy hears her mommy and Amy arrive home and then nothing for a couple of minutes. Suddenly her Mommy calls her downstairs and Wendy comes hesitantly. When she arrives in the living room, Amy is lying on the floor with her skirt up and her wet diaper in full display. Two diapers are next to her.<br>\r\n<br>\r\nWendy\u2019s daddy suddenly lifts up her skirt and reveals her diaper and says \u201cwe have two babies that need to be changed.\u201d <br>\r\n<br>\r\nDoes Wendy </span></div></div>",
             "created":1582434000,
             "id":2791633,
             "title":"Mommy and Amy are Home"
@@ -4159,6 +4159,255 @@
             "id":2872067,
             "title":"Mom changes Alice into her new Pampers"
         },
+        "14122112311221111211322221222221114112":{
+            "author_id":"bloodybones1",
+            "author_name":"JT",
+            "choices":[
+                "Alice needs potty",
+                "They go home",
+                "There is more shopping to do"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Mommy can I go potty\" Julia asked their mother doing a little potty dance on the spot<br>\r\n<br>\r\n\"You certainly can my big girl\" Mom says as she walked her over to the kids toilet in the family bathroom and then helped her on it and the minute she was on the seat of the toilet she let go luckily she got on the toilet quickly<br>\r\n otherwise she would have had an accident when she was don mom praises her for making it to the potty</span></div></div>",
+            "created":1595221200,
+            "id":2872335,
+            "title":"Julia needs to potty"
+        },
+        "141221123112211112113222212222211141121":{
+            "author_id":"tidit445",
+            "author_name":"Tidit445",
+            "choices":[
+                "Wets her diaper infront of mommy and Julia ",
+                "Poops her diaper in front of mommy Julia and someone else walks in",
+                "She decides to try to hold it til she gets home",
+                "Has an accident ",
+                "Tells mommy she needs the potty"
+            ],
+            "content":"<div class=\"\"><div> <span>Alice watched as her little sister went potty like a big girl for the second time today meanwhile Alice is pulling her sweat pants over her new pampers even though you can see she has a diaper butt and the top pokes out over her waistband of her sweats. But soon as she hears her mommy cheering for Julia going potty she feels a need for the potty too. <br>\r\n<br>\r\nAlice...</span></div></div>",
+            "created":1595394000,
+            "id":2873296,
+            "title":"Alice needs potty"
+        },
+        "1412211231122111121132222122222111411213":{
+            "author_id":"bloodybones1",
+            "author_name":"JT",
+            "choices":[
+                "They go straight home",
+                "Julia wanted to go to the park",
+                "They had somewhere else to go",
+                "Readers choice"
+            ],
+            "content":"<div class=\"\"><div> <span>Alice decides to try and hold it until she gets home <i>'I am a big girl I can hold it until I get home'</i> Alice thought to herself as she pulled on her sweatpants and her mother grabbed both hers and Julia's hands leading them to the car and straps Julia into her car seat while you got into the booster seat since you weren't big enough to sit in the car without one otherwise mommy could lose her license</span></div></div>",
+            "created":1595394000,
+            "id":2873329,
+            "title":"She decides to try to hold it til she gets home"
+        },
+        "14122112311221111211322221222221114112131":{
+            "author_id":"diaperss",
+            "author_name":"diaperss",
+            "choices":[
+                "She needs to pee",
+                "She needs to poop",
+                "She needs to do both"
+            ],
+            "content":"<div class=\"\"><div> <span>Mom drives off and Alice just hopes the traffic isn't too bad, since her need to use the toilet is getting increasingly worse. At first their ride back home is going smoothly but a while later they hit a traffic jam. Alice is getting more desperate and squirms in her seat. Julia notices this and leans over to her big sister. ''Do you need to potty, big sis?'' she asks. Alice nods shyly but remains quiet.<br>\r\n<br>\r\nFinally they're moving again, but there's still a while to go until they get home. And Alice really isn't sure if she can hold it for that long. Speaking of which, what's the nature of Alice's potty emergency? </span></div></div>",
+            "created":1595480400,
+            "id":2873679,
+            "title":"They go straight home"
+        },
+        "141221123112211112113222212222211141121313":{
+            "author_id":"bloodybones1",
+            "author_name":"JT",
+            "choices":[
+                "It was just gas Alice was relieving pressure to try and avoid an accident",
+                "She messed her diaper",
+                "She messed and wet her diaper",
+                "Julia farted",
+                "It was a tire loosing air"
+            ],
+            "content":"<div class=\"\"><div> <span>Alice was squirming and fidgeting in place trying her best to hold back her need to pee and to make things worse she had to poop too she was clenching her butt cheeks as best she could trying to hold everything back like the big girl she is but after ten minutes stuck in traffic<br>\r\n<br>\r\n*PFFFFTTTT PFFFT PFFFFFFFFFFT* was heard through the car  as Alice was trying to hold back her accident</span></div></div>",
+            "created":1595566800,
+            "id":2873950,
+            "title":"She needs to do both"
+        },
+        "1412211231122111121132222122222111411213133":{
+            "author_id":"diaperss",
+            "author_name":"diaperss",
+            "choices":[
+                "Mom keeps driving home",
+                "Mom pulls over so she can change Alice",
+                "Julia needs to potty again"
+            ],
+            "content":"<div class=\"\"><div> <span>Despite her best efforts to hold it, eventually she's just no longer able to and she buries her face in her hands as she feels the back of her diaper filling up with a loud sound. And to make it worse, at the same time her bladder also gives up and in addition to going number two she also feels the front of her diaper get warm as it absorbs a big amount of pee.<br>\r\n<br>\r\n''Eww, sis went poo poo!'' Julia shouts and pinches her nose. Now...</span></div></div>",
+            "created":1595826000,
+            "id":2876205,
+            "title":"She messed and wet her diaper"
+        },
+        "14122112311221111211322221222221114112131331":{
+            "author_id":"bloodybones1",
+            "author_name":"JT",
+            "choices":[
+                "\"Why didn't you ask to go earlier\"",
+                "Mom is understanding",
+                "Mom thinks it was on purpose",
+                "Mom is concerned",
+                "Readers choice"
+            ],
+            "content":"<div class=\"\"><div> <span>\"I am sorry girls you are going to have to put up with it I cannot stop in the middle of traffic to change Alice so you are going to have to deal with the smell and I will change Alice when we get home the best thing I can do right now is wind the windows down and air the car out\" Their mother says as she uses the controls on her car to wind all the windows in the car down<br>\r\n<br>\r\n\"I am sorry mom it was an accident I tried to hold it in but it just came out\" Alice apologized for having the accident</span></div></div>",
+            "created":1595826000,
+            "id":2876251,
+            "title":"Mom keeps driving home"
+        },
+        "141221123112211112113222212222211141121313312":{
+            "author_id":"diaperss",
+            "author_name":"diaperss",
+            "choices":[
+                "Mom tells Alice to shower and get her when she's done",
+                "Mom helps Alice get cleaned up",
+                "Julia does the potty dance "
+            ],
+            "content":"<div class=\"\"><div> <span>''It's okay sweetie, accidents happen'' mom says calmly, doing her best to comfort her embarrassed daughter. After what feels like an eternity they finally pull up at their driveway and get out of the car. Alice hurries to get inside and Julia can't help giggling at the sight of her sister walking, or waddling to be exact, with a load in her pants. ''Don't laugh at your sister Julia, it's not that long ago when you were the one waddling to get changed in a loaded diaper, remember?'' mom says sternly, which silences Julia.<br>\r\n<br>\r\nWhen they get in the house...</span></div></div>",
+            "created":1595826000,
+            "id":2876265,
+            "title":"Mom is understanding"
+        },
+        "1412211231122111121132222122222111411213133123":{
+            "author_id":"bloodybones1",
+            "author_name":"JT",
+            "choices":[
+                "Julia rushed to the bathroom with mom following her",
+                "Mom takes her to the potty",
+                "Julia cannot hold it",
+                "Readers choice"
+            ],
+            "content":"<div class=\"\"><div> <span>Once they entered the house Julia started to do a potty dance needing to go the the toilet now not wanting to have an accident Julia announced\"I need to go potty\"<br>\r\n<br>\r\n\"Sorry Alice we have to delay your change so that Julia can go potty\" Mom says to Alice</span></div></div>",
+            "created":1595826000,
+            "id":2876280,
+            "title":"Julia does the potty dance "
+        },
+        "14122112311221111211322221222221114112131331233":{
+            "author_id":"diaperss",
+            "author_name":"diaperss",
+            "choices":[
+                "Mom takes both girls to get changed",
+                "Mom changes Alice first",
+                "Mom changes Julia first"
+            ],
+            "content":"<div class=\"\"><div> <span>''It's too late...'' Julia says quietly. She's still crossing her legs but everyone can hear a faint hissing sound coming from under her skirt as her accident is making it's way into her Pull Up.<br>\r\n<br>\r\n''That's okay sweetie, let's just get that wet Pull Up changed.'' mom says reassuringly. <br>\r\n<br>\r\n</span></div></div>",
+            "created":1595826000,
+            "id":2876307,
+            "title":"Julia cannot hold it"
+        },
+        "141221123112211112113222212222211141121313312333":{
+            "author_id":"bloodybones1",
+            "author_name":"JT",
+            "choices":[
+                "Alice waits to be changed",
+                "Alice decided to change herself",
+                "Julia complains of the smell of Alice's diaper",
+                "Readers choice"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Sorry Alice I am going to change Julia first given that it would be quicker and since she is the youngest she get priority\" Mom says leading the two of you to Julia's room<br>\r\n<br>\r\n\"Mom can't you change me first I have been sitting in my own waste for a while now Julia's accident was only recent\" Alice whines wanting out of her messy stinky diaper as soon as possible<br>\r\n<br>\r\n\"Julia is the youngest so she goes first and thats final, so think of this as motivation to go to the potty when you need to next time so you aren't sitting in your own mess too long\" Mom argues as she proceeded to get to changing Julia into fresh training pants<br>\r\n<br>\r\nEven though she were the one wearing a diaper this time mom still gave Julia the attention she needed before attending to her needs which only serves to further make her further jealous of her sister</span></div></div>",
+            "created":1595912400,
+            "id":2876902,
+            "title":"Mom changes Julia first"
+        },
+        "1412211231122111121132222122222111411213133123333":{
+            "author_id":"diaperss",
+            "author_name":"diaperss",
+            "choices":[
+                "Watches and comments",
+                "Watches quietly",
+                "Gives Alice some privacy and leaves "
+            ],
+            "content":"<div class=\"\"><div> <span>Alice is already feeling quite embarrassed and her mood doesn't improve when Julia pipes up ''Eww mom, it smells so bad!'' and pinches her nose. ''Watch it, I've smelled quite a few of your poopy diapers until recently, not to mention changed them'' Alice says in an angry tone. <br>\r\n<br>\r\nMom is quickly done with Julia and then tells Alice it's now her turn. Alice gets down on the floor and to a diaper changing position, while Julia...</span></div></div>",
+            "created":1595998800,
+            "id":2877642,
+            "title":"Julia complains of the smell of Alice's diaper"
+        },
+        "14122112311221111211322221222221114112131331233333":{
+            "author_id":"bloodybones1",
+            "author_name":"JT",
+            "choices":[
+                "Put Alice's clothes back on her",
+                "Leaves the room allowing Alice to put her clothes back on",
+                "Has a discussion with Alice now they are alone",
+                "Readers choice"
+            ],
+            "content":"<div class=\"\"><div> <span>Julia had her fun and got her sister back for the few times that Alice made fun or commented about her poopie diapers and was not going to stay and watch as that stinky bomb gets opened it was bad enough sealed up in the diaper so Julia leaves the room giving Alice and mom some privacy <br>\r\n<br>\r\nMom gets busy undressing you so that she can she can change you into a fresh diaper she pulled out a new Pamper diaper for Alice and untapped the tabs of the diaper revealing the damage and smell from her diaper \"You really did a good job on this diaper its a mess\" Mom commented much to Alice's further embarrassment<br>\r\n<br>\r\nMom then proceeded to wipe the privates of her eldest daughter clean then removed the messy diaper from under her then put a new one on her and lowered Alice on the fresh Pampers but some baby oil on her privates thoroughly to avoid diaper rash then puts baby powder on her too and finally proceeded to diaper her eldest daughter <br>\r\n<br>\r\nMom had Alice expertly diapered very quickly showing her experience with diapering someone that she gained from her two children with Alice diapered she proceeded to toss the folded up messy diaper into the diaper pail and</span></div></div>",
+            "created":1595998800,
+            "id":2877662,
+            "title":"Gives Alice some privacy and leaves "
+        },
+        "141221123112211112113222212222211141121313312333331":{
+            "author_id":"diaperss",
+            "author_name":"diaperss",
+            "choices":[
+                "Play with toys",
+                "Watch tv",
+                "Look at their baby pictures "
+            ],
+            "content":"<div class=\"\"><div> <span>At first mom looks like she wants to talk with Alice about something, but she just stays quiet and begins to put Alice's sweatpants and shirt back on. ''Mom, I can dress myself'' Alice complains as she's lying down and getting dressed by her mom, as if she's still a little baby.<br>\r\n<br>\r\nAlice gets up and leaves the bathroom, feeling relieved about getting that messy diaper off but also a bit embarrassed. Mom tells her to go play with Julia and keep her company. Julia wants to...</span></div></div>",
+            "created":1595998800,
+            "id":2877673,
+            "title":"Put Alice's clothes back on her"
+        },
+        "1412211231122111121132222122222111411213133123333311":{
+            "author_id":"bloodybones1",
+            "author_name":"JT",
+            "choices":[
+                "Play dress up with her dress up kit",
+                "Play with her dolls",
+                "Play with her toy tea set",
+                "Play with her toy cars",
+                "Readers choice"
+            ],
+            "content":"<div class=\"\"><div> <span>What does she want to play with, with Alice after leading her to her room now that the two of them were in clean diapers well in Alice's case and training pants in Julia's case it was still an amusing thought to Alice that just yesterday Julia was the one in diapers and you in panties or training pants at night now it was Julia in the training pants and Alice in diapers</span></div></div>",
+            "created":1595998800,
+            "id":2877689,
+            "title":"Play with toys"
+        },
+        "14122112311221111211322221222221114112131331233333112":{
+            "author_id":"diaperss",
+            "author_name":"diaperss",
+            "choices":[
+                "Alice and Julia talk about diapers",
+                "They keep playing",
+                "SE "
+            ],
+            "content":"<div class=\"\"><div> <span>Julie takes out two of her baby dolls and hands the other one to Alice. Alice sighs a little, thinking that she's starting to be a little bit too old for playing with dolls. But then again, she's wearing a diaper so does she really have a right to complain?<br>\r\n<br>\r\n''Look, the dolls are wearing diapees just like you, sis!'' Julia giggles as she's giving her doll a bottle, which is soon followed by the doll ''peeing'' into it's diaper. ''And now I'm gonna give the doll a diaper change, just like mom did with you!'' Julia grins, making Alice blush again.<br>\r\n<br>\r\n</span></div></div>",
+            "created":1595998800,
+            "id":2877698,
+            "title":"Play with her dolls"
+        },
+        "141221123112211112113222212222211141123":{
+            "author_id":"tidit445",
+            "author_name":"Tidit445",
+            "choices":[
+                "Post office ",
+                "Target",
+                "Kids R' Us ",
+                "Local shop run by a friend of mommy",
+                "The mall!"
+            ],
+            "content":"<div class=\"\"><div> <span>Now with Julia having another successful potty trip and Alice in her new pampers mommy gets the bags back together, takes her girls hands and walks them back to the car. As Julia is getting buckled into her carseat Alice buckles herself in enjoying the feeling of the crinkly warm, thick diaper but was glad to be headed home because she knew her diapers thickness was mostly hidden by her sweatpants but if you looked closely or listened for the crinkle you'd tell she's definitely diapered plus she did have a little waddle now. She was mainly just happy no one from school saw her, but that thought disappeared when mommy got back in the car and said \"Ok girls a few more stops then we will be home! Next stop is...\"</span></div></div>",
+            "created":1595394000,
+            "id":2873294,
+            "title":"There is more shopping to do"
+        },
+        "1412211231122111121132222122222111411234":{
+            "author_id":"bloodybones1",
+            "author_name":"JT",
+            "choices":[
+                "To get clothes for Alice",
+                "To get clothes for Julia",
+                "To get clothes for Alice and Julia",
+                "Readers choice"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Next stop we are going to go to a shop that is run by a friend of mine she owns a clothes shop and makes her own clothes and does make clothes to order\" Mommy says and drives to her friends shop \"Alice you know Trish she makes your clothes for you since we cannot buy teenage stuff in your size\"<br>\r\n<br>\r\nwhy are they there?</span></div></div>",
+            "created":1595394000,
+            "id":2873328,
+            "title":"Local shop run by a friend of mommy"
+        },
         "1412211231122111121132222122222112":{
             "author_id":"bloodybones1",
             "author_name":"JT",
@@ -4593,6 +4842,100 @@
             "created":1595221200,
             "id":2872026,
             "title":"Watch TV"
+        },
+        "141221123112211112113222212222212311232413211411241211":{
+            "author_id":"walkingdead1",
+            "author_name":"Walkingdead1",
+            "choices":[
+                "Get potty trained ",
+                "Get turned into babies "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Alice turns on the TV and and flips to the cartoon channel that Julia usually watches. A new episode starts and Alice remembers seeing the episode where the main characters. <br>\r\n</span></div></span></div>",
+            "created":1595739600,
+            "id":2875497,
+            "title":"Watch cartoons"
+        },
+        "1412211231122111121132222122222123112324132114112412111":{
+            "author_id":"bloodybones1",
+            "author_name":"JT",
+            "choices":[
+                "Had a accident",
+                "Pranked another character",
+                "The characters had a waterfight",
+                "Was scared of the toilet",
+                "something else"
+            ],
+            "content":"<div class=\"\"><div> <span>Alice remembered seeing the episode where the main characters were getting potty trained it made her think of her current state with amusement even the characters of this cartoon was potty trained and here she was wearing a diaper with her sister restarting her potty training after failing the first time and now her friend Kate who is potty trained was sitting with her in a diaper watching cartoons with her<br>\r\n<br>\r\nIn this new episode a character</span></div></div>",
+            "created":1595739600,
+            "id":2875506,
+            "title":"Get potty trained "
+        },
+        "14122112311221111211322221222221231123241321141124121111":{
+            "author_id":"diaperss",
+            "author_name":"diaperss",
+            "choices":[
+                "There's a diaper commercial on TV",
+                "You and Kate check each other's diapers",
+                "Julia joins you and Kate"
+            ],
+            "content":"<div class=\"\"><div> <span>You watch the episode and you both giggle when a character has an accident. ''Look, she's being put back to diapers!'' Kate grins. You and Kate really enjoy the episode and compare it to your current situation. Soon there's a commercial break and...</span></div></div>",
+            "created":1595826000,
+            "id":2876231,
+            "title":"Had a accident"
+        },
+        "141221123112211112113222212222212311232413211411241211113":{
+            "author_id":"bloodybones1",
+            "author_name":"JT",
+            "choices":[
+                "Yes",
+                "No",
+                "I haven't checked",
+                "Readers choice"
+            ],
+            "content":"<div class=\"\"><div> <span>During the commercial break you hear movement and turn to see that Julia was now up from her nap and looking for everyone she sees you and Kate Julia heads over to the two of you and sits between you and Kate while the commercials were still going on you decided to talk<br>\r\n<br>\r\n\"How was your nap Julia?\" You asked your sister<br>\r\n<br>\r\n\"It was good\" Kate relied<br>\r\n<br>\r\n\"Did you stay dry during you nap\" You ask<br>\r\n<br>\r\nHow does Julia reply?</span></div></div>",
+            "created":1595826000,
+            "id":2876274,
+            "title":"Julia joins you and Kate"
+        },
+        "1412211231122111121132222122222123112324132114112412111133":{
+            "author_id":"diaperss",
+            "author_name":"diaperss",
+            "choices":[
+                "She's just wet",
+                "She had pooped too",
+                "She's peeing right now"
+            ],
+            "content":"<div class=\"\"><div> <span>''I dunno, I haven't checked.'' she shrugs as she settles down next to you and Kate. ''Okay come here then'' you tell her. She moves over and you take a look at her diaper, noticing that she had peed in it during her nap. ''Well looks like you've peed'' you tell her. You then tell her to turn around and when she does, you pull back the waistband so you can take a peek into the back of the diaper.<br>\r\n<br>\r\nWhen you do, you see that...</span></div></div>",
+            "created":1595826000,
+            "id":2876303,
+            "title":"I haven't checked"
+        },
+        "14122112311221111211322221222221231123241321141124121111331":{
+            "author_id":"bloodybones1",
+            "author_name":"JT",
+            "choices":[
+                "She doesn't want to be changed yet",
+                "She wants to change herself",
+                "She wants to be changed by you",
+                "Readers choice"
+            ],
+            "content":"<div class=\"\"><div> <span>\"It looks like you are just wet no messy accidents this time that's an improvement little sis\" You say embarrassing Julia a little by saying that in front of her friend evident by the massive blush you saw on her face<br>\r\n<br>\r\n\"Do you want me to change you?\" You asked Julia</span></div></div>",
+            "created":1595912400,
+            "id":2876893,
+            "title":"She's just wet"
+        },
+        "141221123112211112113222212222212311232413211411241211113311":{
+            "author_id":"diaperss",
+            "author_name":"diaperss",
+            "choices":[
+                "Kate wants to check your diaper",
+                "Someone has to poop",
+                "SE"
+            ],
+            "content":"<div class=\"\"><div> <span>''Nah not yet'' Julia says, she tells you that she wants to watch cartoons with you and Kate first. ''Okay, but you can't stay in that wet diaper for too long so you don't get a rash.'' you tell her. She nods her head in acceptance and settles with you and Kate as the commercial break ends and the cartoon is back on.<br>\r\n<br>\r\nDuring the show you feel a slight need to pee but don't really feel like getting up to use the toilet. And besides, you had already went in a diaper before so it wasn't that big of a deal anymore. So you relax and release the pee into the diaper which quickly absorbs everything. You peek at your diaper and see that it had swollen a little bit and the wetness indicator had changed color, but the pee you did wasn't that big so unless they look at the wetness indicator, Julia and Kate might not even notice you just peed.<br>\r\n<br>\r\n<br>\r\n<br>\r\n</span></div></div>",
+            "created":1595998800,
+            "id":2877620,
+            "title":"She doesn't want to be changed yet"
         },
         "141221123112211112113222212222212311232413211411242":{
             "author_id":"bloodybones1",
@@ -5323,9 +5666,9 @@
             "choices":[
                 "Alice has an accident ",
                 "Alice is scared a little",
-                "Mommy forgot how tiny and adorable her big baby is"
+                "Mommy forgot how adorable her big baby is"
             ],
-            "content":"<div class=\"\"><div> <span>Alice then watched in amazement as her room changed to what appeared to be a toddler's room except for a crib instead of a toddler bed like her sister has and a changing table. <br>\r\nAlice is in awe especially when she sees herself in the mirror, the tiny girl with baby teeth, messy hair an oversized tee with mini mouse on it and a baby diaper looked more like a 2 year old than an almost 4 year old. Slice didn't think too much of how much smaller shed be than her baby sister now that they are only a year apart or so.<br>\r\n</span></div></div>",
+            "content":"<div class=\"\"><div> <span>Alice then watched in amazement as her room changed into a Toddler's room. Alice is in awe especially when she sees herself in the mirror, a tiny girl with baby teeth, messy hair, an oversized tee with mini mouse on it and a baby diaper. She giggles a bit at how cute she looks. <br>\r\n<br>\r\nWhat happens next?<br>\r\n</span></div></div>",
             "created":1578546000,
             "id":2771383,
             "title":"Transforms her Room"
@@ -5427,7 +5770,7 @@
                 "She's tucked back into bed",
                 "SE"
             ],
-            "content":"<div class=\"\"><div> <span>Alice Decides to become the same age as Julie.<br>\r\n<br>\r\nWell, on one condition, she gets to be the older twin, she still wants to be the big sister after all.<br>\r\n<br>\r\nHer Mommy giggles at her Daughter's Stipulation and nods before casting the spell.<br>\r\n<br>\r\nSoon Alice gets Smaller, but not by much since she was already small, but she still loses about a foot in height.<br>\r\n<br>\r\nBut ironically that actually puta her a little bit above average for a 3 year old.<br>\r\n<br>\r\nHer Shirt begins getting loose, but the Diaper stays magically tight to her waist.<br>\r\n<br>\r\nHer body grows pudgy from the returning baby fat.<br>\r\n<br>\r\nAnd finally her Adult Teeth painlessly retract into her gums, Baby Teeth magically Appearing in their place.<br>\r\n<br>\r\nAs the magic ends She hugs her Mommy, and says(with a bit of a lisp)<br>\r\n<br>\r\n\"I wuv you Mommy!\"<br>\r\n<br>\r\nWhat Happens Next?</span></div></div>",
+            "content":"<div class=\"\"><div> <span>Alice Decides to become the same age as Julie.<br>\r\n<br>\r\nWell, on one condition, she gets to be the older twin, she still wants to be the big sister after all.<br>\r\n<br>\r\nHer Mommy giggles at her Daughter's Stipulation and nods before casting the spell.<br>\r\n<br>\r\nSoon Alice gets Smaller, but not by much since she was already small, but she still loses about a foot in height.<br>\r\n<br>\r\nWhich ironically makes her a little bit above average for a 3 year old.<br>\r\n<br>\r\nHer Shirt begins getting loose, but the Diaper stays magically tight to her waist.<br>\r\n<br>\r\nHer body grows pudgy from the returning baby fat.<br>\r\n<br>\r\nAnd finally her Adult Teeth painlessly retract into her gums, Baby Teeth magically Appearing in their place.<br>\r\n<br>\r\nAs the magic ends She hugs her Mommy, and says(with a bit of a lisp)<br>\r\n<br>\r\n\"I wuv you Mommy!\"<br>\r\n<br>\r\nWhat Happens Next?</span></div></div>",
             "created":1587272400,
             "id":2820974,
             "title":"Twinsies"
@@ -5515,11 +5858,9 @@
             "choices":[
                 "Store tantrum resulting in a diapering!",
                 "Lucy starts faking accidents",
-                "Clara announces she is pregnant again!",
-                "She starts wearing Jenny's diapers and clothes",
-                "Lucy's other plan to curb her jealousy"
+                "Clara announces she is pregnant again!"
             ],
-            "content":"<div class=\"\"><div> <span>16 year old Lucy was not happy at all. Ever since her stepmother Clara(27) and father Greg(37) had a new baby girl together. Her life had been miserable she was her both parents center of attention and had now lost it with the arrival of her half-sister Jenny. She craved her parents attention now having lost it. It didn't help that she was on slightly taller then a toddler which made her invisible at school and resulted in her being absolutely friendless her entire life. When she lost her parents attention so lost everything in her world in her point of view.<br>\r\n<br>\r\nJealously had grown far too big within her. She was now prepared to take drastic measures to get some attention back....</span></div></div>",
+            "content":"<div class=\"\"><div> <span>16 year old Lucy was not happy at all. Ever since her stepmother Clara(27) and father Greg(37) had a new baby girl together. Her life had been miserable, she was both of her parents center of attention and had now lost it with the arrival of her half-sister Jenny. She craved her parents attention now having lost it. It didn't help that due to some Genetic Whatever she's Barely taller than a toddler, which made her invisible at school and resulted in her being absolutely friendless her entire life. When she lost her parents attention she lost everything in her world from her point of view.<br>\r\n<br>\r\nJealously had grown far too big within her. She was now prepared to take drastic measures to get some attention back....</span></div></div>",
             "created":1584334800,
             "id":2802204,
             "title":"16 year old Lucy"
@@ -8577,8 +8918,8 @@
         "description":"<td align=\"left\" class=\"norm\">Follow the Adventures of a Kid who's Jealous of their new Younger Sibling, and due to something they Regress.<br>\r\nRules: <br>\r\nFocus on Physical Age Regression and/or Kids Acting Like they're Younger.<br>\r\nOlder Kids/Teenagers should Physically Regress first, Otherwise you Must Explain how they can fit into Diapers(Such as being Small for their age etc.)<br>\r\nNo Death, Abuse, Sex, \"Fluids\" Creepy Stuff Fetishes Etc.<br>\r\nPlease avoid One-Sentence Chapters unless making a Decision.<br>\r\nHave Fun.</td>",
         "id":2203704,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":0,
-        "modified":1595264340,
+        "last_full_update":1596050400,
+        "modified":1596050400,
         "pretty_title":"Jealous Regression"
     }
 }

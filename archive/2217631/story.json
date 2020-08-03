@@ -161,6 +161,18 @@
             "id":2825279,
             "title":"A star"
         },
+        "121211112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "In a crib",
+                "Somewhere else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where did D.W. wake up the next morning?</span></div></span></div>",
+            "created":1595394000,
+            "id":2873363,
+            "title":"In her sleep"
+        },
         "12123":{
             "author_id":"johnny2",
             "author_name":"littlejohn",
@@ -259,6 +271,18 @@
             "id":2840105,
             "title":"No"
         },
+        "125122":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will D.W. still be in her mother's womb?</span></div></span></div>",
+            "created":1595480400,
+            "id":2873404,
+            "title":"Younger"
+        },
         "1252":{
             "author_id":"jobobo19",
             "author_name":"carl.a.pruuitt",
@@ -273,6 +297,104 @@
             "created":1587099600,
             "id":2820236,
             "title":"Body swap"
+        },
+        "13":{
+            "author_id":"mrhawlprime",
+            "author_name":" mrhawkprime",
+            "choices":[
+                "Age change",
+                "species change ",
+                "career change",
+                "body swap",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What is going Happen to Jane?</span></div></span></div>",
+            "created":1595394000,
+            "id":2873347,
+            "title":"Jane Read"
+        },
+        "131":{
+            "author_id":"mrhawlprime",
+            "author_name":" mrhawkprime",
+            "choices":[
+                "age regression",
+                "Age progression"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will she get younger or older.</span></div></span></div>",
+            "created":1595394000,
+            "id":2873349,
+            "title":"Age change"
+        },
+        "1311":{
+            "author_id":"mrhawlprime",
+            "author_name":" mrhawkprime",
+            "choices":[
+                "same age as Arthur (8 years old)",
+                "same age as D.W. (4-6 years old)",
+                "same age as Kate (1 years old)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How young will Jane get to be again?</span></div></span></div>",
+            "created":1595394000,
+            "id":2873350,
+            "title":"age regression"
+        },
+        "13111":{
+            "author_id":"jobobo19",
+            "author_name":"carl.a.pruuitt",
+            "choices":[
+                "By wish",
+                "By a machine",
+                "By magic",
+                "By objects",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How did Jane become same age as Arthur?</span></div></span></div>",
+            "created":1595480400,
+            "id":2873401,
+            "title":"same age as Arthur (8 years old)"
+        },
+        "134":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "DW",
+                "Kate",
+                "someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>who does Jane swap bodies with?</span></div></span></div>",
+            "created":1595739600,
+            "id":2875574,
+            "title":"body swap"
+        },
+        "1343":{
+            "author_id":"jobobo19",
+            "author_name":"carl.a.pruuitt",
+            "choices":[
+                "David",
+                "Arthur",
+                "Frencine",
+                "Muffy",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who does Jane body swap with?</span></div></span></div>",
+            "created":1595826000,
+            "id":2876361,
+            "title":"someone else"
+        },
+        "135":{
+            "author_id":"jobobo19",
+            "author_name":"carl.a.pruuitt",
+            "choices":[
+                "Her height change",
+                "She conjoined with someone",
+                "She gained muscles",
+                "She waire a diaper",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What else is going to happen to Jane?</span></div></span></div>",
+            "created":1595826000,
+            "id":2876545,
+            "title":"something else"
         },
         "15":{
             "author_id":"kameron94",
@@ -326,8 +448,8 @@
         "description":"<td align=\"left\" class=\"norm\">Play as Arthur or anyone else who get transfom.<br>\r\n<br>\r\nRules to follow.<br>\r\n<br>\r\n1. No Deaths<br>\r\n<br>\r\n2. No toilet stuff<br>\r\n<br>\r\n3. No means stuff<br>\r\n<br>\r\n4. Have fun<br>\r\n<br>\r\nThat's all and good luck.</td>",
         "id":2217631,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1590275100,
-        "modified":1590275100,
+        "last_full_update":1595889420,
+        "modified":1595889420,
         "pretty_title":"Arthur transformation story"
     }
 }

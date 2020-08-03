@@ -1655,6 +1655,18 @@
             "id":2515287,
             "title":"More Options"
         },
+        "15531":{
+            "author_id":"gpgclean",
+            "author_name":"YugiohPKMN ",
+            "choices":[
+                "I need to make a change to my own life.",
+                "I need to make a change to someone else\u2019s life."
+            ],
+            "content":"<div class=\"\"><div> <span>GAME DESIGN<br>\r\nV.2020.26.07<br>\r\n<br>\r\nNotice: Please do not engage in change battles with other GD users. You\u2019ll break space time and as we all know, that\u2019s a life sentence and overtime for some poor admin and his tablet. You\u2019ll also force us to delete the Game Design App from your mobile device.<br>\r\n\u2014\u2014\u2014-<br>\r\nWelcome, Godmode!<br>\r\nIt\u2019s me, Game Design Artificial Intellgence, or GDAI for short!<br>\r\nHow has your life been?<br>\r\nIf you booted me up, then it\u2019s probably not been so great. <br>\r\nOr maybe you\u2019re just bored, but don\u2019t worry!<br>\r\nI\u2019m here to help with that. <br>\r\nI can change anything you need in life! <br>\r\nFrom your funds to your parents to even the movie you were gonna go see!<br>\r\nThe quality of a toy, the world Goverment, even grant immunity to diseases!<br>\r\nI can even change you!<br>\r\nSo, what do you need?</span></div></div>",
+            "created":1595739600,
+            "id":2875503,
+            "title":"LOADING........"
+        },
         "15532":{
             "author_id":"nickkuroshi",
             "author_name":"Kiriko Izuyu",
@@ -1739,6 +1751,18 @@
             "created":1579410000,
             "id":2775700,
             "title":"Rise of EVIL!"
+        },
+        "15532321":{
+            "author_id":"gpgclean",
+            "author_name":"YugiohPKMN ",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><div> <span>*We swoop from an outside view of a evil tower mixed with an office building into a room with a desk and office furniture mixed up with cursed looking items.<br>\r\n<br>\r\nSo, you want to be a Evil RPG Villian, eh! Well, you\u2019re in the right place. Here, we at EGO; that\u2019s short for Evil Granting Offices; will give you a chance to become a feared, all powerful evil overlord! Or perhaps you need some evil paperwork filled so you can legally serve in a evil army? We can do that for you as well!<br>\r\n There\u2019s a forum to fill, but I need to ask your gender first. Unfortunately, there will be no other/I\u2019d rather not say option, and we\u2019re not sorry. There\u2019s plenty of ways to change your gender, anyway! Also unfortunately, you will start at Level 1 with empty skill trees...but fear not! If you\u2019re struggling, you could always serve under a more experienced villian! Evil is equal opportunity, after all!<br>\r\nFor reference, the forum is this simple beast here. <br>\r\n<span class=\"clred\">Make sure to have standards! If you\u2019re here to troll us, then get out and don\u2019t come back until you grow up!</span><br>\r\n<br>\r\nName: <span class=\"cmaroon\">This is obvious. Your desired name here. </span><br>\r\nSpecies: <span class=\"cmaroon\">What species do you want to be?</span> <br>\r\nRole: <span class=\"cmaroon\">If you were a hero, what role would take on in a party?</span><br>\r\nElement: <span class=\"cmaroon\">Real world logic applies with these. </span><br>\r\nGender: M/F <span class=\"cmaroon\">Circle desired answer.</span><br>\r\nLevel: 1 (<span class=\"cmaroon\">Editing this nulls the support we give you. You have been warned.</span><br>\r\nSkill Trees: <span class=\"cmaroon\">Up to three can be added for now, though as you rise in infamy, or train your self, you can add more</span><br>\r\nSpecial Skill: <span class=\"cmaroon\">A special ability only you have, to give you an edge against your foes.</span><br>\r\nBio: <span class=\"cmaroon\">It helps to have a bit of sob story, as it can stop some heroes from killing you and wasting your time reviving which could be spent scheming your next few plans. You don\u2019t have to, though. </span><br>\r\nBoss: <span class=\"cmaroon\">Only fill this in if you don\u2019t want to be your own boss and want to work under someone else.</span><br>\r\n<br>\r\nAnyway, are you a male aspiring overlord, or a female aspiring overlord?</span></div></div>",
+            "created":1595826000,
+            "id":2875946,
+            "title":"Create your evil Avatar!"
         },
         "15532322":{
             "author_id":"nickkuroshi",
@@ -2224,8 +2248,8 @@
         "description":"<td align=\"left\" class=\"norm\">So this is kind of a rework from the 'Learning Magic' interactive.<br>\r\n<br>\r\nOur main character's life has now been turned into an RPG in some way but, the rules are weird and never really in his favor.<br>\r\n<br>\r\nBasic Rules:<br>\r\nThe interactive is basically you making decisions for our characters, the laws of entropy and the big one: The DM-like interface that our hero has to deal with. Doing actions or using items can affect characters stats which can affect their behavior. When making up status effects for objects, they can be outrageous as you like but try have them make sense.<br>\r\n<br>\r\n-Try to stay away from making the characters into hardcore criminals: stealing is fine, but don't turn people rape or kill crazy, please.<br>\r\n<br>\r\n-Respect the pathway you are contributing to! Don't ignore events for your convience unless they have no affect on what you are trying to write.<br>\r\n<br>\r\n-Other than that.....<br>\r\n<br>\r\n<font class=\"size5\" style=\"\">GO NUTS!</font></td>",
         "id":2105644,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1589748300,
-        "modified":1589748300,
+        "last_full_update":1595831700,
+        "modified":1595831700,
         "pretty_title":"RPG Gone Wrong"
     }
 }

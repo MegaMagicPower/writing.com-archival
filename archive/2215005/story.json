@@ -54,6 +54,18 @@
             "created":1585371600,
             "id":2808842,
             "title":"Conan Edogawa"
+        },
+        "1213":{
+            "author_id":"cecil24",
+            "author_name":"NinJohn",
+            "choices":[
+                "Bring on the shrinking Hi-jinks",
+                "Other choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Professor Agasa is no stranger when it comes to inventing strange gadgets in this series before. So why not have him invent a shrink ray?</span></div></span></div>",
+            "created":1596430800,
+            "id":2880032,
+            "title":"Shrink Ray?"
         }
     },
     "info":{
@@ -65,7 +77,7 @@
         "id":2215005,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
         "last_full_update":1592186880,
-        "modified":1592186880,
+        "modified":1596448080,
         "pretty_title":"Detective Conan GTS/Shrinking"
     }
 }

@@ -1,0 +1,646 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Arnold Perlstein",
+                "Carlos Ramon ",
+                " Dorothy Ann Rourke",
+                "Keesha Franklin ",
+                "More classmates"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Welcome to My latest Interactive!<br>\r\nSelect your character for Blueberry or fruit Inflations.<br>\r\n<br>\r\n<br>\r\n</span></div></span></div>",
+            "created":1595739600,
+            "id":2875652,
+            "title":"Welcome, Class!"
+        },
+        "11":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Blueberry",
+                "Apple",
+                "Blackberry ",
+                "Cherry",
+                "Other Fruits"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have selected Arnold.<br>\r\nWhat will Arnold inflate into?</span></div></span></div>",
+            "created":1595739600,
+            "id":2875655,
+            "title":"Arnold Perlstein"
+        },
+        "111":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Reader's Choice 1",
+                "Reader's Choice 2",
+                "Reader's Choice 3",
+                "Reader's Choice 4",
+                "Other Stories choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How will Arnold inflate into a blueberry?</span></div></span></div>",
+            "created":1595739600,
+            "id":2875656,
+            "title":"Blueberry"
+        },
+        "112":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How will Arnold inflate into an apple?</span></div></span></div>",
+            "created":1595739600,
+            "id":2875657,
+            "title":"Apple"
+        },
+        "113":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How will Arnold inflate into a blackberry?</span></div></span></div>",
+            "created":1595739600,
+            "id":2875658,
+            "title":"Blackberry "
+        },
+        "114":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How will Arnold inflate into a red cherry?</span></div></span></div>",
+            "created":1595739600,
+            "id":2875659,
+            "title":"Cherry"
+        },
+        "12":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Blueberry",
+                "Apple",
+                "Blackberry ",
+                "Cherry",
+                "Other Fruits"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What fruit will Carlos inflate into?</span></div></span></div>",
+            "created":1595739600,
+            "id":2875660,
+            "title":"Carlos Ramon "
+        },
+        "121":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How will Carlos inflate into a blueberry?</span></div></span></div>",
+            "created":1595739600,
+            "id":2875661,
+            "title":"Blueberry"
+        },
+        "122":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How will Carlos inflate into an apple?</span></div></span></div>",
+            "created":1595739600,
+            "id":2875664,
+            "title":"Apple"
+        },
+        "123":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How will Carlos inflate into a blackberry?</span></div></span></div>",
+            "created":1595739600,
+            "id":2875665,
+            "title":"Blackberry "
+        },
+        "124":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does Carlos inflate into a cherry is up to you.</span></div></span></div>",
+            "created":1595739600,
+            "id":2875666,
+            "title":"Cherry"
+        },
+        "13":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Blueberry",
+                "Apple",
+                "Blackberry ",
+                "Cherry",
+                "Other Fruits"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What Fruit will Dorothy become?</span></div></span></div>",
+            "created":1595739600,
+            "id":2875668,
+            "title":" Dorothy Ann Rourke"
+        },
+        "131":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does Dorothy become a blueberry?</span></div></span></div>",
+            "created":1595739600,
+            "id":2875669,
+            "title":"Blueberry"
+        },
+        "132":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does Dorothy become an Apple of red or green?</span></div></span></div>",
+            "created":1595739600,
+            "id":2875672,
+            "title":"Apple"
+        },
+        "133":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Hows Dorothy going to become a berry of black?</span></div></span></div>",
+            "created":1595739600,
+            "id":2875673,
+            "title":"Blackberry "
+        },
+        "134":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does Dorothy get Red skin and Juice?</span></div></span></div>",
+            "created":1595739600,
+            "id":2875674,
+            "title":"Cherry"
+        },
+        "14":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Blueberry",
+                "Apple",
+                "Blackberry ",
+                "Cherry",
+                "Other Fruits"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What does Keesha Franklin become like Fruit?</span></div></span></div>",
+            "created":1595739600,
+            "id":2875675,
+            "title":"Keesha Franklin "
+        },
+        "141":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How so does Keesha become a blueberry?</span></div></span></div>",
+            "created":1595739600,
+            "id":2875676,
+            "title":"Blueberry"
+        },
+        "142":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does Keesha become an apple?</span></div></span></div>",
+            "created":1595739600,
+            "id":2875677,
+            "title":"Apple"
+        },
+        "143":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does Keesha become a blackberry?</span></div></span></div>",
+            "created":1595739600,
+            "id":2875678,
+            "title":"Blackberry "
+        },
+        "144":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does Keesha becomes a red Cherry?<br>\r\n<br>\r\n</span></div></span></div>",
+            "created":1595739600,
+            "id":2875679,
+            "title":"Cherry"
+        },
+        "15":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                " Phoebe Terese",
+                " Ralphie Tennelli",
+                "Tim Jamal ",
+                " Wanda Li",
+                "Someone Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about these students?<br>\r\n</span></div></span></div>",
+            "created":1595739600,
+            "id":2875654,
+            "title":"More classmates"
+        },
+        "151":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Blueberry",
+                "Apple",
+                "Blackberry ",
+                "Cherry",
+                "Other Fruits"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What does Phoebe inflate into?</span></div></span></div>",
+            "created":1595739600,
+            "id":2875681,
+            "title":" Phoebe Terese"
+        },
+        "1511":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does Phoebe become a berry of blue?</span></div></span></div>",
+            "created":1595739600,
+            "id":2875682,
+            "title":"Blueberry"
+        },
+        "1512":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does She become an apple?</span></div></span></div>",
+            "created":1595739600,
+            "id":2875683,
+            "title":"Apple"
+        },
+        "1513":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does Phoebe inflate into a blackberry?</span></div></span></div>",
+            "created":1595739600,
+            "id":2875684,
+            "title":"Blackberry "
+        },
+        "1514":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does She inflate into a red cherry?</span></div></span></div>",
+            "created":1595739600,
+            "id":2875685,
+            "title":"Cherry"
+        },
+        "152":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Blueberry",
+                "Apple",
+                "Blackberry ",
+                "Cherry",
+                "Other Fruits"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What fruit does Ralphie inflate into?</span></div></span></div>",
+            "created":1595739600,
+            "id":2875686,
+            "title":" Ralphie Tennelli"
+        },
+        "1521":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does He turn into a blueberry?</span></div></span></div>",
+            "created":1595739600,
+            "id":2875687,
+            "title":"Blueberry"
+        },
+        "1522":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does Ralphie become an apple?</span></div></span></div>",
+            "created":1595739600,
+            "id":2875688,
+            "title":"Apple"
+        },
+        "1523":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does Ralphie become a blackberry?</span></div></span></div>",
+            "created":1595739600,
+            "id":2875689,
+            "title":"Blackberry "
+        },
+        "1524":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does Ralphie become a red cherry?</span></div></span></div>",
+            "created":1595739600,
+            "id":2875691,
+            "title":"Cherry"
+        },
+        "153":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Blueberry",
+                "Apple",
+                "Blackberry ",
+                "Cherry",
+                "Other Fruits"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What fruit does Tim inflate into?</span></div></span></div>",
+            "created":1595739600,
+            "id":2875692,
+            "title":"Tim Jamal "
+        },
+        "1531":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does Tim inflate into a blueberry?</span></div></span></div>",
+            "created":1595739600,
+            "id":2875693,
+            "title":"Blueberry"
+        },
+        "1532":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does Tim inflate into an apple?</span></div></span></div>",
+            "created":1595739600,
+            "id":2875694,
+            "title":"Apple"
+        },
+        "1533":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does Tim become a blackberry?</span></div></span></div>",
+            "created":1595739600,
+            "id":2875696,
+            "title":"Blackberry "
+        },
+        "1534":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does Tim turn into a cherry?</span></div></span></div>",
+            "created":1595739600,
+            "id":2875698,
+            "title":"Cherry"
+        },
+        "154":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Apple",
+                "Blackberry",
+                "Blueberry",
+                "Cherry",
+                "Other Fruits"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What type of fruit does Wanda Li inflate into?</span></div></span></div>",
+            "created":1595739600,
+            "id":2875699,
+            "title":" Wanda Li"
+        },
+        "1541":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does Wanda become an apple?</span></div></span></div>",
+            "created":1595739600,
+            "id":2875700,
+            "title":"Apple"
+        },
+        "1542":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does a blackberry inflation happen on Wanda Li?</span></div></span></div>",
+            "created":1595739600,
+            "id":2875702,
+            "title":"Blackberry"
+        },
+        "1543":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does Wanda Li turn blue?</span></div></span></div>",
+            "created":1595739600,
+            "id":2875703,
+            "title":"Blueberry"
+        },
+        "1544":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does Wanda Li become a cherry red?<br>\r\n<br>\r\n</span></div></span></div>",
+            "created":1595739600,
+            "id":2875701,
+            "title":"Cherry"
+        }
+    },
+    "info":{
+        "author_id":"nicholas1998",
+        "author_name":"Nick98",
+        "brief_description":"Inflate your favorite characters from the magic school bus into Blueberries!",
+        "created":1595800020,
+        "description":"<td align=\"left\" class=\"norm\">Rules:<br>\r\n<br>\r\n1. Keep it clean.<br>\r\n2. Other type of Fruit Inflations are welcomed.<br>\r\n3. Have fun at Walkerville Elementary School with Blueberry skin and juice!</td>",
+        "id":2227858,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1595802960,
+        "modified":1595802960,
+        "pretty_title":"The Magic Blueberry School Bus Story"
+    }
+}

@@ -2833,6 +2833,54 @@
             "id":2773668,
             "title":"Welcome to Infancy"
         },
+        "132131":{
+            "author_id":"koopateen",
+            "author_name":"Koopa",
+            "choices":[
+                "Personality and/or Gender changes ",
+                "Transformation"
+            ],
+            "content":"<div class=\"\"><div> <span>The regression fluid stopped flowing through the umbilical cords, just as the program was designed to do. Sonic and Friends were now one day old infants. However there was still work to be done before being born, the Womb O' Sphere still had some programs to cycle through. What happens to our heroes now?</span></div></div>",
+            "created":1595480400,
+            "id":2873579,
+            "title":"Everything finished as intended"
+        },
+        "1321311":{
+            "author_id":"koopateen",
+            "author_name":"Koopa",
+            "choices":[
+                "Personality Changes",
+                "Gender Changes"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which one happens first?</span></div></span></div>",
+            "created":1595480400,
+            "id":2873580,
+            "title":"Personality and/or Gender changes "
+        },
+        "1321312":{
+            "author_id":"koopateen",
+            "author_name":"Koopa",
+            "choices":[
+                "Different Species",
+                "More Choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The Womb O' Sphere's programming decided that the mobians needed to be transformed into something they weren't. What will they be turned into?</span></div></span></div>",
+            "created":1595480400,
+            "id":2873582,
+            "title":"Transformation"
+        },
+        "13213122":{
+            "author_id":"koopateen",
+            "author_name":"Koopa",
+            "choices":[
+                "Zombots?!",
+                "Other Choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What does the Womb O' Sphere change Sonic and the others into?</span></div></span></div>",
+            "created":1595480400,
+            "id":2873583,
+            "title":"More Choices"
+        },
         "132132":{
             "author_id":"koopateen",
             "author_name":"Koopa",
@@ -3768,8 +3816,8 @@
         "description":"<td align=\"left\" class=\"norm\">All Right! My First Story!<br>\r\n<br>\r\nSonic, Tails, Knuckles, Amy, Cream, Silver, Blaze, and Rouge are in the baby factory from Baby Bottleneck (Porky and Daffy are NOT in it!)<br>\r\nThe Machines mistake the Group of 8 as Babies...Will they regress? Will they go through conveyor belt and get delivered to a expecting family, or will they be trapped and babied? You Decide!!!<br>\r\n<br>\r\n<br>\r\nUpdated Rules:<br>\r\n<br>\r\n1.Keep it PG-13, no sex and gore<br>\r\n2.any form of regression is acceptable<br>\r\n3.Only deaths that are acceptable are regression related ones (Example: Regressing beyond embryo)<br>\r\n4.Messing is allowed, but nothing too extreme<br>\r\n5.Othe Sonic characters like, Sally acorn, Shadow, etc. can join in the story but, make sure the main characters get spotlight too. (Please no fan characters, and No Eggman)<br>\r\n6.have fun.<br>\r\n<br>\r\n</td>",
         "id":1873797,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1594245720,
-        "modified":1594245720,
+        "last_full_update":1595517660,
+        "modified":1595517660,
         "pretty_title":"Sonic and Friends in the Baby Factory"
     }
 }

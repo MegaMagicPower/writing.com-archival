@@ -4065,6 +4065,18 @@
             "id":2808454,
             "title":"yes"
         },
+        "113111":{
+            "author_id":"luftvaffe",
+            "author_name":"Smarty",
+            "choices":[
+                "1x so yes",
+                "Others"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are you still same size maybe?</span></div></span></div>",
+            "created":1595739600,
+            "id":2875828,
+            "title":"Yes"
+        },
         "11312":{
             "choices":[
                 "Lord Prosperio Lays You in a Cradle to Leave and Find the Paperwork",
@@ -19925,6 +19937,58 @@
             "id":2865206,
             "title":"Yes"
         },
+        "1353122222222222222222222222222222222222222322222222":{
+            "author_id":"chenix",
+            "author_name":"Cool Guy",
+            "choices":[
+                "Help her out",
+                "Keep moving",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You see another woman, but she seemed locked out of a room.</span></div></span></div>",
+            "created":1596258000,
+            "id":2879241,
+            "title":"Keep going"
+        },
+        "13531222222222222222222222222222222222222223222222221":{
+            "author_id":"chenix",
+            "author_name":"Cool Guy",
+            "choices":[
+                "Scenario 1",
+                "Scenario 2",
+                "Scenario 3"
+            ],
+            "content":"<div class=\"\"><div> <span>You asked if she needed help. \"Yeah I do. I need to get into this room, but I forgot my keys in my pants.\" she said. She was in a robe, and it looked like he was going for a swim. You looked at the lock, and luckily you knew how to unlock this one without a key. After a few minutes, you were able to unlock it. \"Perfect! Thank you for your helping me back into my apartment. Come inside so that I can thank you properly.\" she said. You walked in with her, and she had to sit in a recliner in the living room. \"Give me a second to get something on.\" She walked into her bedroom, and you waited patiently for her. <br>\r\n<br>\r\nAfter a few moments, she came out in a tan top and shorts. \"I really appreciate you doing that. I'm suck a lot with remembering things. Here, I want to repay you, as if you didn't help me out I would have been fucked royally.\" she said. She gave you would looked to be a marble. It was blue, and you wondered why she gave it to you. You look the marble, but after a few seconds the marble started to sink into your skin. You saw it being absorb by your skin, and then travel through your veins into your body. You asked what the hell happened. <br>\r\n<br>\r\n\"I had to test you. That marble only works on people who are, for the most part, good people. Now we can have some fun.\"</span></div></div>",
+            "created":1596258000,
+            "id":2879348,
+            "title":"Help her out"
+        },
+        "13531222222222222222222222222222222222222223222222222":{
+            "author_id":"chenix",
+            "author_name":"Cool Guy",
+            "choices":[
+                "Ask her what is wrong",
+                "Something else",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You kept going, and saw another little girl. She was crying her eyes out.</span></div></span></div>",
+            "created":1596344400,
+            "id":2879662,
+            "title":"Keep moving"
+        },
+        "135312222222222222222222222222222222222222232222222222":{
+            "author_id":"chenix",
+            "author_name":"Cool Guy",
+            "choices":[
+                "Help her out",
+                "Keep going",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Someone tended to the girl when you were going to help her out.<br>\r\n<br>\r\nAfter that, you saw a tall woman with purple hair. She was wearing a dress shirt, black suit vest, blazer, business skirt, and nylons. She seemed to be looking for help</span></div></span></div>",
+            "created":1596344400,
+            "id":2879680,
+            "title":"Something else"
+        },
         "135312222222222222222222222222222222222222232223":{
             "author_id":"chenix",
             "author_name":"Cool Guy",
@@ -27687,8 +27751,8 @@
         "description":"<td align=\"left\" class=\"norm\">You are an 18 year old male and you wander across and old mansion in your town. Inside are things that will \"change\" your life...<br>\r\n<br>\r\nbased loosely on the website<br>\r\n<a class=\"blue2roll\" rel=\"nofollow\" href=\"http://transformansion.proboards.com\" target=\"_blank\">http://transformansion.proboards.com</a></td>",
         "id":746963,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1594374660,
-        "modified":1594374660,
+        "last_full_update":1595817420,
+        "modified":1596387120,
         "pretty_title":"The TransforMansion"
     }
 }
