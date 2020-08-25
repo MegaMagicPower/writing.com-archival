@@ -889,6 +889,19 @@
             "id":1816268,
             "title":"Something else."
         },
+        "152332":{
+            "author_id":"ohshc",
+            "author_name":"las moras",
+            "choices":[
+                "Ashley",
+                "Carol Brown",
+                "More choices."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about Ashley or Carol Brown</span></div></span></div>",
+            "created":1596776400,
+            "id":2881768,
+            "title":"Next choice."
+        },
         "154":{
             "author_id":"ohshc",
             "author_name":"las moras",
@@ -1312,6 +1325,19 @@
             "created":1402376400,
             "id":1809959,
             "title":"Next character"
+        },
+        "1553122221":{
+            "author_id":"ohshc",
+            "author_name":"las moras",
+            "choices":[
+                "Breast expansion.",
+                "Butt expansion.",
+                "More choices."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of expansion that she undergo?</span></div></span></div>",
+            "created":1596776400,
+            "id":2881770,
+            "title":"Gamma."
         },
         "15532":{
             "author_id":"ohshc",
@@ -2410,8 +2436,8 @@
         "description":"<td align=\"left\" class=\"norm\">This is an expansion story dedicated to the many web comics that populate the Internet. My standards aren't terribly high so I most likely won't edit or remove a chapter if I do I will contact you with an e-mail explaining my decision. One thing I will not tolerate within the story is rape any chapters containing rape will be removed. Other than that you're free to do just about anything you want and I encourage you to add your own favorite web comics to the selection.</td>",
         "id":1868528,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1583770500,
-        "modified":1596419460,
+        "last_full_update":1596799380,
+        "modified":1596799380,
         "pretty_title":"Web comic Expansion"
     }
 }

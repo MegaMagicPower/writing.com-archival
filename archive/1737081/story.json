@@ -1317,6 +1317,18 @@
             "id":1178878,
             "title":"\"Drink from this Bottle\""
         },
+        "12132":{
+            "author_id":"weewee",
+            "author_name":"YeehawLord",
+            "choices":[
+                "Lilo gets put in a crib.",
+                "Lilo gets changed."
+            ],
+            "content":"<div class=\"\"><div> <span>Lilo attempted to get back up, but due to the full diaper, she was weighed down. She tried a few times to get up, but was stuck in the same spot. Myrtle giggled quietly, although, as she giggled, little Lilo started crying. Myrtle cooed, hugging Lilo and picking her up, which took a bit, but eventually, she got it. \"Shh... You're ok, baby Lilo...\"<br>\r\n<br>\r\nWhat should happen next?</span></div></div>",
+            "created":1596862800,
+            "id":2882648,
+            "title":"Lilo can't get up and cries helplessly"
+        },
         "122":{
             "author_id":"kullul",
             "author_name":"Lullu",
@@ -2734,8 +2746,8 @@
         "description":"<td align=\"left\" class=\"norm\">Open to anything as long as it stays on topic. Please try to make additions at LEAST one paragraph in length.</td>",
         "id":1737081,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1590013260,
-        "modified":1590013260,
+        "last_full_update":1596939060,
+        "modified":1596939060,
         "pretty_title":"Lilo's Diaper Story"
     }
 }

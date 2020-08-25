@@ -403,6 +403,38 @@
             "id":2160235,
             "title":"Sudden"
         },
+        "12211":{
+            "author_id":"zzmusk",
+            "author_name":"Jacob Freeman",
+            "choices":[
+                "She refuses to help and decides to torture you ",
+                "She helps you"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You wake up on a cold hard surface, you hear a noise comping from above. As your eyes adjust you realize it\u2019s Callie, a young girl that you think has a crush on you.\u201dChris is that you\u201d Callie boomed.\u201dyea I somehow shrunk can you help me\u201d. </span></div></span></div>",
+            "created":1597986000,
+            "id":2889260,
+            "title":"Callie"
+        },
+        "122111":{
+            "author_id":"zzmusk",
+            "author_name":"Jacob Freeman",
+            "choices":[
+                "She takes you to the bathroom ",
+                "She takes you to her next class"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\u201cUh I don\u2019t think I wanna help you I think I want to mess with you for a bit\u201d. You couldn\u2019t believe what you just heard, you try to run away but Callie picks you up and puts you in her back pocket.<br>\r\n<br>\r\nWhat now</span></div></span></div>",
+            "created":1597986000,
+            "id":2889262,
+            "title":"She refuses to help and decides to torture you "
+        },
+        "1221111":{
+            "author_id":"zzmusk",
+            "author_name":"Jacob Freeman",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She walks into the bathroom and goes into one of the stalls and takes you out of her pocket and holds you between her fingers.\u201dI think I\u2019m gonna put you in the toilet\u201d. She drops you in the toilet and flushed you away.</span></div></span></div>",
+            "created":1597986000,
+            "id":2889264,
+            "title":"She takes you to the bathroom "
+        },
         "13":{
             "author_id":"catquinn",
             "author_name":"Quinny",
@@ -453,7 +485,7 @@
         },
         "131111":{
             "author_id":"deverx",
-            "author_name":"DeverX",
+            "author_name":"SWLatina",
             "choices":[
                 "put somewhere safe to be carried away",
                 "examined"
@@ -462,6 +494,19 @@
             "created":1593234000,
             "id":2857531,
             "title":"Rose and Tawnee both remain frozen"
+        },
+        "1311112":{
+            "author_id":"deverx",
+            "author_name":"SWLatina",
+            "choices":[
+                "Mr. Whiten, the history/sociology teacher",
+                "Jake. a freshman nerd",
+                "Todd, the senior class vice-president"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who's doing the examining?</span></div></span></div>",
+            "created":1597208400,
+            "id":2884525,
+            "title":"examined"
         },
         "131112":{
             "author_id":"hjeff90",
@@ -1024,8 +1069,8 @@
         "description":"<td align=\"left\" class=\"norm\">This story is about teenagers who shrink during school. The goal is to have a lot more story line than previous stories. Choose between male or female characters and whether you shrank or stayed normal. Shrinking can be between 3-6inch high. No other size changes or alterations. No feet, ass toilet, or farting additions. Feel free to add more people, and just have fun with it <img loading=\"lazy\" style=\"\" src=\"https://images.Writing.Com/imgs/writing.com/writers/e15/smile.png\" alt=\"*Smile*\" class=\"emoteZ\" title=\"Smile\" border=\"0\" width=\"15\" height=\"15\"> <br>\r\nSexual situations are more than welcome, and so are deadly situalions as long as its not some brainless giant eating and smashing people for no reason.<br>\r\n<br>\r\n50 gift points will be given to those who add a good chapter!<br>\r\n<br>\r\nCharacters:<br>\r\nCallie age 15<br>\r\nChris age 18<br>\r\nRose age 18<br>\r\nMike age 16</td>",
         "id":1965502,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1593258240,
-        "modified":1593258240,
+        "last_full_update":1598063580,
+        "modified":1598063580,
         "pretty_title":"Star crossed lovers"
     }
 }

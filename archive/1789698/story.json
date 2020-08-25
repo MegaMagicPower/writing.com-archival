@@ -3214,7 +3214,7 @@
         },
         "11132":{
             "author_id":"sjs55049",
-            "author_name":"Jeannie\ud83c\udf37",
+            "author_name":"Jeannie\ud83c\udf77",
             "choices":[
                 "I wish I was a famous author",
                 "I wish I found a gold mine"
@@ -3418,7 +3418,7 @@
         },
         "1122":{
             "author_id":"soledad_moon",
-            "author_name":"Elisa-Stik Stuck Inside",
+            "author_name":"Elisa/Stik: Mask Up!",
             "choices":[
                 "Yeah. About that?",
                 "A longer day leads to...",
@@ -4241,7 +4241,7 @@
         },
         "115121":{
             "author_id":"whiskerface",
-            "author_name":"Whiskersisfree!",
+            "author_name":"Whiskersinthearchipelago",
             "choices":[
                 "Granted, but",
                 "Granted, but",
@@ -6419,7 +6419,7 @@
         },
         "14":{
             "author_id":"soledad_moon",
-            "author_name":"Elisa-Stik Stuck Inside",
+            "author_name":"Elisa/Stik: Mask Up!",
             "choices":[
                 "Granted. However....",
                 "Granted. However....",
@@ -7247,7 +7247,7 @@
         },
         "152":{
             "author_id":"soledad_moon",
-            "author_name":"Elisa-Stik Stuck Inside",
+            "author_name":"Elisa/Stik: Mask Up!",
             "choices":[
                 "Granted, but here's the catch....",
                 "Granted, but here's the catch....",
@@ -8531,6 +8531,14 @@
             "created":1592024400,
             "id":2850784,
             "title":"Time stop!"
+        },
+        "1533223211122":{
+            "author_id":"sumojo",
+            "author_name":"Sumojo",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>If we never got sick would we still die? Without sickness the death rate would drop. The world would become even more overpopulated. There would be famine, housing shortages and wars. </span></div></span></div>",
+            "created":1597554000,
+            "id":2886203,
+            "title":"As you wish, though..."
         }
     },
     "info":{
@@ -8541,8 +8549,8 @@
         "description":"<td align=\"left\" class=\"norm\">2018 Quill Award winner, which is...actually a heck of a wonderful surprise! So so happy that people enjoy this so much! Here's to many more years of the same!<br>\r\n<br>\r\nThe idea behind Corrupt-A-Wish is that someone posts any wish they can think of and another person finds a creative way of corrupting it, as well as posting a wish of their own. e.g.<br>\r\nPoster #1 - I wish I had an apple<br>\r\nPoster #2 - Granted, but it's rotten. I wish...<br>\r\n<br>\r\nOf course, you can go a lot crazier than that! :)<br>\r\n<br>\r\nRules;<br>\r\n1) No swearing - light swearing is okay but no f-words, b-words etc<br>\r\n2) I'll allow sexual innuendoes! :P<br>\r\n3) Keep the wishes short if you can, but I'm not too fussed about it really... the corrupts can be as long as you want!<br>\r\n4) Try to add your own title to each new entry<br>\r\n<br>\r\nThat's about it for now - have fun! :)<br>\r\n<br>\r\nPS: Over 400 chapters? Brilliant - thank you guys so much :D</td>",
         "id":1789698,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1592083320,
-        "modified":1592083320,
+        "last_full_update":1597556040,
+        "modified":1597556040,
         "pretty_title":"Corrupt-A-Wish"
     }
 }

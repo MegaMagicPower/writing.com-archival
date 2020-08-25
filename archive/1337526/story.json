@@ -38,6 +38,19 @@
             "id":456960,
             "title":"The lukiest man..><\""
         },
+        "1113":{
+            "author_id":"worker1398",
+            "author_name":"Clear Diamond",
+            "choices":[
+                "Yes",
+                "Someone else.",
+                "*Extra option incase anyone can use change title when using this*"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You (as yourself)</span></div></span></div>",
+            "created":1597899600,
+            "id":2888254,
+            "title":"Other"
+        },
         "112":{
             "author_id":"iysaotome",
             "author_name":"IYSaotome",
@@ -100,6 +113,19 @@
             "created":1402981200,
             "id":1813624,
             "title":"shrinks ichigo down to 6 inches"
+        },
+        "1213":{
+            "author_id":"worker1398",
+            "author_name":"Clear Diamond",
+            "choices":[
+                "Yes",
+                "Someone else.",
+                "*Extra option incase anyone can use change title when using this*"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You (as yourself)</span></div></span></div>",
+            "created":1597899600,
+            "id":2888255,
+            "title":"Other"
         },
         "122":{
             "author_id":"unknowndevil",
@@ -193,6 +219,32 @@
             "id":1033224,
             "title":"Male"
         },
+        "13212":{
+            "author_id":"worker1398",
+            "author_name":"Clear Diamond",
+            "choices":[
+                "Yes",
+                "Someone else.",
+                "*Extra option incase anyone can use change title when using this*"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are you sure?</span></div></span></div>",
+            "created":1597899600,
+            "id":2888256,
+            "title":"Gin"
+        },
+        "132122":{
+            "author_id":"worker1398",
+            "author_name":"Clear Diamond",
+            "choices":[
+                "Yes",
+                "Someone else.",
+                "*Extra option incase anyone can use change title when using this*"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You (as yourself)</span></div></span></div>",
+            "created":1597899600,
+            "id":2888258,
+            "title":"Someone else."
+        },
         "133":{
             "author_id":"dante-uchiha",
             "author_name":"Reiko-sama",
@@ -230,6 +282,19 @@
             "created":1356066000,
             "id":1492574,
             "title":"other"
+        },
+        "133332":{
+            "author_id":"worker1398",
+            "author_name":"Clear Diamond",
+            "choices":[
+                "Rurichiyo Kasumi\u014dji",
+                "Karin Kurosaki",
+                "Someone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about?</span></div></span></div>",
+            "created":1597899600,
+            "id":2888259,
+            "title":"More girls"
         }
     },
     "info":{
@@ -240,8 +305,8 @@
         "description":"<td align=\"left\" class=\"norm\">To the writers:<br>\r\n<br>\r\nJust NO DEATHS..&gt;&lt;\"<br>\r\n<br>\r\n</td>",
         "id":1337526,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1408138320,
-        "modified":1408138320,
+        "last_full_update":1597903440,
+        "modified":1597903440,
         "pretty_title":"Bleach shrinking story"
     }
 }

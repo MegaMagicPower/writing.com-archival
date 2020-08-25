@@ -143,6 +143,19 @@
             "id":2663777,
             "title":"9-12"
         },
+        "11521":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Change the original version.",
+                "Continue the original.",
+                "Something completely new."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>One of my favorites, and one of his best, I think.<br>\r\nSo, what to do?<br>\r\nWe change things for the original story.<br>\r\nContinue the original one.<br>\r\nCome up with something brand new.</span></div></span></div>",
+            "created":1597467600,
+            "id":2886081,
+            "title":"Yes"
+        },
         "11522":{
             "author_id":"hench",
             "author_name":"hench",
@@ -155,6 +168,19 @@
             "created":1581138000,
             "id":2784566,
             "title":"The Other Options"
+        },
+        "115222":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Switch things in the original version.",
+                "Keep the original one going.",
+                "Make a new one."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Great choice, first Goosebumps book I read, er, listened to, found it and others on Audible. So, what to do with this one?</span></div></span></div>",
+            "created":1597467600,
+            "id":2886083,
+            "title":"The Ghost Next Door"
         },
         "115223":{
             "author_id":"hench",
@@ -254,6 +280,18 @@
             "created":1513659600,
             "id":2429931,
             "title":"For now, it will go the way of the original book."
+        },
+        "115331111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Sure.",
+                "Not just yet."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>We start with Michael explaining about Tara. Are there any differences at first, like, Tara has a friend who tries to keep her on the straight and narrow path?</span></div></span></div>",
+            "created":1597554000,
+            "id":2886390,
+            "title":"The beginning in which Michael elaborates on Tara"
         },
         "11533112":{
             "author_id":"mbrody",
@@ -2063,8 +2101,8 @@
         "description":"<td align=\"left\" class=\"norm\">Here you can add onto existing stories set in the Goosebumps universe the original or HorrorLand version continuing onto  certain cliffhangers at the end of various books or adding entirely new stories of your own or characters while you're practically free to add anything other than strong sexual stuff and is written in 2nd format. You can also add the usual stuff shrink/growing or weight gain etc.</td>",
         "id":2026032,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1595807880,
-        "modified":1595807880,
+        "last_full_update":1597592760,
+        "modified":1597592760,
         "pretty_title":"Goosebumps interactive "
     }
 }

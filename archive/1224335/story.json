@@ -1142,6 +1142,55 @@
             "id":2423699,
             "title":"No"
         },
+        "154":{
+            "author_id":"621justin",
+            "author_name":"621justin",
+            "choices":[
+                "Fire Nation",
+                "Team avatar "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who does she swap with?</span></div></span></div>",
+            "created":1597554000,
+            "id":2886590,
+            "title":"Mai"
+        },
+        "1541":{
+            "author_id":"621justin",
+            "author_name":"621justin",
+            "choices":[
+                "Male ",
+                "Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which gender?<br>\r\nBetween season 1 and 2</span></div></span></div>",
+            "created":1597554000,
+            "id":2886591,
+            "title":"Fire Nation"
+        },
+        "1542":{
+            "author_id":"621justin",
+            "author_name":"621justin",
+            "choices":[
+                "Female",
+                "Male",
+                "Appa and Momo"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which gender does Mai swap with?<br>\r\nTakes place in book 3<br>\r\n</span></div></span></div>",
+            "created":1597554000,
+            "id":2886593,
+            "title":"Team avatar "
+        },
+        "15422":{
+            "author_id":"621justin",
+            "author_name":"621justin",
+            "choices":[
+                "Zuko",
+                "Aang or Sokka"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who shall it be?</span></div></span></div>",
+            "created":1597554000,
+            "id":2886595,
+            "title":"Male"
+        },
         "155":{
             "author_id":"salo90",
             "author_name":"adust",
@@ -1300,8 +1349,8 @@
         "description":"<td align=\"left\" class=\"norm\">1. Keep it clean.<br>\r\n<br>\r\n2. Keep it in-character.<br>\r\n<br>\r\n3. Nothing short.  At least 5 GOOD sentences.<br>\r\n<br>\r\n4. Don't suddenly take the current story in a completely different direction.<br>\r\n<br>\r\n5. No one-choice entries<br>\r\n<br>\r\n6. I reserve the right to edit or remove entries<br>\r\n<br>\r\nIf you need more info on the characters, go to:<br>\r\n<br>\r\n<a class=\"blue2roll\" rel=\"nofollow\" href=\"http://en.wikipedia.org/wiki/List_of_Avatar:_The_Last_Airbender_characters\" target=\"_blank\">http://en.wikipedia.org/wiki/List_of_Avatar:_The_Last_Airbender_characters</a><br>\r\n<br>\r\nOtherwise, have fun!</td>",
         "id":1224335,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1585154460,
-        "modified":1585154460,
+        "last_full_update":1597620000,
+        "modified":1597620000,
         "pretty_title":"Avatar Body Swap"
     }
 }

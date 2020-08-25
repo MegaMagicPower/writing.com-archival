@@ -1014,6 +1014,19 @@
             "id":2379595,
             "title":"A machine from Dr. Light"
         },
+        "11113112":{
+            "author_id":"lilipoot",
+            "author_name":"lilipoot",
+            "choices":[
+                "Yes! He volunteers to gather info directly, and experience quasi-humanity ",
+                "Yes, but he accidentally gets stuck in the part",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about a prototype body part upgrade for Roll, one designed to simulate human parts more closely (goosebumps, itchiness, sweating, tanning, etc)?<br>\r\n<br>\r\nIf yes, does Megaman volunteer, or does he end up the part accidentally?</span></div></span></div>",
+            "created":1597208400,
+            "id":2884367,
+            "title":"Prototype body part for Roll?"
+        },
         "1111312":{
             "author_id":"collinriddle",
             "author_name":"Cridd",
@@ -1304,6 +1317,34 @@
             "created":1586494800,
             "id":2816556,
             "title":"No"
+        },
+        "111232":{
+            "author_id":"nemryn",
+            "author_name":"nemryn",
+            "choices":[
+                "Multipurpose support-bot Roll",
+                "Four-legged Roll",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>Perhaps Roll accidentally gets some modifications meant for Rush. Now she can help her brother on his mission, with Roll Coil, Roll Jet, and Roll Marine.<br>\r\n<br>\r\nOr maybe things go even further, and she is entirely remodeled into a canine form.</span></div></div>",
+            "created":1597122000,
+            "id":2884156,
+            "title":"Misplaced upgrades?"
+        },
+        "1112323":{
+            "author_id":"doctwisted",
+            "author_name":"Twisted Gear",
+            "choices":[
+                "Tango- She becomes a cat girl",
+                "Protoman- She gets her brothers moody loner personality ",
+                "Bass- She turns evil",
+                "Treble- she becomes loyal to bass and wolf like",
+                "Other parts/Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Maybe different a different  part mix up?</span></div></span></div>",
+            "created":1597122000,
+            "id":2884360,
+            "title":"Something else"
         },
         "1113":{
             "author_id":"zerukin",
@@ -5136,6 +5177,36 @@
             "created":1498021200,
             "id":2340044,
             "title":"Another way for them to swap bodies"
+        },
+        "15223":{
+            "author_id":"doctwisted",
+            "author_name":"Twisted Gear",
+            "choices":[
+                "Glyde.exe",
+                "Gutsman.Exe",
+                "Bass.exe",
+                "Protoman.exe",
+                "Others"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>One of these?</span></div></span></div>",
+            "created":1597122000,
+            "id":2884076,
+            "title":"Something else"
+        },
+        "152235":{
+            "author_id":"doctwisted",
+            "author_name":"Twisted Gear",
+            "choices":[
+                "The W3 navis(Fireman Heatman Elecman Magicman Colorman)",
+                "Serenade ",
+                "Anime important characters (Kingman Aquaman Iceman)",
+                "Manga prominent characters (Gyroman Tomohawkman Medi)",
+                "Others "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>One of these?</span></div></span></div>",
+            "created":1597122000,
+            "id":2884080,
+            "title":"Others"
         }
     },
     "info":{
@@ -5146,8 +5217,8 @@
         "description":"<td align=\"left\" class=\"norm\">This story is about transformations. Namely to the cast of mega man. Let's begin with rules:<br>\r\n<br>\r\n1. Sex may not be detailed if put into the story (it's rated 13+)<br>\r\n2. Deaths in any written chapters will be put under review. If they are too gruesome, or are the death of somebody important to the story, it will most likely be deleted.<br>\r\n3. No crossovers. I do enjoy those, but let's keep things in their own universes and their own timelines. That said, you are allowed to reference characters from other franchises. Just so we're clear, when I say no crossovers, I mean between Mega Man universes. Note that creating counterparts of characters from other mega man series for a story in the series your writing for does not count as a crossover since every series has had their own counterparts of characters from other series.<br>\r\n4. No transformation that is Mega Man being turned into Quint. I just feel that's cheating a story, especially since it's clarified in the games the Quint is Mega Man from the future. That said, I'm not stopping stories that involve Mega Man being turned evil.... Just so long as he isn't turned into Quint.<br>\r\n<br>\r\nThose are the rules. May subject to change, but for now they are what should be followed.</td>",
         "id":2070154,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1590310740,
-        "modified":1590310740,
+        "last_full_update":1597208460,
+        "modified":1597208460,
         "pretty_title":"Mega Man Transformation Tales"
     }
 }

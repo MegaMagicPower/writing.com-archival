@@ -19,13 +19,16 @@
             "author_id":"numerio",
             "author_name":"Tex",
             "choices":[
-                "Boy",
-                "Girl"
+                "Reader's choice",
+                "Reader's choice",
+                "Reader's choice",
+                "Reader's choice",
+                "Reader's choice"
             ],
-            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are you a boy or girl?</span></div></span></div>",
-            "created":1431493200,
-            "id":1977699,
-            "title":"Begin: Older Sister Trouble (You are Male)  "
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>...........</span></div></span></div>",
+            "created":1597726800,
+            "id":2887500,
+            "title":"Reader's choice"
         },
         "111":{
             "author_id":"numerio",
@@ -3949,8 +3952,8 @@
         "description":"<td align=\"left\" class=\"norm\">In this story of choices and perils, I will give you four spots in which to post your desired shrinking story chain. I will post a shrinking story of my choosing in the first spot, leaving you the other four spots.<br>\r\n<br>\r\nRules:<br>\r\n<br>\r\nNo endings; if your story is done, put a \"new story\" choice... Better yet, put two \"new story\" choices, leaving others the chance to add their story!! <br>\r\n</td>",
         "id":2041601,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1595886240,
-        "modified":1595886240,
+        "last_full_update":1597773600,
+        "modified":1597773600,
         "pretty_title":"Shrunken Story Collection"
     }
 }

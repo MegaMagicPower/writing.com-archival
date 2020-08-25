@@ -670,6 +670,47 @@
             "id":2698485,
             "title":"Meet Bibi's friends."
         },
+        "14":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "Millers",
+                "Patty",
+                "the landlords",
+                "Cindy and her mother",
+                "more/others"
+            ],
+            "content":"<div class=\"\"><div> <span>There are of course a lot of neighbors in this house. Here are some examples:<br>\r\n<br>\r\nThe Millers: Mr. Miller and his wife are an elderly couple, very conservative and are about to complain about the smell of herbal essences coming out of Barbara\u2019s kitchen. They live one floor below<br>\r\n<br>\r\nPatty, a single lady, who also has some magical powers: She has invented some medallion which has some interesting shapeshifting powers. Neither Patty nor the Blocksbergs know about each other and that the both have magical powers<br>\r\n<br>\r\nElenore and Karl Close: They are the landlords here and need to take care of law and order inside this house<br>\r\n<br>\r\nCindy, living with her mother: Cindy is a 19-year-old girl, studding on local campus. To finance her live she is having a baby sitter job, she lives with her mother, who needs to take care of herself and her daughter all alone since her husband and Cindy\u2019s Dad died at a tragic car accident almost 1 year ago<br>\r\n<br>\r\nWhich one we need to involve first?<br>\r\n</span></div></div>",
+            "created":1597294800,
+            "id":2884947,
+            "title":"intro of the neigbors and other charakters"
+        },
+        "144":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "yes",
+                "no this is to private",
+                "something else"
+            ],
+            "content":"<div class=\"\"><div> <span>Soon Cindy will become 20 while Bibi was just a girl of 11 years old.<br>\r\nRecently Bibi realized about the witches power that she shares with her mother Barbara, after all the girls of her family are born with the witches power and they feel their power running through their bodies from the time they are born and Bibi was no exception. But they only can use it when they are turning 12, which Bibi will do next week.<br>\r\nWhen the Blocksberg family moved in here, they were searching for a babysitter, since Laurence, Bibi\u2019s father had worked a lot and Barbara was promoted into the witches council, so she had to be away very often.<br>\r\nSo in here came Cindy, who got the job for taking care of almost 12 year old Bibi, who was her oldest kid to babysit and sometime neither Cindy nor Bibi herself understood why she need to be babysitter.<br>\r\nAnyhow the week Bibi became 12 she knew that she could change her appearance to become someone else, maybe an older girl like Cindy, having a body that no boys could resist, or girls for that matter she even could become a male, which might be an interesting experience\u2026.<br>\r\nEvery girl from time to time or once in her life wishes to be a boy and so does Bibi and tonight while Cindy was around she asked Cindy if she ever asked herself what would be if she were a boy.<br>\r\nCindy smiled and told Bibi that she was just recently thinking about this, because she was on the grave yard at her father grave whenever she had such theosophical topics\u2026.<br>\r\nBibi asked if Cindy is willing to share her ideas about that topic.<br>\r\n</span></div></div>",
+            "created":1597294800,
+            "id":2885044,
+            "title":"Cindy and her mother"
+        },
+        "1442":{
+            "author_id":"sally3",
+            "author_name":"Sal3",
+            "choices":[
+                "Bibi shares the same feelings",
+                "Bibi puts the diary back and creeps away.",
+                "More Ideas."
+            ],
+            "content":"<div class=\"\"><div> <span>Cindy looked at Bibi lovingly and said, \" no Bibi, I am sorry but that is personal, I hope you understand\" .<br>\r\n<br>\r\nBibi understood clearly, something was pulling Bibi towards Cindys  house and Bibi couldn't understand why, but she let herself slip away and snuck into Cindys house and up to her room, once inside her room she had a severe pulling to look under her bed, Bibi dropped down but saw nothing. Yet that stong pulling never went away, so Bibi slipped her hands inside and under Cindys mattress and there she found Cindys diary.<br>\r\nBibi slowly opened it and there was a bookmark of the last entry and it read \" Today I will babysit Bibi again, I want so badly to tell her how I feel about her, I want to kiss her and caress her. I want her in every way, if only she saw me that way, I know she is yoUnger than me but I feel so much love for her even at her current age, it somehow makes me want het more exactly as she is now, to teach her of kissing Me and feeling me and for me to teach her everything ... but my hopes to share all those things with Bibi will never be.<br>\r\nI don't think Bibi even likes me that way ... anyway, end of journal.\"<br>\r\n<br>\r\n</span></div></div>",
+            "created":1597294800,
+            "id":2885073,
+            "title":"no this is to private"
+        },
         "15":{
             "author_id":"rosenheim34",
             "author_name":"rosenheimer",
@@ -717,8 +758,8 @@
         "description":"<td align=\"left\" class=\"norm\">we have a young girl named Bibi, who is a witch</td>",
         "id":2168735,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1592227920,
-        "modified":1592227920,
+        "last_full_update":1597332660,
+        "modified":1597332660,
         "pretty_title":"Bibi a young witch"
     }
 }

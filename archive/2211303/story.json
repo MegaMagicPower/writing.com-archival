@@ -321,6 +321,19 @@
             "id":2876627,
             "title":"goes to school naked"
         },
+        "142311":{
+            "author_id":"nachtmuziek",
+            "author_name":"NachtMuziek",
+            "choices":[
+                "Her sister Yuki drives her to school",
+                "Her mom drives her to school",
+                "Her friend Erica drives her to school"
+            ],
+            "content":"<div class=\"\"><div> <span>Manami had to get someone to drive her. Unable to drive herself, and too far away to walk, Manami relied on either her older sister, her mother, or her friend to drive her to school, depending on the day. <br>\r\n<br>\r\nAnd since it's Friday, that means...</span></div></div>",
+            "created":1598245200,
+            "id":2890423,
+            "title":"Someone drives her"
+        },
         "15":{
             "author_id":"nachtmuziek",
             "author_name":"NachtMuziek",
@@ -346,7 +359,7 @@
         "id":2211303,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
         "last_full_update":1595901120,
-        "modified":1595901120,
+        "modified":1598246940,
         "pretty_title":"School Spirit"
     }
 }

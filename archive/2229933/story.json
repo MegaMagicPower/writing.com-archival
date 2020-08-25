@@ -1,0 +1,459 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"gilligfan",
+            "author_name":"PrincessKooh",
+            "choices":[
+                "Normal characters",
+                "Anime characters ",
+                "Cartoon characters ",
+                "Movies?",
+                "More choices "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay to start this party off<br>\r\n<br>\r\nWill the characters you use be<br>\r\n<br>\r\nNormal - as in characters readers and<br>\r\nwriters made up but don\u2019t necessarily claim<br>\r\nas their own personal OC?<br>\r\n<br>\r\nOr something else </span></div></span></div>",
+            "created":1597899600,
+            "id":2888366,
+            "title":"Begin"
+        },
+        "12":{
+            "author_id":"gilligfan",
+            "author_name":"PrincessKooh",
+            "choices":[
+                "Pok\u00e9mon ",
+                "Digimon",
+                "Ranma 1/2",
+                "Dragon Ball/Dragon Ball Z / Dragon Ball GT / Dragon Ball Super",
+                "More Anime"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay choose an Anime that might<br>\r\nLend itself at least somewhat to<br>\r\nSize Rays</span></div></span></div>",
+            "created":1597899600,
+            "id":2888374,
+            "title":"Anime characters "
+        },
+        "125":{
+            "author_id":"gilligfan",
+            "author_name":"PrincessKooh",
+            "choices":[
+                "To Love Ru",
+                "Love Hina",
+                "Strike Witches ",
+                "Girls Und Panzer ( aka Girls And Panzer )",
+                "Mor Anime\u2019s"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay choose an Anime that might<br>\r\nLend itself at least somewhat to<br>\r\nSize Rays ;</span></div></span></div>",
+            "created":1597899600,
+            "id":2888378,
+            "title":"More Anime"
+        },
+        "13":{
+            "author_id":"gilligfan",
+            "author_name":"PrincessKooh",
+            "choices":[
+                "Arthur ",
+                "Totally Spies",
+                "Krypto The Super Dog",
+                "Tale Spin",
+                "More toons"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay choose a Cartoon  that might<br>\r\nLend itself at least somewhat to<br>\r\nSize Rays</span></div></span></div>",
+            "created":1597899600,
+            "id":2888380,
+            "title":"Cartoon characters "
+        },
+        "131":{
+            "author_id":"redwolf12",
+            "author_name":"wolfbood",
+            "choices":[
+                "D.W REED",
+                "Arthur Reed",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who found the size ray?</span></div></span></div>",
+            "created":1598245200,
+            "id":2890819,
+            "title":"Arthur "
+        },
+        "1311":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup.",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>It turned out to be one of The Brain's inventions?</span></div></span></div>",
+            "created":1598245200,
+            "id":2890821,
+            "title":"D.W REED"
+        },
+        "132":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Clover.",
+                "Sam.",
+                "Alex, or anyone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So, who finds the size ray here?</span></div></span></div>",
+            "created":1597986000,
+            "id":2888966,
+            "title":"Totally Spies"
+        },
+        "134":{
+            "author_id":"redwolf12",
+            "author_name":"wolfbood",
+            "choices":[
+                "Molly Cunningham",
+                "Kit Cloudkicker",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who found the size ray?</span></div></span></div>",
+            "created":1598245200,
+            "id":2890820,
+            "title":"Tale Spin"
+        },
+        "135":{
+            "author_id":"gilligfan",
+            "author_name":"PrincessKooh",
+            "choices":[
+                "Ben 10",
+                "Arthur ( cartoon )",
+                "Duck Tales",
+                "Taz Mania",
+                "Stay Tooned ( aka more toons )"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay choose a cartoon  that might<br>\r\nLend itself at least somewhat to<br>\r\nSize Rays ;</span></div></span></div>",
+            "created":1597899600,
+            "id":2888381,
+            "title":"More toons"
+        },
+        "1355":{
+            "author_id":"gilligfan",
+            "author_name":"PrincessKooh",
+            "choices":[
+                "Archie\u2019s Weird Mysteries",
+                "Phineas And Ferb",
+                "Tom And Jerry",
+                "Tiny Toons",
+                "Stil More Toons"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay choose a cartoon that might<br>\r\nLend itself at least somewhat to<br>\r\nSize Rays</span></div></span></div>",
+            "created":1597899600,
+            "id":2888382,
+            "title":"Stay Tooned ( aka more toons )"
+        },
+        "13553":{
+            "author_id":"redwolf12",
+            "author_name":"wolfbood",
+            "choices":[
+                "Tom",
+                "Jerry"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who found the size ray?</span></div></span></div>",
+            "created":1598245200,
+            "id":2890824,
+            "title":"Tom And Jerry"
+        },
+        "13555":{
+            "author_id":"gilligfan",
+            "author_name":"PrincessKooh",
+            "choices":[
+                "Justice league ",
+                "Jackie Chan Adventures",
+                "Dennis The Menace Animate Series ",
+                "Masha And The Bear",
+                "More choices still"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay choose a cartoonthat might<br>\r\nLend itself at least somewhat to<br>\r\nSize Rays</span></div></span></div>",
+            "created":1597899600,
+            "id":2888385,
+            "title":"Stil More Toons"
+        },
+        "135555":{
+            "author_id":"gilligfan",
+            "author_name":"PrincessKooh",
+            "choices":[
+                "Magic School bus",
+                "Readers choice ",
+                "Open choice",
+                "Open slot",
+                "Still mor choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay choose a cartoon that might<br>\r\nLend itself at least somewhat to<br>\r\nSize Rays<br>\r\n<br>\r\n</span></div></span></div>",
+            "created":1597986000,
+            "id":2888945,
+            "title":"More choices still"
+        },
+        "1355551":{
+            "author_id":"gilligfan",
+            "author_name":"PrincessKooh",
+            "choices":[
+                "William Li becomes William Little ",
+                "William Li becomes William Large",
+                "Phoebe",
+                "Readers choice",
+                "Something else "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What magic school bus character<br>\r\nfinds or falls victim to a size device?<br>\r\n<br>\r\n<br>\r\nWilliam Li - toddler<br>\r\nWanda\u2019s baby brother <br>\r\n<a rel=\"nofollow\" href=\"https://magicschoolbus.fandom.com/wiki/William_Li\" target=\"_blank\">https://magicschoolbus.fandom.com/wiki/W...</a><br>\r\n<br>\r\n<a rel=\"nofollow\" href=\"https://www.dailymotion.com/video/x6ty27r\" target=\"_blank\">https://www.dailymotion.com/video/x6ty27...</a></span></div></span></div>",
+            "created":1597986000,
+            "id":2888951,
+            "title":"Magic School bus"
+        },
+        "1355552":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Sure thing.",
+                "Hmm, The Simpsons.",
+                "Other choices."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Hmm, is it Rugrats then?</span></div></span></div>",
+            "created":1597986000,
+            "id":2888975,
+            "title":"Readers choice "
+        },
+        "13555521":{
+            "author_id":"gilligfan",
+            "author_name":"PrincessKooh",
+            "choices":[
+                "Chuckie",
+                "Angelica",
+                "Dill",
+                "Kimmi",
+                "Something else "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ok who finds, uses or gets exposed<br>\r\nto the size Ray from Rugrats?<br>\r\n<br>\r\nI\u2019m assuming this is OG Rugrats unless later<br>\r\nstated others </span></div></span></div>",
+            "created":1597986000,
+            "id":2888978,
+            "title":"Sure thing."
+        },
+        "135555212":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Sure.",
+                "Another way she finds it.",
+                "Forget shrinking! Angelica wants to be BIG",
+                "Readers choice",
+                "Open slot "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She finds it in her Uncle Stu's workshop, him having invented one, to make it easier to carry heavy things from one place to another if shrunk?</span></div></span></div>",
+            "created":1597986000,
+            "id":2888979,
+            "title":"Angelica"
+        },
+        "135555215":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Nah, Tommy.",
+                "Anyone else that finds it."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>It's Susie who finds it?</span></div></span></div>",
+            "created":1597986000,
+            "id":2889015,
+            "title":"Something else "
+        },
+        "14":{
+            "author_id":"gilligfan",
+            "author_name":"PrincessKooh",
+            "choices":[
+                "Monsters vs Aliens",
+                "Honey I Blew Up The Kid / Baby",
+                "Adventures in babysitting ",
+                "Den Brother ",
+                "More movies "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay choose a movie  that might<br>\r\nLend itself at least somewhat to<br>\r\nSize Rays</span></div></span></div>",
+            "created":1597899600,
+            "id":2888388,
+            "title":"Movies?"
+        },
+        "145":{
+            "author_id":"gilligfan",
+            "author_name":"PrincessKooh",
+            "choices":[
+                "The Tall Little Girl ( Movie animated special. )",
+                "The Borrowers ",
+                "The Secret World Of Arriety",
+                "Your Name",
+                "More movies take 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay choose a movie  that might<br>\r\nLend itself at least somewhat to<br>\r\nSize Rays ;</span></div></span></div>",
+            "created":1597899600,
+            "id":2888392,
+            "title":"More movies "
+        },
+        "1455":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Any other choices."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Hmmm. Why not Mean Girls?</span></div></span></div>",
+            "created":1597986000,
+            "id":2888974,
+            "title":"More movies take 2"
+        },
+        "14552":{
+            "author_id":"redwolf12",
+            "author_name":"wolfbood",
+            "choices":[
+                "Zootopia",
+                "Another video games"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about this?</span></div></span></div>",
+            "created":1598331600,
+            "id":2891006,
+            "title":"Any other choices."
+        },
+        "15":{
+            "author_id":"gilligfan",
+            "author_name":"PrincessKooh",
+            "choices":[
+                "OC / Original characters ",
+                "Manga characters ",
+                "Video game characters ",
+                "TV show characters ",
+                "More choices still"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay how bout these sorts of characters?<br>\r\n<br>\r\nNote if choosing OC\u2019s please provide<br>\r\nBio and description and note you\u2019re allowing<br>\r\ntheir use specifically in the context of<br>\r\nthis interactive!</span></div></span></div>",
+            "created":1597899600,
+            "id":2888368,
+            "title":"More choices "
+        },
+        "153":{
+            "author_id":"gilligfan",
+            "author_name":"PrincessKooh",
+            "choices":[
+                "Taz Escape From Mars",
+                "Sonic universes ( games, shows etc )",
+                "Nekopara",
+                "Pok\u00e9mon ",
+                "More game/gamer options "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay choose a video that might<br>\r\nLend itself at least somewhat to<br>\r\nSize Rays</span></div></span></div>",
+            "created":1597899600,
+            "id":2888393,
+            "title":"Video game characters "
+        },
+        "1532":{
+            "author_id":"redwolf12",
+            "author_name":"wolfbood",
+            "choices":[
+                "Sally",
+                "Sonic",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who found the size ray?</span></div></span></div>",
+            "created":1598245200,
+            "id":2890827,
+            "title":"Sonic universes ( games, shows etc )"
+        },
+        "1535":{
+            "author_id":"redwolf12",
+            "author_name":"wolfbood",
+            "choices":[
+                "Sly Cooper",
+                "Mario Bros",
+                "Another video games"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about these video games?</span></div></span></div>",
+            "created":1598245200,
+            "id":2890836,
+            "title":"More game/gamer options "
+        },
+        "154":{
+            "author_id":"gilligfan",
+            "author_name":"PrincessKooh",
+            "choices":[
+                "Good Luck Charlie ",
+                "Open slot",
+                "Open Slot 2",
+                "Open slot 3",
+                "More choices "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay choose a TV Show that might<br>\r\nLend itself at least somewhat to<br>\r\nSize Rays</span></div></span></div>",
+            "created":1597899600,
+            "id":2888403,
+            "title":"TV show characters "
+        },
+        "155":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Sure.",
+                "Comic book characters.",
+                "Any other choices, if any are left."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Hmmm. Book characters, then?</span></div></span></div>",
+            "created":1597986000,
+            "id":2888973,
+            "title":"More choices still"
+        },
+        "1551":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "goosebumps",
+                "harry potter",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what books do we work with</span></div></span></div>",
+            "created":1597986000,
+            "id":2888984,
+            "title":"Sure."
+        },
+        "15511":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "It's Samantha Byrd.",
+                "Anyone else that comes to mind."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Hmm, will it be Carly Beth that somehow finds the size ray?</span></div></span></div>",
+            "created":1597986000,
+            "id":2888987,
+            "title":"goosebumps"
+        },
+        "155111":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "at a science fair her school is having",
+                "orders it off a magazine",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>where does Carly Beth come across this size ray?</span></div></span></div>",
+            "created":1597986000,
+            "id":2888993,
+            "title":"Yeah."
+        },
+        "1551111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "It belonged to someone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Had Sabrina been the one to invent it?</span></div></span></div>",
+            "created":1597986000,
+            "id":2888994,
+            "title":"at a science fair her school is having"
+        }
+    },
+    "info":{
+        "author_id":"gilligfan",
+        "author_name":"PrincessKooh",
+        "brief_description":"A girl or someone of your choosing finds or comes into contact with a size change device!",
+        "created":1597921320,
+        "description":"<td align=\"left\" class=\"norm\">Based off of a similarly named interactive <br>\r\n( Mysterious Shrink Ray )<br>\r\n<br>\r\n<br>\r\nYou, a character you choose or create<br>\r\nFind a size change device or come in<br>\r\ncontact with one and Hijinks ensue!<br>\r\n<br>\r\n<br>\r\nRules / Guidelines / Guidance <br>\r\n<br>\r\n1 - NO MALE GIANTS<br>\r\n( exceptions permitted in case by case basis )<br>\r\n( permitted example might include a giant baby )<br>\r\n<br>\r\n2 - Shrinking males, shrinking girls or growing<br>\r\ngirls ( Giantess / GTS ) strongly preferred!<br>\r\n<br>\r\n3 - Decent grammar/English please!<br>\r\n<br>\r\n4 - character age ranges preferred are<br>\r\nages 2 to 18<br>\r\n<br>\r\n5 - Limit nudity/sex etc to a bare minimum <br>\r\n<br>\r\n6 - no scat<br>\r\n<br>\r\n7 - limit vore<br>\r\n<br>\r\n8 - I reserve the right to add / edit / remove<br>\r\nchapters or rules<br>\r\n<br>\r\n9 - have fun and most anything goes </td>",
+        "id":2229933,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1598027160,
+        "modified":1598334360,
+        "pretty_title":"Mysterious Size Ray Hijinks"
+    }
+}

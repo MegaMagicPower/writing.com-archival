@@ -80,6 +80,18 @@
             "id":2749975,
             "title":"Continue as your mom."
         },
+        "11111212":{
+            "author_id":"qwerty742",
+            "author_name":"qazx7",
+            "choices":[
+                "Go home and explore your new body",
+                "Go outside and spend some time as your mom"
+            ],
+            "content":"<div class=\"\"><div> <span>You decided to live your mother's life for a few days. But for that, you need to deal with your original body which is lying in a vegetable state. You decided to call the emergency number. You called 911 and told them that your 'son' suddenly collapsed on your bed. After sometime They came and took your body away in an ambulance. You went to the hospital and shed fake tears in front of the doctor. The doctor said that your 'son' is in a state of coma and they can't figure out what exactly caused it. After the doctor went away you looked at the soulless body, gave a sly grin, and said: \" I'm gonna enjoy your life for the next few days mom\".</span></div></div>",
+            "created":1597035600,
+            "id":2883512,
+            "title":"Chame um ambul\u00e2ncia, para que retire seu corpo..."
+        },
         "1111122":{
             "choices":[
                 "Go downstairs.",
@@ -257,7 +269,7 @@
         },
         "112":{
             "author_id":"saracen1187",
-            "author_name":"Triss Merigold",
+            "author_name":"Lara Croft",
             "choices":[
                 "Things get out of control.",
                 "Moving your body.",
@@ -294,7 +306,7 @@
         },
         "11232":{
             "author_id":"saracen1187",
-            "author_name":"Triss Merigold",
+            "author_name":"Lara Croft",
             "choices":[
                 "You wake up in your body.",
                 "You're now in Angelina's body.",
@@ -354,7 +366,7 @@
         },
         "11232222":{
             "author_id":"saracen1187",
-            "author_name":"Triss Merigold",
+            "author_name":"Lara Croft",
             "choices":[
                 "The truth.",
                 "Pretend to be your sister.",
@@ -367,7 +379,7 @@
         },
         "112322223":{
             "author_id":"saracen1187",
-            "author_name":"Triss Merigold",
+            "author_name":"Lara Croft",
             "choices":[
                 "...that you live as your sister for a while.",
                 "...that you beg your sister for your body back.",
@@ -561,7 +573,7 @@
         },
         "12":{
             "author_id":"saracen1187",
-            "author_name":"Triss Merigold",
+            "author_name":"Lara Croft",
             "choices":[
                 "The exploration continues.",
                 "Going over to your own body.",
@@ -576,7 +588,7 @@
         },
         "122":{
             "author_id":"saracen1187",
-            "author_name":"Triss Merigold",
+            "author_name":"Lara Croft",
             "choices":[
                 "Retrieving the blowpipe.",
                 "Moving your own body again.",
@@ -589,7 +601,7 @@
         },
         "1221":{
             "author_id":"saracen1187",
-            "author_name":"Triss Merigold",
+            "author_name":"Lara Croft",
             "choices":[
                 "...you reversed the possession.",
                 "...saw your mom heading to the closet.",
@@ -602,7 +614,7 @@
         },
         "12212":{
             "author_id":"saracen1187",
-            "author_name":"Triss Merigold",
+            "author_name":"Lara Croft",
             "choices":[
                 "You accept the inevitable.",
                 "You grab the blowpipe.",
@@ -615,7 +627,7 @@
         },
         "122122":{
             "author_id":"saracen1187",
-            "author_name":"Triss Merigold",
+            "author_name":"Lara Croft",
             "choices":[
                 "Wake Angelina.",
                 "Try waking 'yourself'.",
@@ -628,7 +640,7 @@
         },
         "1221223":{
             "author_id":"saracen1187",
-            "author_name":"Triss Merigold",
+            "author_name":"Lara Croft",
             "choices":[
                 "Your body had woken up.",
                 "Angelina's body had woken up.",
@@ -641,7 +653,7 @@
         },
         "12212232":{
             "author_id":"saracen1187",
-            "author_name":"Triss Merigold",
+            "author_name":"Lara Croft",
             "choices":[
                 "\"Jake is right here... sis!\"",
                 "\"He's unconscious in the closet\".",
@@ -654,7 +666,7 @@
         },
         "122122321":{
             "author_id":"saracen1187",
-            "author_name":"Triss Merigold",
+            "author_name":"Lara Croft",
             "choices":[
                 "Angelina wants to test the pipe.",
                 "She asks you to leave your mom's body.",
@@ -747,6 +759,30 @@
             "created":1477976400,
             "id":2231380,
             "title":"her wardrobe."
+        },
+        "122122321112111211":{
+            "author_id":"frogger2520",
+            "author_name":"KillMePls",
+            "choices":[
+                "Your body is back",
+                "Your body is not back"
+            ],
+            "content":"<div class=\"\"><div> <span>You decide that if you're gonna be a girl for a little while, might as well take advantage of the unique opportunity. You try on several skirts, dresses, short shorts, all varieties of girly stuff before eventually settling on an outfit you like and find comfortable enough. A plain if tight t-shirt, though it occurs to you that that's typical for girl's shirts, and a denim mini-skirt. Top it off with some sneakers and you're feeling comfortable in your new body.<br>\r\n<br>\r\nUnfortunately, dinnertime is looming so you just join your mother at the table. She notices your clothing changed but doesn't comment about it. You notice you eat far less than usual, a side effect of having a smaller, feminine body. <br>\r\n<br>\r\nEventually dinner amongst your family is dismissed, your body containing Angelina conspicuously absent. You pretend to be Angelina for the rest of the night with your family before turning in for bed, changing into pajamas in the process, though you were pleased with your outfit choice of the day.<br>\r\n<br>\r\nThe next morning...</span></div></div>",
+            "created":1596690000,
+            "id":2881288,
+            "title":"Try some normal clothes."
+        },
+        "1221223211121112112":{
+            "author_id":"frogger2520",
+            "author_name":"KillMePls",
+            "choices":[
+                "You find Angelina",
+                "Something else occurs"
+            ],
+            "content":"<div class=\"\"><div> <span>First thing in the morning, you wake up, go to the bathroom, using your knowledge from the previous day's experience to smoothen things out significantly, then check if Angelina returned. No luck. Whelp. Time to get dressed and continue pretending to be your sister.<br>\r\n<br>\r\nYou shuffle around the wardrobe again, this time deciding on a tank top with an A-line skirt. Hey  variety's the spice of life. You find yourself even more startled by all the air circulation you get under your skirt and make a mental note to keep it from flaring up.<br>\r\n<br>\r\nBreakfast eaten, once again small by your manly expectations, you say your goodbyes to your family for the day and venture out on a hunting mission for yourself, blowpipe in hand.</span></div></div>",
+            "created":1596690000,
+            "id":2881292,
+            "title":"Your body is not back"
         },
         "122122321112111212":{
             "choices":[
@@ -858,7 +894,7 @@
         },
         "12212232122":{
             "author_id":"saracen1187",
-            "author_name":"Triss Merigold",
+            "author_name":"Lara Croft",
             "choices":[
                 "Angelina has control.",
                 "You want the pipe back.",
@@ -1029,6 +1065,18 @@
             "created":1544245200,
             "id":2587411,
             "title":"...changed your plan."
+        },
+        "122131":{
+            "author_id":"frogger2520",
+            "author_name":"KillMePls",
+            "choices":[
+                "Someone finds your body",
+                "Reader's choice"
+            ],
+            "content":"<div class=\"\"><div> <span>You decide to go to Angelina's closet. Within, you find a vast array of clothing, packing it near to bursting. Shirts, pants, shorts, skirts, dresses, everything. That explains how she can go clothes shopping every weekend. Apparently this closet just holds everything!<br>\r\n<br>\r\nYou spend who knows how long pulling out various items and trying them on, checking them out, what have you. Normally you wouldn't care, but this chance might never come along again. Might as well make the most out of it. <br>\r\n<br>\r\nFinally, you decide on an outfit. Something you could never wear as a guy. A jean skirt and a midriff exposing top, topped off with a pair of sneakers. As an afterthought, you put on a hairband. All this hair getting in your eyes is annoying you at this point.<br>\r\n<br>\r\nMeanwhile...</span></div></div>",
+            "created":1596949200,
+            "id":2882778,
+            "title":"Explore your sister's wardrobe"
         },
         "13":{
             "author_id":"cale55",
@@ -1860,6 +1908,30 @@
             "id":2863916,
             "title":"\"Would you mind if I borrow the pipe?\""
         },
+        "132131":{
+            "author_id":"darkwar753",
+            "author_name":"Darkwar753",
+            "choices":[
+                "Charlie is possessing your mother",
+                "Charlie isn't possessing your mother"
+            ],
+            "content":"<div class=\"\"><div> <span>Your mom masturbating vigorously as she moans Charlie's name. At first you froze, the tought of catch your own mother masturbating paralyzed you for a while. A few seconds latter you just realized what has happened, your kinky corean friend must have used the blowpipe in your mother to posses her and explore her body.<br>\r\n<br>\r\nAfter realize it, you don't think twice and burst in.</span></div></div>",
+            "created":1597640400,
+            "id":2886986,
+            "title":"Naughty mom"
+        },
+        "1321312":{
+            "author_id":"sirusblue",
+            "author_name":"ChikenLegs",
+            "choices":[
+                "She grab the blowpipe",
+                "Reader's choice"
+            ],
+            "content":"<div class=\"\"><div> <span>You got in and got the shock of your life.Your mother is touching herself on the sofa with her clothe still on.Her hand is rubbing her vagina which was out for the world to see.Her other hand is massaging her breast outside her dress.Her face was really lewd as her tongue sticking out and shouting Charlie name.She really into her masturbating that she didn\u2019t notice you burting in.<br>\r\n<br>\r\nHer clothe was really mess up as her breast sticking out of her dress and her panties got throw out across the room landing on the door knob.The room was a bit of a mess too as few furniture were fallen down and thrown a bout in here and there.Charlie unconscious body was sitting down in front of the wall beside the the door.<br>\r\n<br>\r\n<i>What ?,if Charlie didn\u2019t have the blowpipe then who is it and who is in my mother body ?.</i><br>\r\n<br>\r\nYour mother screaming got louder and her movement got faster.Her finger really went deep to her vagina, not that you aware of it.You panic as someone other than Charlie have the blowpipe as it wasn\u2019t in his unconscious body\u2019s hand.You look left and right looking for the blowpipe.<br>\r\n<br>\r\nWhile you panic your mother is nearing her climax as love juice wet her hand and her body laying silently on the sofa.You finally located the blowpipe which was in the hand of unknown unconscious stranger beside the sofa your mother was on.<br>\r\n<br>\r\nYou tiptoe to the body hoping your mother didn\u2019t heard you, which resulted in vain as your mother laid her eyes on you.Your eyes meet her eyes as you got into weird staring contest.She then got up and sat upright.<br>\r\n</span></div></div>",
+            "created":1597640400,
+            "id":2887015,
+            "title":"Charlie isn't possessing your mother"
+        },
         "132132":{
             "author_id":"saladman",
             "author_name":"WhatYouWant",
@@ -2277,7 +2349,7 @@
         },
         "152":{
             "author_id":"saracen1187",
-            "author_name":"Triss Merigold",
+            "author_name":"Lara Croft",
             "choices":[
                 "The new Andria is mean.",
                 "Just messing with him.",
@@ -2290,7 +2362,7 @@
         },
         "1522":{
             "author_id":"saracen1187",
-            "author_name":"Triss Merigold",
+            "author_name":"Lara Croft",
             "choices":[
                 "Your powers of persuasion.",
                 "Threatening Angelina.",
@@ -2303,7 +2375,7 @@
         },
         "15221":{
             "author_id":"saracen1187",
-            "author_name":"Triss Merigold",
+            "author_name":"Lara Croft",
             "choices":[
                 "Angelina gets her own body back.",
                 "She has other plans."
@@ -2315,7 +2387,7 @@
         },
         "152211":{
             "author_id":"saracen1187",
-            "author_name":"Triss Merigold",
+            "author_name":"Lara Croft",
             "choices":[
                 "...her body again.",
                 "...oops, a misdirection."
@@ -2327,7 +2399,7 @@
         },
         "1522112":{
             "author_id":"saracen1187",
-            "author_name":"Triss Merigold",
+            "author_name":"Lara Croft",
             "choices":[
                 "You relent.",
                 "You stick to your guns.",
@@ -2938,8 +3010,8 @@
         "description":"<td align=\"left\" class=\"norm\">You received a special gift one day when you were getting the mail. Inside the mail box there was a package addressed to you. Not wanting anyone to notice it you quickly make your way upstairs to your room. When you opened it, you saw a blowpipe inside it with a letter addressed to you. It described what the purpose is of the blowpipe. With it you can blow your soul inside someone else their body, taking over their body. When you want to leave you just have to use the blowpipe again. <br>\r\n<br>\r\nThis is your family:<br>\r\n<br>\r\nYou (Jake): 18 years old An average student, a good guy but a bit perverted sometimes. <br>\r\n<br>\r\nYour mom (Andria) 40 years old Your father left your mother some time ago. She's over it now, and clearly wants to have a relationship again. A short woman, with long brown hair, and a bit of a mousy face. She has c-cup breasts. <br>\r\n<br>\r\nYour younger sister (Angelina): 17 years old. Your younger sister who you have a love/ hate relationship with. She has short blond curly hair, freckles, and currently a-cup breasts. <br>\r\n<br>\r\nYour older sister (Tracy) 19 years old She is the the oldest sibling and the one everyone likes. She is always in charge of things, So it's no surprise she's currently studying business at the local university. She's a few inches taller than you, but that's because she wears high heels most of the time, has long blond hair usually in a ponytail, and has d-cup breasts.<br>\r\n<br>\r\nYour younger brother (Frankie) 16 years old. The one looking up to you, in the beginning it was pretty annoying that he wanted to do everything you would but now you're getting used to it. He has your mother's hair color having it hang till his shoulder. He mostly hangs with a couple of geeks of your school. <br>\r\n<br>\r\nFeel free to add new characters<br>\r\n<br>\r\nRule<br>\r\n1. Enjoy yourselves. <br>\r\n2. If you add a chapter I'll give you points or add to your story if you want. <br>\r\n</td>",
         "id":1946981,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1595058000,
-        "modified":1595058000,
+        "last_full_update":1597078140,
+        "modified":1597689840,
         "pretty_title":"The possession blowpipe"
     }
 }

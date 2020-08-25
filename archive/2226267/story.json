@@ -47,7 +47,7 @@
                 "Ava L. Laurence",
                 "Another Teacher."
             ],
-            "content":"<div class=\"\"><div> <span>Who are you once more?<br>\r\n<br>\r\n<b>Jubilee Darrieux</b><br>\r\nIn-coming teacher of the new French language department, Jubilee has gotten a reputation as being the sunniest woman ever known in recent memory. She's optimistic, she bright, she possess a sharp wit. What's else can be said about the woman, well, she does have a knack for finding herself in places she isn't supposed to be. That isn't going to be a problem...right?<br>\r\n<br>\r\n<b>Coach Ava L. Laurence</b><br>\r\nHead of the school's woman's soccer league, Ava is a gruff whistle-blower. Third daughter of the town's largest meatpacking facility, Ava's suffers a stigma that her position was caused by nepotism. Make no mistake though, she runs a tight ship on her team.</span></div></div>",
+            "content":"<div class=\"\"><div> <span>Who are you once more?<br>\r\n<br>\r\n<b>Jubilee Darrieux</b><br>\r\nIn-coming teacher of the new French language department, Jubilee has gotten a reputation as being the sunniest woman ever known in recent memory. She's optimistic, she bright, she possess a sharp wit. What's else can be said about the woman, well, she does have a knack for finding herself in places she isn't supposed to be. That isn't going to be a problem...right?<br>\r\n<br>\r\n<b>Coach Ava L. Laurence</b><br>\r\nHead of the school's woman's soccer league, Ava is a gruff whistle-blower. Third daughter of the town's largest meatpacking facility owner, Ava's suffers a stigma that her position was caused by nepotism. Make no mistake though, she runs a tight ship on her team.</span></div></div>",
             "created":1594098000,
             "id":2863726,
             "title":"Teacher"
@@ -65,6 +65,19 @@
             "id":2863751,
             "title":"Student"
         },
+        "1121":{
+            "author_id":"keroro04",
+            "author_name":"Keroro04",
+            "choices":[
+                "Maya Kammie",
+                "Joy Heather",
+                "Other Freshmen"
+            ],
+            "content":"<div class=\"\"><div> <span><b>Maya Kammie</b><br>\r\nBorn and having lived her entire life in Great Tracts, Maya has gotten used to the various different sizes and bodies of people within the city as well as the various problems that some people can have due to differences in size or weight. Already standing pretty tall at 9 feet and only growing, Maya has done some growing already due to her house being very close to a chemical plant, but she is taking her slow growth in stride rather than freaking out about it.<br>\r\n<br>\r\n<b>Joy Heather</b><br>\r\nA rather minuscule woman standing at a mere 3'0\", Joy Heather is one of the shortest women to enroll within Great Tracts University, taking a major in cooking. Enjoying the growth in others, Joy has been studying the growth of others so she could try in learning how she can make others grow from simply using meals, so she can have all the enjoyment in watching others grow, while also trying to figure out a way to reverse said growth in case someone would get... too big.</span></div></div>",
+            "created":1597640400,
+            "id":2886726,
+            "title":"Freshmen"
+        },
         "1123":{
             "author_id":"jawsometeeth",
             "author_name":"Goodvibes",
@@ -76,6 +89,19 @@
             "created":1594098000,
             "id":2863752,
             "title":"Other Age"
+        },
+        "11231":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "The Carter Twins",
+                "Sharon Whit",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span><b>The Carter Twins</b><br>\r\nCurrently attending \"exquisitely contained\" classes,the Carter Twins were known troublemakers of the school. Playing pranks on others and being a genuine hassle. The three main reasons that they were never expelled were:<br>\r\n1. They had pretty good grades.<br>\r\n2.Their father is the mayor's secretary<br>\r\n3.They've never been officially caught. <br>\r\nSomething did seemed to have happened over the summer though and the Carter Twins seemed changed. What with wearing very baggy clothing at all times now. Their names are Jenna and Molly; one dyes her hair blonde while the other still has her natural raven locks.<br>\r\n<br>\r\n<b>Sharon Whit</b><br>\r\nA STEM student, Sharon's current endeavor is investigating the town's strange people. She feels she's on the precipice of discovery though she may soon come across more than she bargained for in that regards. She's farsighted and so most of the time her glasses sit on the top of her mousy brown hair. She favors sweaters and skirts mashups for her usual attire.</span></div></div>",
+            "created":1597467600,
+            "id":2886094,
+            "title":"Junior"
         },
         "12":{
             "author_id":"frown",
@@ -91,6 +117,71 @@
             "created":1594962000,
             "id":2870657,
             "title":"Town"
+        },
+        "121":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Doctor",
+                "Nurse",
+                "Patient"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Now who do we follow?</span></div></span></div>",
+            "created":1597467600,
+            "id":2886082,
+            "title":"Hospital"
+        },
+        "1213":{
+            "author_id":"arkham0025",
+            "author_name":"DJ",
+            "choices":[
+                "Carla Wickman",
+                "Toby Hadley",
+                "Another Patient"
+            ],
+            "content":"<div class=\"\"><div> <span>Alright, now who is our patient here?<br>\r\n<br>\r\n<b>Carla Wickman</b><br>\r\nThe owner of the town's fitness center, Carla is a sporty tomboy who'll do what she can to whip others into shape. Normally, the staff of the hospital would only be seeing her teaching fitness classes, but today she's in as a patient with a very odd problem: she woke up this morning to discover her breasts had grown dramatically, and she's now having serious back pain because of it.<br>\r\n<br>\r\n<b>Toby Hadley</b><br>\r\nOne of the town's mechanics, Toby is an absolutely expert in all things car. If it's engine trouble, brake issues, or problems with the wheels, Toby's the guy to talk to. So why's he here? He hit his thumb with a hammer... and instead of bleeding, the thumb went completely flat.</span></div></div>",
+            "created":1597467600,
+            "id":2886089,
+            "title":"Patient"
+        },
+        "122":{
+            "author_id":"keroro04",
+            "author_name":"Keroro04",
+            "choices":[
+                "Michael Mareow",
+                "Bella Belle",
+                "More People from Evergreen Forest..."
+            ],
+            "content":"<div class=\"\"><div> <span><b>Michael Marrow</b><br>\r\nA camp guide to the Evergreen Forest, Michael Marrow has learned all about the various different kinds of wildlife within the Evergreen Forest, giving him careful knowledge on how to survive within the forest. He gives out tours throughout the summer to people who wish to explore nature, but he is not in charge of any changes caused by the Forest. He stands out at 6\u20190\u201d and has dark brown hair.<br>\r\n<br>\r\n<b>Bella Belle</b><br>\r\nA rather bizarre woman with long green hair who lives at the very center of the Evergreen Forest, living among nature and only rarely comes out to the main city to occasionally stock up on food. She claims to be a nature spirit, but aside from flowers blooming wherever she walks, nobody has been able to approve or deny this. She has a vested interest in protecting the Forest, but thanks to the weird nature of the Forest her body is prone to changing in size constantly, from being a giant to being merely a foot tall.</span></div></div>",
+            "created":1597640400,
+            "id":2886731,
+            "title":"Evergreen Forest"
+        },
+        "1222":{
+            "author_id":"keroro04",
+            "author_name":"Keroro04",
+            "choices":[
+                "\"You know what... sure.\"",
+                "\"Sorry, can't. Too busy cleaning the forest...\"",
+                "Something interrupts Bella before she can answer."
+            ],
+            "content":"<div class=\"\"><div> <span>In the outskirts of the city of Great Tracts lies the Evergreen Forest, a expanse of wildlife and trees that has been used for camping destinations by people all across the city. However, despite the niceness of the woods, contamination from both the common tourist leaving garbage as well as the abandoned chemical plants has warped the wildlife within, giving them weird properties that can change the bodies of those who enter if they are not careful.<br>\r\n<br>\r\nNormally, because of this, most people do not choose to live in these woods. However, in the center of these woods lives a certain woman, all by her lonesome...<br>\r\n<br>\r\n\"Hmph... another human has left trash in these woods... why do I have to always clean it up...\"<br>\r\n<br>\r\nPicking up another plastic bottle would be a green-haired woman with pointed ears by the name of Bella Belle, who at the time was only standing at a mere 1'0\", requiring her to use both hands to carry it above her head. She had found her size to wildly fluctuate over time, and as of now she was was on the shorter end of her usual size, which she did not prefer due to it making her job harder.<br>\r\n<br>\r\n\"It's days like this that make me wish I had direct control over my size...\"<br>\r\n<br>\r\nSlowly carrying the plastic bottle out of the depths of the forest, Bella would eventually climb up a bench in order to reach a garbage can, before throwing in the bottle and watching it land in the garbage can. As she would hop back onto the ground though, the woman would hear a ringing from her phone, and as the woman would pull it out, she would check out who was calling.<br>\r\n<br>\r\n\"Hey It's Bella, what do you want?\"<br>\r\n<br>\r\n\"Yo Bella, it's me Trisha! Wanted to ask if you wanted to come with me to the public pool with me today, They're offering a discount today and I thought you could relief some stress by swimming...\"<br>\r\n<br>\r\nUpon realizing who was on the other end, Bella would sigh heavily as she thought about Trisha. She was one of her few friends outside of the Evergreen Forest, but she seemed to stay consistently at a 7'0\" height while she herself has changed in height with every visit. However, she had never really shown up below 5 feet to Trisha, which worried her a bit on what she would think if she saw her that small.<br>\r\n<br>\r\n\"So, you coming or no?\" </span></div></div>",
+            "created":1597726800,
+            "id":2887261,
+            "title":"Bella Belle"
+        },
+        "123":{
+            "author_id":"keroro04",
+            "author_name":"Keroro04",
+            "choices":[
+                "Chefs",
+                "Waiters/Waitresses",
+                "Food Critics"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who will we follow?</span></div></span></div>",
+            "created":1597640400,
+            "id":2886911,
+            "title":"Restaurant District"
         }
     },
     "info":{
@@ -98,11 +189,11 @@
         "author_name":"Goodvibes",
         "brief_description":"A perfect place for lads and ladies of all sizes",
         "created":1594157880,
-        "description":"<td align=\"left\" class=\"norm\">What can be said of Great Tracts? The university is considered the highest class of the entire region, while the town is considered the most perfect blend of cool forests and calm river beaches. With a population of over two-hundred thousand, and with a rising populace to boot, it seems that town's popularity is ever on the rise. But there have been some concerns with the town's populace. Like how two-thirds of anybody ages seventeen to thirty-two have suffered some <i>minor</i>physical mishaps. Maybe its something in the water, or the air, maybe its the science building acting up, or maybe its that old chemical plant leaking into the fields. Whatever the case, its not <i>that</i> bad...right?<br>\r\n<br>\r\nRules:<br>\r\n<br>\r\nFetishes(If it's not on the list, do not add): <br>\r\n<b>1.All types of expansion/inflation(that includes Fruits in the mix)<br>\r\n1a. On Giant(ess), their size should never exceed one-hundred feet. On berries, the size in both diameter or height should never exceed fifty feet. On inflation, whether they be air or water or what else, the size should never exceed eighty feet.<br>\r\n1b. Multiple fetishes can be mashed together.<br>\r\n<br>\r\n2.Shrinkage.<br>\r\n2a. The size should never go below five inches in height.<br>\r\n<br>\r\n3. Bendies, or more accurately, flattening or stretchable bodies. Mr. Fantastic or flatman and the like. <br>\r\n3a. Lengths should never exceed three-hundred feet if they're rubber men/women.<br>\r\n<br>\r\n4.Balloon girls/guys or anthropomorphic pool toys.<br>\r\n<br>\r\n5.Hose stuffing, force feeding,absorption, and all other types of mouth filling.</b><br>\r\n----------------------------------------------------------------------------------------------------------<br>\r\n<br>\r\nBoth Ladies and Lads can expand in this interactive. <br>\r\nNudity is a-okay. Don't be too graphic in that though.<br>\r\nMethods of expansion, whether they be from sight, or sound, or even allergies, doesn't matter.<br>\r\nExpansion is permanent in all cases except: Breast Expansion, Berrisim, and Ballooning.<br>\r\n<i>A. Breast Expansion should only cut down ten inches all around every milking session.<br>\r\nB. Berrisim should always shrink an afflicted down, unless stated otherwise. It should also lead towards permanent flexibility.<br>\r\nC. Ballooning does/does not lead to flattening, depending on the writer's preference.</i> <br>\r\nSpelling and grammar should both be at an acceptable level of comprehension.<br>\r\nA chapter should have at least <i>1100</i> in characters.<br>\r\n</td>",
+        "description":"<td align=\"left\" class=\"norm\">What can be said of Great Tracts? The university is considered the highest class of the entire region, while the town is considered the most perfect blend of cool forests and calm river beaches. With a population of over two-hundred thousand, and with a rising populace to boot, it seems that town's popularity is ever on the rise. But there have been some concerns with the town's populace. Like how two-thirds of anybody ages seventeen to thirty-two have suffered some <i>minor</i> physical mishaps. Maybe its something in the water, or the air, maybe its the science building acting up, or maybe its that old chemical plant leaking into the fields. Whatever the case, its not <i>that</i> bad...right?<br>\r\n<br>\r\nRules:<br>\r\n<br>\r\nFetishes(If it's not on the list, do not add): <br>\r\n<b>1.All types of expansion/inflation(that includes Fruits in the mix)<br>\r\n1a. On Giant(ess), their size should never exceed one-hundred feet. On berries, the size in both diameter or height should never exceed fifty feet. On inflation, whether they be air or water or what else, the size should never exceed eighty feet.<br>\r\n1b. Multiple fetishes can be mashed together.<br>\r\n<br>\r\n2.Shrinkage.<br>\r\n2a. The size should never go below five inches in height.<br>\r\n<br>\r\n3. Bendies, or more accurately, flattening or stretchable bodies. Mr. Fantastic or flatman and the like. <br>\r\n3a. Lengths should never exceed three-hundred feet if they're rubber men/women.<br>\r\n<br>\r\n4.Balloon girls/guys or anthropomorphic pool toys.<br>\r\n<br>\r\n5.Hose stuffing, force feeding,absorption, and all other types of mouth filling.</b><br>\r\n----------------------------------------------------------------------------------------------------------<br>\r\n<br>\r\nBoth Ladies and Lads can expand in this interactive. <br>\r\nNudity is a-okay. Don't be too graphic in that though.<br>\r\nMethods of expansion, whether they be from sight, or sound, or even allergies, doesn't matter.<br>\r\nExpansion* is permanent in all cases except: Breast Expansion, Berrisim, and Ballooning.<br>\r\n<i>A. Breast Expansion should only cut down ten inches all around every milking session.<br>\r\nB. Berrisim should always shrink an afflicted down, unless stated otherwise. It should also lead towards permanent flexibility.<br>\r\nC. Ballooning does/does not lead to flattening, depending on the writer's preference.</i> <br>\r\nSpelling and grammar should both be at an acceptable level of comprehension.<br>\r\nA chapter should have at least <i>1100</i> in characters.<br>\r\n*That are not triggered-as in from allergies or sight or sound,etc.</td>",
         "id":2226267,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1595025660,
-        "modified":1595025660,
+        "last_full_update":1597729320,
+        "modified":1597729320,
         "pretty_title":"Great Tracts University and Town"
     }
 }

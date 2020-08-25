@@ -252,6 +252,92 @@
             "id":1164481,
             "title":"Calysta the Horse"
         },
+        "152":{
+            "author_id":"jake115",
+            "author_name":"Jake",
+            "choices":[
+                "She sees you as a threat to her civilization, and you must be delt with.",
+                "She sees you as a potential Ally, you are treated to a feast.",
+                "You are killed. Humans are of the evil one."
+            ],
+            "content":"<div class=\"\"><div> <span>  Lifting your eyes from the floor, the empress sits wearily upon her throne, almost anticipating the worst possible outcome. Your thick humid hair obstructs your sky blue eyes from her gaze as she scans you up and down. Thoughts are racing through your mind as your heart rate skyrockets.<br>\r\n<br>\r\n  The empress stands from her throne and dutifully approaches you.</span></div></div>",
+            "created":1598245200,
+            "id":2890446,
+            "title":"Talia the Hyena"
+        },
+        "1522":{
+            "author_id":"jake115",
+            "author_name":"Jake",
+            "choices":[
+                "Speak, \" untie me.\"",
+                "Speak, \"yes, I feel pretty hungry...\"",
+                "You are mute."
+            ],
+            "content":"<div class=\"\"><div> <span>  \"Are you hungry?\" The empress asks as she lifts your chin with her paw. You were pretty sure you \"expelled\" most of your last meal into the ocean, and are feeling quite unsatisfied. Your drawn out silence was almost insulting to her. She was beginning to wonder if you even spoke at all.</span></div></div>",
+            "created":1598245200,
+            "id":2890456,
+            "title":"A feast."
+        },
+        "15221":{
+            "author_id":"jake115",
+            "author_name":"Jake",
+            "choices":[
+                "I am a human",
+                "<lie> I am an angel, sent to save your crumbling civilization."
+            ],
+            "content":"<div class=\"\"><div> <span>  Your deep voice was sudden and reverberant through her throne room. \"Unbind me.\" A simple demand. Her smug expression was pissing you off, even if your face didn't show it. Her subtle nod was all it took for your binds to be cut with the tip of a spear. <br>\r\n<br>\r\n  She waved her guards away as she began to circle you. Still on your knees, you took notice of the red marks left in your skin from the vines. \"You have such a beautiful voice...\" She trailed off, clearly searching for a word to call you. She stopped circling you, and knelt to your level. What are you called?</span></div></div>",
+            "created":1598245200,
+            "id":2890461,
+            "title":"Demanding"
+        },
+        "152212":{
+            "author_id":"jake115",
+            "author_name":"Jake",
+            "choices":[
+                "Show her the intricacy of your clothing.",
+                "Show her the detailed \"holy\" tattoos on your body."
+            ],
+            "content":"<div class=\"\"><div> <span>  Her expression shifted to one of shock and disbelief. \"A- an angel!? How can I be sure?\" Her demeanor had crumbled before your very eyes, no longer was she so sure about her position of power. You were very entertained by the situation at hand and decided to play along. Removing your button-up flower print shirt, you begin to speak; \"I have been sent with very little, and have very little to show you. But I have this...\"</span></div></div>",
+            "created":1598245200,
+            "id":2890464,
+            "title":"An angel"
+        },
+        "1522121":{
+            "author_id":"jake115",
+            "author_name":"Jake",
+            "choices":[
+                "This reminds the empress of her nation's water issue.",
+                "Reader's choice."
+            ],
+            "content":"<div class=\"\"><div> <span>  Having removed your shirt, you show her how this shirt could not have been created by human hands, while refusing to tell the awestruck empress how the shirt was infact mass-produced by a large company back home. Before, she thought you dressed strangely, but now she fully believed that you were an angel, whatever an angel was. <br>\r\n<br>\r\n  Your slim torso was now exposed to the damp, heavy air in the throne room, and you were beginning to sweat. This quickly drew the attention of the empress.</span></div></div>",
+            "created":1598245200,
+            "id":2890468,
+            "title":"Show her the intricacy of your clothing."
+        },
+        "15221211":{
+            "author_id":"jake115",
+            "author_name":"Jake",
+            "choices":[
+                "Miles of ruin, this once great city had fallen.",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>   The sight of your sweat struck a critical chord with the empress. You had not quite caught on with why she was suddenly so tense. She took your five fingered hand in her furry paw, and started tward a balcony. She began speaking in a very serious voice. \"My nation has been unsustainable on rainwater alone, and the ocean is not good to drink. My people are thirsty.\" You both arrive at the balcony, and she drops your hand. You both look out over the village to see:</span></div></div>",
+            "created":1598245200,
+            "id":2890473,
+            "title":"Water water everywhere..."
+        },
+        "152212111":{
+            "author_id":"jake115",
+            "author_name":"Jake",
+            "choices":[
+                "Use your technical know-how to take over from here.",
+                "Continue gently guiding their society."
+            ],
+            "content":"<div class=\"\"><div> <span>  Miles of barely standing structures lie inhabited by (from what you can see) females, very basic rain collectors are dotted around the city with lines. You watch as young male \"cubs\" are loaded onto a cart and hauled to the outer gates of the city. The entire city is filthy and covered in various grime. <br>\r\n<br>\r\n  Taking it all in, you exhale disappointedly. Keeping up the angel facade, you speak again. \"Your civilization is falling apart. If your people do not take immediate action, you will all starve off.\" A look of horror and dread creeps into the empres'es face as she digests those words. \"What should we do angel?\" Her body language has become frail and timid.</span></div></div>",
+            "created":1598245200,
+            "id":2890474,
+            "title":"Ruin."
+        },
         "154":{
             "author_id":"tharris2",
             "author_name":"dragoness seeker",
@@ -1358,7 +1444,7 @@
         "id":1764611,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
         "last_full_update":1561195860,
-        "modified":1561195860,
+        "modified":1598254980,
         "pretty_title":"Island of the Furries"
     }
 }

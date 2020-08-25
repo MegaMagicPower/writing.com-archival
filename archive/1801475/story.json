@@ -996,7 +996,7 @@
         },
         "11511":{
             "author_id":"saracen1187",
-            "author_name":"Triss Merigold",
+            "author_name":"Emily Kaldwin",
             "choices":[
                 "A little shopping perhaps?",
                 "They both 'shift' again."
@@ -1008,7 +1008,7 @@
         },
         "115111":{
             "author_id":"saracen1187",
-            "author_name":"Triss Merigold",
+            "author_name":"Emily Kaldwin",
             "choices":[
                 "A store assistant approaches.",
                 "One of his dad's friends shows up."
@@ -1084,7 +1084,7 @@
         },
         "12211":{
             "author_id":"saracen1187",
-            "author_name":"Triss Merigold",
+            "author_name":"Emily Kaldwin",
             "choices":[
                 "Ryan loses it.",
                 "Ryan has more questions."
@@ -1182,7 +1182,7 @@
         },
         "1231221112":{
             "author_id":"saracen1187",
-            "author_name":"Triss Merigold",
+            "author_name":"Emily Kaldwin",
             "choices":[
                 "His admirer returns.",
                 "Time to leave."
@@ -1206,7 +1206,7 @@
         },
         "123122111221":{
             "author_id":"saracen1187",
-            "author_name":"Triss Merigold",
+            "author_name":"Emily Kaldwin",
             "choices":[
                 "Several dresses later.",
                 "Someone catches Ryan's eye."
@@ -1230,7 +1230,7 @@
         },
         "12312211122122":{
             "author_id":"saracen1187",
-            "author_name":"Triss Merigold",
+            "author_name":"Emily Kaldwin",
             "choices":[
                 "Returning to Jennifer and Katie.",
                 "More discussion with Sam."
@@ -1254,7 +1254,7 @@
         },
         "1231221112212211":{
             "author_id":"saracen1187",
-            "author_name":"Triss Merigold",
+            "author_name":"Emily Kaldwin",
             "choices":[
                 "Katie is still there...sort of.",
                 "Sam approves."
@@ -1278,7 +1278,7 @@
         },
         "123122111221221112":{
             "author_id":"saracen1187",
-            "author_name":"Triss Merigold",
+            "author_name":"Emily Kaldwin",
             "choices":[
                 "The discussion continues.",
                 "Jennifer returns with her skirt of choice."
@@ -1302,7 +1302,7 @@
         },
         "12312211122122111222":{
             "author_id":"saracen1187",
-            "author_name":"Triss Merigold",
+            "author_name":"Emily Kaldwin",
             "choices":[
                 "They get hit on.",
                 "Jennifer has to 'powder her nose'.."
@@ -2587,6 +2587,18 @@
             "id":2490832,
             "title":"Timmy swaps heads with another pro sports athlete"
         },
+        "13333":{
+            "author_id":"dayaman",
+            "author_name":"dayaman",
+            "choices":[
+                "male",
+                "female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Timmy wondered what it would be like to be in the shoes of a celebrity. \"I wish I was a movie star!\" he said to himself. And thus, his head ended up onto the body of a Hollywood celeb, one that is...</span></div></span></div>",
+            "created":1597899600,
+            "id":2888650,
+            "title":"he wants to swap with a movie star instead"
+        },
         "134":{
             "author_id":"riff317",
             "author_name":"The Head Swapper",
@@ -2707,7 +2719,7 @@
         },
         "1342":{
             "author_id":"saracen1187",
-            "author_name":"Triss Merigold",
+            "author_name":"Emily Kaldwin",
             "choices":[
                 "Someone enters the bedroom.",
                 "He decides to go back to the shop.",
@@ -11718,8 +11730,8 @@
         "description":"<td align=\"left\" class=\"norm\">People begin to swap heads, but you choose how...<br>\r\n<br>\r\nMain character options...<br>\r\n<br>\r\nJeff Samuels-15 year old nerd<br>\r\n<br>\r\nRyan Howe- 45 year old divorced man<br>\r\n<br>\r\nTimmy Anderson- 10 year old boy<br>\r\n<br>\r\nFrank Meyers- 25 year old college graduate</td>",
         "id":1801475,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1596052800,
-        "modified":1596052800,
+        "last_full_update":1597958940,
+        "modified":1597958940,
         "pretty_title":"You Choose How Headswap"
     }
 }

@@ -874,7 +874,7 @@
         },
         "12":{
             "author_id":"saracen1187",
-            "author_name":"Triss Merigold",
+            "author_name":"Lara Croft",
             "choices":[
                 "...your mom.",
                 "...your older sister Susan.",
@@ -3213,7 +3213,7 @@
         },
         "1411":{
             "author_id":"saracen1187",
-            "author_name":"Triss Merigold",
+            "author_name":"Lara Croft",
             "choices":[
                 "Bill summons the receptionist.",
                 "The interview goes well.",
@@ -5128,6 +5128,31 @@
             "id":2875487,
             "title":"One Piece"
         },
+        "14411222113":{
+            "author_id":"mbrody",
+            "author_name":"MBrody",
+            "choices":[
+                "yes",
+                "no"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0If they are now treating you like a little girl, do they now question what you are doing here?</span></div></span></div>",
+            "created":1596690000,
+            "id":2881408,
+            "title":"They treat you as if you were actually a little..."
+        },
+        "144112221131":{
+            "author_id":"byren",
+            "author_name":"CJ",
+            "choices":[
+                "Tell them the truth and hope they believe you",
+                "Pretend to be a lost little girl, you don't think they'd believe the truth",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>Your attention snapped back from the feeling of the swimsuit against your skin to the interviewers when one of them suddenly asked \"oh honey, are you lost? Do you know where your mommy is?\"<br>\r\n<br>\r\n\"Ermm\" you started, quite confused, \"my... mommy?\"<br>\r\n<br>\r\n\"Yes dear,\" one of the women said, coming over and crouching down in front of your seat, \"little girls like you shouldn't be wandering around alone. Who's looking after you?\"<br>\r\n<br>\r\nYou were totally shocked that they didn't seem to care that you were dressed in a little girl's swimming costume, and what's more, they actually thought you were a little girl!<br>\r\n<br>\r\nHow do you proceed?</span></div></div>",
+            "created":1596949200,
+            "id":2883003,
+            "title":"yes"
+        },
         "144112222":{
             "author_id":"inujon",
             "author_name":"Inujon",
@@ -6128,8 +6153,8 @@
         "description":"<td align=\"left\" class=\"norm\">Your name is Phillip Parker and one day you gain the ability to swap the clothes you are wearing with the clothes that a girl you know is wearing just by thinking about it. Other people don't notice the change except for those you swapped with. The only exception to this rule is if you really want to you can allow someone else to see the changes.<br>\r\n<br>\r\n<b>Basic Rules: </b><br>\r\n1. No personality changes<br>\r\n2. No killing characters<br>\r\n3. The main character gains no other powers<br>\r\n4. the swap must be with someone you know (no celebrities)<br>\r\n<br>\r\nPlease add and <b>Enjoy!</b><br>\r\n<br>\r\nP.S. The clothes adjust size (but not proportions) to fit you and people think that it is normal for you to wear the clothes you gain in the swap</td>",
         "id":1676621,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1595770080,
-        "modified":1595770080,
+        "last_full_update":1597004160,
+        "modified":1597004160,
         "pretty_title":"Outfit Swaps"
     }
 }

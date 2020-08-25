@@ -114,6 +114,67 @@
             "id":2514903,
             "title":"HELLOLA WELCOME TO ALOLA!"
         },
+        "1112":{
+            "author_id":"gpgclean",
+            "author_name":"YugiohPKMN ",
+            "choices":[
+                "Fire",
+                "Water",
+                "Grass"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, now choose your type.</span></div></span></div>",
+            "created":1597813200,
+            "id":2887995,
+            "title":"Standard"
+        },
+        "11121":{
+            "author_id":"gpgclean",
+            "author_name":"YugiohPKMN ",
+            "choices":[
+                "Vulpix line, please.",
+                "Nah, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>We will start with the Vulpix line!</span></div></span></div>",
+            "created":1597813200,
+            "id":2888013,
+            "title":"Fire"
+        },
+        "111211":{
+            "author_id":"gpgclean",
+            "author_name":"YugiohPKMN ",
+            "choices":[
+                "Kanto Vulpix",
+                "Alolan Vulpix"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So now, you choose between Vulpix, or Alolan Vulpix.<br>\r\n<br>\r\n\u201cBut Alolan Vulpix is Ice Type!\u201c<br>\r\n<br>\r\nIt\u2019s still Vulpix.</span></div></span></div>",
+            "created":1597813200,
+            "id":2888014,
+            "title":"Regional choices"
+        },
+        "1112111":{
+            "author_id":"gpgclean",
+            "author_name":"YugiohPKMN ",
+            "choices":[
+                "Vulpix",
+                "Ninetails"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Now, Vulpix, or it\u2019s evolved form Ninetails?</span></div></span></div>",
+            "created":1597813200,
+            "id":2888016,
+            "title":"Kanto Vulpix"
+        },
+        "1112112":{
+            "author_id":"gpgclean",
+            "author_name":"YugiohPKMN ",
+            "choices":[
+                "Vulpix",
+                "Ninetails"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Now, Vulpix, or it\u2019s evolved form Ninetails?</span></div></span></div>",
+            "created":1597813200,
+            "id":2888024,
+            "title":"Alolan Vulpix"
+        },
         "1113":{
             "author_id":"gpgclean",
             "author_name":"YugiohPKMN ",
@@ -126,6 +187,42 @@
             "created":1530680400,
             "id":2514893,
             "title":"Legend/Unique."
+        },
+        "11132":{
+            "author_id":"gpgclean",
+            "author_name":"YugiohPKMN ",
+            "choices":[
+                "Suicune!",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So you choose <span style=\"text-decoration:line-through\">Best Legendary Beast</span> Suicune?</span></div></span></div>",
+            "created":1596862800,
+            "id":2882172,
+            "title":"Jesus Leopard"
+        },
+        "11133":{
+            "author_id":"gpgclean",
+            "author_name":"YugiohPKMN ",
+            "choices":[
+                "Moltres",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Moltres is your choice?</span></div></span></div>",
+            "created":1596862800,
+            "id":2882129,
+            "title":"Fire Turkey"
+        },
+        "111332":{
+            "author_id":"gpgclean",
+            "author_name":"YugiohPKMN ",
+            "choices":[
+                "Entei",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So how about Entei?</span></div></span></div>",
+            "created":1596862800,
+            "id":2882158,
+            "title":"Shishi"
         },
         "112":{
             "author_id":"gpgclean",
@@ -152,6 +249,30 @@
             "created":1530680400,
             "id":2514901,
             "title":"Electric types! "
+        },
+        "11213":{
+            "author_id":"gpgclean",
+            "author_name":"YugiohPKMN ",
+            "choices":[
+                "Zapdos",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, so you choose Zapdos?</span></div></span></div>",
+            "created":1596862800,
+            "id":2882171,
+            "title":"Thunder Big Bird"
+        },
+        "112132":{
+            "author_id":"gpgclean",
+            "author_name":"YugiohPKMN ",
+            "choices":[
+                "Raikou",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, so you choose Raikou?</span></div></span></div>",
+            "created":1596862800,
+            "id":2882174,
+            "title":"Thunder Cat, Ho!"
         },
         "113":{
             "author_id":"sweetace2211",
@@ -311,6 +432,18 @@
             "id":2205608,
             "title":"Male"
         },
+        "12313":{
+            "author_id":"gpgclean",
+            "author_name":"YugiohPKMN ",
+            "choices":[
+                "Weight Gain",
+                "other "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about some good old fashioned Weight Gain?</span></div></span></div>",
+            "created":1596776400,
+            "id":2881829,
+            "title":"WG"
+        },
         "1232":{
             "author_id":"bane23",
             "author_name":"Bane23",
@@ -396,6 +529,19 @@
             "id":2324296,
             "title":"Gatomon line (Gatomon is Champion level) Do you..."
         },
+        "1253":{
+            "author_id":"gpgclean",
+            "author_name":"YugiohPKMN ",
+            "choices":[
+                "Aramdillomon ",
+                "Hawkmon",
+                "More choices."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, so the previous writer might not have been on the right tab? Regardless.....<br>\r\n<br>\r\nYour next two choices are Aramdillomon and it\u2019s evolution line,<br>\r\n<br>\r\nor Hawkmon and it\u2019s evolution line.</span></div></span></div>",
+            "created":1596776400,
+            "id":2881827,
+            "title":"IVEEEEE BEEN WORKING ON THE RAIL ROAD-"
+        },
         "13":{
             "author_id":"maccar110",
             "author_name":"Fanfic T-Mac",
@@ -410,6 +556,80 @@
             "created":1502686800,
             "id":2369069,
             "title":"Both 'Mons, more fun!"
+        },
+        "131":{
+            "author_id":"gpgclean",
+            "author_name":"YugiohPKMN ",
+            "choices":[
+                "Kanto",
+                "Johto ",
+                "Hoenn and beyond"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>But which humans from Pokemon should the story have?</span></div></span></div>",
+            "created":1596776400,
+            "id":2881841,
+            "title":"With the Pokemon humans."
+        },
+        "1313":{
+            "author_id":"gpgclean",
+            "author_name":"YugiohPKMN ",
+            "choices":[
+                "Hoenn",
+                "Sinnoh",
+                "Unova and beyond"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>More places that the humans that the story focuses on can come from.</span></div></span></div>",
+            "created":1596776400,
+            "id":2881846,
+            "title":"Hoenn and beyond"
+        },
+        "13133":{
+            "author_id":"gpgclean",
+            "author_name":"YugiohPKMN ",
+            "choices":[
+                "Unova",
+                "Kalos and beyond"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Choose characters from Unova?</span></div></span></div>",
+            "created":1596776400,
+            "id":2882015,
+            "title":"Unova and beyond"
+        },
+        "131332":{
+            "author_id":"gpgclean",
+            "author_name":"YugiohPKMN ",
+            "choices":[
+                "Kalos.",
+                "Alola and beyond."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is time to pick from Kalos for our characters. </span></div></span></div>",
+            "created":1596862800,
+            "id":2882200,
+            "title":"Kalos and beyond"
+        },
+        "1313322":{
+            "author_id":"gpgclean",
+            "author_name":"YugiohPKMN ",
+            "choices":[
+                "ALOHA",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>ALOLA is your choice?</span></div></span></div>",
+            "created":1596949200,
+            "id":2882866,
+            "title":"Alola"
+        },
+        "13133222":{
+            "author_id":"gpgclean",
+            "author_name":"YugiohPKMN ",
+            "choices":[
+                "Galar",
+                "Fiore and beyond."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The other in this case is Galar....and from there, we get into the spin off regions.</span></div></span></div>",
+            "created":1596949200,
+            "id":2882868,
+            "title":"Galar"
         },
         "132":{
             "choices":[
@@ -446,6 +666,30 @@
             "created":1561611600,
             "id":2679315,
             "title":"gang bang time"
+        },
+        "132332":{
+            "author_id":"gpgclean",
+            "author_name":"YugiohPKMN ",
+            "choices":[
+                "Group One",
+                "Next choice."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>*whacks self with hammer* Let\u2019s get this back on track. I\u2019ll give you various groups of random DigiDestined, of mixed gender, to turn into anthros. Chose.</span></div></span></div>",
+            "created":1596776400,
+            "id":2881826,
+            "title":"*arrives with train tracks*"
+        },
+        "1323321":{
+            "author_id":"gpgclean",
+            "author_name":"YugiohPKMN ",
+            "choices":[
+                "LET\u2019S GO",
+                "MASURU UP"
+            ],
+            "content":"<div class=\"\"><div> <span>Team Goggleheads<br>\r\n<br>\r\nTai, who becomes an anthro Agumon<br>\r\nDavis, who becomes an anthro Veemon<br>\r\nTakato, who becomes an anthro Guilmon<br>\r\nTakuya, who becomes Flamemon again(he was practically already anthro)<br>\r\nMarcus, who becomes an anthro Dracomon<br>\r\nTaiki, who becomes an anthro Shoutmon<br>\r\nTaiguru, who becomes an anthro Gumdramon</span></div></div>",
+            "created":1596776400,
+            "id":2881845,
+            "title":"Group One, Type 1"
         }
     },
     "info":{
@@ -456,8 +700,8 @@
         "description":"<td align=\"left\" class=\"norm\">DA RULES:<br>\r\n<br>\r\n1.Grammar. Try and make it presentable.<br>\r\n2.Plot. Try and make it clear where the story is going.<br>\r\n3.Keep it consistent. make sure that you know everything about the story you're adding to before jumping in.<br>\r\n4.no scat, toilet humour, foot fetish or any other weird things.<br>\r\n5.always leave room for another pokemon or digimon with the term 'other' when introducing the one you are using, so people can always pick something else if they don't like yours.<br>\r\n7.Last one, expansion is part of the plot in every case, and any expansions are permanent, so choose wisely.<br>\r\n<br>\r\napart from those, just have fun!</td>",
         "id":1859630,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1561638120,
-        "modified":1561638120,
+        "last_full_update":1597862580,
+        "modified":1597862580,
         "pretty_title":"Anthro Pokemon and Digimon expansion."
     }
 }

@@ -1484,6 +1484,58 @@
             "id":2788238,
             "title":"No"
         },
+        "13323222":{
+            "author_id":"sabrina-taur",
+            "author_name":"SabTaurDalton",
+            "choices":[
+                "Alter the body",
+                "Alter the mind",
+                "Other ideas"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What else can you do? Alter the body some, or change some attitudes, or something else?</span></div></span></div>",
+            "created":1598158800,
+            "id":2890354,
+            "title":"No, let's move on."
+        },
+        "133232221":{
+            "author_id":"sabrina-taur",
+            "author_name":"SabTaurDalton",
+            "choices":[
+                "Add parts",
+                "Remove parts",
+                "Combo of both"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What can you do to the body? Add some parts, or remove them? Or maybe a combo of both.</span></div></span></div>",
+            "created":1598158800,
+            "id":2890357,
+            "title":"Alter the body"
+        },
+        "1332322213":{
+            "author_id":"sabrina-taur",
+            "author_name":"SabTaurDalton",
+            "choices":[
+                "Readers choice ",
+                "Readers choice",
+                "Reader\u2019s choice"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What type of combo?</span></div></span></div>",
+            "created":1598245200,
+            "id":2890551,
+            "title":"Combo of both"
+        },
+        "13323222131":{
+            "author_id":"sabrina-taur",
+            "author_name":"SabTaurDalton",
+            "choices":[
+                "Explore your collection",
+                "Check out your family",
+                "Explore the world"
+            ],
+            "content":"<div class=\"\"><div> <span>You begin typing.<br>\r\n\u201cA few centuries ago, dust from a very close comet entered the atmosphere, spreading around the globe. This dust had an interesting effect on all mammals, particularly humans. We gained incredible regenerative abilities, allowing us to regrow lost body parts over the course of a week or so if mentally deemed necessary, depending on how complex the part is. Other injuries, such as cuts, stabs, or even bullet holes, heal on their own, albeit with a potentially fatal loss of blood still. But any cut off part remained alive and in the head conscious, and able to be easily reattached to the body, on any part of the body. Any part that was removed also became easier to remove again, often just taking an unexpected pull or hit to knock it off again, as well as remained in control of the original owner, which in every case is the body, where the heart lies. Heads will always remain conscious, and always with the identity of the body. If someone else\u2019s part besides the head is attached to the body, the body gains control over it, although a head will still act independent. A disconnected part requires no additional nutrition, and can even take being in a vacuum or under heavy pressure. Now, it\u2019s not unusual to see people moving around without limbs, with extra limbs, or with no or multiple heads on their body.<br>\r\nMy family is a particularly big fan of our abilities, with all of us having had our parts removed at a young age, and enjoying it in our own ways up until now. Even our two family dogs have undergone the procedure. Myself, as a big fan of the abilities, have a huge collection of parts, largely from my friends.<br>\r\nHistory as a whole has been unchanged, with humans simply finding new ways to kill each other and fight.\u201d<br>\r\n<br>\r\nYou take a step back from the computer, letting it count down till the changes take effect.<br>\r\nOnce they do, you debate what to do next.</span></div></div>",
+            "created":1598245200,
+            "id":2890564,
+            "title":"Readers choice "
+        },
         "1333":{
             "author_id":"sabrina-taur",
             "author_name":"SabTaurDalton",
@@ -2135,7 +2187,7 @@
         "id":1970537,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
         "last_full_update":1591424280,
-        "modified":1591424280,
+        "modified":1598270640,
         "pretty_title":"Magical Microsoft Word"
     }
 }

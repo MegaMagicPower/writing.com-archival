@@ -2114,6 +2114,69 @@
             "id":2396795,
             "title":"Adrien swaps bodies with an animal"
         },
+        "15133211":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "A pet",
+                "A stray",
+                "Other kinds of animals"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What type of 'local' animal does Adrien swap bodies with?</span></div></span></div>",
+            "created":1598245200,
+            "id":2890430,
+            "title":"A 'local' animal (pet, stray, or otherw..."
+        },
+        "151332113":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "A local insect",
+                "A local bird",
+                "A farm animal"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Maybe it's one of these types of animal that Adrien ends up swapping bodies with?</span></div></span></div>",
+            "created":1598245200,
+            "id":2890433,
+            "title":"Other kinds of animals"
+        },
+        "1513321133":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "A chicken",
+                "A horse",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of farm animal does Adrien swap bodies with?</span></div></span></div>",
+            "created":1598245200,
+            "id":2890434,
+            "title":"A farm animal"
+        },
+        "15133211332":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "Adrien will swap bodies with a stallion",
+                "Adrien will swap bodies with a mare"
+            ],
+            "content":"<div class=\"\"><div> <span>Now we have to choose the gender of the horse that Adrien somehow ends up swapping bodies with.<br>\r\n<br>\r\nDo you want him to swap with a male horse; i.e. a stallion? Sure; it'll still be awkward for Adrien, but at least he gets to keep his gender.<br>\r\n<br>\r\nOr; do you want him to swap with a female horse; i.e. a mare? This would be the ultimate humiliation for Adrien; being not only an equine, but a female one, at that.</span></div></div>",
+            "created":1598245200,
+            "id":2890436,
+            "title":"A horse"
+        },
+        "151332113321":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "It still acts like a horse, just in a human body",
+                "Somehow, it is able to act perfectly like a human"
+            ],
+            "content":"<div class=\"\"><div> <span>Okay; so you want to make things slightly less awkward for Adrien, by at least making him swap bodies with a horse of the same gender.<br>\r\n<br>\r\nBut, what about the stallion in Adrien's body? How does it behave after the swap?<br>\r\n<br>\r\nDoes it still act like a horse, even though it is in a human body?<br>\r\n<br>\r\nOr, is it somehow able to act perfectly like a human?</span></div></div>",
+            "created":1598245200,
+            "id":2890443,
+            "title":"How does the stallion react to this?"
+        },
         "15133212":{
             "author_id":"mrmasterplan",
             "author_name":"MrMasterplan",
@@ -2187,6 +2250,31 @@
             "created":1508475600,
             "id":2403932,
             "title":"Ani-Marinette?"
+        },
+        "15133221":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "A 'local' animal (pet, stray, or otherwise)",
+                "A wild animal (from the zoo)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of animal does Marinette end up swapping bodies with?</span></div></span></div>",
+            "created":1598245200,
+            "id":2890424,
+            "title":"Marinette swaps bodies with an animal"
+        },
+        "151332212":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "A lion",
+                "A tiger",
+                "Other choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of wild zoo animal does Marinette swap with?</span></div></span></div>",
+            "created":1598245200,
+            "id":2890428,
+            "title":"A wild animal (from the zoo)"
         },
         "15133222":{
             "author_id":"mysterykid18",
@@ -3762,7 +3850,7 @@
         "id":2088612,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
         "last_full_update":1595017320,
-        "modified":1595017320,
+        "modified":1598249640,
         "pretty_title":"Miraculous Ladybug shenanigans"
     }
 }

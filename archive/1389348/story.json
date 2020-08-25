@@ -5166,6 +5166,78 @@
             "id":2698000,
             "title":"Other"
         },
+        "1553122222121221122222122":{
+            "author_id":"batboyjw",
+            "author_name":"Jokermask18",
+            "choices":[
+                "Marvel cartoons",
+                "DC cartoons"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Here's some more american choices: Marvel and DC shows. Take your pick.</span></div></span></div>",
+            "created":1597640400,
+            "id":2887093,
+            "title":"No"
+        },
+        "15531222221212211222221221":{
+            "author_id":"batboyjw",
+            "author_name":"Jokermask18",
+            "choices":[
+                "Pre-disney Marvel cartoons",
+                "Post-disney marvel cartoons"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which era? Pre-disney, or post-disney?</span></div></span></div>",
+            "created":1597640400,
+            "id":2887095,
+            "title":"Marvel cartoons"
+        },
+        "15531222221212211222221222":{
+            "author_id":"batboyjw",
+            "author_name":"Jokermask18",
+            "choices":[
+                "DC Animated Universe",
+                "Other DC cartoons"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, shall we go with the classic Bruce Timm/Paul Dini DC Animated Universe, or other DC cartoons? </span></div></span></div>",
+            "created":1597640400,
+            "id":2887098,
+            "title":"DC cartoons"
+        },
+        "155312222212122112222212221":{
+            "author_id":"batboyjw",
+            "author_name":"Jokermask18",
+            "choices":[
+                "yes",
+                "No."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay then, we'll start with Batman: The Animated Series, the one that started it all. Sound Good?</span></div></span></div>",
+            "created":1597640400,
+            "id":2887102,
+            "title":"DC Animated Universe"
+        },
+        "1553122222121221122222122212":{
+            "author_id":"batboyjw",
+            "author_name":"Jokermask18",
+            "choices":[
+                "yes",
+                "Nah"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What about Superman: the Animated series then?</span></div></span></div>",
+            "created":1597640400,
+            "id":2887109,
+            "title":"No."
+        },
+        "15531222221212211222221222122":{
+            "author_id":"batboyjw",
+            "author_name":"Jokermask18",
+            "choices":[
+                "sure.",
+                "Nah"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, how about Batman Beyond?</span></div></span></div>",
+            "created":1597640400,
+            "id":2887111,
+            "title":"Nah"
+        },
         "15531222221212212":{
             "author_id":"batboyjw",
             "author_name":"Jokermask18",
@@ -5698,6 +5770,18 @@
             "created":1241499600,
             "id":686576,
             "title":"Super Mario Bros."
+        },
+        "15532221":{
+            "author_id":"dankmemio",
+            "author_name":"DankMemio",
+            "choices":[
+                "They both smell eachother's bare feet until one gets knocked out.",
+                "They smell eachother's footwear until one submits or gets knocked out."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Choose how the the princesses of the Mushroom Kingdom will duke it out with their stinky feet.<br>\r\n<br>\r\n</span></div></span></div>",
+            "created":1597726800,
+            "id":2887463,
+            "title":"Yes!!!"
         },
         "15532222":{
             "author_id":"chantheman",
@@ -6355,8 +6439,8 @@
         "description":"<td align=\"left\" class=\"norm\">This is a competition of anime and videogame characters where the smelliest feet collide! The use of feet, and shoes, socks, and all kinds of footwear are allowed. The first one to get knocked out or submit loses the fight!<br>\r\n<br>\r\nAgain, it is quality controlled, so have fun everyone!<br>\r\n<br>\r\n(PS: Creativity is highly encouraged!)</td>",
         "id":1389348,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1584386880,
-        "modified":1584386880,
+        "last_full_update":1597765320,
+        "modified":1597765320,
         "pretty_title":"Anime/Videogame Smelliest Feet Battle"
     }
 }

@@ -869,6 +869,19 @@
             "id":2293488,
             "title":"You're a furry monster"
         },
+        "143":{
+            "author_id":"randomreader05",
+            "author_name":"Foolishreader",
+            "choices":[
+                "Dragon",
+                "Naga",
+                "More options"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What are you?</span></div></span></div>",
+            "created":1597640400,
+            "id":2886725,
+            "title":"You're a scaley monster"
+        },
         "144":{
             "author_id":"learngerman",
             "author_name":"LGV",
@@ -1067,8 +1080,8 @@
         "description":"<td align=\"left\" class=\"norm\">Welcome to a rather terrifying world where monsters and humans coexist. They attend the same schools, work in the same office buildings, and some even break social taboos and marry! Make no mistake though, humans are second class citizens at best. Smooth, fleshy, and highly tantalizing, humans are not only at the bottom of the social ladder, but they're at the bottom of the food chain as well. <br>\r\n<br>\r\nThough allowed to attend the same institutions and public facilities, humans have very few guaranteed rights. They can be, at any time without reason, snatched up and devoured by a hungry monster. This is quite a common occurrence and, while some humans live to be a ripe old age, most don't. <br>\r\n<br>\r\nWill you be one of the lucky ones?.... Or will you wind up adding to some monstrosities waistline? It's entirely up to you.</td>",
         "id":2116031,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1578595560,
-        "modified":1578595560,
+        "last_full_update":1597644300,
+        "modified":1597644300,
         "pretty_title":"Human in a Monster World"
     }
 }

@@ -254,7 +254,7 @@
             "author_name":"Blood",
             "choices":[
                 "On stage shrunk as she sings ",
-                "On her person as she\u2019s at a club ",
+                "On her person as she\u2019s Out doing things ",
                 "At a protest ",
                 "Kehlani is giant at the venue ",
                 "More"
@@ -263,6 +263,21 @@
             "created":1582434000,
             "id":2791813,
             "title":"Kehlani. (Not metal but awesome )"
+        },
+        "1532":{
+            "author_id":"bloodrayne",
+            "author_name":"Blood",
+            "choices":[
+                "In her chewing gum ",
+                "In her sneaker treads",
+                "On her sandal ",
+                "In her pocket ",
+                "More "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where are you at? </span></div></span></div>",
+            "created":1597381200,
+            "id":2885752,
+            "title":"On her person as she\u2019s Out doing things "
         },
         "1533":{
             "author_id":"bloodrayne",
@@ -368,12 +383,29 @@
             "choices":[
                 "You are shrunk backstage with her!",
                 "You are shrunk while she is onstage!",
-                "She grows into a giantess at a concert!"
+                "She grows into a giantess at a concert!",
+                "Shrunk at a random encounter ",
+                "More"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Prepare to be tiny around the Canadian metal goddess!  What happened?<br>\r\n<br>\r\nReference:  <a rel=\"nofollow\" href=\"https://studiosol-a.akamaihd.net/uploadfile/letras/fotos/7/0/5/7/7057eb3a6fdb0a4f8e2c3ca3eefadf9f.jpg\" target=\"_blank\">https://studiosol-a.akamaihd.net/uploadf...</a> </span></div></span></div>",
             "created":1584162000,
             "id":2801420,
             "title":"Brittany Slayes"
+        },
+        "155315":{
+            "author_id":"bloodrayne",
+            "author_name":"Blood",
+            "choices":[
+                "Taped to her sandal ",
+                "In her boot treads ",
+                "In a plane she shrunk ",
+                "Sneaking in her car ",
+                "More "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where else are you? </span></div></span></div>",
+            "created":1597294800,
+            "id":2885100,
+            "title":"More  Britaney Slayes "
         },
         "15533":{
             "author_id":"patnewworld",
@@ -426,6 +458,21 @@
             "created":1594443600,
             "id":2866370,
             "title":"Two Others"
+        },
+        "15534":{
+            "author_id":"bloodrayne",
+            "author_name":"Blood",
+            "choices":[
+                "Climbing her sneaker ",
+                "Taped to her sandal ",
+                "In her food ",
+                "She\u2019s giant at a venue! ",
+                "More "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where are you? </span></div></span></div>",
+            "created":1598245200,
+            "id":2890679,
+            "title":"Tatiana Shmaylyuk  (Singer of Jinjer) "
         }
     },
     "info":{
@@ -436,8 +483,8 @@
         "description":"<td align=\"left\" class=\"norm\">Get shrunk by or find giant heavy metal female singers.  Anything goes!  Pics will be added. Points will be given for good adds. </td>",
         "id":2210041,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1594503840,
-        "modified":1594503840,
+        "last_full_update":1597459320,
+        "modified":1598286960,
         "pretty_title":"Heavy Metal Goddesses "
     }
 }

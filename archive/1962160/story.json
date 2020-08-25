@@ -773,6 +773,18 @@
             "id":1806584,
             "title":"Story options!"
         },
+        "1153121":{
+            "author_id":"unavailable123",
+            "author_name":"Error: Name Unavailable",
+            "choices":[
+                "Old Option",
+                "New Option"
+            ],
+            "content":"<div class=\"\"><div> <span>Before this story continues any further, I'd like to give a different option as to how this scenario plays out.<br>\r\n<br>\r\nThis new option follows this idea in Trigger Happy Havoc's School Mode. Basically, what if Junko started putting on the pounds due to her boredom at the game? Instead of constantly being preoccupied with the game and its contestants, Junko finds herself with little to do while the members of Class 78 build her Monokuma backups. Due to her rising  boredom and irritation at how long it's taking to make the backups, Junko starts trying to cure her boredom with lots of food.</span></div></div>",
+            "created":1597986000,
+            "id":2889271,
+            "title":"Too much TV is bad for you."
+        },
         "1153122":{
             "author_id":"strangemind45",
             "author_name":"Very-Strange?",
@@ -2880,8 +2892,8 @@
         "description":"<td align=\"left\" class=\"norm\">Spoilers will be here</td>",
         "id":1962160,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1583387340,
-        "modified":1583387340,
+        "last_full_update":1598064300,
+        "modified":1598064300,
         "pretty_title":"Dangan Ronpa Female Weight Gain"
     }
 }

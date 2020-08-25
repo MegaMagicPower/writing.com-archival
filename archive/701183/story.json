@@ -288,6 +288,31 @@
             "id":1787875,
             "title":"Gulp!"
         },
+        "121111":{
+            "author_id":"gongofko",
+            "author_name":"Gongofknockout",
+            "choices":[
+                "Curious tourists on a safari",
+                "a herd of zebras",
+                "that you are hungry for more lions"
+            ],
+            "content":"<div class=\"\"><div> <span>Your stomach begins to emit a cacophany of groans and gurgles as it sets to work digesting your prey, coupled with the growls of protest from your prey, all of which are barely muffled by  thick abdominal muscles. After a couple minutes the sounds of your prey die down, only groans and churns of your over extended stomach can be heard.<br>\r\n<br>\r\nYou lie down to sleep off your meal. You awake an hour later to find...</span></div></div>",
+            "created":1598245200,
+            "id":2890650,
+            "title":"A strange noise comes from your belly"
+        },
+        "1211113":{
+            "author_id":"gongofko",
+            "author_name":"Gongofknockout",
+            "choices":[
+                " some lionesses",
+                "more beefy males"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>your stomach has shrank back to normal size now,and is demanding more prey, what are you going to fill it with?</span></div></span></div>",
+            "created":1598245200,
+            "id":2890654,
+            "title":"that you are hungry for more lions"
+        },
         "1212":{
             "author_id":"a.jrules",
             "author_name":"Bio Draft",
@@ -470,6 +495,21 @@
             "created":1422507600,
             "id":1925106,
             "title":"A fem, a Black Widower too, They sow, you eat em.."
+        },
+        "15":{
+            "author_id":"numerio",
+            "author_name":"Tex",
+            "choices":[
+                "Horny raptor male",
+                "Hungry raptor male",
+                "Horny raptor female ",
+                "Hungry raptor female ",
+                "Raptor baby"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>These are the options...</span></div></span></div>",
+            "created":1598072400,
+            "id":2889560,
+            "title":"Raptor"
         }
     },
     "info":{
@@ -481,7 +521,7 @@
         "id":701183,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
         "last_full_update":1440055500,
-        "modified":1440055500,
+        "modified":1598282280,
         "pretty_title":"Eating your own"
     }
 }

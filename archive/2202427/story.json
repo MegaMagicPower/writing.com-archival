@@ -52,6 +52,21 @@
             "id":2756694,
             "title":"101 Dalmatians"
         },
+        "1213":{
+            "author_id":"andrewisback",
+            "author_name":"AndrewTheWolf2020",
+            "choices":[
+                "Oliver & Company.",
+                "Fox & The Hound.",
+                "More Choices!",
+                "Open Choice Chapter.",
+                "Open Choice Chapter."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will you the reader choose Oliver &amp; Company or Fox &amp; The Hound or The Fox &amp; The Hound 2 ?</span></div></span></div>",
+            "created":1597899600,
+            "id":2888739,
+            "title":"More Choices!"
+        },
         "122":{
             "author_id":"spunky",
             "author_name":"Ace Jones",
@@ -131,6 +146,18 @@
             "id":2778742,
             "title":"All Dogs Go To Heaven."
         },
+        "14211":{
+            "author_id":"andrewisback",
+            "author_name":"AndrewTheWolf2020",
+            "choices":[
+                "He's very hungry, so he walks to a buffet.",
+                "More."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How will Charlie gain weight?</span></div></span></div>",
+            "created":1597899600,
+            "id":2888738,
+            "title":"Charlie B. Barkin"
+        },
         "1422":{
             "author_id":"andrewisback",
             "author_name":"AndrewTheWolf2020",
@@ -191,8 +218,8 @@
         "description":"<td align=\"left\" class=\"norm\">Cartoon dogs gain weight and whatnot as it was because of two Writing.com authors mainly z23-mnb who sadly is no longer here with us on this website and PH0220. <br>\r\n<br>\r\nNow for the rules.<br>\r\n<br>\r\nAll interactive chapters must be relevant to a plot that will be outlined.<br>\r\n<br>\r\nNo Spoilsports allowed.<br>\r\n<br>\r\nMake sure your chapters are appropriate.<br>\r\n<br>\r\nNo cussing either.<br>\r\n<br>\r\n</td>",
         "id":2202427,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1580142600,
-        "modified":1580142600,
+        "last_full_update":1597971480,
+        "modified":1597971480,
         "pretty_title":"Fat Cartoon Dogs."
     }
 }

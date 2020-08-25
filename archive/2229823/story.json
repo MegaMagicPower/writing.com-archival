@@ -1,0 +1,463 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"thetickler",
+            "author_name":"Icy yet Warm",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Before we get to the reason you're here, let's get you settled in.  Who exactly are you?</span></div></span></div>",
+            "created":1597726800,
+            "id":2887754,
+            "title":"Good day"
+        },
+        "11":{
+            "author_id":"thetickler",
+            "author_name":"Icy yet Warm",
+            "choices":[
+                "Tickle",
+                "Be Tickled"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Yes; you are a boy with light brown eyes and short brown hair.  And do you wish to tickle or be tickled?</span></div></span></div>",
+            "created":1597726800,
+            "id":2887759,
+            "title":"Male"
+        },
+        "111":{
+            "author_id":"thetickler",
+            "author_name":"Icy yet Warm",
+            "choices":[
+                "The Loud family",
+                "Royal Woods area",
+                "Great Lakes City"
+            ],
+            "content":"<div class=\"\"><div> <span>So you want to tickle?  Splendid.  And where do you wish to go?<br>\r\n<br>\r\nYou could have at a member of the Loud family, Royal Woods' most eccentric bunch.  No doubt their ticklishness will make them live up to their surname.  If not, then maybe a female resident from outside the family would interest you more?  There's no shortage of them around this relatively sleepy town and I daresay some of these people are in need of stirring.  Or perhaps... whomever you're looking for <i>isn't</i> in Royal Woods, but in a larger part of Michigan.  There are opportunities to be found in the Big City to those who would seek them out.<br>\r\n<br>\r\nThere's plenty of options no matter where you go.  Choose whichever you like.</span></div></div>",
+            "created":1597813200,
+            "id":2887866,
+            "title":"Tickle"
+        },
+        "1111":{
+            "author_id":"thetickler",
+            "author_name":"Icy yet Warm",
+            "choices":[
+                "Lori Loud",
+                "Leni Loud",
+                "Luna Loud",
+                "Luan Loud",
+                "Neither of these four."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>I knew you would pick that option.  So which Loud would you rather tickle?</span></div></span></div>",
+            "created":1597813200,
+            "id":2888026,
+            "title":"Welcome to The Loud House"
+        },
+        "11111":{
+            "author_id":"thetickler",
+            "author_name":"Icy yet Warm",
+            "choices":[
+                "A \"tickle the babysitter\" scenario.",
+                "Her following a bogus social media trend involving tickling.",
+                "Reader's Choice",
+                "Reader's Choice",
+                "Reader's Choice"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So you picked Lori, eh?  This should be interesting.  What kind of scenario did you have in mind?<span style=\"text-decoration:line-through\"></span></span></div></span></div>",
+            "created":1598158800,
+            "id":2890159,
+            "title":"The Queen of No"
+        },
+        "11112":{
+            "author_id":"thetickler",
+            "author_name":"Icy yet Warm",
+            "choices":[
+                "A date with Leni.",
+                "Tricked into participating in a Renaissance Faire (as a wrongdoer).",
+                "Reader's Choice",
+                "Reader's Choice",
+                "Reader's Choice"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ah, so you've picked Leni.  The ditzy ones tend to have the cutest laughs.  Which scenario do you have in mind?</span></div></span></div>",
+            "created":1598158800,
+            "id":2890160,
+            "title":"The Cinnamon Roll"
+        },
+        "11113":{
+            "author_id":"thetickler",
+            "author_name":"Icy yet Warm",
+            "choices":[
+                "An \"I'm your biggest fan\" scenario. (How trite)",
+                "Just chillin' with a friend.",
+                "Reader's Choice",
+                "Reader's Choice",
+                "Reader's Choice"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Yeah!  You picked Luna, the one who's proud and plays it loud!  Got any ideas as wild as her?</span></div></span></div>",
+            "created":1598158800,
+            "id":2890177,
+            "title":"Loudest of the Louds"
+        },
+        "11114":{
+            "author_id":"thetickler",
+            "author_name":"Icy yet Warm",
+            "choices":[
+                "A new albeit unusual form of entertainment for a birthday party.",
+                "April Fool's Day prank (with the tables turned on her).",
+                "Reader's Choice",
+                "Reader's Choice",
+                "Reader's Choice"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Yeah, why not go with Luan; she loves to laugh, right?  What <i>mischief</i> awaits her?</span></div></span></div>",
+            "created":1598158800,
+            "id":2890178,
+            "title":"One Woman Prankpocalypse"
+        },
+        "11115":{
+            "author_id":"thetickler",
+            "author_name":"Icy yet Warm",
+            "choices":[
+                "Lynn Loud",
+                "Lucy Loud",
+                "Lana Loud",
+                "Lola Loud",
+                "It's not one of these either."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>None of them, eh?  How about one of these four?</span></div></span></div>",
+            "created":1597813200,
+            "id":2888029,
+            "title":"Another Four Louds"
+        },
+        "111155":{
+            "author_id":"thetickler",
+            "author_name":"Icy yet Warm",
+            "choices":[
+                "Lisa Loud",
+                "Lincoln/Linka Loud",
+                "Rita Loud"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Well, that's okay.  You still have three more choices.</span></div></span></div>",
+            "created":1597813200,
+            "id":2888031,
+            "title":"The remaining trio"
+        },
+        "1111552":{
+            "author_id":"thetickler",
+            "author_name":"Icy yet Warm",
+            "choices":[
+                "Lincoln",
+                "Linka"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Wouldn't trade 'em for the world!  However, is it really Lincoln you're looking to tickle or is it his female counterpart within an alternate universe?</span></div></span></div>",
+            "created":1597986000,
+            "id":2889266,
+            "title":"One Boy or One Girl?"
+        },
+        "1112":{
+            "author_id":"thetickler",
+            "author_name":"Icy yet Warm",
+            "choices":[
+                "Sam Sharp",
+                "Carol Pingrey",
+                "Bobbie Fletcher",
+                "Ms. DiMartino",
+                "I'm afraid she's not one of these."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ah, the town of Royal Woods.  Possessing a considerable cast of characters, you certainly won't be wanting for company.  So do you have a ticklee in mind?</span></div></span></div>",
+            "created":1597813200,
+            "id":2888207,
+            "title":"Come Visit The Woods"
+        },
+        "112":{
+            "author_id":"thetickler",
+            "author_name":"Icy yet Warm",
+            "choices":[
+                "The Loud family",
+                "Royal Woods area",
+                "Great Lakes City"
+            ],
+            "content":"<div class=\"\"><div> <span>Oh; you'd rather be tickled?  Can't say I blame you.  So where would you like to go?<br>\r\n<br>\r\nFor starters you could pay one of the Louds a visit.  The most exciting thing about a scenario with one of them is that every one of them will have a different approach to tickling, different tactics.  But if not a Loud, then perhaps another Royal Woods citizen will \"tickle\" your fancy?  Like the aforementioned oddballs, each and every one of these female residents possess their own motive or method for sending you up the wall.  Or maybe your princess is in another town - or should I say <i>city</i>?  In the urban jungle, any girl you meet is a wildcat, waiting to sink their proverbial claws into you.<br>\r\n<br>\r\nSo many ticklers from all walks of life yet they have one thing in common: you will be sharing a few laughs with whomever you choose.</span></div></div>",
+            "created":1597813200,
+            "id":2887918,
+            "title":"Be Tickled"
+        },
+        "1121":{
+            "author_id":"thetickler",
+            "author_name":"Icy yet Warm",
+            "choices":[
+                "Lori Loud",
+                "Leni Loud",
+                "Luna Loud",
+                "Luan Loud",
+                "Neither, but I believe there are more Louds"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You're either very brave or very foolish to pick this option.  Or maybe you just have a favourite.  Who do you want to tickle you?<br>\r\n<br>\r\n</span></div></span></div>",
+            "created":1597813200,
+            "id":2888049,
+            "title":"Welcome to The Mad House"
+        },
+        "11215":{
+            "author_id":"thetickler",
+            "author_name":"Icy yet Warm",
+            "choices":[
+                "Lynn Loud",
+                "Lucy Loud",
+                "Lana Loud",
+                "Lola Loud",
+                "I'll take one of the remaining options, please."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>No problem.  There's still plenty of Louds to go around - and plenty of you, it seems.</span></div></span></div>",
+            "created":1597813200,
+            "id":2888107,
+            "title":"Four down"
+        },
+        "112155":{
+            "author_id":"thetickler",
+            "author_name":"Icy yet Warm",
+            "choices":[
+                "Lisa Loud",
+                "Lincoln/Linka Loud",
+                "Rita Loud"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So you'd rather be tickled by somebody with a cooler head?  Well, that's good because they're all that remain.  Pick a Loud.</span></div></span></div>",
+            "created":1597813200,
+            "id":2888110,
+            "title":"Three to go"
+        },
+        "1122":{
+            "author_id":"thetickler",
+            "author_name":"Icy yet Warm",
+            "choices":[
+                "(Girl) Jordan",
+                "Stella",
+                "Margo Roberts",
+                "Paula",
+                "No, I have not."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Or are you?  Not all who wander are lost.  Maybe you found someone to tickle you?</span></div></span></div>",
+            "created":1597899600,
+            "id":2888274,
+            "title":"Lost In The (Royal) Woods"
+        },
+        "11225":{
+            "author_id":"thetickler",
+            "author_name":"Icy yet Warm",
+            "choices":[
+                "Becky",
+                "Whitney",
+                "Dana",
+                "Carol Pingrey",
+                "Exit the circle"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Perhaps you'll find her within Lori's circle of friends?</span></div></span></div>",
+            "created":1597899600,
+            "id":2888292,
+            "title":"Within Lori's Circle"
+        },
+        "112255":{
+            "author_id":"thetickler",
+            "author_name":"Icy yet Warm",
+            "choices":[
+                "Agnes Johnson",
+                "Molly Wetta",
+                "Nurse Patti",
+                "Officer Schoffner",
+                "Hard pass."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Maybe you seek more compromising situations, yes?  I'm sure one of these women could help relieve you of any semblance of control.</span></div></span></div>",
+            "created":1597899600,
+            "id":2888344,
+            "title":"I smell trouble~"
+        },
+        "1122553":{
+            "author_id":"thetickler",
+            "author_name":"Icy yet Warm",
+            "choices":[
+                "\"It's happening all over my upper body.\"",
+                "\"It's in my feet more than anywhere.\"",
+                "\"I can feel it in my back all the way down my legs.\""
+            ],
+            "content":"<div class=\"\"><div> <span>As you walked down the hallway, you can't help but feel nervous as well as funny.  Things had been going well enough for you this morning - it didn't rain like the forecast said it would and you could enjoy walking to Royal Woods Elementary, nor were you feeling jittery or unprepared for Mrs. Johnson's test - but as soon as you stepped inside the building you began noticing it.  Well, whatever <i>it</i> was.<br>\r\n<br>\r\nFor reasons you couldn't explain, you felt like you were being prodded and poked by hundred of sharp needles.  It took everything you had not to draw attention to your situation, even though it was becoming increasingly difficult for you focus on anything.  No need to make everyone else worry or feel as uncomfortable as you.  It would be best to just tough out the class and complete the test.  Of course, Mrs. Johnson noticed you fidgeting in your seat along with a clear sign of agitation written on your face as she was handing out the tests.  When she asked if you were well, your initial response what that you were still a little tired but you were otherwise feeling alright.  She continued to dispense test papers, although you could tell she was not satisfied with your response.  About ten minutes into test time, Mrs. Johnson took notice of your discomfort and agitation once more.  She had correctly deduced that you were unwell and, out of concern for your health, requested that you go to the school infirmary.  Despite your insistence that you were \"fine\", which you weren't, Agnes would not hear of it.  She said she would postpone your test until later - after you visited the school nurse - but you had to leave immediately.  Out of respect for your very caring teacher, and because you didn't want to fail a test you studied your brain out for, you complied with her request - even if she kind of twisted your arm a little.<br>\r\n<br>\r\nSo here you are now, walking towards the school infirmary and lost in your thoughts.  What exactly is wrong with you?  What did you do to trigger it, or if not you then what happened to you?  You aren't the most physically active kid in this neck of the woods (no pun intended) so you know it isn't a sports injury.  If anything you aren't so much in pain as you're feeling...sensitive?  Also, you never had a reason to visit the infirmary, much less the nurse, so what would she be like?  Is she nice?  Is she uptight?  Can she even figure out what's wrong with you and fix it with one visit?  You don't want to see any doctors if you can help it.  <br>\r\n<br>\r\nIt seems all of those answers, or most of them, lay just beyond the door in front of you.  After a moment of hesitation, you open it.  The room looks about what you would expect from an infirmary, but that's not what grabs your attention.  Standing beside a cupboard is a rather attractive brunette wearing red lipstick and a teal nurse's uniform tightening the lid of a medicine jar.  As she finished screwing the lid back on, she notices you in the corner of eye and looks in your direction.<br>\r\n<br>\r\nGreeting you with a smile she said, \"Hello there.  Who might you be?\"<br>\r\n<br>\r\nYou can't help but feel a little giddy.  You've only been in this woman's presence for only five seconds and you've already concluded that she's as nice as she is pretty.  So you smile back and tell her your name.<br>\r\n<br>\r\n\"I don't think I've ever seen you before, but it's still nice to meet you.  I'm Patti, the school nurse, though I think you might have guessed that already.\"  She followed that introduction up with chuckle.  \"So what brings you here?\"<br>\r\n<br>\r\nSuch a charming woman.  You can't help but like her already.<br>\r\n<br>\r\n\"Well,\" you begin as you gently rub your arm, \"I don't know why but ever since I got to school I've been feeling really... sensitive?  It's getting been harder to deal with by the minute.\"<br>\r\n<br>\r\nThe nurse's expression turns to one of light concern.  \"Sensitive?\" she asked, \"How sensitive?  Are you in any pain?\"<br>\r\n<br>\r\n\"Not really,\" you say, \"but it's getting harder to deal with by the minute.  Even Mrs. Johnson could tell something was wrong with me.\"<br>\r\n<br>\r\n\"I see,\" said Patti.  \"Well, don't take this personally but if you're really not feeling well then you shouldn't try to hide it or pretend it's not there.  I'm sure you had your reasons, but it's important to look after yourself.  You're nothing if you're not healthy.\"<br>\r\n<br>\r\nNo kid likes being lectured, you included, but when Nurse Patti did it to you it didn't come off as patronizing to you at all.  It sounded like genuine concern and that she was speaking from the heart - or even past experience.  In any case, she was not only right but she had chosen the right profession.<br>\r\n<br>\r\n\"Okay, Nurse Patti.  I'll remember that for the future.\"<br>\r\n<br>\r\nPatti nodded in satisfaction and gave a tiny smile.  \"That's all I can ask from anyone, student or no student.  So where are you feeling sensitive?\"<br>\r\n<br>\r\nYou hesitate before telling her.  \"Well...\"</span></div></div>",
+            "created":1597986000,
+            "id":2889130,
+            "title":"Hello Nurse"
+        },
+        "12":{
+            "author_id":"thetickler",
+            "author_name":"Icy yet Warm",
+            "choices":[
+                "Tickle",
+                "Be Tickled"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>That's right; you're a girl with dark brown eyes and long black hair tied in a braid/ponytail combination.  And do you wish to tickle or be tickled?</span></div></span></div>",
+            "created":1597726800,
+            "id":2887761,
+            "title":"Female"
+        },
+        "121":{
+            "author_id":"thetickler",
+            "author_name":"Icy yet Warm",
+            "choices":[
+                "The Loud family",
+                "Royal Woods area",
+                "Great Lakes City"
+            ],
+            "content":"<div class=\"\"><div> <span>So you wish to tickle?  I thought so.  And where do you wish to go?<br>\r\n<br>\r\nYou could have at a member of the Loud family, Royal Woods' most eccentric bunch.  No doubt their ticklishness will make them live up to their surname.  If not, then maybe a female resident from outside the family would interest you more?  There's no shortage of them around this relatively sleepy town and I daresay some of these people are in need of stirring.  Or perhaps... whomever you're looking for <i>isn't</i> in Royal Woods, but in a larger part of Michigan.  There are opportunities to be found in the Big City to those who would seek them out.<br>\r\n<br>\r\nWherever you choose, know that you will definitely put a smile on somebody's face.</span></div></div>",
+            "created":1597813200,
+            "id":2887867,
+            "title":"Tickle"
+        },
+        "1211":{
+            "author_id":"thetickler",
+            "author_name":"Icy yet Warm",
+            "choices":[
+                "Lori Loud",
+                "Leni Loud",
+                "Luna Loud",
+                "Luan Loud",
+                "It's neither of them."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The answer is no: it's not me - it's just you and one of the Louds.  So which one do you want to tickle?</span></div></span></div>",
+            "created":1597813200,
+            "id":2888034,
+            "title":"Chaos With Eleven Individuals"
+        },
+        "12115":{
+            "author_id":"thetickler",
+            "author_name":"Icy yet Warm",
+            "choices":[
+                "Lynn Loud",
+                "Lucy Loud",
+                "Lana Loud",
+                "Lola Loud",
+                "These don't do it for me either."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, then what about one of these Louds?<span class=\"cred\"></span></span></div></span></div>",
+            "created":1597813200,
+            "id":2888037,
+            "title":"Another Loud Quartet"
+        },
+        "121155":{
+            "author_id":"thetickler",
+            "author_name":"Icy yet Warm",
+            "choices":[
+                "Lisa Loud",
+                "Lincoln/Linka Loud",
+                "Rita Loud"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Picky, eh?  Well, all I got left are these three.</span></div></span></div>",
+            "created":1597813200,
+            "id":2888038,
+            "title":"Last three"
+        },
+        "1211552":{
+            "author_id":"thetickler",
+            "author_name":"Icy yet Warm",
+            "choices":[
+                "Lincoln",
+                "Linka"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>It figures you would want to tickle the lovable white-haired geek.  But I have to ask: are they a boy or a girl?  Won't you please tell me?</span></div></span></div>",
+            "created":1597986000,
+            "id":2889267,
+            "title":"Man With A Plan or Queen Of The Scheme?"
+        },
+        "1212":{
+            "author_id":"thetickler",
+            "author_name":"Icy yet Warm",
+            "choices":[
+                "Fiona",
+                "Becky",
+                "Whitney",
+                "Dana",
+                "I'd rather \"play\" with someone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So you wish to explore what the rest of Royal Woods has to offer.  Ample opportunities for you to tickle, that's what.  So whom will you pick?</span></div></span></div>",
+            "created":1597813200,
+            "id":2888211,
+            "title":"Come Play In The Woods"
+        },
+        "122":{
+            "author_id":"thetickler",
+            "author_name":"Icy yet Warm",
+            "choices":[
+                "The Loud family",
+                "Royal Woods area",
+                "Great Lakes City"
+            ],
+            "content":"<div class=\"\"><div> <span>So you wish to be on the receiving end?  Have it your way, tough girl.  So where would you like to go?<br>\r\n<br>\r\nFor starters you could pay one of the Louds a visit.  The most exciting thing about a scenario with one of them is that every one of them will have a different approach to tickling, different tactics.  But if not a Loud, then perhaps another Royal Woods citizen will \"tickle\" your fancy?  Like the aforementioned oddballs, each and every one of these female residents possess their own motive or method for sending you up the wall.  Or maybe your princess is in another town - or should I say <i>city</i>?  In the urban jungle, any girl you meet is a wildcat, waiting to sink their proverbial claws into you.<br>\r\n<br>\r\nRegardless of the tickler you pick, one thing is certain: you will be tickled pink by the end (interpret that however you wish).</span></div></div>",
+            "created":1597813200,
+            "id":2887919,
+            "title":"Be Tickled"
+        },
+        "1221":{
+            "author_id":"thetickler",
+            "author_name":"Icy yet Warm",
+            "choices":[
+                "Lori Loud",
+                "Leni Loud",
+                "Luna Loud",
+                "Luan Loud",
+                "These four won't make me Loud enough."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>I mean, you're already halfway there to becoming an honorary Loud Sister.  So which one of them would you want as your tickler?</span></div></span></div>",
+            "created":1597813200,
+            "id":2888050,
+            "title":"It's a Loud, Loud, Loud, Loud World"
+        },
+        "12215":{
+            "author_id":"thetickler",
+            "author_name":"Icy yet Warm",
+            "choices":[
+                "Lynn Loud",
+                "Lucy Loud",
+                "Lana Loud",
+                "Lola Loud",
+                "Who were the remaining choices again?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Very well.  Maybe you'd rather be tickled by one of these four other Louds?</span></div></span></div>",
+            "created":1597813200,
+            "id":2888108,
+            "title":"Four Louds, one outcome"
+        },
+        "122155":{
+            "author_id":"thetickler",
+            "author_name":"Icy yet Warm",
+            "choices":[
+                "Lisa Loud",
+                "Lincoln/Linka Loud",
+                "Rita Loud"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>For someone who is going to be tickled by a Loud, you're pretty choosy.  In any case, here are the remaining three.<span class=\"chotpink\"></span></span></div></span></div>",
+            "created":1597813200,
+            "id":2888111,
+            "title":"Three's a crowd.  What's left of it, at least."
+        },
+        "1222":{
+            "author_id":"thetickler",
+            "author_name":"Icy yet Warm",
+            "choices":[
+                "Sam Sharp",
+                "Jackie",
+                "Mandee",
+                "Maggie",
+                "Tempting, but no thanks."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Oh god, I'm turning into Luan.  That's what I get for seeking mileage.  Anyway, blah blah blah; pick your tickler.</span></div></span></div>",
+            "created":1597899600,
+            "id":2888275,
+            "title":"In This Neck Of The (Royal) Woods"
+        }
+    },
+    "info":{
+        "author_id":"thetickler",
+        "author_name":"Icy yet Warm",
+        "brief_description":"Either tickle or be tickled by a female Loud House character.  Pretty self-explanatory.",
+        "created":1597809720,
+        "description":"<td align=\"left\" class=\"norm\">It seems \"Tickle Fever\" has struck Royal Woods, Michigan - and you are in the midst of it.*<br>\r\n<br>\r\nBut yeah; the premise of this interactive is pretty straightforward: you can choose to be male or female and to either tickle or be tickled by female characters from The Loud House, especially those from the <i>loudest</i> family in this otherwise quiet town.  There's not much else to say except the following guidelines.<br>\r\n<br>\r\n<u><b>RULES</b></u><br>\r\n1. Try not to veer too far away from the tickling aspect of this interactive.<br>\r\n2. No nudity - except for comical purposes.<br>\r\n3. No sex.<br>\r\n4. No short/troll/zero effort chapters.  I shouldn't have to include this rule, but it's there.<br>\r\n5. Please proofread before submitting something (because I do read this stuff).  I don't mind helping out, but if I have to rewrite a whole chapter then I'll just delete the addition.  That's me being nice.<br>\r\n6. Use 2nd person perspective in your writing, seeing how your character is a POV avatar and all that.<br>\r\n7. Female characters only.  Lincoln is the one exception to the rule (he's girly enough <img loading=\"lazy\" style=\"\" class=\"emoteZ\" src=\"https://images.Writing.Com/imgs/writing.com/writers/e15/golucky.png\" alt=\"*GoLucky*\" title=\"GoLucky\" border=\"0\" width=\"15\" height=\"15\">) although you may choose his genderbent counterpart, Linka, if you wish.  I'm not including Lily as an option for obvious reasons.<br>\r\n8. Have fun. <img loading=\"lazy\" style=\"\" class=\"emoteZ\" src=\"https://images.Writing.Com/imgs/writing.com/writers/e15/smile.png\" alt=\"*Smile*\" title=\"Smile\" border=\"0\" width=\"15\" height=\"15\"><br>\r\n<br>\r\n*<sub>This part is not meant to be taken literally; it's just a figure of speech.  Or is it?</sub></td>",
+        "id":2229823,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1597811700,
+        "modified":1598224080,
+        "pretty_title":"Loud House girl tickling"
+    }
+}

@@ -5068,6 +5068,75 @@
             "id":2709608,
             "title":"Hmm, let's think of others."
         },
+        "1551323223":{
+            "author_id":"pedro01",
+            "author_name":"pedro01",
+            "choices":[
+                "Arthur and the Invisibles",
+                "Monsters vs Aliens",
+                "More Movies"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about the next two movies you can choose from this?  Whether it be Arthur and the Invisibles, or Monsters vs Aliens? </span></div></span></div>",
+            "created":1597813200,
+            "id":2888190,
+            "title":"Another movie"
+        },
+        "15513232231":{
+            "author_id":"pedro01",
+            "author_name":"pedro01",
+            "choices":[
+                "Arthur grows into a giant in human form",
+                "Next Scenario"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You chose the movie, Arthur and the Invisibles for this?  Do you want a scenario where Arthur would grow into a giant in human form?</span></div></span></div>",
+            "created":1597813200,
+            "id":2888191,
+            "title":"Arthur and the Invisibles"
+        },
+        "15513232232":{
+            "author_id":"pedro01",
+            "author_name":"pedro01",
+            "choices":[
+                "A Man",
+                "A Young Girl",
+                "A Young Boy",
+                "Next Scenario"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You chose the movie, Monsters vs Aliens for this.  Do you want to have a scenario that instead of having Susan as a giant, would you like to have either a man, a young girl, or a young boy to be the main character for this film?</span></div></span></div>",
+            "created":1597813200,
+            "id":2888193,
+            "title":"Monsters vs Aliens"
+        },
+        "155132322322":{
+            "author_id":"gilligfan",
+            "author_name":"PrincessKooh",
+            "choices":[
+                "Teen giantess Age 14 - 17",
+                "Pre Teen giantess age 10 - 12",
+                "Child giantess age 7 to 9",
+                "Young child giantess age 4 to 6",
+                "Something else - reserved-"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay you picked a young girl<br>\r\nto be the \u201cMonster\u201d or giantess<br>\r\nIn place of Susan for <br>\r\n<br>\r\nMonsters vs Alien now pick her age</span></div></span></div>",
+            "created":1597899600,
+            "id":2888309,
+            "title":"A Young Girl"
+        },
+        "1551323223225":{
+            "author_id":"gilligfan",
+            "author_name":"PrincessKooh",
+            "choices":[
+                "The incredible growing Pre Teen",
+                "A growing child ages 7 to 9",
+                "The incredible growing Kindergartener",
+                "A Pre-Schooler growing up and up and up",
+                "Readers choice "
+            ],
+            "content":"<div class=\"\"><div> <span>Okay you picked a young girl<br>\r\nto be the \u201cMonster\u201d or giantess<br>\r\nIn place of Susan for <br>\r\n<br>\r\nMonsters vs Alien now pick her age<br>\r\nBut let\u2019s add another twist<br>\r\n<br>\r\nWhat if on top of a girl younger than<br>\r\nSusan unlike Susan this new giantess<br>\r\nto be keeps having growth spurts<br>\r\nand possibly outgrows Susan or even<br>\r\nInsectosaurus?</span></div></div>",
+            "created":1597899600,
+            "id":2888312,
+            "title":"Something else - reserved-"
+        },
         "1551324":{
             "choices":[
                 "Hunger Games",
@@ -5362,8 +5431,8 @@
         "description":"<td align=\"left\" class=\"norm\">Just follow the usual rules about grammar and sticking with the rating and you should do fine.<br>\r\n<br>\r\nIn this interactive, you pick something you know and love and then change the fabric of its reality. The characters may or may not notice this. This is not, I repeat \"not\", limited to transformations, although that also works here. Be welcome to be nutty with the changes.</td>",
         "id":1829547,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1596059400,
-        "modified":1596059400,
+        "last_full_update":1597916520,
+        "modified":1597916520,
         "pretty_title":"Total Rewrite"
     }
 }

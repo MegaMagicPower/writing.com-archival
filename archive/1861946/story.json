@@ -78,6 +78,30 @@
             "id":1317416,
             "title":"Hermione stuffs herself silly"
         },
+        "1123":{
+            "author_id":"aschton01",
+            "author_name":"Aschton01",
+            "choices":[
+                "Draco gives her pregnancy potion to humiliate her",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What happens else?</span></div></span></div>",
+            "created":1597208400,
+            "id":2884678,
+            "title":"Other"
+        },
+        "11232":{
+            "author_id":"aschton01",
+            "author_name":"Aschton01",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><div> <span>Bellatrix gives her a potion, just before escaping from Malfoy's Manor, causing that every time she feels strong emotions for at least a second, 9-month-old baby will appear in her womb. The longer and the stronger the emotions, the more and faster babies appear.<br>\r\n<br>\r\nDoes something like that will be ok?</span></div></div>",
+            "created":1597208400,
+            "id":2884681,
+            "title":"Something else"
+        },
         "13":{
             "choices":[
                 "Spell",
@@ -337,8 +361,8 @@
         "description":"<td align=\"left\" class=\"norm\">Make the girls from Harry Potter pregnant.<br>\r\n<br>\r\nRules:<br>\r\nIt is okay to have sex, as long as it is not detailed or graphic.<br>\r\n<br>\r\nEntries cannot be short.<br>\r\n<br>\r\nTry to have good grammar.<br>\r\n<br>\r\nHave Fun!</td>",
         "id":1861946,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1372016760,
-        "modified":1372016760,
+        "last_full_update":1597252440,
+        "modified":1597252440,
         "pretty_title":"Harry Potter Pregnancy Interactive"
     }
 }

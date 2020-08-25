@@ -9,7 +9,7 @@
                 "Mr. Brown",
                 "Other"
             ],
-            "content":"<div class=\"\"><div> <span>You hear one distante sound from where you're standing now.And you feel that it is approaching rappidly. Sounds like knocking on wood. And you can't stand it any longer.<br>\r\n<br>\r\n\"Waking up with someone knocking your door its a nightmare\" you thought. You cant recognize who the voice belongs to, because you aren't fully awake. But can you hear the word \"hurry up.\" You try to get out of bed and you stand with tremendous dizziness in the head. One step forward, and you end up unbalancing yourself, eventually fall on the floor. With the help of the bed, you get up.<br>\r\n<br>\r\nWhoever it was that was knocking on the door, eventually stopped. The sound stopped as well. This helped with the dizziness. You walk to the mirror in your bedroom. Your vision is still a bit blurry but you can see your reflection.<br>\r\n<br>\r\nWho are you?</span></div></div>",
+            "content":"<div class=\"\"><div> <span>You hear one distante sound from where you're standing now. And you feel that it is approaching rappidly. Sounds like knocking on wood. And you can't stand it any longer.<br>\r\n<br>\r\n\"Waking up with someone knocking your door its a nightmare\" you thought. You cant recognize who the voice belongs to, because you aren't fully awake. But can you hear the word \"hurry up.\" You try to get out of bed and you stand with tremendous dizziness in the head. One step forward, and you end up unbalancing yourself, eventually fall on the floor. With the help of the bed, you get up.<br>\r\n<br>\r\nWhoever it was that was knocking on the door, eventually stopped. The sound stopped as well. This helped with the dizziness. You walk to the mirror in your bedroom. Your vision is still a bit blurry but you can see your reflection.<br>\r\n<br>\r\nWho are you?</span></div></div>",
             "created":1430629200,
             "id":1972858,
             "title":"Another Morning in the Brown's House"
@@ -31,24 +31,121 @@
             "author_id":"thomsc",
             "author_name":"Thoms",
             "choices":[
-                "Fart in Jonathan's face",
-                "Raise your leg and Fart",
+                "He opens the door",
+                "Other",
                 "Other"
             ],
-            "content":"<div class=\"\"><div> <span>You climbed the stairs and stopped at Jonathan's door. You knocked. \"Who is it?\" \"It's me, Paddington\"<br>\r\n<br>\r\nThe door opened and Jonathan appeared naked. He grabbed your hand and pulled you inside the room, and locked the door behind you. This strange smell invaded your nostrils, that made you frown your face. Jonathan noticed your face expression and said \" I see you noticed the smell. Don't worry. It's just my farts\". <br>\r\nYou covered your nose, and asked why was he farting. \"You see, this is kinda of a boy's thing to do. But normally you do it with friends. That's why I knocked on your room. To see if you wanted to join me.\"<br>\r\n\"And why are you naked?\" you ask<br>\r\n\"Well, You are always naked so it was to make you feel more comfortable.\"<br>\r\n<br>\r\n\"Maybe I should make him the favor and help him out. I might have some fun doing it.\" as you said that to yourself, you uncovered your nose. All that boy smell invaded your nostrils and you discovered that you actually kind of liked it. You take you blue coat and your hat and put it on the side. Jonathan looked at you while you did this. After you were done Jonathan said \"What you have to do is simple. When you need to fart either you fart normally or you can fart in the other person's face.\"<br>\r\n<br>\r\n\"But there is no one here besides you and me!\" You noticed<br>\r\n\"Precisely\" replied Jonathan<br>\r\n<br>\r\nYou realized what Jonathan was asking. And you did need to fart for that matter. What are you going to do?<br>\r\n<br>\r\n<br>\r\n</span></div></div>",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You climbed the stairs and stopped at Jonathan's door. You knocked. <br>\r\n<br>\r\n\"Who is it?\"<br>\r\n\"It's me, Paddington\"<br>\r\n\"Two seconds!\"<br>\r\n</span></div></span></div>",
             "created":1430629200,
             "id":1972910,
             "title":"Go to Jonathan's room"
+        },
+        "1111":{
+            "author_id":"thomsc",
+            "author_name":"Thoms",
+            "choices":[
+                "Games",
+                "Other",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>While you were looking around you turned you back to the door. You then hear the door behind you creek open and a hand grabbing your shoulder and pulling you inside the room. Inside the room a  strange smell assulted your nose and you didnt quite know where it came from. But none the less you dismiss it and talk to Jonathan.<br>\r\n<br>\r\n\"So what did you want Jonathan?\"<br>\r\n</span></div></div>",
+            "created":1597899600,
+            "id":2888571,
+            "title":"He opens the door"
+        },
+        "11111":{
+            "author_id":"thomsc",
+            "author_name":"Thoms",
+            "choices":[
+                "Video Games",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\"Wanna play some games?\" asked Jonathan<br>\r\n\"Sure. But maybe we could try something other than video games\"<br>\r\n</span></div></span></div>",
+            "created":1597899600,
+            "id":2888572,
+            "title":"Games"
+        },
+        "111112":{
+            "author_id":"thomsc",
+            "author_name":"Thoms",
+            "choices":[
+                "Other",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>More options</span></div></span></div>",
+            "created":1597899600,
+            "id":2888573,
+            "title":"Other"
+        },
+        "1111121":{
+            "author_id":"thomsc",
+            "author_name":"Thoms",
+            "choices":[
+                "You lose",
+                "You win"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Ok. You had something in mind?\"<br>\r\n\"Not really. Do you?\"<br>\r\n\"Well, me and my friends have this thing where we fart on each other for the laughs\" <br>\r\n\"Uhh... I dont know\"<br>\r\n\"Lets do it like this... we make a bet. If you win, we play something else. If I win, we play this.\"<br>\r\n<br>\r\n\"Fine. What's the bet\"<br>\r\n\"Humm... Rock Paper Scissors. Best out of 3?\"<br>\r\n\"Ok.\"<br>\r\n\"You ready? 1... 2... 3!\"</span></div></div>",
+            "created":1597899600,
+            "id":2888574,
+            "title":"Rock Paper Scissors"
+        },
+        "11111211":{
+            "author_id":"thomsc",
+            "author_name":"Thoms",
+            "choices":[
+                "Fart in Jonathan's face",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Well you lost, fair and square!\" Jonathan said<br>\r\n\"Ok ok. So how do we play this farting game...\"<br>\r\n\"What you have to do is simple. When you need to fart,either you fart normally or you can fart in the other person's face.\"<br>\r\n\"But there is no one here besides you and me!\" You noticed<br>\r\n\"Precisely\" replied Jonathan<br>\r\n\"<i>Kinky kid!</i>\" you thought \"<i>Maybe I should do him the favor and play with him. I might have some fun doing it.</i>\"<br>\r\n<br>\r\nOn that moment, you did need to fart for that matter. What are you going to do?<br>\r\n</span></div></div>",
+            "created":1597899600,
+            "id":2888577,
+            "title":"You lose"
+        },
+        "111112112":{
+            "author_id":"thomsc",
+            "author_name":"Thoms",
+            "choices":[
+                "Raise your leg and Fart",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>More options</span></div></span></div>",
+            "created":1597899600,
+            "id":2888578,
+            "title":"Other"
+        },
+        "1111121121":{
+            "author_id":"thomsc",
+            "author_name":"Thoms",
+            "choices":[
+                "Jonathan is going to fart on you",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>You were not feeling very confident on walking up to Jonathan and pin him down and fart in his face. So, has he was looking at you, you gave Jonathan a defiance look that made him more anxious to know what you were going to do.<br>\r\n<br>\r\nYou raise your left leg up. You decide to make it even more taunting to Jonathan, so you put your paw in your rear and fart in it. A long, wet, discussing sound filled the room. The room was filled with a fowl smell of what you ate yesterday. And Jonathan got closer to get a big whiff. the more you farted, the more he got close to you. With every wiff, he felt dizzy, almost wanting to pass out, but in his state of transe, the last thing he wanted to do was cut the fun short.<br>\r\n<br>\r\nYou stopped farting, and Jonathan was really close. At this point, the room smelled even worse, but noting compared to what you had in mind for Jonathan. But for now, you were just giving him a taste of what was to come. Within your reach, you covered his mouth and nose with the paw that had been farted on and because of your powerful smell, Jonathan was forced to breath in the smelly paw, not that he minded.<br>\r\n<br>\r\nFor a few minutes he stood there, with your paw covering his nose, breathing nothing but the fart that lingered in your paw. You had complete control of the situation, and Jonathan, and you thought its was funny. Kinky kid...<br>\r\n<br>\r\nThe moment was broken when your bowels made another rumble. You knew what that meant, so did Jonathan.<br>\r\n<br>\r\n\"Can you hold?\" he asked. \"Maybe. What do you have in mind?\" Jonathan recomposed himself. \"Now it's my turn\".</span></div></div>",
+            "created":1597899600,
+            "id":2888580,
+            "title":"Raise your leg and Fart"
+        },
+        "11111211212":{
+            "author_id":"thomsc",
+            "author_name":"Thoms",
+            "choices":[
+                "Your turn... again",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>More options</span></div></span></div>",
+            "created":1597899600,
+            "id":2888581,
+            "title":"Other"
         },
         "1112":{
             "author_id":"thomsc",
             "author_name":"Thoms",
             "choices":[
                 "Jonathan is going to fart on you",
-                "Jonathan wants you to fart in his face",
+                "Your turn... again",
                 "Other"
             ],
-            "content":"<div class=\"\"><div> <span>You were not feeling very  confident on walking up to Jonathan and pin him down and fart in his face. So, has he was looking at you, you gave Jonathan a defiance look that made him more anxious to know what you were going to do.<br>\r\n<br>\r\nYou start to raise your left leg up. You decide to make it even more taunting to Jonathan, so you put your paw in your rear and fart in it. A long wet discussing sound filled the room. All the fart that couldn't stay in your paw, was forced to escape between your fingers, and it filled the room with a fowl smell of what you ate yesterday.<br>\r\n<br>\r\nJonathan got closer to get a big whiff of your amazing fart. As he started sniffing, he felt dizzy and almost passed out. You thought that was funny. The room started to smell even worse, and you were almost done at this point. So you close your legs and clenched your anus to save some for later. You looked to Jonathan. <br>\r\n<br>\r\nJonathan recomposed himself. \"Now it's my turn\"</span></div></div>",
+            "content":"<div class=\"\"><div> <span>You were not feeling very  confident on walking up to Jonathan and pin him down and fart in his face. So, has he was looking at you, you gave Jonathan a defiance look that made him more anxious to know what you were going to do.<br>\r\n<br>\r\nYou raise your left leg up. You decide to make it even more taunting to Jonathan, so you put your paw in your rear and fart in it. A long, wet, discussing sound filled the room. The room was filled with a fowl smell of what you ate yesterday. And Jonathan got closer to get a big whiff. the more you farted, the more he got close to you. With every wiff, he felt dizzy, almost wanting to pass out, but in his state of transe, the last thing he wanted to do was cut the fun short. <br>\r\n<br>\r\nYou stopped farting, and Jonathan was really close. At this point, the room smelled even worse, but noting compared to what you had in mind for Jonathan. But for now, you were just giving him a taste of what was to come. Within your reach, you covered his mouth and nose with the paw that had been farted on and because of your powerful smell, Johnathan was forced to breath in the smelly paw, not that he minded.<br>\r\n<br>\r\nFor a few minutes he stood there, with your paw covering his nose, breathing nothing but the fart that lingered in your paw. You had complete control of the situation, and Johnatan, and you thought its was funny. The things kids like and do...<br>\r\n<br>\r\nThe moment was broken when your bowels made another rumble. You knew what that meant, so did Johnathan. <br>\r\n<br>\r\n\"Can you hold?\" he asked. \"Maybe. What do you have in mind?\" Jonathan recomposed himself. \"Now it's my turn\".</span></div></div>",
             "created":1437627600,
             "id":2011373,
             "title":"Raise your leg and Fart"
@@ -61,7 +158,7 @@
                 "Go help Paddington dressed",
                 "Other"
             ],
-            "content":"<div class=\"\"><div> <span>You saw your Reflection on the mirror. You looked terrible. \"Oh no, I gotta go to school\" you remembered. You took a quick shower and dressed as fast as you could. When you got to the Kitchen and there was no one there except Paddington.<br>\r\n<br>\r\n\"Where's everyone!? I'm gonna be late for School\" You shout. <br>\r\n\"Calm down Jonathan. Today is Saturday\" replied Paddington \" And everyone is out of town for shopping. Even Mrs. Bird. They know how much you hate shopping so they left me here to take care of you\"<br>\r\n<br>\r\nYour face went from surprise to relief. \"Why don't you go change and then we will decide what to do next. We have the whole day for ourselves.\" said Paddington. You agreed.<br>\r\n<br>\r\nWhile you were undressing you thought that maybe you could call a friend to get together. Then you heard something break downstairs. \"PADDINGTON\" you shouted. You didn't have time to put anything on, but maybe it wasn't that serious downstairs.</span></div></div>",
+            "content":"<div class=\"\"><div> <span>You saw your Reflection on the mirror. You looked terrible. \"Oh no, I gotta go to school\" you remembered. You took a quick shower and dressed as fast as you could. When you got to the Kitchen and there was no one there except Paddington.<br>\r\n<br>\r\n\"Where's everyone!? I'm gonna be late for School\" You shout. <br>\r\n\"Calm down Jonathan. Today is Saturday\" replied Paddington \" And everyone is out of town for shopping. Even Mrs. Bird. They know how much you hate shopping so they left me here to take care of you\"<br>\r\n<br>\r\nYour face went from surprise to relief. \"Why don't you go change and then we will decide what to do next. We have the whole day for ourselves.\" said Paddington. You agreed.<br>\r\n<br>\r\nWhile you were undressing you thought that maybe you could call a friend to get together. Then you heard something break downstairs. \"PADDINGTON! What did you do!\" you shouted. <br>\r\n\"I need your help Jonathan! Now!\" <br>\r\n<br>\r\nMaybe Paddington was hurt, you thought,or maybe it wasnt that serious. Do you go as you are on put something on.</span></div></div>",
             "created":1430629200,
             "id":1972891,
             "title":"Jonathan Brown"
@@ -70,11 +167,11 @@
             "author_id":"thomsc",
             "author_name":"Thoms",
             "choices":[
-                "You inside of him (Vore)",
-                "More of him (Sex)",
+                "Vore",
+                "Sex",
                 "Other"
             ],
-            "content":"<div class=\"\"><div> <span>When you got there, you where relieved that Paddington wasn't hurt. \"Jonathan!\" Paddington shout surprised, \"Why are you naked!?\" <br>\r\n\"I came as fast as I could\" you replied \"Do you want me to go change?\"<br>\r\n\"No its quite alright\" said Paddington<br>\r\nYou know realized that Paddington was also naked, you mean, naked without his blue coat.<br>\r\n<br>\r\nAfter you helped Paddington clean everything, Paddington licked your face as a sign of thanks. You never noticed how good that actually felt. You kinda wanted him to do it again. Maybe take it to another level.<br>\r\n<br>\r\nYou shy-fully asked him \"Can you do it again?\" <br>\r\n\"Do what!?\" he asked you.<br>\r\n\"Can you thank me again, you know, the way you do it?\" you asked.<br>\r\n\"You mean lick you again?\" he asked suspiciously<br>\r\n\"Yes\" you said firmly<br>\r\n<br>\r\nHe came closer to you.Then, Paddington approached his mouth closer to your face. As he opened it, you Could smell the inside of its mouth. It smelled like marmalade, no surprise there. You could also see the inside of its mouth. And, as the tongue came out and you could see the throat way back there. The tongue touched your face and you opened your mouth a little bit in order for the tongue to enter inside your mouth. Then it came out of your mouth and came close to your nose. You could already smell his morning marmalade but his tongue intensified the smell and brought some new ones. One smelled like garbage, you thought and you got really aroused at the idea of finding out what was inside of Paddington's stomach. And finally passed your eyes and that amazing experience was over. <br>\r\n<br>\r\nYou wanted more of him. You wanted to be inside of him. Why were you so confused?<br>\r\n</span></div></div>",
+            "content":"<div class=\"\"><div> <span> When you got there, there was glass everywhere. Apparently Paddington decided to \"clean\" the windows on his own. But you where relieved that Paddington wasn't hurt, although he was surrunded by shards of glass and couldnt move fause he didnt wear shoes.<br>\r\n\"Paddington?!\"<br>\r\n\"Jonathan, can you <font class=\"size25\" style=\"\">help m</font>...?!\" Paddington stared blankly \"Why are you naked!?\"<br>\r\n\"You shoulted help so I came as fast as I could\" you replied \"Do you want me to go change?\". You gave him a stare that you also saw the hypocrisy of his question. He was also naked, you mean, naked without his blue coat.<br>\r\n\"No just get me a broom please, and help me. I cant move\" said Paddington<br>\r\n<br>\r\nYou got some flippers on from the lobby and after you helped Paddington clean everything, he licked your face as a sign of thanks. You never noticed how good that actually felt. You kinda wanted him to do it again. Maybe take it to another level.<br>\r\n<br>\r\nYou shy-fully asked him \"Can you do it again?\"<br>\r\n\"Do what!?\" he asked you.<br>\r\n\"Can you thank me again, you know, the way you do it?\" you asked.<br>\r\n\"You mean lick you again?\" he asked suspiciously<br>\r\n\"Yes\" you said firmly<br>\r\n<br>\r\nHe leaned in closer to you. Paddington approached his head closer to yours. You noticed that his breathing smelled like marmalade, no surprise there. His sudden yawn put you face to face with the insides of his pink cavernous mouth. And at the end of his mouth, was a tunnel you knew you wanted to get more acquainted with. He appologised and procceded to lick you. <br>\r\n<br>\r\nHis tongue intensified the smell of his morning marmalade and brought some new ones. And some did not smell right. Garbage perhaps? Maybe he was secretly a raccoon. But each new smell left you thinking of what was Paddington eating habits. And if you could become part of his menu.<br>\r\n<br>\r\nAfter he was done licking you, he left copious amounts of saliva. At this point, you were so aroused, you wanted him to fuck you right there and then. Maybe he could use that tongue of his to lubrificate your ass with his saliva. Or you could ask him if he could eat you instead. You already smelled like marmalade, you thought.</span></div></div>",
             "created":1430629200,
             "id":1972927,
             "title":"Go help Paddington naked"
@@ -87,7 +184,7 @@
                 "Oral Vore",
                 "Other"
             ],
-            "content":"<div class=\"\"><div> <span> Few Days had passed since the Kitchen incident. Every opportunity you got to help Paddington, you took it, no matter how silly it was. And the best part was, you always got thanked the same way. It always ended up with Paddington licking your face. <br>\r\n<br>\r\nOne day, every one was out of the house again, leaving just you and Paddington alone. And you saw the opportunity in this. You couldn't contained it any longer. You had to tell Paddington how you felt.<br>\r\n<br>\r\n\"Paddington?\" you asked as you entered him room.<br>\r\n\"Hello there, Jonathan!\" he greeted, jumping of his bed to come to you<br>\r\n\"You know that friends are supposed to do things for other friends, right?\" you start. \"Right\" he said.<br>\r\n\"And we're friends, right?\" you ask. \"Right again, Jonathan\" Paddington said cheerfully<br>\r\n\"Then can you do me a favor?\" you ask. \"Of course Jonathan, as long as it's in my capabilities.\"<br>\r\n<br>\r\n\"I want you to eat me\" you said. \"WHAT!?\" Paddington was surprised to hear this. \"I want you to eat me\" you said again more firmly.<br>\r\n\"Are you sure!? I mean, I'm flattered that you chose me, but I don't think I can eat you\" Said Paddington \"You're my friend, Jonathan. I could never eat a friend. And I dont think I can.\"<br>\r\n\"But we'll never know if we don't try it. And I really believe that, if you eat me, you would never hurt me.\"<br>\r\n\"Well...\" he said \" I guess we could try it\".<br>\r\n<br>\r\nFinally, he was going to eat you, right here and now. You stripped yourself down. Paddington did the same. As you were striping yourself, Paddington's intestines started to rumble. \"I'm sorry\" he apologized \"I really need to fart. Do you mind?\" There was no time for you to reply, as a big fart escaped his butt. It immediately filled the room with a disgusting smell. You took a big whiff at it, and you kind of liked it. Paddington saw as you sniffed his fart and he saw how much you were enjoying it.<br>\r\n<br>\r\n Then he had an idea. \"So, Jonathan. Which way?\"<br>\r\n</span></div></div>",
+            "content":"<div class=\"\"><div> <span>The moment you were about to ask him if he could eat you, you were interrupted buy the sound of a car noise outside. Your parents were arriving and it made no sence if they were to find you missing and a bear with a stuffed stomach. <br>\r\n<br>\r\nA few days had passed since the kitchen incident. But you took every opportunity you got, to help Paddington, no matter how silly it was. And the best part was, you always got thanked the same way.<br>\r\n<br>\r\nOne day, every one was out of the house again, leaving just you and Paddington alone, again. And you saw the opportunity in this. You couldn't contained it any longer. You had to tell Paddington how you felt.<br>\r\n<br>\r\n\"Paddington?\" you asked as you entered him room.<br>\r\n\"Hey! Come in\" he greeted, jumping of his bed to come to you<br>\r\n\"I... I have something to ask of you\".<br>\r\n\"Of course Jonathan, anything.\"<br>\r\n<br>\r\n\"I... I wa... want you to... to... <font class=\"size2\" style=\"\">eat me</font>\" you shyfully said. <br>\r\n\"What did you say?\" Paddington didnt heard you. <br>\r\n\"I want you to eat me\" you said again more firmly.<br>\r\n\"Hmm... Are you sure!? I mean, I can do it but... you're my friend, Jonathan. I could never eat a friend.\"<br>\r\n\"Please please please. Ever since the kitchen incident the other day, I've been waiting to ask you this.\"<br>\r\n\"Well...\" he said \"Ok. I guess we could try it. But I've never done it so I dont know what to do. Just uhh... get undress.\"<br>\r\n<br>\r\n\"<i>Yes he agreed!</i>\" you thought. You started to get undressed  when Paddington continued. \"As you know, I only saw this being done twice with Uncle Pastuso. The first time when he ate an explorer by mistake, and the second time when he told me I needed to be put in place, for being a bad bear\".<br>\r\n\"You never told me what you did to deserve being called a bad bear. What did you do?\" asked Jonahan while getting halfway into his task.<br>\r\n\"The first time I did marmalade on my own, I messed the kitchen up and got fully covered in marmalade.\"<br>\r\n\"And then he ate you?\"<br>\r\n\"Yes and no! He was so angry with me, that he put me in... in his butt\"<br>\r\n\"In his butt!? Are you serious?\" A glimpse of excitement could be noticed in Jonathans voice, but the bear didnt picked it up, since he was to busy reliving that memory.<br>\r\n\"Uh... yes! We are a very stretchy kind of bears.\" Paddington confirmed<br>\r\n<br>\r\nWhen Jonathan was done he stood in front of Paddington. Finally, he was going to eat you, right here and now. \"You ready?\" Paddington asked. As you were about to respond, Paddington's intestines started to rumble. \"I'm sorry\" he apologized \"I really need to fart. Do you mind?\" \"Not at all.\" you replied. \"Thanks!\". Then a big fart escaped his butt. It immediately filled the room with the disgusting smell. You had no choise but to sniff it. The more you sniffed it, the more you kind of liked it. Then you remembered Paddingtons story and it hit you. Paddington also saw the way you were sniffing the lingingering smell of his fart and he saw how much you were enjoying it. He then had the same idea.<br>\r\n<br>\r\n\"So, Jonathan. Which way?\"<br>\r\n</span></div></div>",
             "created":1430715600,
             "id":1973179,
             "title":"You inside of him (Vore)"
@@ -96,13 +193,37 @@
             "author_id":"thomsc",
             "author_name":"Thoms",
             "choices":[
-                "Yes",
-                "Other"
+                "Anal vore now",
+                "Prepare Jonathan for what's to come"
             ],
-            "content":"<div class=\"\"><div> <span>\u201cWhat do you mean, which way?\u201d<br>\r\n\u201cWell...\u201d Paddington approached you \u201cGet on your knees\u201d You did what he asked.<br>\r\n<br>\r\nYou were now on your knees waiting for Paddington\u2019s next order. He then turned around and you realized your eyes on the same level as furry butt. \u201cPerfect!\u201d The bear thought to himself. <br>\r\n<br>\r\n\u201cWhat is happening?\u201d You asked. \u201cJust stay still, and follow my lead\u201d he replied. He then bent over, making his butt closer to your face. \u201c<i>That has to be the biggest butt ever</i>!\u201d You thought. While you were getting more confused as to the intentions of Paddington (and aroused), the bear grabbed his ass cheeks and parted them reviling to you his anus. You took a whiff at it and the musky aroma from his butt was turning you on. <br>\r\n<br>\r\n\u201cYou like it?\u201d The bear asked.<br>\r\n\u201cVery! I like everything about you.\u201d<br>\r\n\u201cThen you\u2019re gonna like this.\u201d Paddington then proceeded to make contact with his anus on your nose. You were not prepared for this and you were taken aback. \"Dont worry\" Paddington reasured you \"just rest your nose on it.\" you did as we told. You felt paddingtons contractions on the tip. And you could sence what was to come while he pushed. Soon after, he was farting in your face.<br>\r\n<br>\r\nNow, you liked the smell of his previous fart from afar, but getting it point blank was another story. The force of the wind coming out, the strong smell of something that died inside of his ass, everything was bad, but yet, it felt right. The more you sniffed his farts the more you were liking it and the more you wanted to smell it. It lasted a few seconds. And you wanted more.<br>\r\n<br>\r\n\u201cStill want me to eat you?\u201d Paddington asked with your head still in between his cheeks. \u201cBecause if you want, I can try and eat you with my butt, and you would stay inside of it.\u201d You thought about that. You thought about being eaten through that butt, and you thought being surrounded by his embreace and warmth even though it might smell bad because of his farts. But you didnt care about that. You wanted to be near that fuzzy brown bear forever. This was just one way. And you wanted to at least try. <br>\r\n</span></div></div>",
+            "content":"<div class=\"\"><div> <span>\u201cI think you know which way.\u201d<br>\r\n\u201cWell...\u201d Paddington approached you \u201cGet on your knees\u201d You did what he asked.<br>\r\n<br>\r\nYou were now on your knees waiting for Paddington\u2019s next order. He then turned around and your eyes were met with his furry butt. \u201c<i>Perfect!</i>\u201d The bear thought to himself. <br>\r\n<br>\r\n\u201cWhat do I do?\u201d You asked. \u201cBefore I start I wanna know if you are sure of this. Just stay still, and follow my lead\u201d he replied. He then bent over, making his butt closer to your face. \u201c<i>That has to be the biggest butt ever</i>!\u201d You thought. While you were getting more confused as to the intentions of Paddington (and aroused), the bear grabbed his ass cheeks and parted them reviling to you his anus. You took a whiff at it and the musky aroma from his butt was turning you on. </span></div></div>",
             "created":1550811600,
             "id":2621369,
             "title":"Anal Vore"
+        },
+        "121112":{
+            "author_id":"thomsc",
+            "author_name":"Thoms",
+            "choices":[
+                "Continue",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>For a solid minute you stood there with you head between his butt cheecks. Then Paddington spoke...<br>\r\n</span></div></span></div>",
+            "created":1597899600,
+            "id":2888559,
+            "title":"Prepare Johnatan for what's to come"
+        },
+        "1211121":{
+            "author_id":"thomsc",
+            "author_name":"Thoms",
+            "choices":[
+                "Anal vore",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>\u201cYou like it?\u201d The bear asked.<br>\r\n\u201cVery! I like everything about you.\u201d<br>\r\n\u201cThen you\u2019re gonna like this.\u201d Paddington then proceeded to make contact with his anus on your nose. Mentally you were prepared but, actually doing it was another subject and you were taken aback. \"Dont worry\" Paddington reasured you \"just rest your nose on it.\" you did as we told. You felt Paddingtons contractions on the tip. And you could sence what was to come while he pushed. Soon after, he was farting in your face.<br>\r\n<br>\r\nNow, you liked the smell of his previous fart from afar, but getting it point blank was another story. The force of the wind coming out, the strong smell of something that died inside of his ass, everything was bad, but yet, it felt right. The more you sniffed his farts the more you were liking it and the more you wanted to smell it. It lasted a few seconds. And you wanted more.<br>\r\n<br>\r\n\u201cStill want me to eat you?\u201d Paddington asked with your head still in between his cheeks. \u201cBecause if you want, I can have you stay inside by bowels, but I dont know how to get you out.\" You thought about that. You thought about being eaten through that butt, and you thought being surrounded by his embreace and warmth, for what could be for a very long time. And even though it might smell bad because of his farts, you didnt care about that. You wanted to be with that fuzzy brown bear forever. This was just one way. And you wanted to at least try. <br>\r\n</span></div></div>",
+            "created":1597899600,
+            "id":2888561,
+            "title":"Continue"
         }
     },
     "info":{
@@ -113,8 +234,8 @@
         "description":"<td align=\"left\" class=\"norm\">You are entering a gay interactive story based on Paddington the Bear Movie. You play as one of the brown's male family members or Paddington itself. Don't kill any characters.  <br>\r\n<br>\r\nThere are just a few rules: <br>\r\n0.- Try to make everything around Paddington;<br>\r\n1.- All Characters are male. No girls allowed; <br>\r\n2.- No gender swap or having female genitalia. It will be deleted; <br>\r\n3.- Don\u2019t Kill the Characters. No HV, Digestion or Absorption; <br>\r\n4.- No Hard Vore and UB. All the others are fine ( Preferably Anal Vore); <br>\r\n5.- Scat is Allowed: ( Poop, Farts, etc... Farts are Preferable); <br>\r\n6.- Sex is allowed; <br>\r\n7.- Entries will be deleted for Bad Grammar and Spelling; <br>\r\n8.- Completely non-nonsensical storylines and going offtopic will be deleted; <br>\r\n9.- Have fun. </td>",
         "id":2040460,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1550839320,
-        "modified":1550839320,
+        "last_full_update":1597950600,
+        "modified":1597950600,
         "pretty_title":"Paddington the Bear Vore Interactive"
     }
 }

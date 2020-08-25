@@ -27,6 +27,55 @@
             "id":2831041,
             "title":"Aware"
         },
+        "111":{
+            "author_id":"goldenrp",
+            "author_name":"CrazyNoisyGreatDays",
+            "choices":[
+                "Dragon Ball",
+                "Dragon Ball Z",
+                "Dragon Ball GT or Super"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Alright, you are yourself, which series are you in.</span></div></span></div>",
+            "created":1598158800,
+            "id":2890180,
+            "title":"Yourself?"
+        },
+        "1112":{
+            "author_id":"goldenrp",
+            "author_name":"CrazyNoisyGreatDays",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Next Question: Are you male or female</span></div></span></div>",
+            "created":1598158800,
+            "id":2890182,
+            "title":"Dragon Ball Z"
+        },
+        "11122":{
+            "author_id":"goldenrp",
+            "author_name":"CrazyNoisyGreatDays",
+            "choices":[
+                "Android 18",
+                "Other choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ok then, which one the giant ladies find you?</span></div></span></div>",
+            "created":1598245200,
+            "id":2890609,
+            "title":"Female"
+        },
+        "1113":{
+            "author_id":"goldenrp",
+            "author_name":"CrazyNoisyGreatDays",
+            "choices":[
+                "GT",
+                "Super"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which of the two?</span></div></span></div>",
+            "created":1598245200,
+            "id":2890608,
+            "title":"Dragon Ball GT or Super"
+        },
         "112":{
             "author_id":"worker1398",
             "author_name":"Clear Diamond",
@@ -168,7 +217,7 @@
         "id":2221244,
         "image_url":"https://www.Writing.Com/main/images/action/display_cover/id/102115.jpg",
         "last_full_update":1590621960,
-        "modified":1590621960,
+        "modified":1598277840,
         "pretty_title":"Dragon Ball Shrink"
     }
 }
