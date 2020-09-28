@@ -132,6 +132,18 @@
             "id":1792129,
             "title":"What Garfield character?"
         },
+        "11531":{
+            "author_id":"redwolf12",
+            "author_name":"wolfbood",
+            "choices":[
+                "To get even with Garfield",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Why did Nermal change her age?</span></div></span></div>",
+            "created":1598504400,
+            "id":2892624,
+            "title":"Nermal"
+        },
         "12":{
             "author_id":"maniacaldude",
             "author_name":"maniacaldude",
@@ -687,25 +699,73 @@
             "author_id":"johnny2",
             "author_name":"littlejohn",
             "choices":[
+                "Marvin",
+                "Someone Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who will be the one to get older or younger?</span></div></span></div>",
+            "created":1584680400,
+            "id":2804209,
+            "title":"Marvin"
+        },
+        "15533211":{
+            "author_id":"maniacaldude",
+            "author_name":"maniacaldude",
+            "choices":[
                 "Older",
                 "Younger"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Marvin get older or younger?</span></div></span></div>",
-            "created":1584680400,
-            "id":2804209,
-            "title":"Marvin"
+            "created":1600491600,
+            "id":2906219,
+            "title":"Marvin Himself"
+        },
+        "155332112":{
+            "author_id":"maniacaldude",
+            "author_name":"maniacaldude",
+            "choices":[
+                "Newborn",
+                "Back To The Womb"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How much younger can he get, since he's still a baby?</span></div></span></div>",
+            "created":1600491600,
+            "id":2906225,
+            "title":"Younger"
+        },
+        "1553321122":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "A wish",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does Marvin become unborn again?</span></div></span></div>",
+            "created":1600491600,
+            "id":2906264,
+            "title":"Back To The Womb"
+        },
+        "15533211221":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "A star",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does Marvin make the wish?</span></div></span></div>",
+            "created":1600664400,
+            "id":2907740,
+            "title":"A wish"
         },
         "15533212":{
             "author_id":"johnny2",
             "author_name":"littlejohn",
             "choices":[
-                "Newborn",
-                "He gets sent back to the womb"
+                "Sure",
+                "Nah"
             ],
-            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How young does he get?</span></div></span></div>",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Perhaps Jenny, Marvin's mother, gets younger or older?</span></div></span></div>",
             "created":1584680400,
             "id":2804227,
-            "title":"Younger"
+            "title":"Jenny?"
         },
         "155332122":{
             "author_id":"johnny2",
@@ -800,8 +860,8 @@
         "description":"<td align=\"left\" class=\"norm\">We all know that newspaper comics have become rather outdated and most of the strips have gotten rather mediocre over the years, so hopefully there are those out there who still read them. I made this for those who read the comics and like age transformation as well.<br>\r\n<br>\r\nThe stories can involve a large variety of comics that could be used, like Garfield, Calvin &amp; Hobbes, Peanuts, and many more series and they can go however you want, but they must have characters getting older or younger as a focus. I'm looking for anyone who knows about some of these characters so that they can contribute as well.<br>\r\n<br>\r\nDA RULES:<br>\r\nOther transformations can be included, but age regression/progression is the main focus.<br>\r\nNo killing off characters. <br>\r\nNo sex or vore (Regressing to unbirth, though, is acceptable.)<br>\r\nPut effort in description, unless you're giving more options. Try to build a story around the effects.<br>\r\nUse your imagination! Some comics tend to be more based around real life than others, so let's ignore that aspect and go wild with what could cause the effects!<br>\r\nKeep to the rating, people!<br>\r\nIf you want to poke fun at certain series, do so, but DON'T BE TOO HARSH.</td>",
         "id":1827180,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1585721640,
-        "modified":1585721640,
+        "last_full_update":1600745460,
+        "modified":1600745460,
         "pretty_title":"Newspaper Comic AR/AP"
     }
 }

@@ -1918,6 +1918,19 @@
             "id":1522593,
             "title":"Bowel Issue"
         },
+        "12212":{
+            "author_id":"mouse108",
+            "author_name":"Dark Queen",
+            "choices":[
+                "to wait",
+                "to ask for a stop",
+                "to let it out"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You suddenly let out a yelp and decide</span></div></span></div>",
+            "created":1600146000,
+            "id":2903569,
+            "title":"You have to pee.... Badly"
+        },
         "1222":{
             "choices":[
                 "\"Yep. It's coming.\"",
@@ -2254,8 +2267,8 @@
         "description":"<td align=\"left\" class=\"norm\">Do whatever you want in this story.Just don't get out of the theme.<br>\r\n</td>",
         "id":1618545,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1597379520,
-        "modified":1597379520,
+        "last_full_update":1600195680,
+        "modified":1600195680,
         "pretty_title":"anthro toilet fun"
     }
 }

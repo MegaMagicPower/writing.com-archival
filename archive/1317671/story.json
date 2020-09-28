@@ -585,6 +585,42 @@
             "id":2039130,
             "title":"MJ"
         },
+        "15521":{
+            "author_id":"mcnuker",
+            "author_name":"Camouflaged",
+            "choices":[
+                "Mary Jane Watson",
+                "Michelle Jones"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do you want to stick with Mary Jane Watson, or switch to the Marvel Cinematic Universe, Michelle Jones?</span></div></span></div>",
+            "created":1601096400,
+            "id":2910317,
+            "title":"Which MJ?"
+        },
+        "15522":{
+            "author_id":"megatron840",
+            "author_name":"Megatronus Khan",
+            "choices":[
+                "Either the versions portrayed by Bryce Dallas Howard or Emma Stone.",
+                "Other media versions of Gwen Stacy."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Perhaps so \u201cThe Bryce Dallas Howard Version\u201d, \u201cThe Emma Stone Version\u201d or versions from other media of Gwen Stacy?</span></div></span></div>",
+            "created":1601096400,
+            "id":2910685,
+            "title":"Gwen Stacy"
+        },
+        "155221":{
+            "author_id":"megatron840",
+            "author_name":"Megatronus Khan",
+            "choices":[
+                "Gwen Stacy all as played by Ms. Bryce Dallas Howard.",
+                "Gwen Stacy all as played by Emma Stone."
+            ],
+            "content":"<div class=\"\"><div> <span>Which version of Gwen Stacy over here?<br>\r\n<br>\r\nThe media adaptational version of the character portrayed by Bryce Dallas Howard for \u201cthe three Sam Raimi Spiderman films and the would have been fourth and fifth and sixth films\u201d?<br>\r\n<br>\r\nOr the one portrayed by Emma Stone?</span></div></div>",
+            "created":1601096400,
+            "id":2910687,
+            "title":"Which one of these for Gwen Stacy?"
+        },
         "1553":{
             "author_id":"kaisershadow",
             "author_name":"Kaiser Shadow",
@@ -1099,7 +1135,7 @@
         "id":1317671,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
         "last_full_update":1542522300,
-        "modified":1542522300,
+        "modified":1601177040,
         "pretty_title":"Favorite Female WG"
     }
 }

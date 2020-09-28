@@ -904,6 +904,42 @@
             "id":2217148,
             "title":"A Feline Surprise"
         },
+        "122332":{
+            "author_id":"kaijufanforeve",
+            "author_name":"KaijuFanForever",
+            "choices":[
+                "Hyena",
+                "no thanks"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>how about...</span></div></span></div>",
+            "created":1599714000,
+            "id":2900913,
+            "title":"More predators!"
+        },
+        "1223321":{
+            "author_id":"kaijufanforeve",
+            "author_name":"KaijuFanForever",
+            "choices":[
+                "She leaves you be",
+                "She lickes her lips, guess whos the lucky meal?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>A giggling sound made you spin around to see a Spotted Hyena approach you. The pred sniffed at you, trying to determine the best course of action. Then...</span></div></span></div>",
+            "created":1600750800,
+            "id":2908151,
+            "title":"Hyena"
+        },
+        "1223322":{
+            "author_id":"kaijufanforeve",
+            "author_name":"KaijuFanForever",
+            "choices":[
+                "African Wild Dog",
+                "nope, moving on"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about...</span></div></span></div>",
+            "created":1600750800,
+            "id":2908126,
+            "title":"no thanks"
+        },
         "123":{
             "author_id":"jcost1",
             "author_name":"DarkJedi12",
@@ -1073,6 +1109,19 @@
             "created":1476594000,
             "id":2224324,
             "title":"Adults "
+        },
+        "1233":{
+            "author_id":"kaijufanforeve",
+            "author_name":"KaijuFanForever",
+            "choices":[
+                "to the jungle",
+                "desert",
+                "other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>you decide to head...</span></div></span></div>",
+            "created":1599973200,
+            "id":2902314,
+            "title":"More Options"
         },
         "124":{
             "author_id":"jcost1",
@@ -1412,6 +1461,21 @@
             "created":1464584400,
             "id":2155950,
             "title":"Other"
+        },
+        "14":{
+            "author_id":"lordmep",
+            "author_name":"The Grand One",
+            "choices":[
+                "Head into the jungle",
+                "Explore the savanna",
+                "Go to the river",
+                "Something approaches",
+                "Reader's choice"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Our hero, a pre-teen girl, awakens in the savanna. Nearby there's a jungle, but also a river. Her clothes are in tatters from the accident, but otherwise she's unharmed. Scared, alone, and uncertain what may befall her next, what happens?</span></div></span></div>",
+            "created":1598418000,
+            "id":2891915,
+            "title":"Female, under 15 years"
         }
     },
     "info":{
@@ -1422,8 +1486,8 @@
         "description":"<td align=\"left\" class=\"norm\">Rules (Edited May 6, 2010)<br>\r\n1. No Anthros (If it's a lion, it has four legs, not two).<br>\r\n2. Any ending is acceptable (Death, enslaved, transformed, contained, etc. are all good)<br>\r\n3. Bad Grammer/Spelling (Spell check is your friend.)<br>\r\n<br>\r\nIf it isn't prohibited, assume it's fair game.<br>\r\nPlease add, stick to the simple rules, and have fun!</td>",
         "id":1670540,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1587061080,
-        "modified":1587061080,
+        "last_full_update":1600796520,
+        "modified":1600796520,
         "pretty_title":"Stuck in Africa"
     }
 }

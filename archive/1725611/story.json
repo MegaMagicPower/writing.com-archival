@@ -809,6 +809,157 @@
             "created":1522472400,
             "id":2472612,
             "title":"Growth Machine"
+        },
+        "1553314":{
+            "author_id":"pedro01",
+            "author_name":"pedro01",
+            "choices":[
+                "Fast",
+                "Slow"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do you want this as a fast or a slow growth to start the story?</span></div></span></div>",
+            "created":1601010000,
+            "id":2909933,
+            "title":"A Wishing Ring"
+        },
+        "155332":{
+            "author_id":"pedro01",
+            "author_name":"pedro01",
+            "choices":[
+                "Gavin Magnus",
+                "Walker Bryant",
+                "More"
+            ],
+            "content":"<div class=\"\"><div> <span>Alright, so what about these two online stars then!<br>\r\n<br>\r\nGavin Magnus, aged 13<br>\r\n<br>\r\nWalker Bryant, aged 13<br>\r\n<br>\r\nI wouldn\u2019t want to guess their height and weight since some of the bios can be inaccurate, so you can make use the imagination figure it out, so yeah! </span></div></div>",
+            "created":1601010000,
+            "id":2909936,
+            "title":"How about these two online celebs?"
+        },
+        "1553321":{
+            "author_id":"pedro01",
+            "author_name":"pedro01",
+            "choices":[
+                "Ray Gun",
+                "Potion",
+                "Growth Machine",
+                "A Wishing Ring",
+                "More Items"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You chose Gavin Magnus to grow into a giant fat boy.  How did that happen to start off the story?</span></div></span></div>",
+            "created":1601010000,
+            "id":2909938,
+            "title":"Gavin Magnus"
+        },
+        "15533211":{
+            "author_id":"pedro01",
+            "author_name":"pedro01",
+            "choices":[
+                "Fast",
+                "Slow"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do you want the fast or slow growth to start the story?</span></div></span></div>",
+            "created":1601010000,
+            "id":2909939,
+            "title":"Ray Gun"
+        },
+        "15533212":{
+            "author_id":"pedro01",
+            "author_name":"pedro01",
+            "choices":[
+                "Fast",
+                "Slow"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do you want the fast or slow growth to start the story?</span></div></span></div>",
+            "created":1601010000,
+            "id":2909940,
+            "title":"Potion"
+        },
+        "15533213":{
+            "author_id":"pedro01",
+            "author_name":"pedro01",
+            "choices":[
+                "Fast",
+                "Slow"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do you want the fast or slow growth to start the story?</span></div></span></div>",
+            "created":1601010000,
+            "id":2909941,
+            "title":"Growth Machine"
+        },
+        "15533214":{
+            "author_id":"pedro01",
+            "author_name":"pedro01",
+            "choices":[
+                "Fast",
+                "Slow"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do you want a fast or slow growth to start the story?</span></div></span></div>",
+            "created":1601010000,
+            "id":2909942,
+            "title":"A Wishing Ring"
+        },
+        "1553322":{
+            "author_id":"pedro01",
+            "author_name":"pedro01",
+            "choices":[
+                "Ray Gun",
+                "Potion",
+                "Growth Machine",
+                "A Wishing Ring",
+                "More Items"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You chose Walker Bryant to grow into a fat giant boy.  But how did it happen to start off the story?</span></div></span></div>",
+            "created":1601010000,
+            "id":2909943,
+            "title":"Walker Bryant"
+        },
+        "15533221":{
+            "author_id":"pedro01",
+            "author_name":"pedro01",
+            "choices":[
+                "Fast",
+                "Slow"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do you want a fast or slow growth to start the story?</span></div></span></div>",
+            "created":1601010000,
+            "id":2909945,
+            "title":"Ray Gun"
+        },
+        "15533222":{
+            "author_id":"pedro01",
+            "author_name":"pedro01",
+            "choices":[
+                "Fast",
+                "Slow"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do you want a fast or slow growth to start the story?</span></div></span></div>",
+            "created":1601010000,
+            "id":2909946,
+            "title":"Potion"
+        },
+        "15533223":{
+            "author_id":"pedro01",
+            "author_name":"pedro01",
+            "choices":[
+                "Fast",
+                "Slow"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do you want a fast or slow growth to start the story?</span></div></span></div>",
+            "created":1601010000,
+            "id":2909948,
+            "title":"Growth Machine"
+        },
+        "15533224":{
+            "author_id":"pedro01",
+            "author_name":"pedro01",
+            "choices":[
+                "Fast",
+                "Slow"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do you want a fast or slow growth to start the story?</span></div></span></div>",
+            "created":1601010000,
+            "id":2909949,
+            "title":"A Wishing Ring"
         }
     },
     "info":{
@@ -820,7 +971,7 @@
         "id":1725611,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
         "last_full_update":1557516240,
-        "modified":1557516240,
+        "modified":1601076240,
         "pretty_title":"Attack of the Fat Giant Teen Boys"
     }
 }

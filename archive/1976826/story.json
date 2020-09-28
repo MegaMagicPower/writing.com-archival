@@ -54,6 +54,31 @@
             "id":2004761,
             "title":"A celebrity"
         },
+        "1531":{
+            "author_id":"nichster",
+            "author_name":"nichster",
+            "choices":[
+                "An adult man",
+                "A teenage boy",
+                "An older woman"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The next day, the disease has infected a bunch of new people. Which story should we follow the perspective from?</span></div></span></div>",
+            "created":1600578000,
+            "id":2906864,
+            "title":"Jennifer Lawrence"
+        },
+        "15311":{
+            "author_id":"nichster",
+            "author_name":"nichster",
+            "choices":[
+                "His wife Louise, 38 who had transformed as well",
+                "His daughter Kim, 14 who had transformed as well"
+            ],
+            "content":"<div class=\"\"><div> <span>Joseph was an engineer waking up after a long shift the day before. But he could feel something different. He was no longer 6 ft 1 and had shrunk to 5 ft 9. His hair was now a blonde and his eyes were blue. Joseph didn't realise it yet but he now had been infected and was now an identical copy of Jennifer Lawrence. Joseph woke up to what he believed to be just another day, moving his new blonde hair out of his face. He went to his mirror and let out a gasp. He stood in shock: He was a woman: But not just any woman, a celebrity at that as well. Joseph was panicking wondering what the hell he would do. Was Jennifer in his body now? Would he be stuck like this forever? He switched on the news to see if anything odd was going on. Nothing but bog standard breakfast news. Someone knocked on the door with a familiar female voice: Who was it?</span></div></div>",
+            "created":1601010000,
+            "id":2909810,
+            "title":"An adult man"
+        },
         "1533":{
             "author_id":"jacksmith3",
             "author_name":"Mikejam76",
@@ -197,6 +222,18 @@
             "id":2847202,
             "title":"No"
         },
+        "154222222":{
+            "author_id":"jackthejackman",
+            "author_name":"JackTheJackMan",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Middle aged woman?</span></div></span></div>",
+            "created":1600232400,
+            "id":2904537,
+            "title":"No"
+        },
         "1543":{
             "author_id":"jacksmith3",
             "author_name":"Mikejam76",
@@ -232,8 +269,8 @@
         "description":"<td align=\"left\" class=\"norm\">When you come into contact with a strange, glowing meteorite you unknowingly became a carrier for an alien disease. Once infected an individual quickly transforms into an identical copy of yourself regardless of their age or sex. When the epidemic reaches global proportions how does mankind react when the all turn into you?</td>",
         "id":1976826,
         "image_url":"https://www.Writing.Com/main/images/action/display_cover/id/101627.jpg",
-        "last_full_update":1591502460,
-        "modified":1591502460,
+        "last_full_update":1600624500,
+        "modified":1601055780,
         "pretty_title":"When Everyone Was Me"
     }
 }

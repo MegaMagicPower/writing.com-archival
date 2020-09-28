@@ -1713,6 +1713,65 @@
             "id":2888651,
             "title":"Cream"
         },
+        "1143122":{
+            "author_id":"doctwisted",
+            "author_name":"Twisted Gear",
+            "choices":[
+                "Female not playing the game",
+                "Male not playing the Game",
+                "Female playing the game",
+                "Male playing the game",
+                "Someone with no gender"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Male or Female<br>\r\nSomeone playing the game or no?</span></div></span></div>",
+            "created":1599109200,
+            "id":2896665,
+            "title":"Someone else "
+        },
+        "11431221":{
+            "author_id":"doctwisted",
+            "author_name":"Twisted Gear",
+            "choices":[
+                "Cosmo from Sonic x",
+                "Tangle from IDW",
+                "Tikal from Sonic Adventure ",
+                "Topaz from Sonic X",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Sonic would become....</span></div></span></div>",
+            "created":1599109200,
+            "id":2896667,
+            "title":"Female not playing the game"
+        },
+        "114312213":{
+            "author_id":"doctwisted",
+            "author_name":"Twisted Gear",
+            "choices":[
+                "He becomes Tikal in body but his mind and clothes are the same",
+                "Tikal in body and clothes, sonic in mind",
+                "Tikal completely ",
+                "Tikal in mind and body only",
+                "Tikal in mind only (and voice obviously "
+            ],
+            "content":"<div class=\"\"><div> <span>Sonic read the card \u201cRemember your oldest friend, and let them play a part in the game?\u201d Sonic looked over it in confusion \u201cOldest friend? Ta<span class=\"corange\">ils is already... huh?</span>\u201d The blue hedgehog noticed he was sounding more feminine and old fashioned, like tikal, as hisother changes began.</span></div></div>",
+            "created":1600232400,
+            "id":2904265,
+            "title":"Tikal from Sonic Adventure "
+        },
+        "11431223":{
+            "author_id":"doctwisted",
+            "author_name":"Twisted Gear",
+            "choices":[
+                "Amy",
+                "Cream",
+                "Rouge",
+                "A new arrival "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Thats a short list</span></div></span></div>",
+            "created":1599109200,
+            "id":2896666,
+            "title":"Female playing the game"
+        },
         "11432":{
             "choices":[
                 "Peach",
@@ -3385,8 +3444,8 @@
         "description":"<td align=\"left\" class=\"norm\">Inspired by A Game of Change except with Sonic chars. Add ons are appreciated.<br>\r\n<br>\r\nSonic feels the urge to buy a weird board game from Merlin's Magic Shop and invites Tails, Amy, Cream, Knuckles and Rouge over to play it. Though they will undoubtedly experience changes along the way since players will transform depending on the spaces or cards drawn.<br>\r\n<br>\r\nHere some rules:<br>\r\n<br>\r\n1. Anything goes or any body modification/transformation is allowed except for vore (unbirthing is an exception), weight gain, scat and watersports.<br>\r\n2. Sex is allowed, but no gayism/lesbianism. <br>\r\n3. Once an order is established, the players must always continue in that order. However, you can add more players/chars into the mix, but their turn is after the person who last in the established order.<br>\r\n4. If anyone tries to quit, there will be severe consequences.<br>\r\n5. Transformations won't be reversed until the game is finished.</td>",
         "id":1680006,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1597959060,
-        "modified":1597959060,
+        "last_full_update":1600281360,
+        "modified":1600281360,
         "pretty_title":"Modification"
     }
 }

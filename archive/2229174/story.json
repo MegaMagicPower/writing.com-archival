@@ -16,19 +16,45 @@
             "title":"the start."
         },
         "11":{
-            "author_id":"bou53leau",
-            "author_name":"P'titloup",
+            "author_id":"redwolf12",
+            "author_name":"wolfbood",
             "choices":[
-                "Fairy Tail",
-                "Bleach",
-                "Naruto",
-                "One Piece",
-                "other choice"
+                "Hamtaro",
+                "SGT. Frog",
+                "Hetalia",
+                "Bobobo bo bo bobo",
+                "Something else"
             ],
-            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which anime shall we try first</span></div></span></div>",
-            "created":1597726800,
-            "id":2887655,
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about these anime?</span></div></span></div>",
+            "created":1599886800,
+            "id":2901481,
             "title":"anime what ifs"
+        },
+        "111":{
+            "author_id":"jobobo19",
+            "author_name":"carl.a.pruuitt",
+            "choices":[
+                "Human size hamster",
+                "Laura the hamster",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Here is a what if?<br>\r\n<br>\r\n1. What if Hamtaro and his friends ware grown to human size?<br>\r\n<br>\r\n2. What if Laura become a hamster?</span></div></span></div>",
+            "created":1599886800,
+            "id":2901969,
+            "title":"Hamtaro"
+        },
+        "1112":{
+            "author_id":"redwolf12",
+            "author_name":"wolfbood",
+            "choices":[
+                "She woke up like that",
+                "She made a wish on a shooting star",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How did Laura become hamster?</span></div></span></div>",
+            "created":1599973200,
+            "id":2902483,
+            "title":"Laura the hamster"
         },
         "115":{
             "author_id":"gilligfan",
@@ -59,45 +85,189 @@
             "title":"Sailor Moon"
         },
         "12":{
-            "author_id":"johnny2",
-            "author_name":"littlejohn",
+            "author_id":"shadowguy015",
+            "author_name":"KBX",
             "choices":[
-                "Rugrats",
-                "Little Bear",
-                "My Little Pony",
-                "Arthur",
-                "Something else"
+                "cartoon1",
+                "cartoon2",
+                "cartoon3",
+                "101 Dalmatian Street.",
+                "more cartoons"
             ],
-            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which cartoon shall we try first</span></div></span></div>",
-            "created":1597554000,
-            "id":2886409,
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>choice your cartoon!</span></div></span></div>",
+            "created":1598158800,
+            "id":2889988,
             "title":"cartoon what ifs"
         },
         "121":{
-            "author_id":"supreme123",
-            "author_name":"Cardinal Priest",
+            "author_id":"jobobo19",
+            "author_name":"carl.a.pruuitt",
             "choices":[
-                "An earlier Kimi in the show.",
-                "Baby Angelica.",
-                "Any more what-ifs that come to mind."
+                "Choice 1",
+                "Choice 2",
+                "Choice 3",
+                "Choice 4",
+                "Something else"
             ],
-            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ah, Rugrats, a classic if ever there was one.<br>\r\nNow, some likely what-ifs.<br>\r\nWhat if Kimi had come into the show earlier.<br>\r\nWhat if Angelica wanted to stay a baby.<br>\r\n<br>\r\n</span></div></span></div>",
-            "created":1597986000,
-            "id":2888955,
-            "title":"Rugrats"
+            "content":"<div class=\"\"><div> <span>Here is a what if?<br>\r\n<br>\r\n1. What if Little Bear decided to stay bigger?<br>\r\n<br>\r\n2. What if Emily was a bear?<br>\r\n<br>\r\n3. What if Mother Bear and Father Bear was not Little Bear parents?<br>\r\n<br>\r\n4. What if Emily was a witch?</span></div></div>",
+            "created":1599800400,
+            "id":2901244,
+            "title":"Little Bear"
         },
-        "122":{
+        "1211":{
+            "author_id":"ohshc",
+            "author_name":"las moras",
+            "choices":[
+                "Still kids.",
+                "Teenagers.",
+                "Adults."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Each age were they?</span></div></span></div>",
+            "created":1598677200,
+            "id":2894300,
+            "title":"What If number one."
+        },
+        "1212":{
+            "author_id":"jobobo19",
+            "author_name":"carl.a.pruuitt",
+            "choices":[
+                "Stick with Emily becoming a bear cub",
+                "Mother Bear and Father Bear was not Little Bear parents",
+                "Bedtime with Mother Bear",
+                "Emily the witch",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>Should we keep going with this what if are do another what if like...<br>\r\n<br>\r\n1. What if Mother Bear and Father Bear was not Little Bear real parents?<br>\r\n<br>\r\n2. What if Mother Bear ask Little Bear to sleep with her in bed?<br>\r\n<br>\r\n3. What if Emily was a witch?</span></div></div>",
+            "created":1600491600,
+            "id":2906270,
+            "title":"Emily is a bear cub"
+        },
+        "12125":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What if Little Bear got a flea?</span></div></span></div>",
+            "created":1600491600,
+            "id":2906325,
+            "title":"Something else"
+        },
+        "121251":{
+            "author_id":"jobobo19",
+            "author_name":"carl.a.pruuitt",
+            "choices":[
+                "He want to to the flea circus",
+                "They came to him wyli he was sleeping",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How did Little Bear get fleas?</span></div></span></div>",
+            "created":1600491600,
+            "id":2906341,
+            "title":"Yes"
+        },
+        "1212511":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did one of the fleas want to escape from the circus?</span></div></span></div>",
+            "created":1600491600,
+            "id":2906348,
+            "title":"He want to to the flea circus"
+        },
+        "1212512":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was Little Bear taking a nap in the woods?</span></div></span></div>",
+            "created":1600491600,
+            "id":2906352,
+            "title":"They came to him wyli he was sleeping"
+        },
+        "12125121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Under a tree",
+                "Somewhere else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where was Little Bear sleeping?</span></div></span></div>",
+            "created":1601010000,
+            "id":2909585,
+            "title":"Yes"
+        },
+        "12125122":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "In his room",
+                "Somewhere else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where else was Little Bear sleeping?</span></div></span></div>",
+            "created":1601010000,
+            "id":2909955,
+            "title":"No"
+        },
+        "1212513":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was a flea trying to seek shelter from a storm?</span></div></span></div>",
+            "created":1600491600,
+            "id":2906345,
+            "title":"Something else"
+        },
+        "121252":{
             "author_id":"redwolf12",
             "author_name":"wolfbood",
             "choices":[
-                "Bigger little bear",
-                "Emily is a bear cub",
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What if Mother Bear was the same height as Little Bear?</span></div></span></div>",
+            "created":1600578000,
+            "id":2906931,
+            "title":"Something else"
+        },
+        "122":{
+            "author_id":"jobobo19",
+            "author_name":"carl.a.pruuitt",
+            "choices":[
+                "Choice 1",
+                "Choice 2",
+                "Choice 3",
+                "Choice 4",
                 "Something else"
             ],
-            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Here is a what if.<br>\r\n<br>\r\n1. What if Little Bear decided to stay bigger.<br>\r\n<br>\r\n2. What if Emily was a bear.</span></div></span></div>",
-            "created":1597813200,
-            "id":2888046,
-            "title":"Little Bear"
+            "content":"<div class=\"\"><div> <span>Here is a what if?<br>\r\n<br>\r\n1. What if D.W took over the world?<br>\r\n<br>\r\n2. What if Arthur and his mom ware shrunk down to doll size?<br>\r\n<br>\r\n3. What if Brain and D.W travel through time?<br>\r\n<br>\r\n4. What if D.W has magic power?</span></div></div>",
+            "created":1599800400,
+            "id":2901264,
+            "title":"Arthur"
+        },
+        "1221":{
+            "author_id":"jobobo19",
+            "author_name":"carl.a.pruuitt",
+            "choices":[
+                "They. Wore hit with a strange glowing light",
+                "They wish to be one",
+                "They ate some strange food",
+                "They drink some strange water",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How did the paw petrol pups end up as anthro version of themself?</span></div></span></div>",
+            "created":1600491600,
+            "id":2906296,
+            "title":"Anthro Paw Patrol"
         },
         "1223":{
             "author_id":"johnny2",
@@ -147,17 +317,32 @@
             "title":"Somewhere else"
         },
         "123":{
+            "author_id":"jobobo19",
+            "author_name":"carl.a.pruuitt",
+            "choices":[
+                "Clifford is not the only one who got bigger",
+                "A wold fall of anthro dogs",
+                "Emily is a dog",
+                "Daffodil go's to birdwell island",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>Here is a what if?<br>\r\n<br>\r\n1. What if Clifford was not the only one who got bigger?<br>\r\n<br>\r\n2. What if All the dogs ware anthro?<br>\r\n<br>\r\n3. What if Emily Elizabeth became a dog?<br>\r\n<br>\r\n4. What if Daffedil go with them to birdwell island?</span></div></div>",
+            "created":1599973200,
+            "id":2902356,
+            "title":"Clifford the big red dog/puppy days"
+        },
+        "1231":{
             "author_id":"redwolf12",
             "author_name":"wolfbood",
             "choices":[
-                "Bigger little bear",
-                "Emily is a bear cub",
-                "Something else"
+                "Daffodil",
+                "Cleo",
+                "Someone else"
             ],
-            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Here is a what if?<br>\r\n<br>\r\n1. What if Little Bear decided to stay bigger?<br>\r\n<br>\r\n2. What if Emily was a bear?</span></div></span></div>",
-            "created":1598245200,
-            "id":2890699,
-            "title":"Little Bear"
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who's going to got join Clifford in being big?</span></div></span></div>",
+            "created":1599973200,
+            "id":2902487,
+            "title":"Clifford is not the only one who got bigger"
         },
         "1233":{
             "author_id":"johnny2",
@@ -170,6 +355,18 @@
             "created":1598245200,
             "id":2890700,
             "title":"Something else"
+        },
+        "12331":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "A circus",
+                "Somewhere else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where would this flea come from?</span></div></span></div>",
+            "created":1598763600,
+            "id":2894648,
+            "title":"Yes"
         },
         "124":{
             "author_id":"shadowguy015",
@@ -211,45 +408,136 @@
             "title":"Cut to a later time as their training is complete."
         },
         "125":{
-            "author_id":"johnny2",
-            "author_name":"littlejohn",
-            "choices":[
-                "The Powerpuff Girls",
-                "Alvin & the Chipmunks",
-                "Something else"
-            ],
-            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What other cartoons shall we go with?</span></div></span></div>",
-            "created":1597640400,
-            "id":2887230,
-            "title":"Something else"
-        },
-        "1253":{
             "author_id":"redwolf12",
             "author_name":"wolfbood",
             "choices":[
-                "Paw Patrol",
+                "Yes",
+                "No Lilo and Stitch",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about Max and Rudy?</span></div></span></div>",
+            "created":1600232400,
+            "id":2904427,
+            "title":"more cartoons"
+        },
+        "1251":{
+            "author_id":"jobobo19",
+            "author_name":"carl.a.pruuitt",
+            "choices":[
+                "Choice 1",
+                "Choice 2",
+                "Choice 3",
+                "Choice 4",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Here is a what if?<br>\r\n<br>\r\n1. What if the Paw Patrol become big?<br>\r\n<br>\r\n2. What if the humans become tiny?<br>\r\n<br>\r\n3. What if the Paw Patrol become anthro?<br>\r\n<br>\r\n4. What if everyone becomes dogs?</span></div></span></div>",
+            "created":1599195600,
+            "id":2897532,
+            "title":"Paw Patrol"
+        },
+        "1252":{
+            "author_id":"jobobo19",
+            "author_name":"carl.a.pruuitt",
+            "choices":[
+                "Choice 1",
+                "Choice 2",
+                "Choice 3",
+                "Choice 4",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Here is a what if?<br>\r\n<br>\r\n1. What if D.W took over the world?<br>\r\n<br>\r\n2. What if Arthur and his mom ware shrunk down to doll size?<br>\r\n<br>\r\n3. What if Kate and Pal can talk?<br>\r\n<br>\r\n4. What if D.W has magic power?</span></div></span></div>",
+            "created":1599109200,
+            "id":2897105,
+            "title":"Arthur"
+        },
+        "12522":{
+            "author_id":"redwolf12",
+            "author_name":"wolfbood",
+            "choices":[
+                "They woke up like that",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How did Arthur and his mom get shrunk to doll size?</span></div></span></div>",
+            "created":1599195600,
+            "id":2897698,
+            "title":"Choice 2"
+        },
+        "1253":{
+            "author_id":"jobobo19",
+            "author_name":"carl.a.pruuitt",
+            "choices":[
+                "Tailspin",
                 "Gummi bear",
+                "Goof troops",
+                "Lilo and Stitch",
                 "Another cartoons show"
             ],
-            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which cartoons show do you want?</span></div></span></div>",
-            "created":1597813200,
-            "id":2888161,
-            "title":"Something else"
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Or maybe this?</span></div></span></div>",
+            "created":1599109200,
+            "id":2896925,
+            "title":"Another cartoons show"
+        },
+        "12531":{
+            "author_id":"redwolf12",
+            "author_name":"wolfbood",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about this?<br>\r\n<br>\r\nWhat if Molly Cunningham And Rebecca Cunningham swap roles?</span></div></span></div>",
+            "created":1599195600,
+            "id":2897667,
+            "title":"Tailspin"
+        },
+        "125311":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Alex.",
+                "Clover.",
+                "By both of them, or something else that happened."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>For whatever reason, WOOHP wasn't able to reverse the mental regressing effect of the toys, leaving her stuck at 6 or so, but with a teenager's body. This resulted in Sam being taken in by...</span></div></span></div>",
+            "created":1598677200,
+            "id":2894297,
+            "title":"option 1"
+        },
+        "125312":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "It's Alex.",
+                "It's Clover.",
+                "Both of them."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>This now being the case, who is effected by Vladimir's toys instead of Sam?</span></div></span></div>",
+            "created":1598677200,
+            "id":2894285,
+            "title":"option 2"
+        },
+        "12532":{
+            "author_id":"redwolf12",
+            "author_name":"wolfbood",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about this?<br>\r\n<br>\r\nWhat if the Gummi bears ware live in peace with the humans?</span></div></span></div>",
+            "created":1599195600,
+            "id":2897673,
+            "title":"Gummi bear"
         },
         "12533":{
-            "author_id":"spunky",
-            "author_name":"Ace Jones",
+            "author_id":"redwolf12",
+            "author_name":"wolfbood",
             "choices":[
-                "101 Dalmatian Street.",
-                "Tiny Toon Adventures.",
-                "Open Choice Chapter.",
-                "Open Choice Chapter.",
-                "Open Choice Chapter."
+                "Yes",
+                "No"
             ],
-            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Here's some more cartoon shows.</span></div></span></div>",
-            "created":1597813200,
-            "id":2888180,
-            "title":"Another cartoon show or two."
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about this?<br>\r\n<br>\r\nWhat if Max has a crash on Peg Pete?</span></div></span></div>",
+            "created":1599195600,
+            "id":2897678,
+            "title":"Goof troops"
         },
         "125331":{
             "author_id":"spunky",
@@ -292,6 +580,267 @@
             "created":1598245200,
             "id":2890971,
             "title":"Another cartoons show"
+        },
+        "1253321":{
+            "author_id":"redwolf12",
+            "author_name":"wolfbood",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about this?<br>\r\n<br>\r\nWhat if Read family must do what D.W said?</span></div></span></div>",
+            "created":1598504400,
+            "id":2892472,
+            "title":"Arthur"
+        },
+        "12533212":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What about this?<br>\r\n<br>\r\nWhat if D.W. was a baby again?</span></div></span></div>",
+            "created":1598504400,
+            "id":2892476,
+            "title":"No"
+        },
+        "125332121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup.",
+                "A wish, or anything else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>This happens to her due to one of The Brain's inventions?</span></div></span></div>",
+            "created":1598504400,
+            "id":2892479,
+            "title":"Yes"
+        },
+        "1253321212":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "A star",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does D.W. make the wish?</span></div></span></div>",
+            "created":1598504400,
+            "id":2892481,
+            "title":"A wish, or anything else."
+        },
+        "1253322":{
+            "author_id":"jobobo19",
+            "author_name":"carl.a.pruuitt",
+            "choices":[
+                "Tailspin",
+                "Goof troops",
+                "Dragon tales",
+                "Lilo and Stitch",
+                "Another cartoons show"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about these cartoons show?</span></div></span></div>",
+            "created":1598331600,
+            "id":2891311,
+            "title":"Something else"
+        },
+        "12533223":{
+            "author_id":"redwolf12",
+            "author_name":"wolfbood",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about this?<br>\r\n<br>\r\nWhat if the dragons decided to go to the human world?</span></div></span></div>",
+            "created":1598504400,
+            "id":2892272,
+            "title":"Dragon tales"
+        },
+        "12533224":{
+            "author_id":"redwolf12",
+            "author_name":"wolfbood",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about this?<br>\r\n<br>\r\nWhat if Stitch and Nani become lovers?</span></div></span></div>",
+            "created":1598418000,
+            "id":2891922,
+            "title":"Lilo and Stitch"
+        },
+        "12533225":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Little Bear",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What about this show?</span></div></span></div>",
+            "created":1598418000,
+            "id":2891858,
+            "title":"Another cartoons show"
+        },
+        "125332251":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What if Little Bear got a flea?</span></div></span></div>",
+            "created":1598418000,
+            "id":2891927,
+            "title":"Little Bear"
+        },
+        "125332252":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Martin mystery",
+                "Danny phantom",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>how about these cartoons?</span></div></span></div>",
+            "created":1598418000,
+            "id":2891871,
+            "title":"Something else"
+        },
+        "1253322522":{
+            "author_id":"jobobo19",
+            "author_name":"carl.a.pruuitt",
+            "choices":[
+                "His parents found out about his ghost power",
+                "Danny didn't became Danny Phantom",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Here is a what if?<br>\r\n<br>\r\n1. What if Danny's parents found out about his ghost power?<br>\r\n<br>\r\n2. What if Danny did go in the portal and became Danny Phantom?</span></div></span></div>",
+            "created":1598504400,
+            "id":2892854,
+            "title":"Danny phantom"
+        },
+        "12533225223":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "option 1",
+                "option 2",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what if Danny's female clone Danielle decided to stay with him? or what if Danny kept the reality gauntlet instead of destroying it?</span></div></span></div>",
+            "created":1598677200,
+            "id":2894282,
+            "title":"Something else"
+        },
+        "125332252231":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Adopted her, making her Danny's adopted cousin.",
+                "Did something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Dani opted to stay with Danny and his family. Jazz and the others were soon told the situation. They first...</span></div></span></div>",
+            "created":1598677200,
+            "id":2894287,
+            "title":"option 1"
+        },
+        "1253322522312":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Adopt her under Danny's name since she's his clone",
+                "Set up a room for her",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What else did they do with dani first?</span></div></span></div>",
+            "created":1598677200,
+            "id":2894292,
+            "title":"Did something else."
+        },
+        "12533225223122":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "12 or 13."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>They eventually set up a room, but, was it a baby's room, seeing as she was \"born\" at 12 or so age wise?</span></div></span></div>",
+            "created":1598677200,
+            "id":2894299,
+            "title":"Set up a room for her"
+        },
+        "1253322523":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Ed,Edd n Eddy",
+                "Ben 10",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>how about these cartoons?</span></div></span></div>",
+            "created":1598418000,
+            "id":2891872,
+            "title":"something else"
+        },
+        "12533225231":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Hmm, any other ideas for this one."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Hmm. Nazz is being babysat, instead of her babysitting Eddy?</span></div></span></div>",
+            "created":1598418000,
+            "id":2891875,
+            "title":"Ed,Edd n Eddy"
+        },
+        "125332252312":{
+            "author_id":"redwolf12",
+            "author_name":"wolfbood",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about this?<br>\r\n<br>\r\nWhat if Nazz told Eddy that she was babysitting him in the beginning?</span></div></span></div>",
+            "created":1598418000,
+            "id":2891914,
+            "title":"Hmm, any other ideas for this one."
+        },
+        "1253322523121":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "yeah",
+                "nope,he's annoyed",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>would Eddy be okay with Nazz telling him she's babysitting him from the start?</span></div></span></div>",
+            "created":1598418000,
+            "id":2891920,
+            "title":"Yes"
+        },
+        "1253322523122":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Ed,Edd,Eddy n Nazz",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>how about this?<br>\r\n<br>\r\nwhat if Nazz was part of the Ed's group, being involved with the scams and being considered one of the \"dorks\" by Kevin?</span></div></span></div>",
+            "created":1598418000,
+            "id":2891925,
+            "title":"No"
+        },
+        "12533225231221":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "RC 1",
+                "RC 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Based on this idea, which scam would we start with where she could be involved?</span></div></span></div>",
+            "created":1598418000,
+            "id":2891930,
+            "title":"Ed,Edd,Eddy n Nazz"
         },
         "125333":{
             "author_id":"supreme123",
@@ -359,18 +908,235 @@
             "id":2889874,
             "title":"Something else"
         },
-        "13":{
+        "12534":{
+            "author_id":"redwolf12",
+            "author_name":"wolfbood",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about this?<br>\r\n<br>\r\nWhat if Stitch and Nani become lovers?</span></div></span></div>",
+            "created":1599195600,
+            "id":2897682,
+            "title":"Lilo and Stitch"
+        },
+        "12535":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Danny phantom",
+                "Ed, Edd, n Eddy",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what other cartoons could we try?</span></div></span></div>",
+            "created":1599109200,
+            "id":2897034,
+            "title":"Another cartoons show"
+        },
+        "125351":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Option 1",
+                "Option 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What if Danielle decided to stay with Danny instead of leaving? Or maybe what if Danny kept the reality gauntlet instead of destroying it?</span></div></span></div>",
+            "created":1599195600,
+            "id":2897351,
+            "title":"Danny phantom"
+        },
+        "1253511":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
             "choices":[
-                "Baby-Sitter's Club.",
-                "Goosebumps.",
-                "Harry Potter, or others."
+                "Sure.",
+                "Decide to treat her like a baby, since she was \"born\" at 12 or so.",
+                "Anything else."
             ],
-            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Surprised this hasn't been started yet. Quite a lot of books to work with for what-ifs, so, let's start with what-ifs for...</span></div></span></div>",
-            "created":1597986000,
-            "id":2888960,
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Dani eventually decided to stay with the family, but, do they adopt her as a result?</span></div></span></div>",
+            "created":1599195600,
+            "id":2897391,
+            "title":"Option 1"
+        },
+        "12535111":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Jack and Maddie Fenton(Danny's parents)",
+                "Danny Fenton",
+                "Jazz Fenton"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who ends up adopting Dani with her staying wit the family?</span></div></span></div>",
+            "created":1599195600,
+            "id":2897467,
+            "title":"Sure."
+        },
+        "125351112":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Yes",
+                "Nope"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Danny decided that he would adopt Dani since with the fact that she is his clone, she is technically his daughter.<br>\r\n<br>\r\nDid Dani have an idea to baby Dani?</span></div></span></div>",
+            "created":1599195600,
+            "id":2897497,
+            "title":"Danny Fenton"
+        },
+        "1253511122":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Dani.",
+                "Jazz.",
+                "Sam, or anyone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She was his daughter, but, he wasn't sure if babying her given her age would be right. Who eventually talked him into doing it?</span></div></span></div>",
+            "created":1599195600,
+            "id":2897500,
+            "title":"Nope"
+        },
+        "125351113":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Sure.",
+                "Nah."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Jazz have the idea to baby Dani after adopting her?</span></div></span></div>",
+            "created":1599195600,
+            "id":2897470,
+            "title":"Jazz Fenton"
+        },
+        "12535112":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Yep",
+                "Wasn't sure about it at first",
+                "Not really"
+            ],
+            "content":"<div class=\"\"><div> <span>After Danny told his parents about the whole situation, they agreed to take Dani in as a member of the family.<br>\r\n<br>\r\nThen, since Danielle was created as a 12 year old, she never got to be a baby let alone have a childhood.<br>\r\n<br>\r\nOn discussing it, did Dani agree to to the idea of being treated like a baby?</span></div></div>",
+            "created":1599195600,
+            "id":2897471,
+            "title":"Decide to treat her like a baby, since she was ..."
+        },
+        "125351121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Something else that had her acting like a baby, or SE."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Dani soon agreed with the idea. This was first done by an invention to actually regress Dani into a real baby?</span></div></span></div>",
+            "created":1599195600,
+            "id":2897474,
+            "title":"Yep"
+        },
+        "1253512":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Continue",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>(I forgot to put a something else option.)<br>\r\n<br>\r\nIs this the option you want to go with?</span></div></span></div>",
+            "created":1599195600,
+            "id":2897352,
+            "title":"Option 2"
+        },
+        "125352":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Babysitter eddy",
+                "Ed,edd,eddy n Nazz",
+                "Another ed, edd, n eddy what if"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What if Nazz was actually being babysat by Eddy in the episode to sir with Ed?<br>\r\n<br>\r\nOr what if Nazz was part of the ed's group?</span></div></span></div>",
+            "created":1599195600,
+            "id":2897382,
+            "title":"Ed, Edd, n Eddy"
+        },
+        "1253521":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "No way."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Nazz approve of the idea right away?</span></div></span></div>",
+            "created":1599195600,
+            "id":2897385,
+            "title":"Babysitter eddy"
+        },
+        "1253523":{
+            "author_id":"spunky",
+            "author_name":"Ace Jones",
+            "choices":[
+                "Littlest Pet Shop (1995) ",
+                "Littlest Pet Shop (2012)",
+                "Littlest Pet Shop A World Of Our Own (2018)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Now then which version of Littlest Pet Shop will you choose?</span></div></span></div>",
+            "created":1600664400,
+            "id":2907601,
+            "title":"Littlest Pet Shop."
+        },
+        "125353":{
+            "author_id":"jobobo19",
+            "author_name":"carl.a.pruuitt",
+            "choices":[
+                "Dragon tales",
+                "Garfield",
+                "Thundercats",
+                "Scooby doo",
+                "Another cartoons show"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about these cartoons show?</span></div></span></div>",
+            "created":1599195600,
+            "id":2897534,
+            "title":"something else"
+        },
+        "1253531":{
+            "author_id":"redwolf12",
+            "author_name":"wolfbood",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about this?<br>\r\n<br>\r\nWhat if Cassie has her own house?</span></div></span></div>",
+            "created":1599195600,
+            "id":2897699,
+            "title":"Dragon tales"
+        },
+        "13":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "The isle of the lost(a Disney descendants novel)",
+                "Goosebumps",
+                "Harry Potter",
+                "Percy Jackson and the Olympians",
+                "More book options"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What books should we start with?</span></div></span></div>",
+            "created":1599195600,
+            "id":2897355,
             "title":"book what ifs"
+        },
+        "132":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "The Haunted Mask.",
+                "The Ghost Next Door.",
+                "Others."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What ifs for which book, then?</span></div></span></div>",
+            "created":1599195600,
+            "id":2897367,
+            "title":"Goosebumps"
         },
         "14":{
             "author_id":"redwolf12",
@@ -378,14 +1144,44 @@
             "choices":[
                 "Sonic the hedgehog",
                 "Mario Bros",
-                "Sly Cooper",
                 "Undertale",
-                "Another video games"
+                "Sly Cooper",
+                "Something else"
             ],
-            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which video games well it be?</span></div></span></div>",
-            "created":1597813200,
-            "id":2888169,
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about these video games?</span></div></span></div>",
+            "created":1599886800,
+            "id":2901482,
             "title":"game what ifs"
+        },
+        "142":{
+            "author_id":"jobobo19",
+            "author_name":"carl.a.pruuitt",
+            "choices":[
+                "Sly Cooper and Carmelita Fox swap life's",
+                "Sky's parents wasn't dead?",
+                "Sly never meet Bentley and Murray",
+                "Sly married Carmelita",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>How about this?<br>\r\n<br>\r\n1. What if Sly Cooper and Carmelita Fox swap lifes?<br>\r\n<br>\r\n2. What if Sky's parents wasn't dead?<br>\r\n<br>\r\n3. What if Sly didn't meet Bentley and Murray?<br>\r\n<br>\r\n4. What if Sly and Carmelita ware Married?</span></div></div>",
+            "created":1598677200,
+            "id":2894248,
+            "title":"Sly Cooper"
+        },
+        "144":{
+            "author_id":"jobobo19",
+            "author_name":"carl.a.pruuitt",
+            "choices":[
+                "Choice 1",
+                "Choice 2",
+                "Choice 3",
+                "Choice 4",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>Here is a what if?<br>\r\n<br>\r\n1. What if Frisk really did save Asriel from being a flower?<br>\r\n<br>\r\n2. What if Frisk decided to stay in the ruins?<br>\r\n<br>\r\n3. What if Toriel decided to go with Frisk.<br>\r\n<br>\r\n4. What if Toriel found a baby Frisk.</span></div></div>",
+            "created":1599022800,
+            "id":2896195,
+            "title":"Undertale"
         },
         "145":{
             "author_id":"supreme123",
@@ -494,13 +1290,13 @@
     "info":{
         "author_id":"shadowguy015",
         "author_name":"KBX",
-        "brief_description":"welcome one and all to writ your what ifs scenarios Points will be given for good addition",
+        "brief_description":"welcome oneandall to fulfill your what ifs scenarios Points willbe given for good addition",
         "created":1597186500,
         "description":"<td align=\"left\" class=\"norm\">Okay here is the rules its not many so please follow them.  <br>\r\n0) don\u2019t worry about the ratings I can raise it if becomes necessary<br>\r\n<br>\r\n1) only English, you can have some words in other languish but make sure to have a translate at the bottom of the chapter<br>\r\n<br>\r\n2) no boy x boy stuff, (if characters is confirmed to be gay then you don\u2019t have to change them but there cant be any written romance between them)<br>\r\n<br>\r\n3) please don\u2019t go overboard with the OC`s, if it is to give a character a sibling or to get the story rolling or there is not enough existing characters then its okay, but use existing characters as much as possible<br>\r\n<br>\r\n4. Please use comprehensible spelling and grammar to the best of your abilities. I don't want chapters full of nonsensical gibberish that no one can understand.<br>\r\n<br>\r\n5) don\u2019t make characters OoC without a reason for them to be OoC<br>\r\n<br>\r\n6) I will not give any points for choice chapters, and if you add a choice chapter and it has not resulted in a story (other choices don\u2019t count) after 1 week it will be deleted.<br>\r\n<br>\r\n7) please give a brief summery about anything (if there is) that's different from canon before you do your what if<br>\r\n<br>\r\n8) please have fun :)          <br>\r\n<br>\r\n</td>",
         "id":2229174,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1597723200,
-        "modified":1598328840,
+        "last_full_update":1600452420,
+        "modified":1601235000,
         "pretty_title":"Anime, cartoon, book and game what ifs"
     }
 }

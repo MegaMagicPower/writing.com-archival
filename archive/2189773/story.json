@@ -503,6 +503,31 @@
             "id":2663985,
             "title":"A road trip"
         },
+        "13":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "By mistake.",
+                "A regular resort, or some other type."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is it an AB/DL one they were checked into on purpose?</span></div></span></div>",
+            "created":1599800400,
+            "id":2901139,
+            "title":"A resort"
+        },
+        "14":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "With anyone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>After about a 30 minute drive, they arrived, and met up with Robin and Lily?</span></div></span></div>",
+            "created":1599800400,
+            "id":2901140,
+            "title":"A spa"
+        },
         "15":{
             "author_id":"themaster223",
             "author_name":"MASTER234",
@@ -2552,6 +2577,55 @@
             "created":1558674000,
             "id":2663504,
             "title":"a reverse parenting resort(Lucy is treated like..."
+        },
+        "1553":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "A water park",
+                "Somewhere else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where else do Stella and Lucy go for vacation?</span></div></span></div>",
+            "created":1599800400,
+            "id":2901121,
+            "title":"somewhere else"
+        },
+        "15532":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No, Somewhere Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are they going to Walt Disney World?</span></div></span></div>",
+            "created":1599800400,
+            "id":2901136,
+            "title":"Somewhere else"
+        },
+        "155321":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Go on a ride",
+                "Meet the characters around the park",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>On going to Disney world, what do Stella and Lucy do first?</span></div></span></div>",
+            "created":1599800400,
+            "id":2901155,
+            "title":"Yes"
+        },
+        "1553211":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "The spinning tea cup",
+                "Another Ride"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What ride do they go on?</span></div></span></div>",
+            "created":1599800400,
+            "id":2901162,
+            "title":"Go on a ride"
         }
     },
     "info":{
@@ -2562,8 +2636,8 @@
         "description":"<td align=\"left\" class=\"norm\">Choose what happens next, make it as detail as possible please, like two paragraphs max<br>\r\n<br>\r\nMake Stella go back in diapers, or Lucy go back into diapers or both<br>\r\n<br>\r\nOther characters are included, including Robin and Lily, or other shows can join in like Clarie and Haley and Alex from Modern Family, or some girls from Big Bang Theory or many more, as long as Stella and Lucy are the main characters<br>\r\n<br>\r\nIts a crossover diaper fic lol!<br>\r\n<br>\r\nSo have fun!</td>",
         "id":2189773,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1592323200,
-        "modified":1592323200,
+        "last_full_update":1599838020,
+        "modified":1599838020,
         "pretty_title":"Stella and Lucy's Vacation"
     }
 }

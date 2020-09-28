@@ -486,6 +486,32 @@
             "id":506474,
             "title":"Anthro!"
         },
+        "132":{
+            "author_id":"nathaniel79335",
+            "author_name":"Nathaniel Clark",
+            "choices":[
+                "Male",
+                "Female",
+                "Wait, here comes another behind you."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You look up to see an giant T-Rex anthro walking towards you. What gender is it.</span></div></span></div>",
+            "created":1599627600,
+            "id":2900087,
+            "title":"giant T-rex Anthro!"
+        },
+        "1321":{
+            "author_id":"nathaniel79335",
+            "author_name":"Nathaniel Clark",
+            "choices":[
+                "Yes, and he is walking to you.",
+                "Yes, but he is standing still watching you.",
+                "No, but he keeps walking in your direction."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does the T-Rex spot you?</span></div></span></div>",
+            "created":1599627600,
+            "id":2900089,
+            "title":"Male"
+        },
         "133":{
             "choices":[
                 "Male",
@@ -809,8 +835,8 @@
         "description":"<td align=\"left\" class=\"norm\">you can put any creature you like except bugs they're not cool.<br>\r\nyou can put mythcal creatures too they're cool<br>\r\n<br>\r\nI don't want:<br>\r\nthe main person dying.<br>\r\n</td>",
         "id":1310594,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1555606080,
-        "modified":1555606080,
+        "last_full_update":1599679080,
+        "modified":1599679080,
         "pretty_title":"The giant animal forest"
     }
 }

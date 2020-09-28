@@ -314,6 +314,18 @@
             "id":2811559,
             "title":"Other choices"
         },
+        "113113":{
+            "author_id":"toybonbon",
+            "author_name":"Toybonbon",
+            "choices":[
+                "50 - 500 meters ",
+                "Bigger? OwO"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ok, how big are they?</span></div></span></div>",
+            "created":1601182800,
+            "id":2910793,
+            "title":"Pit bull"
+        },
         "1132":{
             "choices":[
                 "Male",
@@ -2294,6 +2306,51 @@
             "created":1590296400,
             "id":2840242,
             "title":"Lion anthro."
+        },
+        "1513":{
+            "author_id":"tomsketchit",
+            "author_name":"TomSketchit",
+            "choices":[
+                "Reptiles",
+                "Avians",
+                "Rodents (or similar)",
+                "Hooved herbivores",
+                "More options"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>More options</span></div></span></div>",
+            "created":1598936400,
+            "id":2895930,
+            "title":"More Furs"
+        },
+        "15134":{
+            "author_id":"tomsketchit",
+            "author_name":"TomSketchit",
+            "choices":[
+                "Horse",
+                "Cow",
+                "Deer",
+                "Giraffe",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind?</span></div></span></div>",
+            "created":1599022800,
+            "id":2896164,
+            "title":"Hooved Herbivores"
+        },
+        "151341":{
+            "author_id":"tomsketchit",
+            "author_name":"TomSketchit",
+            "choices":[
+                "The horse is an anthro and your friend. A prank gone wrong (or right.)",
+                "You are a scientist and the horse is an anthro. They've volunteered for testing.",
+                "You are a farmer and the horse is feral. You try to give it something new.",
+                "You are in a fantasy world and the horse is your steed.",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Options for how you could cause a horse to grow massive.</span></div></span></div>",
+            "created":1601010000,
+            "id":2909723,
+            "title":"How to Grow a Horse"
         },
         "152":{
             "author_id":"infinity421",
@@ -5822,8 +5879,8 @@
         "description":"<td align=\"left\" class=\"norm\">This story is a hands on free-for-all.  Start as either a giant furry looking for a good time, or a tiny furry (or human) trying to avoid (or find ^_^) the giant furries.  Some restrictions, please put in the title whenever you add anything naughty for the younger people to avoid this section.  Thanks!</td>",
         "id":1119715,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1595805420,
-        "modified":1598307900,
+        "last_full_update":1599059220,
+        "modified":1601185440,
         "pretty_title":"Rampage of the Giant Furries"
     }
 }

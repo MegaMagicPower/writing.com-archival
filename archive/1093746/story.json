@@ -14367,6 +14367,18 @@
             "id":1766300,
             "title":"On Purpose"
         },
+        "142222222222212121":{
+            "author_id":"nekocat321",
+            "author_name":"Matthew G. Montealegre",
+            "choices":[
+                "A new lifestyle",
+                "New story"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are you sure you want to pick this story, or do you choose something else</span></div></span></div>",
+            "created":1600578000,
+            "id":2906713,
+            "title":"A New Lifestyle"
+        },
         "142222222222212122":{
             "choices":[
                 "Yes, go with Joyous Feast",
@@ -15187,6 +15199,42 @@
             "id":1934635,
             "title":"Sure!"
         },
+        "142222222222222212":{
+            "author_id":"nekocat321",
+            "author_name":"Matthew G. Montealegre",
+            "choices":[
+                "Sure.",
+                "No continue."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ok ...Hmm... how about the hippo modeler from animal village.</span></div></span></div>",
+            "created":1599973200,
+            "id":2902601,
+            "title":"No, let's go with someone else."
+        },
+        "1422222222222222121":{
+            "author_id":"nekocat321",
+            "author_name":"Matthew G. Montealegre",
+            "choices":[
+                "Eunice",
+                "Juvia"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She doesn't actually have a name but what name can you give her first. You cannot continue unless you give her one.</span></div></span></div>",
+            "created":1599973200,
+            "id":2902605,
+            "title":"Sure."
+        },
+        "14222222222222221212":{
+            "author_id":"nekocat321",
+            "author_name":"Matthew G. Montealegre",
+            "choices":[
+                "Story 1",
+                "Story 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Good Choice, now how does she gain weight. Story 1 is when she takes a break after modeling and decides to gain some weight. Story 2 is when Link is interested in seeting her that he want her to be fatter, but is shy.</span></div></span></div>",
+            "created":1599973200,
+            "id":2902620,
+            "title":"Juvia"
+        },
         "14222222222222222":{
             "author_id":"inflationking",
             "author_name":"The man with the plan",
@@ -15881,6 +15929,54 @@
             "created":1561352400,
             "id":2678091,
             "title":"Nah. Keep going."
+        },
+        "142222222222222222222221":{
+            "author_id":"nekocat321",
+            "author_name":"Matthew G. Montealegre",
+            "choices":[
+                "Faces of Evil",
+                "Wand of Gamelon"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Good choice, now let's choose which Games you want to pick<br>\r\n</span></div></span></div>",
+            "created":1600059600,
+            "id":2902951,
+            "title":"MAH BOI!"
+        },
+        "1422222222222222222222211":{
+            "author_id":"nekocat321",
+            "author_name":"Matthew G. Montealegre",
+            "choices":[
+                "Zelda",
+                "Next..."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Alright, heres what I picked, which do you want to pick...</span></div></span></div>",
+            "created":1600059600,
+            "id":2902953,
+            "title":"Faces of Evil"
+        },
+        "14222222222222222222222112":{
+            "author_id":"nekocat321",
+            "author_name":"Matthew G. Montealegre",
+            "choices":[
+                "Sure",
+                "No continue."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, how about Allora, she may have some weight.</span></div></span></div>",
+            "created":1600059600,
+            "id":2902955,
+            "title":"Next..."
+        },
+        "142222222222222222222221122":{
+            "author_id":"nekocat321",
+            "author_name":"Matthew G. Montealegre",
+            "choices":[
+                "Sure",
+                "No continue"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Alright, I think Suprena would work</span></div></span></div>",
+            "created":1600059600,
+            "id":2902956,
+            "title":"No continue."
         }
     },
     "info":{
@@ -15891,8 +15987,8 @@
         "description":"<td align=\"left\" class=\"norm\">The girls from the Legend of Zelda series gain weight in various ways.<br>\r\n<br>\r\nThere are some guidelines and rules you probably should follow:<br>\r\n<br>\r\n- No killing off the main characters<br>\r\n<br>\r\n- Nudity and sex is allowed if you handle it properly, don't swear if you can help it.<br>\r\n<br>\r\n- Don't uglify or disfigure the characters, try not to age them either. Apart from that, feel free to go wild with fetishes *-as long as-* you don't make it the main focus or make all the available choices head in that direction, then people who don't share your tastes don't have an excuse to complain.<br>\r\n<br>\r\n-Try and keep the entries to about a paragraph minimum, one sentence entries are a bit lazy.<br>\r\n<br>\r\nOne last thing, try and keep the whole thing consistent, that means not switching randomly to a script style dialogue, I may also correct grammar and spelling for you if you don't mind.<br>\r\n<br>\r\nApart from that, just about anything you want goes, Enjoy!</td>",
         "id":1093746,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1583389980,
-        "modified":1583389980,
+        "last_full_update":1600602720,
+        "modified":1600602720,
         "pretty_title":"Legend of Zelda: Weight Gain Interactive"
     }
 }

@@ -269,7 +269,7 @@
         },
         "112":{
             "author_id":"saracen1187",
-            "author_name":"Lara Croft",
+            "author_name":"Emily Kaldwin",
             "choices":[
                 "Things get out of control.",
                 "Moving your body.",
@@ -306,7 +306,7 @@
         },
         "11232":{
             "author_id":"saracen1187",
-            "author_name":"Lara Croft",
+            "author_name":"Emily Kaldwin",
             "choices":[
                 "You wake up in your body.",
                 "You're now in Angelina's body.",
@@ -366,7 +366,7 @@
         },
         "11232222":{
             "author_id":"saracen1187",
-            "author_name":"Lara Croft",
+            "author_name":"Emily Kaldwin",
             "choices":[
                 "The truth.",
                 "Pretend to be your sister.",
@@ -379,7 +379,7 @@
         },
         "112322223":{
             "author_id":"saracen1187",
-            "author_name":"Lara Croft",
+            "author_name":"Emily Kaldwin",
             "choices":[
                 "...that you live as your sister for a while.",
                 "...that you beg your sister for your body back.",
@@ -573,7 +573,7 @@
         },
         "12":{
             "author_id":"saracen1187",
-            "author_name":"Lara Croft",
+            "author_name":"Emily Kaldwin",
             "choices":[
                 "The exploration continues.",
                 "Going over to your own body.",
@@ -588,7 +588,7 @@
         },
         "122":{
             "author_id":"saracen1187",
-            "author_name":"Lara Croft",
+            "author_name":"Emily Kaldwin",
             "choices":[
                 "Retrieving the blowpipe.",
                 "Moving your own body again.",
@@ -601,7 +601,7 @@
         },
         "1221":{
             "author_id":"saracen1187",
-            "author_name":"Lara Croft",
+            "author_name":"Emily Kaldwin",
             "choices":[
                 "...you reversed the possession.",
                 "...saw your mom heading to the closet.",
@@ -614,7 +614,7 @@
         },
         "12212":{
             "author_id":"saracen1187",
-            "author_name":"Lara Croft",
+            "author_name":"Emily Kaldwin",
             "choices":[
                 "You accept the inevitable.",
                 "You grab the blowpipe.",
@@ -627,7 +627,7 @@
         },
         "122122":{
             "author_id":"saracen1187",
-            "author_name":"Lara Croft",
+            "author_name":"Emily Kaldwin",
             "choices":[
                 "Wake Angelina.",
                 "Try waking 'yourself'.",
@@ -640,7 +640,7 @@
         },
         "1221223":{
             "author_id":"saracen1187",
-            "author_name":"Lara Croft",
+            "author_name":"Emily Kaldwin",
             "choices":[
                 "Your body had woken up.",
                 "Angelina's body had woken up.",
@@ -653,7 +653,7 @@
         },
         "12212232":{
             "author_id":"saracen1187",
-            "author_name":"Lara Croft",
+            "author_name":"Emily Kaldwin",
             "choices":[
                 "\"Jake is right here... sis!\"",
                 "\"He's unconscious in the closet\".",
@@ -666,7 +666,7 @@
         },
         "122122321":{
             "author_id":"saracen1187",
-            "author_name":"Lara Croft",
+            "author_name":"Emily Kaldwin",
             "choices":[
                 "Angelina wants to test the pipe.",
                 "She asks you to leave your mom's body.",
@@ -784,6 +784,90 @@
             "id":2881292,
             "title":"Your body is not back"
         },
+        "12212232111211121121":{
+            "author_id":"frogger2520",
+            "author_name":"KillMePls",
+            "choices":[
+                "You shoot your body, repossessing it.",
+                "You try to talk to Angelina."
+            ],
+            "content":"<div class=\"\"><div> <span>First thing you notice when you head outside for the day is your choice of clothing. On one hand, the skirt gives 0 restriction on movement. Great for chasing. On the other, every gust of wind is proving to be problematic as your skirt is powerless to them. You eventually get in the rhythm of keeping it pushed down against the wind and keep looking around.<br>\r\n<br>\r\nEventually, you find Angelina at the mall. Should've known. Dumb teenage girls are dumb teenage girls, regardless of their current body. You're not sure what to do now though.</span></div></div>",
+            "created":1598850000,
+            "id":2894875,
+            "title":"You find Angelina"
+        },
+        "122122321112111211211":{
+            "author_id":"frogger2520",
+            "author_name":"KillMePls",
+            "choices":[
+                "You shoot her body, not having come up with any clever ideas",
+                "You realize an idea and call one of your siblings into the room"
+            ],
+            "content":"<div class=\"\"><div> <span>Angelina was too distracted shopping around at the mall to notice you sneak up on her. One quick shot with the blowpipe and her body is vacated and yours now has double occupancy once again. You walk over to her empty body and contemplate how you're gonna right everything, but first thing's first. You pick up Angelina and carry her back home. You draw some weird looks but you reassure everyone that she's your narcoleptic sister and your familial resemblance covers things well enough.<br>\r\n<br>\r\nOnce home, you take her back to her room and realize you don't have a good way of straight up body swapping with the blowpipe to just return things back to normal. Thus, you drop her body onto her bed and...</span></div></div>",
+            "created":1598850000,
+            "id":2894896,
+            "title":"You shoot your body, repossessing it."
+        },
+        "1221223211121112112112":{
+            "author_id":"frogger2520",
+            "author_name":"KillMePls",
+            "choices":[
+                "You wake up first and grab the blowpipe out of your body's hands",
+                "Angelina wakes up first and has free reign with the blowpipe"
+            ],
+            "content":"<div class=\"\"><div> <span>Your sister Tracy, upon hearing your call, walks into Angelina's room. She's all set to grill you like the superior sister she is until she sees Angelina passed out on the bed. She's about to ask what's wrong when you blowpipe her, taking over her body.<br>\r\n<br>\r\nUnfortunately, it doesn't occur to you that that leaves Angelina with the blowpipe once again...</span></div></div>",
+            "created":1598850000,
+            "id":2894897,
+            "title":"You realize an idea and call one of your siblin..."
+        },
+        "12212232111211121121122":{
+            "author_id":"frogger2520",
+            "author_name":"KillMePls",
+            "choices":[
+                "\"I don't care. You can take over for me.\"",
+                "\"Ugh, I do kinda miss my friends... Fine, I'll take it back over for school\""
+            ],
+            "content":"<div class=\"\"><div> <span>Angelina slowly returns to the realm of consciousness and looks between her original, passed-out body, her current body, Tracy's body currently in the room, and the blowpipe that was just pressed against her lips and does all the math. She turns to you in Tracy's body and sticks her tongue out. \"Ok Jake, you got me back home. Good for you. I still prefer your body. How're you gonna change that?\"<br>\r\n<br>\r\nYou just shake your head at your little sister, trying to ignore all of the sensations your new body is giving you, between the high heels that you've already decided aren't even worth trying to walk in, the actually developed breasts and the skirt resting just above your ankles. If things worked out, you'd only be in this body a few moments. Unfortunately, Angelina is still a bitch. You try to argue back. \"Look, someone has to be you! Who the hell else do you expect it to be? You built that life, You've gotta live it. Anyone else in that body will just ruin everything!\"<br>\r\n<br>\r\nAngelina listens to your argument and responds...</span></div></div>",
+            "created":1598850000,
+            "id":2894900,
+            "title":"Angelina wakes up first and has free reign with..."
+        },
+        "122122321112111211211221":{
+            "author_id":"frogger2520",
+            "author_name":"KillMePls",
+            "choices":[
+                "You accept your lot, blow into the blowpipe and take over Angelina's life",
+                "You refuse, trying to figure out another way to do this."
+            ],
+            "content":"<div class=\"\"><div> <span>Your, or rather Tracy's, jaw drops as Angelina says this. You try to sputter out an argument but you weren't prepared for Angelina to completely give up her old life in favour of yours. Forcing someone else to take over hers, if she doesn't want to be presumed dead, though she doesn't seem to care either way.<br>\r\n<br>\r\nWhile you're mentally flailing, she holds up the blowpipe to your lips and points it at her former body, saying, \"Either you take my body, convince someone else to do it, or let it rot. Your call, <i>sis</i>.\" She places heavy emphasis on her sis statement, making it clear that she is the brother now. You think and realize you can't overpower your stronger, male body, even with Tracy's older body.</span></div></div>",
+            "created":1598850000,
+            "id":2895270,
+            "title":"\"I don't care. You can take over for me..."
+        },
+        "122122321112111211211222":{
+            "author_id":"frogger2520",
+            "author_name":"KillMePls",
+            "choices":[
+                "Time skip to start of school and body reclaiming",
+                "No time skip, your next days pretending to be Angelina"
+            ],
+            "content":"<div class=\"\"><div> <span>You do the math in your head and come to a realization. \"For School?!? That's weeks away!\"<br>\r\n<br>\r\nAngelina smirks. \"Someone's gotta be me until then, Jake. I'm having fun, use the Summertime, ya know? I'll take back over for ya before you can ruin my life. Toodles.\" She tosses the blowpipe to you and leaves the room, with you too shocked, and unstable in Tracy's heels, to follow her. You hold the blowpipe in your hands before coming to the conclusion that it's down to you. You aim back at Angelina's body and repossess it.<br>\r\n<br>\r\nYou wake up a moment later to a confused Tracy. She looks at you, then at the spot where Jake was, seems to contemplate asking a question before leaving the room, placing the blowpipe that 'mysteriously' entered her hands, on a shelf on the way out. She's got bigger fish to fry. As do you as you realize what your life now looks like.</span></div></div>",
+            "created":1598850000,
+            "id":2894902,
+            "title":"\"Ugh, I do kinda miss my friends... Fine, I..."
+        },
+        "122122321112111211212":{
+            "author_id":"frogger2520",
+            "author_name":"KillMePls",
+            "choices":[
+                "Alright fine, but...",
+                "No. "
+            ],
+            "content":"<div class=\"\"><div> <span>You walk up to Angelina and call her name, which she responds to. She turns and looks you over with a smug look on your face. \"Looking good Jake. Never took you for a fashionista but you fooled me. Nice outfit.\"<br>\r\n<br>\r\nYou just roll your eyes at her as you hold up the blowpipe, careful to keep it out of arm's reach in case she wants to try anything. \"Alright, you've had your fun. Let's get swapped back. It's been fun being you but I prefer being me.\"<br>\r\n<br>\r\nAngelina responds...</span></div></div>",
+            "created":1598850000,
+            "id":2894878,
+            "title":"You try to talk to Angelina."
+        },
         "122122321112111212":{
             "choices":[
                 "The push up bra and stockings?",
@@ -894,7 +978,7 @@
         },
         "12212232122":{
             "author_id":"saracen1187",
-            "author_name":"Lara Croft",
+            "author_name":"Emily Kaldwin",
             "choices":[
                 "Angelina has control.",
                 "You want the pipe back.",
@@ -2349,7 +2433,7 @@
         },
         "152":{
             "author_id":"saracen1187",
-            "author_name":"Lara Croft",
+            "author_name":"Emily Kaldwin",
             "choices":[
                 "The new Andria is mean.",
                 "Just messing with him.",
@@ -2362,7 +2446,7 @@
         },
         "1522":{
             "author_id":"saracen1187",
-            "author_name":"Lara Croft",
+            "author_name":"Emily Kaldwin",
             "choices":[
                 "Your powers of persuasion.",
                 "Threatening Angelina.",
@@ -2375,7 +2459,7 @@
         },
         "15221":{
             "author_id":"saracen1187",
-            "author_name":"Lara Croft",
+            "author_name":"Emily Kaldwin",
             "choices":[
                 "Angelina gets her own body back.",
                 "She has other plans."
@@ -2387,7 +2471,7 @@
         },
         "152211":{
             "author_id":"saracen1187",
-            "author_name":"Lara Croft",
+            "author_name":"Emily Kaldwin",
             "choices":[
                 "...her body again.",
                 "...oops, a misdirection."
@@ -2399,7 +2483,7 @@
         },
         "1522112":{
             "author_id":"saracen1187",
-            "author_name":"Lara Croft",
+            "author_name":"Emily Kaldwin",
             "choices":[
                 "You relent.",
                 "You stick to your guns.",
@@ -2482,6 +2566,42 @@
             "created":1486962000,
             "id":2277068,
             "title":"Stay in Angelina's body."
+        },
+        "152212":{
+            "author_id":"kainblack29",
+            "author_name":"KaintheWanderer",
+            "choices":[
+                "Follow Angelina's POV",
+                "follow Jake's POV"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Okay, fine! Unless...\" Angelina made a smirk, you could sense she was about to suggest something that you probably don't want.<br>\r\n<br>\r\n\"Unless you let me in there.\" Angelina points at your body. There it goes, your worst fear, your sister in your body kind of idea. <br>\r\n<br>\r\n\"What the f*ck? No!\" You denied instantly, imagine how gross it would be if your sister were to be in your body.<br>\r\n<br>\r\n\"Then I stay.\" Angelina smirked in their mom's body, she started walking away but slowly just waiting for you to change your decision.<br>\r\n<br>\r\n\"Fine! Fine! As long as I go in yours.\" If you were to at least lend your body, your gonna have to at least get something.<br>\r\n<br>\r\n\"Deal.\" Angelina answered as she handed you over the blowpipe, you took it and put it over your mouth, pointing at your sister's body lying lifelessly on the sofa.<br>\r\n<br>\r\nAs you shoot, you felt your body go limp and as you lost consciousness. You wake up instantly, looking around, it worked, you were in the sofa, in your sister's body. <br>\r\n<br>\r\nYou slowly gain consciousness and your vision starts to clear, you see your own body also waking up. Angelina is probably already in it.<br>\r\n<br>\r\n\"You know, my friends keeps telling me how hot you were. But damn, they were right!\" Angelina said in your masculin-voice, lifting up her shirt, and rubbing your abs. <br>\r\n<br>\r\n\"But here's the interesting part...\" She said as she lifted up your shorts. God, she was looking right at your dick, your manhood.<br>\r\n<br>\r\n\"If your at least gonna molest my body, not in front of me!\" You yelled as Angelina stopped what she was doing as she headed straight towards the bathroom.</span></div></div>",
+            "created":1598936400,
+            "id":2895573,
+            "title":"She has other plans."
+        },
+        "1522121":{
+            "author_id":"kainblack29",
+            "author_name":"KaintheWanderer",
+            "choices":[
+                "Reader's choice",
+                "Reader's choice"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Whoa...\" You flex your brother's biceps in front of the mirror, it wasn't that big but it was more like teen-kind of big. Jake doesn't work out a lot like others but he does keep his body fit and mascular.<br>\r\n<br>\r\nYour hand moves towards his facial features, he kept his face well-shaved so he looked cute and hot at the same time. Goodness, your attracted to your own brother!<br>\r\n<br>\r\nYour hands kept moving down until you reached his refined chest and abs, he doesn't work or at least you don't see him workout but his body is pretty mascular for someone who doesn't workout. Thoughts about workouts aside, your pants started to tighten as watching your own hot brother touch himself is turning you own.<br>\r\n<br>\r\nShe managed to see peek earlier at his dick but that wasn't enough to cure her curiousity. It was time she plays with it. <br>\r\nShe had never touched a dick before, seen one, yes, in porn that is. She had a boyfriend once but they never really got sexually intimate. So she dreamed of a day where she could finally touch a dick.<br>\r\n<br>\r\nBut she never thought it would be her own dick she'd give pleasure, her brother's that is. She took a deep look into it, it was perfect in every aspect or at least to her. It was thick and long. She slightly touched it as an experiment, she could feel her own dick tighten as she felt pleasure. Male Pleasure.<br>\r\n<br>\r\nIt was standing so hard that she just grabbed it with her left hand. \"God, that feels good.\" She started rubbing it up and down slowly, building up the pleasure in her cock, her brother's cock, she reminded. <br>\r\nShe looked up and closed her eyes, feeling the rush of pleasure throughout her body. Her pace became faster and faster, but she still couldn't feel the climax coming. She felt her chest her, her hard pecs. Her right hand then proceeded to rub her nimples, that just made it all better. She started moaning using her brother's masculin voice and god it was beautiful and hot. Hearing his own brother moan took her to climax. Cum spurting all over her chest. She took a dip in it and licked it, it wasn't that sweet or salty, it was just right. She layed down on the toilet, huffing after that session she just had. God, she wanted to do that again but this time, a different body.</span></div></div>",
+            "created":1598936400,
+            "id":2895654,
+            "title":"Follow Angelina's POV"
+        },
+        "1522122":{
+            "author_id":"frogger2520",
+            "author_name":"KillMePls",
+            "choices":[
+                "Follow Angelina",
+                "Retreat to Angelina's, now your, room"
+            ],
+            "content":"<div class=\"\"><div> <span>You see your sister walk off in your body, thoroughly disgusted on so many levels. First, she possessed your mother! The  woman that birthed you both! Secondly, she's now going to do god knows what with your body, terrifyingly. Third, you're is in her body, and becoming increasingly aware of both the gap between your legs and the air flow poking up there. You shudder and contemplate your next move.</span></div></div>",
+            "created":1599022800,
+            "id":2896013,
+            "title":"follow Jake's POV"
         },
         "154":{
             "author_id":"madmalitian",
@@ -3010,8 +3130,8 @@
         "description":"<td align=\"left\" class=\"norm\">You received a special gift one day when you were getting the mail. Inside the mail box there was a package addressed to you. Not wanting anyone to notice it you quickly make your way upstairs to your room. When you opened it, you saw a blowpipe inside it with a letter addressed to you. It described what the purpose is of the blowpipe. With it you can blow your soul inside someone else their body, taking over their body. When you want to leave you just have to use the blowpipe again. <br>\r\n<br>\r\nThis is your family:<br>\r\n<br>\r\nYou (Jake): 18 years old An average student, a good guy but a bit perverted sometimes. <br>\r\n<br>\r\nYour mom (Andria) 40 years old Your father left your mother some time ago. She's over it now, and clearly wants to have a relationship again. A short woman, with long brown hair, and a bit of a mousy face. She has c-cup breasts. <br>\r\n<br>\r\nYour younger sister (Angelina): 17 years old. Your younger sister who you have a love/ hate relationship with. She has short blond curly hair, freckles, and currently a-cup breasts. <br>\r\n<br>\r\nYour older sister (Tracy) 19 years old She is the the oldest sibling and the one everyone likes. She is always in charge of things, So it's no surprise she's currently studying business at the local university. She's a few inches taller than you, but that's because she wears high heels most of the time, has long blond hair usually in a ponytail, and has d-cup breasts.<br>\r\n<br>\r\nYour younger brother (Frankie) 16 years old. The one looking up to you, in the beginning it was pretty annoying that he wanted to do everything you would but now you're getting used to it. He has your mother's hair color having it hang till his shoulder. He mostly hangs with a couple of geeks of your school. <br>\r\n<br>\r\nFeel free to add new characters<br>\r\n<br>\r\nRule<br>\r\n1. Enjoy yourselves. <br>\r\n2. If you add a chapter I'll give you points or add to your story if you want. <br>\r\n</td>",
         "id":1946981,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1597078140,
-        "modified":1597689840,
+        "last_full_update":1599033840,
+        "modified":1599033840,
         "pretty_title":"The possession blowpipe"
     }
 }

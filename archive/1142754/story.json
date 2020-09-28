@@ -1925,6 +1925,21 @@
             "id":2252843,
             "title":"Shy about being in public"
         },
+        "13513211221122":{
+            "author_id":"jobobo19",
+            "author_name":"carl.a.pruuitt",
+            "choices":[
+                "To bench where the mother is",
+                "To other part of the park",
+                "Back to mall",
+                "Movie theater",
+                "Somewhere else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where did you go?</span></div></span></div>",
+            "created":1599973200,
+            "id":2902449,
+            "title":"Go elsewhere."
+        },
         "135132112212":{
             "author_id":"gilligfan",
             "author_name":"PrincessKooh",
@@ -1936,6 +1951,33 @@
             "created":1359608400,
             "id":1521477,
             "title":"She's exactly the same as before, just a lo..."
+        },
+        "1353":{
+            "author_id":"redwolf12",
+            "author_name":"wolfbood",
+            "choices":[
+                "Toy store",
+                "Clothing store",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which part of the mall did you walk into?</span></div></span></div>",
+            "created":1600405200,
+            "id":2905594,
+            "title":"Other"
+        },
+        "13532":{
+            "author_id":"jobobo19",
+            "author_name":"carl.a.pruuitt",
+            "choices":[
+                "Women clothing store",
+                "Men clothing store",
+                "Kids clothing store",
+                "Pets clothing store"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of clothing store is it?</span></div></span></div>",
+            "created":1600491600,
+            "id":2906260,
+            "title":"Clothing store"
         },
         "14":{
             "choices":[
@@ -4042,6 +4084,18 @@
             "id":2216095,
             "title":"It grows even bigger, but you aren't contro..."
         },
+        "1451222":{
+            "author_id":"redwolf12",
+            "author_name":"wolfbood",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about your Plush toys?</span></div></span></div>",
+            "created":1599886800,
+            "id":2901770,
+            "title":"Something else"
+        },
         "14513":{
             "choices":[
                 "Stuffed Animal",
@@ -4051,6 +4105,18 @@
             "created":1219554000,
             "id":573804,
             "title":"Something else."
+        },
+        "145131":{
+            "author_id":"redwolf12",
+            "author_name":"wolfbood",
+            "choices":[
+                "Wolf",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which stuffed animal did you used your power on?</span></div></span></div>",
+            "created":1599886800,
+            "id":2901868,
+            "title":"Stuffed Animal"
         },
         "145132":{
             "choices":[
@@ -4835,8 +4901,8 @@
         "description":"<td align=\"left\" class=\"norm\">1)Keep it clean. No bathroom, swallowing, or anything sexual. Mild violence is allowed, but nothing too harmful, and definitely nothing lethal.<br>\r\n<br>\r\n2)State how the universe changes when something is grown. Doesn't have to be large scale, just something. I guess to put it simply, try to explain why something is the new size, and how it affects the surroundings.<br>\r\n<br>\r\n3)Add characters as you feel, just if it is a friend, don't have them attacking the main character. The only exception is family members, as I have pretty much covered all of them.<br>\r\n<br>\r\n4)This is Shrink/Grow only. Age change is allowed for how it affects the universe, just no weight gain. The concept bothers me. EDIT: If you want, you can directly change age, just hold back a bit on it.<br>\r\n<br>\r\n5)Yes. Clothing changes as well. It doesn't mean a 2000 foot giant has to be wearing normal clothes, just have him wearing something.<br>\r\n<br>\r\n6)Finally, The main character is generally unaware of the change made, until he sees it or hears of it. So, that means he himself won't know how something happened, or what it has done.<br>\r\n<br>\r\nAnyways, to the story: You are Billy, a 15 year old male, and one night, you gain the ability to change the size of objects, people, creatures, anything, and even turn inanimate objects into living breathing creatures. (More toy animal wise, and doll wise.<br>\r\n<br>\r\nOh yeah, an example as well:<br>\r\n<br>\r\nYou grow your house, and you, your family, and everything in the house grows, as well as the property size.<br>\r\n<br>\r\nOr say, you grow a toy bear to 10 feet, and you turn it real, then the change would be that the bear is not only a giant bear due to something like growth formula or birth defect, but it is also your pet bear.<br>\r\n<br>\r\nAlright, to those who are adding, let me make it clear: No one knows that you have this power except you. Whenever a change is made, no one notices because to them, things had always been that way. I appreciate the additions, but please follow the basic idea of this story. I'm not going to edit anything, but for future reference, stick to the basic idea of the story.</td>",
         "id":1142754,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1594816620,
-        "modified":1594816620,
+        "last_full_update":1600543740,
+        "modified":1600543740,
         "pretty_title":"Growth Affects the Universe"
     }
 }

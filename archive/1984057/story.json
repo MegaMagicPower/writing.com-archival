@@ -353,6 +353,101 @@
             "id":2746631,
             "title":"Brock"
         },
+        "114":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "One of the hamsters",
+                "One of the humans"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who will get changed?</span></div></span></div>",
+            "created":1600491600,
+            "id":2905785,
+            "title":"Hamtaro"
+        },
+        "1141":{
+            "author_id":"jobobo19",
+            "author_name":"carl.a.pruuitt",
+            "choices":[
+                "Hamtaro",
+                "Bijou",
+                "Boss",
+                "Dexter",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which hamster do you want?</span></div></span></div>",
+            "created":1600491600,
+            "id":2906326,
+            "title":"One of the hamsters"
+        },
+        "1142":{
+            "author_id":"jobobo19",
+            "author_name":"carl.a.pruuitt",
+            "choices":[
+                "Laura",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which one do you want?</span></div></span></div>",
+            "created":1600491600,
+            "id":2906328,
+            "title":"One of the humans"
+        },
+        "11422":{
+            "author_id":"gilligfan",
+            "author_name":"PrincessKooh",
+            "choices":[
+                "Kanna",
+                "Mimi",
+                "Travis",
+                "Maria ( Bijou\u2019s owner )",
+                "More choices "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Maybe one of these human characters?<br>\r\n<br>\r\nKanna Iwata best friend of Laura?<br>\r\n<br>\r\nMimi Iwata younger cousin of Kanna<br>\r\n<a rel=\"nofollow\" href=\"https://hamtaro.fandom.com/wiki/Mimi_Iwata\" target=\"_blank\">https://hamtaro.fandom.com/wiki/Mimi_Iwa...</a> ?<br>\r\n<br>\r\nTravis aka Laura\u2019s crush?</span></div></span></div>",
+            "created":1600578000,
+            "id":2906695,
+            "title":"Someone else"
+        },
+        "114223":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "He swaps bodies with someone",
+                "He swaps lives with someone",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So; you want Travis Kimura, the boy that Laura has a crush on, to change first, but what exactly will happen to him?</span></div></span></div>",
+            "created":1600578000,
+            "id":2906745,
+            "title":"Travis"
+        },
+        "1142231":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "One of the hamsters",
+                "One of the humans",
+                "A different animal"
+            ],
+            "content":"<div class=\"\"><div> <span>So; you want Travis to swap bodies with someone, but with whom?<br>\r\n<br>\r\n<br>\r\nMaybe you want him to just swap bodies with one of the humans in the series; which may be a little bland, but otherwise good enough.<br>\r\n<br>\r\nOr; perhaps you want to make things a lot more interesting by having him swap bodies with one of the hamsters instead?<br>\r\n<br>\r\nThen again; if you want to make it really awkward for Travis, how about swapping him with an animal other than a hamster? (Like Brandy, Laura's dog, or PePe, Dr Lion's pet monkey)<br>\r\n<br>\r\n<br>\r\nWho is Travis going to swap with?</span></div></div>",
+            "created":1600578000,
+            "id":2906764,
+            "title":"He swaps bodies with someone"
+        },
+        "1142233":{
+            "author_id":"gilligfan",
+            "author_name":"PrincessKooh",
+            "choices":[
+                "Shrink him",
+                "He turns into a she ",
+                "Readers choice ",
+                "Open slot",
+                "Something else "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What else could happen to<br>\r\nTravis Kimura, the boy that Laura has a<br>\r\ncrush on, to change first, but what exactly<br>\r\nwill happen to him?</span></div></span></div>",
+            "created":1600664400,
+            "id":2907252,
+            "title":"Something else"
+        },
         "115":{
             "author_id":"onebigfan",
             "author_name":"BodySwapLover",
@@ -3046,6 +3141,18 @@
             "created":1505192400,
             "id":2384695,
             "title":"No"
+        },
+        "125332221121222":{
+            "author_id":"yejdbdinsknsk8",
+            "author_name":"Yejdbdinsknsk8",
+            "choices":[
+                "Yes",
+                "Next!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>did she swap bodies with someone...again?</span></div></span></div>",
+            "created":1600318800,
+            "id":2904897,
+            "title":"No, another type of transformation."
         },
         "125332222":{
             "author_id":"onebigfan",
@@ -38654,8 +38761,8 @@
         "description":"<td align=\"left\" class=\"norm\">Characters from Anime, Cartoons, Manga, Comics, Books, TV shows, Movies, Video Games...etc undergo transformations<br>\r\n<br>\r\nGender Bender (Any kind of swap Body, Clothes, Face...etc)<br>\r\nAge Regression/Progression<br>\r\nInanimate Objects (Clothes, Furniture, Toys...etc)<br>\r\nAnimal (Real, Fictional &amp; Mythical)</td>",
         "id":1984057,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1597819800,
-        "modified":1598178360,
+        "last_full_update":1600691820,
+        "modified":1600691820,
         "pretty_title":"Anything Goes Transformation"
     }
 }

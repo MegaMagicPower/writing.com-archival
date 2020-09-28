@@ -64,6 +64,21 @@
             "id":489539,
             "title":"Rukia's shrunken female victim"
         },
+        "1123":{
+            "author_id":"worker1398",
+            "author_name":"Clear Diamond",
+            "choices":[
+                "Yes",
+                "No",
+                "More choices",
+                "More choices",
+                "More choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You as yourself?</span></div></span></div>",
+            "created":1600405200,
+            "id":2905215,
+            "title":"Other"
+        },
         "12":{
             "author_id":"unknowndevil",
             "author_name":"DeVil",
@@ -188,6 +203,21 @@
             "id":1841869,
             "title":"DO IT NOW!!"
         },
+        "12232":{
+            "author_id":"worker1398",
+            "author_name":"Clear Diamond",
+            "choices":[
+                "Yes",
+                "No",
+                "More choices",
+                "More choices",
+                "More choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You as yourself?</span></div></span></div>",
+            "created":1600405200,
+            "id":2905216,
+            "title":"no..."
+        },
         "13":{
             "choices":[
                 "Yoruichi",
@@ -244,6 +274,36 @@
             "created":1597899600,
             "id":2888258,
             "title":"Someone else."
+        },
+        "1322":{
+            "author_id":"worker1398",
+            "author_name":"Clear Diamond",
+            "choices":[
+                "Rukia ",
+                "Momo",
+                "Soifon",
+                "Nel ",
+                "More choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who will it be?</span></div></span></div>",
+            "created":1600405200,
+            "id":2905220,
+            "title":"Female"
+        },
+        "13225":{
+            "author_id":"worker1398",
+            "author_name":"Clear Diamond",
+            "choices":[
+                "You as yourself",
+                "More options.",
+                "More choices",
+                "More choices",
+                "More choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about...</span></div></span></div>",
+            "created":1600405200,
+            "id":2905221,
+            "title":"More choices"
         },
         "133":{
             "author_id":"dante-uchiha",
@@ -305,8 +365,8 @@
         "description":"<td align=\"left\" class=\"norm\">To the writers:<br>\r\n<br>\r\nJust NO DEATHS..&gt;&lt;\"<br>\r\n<br>\r\n</td>",
         "id":1337526,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1597903440,
-        "modified":1597903440,
+        "last_full_update":1600406700,
+        "modified":1600406700,
         "pretty_title":"Bleach shrinking story"
     }
 }

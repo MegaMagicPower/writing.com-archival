@@ -9568,6 +9568,18 @@
             "created":1584507600,
             "id":2803148,
             "title":"Hamtaro?"
+        },
+        "154332222222222222221":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "A Hamster",
+                "A Human"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which character from the Hamtaro series will undergo a life swap; one of the hamsters, or one of the humans?</span></div></span></div>",
+            "created":1600578000,
+            "id":2906743,
+            "title":"Yes"
         }
     },
     "info":{
@@ -9578,8 +9590,8 @@
         "description":"<td align=\"left\" class=\"norm\">The characters of your favorite anime swap lives with other characters from their series, or even another anime. No physical changes, just life swaps. Swaps can involve more than just two characters, and can happen more than once.<br>\r\n<br>\r\nIf you swap characters with ones from another series, then it can only be between characters from the initially selected series and the second series. Only two separate series. Don't want to get too confusing.<br>\r\n<br>\r\nNo sex, and don't end the story.<br>\r\n<br>\r\nHave fun.</td>",
         "id":1771762,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1594686780,
-        "modified":1594686780,
+        "last_full_update":1600608780,
+        "modified":1600608780,
         "pretty_title":"Anime Life Swaps"
     }
 }

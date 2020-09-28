@@ -461,7 +461,7 @@
                 "Tube Maze.",
                 "Shoe Rack."
             ],
-            "content":"<div class=\"\"><div> <span>You look around before deciding on the playground nearby. Not only is it a fairly crowded place but the police would also be wary to charge in there with so many young kids and risk scaring them all. All that's between you and the playground is a small fence meant to keep regular adults from walking in without a child but thankfully there's a small gap between the wall and the fence so you can slip through. You doubt a grown man could do the same which is probably why they didn't care to push it back.<br>\r\n<br>\r\nYou look around the playground and decide to go to...<br>\r\n<br>\r\nA: Bag Box, a box where kids store their bags and your ticket out of the mall.<br>\r\nB: Into the tube maze (Basically this but on a bigger scale:\t<script language=\"JavaScript\"><!--\n\t\tvar notex, thisx, mmove;\n\tfunction showPopNote2(notex, event, thisx, mmove) {  var thisxPosY = $(thisx).position();  var ccTop = 15;  if ($('#Content_Column_Wrapper').length) {  var ccPos = $('#Content_Column_Wrapper').position();  ccTop = ccPos.top;  }  var thisxBot = thisxPosY.top + $(thisx).height(); $('#bigPopNote' + notex).appendTo('#Content_Column_Wrapper'); $('#bigPopNote' + notex).css({'top':event.pageY-ccTop + 15, 'position':'absolute'});  if ($('#bigPopNote' + notex).width() < $('#bigPopNote' + notex).parent().width() - 50) { $('#bigPopNote' + notex).css({'left':event.pageX-50});  }  document.getElementById('bigPopNote' + notex).style.display = 'block';   if (mmove == 1) {  thisx.style.borderBottomStyle = 'solid'; }  thisx.clicked = 0;  }\n\tfunction clickPopNote2(thisx) {  thisx.clicked = 1;  }\n\tfunction hidePopNote2(notex, event, thisx) {  document.getElementById('popnote' + notex).style.borderBottomStyle = 'dotted';  if (thisx.clicked != 1) {  document.getElementById('bigPopNote' + notex).style.display = 'none';  }  }\n\t\t\t\t//--></script><span id=\"popnote15979367631\" onmouseover=\"showPopNote2('15979367631', event,this,1);\" onmouseout=\"hidePopNote2('15979367631',event,this);\" onclick=\"clickPopNote2(this);\" style=\"border-bottom:2px dotted ;\" title=\"\">This</span> <div id=\"bigPopNote15979367631\" style=\"position:absolute;display:none;z-index:200;\" onmouseover=\"$(this).show(); event.preventDefault(); return false;\" onmouseout=\"$(this).hide();\"><div align=\"center\">\n\t<table border=\"0\" class=\"shadowBox\" style=\"margin-top:5px;padding:15px;border-color:#000000;\"><tr><td align=\"left\"><a rel=\"nofollow\" href=\"https://media-cdn.tripadvisor.com/media/photo-s/02/2b/8a/bd/giant-tube-slide-and.jpg\" target=\"_blank\">https://media-cdn.tripadvisor.com/media/...</a></td></tr></table></div></div><br>\r\nC: Into the Shoe Rack</span></div></div>",
+            "content":"<div class=\"\"><div> <span>You look around before deciding on the playground nearby. Not only is it a fairly crowded place but the police would also be wary to charge in there with so many young kids and risk scaring them all. All that's between you and the playground is a small fence meant to keep regular adults from walking in without a child but thankfully there's a small gap between the wall and the fence so you can slip through. You doubt a grown man could do the same which is probably why they didn't care to push it back.<br>\r\n<br>\r\nYou look around the playground and decide to go to...<br>\r\n<br>\r\nA: Bag Box, a box where kids store their bags and your ticket out of the mall.<br>\r\nB: Into the tube maze (Basically this but on a bigger scale:\t<script language=\"JavaScript\"><!--\n\t\tvar notex, thisx, mmove;\n\tfunction showPopNote2(notex, event, thisx, mmove) {  var thisxPosY = $(thisx).position();  var ccTop = 15;  if ($('#Content_Column_Wrapper').length) {  var ccPos = $('#Content_Column_Wrapper').position();  ccTop = ccPos.top;  }  var thisxBot = thisxPosY.top + $(thisx).height(); $('#bigPopNote' + notex).appendTo('#Content_Column_Wrapper'); $('#bigPopNote' + notex).css({'top':event.pageY-ccTop + 15, 'position':'absolute'});  if ($('#bigPopNote' + notex).width() < $('#bigPopNote' + notex).parent().width() - 50) { $('#bigPopNote' + notex).css({'left':event.pageX-50});  }  document.getElementById('bigPopNote' + notex).style.display = 'block';   if (mmove == 1) {  thisx.style.borderBottomStyle = 'solid'; }  thisx.clicked = 0;  }\n\tfunction clickPopNote2(thisx) {  thisx.clicked = 1;  }\n\tfunction hidePopNote2(notex, event, thisx) {  document.getElementById('popnote' + notex).style.borderBottomStyle = 'dotted';  if (thisx.clicked != 1) {  document.getElementById('bigPopNote' + notex).style.display = 'none';  }  }\n\t\t\t\t//--></script><span id=\"popnote16010897281\" onmouseover=\"showPopNote2('16010897281', event,this,1);\" onmouseout=\"hidePopNote2('16010897281',event,this);\" onclick=\"clickPopNote2(this);\" style=\"border-bottom:2px dotted ;\" title=\"\">This</span> <div id=\"bigPopNote16010897281\" style=\"position:absolute;display:none;z-index:200;\" onmouseover=\"$(this).show(); event.preventDefault(); return false;\" onmouseout=\"$(this).hide();\"><div align=\"center\">\n\t<table border=\"0\" class=\"shadowBox\" style=\"margin-top:5px;padding:15px;border-color:#000000;\"><tr><td align=\"left\"><a rel=\"nofollow\" href=\"https://media-cdn.tripadvisor.com/media/photo-s/02/2b/8a/bd/giant-tube-slide-and.jpg\" target=\"_blank\">https://media-cdn.tripadvisor.com/media/...</a></td></tr></table></div></div><br>\r\nC: Into the Shoe Rack</span></div></div>",
             "created":1562043600,
             "id":2681556,
             "title":"Hidden in plain sight."
@@ -1031,6 +1031,19 @@
             "id":2616862,
             "title":"Agent Baby!"
         },
+        "1211":{
+            "author_id":"whateverelse",
+            "author_name":"whatever",
+            "choices":[
+                "A bath together",
+                "You to meet your grandmother",
+                "My real workout!"
+            ],
+            "content":"<div class=\"\"><div> <span>You look up and see the smiling face of a beautiful black haired woman. You see she is wearing a purple sports bra around her modest breasts and a pair of dark work out shorts that show off her amazing legs. Draped across her shoulders and resting against her tight abs you see the vacant baby pouch and excitement stirs within you imaging being so close to her. <br>\r\n<br>\r\n\"This little guy is just so adorable,\" she cooes down at you before looking up towards the attending matron, \"I'd adopt him.\" <br>\r\n<br>\r\n\"Fantastic,\" the matron claps, \"I'll get the paperwork drawn up, why don't you collect your new little bundle of joy and follow me to my office.\" <br>\r\n<br>\r\nThe woman smiles with glee and leans into the crib with her arms stretched out towards you as you smile up at her with glee. <br>\r\n<br>\r\n\"Come to your new Mama sweetheart,\" she cooes as she wraps her hands beneath both your armpits and hoists you into the air and holds you against her body. <br>\r\n<br>\r\nYou're surprised at first to find her bare skin coated in a thin layer of cold dry sweat. <br>\r\n<br>\r\n'This woman must have just finished a work out before coming her,' you think to yourself as she holds you tight to her body as she follows the matron out of the room. The next few minutes go by of decision making and paper signing. The mother, who you learn from her signing her name on the papers is named Kendra Hillman, sets you on her lap as she signs on each and every dotted line she is isntructed to. Eventually she is asked about naming you and doesn't hesitate. <br>\r\n<br>\r\n\"Daniel Hillman,\" she says with a smile staring down at you lovingly. <br>\r\n<br>\r\nYou coo up at her some baby babble to really sell it causing her heart to leap with joy as it seems to her like you like your new name. After awhile longer the matron stands up and holds her hand out to the mother. <br>\r\n<br>\r\n\"Congratulations on becoming a mother, Miss Hillman,\" the matron says as she shakes your new adoptive mother's hand, \"Well, feel free to take your new little one home!\" <br>\r\n<br>\r\n\"Thank you so much,\" Kendra says before immediately hugging you tight to her small but still quite firm chest. <br>\r\n<br>\r\n\"Come along little Daniel,\" she says walking out of the foster home you've been stuck in for so long, \"Let's get you home.\" <br>\r\n<br>\r\nYou are beaming as you are finally free and about to be in a world of luxury as this sexy, athletically gifted woman's baby. As she walks through the parking lot you expect her to arrive at a car to take you home but instead are surprised as she stops at a bike rack with a bike with a baby seat attached to the rear. <br>\r\n<br>\r\n\"Let's get going sweetheart,\" she cooes as she straps you into the child's seat and turns around and hopping on the bicycle seat in front of you. <br>\r\n<br>\r\nAlthough you are surprised by the transportation, you can't complain about your position as you stare at the magnificnet rear of the woman above you. As she cycles you watch in awe as her ass jiggles before you with every little movement. You watch her legs pumping up and down and see her powerful thighs at work. You can't help but get hard in your diaper at the sight of it. The rest of the ride is practically torture as you want nothing more than to reach into your diaper to relieve yourself but unable to, otherwise you risk being found out. Eventually the mother arrives at a nice house in the suburbs, parking inside of a garage. <br>\r\n<br>\r\n\"Wooo,\" she says catching her breath before stepping off the bike and looking towards you, \"Nice little ride huh?\"<br>\r\n<br>\r\nShe reaches down and pulls you out of the seat and presses you against her sweaty body, part of you enjoying the heat and smell as she walks inside. <br>\r\n<br>\r\n\"Alright sweety,\" she says walking towards the inside of the house, \"First things first its time for...\"</span></div></div>",
+            "created":1599886800,
+            "id":2901500,
+            "title":"Sporty Mama"
+        },
         "1212":{
             "author_id":"aridwd",
             "author_name":"AridWD",
@@ -1530,6 +1543,19 @@
             "created":1563339600,
             "id":2688057,
             "title":"You don't make it and fall, causing you to ..."
+        },
+        "124131":{
+            "author_id":"jobobo19",
+            "author_name":"carl.a.pruuitt",
+            "choices":[
+                "With baby food",
+                "With a bottle",
+                "By breastfeeding you"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How did she feed you?</span></div></span></div>",
+            "created":1600491600,
+            "id":2906461,
+            "title":"Feeding You"
         },
         "13":{
             "author_id":"chaosjeff1",
@@ -2930,6 +2956,19 @@
             "id":2827178,
             "title":"Naked in Amanda's backpack"
         },
+        "15123221212122":{
+            "author_id":"whateverelse",
+            "author_name":"whatever",
+            "choices":[
+                "Hide you from the girls",
+                "Show you off to the girls",
+                "Invite a friend over"
+            ],
+            "content":"<div class=\"\"><div> <span>\u2018Oh no!\u2019 you think to yourself as you hear your sister say those terrifying words!<br>\r\n<br>\r\nYou had forgotten that she was babysitting tonight for the neighbors next door! They have two daughters. Hannah, who is a young girl, only about 9 or 10 years old, who you know is completely obsessed with dolls of all kind. Their other daughter, Taylor, had just turned 13 and had grown into quite the spoiled brat the past couple of years from what you were told. You were terrified as you realized your chance to get home was thwarted for now, and you\u2019d either have to play baby doll until Amanda took you home, or find a chance to escape while she\u2019s on the job.<br>\r\n<br>\r\nAs you pondered your options Amanda suddenly put the car in park and smiled, \u201cWe\u2019re here!\u201d <br>\r\n<br>\r\nWith that she unbuckled her seatbelt. She stepped out of her car and reached over you to grab her backpack. Once it was securely on her back she reached for you and held her tightly to her large chest before shutting her car door and approaching the front door of your neighbor\u2019s house. She range the doorbell and after a few minutes you watch as the door opens revealing the mother, Lily, dressed in a beautiful black dress. Her ruby red hair is flowing down the sides of her face and you see her makeup is done up beautifully and you cant help but stare at the gaping cleavage erupting from the top of her dress. <br>\r\n<br>\r\n\u201cHi Amanda,\u201d she said, \u201cCome in come in.\u201d <br>\r\n<br>\r\nLily gestures for your sister to come inside and she happily obliges. The two women exchange a quick hug where for a brief moment you find yourself squeezed between two beautiful women\u2019s breasts and you feel your diaper tent just slightly. <br>\r\n<br>\r\n\u201cThank you so much for coming by,\u201d Lily said grabbing her purse. <br>\r\n<br>\r\n\u201cNo problem at all Miss Evans,\u201d your sister says, \u201cAlways happy to help.\u201d <br>\r\n<br>\r\nLily looks at you in her arms and smiles. <br>\r\n<br>\r\n\u201cOh dear did you bring a toy for my girls to play with?\u201d <br>\r\n<br>\r\n\u201cWhat?\u201d your sister asks slightly confused before looking down at you in her arms, \u201cOh haha, sorry no, this is actually my baby doll for my Home Ec class! I\u2019m supposed to treat it like it\u2019s my own baby girl.\u201d <br>\r\n<br>\r\n\u201cAw isn\u2019t that cute,\u201d Lily said, \u201cWell maybe you can show the girls a thing or two about what you\u2019re learning, just be careful letting them play with it. Those girls are obsessive about their toys!\u201d <br>\r\n<br>\r\n\u201cNoted,\u201d your sister says, \u201cNow you have a good time tonight!\u201d <br>\r\n<br>\r\n\u201cI will sweetheart,\u201d she says with a smile, \u201cI should be back tomorrow around 10 AM. Have a goodnight!\u201d <br>\r\n<br>\r\nWith that Lily heads off and out the door, leaving you in your sisters arms. <br>\r\n<br>\r\n\u201cWell,\u201d she says down to you, \u201cI guess I should\u2026\u201d</span></div></div>",
+            "created":1600664400,
+            "id":2907488,
+            "title":"to my babysitting job!"
+        },
         "15123222":{
             "author_id":"ahh7921",
             "author_name":"Ahh",
@@ -3361,6 +3400,19 @@
             "id":2765440,
             "title":"Baby Clothes Store"
         },
+        "15513222121111":{
+            "author_id":"megb83",
+            "author_name":"meg83",
+            "choices":[
+                "Continue ",
+                "Continue ",
+                "Continue "
+            ],
+            "content":"<div class=\"\"><div> <span>You see her starring down at you with ang<br>\r\nA smile on her face.  She stares down at you for a moment before finally speaking.<br>\r\n\"I think someone is tired and hungry huh?\"  Amanda gently lifts you into her hip and walked to the front asking where the feeding room is.<br>\r\n<br>\r\nShe walked to the room and undid her feeding bra and started to feed you as she cradled you in her arms. <br>\r\n<br>\r\nYou struggle to keep your eyes open and you feel her swapping breast and eventually you fall asleep while feeling. <br>\r\n<br>\r\nYou eventually wake up as you can feel you've wet yourself while you slept and your strapped to Amanda in a papoose resting on her chest. <br>\r\n<br>\r\n\"A-Amanda,\" you whisper up to her, \"Where are we going?\"<br>\r\n<br>\r\nYou've been asleep for a few hours darling, we are going back home as I've finished shopping \"I'm wet\", I know you did it 5 minutes ago, I'll change you as soon as I can. </span></div></div>",
+            "created":1600837200,
+            "id":2908611,
+            "title":"Smiling - baby's first tantrum"
+        },
         "15513222121112":{
             "author_id":"bigbang13",
             "author_name":"bigbang",
@@ -3444,6 +3496,56 @@
             "content":"<div class=\"\"><div> <span>The drive back to your aunt's house is tense as you're terrified of being removed from the box and potentially discovered. It doesn't help your nerves as Anatasia playfully drums on the top of the box, shaking you around as her anticiapation to play with her new toy builds with every moment. <br>\r\n<br>\r\nFinally you feel the car come to a stop and Anatasia lifts out from between her legs and hugs your box to her chest as she exits the car and dashes inside. With the front of the box facing her chest you can't even see the familiar sight of your Aunt's home as they walk inside with their groceries and you in hand. <br>\r\n<br>\r\n\"Hey Lena,\" your younger cousins's voice booms above you as she skips into the house, \"Look what Mommy got me, a new baby doll!\" <br>\r\n<br>\r\nWithout warning Anatasia flips your box around and holds you out and away from your chest. Your vision is completely consumed by two perfectly round breasts that are practically bursting out of the top of a tight, black tube top. Anatasia adjusts further and you are brought to the face of your older cousin, Lena. However she looks very different than when you last saw her. He once long blonde hair and kind yet reserved demeaner are long gone. He once golden locks now cut short to barely her shoudlers and dyed a deep dark black, except for a slight purple streak in the front. Her once modest clothing replaced with the black tube top that hugs her chest beautifully and a match black mini skirt that shows off her long toned legs. The final touch is her makeup, with her lips covered in black lip stick and eyeshadow a dark purple. She looks at the 'doll' in her sister's hand with little interest as you stay completely still, but unable to control your nether regions as you feel yourself harden at the sight of her outfit. <br>\r\n<br>\r\n\"Whatever,\" she says quickly looking away and walking off from her kid sister. <br>\r\n<br>\r\n\"Lena,\" you hear the voice of your Aunt Nicole say disapprovingly, \"What on earth are you wearing?\" <br>\r\n<br>\r\n\"Everyone wears this kind of stuff Mom,\" Lena says with a groan, \"By the way, Mandy is coming by in a few to chill before we go out tonight.\" <br>\r\n<br>\r\n\"Alright,\" Aunt Nicole says unconvincingly, \"Just no drinking tonight. I don't want a repeat of last weekend.\"<br>\r\n<br>\r\n\"Whatever Mom,\" Lena says rolling her eyes, and walking off to her room. <br>\r\n<br>\r\n\"Mommyyyy,\" Anataasia says desperately, practically bouncing with energy and anxiety to play with her new toy, \"Can you please open up the box for me?\"<br>\r\n<br>\r\n\"Sure sweetie hand it here.\"<br>\r\n<br>\r\nYour Aunt Nicole once again takes you into her arms, her breasts filling your vision, and walks over to the kitchen to grab a pair of scissors to open up the box</span></div></div>",
             "created":1595048400,
             "id":2871339,
+            "title":"Continue"
+        },
+        "155132221211122221111":{
+            "author_id":"albertobasalm",
+            "author_name":"albertobasalm",
+            "choices":[
+                "Continue",
+                "Continue"
+            ],
+            "content":"<div class=\"\"><div> <span>Aunt Nicole immediately cuts at your box-ties and finally frees you from your box prison, but you are hesitant to communicate with your Aunt Nicole in fear of how she will respond to you. You are also terrified of how your own mother would receive the news that her son was parading around in baby doll clothes. You couldn't even explain the hell that your sister Amanda had put you through. With your vision free from a plastic barrier, you were greeted by the fidgeting hands of your younger cousin Anastasia as giddy as ever to play with her recently-purchased baby doll.<br>\r\n<br>\r\n\"GIMMIE! GIMMIE!,\" Anastasia excitedly exclaimed before embracing you lovingly in her arms. <br>\r\n<br>\r\n\"BE GENTLE WITH THAT DOLL, HUN!\"<br>\r\n<br>\r\nYou could hear your Aunt Nicole's words fade away as Anastasia merrily skipped to her room.<br>\r\n</span></div></div>",
+            "created":1600405200,
+            "id":2905566,
+            "title":"She opens it up and give you to Anatasia"
+        },
+        "1551322212111222211111":{
+            "author_id":"whateverelse",
+            "author_name":"whatever",
+            "choices":[
+                "Notices your extra part!",
+                "Doesn't notice or doesnt care!",
+                "You decide to cover yourself - Blowing your cover!"
+            ],
+            "content":"<div class=\"\"><div> <span>Anastasia bounds off to her room and closes the door behind her. She runs to her bed and sets you face up on the bed. You\u2019re just happy to be freed from her death grip of a hug. You are forced to look up at her as she smiles down at you. <br>\r\n<br>\r\n\u201cAw your just so cute!\u201d she cooes down at you, \u201cI think I\u2019m gonna call you\u2026 Becca! Baby Becca! Isn\u2019t that such a pretty name!\u201d <br>\r\n<br>\r\nShe sits you up and shakes you around a bit and speaks through you in a high pitch voice, \u201cI love that name Mommy. And I love you!\u201d <br>\r\n<br>\r\nYou roll your eyes at the childish game of pretend but Anastasia seems to be enjoying it as her smile widens. <br>\r\n<br>\r\n\u201cAw I love you too Becca!\u201d she says before leaning forward and planting a wet kiss across your entire face. <br>\r\n<br>\r\n\u201cNow Becca,\u201d she says, \u201cI know you had a long trip in your box so let\u2019s see if you have a wet diapee.\u201d <br>\r\n<br>\r\nYour eyes go wide as her hand slips between your bare skin and the diaper, thankfully missing your \u2018extra part.\u2019 <br>\r\n<br>\r\n\u201cYup just like i thought,\u201d she says still playing her game of pretend, \u201cI guess it\u2019s time for a diaper change.\u201d <br>\r\n<br>\r\nThe girl carrie you over to her closet and opens it up. You see in one side is all of her own clothes but on the opposing wall you see a miniature baby doll nursery. Complete with a crib, changing table, even a stroller and baby harness. Suddenly you find yourself laying atop the changing table as she holds up a pink diaper. <br>\r\n<br>\r\n\u201cLet\u2019s get you out of that gross diapee and into a pretty pink one,\u201d she says reaching for the tabs. <br>\r\n<br>\r\n\u2018Oh no!\u2019 you think, \u2018if she notices i\u2019ve got an extra\u2026 part my entire plan of getting out of here unnoticed might be ruined!\u2019 <br>\r\n<br>\r\nAs she untapped the diaper and lets it fall she\u2026</span></div></div>",
+            "created":1600405200,
+            "id":2905577,
+            "title":"Anastasia's Room"
+        },
+        "15513222121112222111112":{
+            "author_id":"albertobasalm",
+            "author_name":"albertobasalm",
+            "choices":[
+                "Continue",
+                "Continue"
+            ],
+            "content":"<div class=\"\"><div> <span>...doesn't care.<br>\r\n<br>\r\nAnastasia nonchalantly wipes your \"special accessory\" and then proceeds to powder it. You can't help but twitch as you start to become aroused. You desperately try to think of something else but your only view is JoJo Siwa and Disney princess posters. You also notice a family reunion picture that includes your mother and you. This is wrong on so many levels, you start to think to yourself. Meanwhile, Anastasia is humming above you as she finally secures the diaper to your exposed bottom.<br>\r\n<br>\r\nShe instantly begins to start bouncing you on her knee.<br>\r\n<br>\r\n\"Aren't you just the prettiest baby doll, Becca? You're so perfect and all mine! Nothing like my last baby doll! No! No! We're going to watch slime videos together and-\"<br>\r\n<br>\r\nWhile bouncing on Anastasia's knee, you notice another baby doll on the floor that is currently being squashed under her poorly-painted pink toes. It's plastic head flattened over and over again. Would this be your fate as well? Before you could mourn any further for the baby doll below Anastasia, you hear a knock on her door and a voice that you could recognize from anywhere. It was your own mother...</span></div></div>",
+            "created":1600491600,
+            "id":2906165,
+            "title":"Doesn't notice or doesnt care!"
+        },
+        "155132221211122221111121":{
+            "author_id":"whateverelse",
+            "author_name":"whatever",
+            "choices":[
+                "You make it into your mother's purse",
+                "You accidentally hide in your cousin Lena's Purse!",
+                "before you can decide Anastasia comes looking for you "
+            ],
+            "content":"<div class=\"\"><div> <span><br>\r\n\u201cOh Anastasia,\u201d you hear your mother\u2019s voice sing as she opens the door to her nieces room. <br>\r\n<br>\r\n\u201cAuntie Grace!\u201d Anastasia screams with glee. <br>\r\n<br>\r\nWithout warning she stands up and bolts to her door. Unfortunately for you in her haste your little cousin pays you no mind as you fall haphazardly to the floor with a loud thud next to the baby doll she had just been stomping on. <br>\r\n<br>\r\n\u201cHey there sweetheart,\u201d you hear your mother say from outside the closet, \u201cHow have you been? I heard you and your mother went shopping today?\u201d <br>\r\n<br>\r\n\u201cWe did! I have to show you Becca! Come here!\u201d she says with excitement in her voice. <br>\r\n<br>\r\nYou look up from the ground, still unmoving, and see your mother being dragged towards you. You see she is dressed in a long dark skirt and a white blouse, her brown hair hanging low on her face. <br>\r\n<br>\r\n\u201cThis is my new baby doll, Baby Becca!\u201d Your cousin picks you up from the ground and holds you out to your mother to see. <br>\r\n<br>\r\nYour mothers dark green eyes pierce through you as she smiles at her nieces new toy. Part of you prays she won\u2019t recognize you in this embarrassing attire.<br>\r\n<br>\r\n\u201cAw such a pretty little baby,\u201d your mother cooes down at you. <br>\r\n<br>\r\n\u201cThank you Auntie Grace,\u201d Anastasia says pulling you in for a hug. <br>\r\n<br>\r\n\u201cNow why don\u2019t you bring her downstairs with us. I brought you and your mother some food!\u201d <br>\r\n<br>\r\n\u201cOh yay!\u201d Anastasia says. <br>\r\n<br>\r\nSoon enough you find yourself sitting on your little cousins lap in their kitchen, across from her mother and yours as they eat burgers. Anastasia bites into her food, with some of the grease falling onto the girlish dress you\u2019re wearing. <br>\r\n<br>\r\n\u201cAna!,\u201d her mother speaks up, \u201cBe careful with getting your doll messy, I just bought it for you!\u201d <br>\r\n<br>\r\n\u201cSorry mommy,\u201d she says with her mouth full, crumbs falling onto your hair. <br>\r\n<br>\r\n\u201cHere sweetheart,\u201d your Aunt Nicole says standing up, \u201cWhy don\u2019t I take Becca and sit her in the living room and you can play with her later okay?\u201d<br>\r\n<br>\r\n\u201cFiiiine,\u201d she whines and hands you over to your Aunt. <br>\r\n<br>\r\nYour aunt hoists you into her arms, pressing you to her large chest and walks you over to the other room next to the front door. She sets you in a sitting position in the middle of the couch and smiles down at you with her cleavage hanging out for you to see. <br>\r\n<br>\r\n\u201cThese dolls really are nice,\u201d she says, \u201cI just hope you\u2019ll last longer than the last few.\u201d <br>\r\n<br>\r\nWith that chilling omen, she walks off back to the kitchen to finish her meal. Suddenly you realize you have an opportunity to escape! You look to the door and see two purses side by side. You\u2019re not sure who one belongs to but you are certain of them has to be you mothers! If you can make it into her purse and escape in time, you can make it home free! The question is\u2026 which one to choose!</span></div></div>",
+            "created":1600491600,
+            "id":2906368,
             "title":"Continue"
         },
         "155132221211122222":{
@@ -3813,6 +3915,93 @@
             "created":1594443600,
             "id":2866267,
             "title":"Continue"
+        },
+        "15531121221321112":{
+            "author_id":"albertobasalm",
+            "author_name":"albertobasalm",
+            "choices":[
+                "Continue",
+                "Continue"
+            ],
+            "content":"<div class=\"\"><div> <span>\"...an outfit change.\"<br>\r\n<br>\r\nYou internally scream as this redhead preteen manhandles you into a scratchy lavender Barbie gown that goes to your newly-shaven ankles. You have even more restricted movement than before as she places you in a sitting position on top of her dresser. You begin to sweat as Emma paces around her room. She briefly searches through her drawers for God knows what. To your horror, she produces a pink Sharpie from one of the drawers. She promptly snatches you from the top of the dresser to search for a spot on your body to mark her property. After staring at you for a minute, she decides to mark you on the bottom of your foot with 'Property of Emma \ud83d\udda4'. <br>\r\n<br>\r\n\"And now it's official! Let me show you your new dollhouse, dolly!\"<br>\r\n<br>\r\nIn one of the corners of Emma's pink paradise of a room, a colossal dollhouse stood with every room individually decorated and occupied with other dolls. It was almost as huge as your own room. Before Emma can give you a tour of your new home, her mother loudly calls for her, \"EMMA, COME DOWN HERE! DINNER'S READY!\"<br>\r\n<br>\r\n\"I'll be back, dolly,\" Emma says before tossing you in dollhouse room with another Barbie doll.</span></div></div>",
+            "created":1600405200,
+            "id":2905558,
+            "title":"An outfit change"
+        },
+        "155311212213211121":{
+            "author_id":"whateverelse",
+            "author_name":"whatever",
+            "choices":[
+                "Our Bath!",
+                "Bed!",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>With Emma closing the door behind her you finally have a chance to break your facade and stand up inside the dollhouse. <br>\r\n<br>\r\n\u201cAbout time,\u201d you say, steading yourself, not quite used to standing with the diaper quite yet. <br>\r\n<br>\r\nYou look at the room you are in and appear to be in a baby nursery. Sitting in a rocking chair in the corner is a larger than normal Barbie doll wearing something you\u2019d see form a 1950s housewife. Surprisingly this dollhouse is quite massive, with a crib that could even fit you at your baby doll size and even changing tables and storage for all types of other doll accessories. <br>\r\n<br>\r\n\u201cThis thing must cost a fortune,\u201d you say marveling at the craftsmanship, \u201cBut enough of that, time to get out of you.\u201d <br>\r\n<br>\r\nYou turn to walk towards the open door of the dollhouse room but are shocked as the Barbie doll that was once seated is standing upright, blocking your way out with a maternal smile on her face. <br>\r\n<br>\r\n\u201cWell well well,\u201d it says, shocking you, \u201cLooks like Emma got a pretty little baby doll! What\u2019s your name sweetheart?\u201d <br>\r\n<br>\r\nYour eyes go wide as you stare at this living doll. You notice her skin is no longer hard plastic but looks like she\u2019s made of soft flesh. The fact that she is still taller than you scares you as she suddenly leans over, her bosom practically falling out of her housewife outfit. <br>\r\n<br>\r\n\u201cAw what\u2019s wrong baby,\u201d she says with a pout, \u201cYou nervous about being in a new home? Don\u2019t you worry, Emma is a good owner, she\u2019ll take great care of you.\u201d <br>\r\n<br>\r\n\u201cI..I\u2026I\u2019m not a doll,\u201d you manage to get out, your mind still reeling with what\u2019s going on. <br>\r\n<br>\r\n\u201cAw quite the imagination,\u201d she cooes clearly not believing you, \u201cBut I believe that little mark on your footsie might say otherwise.\u201d <br>\r\n<br>\r\n\u201cThis\u2026this can\u2019t be happening,\u201d you say starting to compose yourself, \u201cI\u2019ve gotta go!\u201d <br>\r\n<br>\r\nYou start to make a run for it and try to push past her but the doll before you is not so easily pushed aside. She grabs the back of your dress and holds you away from the door. <br>\r\n<br>\r\n\u201cAh ah ah sweetie,\u201d she says, talking as if scolding a child, \u201cYou can meet and play with the other dolls later. But Emma will be back soon and I\u2019m sure she\u2019ll notice if her new toy is out of place.\u201d <br>\r\n<br>\r\n\u201cYou don\u2019t understand,\u201d you squirm with all your might trying to get away, \u201cI\u2019m not a doll! I\u2019m a person, I need to get out of here!\u201d <br>\r\n<br>\r\n\u201cTsk tsk tsk,\u201d she says, \u201cI see you are going to be a troublemaker. No matter, Mommy Barbie will take care of that.\u201d <br>\r\n<br>\r\nBefore you can question what she means she suddenly lifts you up into her arms, your face buried in her chest. She carries you over to the rocking chair in the corner and sets you, belly down on her thighs. <br>\r\n<br>\r\n\u201cWhat are you doing?\u201d you say terrified of what she has planned. <br>\r\n<br>\r\n\u201cTeaching Emma\u2019s new dolly a lesson,\u201d she says with a wicked smile on her face. <br>\r\n<br>\r\nYou suddenly feel her yank down your diaper, exposing your bare asscheeks and your eyes go wide as you realize what she\u2019s about to do. <br>\r\n<br>\r\n\u201cThis is going to hurt me a lot more than it\u2019s going to hurt you,\u201d she says. <br>\r\n<br>\r\nYou turn to see her raise her hand and see her arm has reverted back to hard plastic! Her plastic hand comes slamming down on your rear end and you yelp out in pain. This goes on for what feels like an eternity, but really was only about 30 or so harsh slaps. By the time she\u2019s done, your ass is red as can be and tears have welled up in your eyes. <br>\r\n<br>\r\n\u201cNow dear,\u201d the barbie says, lightly rubbing your rear, \u201cYou be a good dolly and I won\u2019t have to do that again okay?\u201d <br>\r\n<br>\r\nYou can\u2019t even speak up as your continue to try to compose yourself from the spanking. Barbie clearly is expecting an answer but suddenly you see her perk up at the sound of footsteps coming closer. <br>\r\n<br>\r\n\u201cShe\u2019s back!\u201d she says with a smile. <br>\r\n<br>\r\nWithout a warning she quickly pulls your diaper back up over your rear and places you back to where Emma left you. She gives you a wink before running to her chair and sitting down before returning to her lifeless plastic form. <br>\r\n<br>\r\nAs if on cue the door to the room opens and Emma walks up to the dollhouse with a smile on her face and lifts you up. <br>\r\n<br>\r\n\u201cDid you have fun dolly?\u201d she asks, not expecting a response, \u201cGood, because now its time for\u2026\u201d</span></div></div>",
+            "created":1600405200,
+            "id":2905570,
+            "title":"Meeting Emma's Dolls"
+        },
+        "1553112122132111211":{
+            "author_id":"albertobasalm",
+            "author_name":"albertobasalm",
+            "choices":[
+                "Continue",
+                "Continue"
+            ],
+            "content":"<div class=\"\"><div> <span>\"...bath!\"<br>\r\n<br>\r\nEmma returns with a purple towel and a pair of floral-print panties for herself. You are too traumatized from the spanking from the housewife Barbie to even devise an escape plan. Your only option was to grin and bear it now. As Emma carries you out of her room, you finally view the layout of the house. On the left of her room was her older sister's room, who you could see was lazily browsing on her iPhone and laughing at TikToks. Further down from her room was her mother's bedroom, where Emma's mother was in the middle of fastening her bra. Her humungous breasts restricted by the chest contraption while her red hair shined in the distance. Before you eventually escaped from this gymnastics brat, you had to get a private show from her mommy. <br>\r\n<br>\r\n\"What are you up to, honey?\"<br>\r\n<br>\r\n\"Nothing, mommy! Just going to take a bath with my baby doll!\"<br>\r\n<br>\r\nEmma giggled as she presented your foot to her mother.<br>\r\n<br>\r\n\"Property of Emma! Isn't that so adorable! Remember, honey! Not too hot water now!\"<br>\r\n<br>\r\n\"Yes, mommy.\"<br>\r\n<br>\r\nAt last, Emma reached the bathroom and placed you on top of the toilet cover while she undressed... <br>\r\n<br>\r\n</span></div></div>",
+            "created":1600491600,
+            "id":2906175,
+            "title":"Our Bath!"
+        },
+        "15531121221321112111":{
+            "author_id":"whateverelse",
+            "author_name":"whatever",
+            "choices":[
+                "She wants to play a game",
+                "She simply washes herself and gets out with you ",
+                "*suddenly her older sister walks in to join!*"
+            ],
+            "content":"<div class=\"\"><div> <span>You are forced to stare ahead as this girl strips of her clothes completely. You want to look away but unfortunately can\u2019t otherwise you\u2019ll be breaking your cover! The girl turns to the tub and bends over to turn on the water. The tub begins to fill with hot water as you see steam beginning to rise around you. Letting it start to fill, she turns to you. <br>\r\n<br>\r\n\u201cTime to get ready for your bath dolly!\u201d she says walking towards you. <br>\r\n<br>\r\nUnable to fight her she easily pulls off the annoying dress. Next she pulls off your diaper leaving you now completely naked and at her mercy. <br>\r\n<br>\r\n\u201cOh a switch! I wonder what that does!\u201d she says giving your crotch a quick and painful flick, you being barely able to not flinch, \u201cI\u2019ll see what that does later, for now it\u2019s bath time!\u201d <br>\r\n<br>\r\nEmma hugs you to her bare chest and climbs over the side of the tub and sits herself in the hot water, before settling you between her legs. You are actually quite surprised at the size of the tub. As it seems it could fit a few people in here it seemed more like a jacuzzi than a bathtub! Once the water begins to raise, Emma adjust you and sits you on her bare lap, and turns off the water. <br>\r\n<br>\r\n\u201cBaby first!\u201d she says as she reaches over you for a container of pink shampoo. <br>\r\n<br>\r\nShe pours a big glob of shampoo directly onto your head before gently massaging it against your scalp. Despite the copious amount of bubbles and suds you find it kind of relaxing as she seems very thorough. However, that doesn\u2019t last long as she sits up and holds you out in front of her. <br>\r\n<br>\r\n\u201cNow time to rinse!\u201d she says as she suddenly dunks you roughly into the water. Your eyes go wide as she holds you under and rubs in your hair. Your terrified you might not last long until she finally pulls you back up. <br>\r\n<br>\r\n\u201cNow let\u2019s make you smell nice and pretty!\u201d she says grabbing another bottle. <br>\r\n<br>\r\nThis time she pours a sweet smelling, flowery body wash into her hand and begins gently washing your body with it. The girl is very thorough as she seems to want to make sure every nook and cranny of you is sweet smelling and perfectly clean. Unfortunately for you, the girl takes extra \u201ccare\u201d around her new toys switch and you unwillingly find yourself hardening at the touch. <br>\r\n<br>\r\nFinally, satisfied with her cleaning job of you\u2026</span></div></div>",
+            "created":1600491600,
+            "id":2906375,
+            "title":"Continue"
+        },
+        "1553112122132111213":{
+            "author_id":"nevermore222",
+            "author_name":"Jakdiwnsia",
+            "choices":[
+                "Time to escape!",
+                "Well, I am tired..."
+            ],
+            "content":"<div class=\"\"><div> <span>\"...time for us to play!\" Emma said with a giggle.<br>\r\n<br>\r\nShe walked over and grabbed the larger Barbie doll, somewhat struggling with how large the doll was. She pulled it over to you.<br>\r\n<br>\r\n\"Baby Becca, meet Sadie,\" Emma said with a smile, presenting you to her, \"Sadie here will take care of you whenever I'm not here.\"<br>\r\n<br>\r\nYou went pale at the thought, still feeling sore upon your rear. <br>\r\n<br>\r\n\"Hi darling,\" Emma said, mimicking a mature voice for Sadie, \"I'm going to take great care of you.\"<br>\r\n<br>\r\nThen came an hour of humiliation, where Emma played house with you and Sadie. She carried you around, changed your diaper, shoved a fake baby bottle into your mouth, and so on. Finally, it seemed to come to an end.<br>\r\n<br>\r\n\"Let's put Baby Becca to bed now,\" Emma said, carefully setting you down in the crib.<br>\r\n<br>\r\n\"Watch over her carefully,\" Emma said to Sadie.<br>\r\n<br>\r\nThen Emma skipped out of the room.<br>\r\n<br>\r\nWhat happens next?</span></div></div>",
+            "created":1600837200,
+            "id":2908793,
+            "title":"Other"
+        },
+        "15531121221321112131":{
+            "author_id":"nevermore222",
+            "author_name":"Jakdiwnsia",
+            "choices":[
+                "Things get more sexually tense",
+                "Forget it. Baby is still fussy, and Mommy Sadie must take care of it"
+            ],
+            "content":"<div class=\"\"><div> <span>The second you were sure Emma was gone, you leapt out of the crib, dashing for the door.<br>\r\n<br>\r\nAnd once more, you were greeted by a smoking hot yet firm Sadie. She stood in front of you, her blouse practically bursting open and her hands on her hips.<br>\r\n<br>\r\n\"Where do you think you're going, Baby?\" Sadie said with disapproval.<br>\r\n<br>\r\n\"Please just let me go,\" you said, trying to find a way past her.<br>\r\n<br>\r\n\"No. You heard Emma,\" Sadie replied, \"I'm supposed to take care of you.\"<br>\r\n<br>\r\nAnd with those words, Sadie strode forward and scooped you into her arms. You struggled, but were powerless to fight against her.<br>\r\n<br>\r\n\"Don't be fussy, Baby,\" Sadie said, rocking you back and forth to quiet you.<br>\r\n<br>\r\n\"Let me go!\" You cried out, still wriggling.<br>\r\n<br>\r\n\"Baby, you're so fussy,\" Sadie said, \"What's wrong? Do you need a diaper change?\"<br>\r\n<br>\r\nSadie had gone full Mom mode now, fulfilling the command of Emma to take care of you to the best of her ability.<br>\r\n<br>\r\nSadie placed you on the changing table, and then reached her delicate hand down into your diaper, feeling around.<br>\r\n<br>\r\n\"Feels dry to me,\" Sadie said, smiling down at you.<br>\r\n<br>\r\nThen Sadie's hand brushed your asset, and her face switched to confusion. She must not have noticed it during the changes Emma had given you during playtime.<br>\r\n<br>\r\n\"What is this?\" Sadie asked, wrapping her hand around your piece.<br>\r\n<br>\r\nYou gasped at the sensual feeling that flooded through you, exacerbated by Sadie's enormous bosom that hung down in front of you.<br>\r\n<br>\r\nSadie tugged and stroked, only making you more aroused.<br>\r\n<br>\r\n\"I've never seen this before,\" Sadie said, still feeling up and down your shaft.<br>\r\n<br>\r\nSadie tore off your diaper, exposing your rock hard penis. <br>\r\n<br>\r\n\"Woah,\" Sadie exclaimed in wonder, \"Cool.\"<br>\r\n<br>\r\nWhat happens next?</span></div></div>",
+            "created":1600837200,
+            "id":2908820,
+            "title":"Time to escape!"
+        },
+        "155311212213211121311":{
+            "author_id":"whateverelse",
+            "author_name":"whatever",
+            "choices":[
+                "Emma walks in!",
+                "Sadie puts it in her mouth!",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>\u201cI\u2019ve never seen an accessory like this on one of Emma\u2019s dolls before,\u201d Sadie said, continuing to stroke your piece delicately, causing it to grow slightly. <br>\r\n<br>\r\nSeeing as she\u2019s distracted you take the opportunity and try to push her away. <br>\r\n<br>\r\n\u201cLet go of it!\u201d you say, pushing her hand away and sitting up on the changing table. <br>\r\n<br>\r\nJust as you were about to jump off and make a run for it, Sadie\u2019s powerful hand slams into your chest, forcing you to lay back down. Without a word, she reaches above your head and grabs two pink ribbons and wraps each of them around your arms before doing the same thing with your legs. Now she has you completely helpless, tied up spread eagle on the changing table. <br>\r\n<br>\r\n\u201cBad Baby Becca,\u201d Sadie scolded, wagging her finger down at you, \u201cMommy Sadie is just doing her job so you stay still and be good while I learn all of your fun little features!\u201d <br>\r\n<br>\r\nOnce again her hand wrapped it\u2019s around your harden piece, causing your to moan slightly as she began delicately pumping up and down. As she continued working your erection, you looked towards her eyes and saw she seemed to be scanning you up and down, as if trying to learn everything she can about the new doll in the dollhouse. <br>\r\n<br>\r\n\u201cHmmm,\u201d she says tilting her head, \u201cYou definitely seem to be enjoying this. I wonder if it\u2019s meant to be some sort of mood altering switch\u2026 or perhaps a reward system for being a good baby?\u201d <br>\r\n<br>\r\nAs this doll was trying to figure out how you worked, you were in a state of bliss and terror. You can\u2019t help but be turned on as this gorgeous living doll stands over you, her hand working wonders on your penis. However, with the very idea of her thinking that your penis is some sort of accessory sends a chill down your spine, as you fear for what she might have in store for it. <br>\r\n<br>\r\n\u201cAnd another thing,\u201d she says taking you out of your daze, \u201cBased on the shape of this accessory it seems to be some sort of\u2026 input. As if it were meant to be inserted.\u201d <br>\r\n<br>\r\nYour face goes completely red with blush as you hear her decipher the secrets of your erection as she continues to stroke. However youre unprepared as\u2026</span></div></div>",
+            "created":1600837200,
+            "id":2908985,
+            "title":"Things get more sexually tense"
         },
         "155312":{
             "author_id":"whateverelse",
@@ -4418,8 +4607,8 @@
         "description":"<td align=\"left\" class=\"norm\"> You're mistaken as a baby due to your stunted growth, the size of a newborn to be exact, to where little girls could pick you up with ease, much like a baby doll.<br>\r\n<br>\r\nMORE POINTS FOR WILLING BABIES. <br>\r\n<br>\r\n<br>\r\n<b><u>RULES! RULES! RULES</u></b><br>\r\n<br>\r\n1: I'll now allow other chapters.<br>\r\n<br>\r\n2: Don't write one sentence chapters like \"Rachel picked you up and brought you to her room... What happens?\"<br>\r\n<br>\r\n3: 2nd person story, please! Use \"You\" when referring to yourself.<br>\r\n<br>\r\n4: Write with proper grammar and spelling. If it's a small number of errors I'll either leave it be or edit it, probably the second, but if it's completely indecipherable I will notify you and then delete it, Auto-correct exists, and if you don't have that plug it into a word checker online.<br>\r\n<br>\r\n5: You don't have to be mistaken as a living baby, you could be hiding somewhere and be seen as a sex toy for women that looks like a baby (Wink Wink)<br>\r\n<br>\r\n6: You are male, 100% male, no questions<br>\r\n<br>\r\n<span style=\"text-decoration:line-through\">7: No older males in the story unless they're only in passing, like being chased by a male officer, etc.</span><br>\r\n<br>\r\n7. OLDER MALES ARE NOW OK.<br>\r\n<br>\r\n8: Seeing a child naked is ok, but raping them (Somehow at your size) is not, I don't want children being raped, other than you in the same \"Mistaken for a sex toy\" sense.<br>\r\n<br>\r\n9: Try to leave people clueless as to what you are, due to you either liking being treated like a baby or can't reveal it due to one way or another, burnt tongue, hiding etc, though the odd person knowing you from before is fine.<br>\r\n<br>\r\n10: Please add, and I will be sure to thank you personally.<br>\r\n<br>\r\n<b>Sorry for so many rules!</b><br>\r\n<br>\r\nBe warned, if these rules are broken beyond the point of being able to fix them, I will message you and then delete them, no exceptions, even if you give me infinite gift points.<br>\r\n<br>\r\nI'm gonna be extremely open in this story and all fetishes excluding the ones above (That means shrinking as well) will be allowed, scat, piss, do whatever you want.<br>\r\n  <br>\r\n</td>",
         "id":2166956,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1597763340,
-        "modified":1598215500,
+        "last_full_update":1600915620,
+        "modified":1600915620,
         "pretty_title":"Mistaken for a baby! (REWARDS)"
     }
 }

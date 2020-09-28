@@ -5393,6 +5393,32 @@
             "id":2880125,
             "title":"Yes"
         },
+        "11533322122":{
+            "author_id":"gobosox5",
+            "author_name":"WellsCarp",
+            "choices":[
+                "Pampers Baby Dry Size 6",
+                "Luvs Size 6",
+                "Goodnites"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Ok....Wratherheads, today's poll is what should Cami's halloween costume be this year?\" Coop announced enthusiastically. <br>\r\n<br>\r\n\"Here are the options\" Cami followed up, \"One, and evil witch, or two a baby\" <br>\r\n<br>\r\n\"And we have props!\" Coop said, \"If Cami is a witch we will paint her face green and use this broom.\"<br>\r\n<br>\r\n\"And if I am a baby\" Cami said as she pulls out a pack of _____ \"I'll be wearing these!\"</span></div></div>",
+            "created":1598677200,
+            "id":2894110,
+            "title":"No, She let the Wratherheads pick it out"
+        },
+        "115333221221":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup.",
+                "Coop got her into it.",
+                "It was someone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The baby option won, by 84%. Later, did Cami diaper herself?</span></div></span></div>",
+            "created":1598677200,
+            "id":2894112,
+            "title":"Pampers Baby Dry Size 6"
+        },
         "13":{
             "author_id":"gobosox5",
             "author_name":"WellsCarp",
@@ -5407,6 +5433,18 @@
             "created":1547355600,
             "id":2602820,
             "title":"Charlotte"
+        },
+        "131":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Sure.",
+                "Hmm, other reasons."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>This is because she likes being babied?</span></div></span></div>",
+            "created":1600146000,
+            "id":2903622,
+            "title":"Likes Them"
         },
         "133":{
             "author_id":"supreme123",
@@ -6642,6 +6680,18 @@
             "id":2602861,
             "title":"continue"
         },
+        "1352":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "With anyone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She lost a bet to Cami?</span></div></span></div>",
+            "created":1600146000,
+            "id":2903623,
+            "title":"lost a bet"
+        },
         "1353":{
             "author_id":"kameron94",
             "author_name":"Kameron",
@@ -6730,6 +6780,31 @@
             "created":1587877200,
             "id":2825102,
             "title":"class assignment"
+        },
+        "135333":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Part of a new law that was passed",
+                "Part of a new dress code for girls at school",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What other reason would Charlotte be in diapers?</span></div></span></div>",
+            "created":1600146000,
+            "id":2903599,
+            "title":"something else"
+        },
+        "1353331":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup.",
+                "Anything else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>As a result of said law, is she adopted to be re-raised?</span></div></span></div>",
+            "created":1600146000,
+            "id":2903614,
+            "title":"Part of a new law that was passed"
         },
         "14":{
             "author_id":"kameron94",
@@ -6830,8 +6905,8 @@
         "description":"<td align=\"left\" class=\"norm\">Some of the character's of the show Coop and Cami Ask the World are wearing diapers. Who and why is up to you.</td>",
         "id":2179721,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1596462480,
-        "modified":1596462480,
+        "last_full_update":1600199700,
+        "modified":1600199700,
         "pretty_title":"Coop and Cami Diaper Story"
     }
 }

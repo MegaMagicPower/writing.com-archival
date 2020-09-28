@@ -42,6 +42,21 @@
             "created":1239512400,
             "id":674892,
             "title":"China has invaded Russia"
+        },
+        "15":{
+            "author_id":"nathaniel79335",
+            "author_name":"Nathaniel Clark",
+            "choices":[
+                "full frontal attack",
+                "defensive",
+                "hit and runs",
+                "Attempt to gain an ally",
+                "Stay neutral at first"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Glory to Mother Russia. What is Russia's military stratagy to begin with</span></div></span></div>",
+            "created":1599627600,
+            "id":2900075,
+            "title":"Russia"
         }
     },
     "info":{
@@ -52,8 +67,8 @@
         "description":"<td align=\"left\" class=\"norm\">Become a military strategist as you lead the country of your choice through this terrible war!<br>\r\n<br>\r\nChoose between Britain, France, Italy, China or Russia to go with.<br>\r\n<br>\r\nGood luck sir!</td>",
         "id":1549320,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1239584460,
-        "modified":1239584460,
+        "last_full_update":1599676320,
+        "modified":1599676320,
         "pretty_title":"The REAL World War I"
     }
 }

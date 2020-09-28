@@ -4067,6 +4067,21 @@
             "id":2463590,
             "title":"Something else"
         },
+        "1153322221222222222222222222221122":{
+            "author_id":"nemryn",
+            "author_name":"nemryn",
+            "choices":[
+                "One of his bombs",
+                "A suit of armor from the castle armory",
+                "A statue on a fountain",
+                "A tree in the castle courtyard",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What other inanimate objects could Link try to use the Swap Wand on?</span></div></span></div>",
+            "created":1600750800,
+            "id":2908366,
+            "title":"Something else"
+        },
         "1153322222":{
             "author_id":"le_swappr",
             "author_name":"clockworkMelody",
@@ -4283,6 +4298,21 @@
             "id":2384430,
             "title":"Other"
         },
+        "115332222222112122":{
+            "author_id":"nemryn",
+            "author_name":"nemryn",
+            "choices":[
+                "Status",
+                "Belongings",
+                "Weapons",
+                "Perception",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>Link considered the possibilities of things he could swap with Mipha. He could swap their status, so that she would be a knight of Hyrule and bodyguard to Zelda, while he would be Champion of the Zora people, as well as (somehow) their princess.<br>\r\n<br>\r\nHe could swap their belongings, although he wasn't entirely sure what that would involve. Did it include their clothes and weapons?<br>\r\n<br>\r\nSpeaking of weapons, he could just swap those, along with their weapon skills. He would wield the Lightscale Trident, while Mipha would be skilled with the blade.<br>\r\n<br>\r\nHe could swap people's perception of them. Nothing about their bodies or lives would change, but he would be considered a female Zora, while Mipha would be seen as a male Hylian.<br>\r\n<br>\r\nThat wasn't all he could swap, of course; there were many other options.</span></div></div>",
+            "created":1600750800,
+            "id":2908372,
+            "title":"Abstract "
+        },
         "1153322222221122":{
             "author_id":"somepersonguy",
             "author_name":"Someone",
@@ -4294,6 +4324,21 @@
             "created":1492837200,
             "id":2308796,
             "title":"Urbosa?"
+        },
+        "11533222222211221":{
+            "author_id":"dayaman",
+            "author_name":"dayaman",
+            "choices":[
+                "head swap",
+                "body swap",
+                "size swap",
+                "gender swap",
+                "other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Link always admired Urbosa for her strength and kindness, so he thought what it would be like to swap with her. So what swap did he think about?</span></div></span></div>",
+            "created":1599886800,
+            "id":2901861,
+            "title":"Yes"
         },
         "11533222222212":{
             "author_id":"somepersonguy",
@@ -9051,8 +9096,8 @@
         "description":"<td align=\"left\" class=\"norm\">Read the first chapter for some information on the wand, the setup, and so on. Let's try to keep the number of branches in this one down. There's no need to pick a game before choosing a character; all the toon games cross over with each other, and so do all the non-toon ones.</td>",
         "id":1706735,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1593324240,
-        "modified":1593324240,
+        "last_full_update":1600818840,
+        "modified":1600818840,
         "pretty_title":"Legend of the Swap Wand"
     }
 }

@@ -4765,6 +4765,54 @@
             "id":2888310,
             "title":"No"
         },
+        "1553221222222122222222222222222":{
+            "author_id":"stef96",
+            "author_name":"GS96",
+            "choices":[
+                "The New Link Group",
+                "Senki Shu"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Lastly, there are the new characters that debuted in New Link and the evil group Senki Shu. From which will he be a member of?</span></div></span></div>",
+            "created":1598590800,
+            "id":2893082,
+            "title":"No"
+        },
+        "15532212222221222222222222222221":{
+            "author_id":"stef96",
+            "author_name":"GS96",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will he become Fubuki?</span></div></span></div>",
+            "created":1599195600,
+            "id":2897254,
+            "title":"The New Link Group"
+        },
+        "15532212222221222222222222222222":{
+            "author_id":"stef96",
+            "author_name":"GS96",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will he become Hyoki?</span></div></span></div>",
+            "created":1599800400,
+            "id":2901041,
+            "title":"Senki Shu"
+        },
+        "155322122222212222222222222222222":{
+            "author_id":"stef96",
+            "author_name":"GS96",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Perhaps Miki?</span></div></span></div>",
+            "created":1600750800,
+            "id":2907953,
+            "title":"No"
+        },
         "15532212222222":{
             "author_id":"writer202",
             "author_name":"Writer101",
@@ -5014,8 +5062,8 @@
         "description":"<td align=\"left\" class=\"norm\">Issei has his wildest dreams coming true, just not in the way he thinks.</td>",
         "id":2010368,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1597916100,
-        "modified":1597916100,
+        "last_full_update":1600769700,
+        "modified":1600769700,
         "pretty_title":"Issei TG"
     }
 }

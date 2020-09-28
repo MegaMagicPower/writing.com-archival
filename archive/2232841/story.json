@@ -1,0 +1,287 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"dtk84934",
+            "author_name":"yolo man",
+            "choices":[
+                "Tyler (M/20)",
+                "Maddison (F/20)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who are you?</span></div></span></div>",
+            "created":1600578000,
+            "id":2906941,
+            "title":"Choose Gender"
+        },
+        "11":{
+            "author_id":"dtk84934",
+            "author_name":"yolo man",
+            "choices":[
+                "readme.txt (Device Functions Explained)",
+                "MediaPort.exe (Begin Story)"
+            ],
+            "content":"<div class=\"\"><div> <span>It is a warm Saturday morning, the birds are chriping and doing bird things. You are <span style=\"text-decoration:line-through\">standing at your desk in default pose waiting for the story to begin. ;)</span> sitting at your desk helplessly browsing your steam library.<br>\r\n<br>\r\n*Knock Knock*<br>\r\n<br>\r\nYou didn't remember ordering anything. Upon opening the door, the hazy memory returns to you. A late-night, drunken purchase made sometime last week. Granted, it wasn't too expensive or anything, but it's always risky ordering anything past the third page of results on Amazon. You certainly didn't even expect anything to arrive this soon (or at all), even in the near-blackout state you were in when ordering.<br>\r\n<br>\r\n\"Oh yeah...\", you laugh to yourself, picking up the small, bubblewrap bag. You return to your room, having already disgarded the packaging material. What was left was looked like a standard, storage flashdrive\u2014 no box or any kind of branding to be seen. Better use a virtual OS and scan this for anything sus, you thought to yourself.<br>\r\n<br>\r\nYou boot into a virtual system, and 15 minutes later... nothing. It's clean. Not a total waste so far, you think. You reboot your system and try using your new device regularly.<br>\r\n<br>\r\nYou open the files, and you see:</span></div></div>",
+            "created":1600578000,
+            "id":2906951,
+            "title":"Tyler (M/20)"
+        },
+        "111":{
+            "author_id":"dtk84934",
+            "author_name":"yolo man",
+            "content":"<div class=\"\"><div> <span>THANK YOU FOR CHOOSING MEDIAPORT<br>\r\n<br>\r\nAll functions are means of entering your favorite worlds and interacting with them seamlessly! The provided watch is your comfortable companion to help you activate/control/adjust your experience!<br>\r\n<br>\r\nSet-up:<br>\r\n<br>\r\n1. Plug in the drive into any USB 2.0/USB 3.0 slot on your device of choice. Drivers will install automatically, then start the MediaPort.exe file located on the drive.<br>\r\n<br>\r\n2. Adjust the watch controller to your comfort and power it on by holding button on the top for at least 5 seconds.<br>\r\n<br>\r\n3. Link the devices via Bluetooth connection.<br>\r\n<br>\r\n<u>INSTRUCTIONS</u><br>\r\n<br>\r\nENTERING WORLDS:<br>\r\n<br>\r\nTo enter a world, simply play media on your primary device. A MediaPort icon will appear green in the bottom corner of your player when the software has recognized the media. Then simply, tap the top botton on your watch. You will be directly transported into the world in Nuetral Mode by default.<br>\r\n<br>\r\nWOLRD INTERACTION:<br>\r\n<br>\r\nThere are different modes of interaction while inside of Media Port. The default is Neutral Mode.<br>\r\n<br>\r\nNuetral Mode (default): <br>\r\nYou will appear transparent inside your world as a spectator.  You cannot interact with the world directly and vise-virsa.<br>\r\n<br>\r\nRegular Mode:<br>\r\nYou can interact with the world regularly as yourself.<br>\r\n<br>\r\nGhost Mode: Our newly added Posession Ability! Intetact with the world similar to Neutral Mode until your \"etheral\" form merges with a character, allowing you to completely control their body as them in the world.<br>\r\n<br>\r\nOTHER WATCH CONTROLS:<br>\r\n<br>\r\nReality-Change:<br>\r\nAllows you to change reality inside of the current instance of a world.<br>\r\nCharcter Control:<br>\r\nAllows you to control aspects/decisions/personality of a character in thr current instamce of a world.<br>\r\n<br>\r\n(Go back to previous chapter to begin story)</span></div></div>",
+            "created":1600578000,
+            "id":2906961,
+            "title":"readme.txt (Device Functions Explained)"
+        },
+        "112":{
+            "author_id":"dtk84934",
+            "author_name":"yolo man",
+            "choices":[
+                "Movies/Shows/Animated Series",
+                "Video Games/Comics",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which form of media do you decide on?</span></div></span></div>",
+            "created":1600578000,
+            "id":2906968,
+            "title":"MediaPort.exe (Begin Story)"
+        },
+        "1121":{
+            "author_id":"dtk84934",
+            "author_name":"yolo man",
+            "choices":[
+                "Movies",
+                "TV Shows",
+                "Cartoons/Anime"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which category?</span></div></span></div>",
+            "created":1600578000,
+            "id":2906974,
+            "title":"Movies/Shows/Animated Series"
+        },
+        "11211":{
+            "author_id":"dtk84934",
+            "author_name":"yolo man",
+            "choices":[
+                "Star Wars",
+                "Animated Disney Movie",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which Movie?</span></div></span></div>",
+            "created":1600750800,
+            "id":2907875,
+            "title":"Movies"
+        },
+        "11213":{
+            "author_id":"dtk84934",
+            "author_name":"yolo man",
+            "choices":[
+                "Pokemon",
+                "My Hero Academia",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which Cartoon/Anime?</span></div></span></div>",
+            "created":1600750800,
+            "id":2907858,
+            "title":"Cartoons/Anime"
+        },
+        "112133":{
+            "author_id":"dtk84934",
+            "author_name":"yolo man",
+            "choices":[
+                "Naruto",
+                "Bleach",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which Anime/Cartoon?</span></div></span></div>",
+            "created":1600750800,
+            "id":2907860,
+            "title":"Other"
+        },
+        "1121333":{
+            "author_id":"dtk84934",
+            "author_name":"yolo man",
+            "choices":[
+                "Avatar: The Last Airbender",
+                "Danny Phantom",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which Anime/Cartoon?</span></div></span></div>",
+            "created":1600750800,
+            "id":2907861,
+            "title":"Other"
+        },
+        "1122":{
+            "author_id":"dtk84934",
+            "author_name":"yolo man",
+            "choices":[
+                "Video Games",
+                "Comics"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which category?</span></div></span></div>",
+            "created":1600578000,
+            "id":2906977,
+            "title":"Video Games/Comics"
+        },
+        "11221":{
+            "author_id":"dtk84934",
+            "author_name":"yolo man",
+            "choices":[
+                "Mario",
+                "Sonic",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Mario, Sonic, or other?</span></div></span></div>",
+            "created":1600664400,
+            "id":2907686,
+            "title":"Video Games"
+        },
+        "112213":{
+            "author_id":"dtk84934",
+            "author_name":"yolo man",
+            "choices":[
+                "Final Fantasy",
+                "Kingdom Hearts",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which game?</span></div></span></div>",
+            "created":1600750800,
+            "id":2907877,
+            "title":"Other"
+        },
+        "1122133":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "Crash Bandicoot",
+                "Spyro the Dragon",
+                "Other choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which game?</span></div></span></div>",
+            "created":1600750800,
+            "id":2908062,
+            "title":"Other"
+        },
+        "11221333":{
+            "author_id":"dtk84934",
+            "author_name":"yolo man",
+            "choices":[
+                "Overwatch",
+                "Danganropa",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which game?</span></div></span></div>",
+            "created":1601269200,
+            "id":2911454,
+            "title":"Other choices"
+        },
+        "11222":{
+            "author_id":"dtk84934",
+            "author_name":"yolo man",
+            "choices":[
+                "DC Universe",
+                "Marvel Universe",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>DC, Marvel, or other?</span></div></span></div>",
+            "created":1600664400,
+            "id":2907683,
+            "title":"Comics"
+        },
+        "12":{
+            "author_id":"dtk84934",
+            "author_name":"yolo man",
+            "choices":[
+                "readme.txt (Device Functions Explained)",
+                "MediaPort.exe (Begin Story)"
+            ],
+            "content":"<div class=\"\"><div> <span>It is a warm Saturday morning, the birds are chriping and doing bird things. You are<span style=\"text-decoration:line-through\"> standing at your desk in default pose waiting for the story to begin. ;)</span> sitting at your desk helplessly browsing your steam library.<br>\r\n<br>\r\n*Knock Knock*<br>\r\n<br>\r\nYou didn't remember ordering anything. Upon opening the door, the hazy memory returns to you. A late-night, drunken purchase made sometime last week. Granted, it wasn't too expensive or anything, but it's always risky ordering anything past the third page of results on Amazon. You certainly didn't even expect anything to arrive this soon (or at all), even in the near-blackout state you were in when ordering.<br>\r\n<br>\r\n\"Oh yeah...\", you laugh to yourself, picking up the small, bubblewrap bag. You return to your room, having already disgarded the packaging material. What was left was looked like a standard, storage flashdrive\u2014 no box or any kind of branding to be seen. Better use a virtual OS and scan this for anything sus, you thought to yourself.<br>\r\n<br>\r\nYou boot into a virtual system, and 15 minutes later... nothing. It's clean. Not a total waste so far, you think. You reboot your system and try using your new device regularly.<br>\r\n<br>\r\nYou open the files, and you see:</span></div></div>",
+            "created":1600578000,
+            "id":2906953,
+            "title":"Maddison (F/20)"
+        },
+        "121":{
+            "author_id":"dtk84934",
+            "author_name":"yolo man",
+            "content":"<div class=\"\"><div> <span>THANK YOU FOR CHOOSING MEDIAPORT<br>\r\n<br>\r\nAll functions are means of entering your favorite worlds and interacting with them seamlessly! The provided watch is your comfortable companion to help you activate/control/adjust your experience!<br>\r\n<br>\r\nSet-up:<br>\r\n<br>\r\n1. Plug in the drive into any USB 2.0/USB 3.0 slot on your device of choice. Drivers will install automatically, then start the MediaPort.exe file located on the drive.<br>\r\n<br>\r\n2. Adjust the watch controller to your comfort and power it on by holding button on the top for at least 5 seconds.<br>\r\n<br>\r\n3. Link the devices via Bluetooth connection.<br>\r\n<br>\r\n<u>INSTRUCTIONS</u><br>\r\n<br>\r\nENTERING WORLDS:<br>\r\n<br>\r\nTo enter a world, simply play media on your primary device. A MediaPort icon will appear green in the bottom corner of your player when the software has recognized the media. Then simply, tap the top botton on your watch. You will be directly transported into the world in Nuetral Mode by default.<br>\r\n<br>\r\nWOLRD INTERACTION:<br>\r\n<br>\r\nThere are different modes of interaction while inside of Media Port. The default is Neutral Mode.<br>\r\n<br>\r\nNuetral Mode (default): <br>\r\nYou will appear transparent inside your world as a spectator.  You cannot interact with the world directly and vise-virsa.<br>\r\n<br>\r\nRegular Mode:<br>\r\nYou can interact with the world regularly as yourself.<br>\r\n<br>\r\nGhost Mode: Our newly added Posession Ability! Intetact with the world similar to Neutral Mode until your \"etheral\" form merges with a character, allowing you to completely control their body as them in the world.<br>\r\n<br>\r\nOTHER WATCH CONTROLS:<br>\r\n<br>\r\nReality-Change:<br>\r\nAllows you to change reality inside of the current instance of a world.<br>\r\nCharcter Control:<br>\r\nAllows you to control aspects/decisions/personality of a character in thr current instamce of a world.<br>\r\n<br>\r\n(Go back to previous chapter to begin story)</span></div></div>",
+            "created":1600578000,
+            "id":2906964,
+            "title":"readme.txt (Device Functions Explained)"
+        },
+        "122":{
+            "author_id":"dtk84934",
+            "author_name":"yolo man",
+            "choices":[
+                "Movies/Shows/Animated Series",
+                "Video Games/Comics",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which form of media do you decide on?</span></div></span></div>",
+            "created":1600578000,
+            "id":2906969,
+            "title":"MediaPort.exe (Begin Story)"
+        },
+        "1221":{
+            "author_id":"dtk84934",
+            "author_name":"yolo man",
+            "choices":[
+                "Movies",
+                "TV Shows",
+                "Anime/Cartoons"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which category?</span></div></span></div>",
+            "created":1600578000,
+            "id":2906970,
+            "title":"Movies/Shows/Animated Series"
+        },
+        "1222":{
+            "author_id":"dtk84934",
+            "author_name":"yolo man",
+            "choices":[
+                "Video Games",
+                "Comics"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which category?</span></div></span></div>",
+            "created":1600578000,
+            "id":2906973,
+            "title":"Video Games/Comics"
+        },
+        "12221":{
+            "author_id":"dtk84934",
+            "author_name":"yolo man",
+            "choices":[
+                "Mario",
+                "Sonic",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Mario, Sonic, or other?</span></div></span></div>",
+            "created":1600664400,
+            "id":2907685,
+            "title":"Video Games"
+        },
+        "12222":{
+            "author_id":"dtk84934",
+            "author_name":"yolo man",
+            "choices":[
+                "DC",
+                "Marvel",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>DC, Marvel, or other?</span></div></span></div>",
+            "created":1600664400,
+            "id":2907684,
+            "title":"Comics"
+        }
+    },
+    "info":{
+        "author_id":"dtk84934",
+        "author_name":"yolo man",
+        "brief_description":"Possess the characters of your favorite amines, shows, movies, video games, etc!",
+        "created":1600637580,
+        "description":"<td align=\"left\" class=\"norm\">Summary:<br>\r\n<br>\r\nYour character (M or F, Age 20), orders a new media accessory that claims to let you \"experience your favorite media in a revolutionary and (definetly patented) new way\". Story begins on arrival of your new Media Port!<br>\r\n<br>\r\nRULES:<br>\r\n<br>\r\n1. Stick to formatting: Please use decent english and grammar.<br>\r\n<br>\r\n2. LGBTQ subject matter allowed and encouraged. <br>\r\n<br>\r\n3. Don't create extremely specific sub-choices AKA writer bait, or your entry will be deleted. If you want something added to the story, either write it yourself or request it.<br>\r\n<br>\r\n4. No gross-out fetishes</td>",
+        "id":2232841,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1600785000,
+        "modified":1601286360,
+        "pretty_title":"Media Port: A Multimedia Possession Tale"
+    }
+}

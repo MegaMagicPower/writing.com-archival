@@ -904,6 +904,130 @@
             "id":2881030,
             "title":"Part of a new law that was passed"
         },
+        "11133223211":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Jade",
+                "Someone Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who adopts Tori as a result of the new law?</span></div></span></div>",
+            "created":1599800400,
+            "id":2901147,
+            "title":"Yeah."
+        },
+        "111332232111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup.",
+                "Nah."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>To her horror, it was Jade. Did she try to refuse, though?</span></div></span></div>",
+            "created":1599800400,
+            "id":2901150,
+            "title":"Jade"
+        },
+        "1113322321111":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "She tries to run",
+                "She starts yelling(kind of being bratty)",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>In what way does Tori try to refuse being adopted by Jade?</span></div></span></div>",
+            "created":1599800400,
+            "id":2901166,
+            "title":"Yup."
+        },
+        "11133223211111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "RC 1",
+                "RC 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Jade was able to stop her from running by...</span></div></span></div>",
+            "created":1599800400,
+            "id":2901169,
+            "title":"She tries to run"
+        },
+        "11133223211112":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "A pacifier",
+                "Injection to put her to sleep.",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\"What would you know about being a mother? You never had a real mother!.\"<br>\r\nJade stopped her daughter's yelling with...</span></div></span></div>",
+            "created":1599800400,
+            "id":2901168,
+            "title":"She starts yelling(kind of being bratty)"
+        },
+        "11133223211113":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Sure.",
+                "Other ways."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Politely refuses?</span></div></span></div>",
+            "created":1599800400,
+            "id":2901170,
+            "title":"Something else"
+        },
+        "111332232112":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup.",
+                "Sam.",
+                "Carly, or anyone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>It turns out to be Cat?</span></div></span></div>",
+            "created":1599800400,
+            "id":2901148,
+            "title":"Someone Else"
+        },
+        "1113322321122":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Option 1",
+                "Option 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is Tori adopted by Sam while Sam still lives in Seattle when she adopts her, or is she living with Cat when she adopts Tori?</span></div></span></div>",
+            "created":1599800400,
+            "id":2901161,
+            "title":"Sam."
+        },
+        "11133223211221":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Option A",
+                "Option B."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>This resulted in Tori going to Seattle, or Sam to L. A to pick Tori up?</span></div></span></div>",
+            "created":1599800400,
+            "id":2901203,
+            "title":"Option 1"
+        },
+        "11133223211222":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Supplies were bought.",
+                "Anything else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Tori found Cat was living with Sam, to her surprise. First, rules were arranged between the 3 of them?</span></div></span></div>",
+            "created":1599800400,
+            "id":2901167,
+            "title":"Option 2"
+        },
         "1113322322":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
@@ -2262,6 +2386,18 @@
             "id":2848850,
             "title":"yeah"
         },
+        "113133312":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Jade and Beck did."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was it only Jade that wanted to adopt Cat, though?</span></div></span></div>",
+            "created":1599800400,
+            "id":2901219,
+            "title":"Jade did."
+        },
         "11313332":{
             "author_id":"kameron94",
             "author_name":"Kameron",
@@ -2299,6 +2435,18 @@
             "created":1592370000,
             "id":2852696,
             "title":"new family"
+        },
+        "11313332122":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup.",
+                "Jade along with Beck."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is it only Jade that's going to re-raise her?</span></div></span></div>",
+            "created":1599800400,
+            "id":2901220,
+            "title":"Jade"
         },
         "11313332123":{
             "author_id":"kameron94",
@@ -2569,6 +2717,106 @@
             "id":2880972,
             "title":"Yeah."
         },
+        "1133312":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "They like Jade, or someone else to baby them."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Both like to baby each other?</span></div></span></div>",
+            "created":1601096400,
+            "id":2910327,
+            "title":"Both like to be babied."
+        },
+        "1133313":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup.",
+                "Both are punished via diapers.",
+                "Any more ideas."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Both are adopted as part of a new law past?</span></div></span></div>",
+            "created":1601096400,
+            "id":2910328,
+            "title":"SE"
+        },
+        "11333131":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Jade",
+                "Carly",
+                "someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>who adopts Tori and Cat through this law?</span></div></span></div>",
+            "created":1601096400,
+            "id":2910362,
+            "title":"Yup."
+        },
+        "113331311":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Takes them through rules.",
+                "Diapers and dresses them.",
+                "Anything else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Jade first does what with her new daughters?</span></div></span></div>",
+            "created":1601096400,
+            "id":2910366,
+            "title":"Jade"
+        },
+        "113331312":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup.",
+                "Carly going to L.A."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>This results in both girls going to Seattle?</span></div></span></div>",
+            "created":1601096400,
+            "id":2910365,
+            "title":"Carly"
+        },
+        "113331313":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Sure.",
+                "Trina, or anyone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>It's Sam that adopts them.</span></div></span></div>",
+            "created":1601096400,
+            "id":2910426,
+            "title":"someone else"
+        },
+        "1133313131":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "yep",
+                "Tori and Cat have to move to Seattle"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>is Sam currently living with Cat in LA when she adopts them?</span></div></span></div>",
+            "created":1601096400,
+            "id":2910447,
+            "title":"Sure."
+        },
+        "11333131311":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Took them through rules.",
+                "SE."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Tori later arrived at Sam and Cat's place. Sam first diapered and dressed her new daughters?</span></div></span></div>",
+            "created":1601096400,
+            "id":2910450,
+            "title":"yep"
+        },
         "113332":{
             "author_id":"jd88237",
             "author_name":"jdawg1985",
@@ -2682,6 +2930,42 @@
             "created":1596603600,
             "id":2880974,
             "title":"Tori spots the waistbands of their diapers stic..."
+        },
+        "1133331113":{
+            "author_id":"mangoapple123",
+            "author_name":"mangodevin",
+            "choices":[
+                "They peed while on stage and tori noticed",
+                "Their waistband showed to the whole class and only tori noticed it"
+            ],
+            "content":"<div class=\"\"><div> <span>It was a regular class with  Mr Sikowitz telling the class about how to act with everyone going up in front of the class acting out different skits.<br>\r\nTori was sat behind cat and jade when she noticed something plastic was sticking out their waistband ,it looked to be the waistband of diaper.<br>\r\nWhen it was jade and cat's turn , tori noted jade and cat had a slight waddle .<br>\r\nIt was usual for cat to be waddling but it was not for jade.<br>\r\nAs the skit went on tori took note of how puffy their rears looked to be.<br>\r\n<br>\r\nDid anything happen during the skit?<br>\r\n<br>\r\n</span></div></div>",
+            "created":1599973200,
+            "id":2902202,
+            "title":"Both at once."
+        },
+        "11333311131":{
+            "author_id":"mangoapple123",
+            "author_name":"mangodevin",
+            "choices":[
+                "After class ",
+                "Right now"
+            ],
+            "content":"<div class=\"\"><div> <span>As they were acting out a scene , tori noticed cat spaced out and a few seconds later her hands subconsciously went to touch the rear of her jeans and jade stuttered one line and heaved a sigh of relieve and when the scene was over.<br>\r\nThey sat back at the seats in front of tori.<br>\r\nTori caught the whiff of urine in the air and recognized it as a wet diaper from her days as a babysitter .<br>\r\n<br>\r\nWhen does Tori confront the two about the diapers?</span></div></div>",
+            "created":1599973200,
+            "id":2902206,
+            "title":"They peed while on stage and tori noticed"
+        },
+        "113333111311":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Only one of them."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She waited until after class, but, did she confront them both?</span></div></span></div>",
+            "created":1599973200,
+            "id":2902294,
+            "title":"After class "
         },
         "113333112":{
             "author_id":"supreme123",
@@ -2911,6 +3195,234 @@
             "created":1596603600,
             "id":2880983,
             "title":"New adoption law"
+        },
+        "11333313111":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Yeah",
+                "One of them is",
+                "Neither of them"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are Cat and Jade okay with being adopted by Tori?</span></div></span></div>",
+            "created":1599800400,
+            "id":2901180,
+            "title":"Yeah."
+        },
+        "113333131111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Dresses Cat first, then Jade.",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Both were, considering the types of childhoods they'd had, thinking it'd be nice to have a stable mother figure in Tori. Did tori first take them through rules?</span></div></span></div>",
+            "created":1599800400,
+            "id":2901182,
+            "title":"Yeah"
+        },
+        "1133331311111":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Readers choice 1",
+                "Readers choice 2",
+                "Readers choice 3"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The rules Tori went over with her new daughters were...</span></div></span></div>",
+            "created":1599800400,
+            "id":2901186,
+            "title":"Yeah."
+        },
+        "11333313111111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup.",
+                "Nah, dressing the babies time."
+            ],
+            "content":"<div class=\"\"><div> <span>1: Both would act like babies when at Tori's, but could act as themselves when in public. 2: Tori would be called mommy or mama. 3: If either one misbehaved, she's be punished. 4: Trina and Sam would be aunts or babysitters. 5: Jade would be the oldest, cat youngest. Was that all?</span></div></div>",
+            "created":1599800400,
+            "id":2901189,
+            "title":"Readers choice 1"
+        },
+        "1133331311113":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Yeah",
+                "Gave them both a bath",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She dressed Jade first, then Cat?</span></div></span></div>",
+            "created":1599800400,
+            "id":2901187,
+            "title":"SE"
+        },
+        "11333313111131":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Not yet."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>While being diapered and dressed, did jade start to act like a real baby?</span></div></span></div>",
+            "created":1599800400,
+            "id":2901198,
+            "title":"Yeah"
+        },
+        "113333131111311":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "She kissed her mommy on the cheek",
+                "She wanted to be held",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How did Jade begin to act like a baby while Tori diapered her?</span></div></span></div>",
+            "created":1599800400,
+            "id":2901274,
+            "title":"Yeah."
+        },
+        "1133331311113111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Tori babied their hair styles.",
+                "Both were put into a playpen, or SE"
+            ],
+            "content":"<div class=\"\"><div> <span>Jade gently kissed Tori's cheek as Tori got to work.<br>\r\n\"Aww, thanks, kiddo.\"<br>\r\nSoon, jade was in a clean diaper and onesie.<br>\r\nCat was next, Tori putting her into a fresh diaper and baby dress.<br>\r\nNext was for them to decide ages for Jade and Cat?</span></div></div>",
+            "created":1599800400,
+            "id":2901279,
+            "title":"She kissed her mommy on the cheek"
+        },
+        "11333313111131111":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Jade is older while Cat is younger",
+                "Cat is the big sister while Jade is the baby sister",
+                "They wanted to be twins"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What did Jade and Cat's ages turn out to be?</span></div></span></div>",
+            "created":1599800400,
+            "id":2901285,
+            "title":"Yeah."
+        },
+        "113333131111311111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Jade 1, Cat Newborn.",
+                "Other choices."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Jade wanted to be 2, Cat one year old?</span></div></span></div>",
+            "created":1599800400,
+            "id":2901289,
+            "title":"Jade is older while Cat is younger"
+        },
+        "113333131111311113":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Other age ideas."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Both wanted to be 1 year olds?</span></div></span></div>",
+            "created":1599800400,
+            "id":2901291,
+            "title":"They wanted to be twins"
+        },
+        "1133331311113113":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Sure.",
+                "Peed while being diapered.",
+                "Other ways she started to act baby-like."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She started crying.</span></div></span></div>",
+            "created":1599800400,
+            "id":2901300,
+            "title":"Something else"
+        },
+        "11333313111131132":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Yep",
+                "The floor",
+                "The diaper once it's on or something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Jade end up peeing on Tori?</span></div></span></div>",
+            "created":1599800400,
+            "id":2901306,
+            "title":"Peed while being diapered."
+        },
+        "113333131111311321":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "\"Well, you wanted us to act like babies, mom.\"",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Tori felt the stream hit her shirt.<br>\r\n\"Jade!.\"<br>\r\nJade giggled like a baby?</span></div></span></div>",
+            "created":1599800400,
+            "id":2901308,
+            "title":"Yep"
+        },
+        "11333313111132":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Nah."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did both stay still as they were bathed?</span></div></span></div>",
+            "created":1599800400,
+            "id":2901190,
+            "title":"Gave them both a bath"
+        },
+        "113333131111322":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Splashed each other and their new mommy",
+                "Jumped out of the tub and ran around the house Nude like real babies",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What did Jade and Cat do during the bath?</span></div></span></div>",
+            "created":1599800400,
+            "id":2901196,
+            "title":"Nah."
+        },
+        "1133331311113221":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Had started to get into character, or SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>This was done because both wanted to have fun with this?</span></div></span></div>",
+            "created":1599800400,
+            "id":2901248,
+            "title":"Splashed each other and their new mommy"
+        },
+        "1133331311113222":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Jade.",
+                "Cat."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Tori soon caught them, Cat first, then Jade, and got them bathed. After drying them off, she dressed who of her daughters first?</span></div></span></div>",
+            "created":1599800400,
+            "id":2901197,
+            "title":"Jumped out of the tub and ran around the house ..."
         },
         "12":{
             "author_id":"jd88237",
@@ -6836,8 +7348,8 @@
         "description":"<td align=\"left\" class=\"norm\">Revising my previous Victorious story, but with the characters of iCarly added as well for more fun.<br>\r\n<br>\r\nRules.<br>\r\nNo drugs, sex, religion bashing. Keep gross things in the diapers.<br>\r\n<br>\r\n</td>",
         "id":2179644,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1596673560,
-        "modified":1596673560,
+        "last_full_update":1600007040,
+        "modified":1601150340,
         "pretty_title":"Victorious and iCarly Diaper Girls"
     }
 }

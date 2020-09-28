@@ -379,6 +379,19 @@
             "id":2506964,
             "title":"No"
         },
+        "11312":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "Tails",
+                "Knuckles",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which one of his friends did he accidentally change?</span></div></span></div>",
+            "created":1601096400,
+            "id":2910282,
+            "title":"One of his Friends."
+        },
         "1132":{
             "choices":[
                 "Shadow",
@@ -846,6 +859,19 @@
             "created":1498798800,
             "id":2344899,
             "title":"Gender Swap"
+        },
+        "1321":{
+            "author_id":"rbm5",
+            "author_name":"RBM5",
+            "choices":[
+                "A sporty tomboy that would act similar to himself",
+                "Sonic accidentally turns himself into a bimbo",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>Sonic thought you himself why not become a woman? It would be fun to try and Sally would complain about boys on occasion so he did have the urge to prove to her that not only was being a girl easy but girls weren\u2019t better than guys. Sonic closed his eyes as he thought of what kind of woman he wanted to turn into...</span></div></div>",
+            "created":1601096400,
+            "id":2910167,
+            "title":"Himself"
         },
         "1322":{
             "author_id":"rbm5",
@@ -1583,7 +1609,7 @@
         "id":1777735,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
         "last_full_update":1597423320,
-        "modified":1597423320,
+        "modified":1601124240,
         "pretty_title":"The Necklace's Curse-Sonic edition"
     }
 }

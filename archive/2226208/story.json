@@ -507,6 +507,79 @@
             "id":2864803,
             "title":"Yep"
         },
+        "111313112":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "yep",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>does Teddy want to learn how to be a baby, and asks Charlie to be her teacher?</span></div></span></div>",
+            "created":1599886800,
+            "id":2901636,
+            "title":"Something else"
+        },
+        "1113131121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Sure.",
+                "About something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>First lesson is about diapering?</span></div></span></div>",
+            "created":1599886800,
+            "id":2901691,
+            "title":"yep"
+        },
+        "1113131122":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Charlie tries to put Teddy to sleep.",
+                "Anything else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Cool idea, but, let's see about other ones.</span></div></span></div>",
+            "created":1599886800,
+            "id":2901728,
+            "title":"something else"
+        },
+        "11131311222":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Yeah",
+                "Teaches Teddy to prefer baby shows over all other shows",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Charlie teach Teddy to use a diaper without a second thought?</span></div></span></div>",
+            "created":1599886800,
+            "id":2901731,
+            "title":"Anything else."
+        },
+        "111313112221":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "RC 1",
+                "RC 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She does this how?</span></div></span></div>",
+            "created":1599886800,
+            "id":2901733,
+            "title":"Yeah"
+        },
+        "111313112222":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Sure.",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>This starts with Teddy letting Charlie know she wants to be a baby again?</span></div></span></div>",
+            "created":1599886800,
+            "id":2901732,
+            "title":"Teaches Teddy to prefer baby shows over all oth..."
+        },
         "1113132":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
@@ -518,6 +591,55 @@
             "created":1594270800,
             "id":2864794,
             "title":"Skyler"
+        },
+        "11132":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Charlie, Ivy, or anyone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She tells who about this, Amy?</span></div></span></div>",
+            "created":1599886800,
+            "id":2901736,
+            "title":"prefers the feel of diapers instead of panties"
+        },
+        "111322":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Charlie",
+                "Ivy",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Teddy tell this to her little sister Charlie or her friend Ivy?</span></div></span></div>",
+            "created":1599886800,
+            "id":2901745,
+            "title":"Charlie, Ivy, or anyone else."
+        },
+        "1113221":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Anything else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She told this to Charlie who tried diapering her herself?</span></div></span></div>",
+            "created":1599886800,
+            "id":2901754,
+            "title":"Charlie"
+        },
+        "1113222":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup.",
+                "Teasing her, or SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She told this to Ivy while they were watching Charlie. Ivy reacted by helping her get supplies and babying her?</span></div></span></div>",
+            "created":1599886800,
+            "id":2901752,
+            "title":"Ivy"
         },
         "112":{
             "author_id":"kameron94",
@@ -543,6 +665,43 @@
             "created":1594011600,
             "id":2862981,
             "title":"swaps ages with Charlie"
+        },
+        "11213":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Someone else wishes it",
+                "Something else swaps their ages"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does someone else make the wish to swap Charlie and Teddy's ages, or does something else happen to swap their ages?</span></div></span></div>",
+            "created":1599886800,
+            "id":2901750,
+            "title":"Anyone else who makes it, or other reasons why ..."
+        },
+        "112131":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Ivy does.",
+                "Anyone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is it Amy, their mother that makes the wish, wanting Teddy to be her baby girl again?</span></div></span></div>",
+            "created":1599886800,
+            "id":2901755,
+            "title":"Someone else wishes it"
+        },
+        "112132":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "A dream one of them ends up having, or SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>A remote control of some sort that switches their ages?</span></div></span></div>",
+            "created":1599886800,
+            "id":2901757,
+            "title":"Something else swaps their ages"
         },
         "1122":{
             "author_id":"bennym",
@@ -644,6 +803,19 @@
             "created":1596776400,
             "id":2881839,
             "title":"Part of a new Law that was passed"
+        },
+        "11511":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Amy.",
+                "Charlie, or anyone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She ends up being adopted by Ivy?</span></div></span></div>",
+            "created":1599886800,
+            "id":2901739,
+            "title":"Yeah."
         },
         "1152":{
             "author_id":"jd88237",
@@ -1160,6 +1332,55 @@
             "id":2865565,
             "title":"Jo"
         },
+        "15311":{
+            "author_id":"schultz27",
+            "author_name":"schultz",
+            "choices":[
+                "Her mom",
+                "A friend from the school",
+                "someone else"
+            ],
+            "content":"<div class=\"\"><div> <span>Jo loves wear diapers, and she wear it ever that has the opportunity. Nobody knows about her secret, she is very discreet if she buys diapers.<br>\r\nShe have the home alone, so when her mother leave the house she goes for his diapers and start to put it one of the diapers. <br>\r\nThe diaper was comfortable, and white, she looks at the front of her diaper and like a real baby she starts to make pee, the diapers slowly gets filled, the front now yellow instead of white. She touched the diaper, before the pee was light but now is heavy. She was admiring her diaper when someone knocked on the door.<br>\r\n<br>\r\nWho's is?<br>\r\n</span></div></div>",
+            "created":1598677200,
+            "id":2894254,
+            "title":"Wearing diaper at school"
+        },
+        "153112":{
+            "author_id":"schultz27",
+            "author_name":"schultz",
+            "choices":[
+                "No",
+                "Yes"
+            ],
+            "content":"<div class=\"\"><div> <span>Was her friend Gabe Duncan, he knock the door, <br>\r\nThey had to go to school, she was forget it, the vacation is over, so they have to go at school.<br>\r\nGabe didn't see the diaper, Jo put on some clothes and goes to school with Gabe, feeling the diaper under her clothes, at least she take the diaper pack in the bag.<br>\r\nGabe smell the air, and say \"smell like a diaper\"<br>\r\nThen look's jo, he notice the diaper?</span></div></div>",
+            "created":1598677200,
+            "id":2894298,
+            "title":"Gabe Duncan"
+        },
+        "1531121":{
+            "author_id":"schultz27",
+            "author_name":"schultz",
+            "choices":[
+                "No",
+                "Yes"
+            ],
+            "content":"<div class=\"\"><div> <span>Gabe didn't notice the diaper, even when the smell of pee was still in the air.<br>\r\nJo just says \"why do you know how diapers smell?<br>\r\nGabe says \"it's from my little sister Charlie\"<br>\r\nThey walk and finally arrive to school.<br>\r\nJo had problems about her diaper?</span></div></div>",
+            "created":1601096400,
+            "id":2910402,
+            "title":"No, he don't look the diaper"
+        },
+        "15313":{
+            "author_id":"schultz27",
+            "author_name":"schultz",
+            "choices":[
+                "She is bedwetter",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Whats other options?</span></div></span></div>",
+            "created":1598677200,
+            "id":2894244,
+            "title":"Other options"
+        },
         "1532":{
             "author_id":"kameron94",
             "author_name":"Kameron",
@@ -1228,11 +1449,11 @@
         "author_name":"Kameron",
         "brief_description":"the girls of Good luck Charlie are in diapers, why is up to you.",
         "created":1594081020,
-        "description":"<td align=\"left\" class=\"norm\">rule 1. leave a \"something else options for choices of why the characters, to keep things open.<br>\r\nrule 2. no weight gain.<br>\r\nrule 3. do not put instant endings on sections that haven't even started yet.(I will delete those)<br>\r\nrule 4. no insulting religion.<br>\r\nrule 5. no killing off characters.<br>\r\nrule 6. no troll chapters, anyone who makes bogus chapters will be blocked.<br>\r\n<br>\r\notherwise have fun.</td>",
+        "description":"<td align=\"left\" class=\"norm\">rule 1. leave a \"something else options for choices of why the characters, to keep things open.<br>\r\nrule 2. no weight gain.<br>\r\nrule 3. do not put instant endings on sections that haven't even started yet.(I will delete those)<br>\r\nrule 4. no insulting religion.<br>\r\nrule 5. no killing off characters.<br>\r\nrule 6. no troll chapters, anyone who makes bogus chapters will be blocked.<br>\r\nrule 7. make sure you have proper spelling before posting a chapter.<br>\r\n<br>\r\notherwise have fun.</td>",
         "id":2226208,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1597236900,
-        "modified":1598185800,
+        "last_full_update":1599925860,
+        "modified":1601144100,
         "pretty_title":"good luck Charlie girls in diapers"
     }
 }

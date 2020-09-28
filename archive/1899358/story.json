@@ -116,6 +116,21 @@
             "id":1703553,
             "title":"Lin's Invitation"
         },
+        "123":{
+            "author_id":"numerio",
+            "author_name":"Tex",
+            "choices":[
+                "Sock drawer",
+                "Panty drawer",
+                "Pantry",
+                "Other (reader's choice)",
+                "Other (Writer's choice)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where do you wake up?</span></div></span></div>",
+            "created":1600923600,
+            "id":2909263,
+            "title":"You wake up in the dark..."
+        },
         "14":{
             "author_id":"etcetera",
             "author_name":"Neon",
@@ -139,8 +154,8 @@
         "description":"<td align=\"left\" class=\"norm\">This is a story about a 20 year old guy who gets shrunken to super small sizes by women. He is shrunken by a shrinking ray gun that can do some amazing things. For example, if he shrinks smaller than cells, he cannot see them, his surroundings just get bigger, etc. Have fun with it!<br>\r\n<br>\r\nRules:<br>\r\nNo guy/guy stuff. Two girls is fine. No offense, this just isn't that kind of interactive.<br>\r\nNo underage interaction.<br>\r\nNo killing the main character.<br>\r\nKeep toilet stuff to a minimum. Again, this isn't that kind of thing.<br>\r\nMain character doesn't have to shrink to super small sizes, but nothing over 2 inches.<br>\r\nFemales can grow, just keep it to a minimum. 10-15 feet is fine, just no giant rampages.<br>\r\nMinimal family stuff. Some is ok, but not a lot.<br>\r\nHave fun!</td>",
         "id":1899358,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1396514220,
-        "modified":1396514220,
+        "last_full_update":1600969020,
+        "modified":1600969020,
         "pretty_title":"Micro Shrink"
     }
 }

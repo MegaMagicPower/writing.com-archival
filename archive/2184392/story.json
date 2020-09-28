@@ -324,6 +324,18 @@
             "id":2723491,
             "title":"Crow's luck"
         },
+        "1113121122122":{
+            "author_id":"novahamm",
+            "author_name":"Hamn8r",
+            "choices":[
+                "option 1",
+                "option 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\"I'm feeling better. How about Yusei-Go?\"<br>\r\n<br>\r\n<br>\r\nOption 1: Crow says it got a little dinged, but nothing major<br>\r\nOption 2: Crow tries redirecting the convo, causing Yusei to repeat with a different tone</span></div></span></div>",
+            "created":1600318800,
+            "id":2904590,
+            "title":"How's my ride?"
+        },
         "11132":{
             "author_id":"novahamm",
             "author_name":"Hamn8r",
@@ -1599,6 +1611,34 @@
             "created":1582693200,
             "id":2793346,
             "title":"Erotic Probability"
+        },
+        "1153333322":{
+            "author_id":"novahamm",
+            "author_name":"Hamn8r",
+            "choices":[
+                "RWBY",
+                "R+V",
+                "More choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about RBWY and R+V?</span></div></span></div>",
+            "created":1599973200,
+            "id":2902517,
+            "title":"no"
+        },
+        "11533333222":{
+            "author_id":"novahamm",
+            "author_name":"Hamn8r",
+            "choices":[
+                "Tsukune's perverted accidents ",
+                "Moka's perverted accidents ",
+                "Yukari's perverted accidents ",
+                "Kurumu's perverted accidents ",
+                "More girls"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Tsukune is obviously the choice for perverted accidents, but I think it'd be fun to have girls be victims</span></div></span></div>",
+            "created":1599973200,
+            "id":2902518,
+            "title":"Maybe a change of pace"
         },
         "12":{
             "author_id":"novahamm",
@@ -3409,8 +3449,8 @@
         "description":"<td align=\"left\" class=\"norm\">The hero is somewhat cursed to accidents with the opposite sex that lead to happy situations</td>",
         "id":2184392,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1597100220,
-        "modified":1598222700,
+        "last_full_update":1600324080,
+        "modified":1600324080,
         "pretty_title":"Perverted Accidents"
     }
 }

@@ -267,6 +267,18 @@
             "id":1187037,
             "title":"Other Persona 4 Girls"
         },
+        "13433":{
+            "author_id":"gpgclean",
+            "author_name":"YugiohPKMN ",
+            "choices":[
+                "Continue with P4",
+                "I want emancipation."
+            ],
+            "content":"<div class=\"\"><div> <span>Oi, Persona 5 is out and it is good......and has many nice girls. Just don't date them all at the same time or you die.<br>\r\n<br>\r\nI'm not kidding.<br>\r\n<br>\r\nYou wanna go with P5 or stick with P4?<br>\r\n<br>\r\n<a onclick=\"$('#dropNote1').toggle (200);\" style=\"cursor:pointer;color:#0000ff;\" title=\"\"><span style=\"text-decoration:underline;\">trying t master drop note</span> <span style=\"font-size:8pt;opacity:.75;text-decoration:none;\">\u25bc</span></a><div id=\"dropNote1\" style=\"padding:0px;display:none;\">Did I Succeed?</div> </span></div></div>",
+            "created":1600491600,
+            "id":2905764,
+            "title":"We know that they're out there"
+        },
         "14":{
             "author_id":"grimtuesday",
             "author_name":"sorrow",
@@ -278,6 +290,19 @@
             "created":1375938000,
             "id":1642867,
             "title":"Digital Devils"
+        },
+        "142":{
+            "author_id":"gpgclean",
+            "author_name":"YugiohPKMN ",
+            "choices":[
+                "Devil Children?",
+                "i got no clue",
+                "no clue here either"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Devil Children, then?<br>\r\n<br>\r\n<br>\r\nIt's the only other one I know.....</span></div></span></div>",
+            "created":1600491600,
+            "id":2905793,
+            "title":"Something else"
         }
     },
     "info":{
@@ -288,8 +313,8 @@
         "description":"<td align=\"left\" class=\"norm\">Noticing only Persona really got an interactive, I've decided to broaden it to the SMT series in its entierty.<br>\r\n<br>\r\nGeneral Rules: <br>\r\nNo male gain.<br>\r\nNo immobility<br>\r\nThis is a 13+ story, keep it that way.<br>\r\nThis is only a weight gain interactive. No giantesses, vore etc.<br>\r\nEndings are allowed, but make sure the story threads of a rather long length, also, feel free to craft an ending not rooted in the game's plots.<br>\r\nHAVE FUN.</td>",
         "id":1806539,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1483292160,
-        "modified":1483292160,
+        "last_full_update":1600500000,
+        "modified":1600500000,
         "pretty_title":"Shin Megami Tensei Weight Gain"
     }
 }

@@ -228,6 +228,33 @@
             "id":2871519,
             "title":"Others."
         },
+        "15133":{
+            "author_id":"benz02",
+            "author_name":"HedgeOvrlrd",
+            "choices":[
+                "Walking Dead",
+                "Jurassic Park",
+                "Bat Man",
+                "Other Francises"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Another TellTales game Jurassic Park<br>\r\nOr Stay with Walking Dead<br>\r\nOr Batman</span></div></span></div>",
+            "created":1601182800,
+            "id":2911060,
+            "title":"TellTales Jurassic Park"
+        },
+        "151332":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Jessica Harding",
+                "Nima Cruz",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who from Telltales Jurassic park end up in diapers?</span></div></span></div>",
+            "created":1601182800,
+            "id":2911136,
+            "title":"Jurassic Park"
+        },
         "152":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
@@ -403,7 +430,7 @@
         "id":2207359,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
         "last_full_update":1595163540,
-        "modified":1595163540,
+        "modified":1601228580,
         "pretty_title":"Big Babies of Video Games (My Version)"
     }
 }

@@ -3783,6 +3783,21 @@
             "id":2697034,
             "title":"Someone else"
         },
+        "1454":{
+            "author_id":"doctwisted",
+            "author_name":"Twisted Gear",
+            "choices":[
+                "Decide now",
+                "Decide later (path 1)",
+                "Decide later (path 2)",
+                "Decide later (path 3)",
+                "Decide later (path 4)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\u201cYoooou\u2019ll seee!\u201d Nicole giggled putting a finger to her lips.<br>\r\n<br>\r\nWhile she won\u2019t tell sally, should we decide what it does now or later</span></div></span></div>",
+            "created":1600232400,
+            "id":2904565,
+            "title":"it's a secret!"
+        },
         "15":{
             "author_id":"xanaboy1",
             "author_name":"Banjogeek",
@@ -3932,6 +3947,18 @@
             "created":1493096400,
             "id":2310758,
             "title":"One of Boomer's inventions"
+        },
+        "15223":{
+            "author_id":"rbm5",
+            "author_name":"RBM5",
+            "choices":[
+                "Sure",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about nanites similar to what Nicole uses?</span></div></span></div>",
+            "created":1600318800,
+            "id":2904851,
+            "title":"Something else"
         },
         "154":{
             "author_id":"xanaboy1",
@@ -4368,8 +4395,8 @@
         "description":"<td align=\"left\" class=\"norm\">Sally gets kidnapped by someone for some reason<br>\r\n<br>\r\n<u>Rules</u><br>\r\n1.No Vore<br>\r\n<br>\r\n2.Fancharacters are allowed.<br>\r\n<br>\r\n3.Sex is allowed but if its detailed put a warning.<br>\r\n<br>\r\n</td>",
         "id":1933441,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1597262820,
-        "modified":1597262820,
+        "last_full_update":1600359540,
+        "modified":1600359540,
         "pretty_title":"Sally gets Kidnapped"
     }
 }

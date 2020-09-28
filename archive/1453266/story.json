@@ -61,6 +61,30 @@
             "id":2498564,
             "title":"Live As Blake"
         },
+        "11121":{
+            "author_id":"richardalan",
+            "author_name":"Richardtrek",
+            "choices":[
+                "Grab food at the cafeteria together",
+                "Try to hold Charlie's hand"
+            ],
+            "content":"<div class=\"\"><div> <span>You go to Charlie's dorm room and knock on the door to see if he's there. Charlie answers the door and invites you in. As Eric, you didn't really have a relationship with Charlie, but as Blake, you guys are pretty close friends. You start playing video games and enjoy each other's company. Then you both get a little bored. What else could you do???</span></div></div>",
+            "created":1600232400,
+            "id":2904318,
+            "title":"Hang Out With Charlie"
+        },
+        "11122":{
+            "author_id":"richardalan",
+            "author_name":"Richardtrek",
+            "choices":[
+                "Change clothes for the date",
+                "Pick Ashton up right now"
+            ],
+            "content":"<div class=\"\"><div> <span>You have Blake's cell phone so you use it to call Ashton. Your plan is to go to dinner then to a movie. This is exciting for you, as you don't have a lot of experience with girls. You know Blake and Ashton make out a lot, so if this date goes well, maybe you can get some action too.</span></div></div>",
+            "created":1600232400,
+            "id":2904320,
+            "title":"Go On A Date With Ashton"
+        },
         "1113":{
             "author_id":"switcher",
             "author_name":"switcher",
@@ -222,6 +246,18 @@
             "created":1382418000,
             "id":1683102,
             "title":"...to shoot for a relationship with Dan"
+        },
+        "1121121121212":{
+            "author_id":"richardalan",
+            "author_name":"Richardtrek",
+            "choices":[
+                "Try swapping with Dan",
+                "Stay as Blake"
+            ],
+            "content":"<div class=\"\"><div> <span>Instead of pursuing a relationship with Dan... you begin to think that being Dan may be the better option! If he is straight, you'd still be able to enjoy the benefits of his hot body and finally get to check out what's hiding underneath that underwear! </span></div></div>",
+            "created":1600232400,
+            "id":2904324,
+            "title":"...to give up and pursue something else"
         },
         "1121121122":{
             "choices":[
@@ -403,7 +439,7 @@
         },
         "1211212":{
             "author_id":"comix02",
-            "author_name":"comix",
+            "author_name":"Swap guy",
             "choices":[
                 "Clean up",
                 "Continue exploring"
@@ -832,6 +868,18 @@
             "created":1549774800,
             "id":2615648,
             "title":"He turns around and screams"
+        },
+        "1222121":{
+            "author_id":"richardalan",
+            "author_name":"Richardtrek",
+            "choices":[
+                "Talk about what happened",
+                "Don't talk, keep kissing"
+            ],
+            "content":"<div class=\"\"><div> <span>You're now in the body of Tom, and he is in your body... both standing stark naked and wet in his room. The first thing you do is lock the door and think about your next move. You don't have to think too long, as your former body comes toward you and plants a kiss on your (Tom's) gorgeous lips. It takes you by surprise, but at least you feel more calm now.</span></div></div>",
+            "created":1600318800,
+            "id":2905121,
+            "title":"You reach the room, without incident"
         }
     },
     "info":{
@@ -842,8 +890,8 @@
         "description":"<td align=\"left\" class=\"norm\">Your a teenage guy at a prep school when a gift comes to you randomly, upon further inspection you find out it is a talisman that allows the bearer to switch with the next person they touch. the talisman stays with the user too. No girl swapping, but you may include a female for story enhancement. Please have detailed chapters. Also, add new characters.<br>\r\n<br>\r\nBio (so far) : Eric- you<br>\r\n<br>\r\n                  Blake-your roomate<br>\r\n<br>\r\nPlease feel free to add</td>",
         "id":1453266,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1549820040,
-        "modified":1549820040,
+        "last_full_update":1600391880,
+        "modified":1600391880,
         "pretty_title":"Male Body Swap"
     }
 }

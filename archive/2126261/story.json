@@ -1406,7 +1406,7 @@
         },
         "12231":{
             "author_id":"lucky9904",
-            "author_name":"SwapGod",
+            "author_name":"MCL",
             "choices":[
                 "Go To Mikan's Dorm",
                 "Try To Find Mikan"
@@ -1418,7 +1418,7 @@
         },
         "122311":{
             "author_id":"lucky9904",
-            "author_name":"SwapGod",
+            "author_name":"MCL",
             "choices":[
                 "Continue Searching Mikan's Possessions.",
                 "Sleep In Mikan's Normal Clothes, and Call It a Night."
@@ -1430,7 +1430,7 @@
         },
         "1223112":{
             "author_id":"lucky9904",
-            "author_name":"SwapGod",
+            "author_name":"MCL",
             "choices":[
                 "Go To The Cafeteria.",
                 "Go To The Beach."
@@ -1442,7 +1442,7 @@
         },
         "12231121":{
             "author_id":"lucky9904",
-            "author_name":"SwapGod",
+            "author_name":"MCL",
             "choices":[
                 "Turn To The Exit and Quickly Run Away.",
                 "Go Up The Stairs and Try To Help.",
@@ -1455,7 +1455,7 @@
         },
         "12231122":{
             "author_id":"lucky9904",
-            "author_name":"SwapGod",
+            "author_name":"MCL",
             "choices":[
                 "Try To Find Mikan.",
                 "Play Games With Chiaki And Nagito."
@@ -1467,7 +1467,7 @@
         },
         "122311222":{
             "author_id":"lucky9904",
-            "author_name":"SwapGod",
+            "author_name":"MCL",
             "choices":[
                 "Hajime Ignores The Thoughts, And Plays At His Best.",
                 "Hajime Gets Increasingly Distracted, Playing Worse As A Result."
@@ -1479,7 +1479,7 @@
         },
         "122312":{
             "author_id":"lucky9904",
-            "author_name":"SwapGod",
+            "author_name":"MCL",
             "choices":[
                 "Demand The Keys",
                 "Let Her Have The Keys"
@@ -1491,7 +1491,7 @@
         },
         "1223122":{
             "author_id":"lucky9904",
-            "author_name":"SwapGod",
+            "author_name":"MCL",
             "choices":[
                 "Have Mikan Tour Him Around Her Dorm.",
                 "Go To Sleep For Now."
@@ -1503,7 +1503,7 @@
         },
         "12231221":{
             "author_id":"lucky9904",
-            "author_name":"SwapGod",
+            "author_name":"MCL",
             "choices":[
                 "Ask About The Syringe.",
                 "Don't Bother Asking And Get On With The Tour."
@@ -1515,7 +1515,7 @@
         },
         "122312212":{
             "author_id":"lucky9904",
-            "author_name":"SwapGod",
+            "author_name":"MCL",
             "choices":[
                 "Learn About Nursing From Mikan And Try To Learn What Her Life Is Like.",
                 "Come Up With A Different, Fair Compromise."
@@ -1527,7 +1527,7 @@
         },
         "1223122121":{
             "author_id":"lucky9904",
-            "author_name":"SwapGod",
+            "author_name":"MCL",
             "choices":[
                 "Agree To Go To The Beach For Nagito's Event.",
                 "Disagree - Hajime Has A Better Idea For What To Do."
@@ -1539,7 +1539,7 @@
         },
         "1223122122":{
             "author_id":"lucky9904",
-            "author_name":"SwapGod",
+            "author_name":"MCL",
             "choices":[
                 "Agree To Pretend To Be Mikan.",
                 "Refuse To Act Like Her, But Still Say You've Both Swapped Back.",
@@ -1850,6 +1850,30 @@
             "id":2875873,
             "title":"Some give out their identity"
         },
+        "151122123":{
+            "author_id":"teyana",
+            "author_name":"Teyana",
+            "choices":[
+                "Walks up to them ",
+                "Leaves them be"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>He goes and finds his own body<br>\r\n</span></div></span></div>",
+            "created":1598504400,
+            "id":2892683,
+            "title":"Go look for his own body"
+        },
+        "1511221231":{
+            "author_id":"teyana",
+            "author_name":"Teyana",
+            "choices":[
+                "They responded ",
+                "They dont respond"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\"Who are you?\"</span></div></span></div>",
+            "created":1598504400,
+            "id":2892684,
+            "title":"Walks up to them "
+        },
         "1511222":{
             "author_id":"persona4golden",
             "author_name":"TheObserver",
@@ -2135,8 +2159,8 @@
         "description":"<td align=\"left\" class=\"norm\"><span class=\"cred\">READ THESE RULES BEFORE ADDING CHAPTERS. DON'T WORRY THERE ISN'T MANY</span><br>\r\n<br>\r\nThe jist of the story is that Monokuma/or Usami/or Monokids swap around the bodies of the characters in the killing game or in school/island mode<br>\r\n<br>\r\nKeep this T rated<br>\r\n<br>\r\nNo ending the Story! There is always a way it can continue!<br>\r\n<br>\r\nNo mental changes! characters may like another persons' life more, but not think they are the other person<br>\r\n<br>\r\n<span class=\"cblue\">Please ADD! <br>\r\n<br>\r\nIf you have any questions about the interactive or these rules, message me<br>\r\n<br>\r\nPlease ADD! If you know anyone who may like to add, tell them!<br>\r\n</span></td>",
         "id":2126261,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1597806120,
-        "modified":1597806120,
+        "last_full_update":1598562120,
+        "modified":1598562120,
         "pretty_title":"Danganronpa body swap"
     }
 }

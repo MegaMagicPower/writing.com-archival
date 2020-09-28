@@ -181,6 +181,70 @@
             "id":2737300,
             "title":"Maleficent was after her and Mommy Evie wasn..."
         },
+        "1113":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Continue",
+                "She likes to be babied",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is this the reason Mal likes wearing diapers?</span></div></span></div>",
+            "created":1600318800,
+            "id":2904899,
+            "title":"something else"
+        },
+        "11132":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Jane.",
+                "Evie.",
+                "By someone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Not having a real childhood, she liked to be babied, but, by who?</span></div></span></div>",
+            "created":1600318800,
+            "id":2904902,
+            "title":"She likes to be babied"
+        },
+        "111323":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Her dad Hades",
+                "Audrey",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who else could Mal want to baby her?</span></div></span></div>",
+            "created":1600318800,
+            "id":2904904,
+            "title":"By someone else."
+        },
+        "1113233":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Fairy godmother",
+                "Dizzy",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who else could Mal want to baby her?</span></div></span></div>",
+            "created":1600318800,
+            "id":2904906,
+            "title":"Someone else"
+        },
+        "11132332":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Not at first, took some convincing."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was Dizzy open to the idea, though?</span></div></span></div>",
+            "created":1600318800,
+            "id":2904908,
+            "title":"Dizzy"
+        },
         "112":{
             "author_id":"jd88237",
             "author_name":"jdawg1985",
@@ -489,6 +553,30 @@
             "created":1568782800,
             "id":2720370,
             "title":"Audrey takes Mal someplace the can be alone"
+        },
+        "11411211221":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "yep",
+                "somewhere else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>does Audrey take Mal to her castle?</span></div></span></div>",
+            "created":1599714000,
+            "id":2900800,
+            "title":"RC 1"
+        },
+        "114112112211":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Another part of Audrey's castle."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Mal soon woke up in a nursery?</span></div></span></div>",
+            "created":1599714000,
+            "id":2900806,
+            "title":"yep"
         },
         "114113":{
             "author_id":"supreme123",
@@ -1480,6 +1568,67 @@
             "created":1568782800,
             "id":2720379,
             "title":"something else"
+        },
+        "1153132":{
+            "author_id":"descendants789",
+            "author_name":"Descendants freak",
+            "choices":[
+                "Maleficent ",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who else could know Mal isn\u2019t potty trained?</span></div></span></div>",
+            "created":1600318800,
+            "id":2904818,
+            "title":"Someone Else"
+        },
+        "11531321":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Maleeficent decided not to potty train Mal",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does the mistress of all evil know Mal isn't potty trained?</span></div></span></div>",
+            "created":1600318800,
+            "id":2904885,
+            "title":"Maleficent "
+        },
+        "11531322":{
+            "author_id":"descendants789",
+            "author_name":"Descendants freak",
+            "choices":[
+                "Hades",
+                "Someone else "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who else could know Mal isn\u2019t potty trained?</span></div></span></div>",
+            "created":1600318800,
+            "id":2904819,
+            "title":"Someone else"
+        },
+        "115313221":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "She tells him",
+                "He witnessed her having an accident",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does Hades know about his daughter not being potty trained?</span></div></span></div>",
+            "created":1600318800,
+            "id":2904889,
+            "title":"Hades"
+        },
+        "1153132212":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "She Wets Herself",
+                "She Messes Herself"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What type of accident does Hades notice his daughter have?</span></div></span></div>",
+            "created":1600318800,
+            "id":2904894,
+            "title":"He witnessed her having an accident"
         },
         "11532":{
             "author_id":"supreme123",
@@ -4353,6 +4502,32 @@
             "id":2873308,
             "title":"new adoption law"
         },
+        "1353213":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Evie and Doug",
+                "Jay and Lonnie",
+                "someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>who else adopts Audrey due to this new Law?</span></div></span></div>",
+            "created":1599714000,
+            "id":2900798,
+            "title":"Others."
+        },
+        "13532131":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Gives her rules.",
+                "Magically dresses her like a baby, or SE."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Evie first regress Audrey?</span></div></span></div>",
+            "created":1599714000,
+            "id":2900808,
+            "title":"Evie and Doug"
+        },
         "13533":{
             "author_id":"kameron94",
             "author_name":"Kameron",
@@ -5557,8 +5732,8 @@
         "description":"<td align=\"left\" class=\"norm\">the girls from all 3 Disney descendants movies, the wicked world animated short series, and the isle of the lost books, why is up to you.<br>\r\n<br>\r\nthe rules are this.<br>\r\n<br>\r\nrule 1. no weight gain<br>\r\nrule 2. no killing characters<br>\r\nrule 3. don't \"end\" a story before it gets started. I will delete those.<br>\r\nrule 4. no insulting religion</td>",
         "id":2199435,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1595469600,
-        "modified":1598195160,
+        "last_full_update":1600368420,
+        "modified":1600368420,
         "pretty_title":"Disney descendants girls diapered"
     }
 }

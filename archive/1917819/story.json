@@ -150,6 +150,54 @@
             "id":1835037,
             "title":"Oh, the irony."
         },
+        "11433":{
+            "author_id":"mindlessdog",
+            "author_name":"Draxus",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>A Doberman?</span></div></span></div>",
+            "created":1598763600,
+            "id":2894612,
+            "title":"Something else."
+        },
+        "114331":{
+            "author_id":"mindlessdog",
+            "author_name":"Draxus",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is he found and taken in by Roscoe and DeSoto then?</span></div></span></div>",
+            "created":1598763600,
+            "id":2894613,
+            "title":"Yes"
+        },
+        "1143311":{
+            "author_id":"mindlessdog",
+            "author_name":"Draxus",
+            "choices":[
+                "At the start",
+                "A different time"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>At what point in the movie does this happy?</span></div></span></div>",
+            "created":1598850000,
+            "id":2895216,
+            "title":"Yes"
+        },
+        "11433112":{
+            "author_id":"mindlessdog",
+            "author_name":"Draxus",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>During the climax of the movie?</span></div></span></div>",
+            "created":1598850000,
+            "id":2895220,
+            "title":"A different time"
+        },
         "115":{
             "author_id":"jobobo19",
             "author_name":"carl.a.pruuitt",
@@ -311,6 +359,18 @@
             "id":2528254,
             "title":"An overfed pampered...kitty"
         },
+        "1153321":{
+            "author_id":"mindlessdog",
+            "author_name":"Draxus",
+            "choices":[
+                "The dogs eventually find him",
+                "He remains with Georgette"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>But does he get found by Fagin's gang at all or does he stay with Georgette until Jenny finds him?</span></div></span></div>",
+            "created":1599195600,
+            "id":2897598,
+            "title":"Yes"
+        },
         "1153322":{
             "author_id":"mrmasterplan",
             "author_name":"MrMasterplan",
@@ -323,6 +383,30 @@
             "created":1576645200,
             "id":2761158,
             "title":"Maybe one of these?"
+        },
+        "11533222":{
+            "author_id":"mindlessdog",
+            "author_name":"Draxus",
+            "choices":[
+                "He becomes self-centred and egotistical like Georgette",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What changes about him?</span></div></span></div>",
+            "created":1598763600,
+            "id":2894611,
+            "title":"He experiences mental changes"
+        },
+        "115332222":{
+            "author_id":"mindlessdog",
+            "author_name":"Draxus",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>He becomes savage and cruel ala Roscoe and DeSoto.</span></div></span></div>",
+            "created":1598763600,
+            "id":2894624,
+            "title":"Other"
         },
         "12":{
             "author_id":"maccar110",
@@ -390,6 +474,102 @@
             "created":1411880400,
             "id":1863254,
             "title":"DaiKaiju TF."
+        },
+        "1253":{
+            "author_id":"mindlessdog",
+            "author_name":"Draxus",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about he becomes another dog breed?</span></div></span></div>",
+            "created":1598763600,
+            "id":2894618,
+            "title":"Other."
+        },
+        "12531":{
+            "author_id":"mindlessdog",
+            "author_name":"Draxus",
+            "choices":[
+                "Doberman",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which one?</span></div></span></div>",
+            "created":1598763600,
+            "id":2894619,
+            "title":"Yes"
+        },
+        "125311":{
+            "author_id":"mindlessdog",
+            "author_name":"Draxus",
+            "choices":[
+                "Roscoe and DeSoto",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What's the cause?</span></div></span></div>",
+            "created":1598763600,
+            "id":2894620,
+            "title":"Doberman"
+        },
+        "1253111":{
+            "author_id":"mindlessdog",
+            "author_name":"Draxus",
+            "choices":[
+                "Resserected",
+                "During\\before the movie"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are they back to life somehow or is this set before thier deaths?</span></div></span></div>",
+            "created":1598763600,
+            "id":2894621,
+            "title":"Roscoe and DeSoto"
+        },
+        "12531111":{
+            "author_id":"mindlessdog",
+            "author_name":"Draxus",
+            "choices":[
+                "Revenge",
+                "They want a new member to make them a trio"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Why are they doing this?</span></div></span></div>",
+            "created":1598850000,
+            "id":2895214,
+            "title":"Resserected"
+        },
+        "125311112":{
+            "author_id":"mindlessdog",
+            "author_name":"Draxus",
+            "choices":[
+                "...produces a collar much like thier own",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>Dodger struts through the streets, looking for anyone to steal valuables from. Suddenly, he is tackled into an alley and slammed into a brick wall. \"What's the big idea pal?\" He glares at his assailant but is visibly shaken when he sees two all too familiar figures block the entrance, trapping him. \"Hello Dodger, remember us?\" \"H-how?!\" \"Who knows? We just came back for a little payback. Afterall, we always have felt like we've been missing s third member.\" Roscoe tackles Dodger to the ground whilst DeSoto...</span></div></div>",
+            "created":1598936400,
+            "id":2895651,
+            "title":"They want a new member to make them a trio"
+        },
+        "1253111122":{
+            "author_id":"mindlessdog",
+            "author_name":"Draxus",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does he bite Dodger in the neck?</span></div></span></div>",
+            "created":1598936400,
+            "id":2895653,
+            "title":"Other"
+        },
+        "12531111221":{
+            "author_id":"mindlessdog",
+            "author_name":"Draxus",
+            "choices":[
+                "His head",
+                "His feet"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Roscoe holds Dodger's mouth shut whilst DeSoto tears into his neck, making Dodger feel very queasy. Roscoe gets off of him but a sudden spasm prevents him from getting up. <br>\r\nWhat part of him changes first?</span></div></span></div>",
+            "created":1598936400,
+            "id":2895662,
+            "title":"Yes"
         },
         "13":{
             "author_id":"wildweasel22",
@@ -1113,8 +1293,8 @@
         "description":"<td align=\"left\" class=\"norm\">This is a fanfic of Oliver and company characters going threw some Tf's and there can be crossovers<br>\r\n<br>\r\n</td>",
         "id":1917819,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1576675260,
-        "modified":1576675260,
+        "last_full_update":1599257040,
+        "modified":1599257040,
         "pretty_title":"Oliver And Company Transformations"
     }
 }

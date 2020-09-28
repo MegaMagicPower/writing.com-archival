@@ -847,6 +847,18 @@
             "id":2814769,
             "title":"Girl"
         },
+        "121":{
+            "author_id":"mouse108",
+            "author_name":"Dark Queen",
+            "choices":[
+                "Understands what to do but doesnt want to",
+                "doesnt understand what to do"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>They seem to be grasping it slowly... but why is this</span></div></span></div>",
+            "created":1600146000,
+            "id":2903560,
+            "title":"Progress is slow and training is taking a long ..."
+        },
         "124":{
             "author_id":"diokno44",
             "author_name":"Filipino4-ever",
@@ -887,6 +899,32 @@
             "created":1586235600,
             "id":2815146,
             "title":"They can pee fine, but they don't like poop..."
+        },
+        "124343":{
+            "author_id":"mouse108",
+            "author_name":"Dark Queen",
+            "choices":[
+                "busy and noisey",
+                "untidy",
+                "other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what about the public bathrooms bothers this little lass</span></div></span></div>",
+            "created":1600146000,
+            "id":2903562,
+            "title":"Public"
+        },
+        "1243431":{
+            "author_id":"diokno44",
+            "author_name":"Filipino4-ever",
+            "choices":[
+                "Juniper",
+                "Anna",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>The public bathrooms are too noisey and crowded for her, so she has trouble \"going\" where there are other people in the bathroom. <br>\r\n<br>\r\nNow, who do we follow?<br>\r\n<br>\r\nJuniper, age 3. Doesn't like using the potty when others aside from family are in there?<br>\r\n<br>\r\nAnna, age 4. Will wait til the bathroom is empty before going.</span></div></div>",
+            "created":1600318800,
+            "id":2904875,
+            "title":"busy and noisey"
         }
     },
     "info":{
@@ -897,8 +935,8 @@
         "description":"<td align=\"left\" class=\"norm\">For every potty wonder child who takes to it like a fish to water, there's a kid who doesn't. Whether it's because they take forever, throw massive fits, are two-steps-forward-one-step-back, have a ton of accidents, backslide after making progress, or some other reason, these kids are not easy trainers.<br>\r\n<br>\r\nQuick and easy rules: Don't be a creep, be logical, do your homework, and try to keep it realistic.</td>",
         "id":2218351,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1597517760,
-        "modified":1597686420,
+        "last_full_update":1600364040,
+        "modified":1600364040,
         "pretty_title":"Potty Training Can Be A Nightmare!"
     }
 }

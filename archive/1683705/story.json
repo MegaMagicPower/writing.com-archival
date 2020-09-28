@@ -225,6 +225,31 @@
             "id":2188136,
             "title":"Fire"
         },
+        "1313":{
+            "author_id":"gpgclean",
+            "author_name":"YugiohPKMN ",
+            "choices":[
+                "Ponyta",
+                "Vulpix",
+                "More Choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>(Oi. Always leave an option open for other choices.)<br>\r\n<br>\r\nSo you want Ponyta or a diffrent Fire-type, such as Vulpix or some other fire type?</span></div></span></div>",
+            "created":1598763600,
+            "id":2894390,
+            "title":"You sure?"
+        },
+        "13132":{
+            "author_id":"gpgclean",
+            "author_name":"YugiohPKMN ",
+            "choices":[
+                "Boy",
+                "Girl"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are you a vixen or a reynard?</span></div></span></div>",
+            "created":1600491600,
+            "id":2905835,
+            "title":"Vulpix"
+        },
         "134":{
             "author_id":"kemaox",
             "author_name":"otonman",
@@ -309,8 +334,8 @@
         "description":"<td align=\"left\" class=\"norm\">You wake up one day as a pokemon, another pokemon comes along and you create an exploration team! Please keep this E-rated! No killing, and nothing too graphic. Please keep cursing to a minimum. Otherwise, have fun! This story will continue through Generation V so you can add Zorua, Zoruark, Reshiram, Zekrom and the others, but only when you know more about them. One more thing, good grammer please. No text language!</td>",
         "id":1683705,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1469837460,
-        "modified":1469837460,
+        "last_full_update":1600507740,
+        "modified":1600507740,
         "pretty_title":"Pokemon Gold Rescue Team"
     }
 }

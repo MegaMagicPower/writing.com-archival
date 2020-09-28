@@ -1306,6 +1306,69 @@
             "id":2871397,
             "title":"Gabby"
         },
+        "13112":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Feeding her like a baby.",
+                "Anything else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>We see Alex first diapering Sam?</span></div></span></div>",
+            "created":1599886800,
+            "id":2901816,
+            "title":"Alex"
+        },
+        "131122":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Breastfeeding her",
+                "Spoon feeding her baby food",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does Alex feed Sam like a baby?</span></div></span></div>",
+            "created":1599886800,
+            "id":2901828,
+            "title":"Feeding her like a baby."
+        },
+        "1311221":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah, gently latching on when things were ready.",
+                "Refused, but was polite about it.",
+                "Tried to run, or SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Sam agree to this idea, though?</span></div></span></div>",
+            "created":1599886800,
+            "id":2901839,
+            "title":"Breastfeeding her"
+        },
+        "1311222":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup.",
+                "Not yet."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Alex was spoon feeding her friend peaches from a baby food jar, but, was Sam already dressed like a baby?</span></div></span></div>",
+            "created":1599886800,
+            "id":2901841,
+            "title":"Spoon feeding her baby food"
+        },
+        "1311223":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Sure.",
+                "Milk, or SE."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She passes her a baby bottle, but, what's in it, a special baby formula?</span></div></span></div>",
+            "created":1599886800,
+            "id":2901847,
+            "title":"Something else"
+        },
         "13113":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
@@ -1492,6 +1555,18 @@
             "id":2871606,
             "title":"another babyish style"
         },
+        "13113122":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup.",
+                "Wants them to bond more, or SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Clover knows Sam is overwhelmed with being the team leader, and several close calls they had on missions?</span></div></span></div>",
+            "created":1599886800,
+            "id":2901863,
+            "title":"something else"
+        },
         "132":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
@@ -1616,6 +1691,18 @@
             "id":2741719,
             "title":"something else"
         },
+        "1342":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "On purpose."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Alex regress her friend by accident?</span></div></span></div>",
+            "created":1599886800,
+            "id":2901871,
+            "title":"Alex."
+        },
         "1343":{
             "author_id":"kameron94",
             "author_name":"Kameron",
@@ -1653,6 +1740,31 @@
             "created":1570856400,
             "id":2732121,
             "title":"other option"
+        },
+        "134333":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "yeah",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>does Sam get stressed to the point that her mind shuts down in a way that mentally regresses her? (I've heard that this can actually happen in real life with some people)</span></div></span></div>",
+            "created":1599886800,
+            "id":2901869,
+            "title":"Others"
+        },
+        "1343331":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Newborn.",
+                "2 years old.",
+                "Other ages."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>(Interesting diea. I haven't heard of it before.)<br>\r\nThis happens to the combination of her school and spy life getting to her. She mentally becomes what age?</span></div></span></div>",
+            "created":1599886800,
+            "id":2901870,
+            "title":"yeah"
         },
         "135":{
             "author_id":"kameron94",
@@ -1974,6 +2086,122 @@
             "created":1592370000,
             "id":2852749,
             "title":"part of a new law that was passed"
+        },
+        "135322221":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Clover.",
+                "Alex.",
+                "Clover's mother, Stella, or anyone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Sam soon found out her new parent would be...</span></div></span></div>",
+            "created":1599886800,
+            "id":2901814,
+            "title":"Yeah"
+        },
+        "1353222213":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Stella",
+                "Carmen",
+                "someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>is it Clover's mother Stella that adopts Sam Due to this law?</span></div></span></div>",
+            "created":1599886800,
+            "id":2901875,
+            "title":"Clover's mother, Stella, or anyone else."
+        },
+        "13532222131":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Clover dresses her new baby sister.",
+                "Stella does, or SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do her and Sam's new big sister, Clover, go over rules for her?</span></div></span></div>",
+            "created":1599886800,
+            "id":2901876,
+            "title":"Stella"
+        },
+        "135322221313":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "yes",
+                "Clover and Stella get to work setting up Sam's nursery ",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>does Stella dress her new baby daughter?</span></div></span></div>",
+            "created":1599886800,
+            "id":2901901,
+            "title":"Stella does, or SE"
+        },
+        "1353222213131":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Talked to Stella as herself.",
+                "Helped her with rules for her, or SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>As Stella got Sam dressed and diapered, did Sam start acting like a baby?</span></div></span></div>",
+            "created":1599886800,
+            "id":2901902,
+            "title":"yes"
+        },
+        "1353222213132":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup.",
+                "Anything else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>They had help from Alex, Carmen and Jerry even. Soon, things such as a changing table, crib, and other things were set up. That done, were rules arranged?</span></div></span></div>",
+            "created":1599886800,
+            "id":2901903,
+            "title":"Clover and Stella get to work setting up Sam..."
+        },
+        "13532222131321":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Stella",
+                "Clover",
+                "both"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>who set up the rules for Sam?</span></div></span></div>",
+            "created":1599886800,
+            "id":2901906,
+            "title":"Yup."
+        },
+        "135322221313211":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Sure.",
+                "Nah, Clover diapers and dresses her new sister.",
+                "Stella dresses her daughter, or Alex does, or SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>1: Sam would act like a baby when at home. 2: She could act like herself when in public is she wished. 3: Alex would be her aunt, or babysitter. Same for Carmen. 4: She'd be punished if she misbehaved. Other rules?</span></div></span></div>",
+            "created":1599886800,
+            "id":2901908,
+            "title":"Stella"
+        },
+        "13532222132":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Carmen dresses her new baby daughter.",
+                "Alex dresses her little sister, or SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do Carmen and Alex first get Sam'd nursery ready?</span></div></span></div>",
+            "created":1599886800,
+            "id":2901905,
+            "title":"Carmen"
         },
         "14":{
             "author_id":"kameron94",
@@ -3309,6 +3537,32 @@
             "id":2769756,
             "title":"yeah"
         },
+        "15133332212213211":{
+            "author_id":"superaustin12",
+            "author_name":"superaustin15",
+            "choices":[
+                "Sam",
+                "Clover",
+                "Alex."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who do we follow?</span></div></span></div>",
+            "created":1600059600,
+            "id":2903083,
+            "title":"Yeah"
+        },
+        "151333322122132112":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Diapered her.",
+                "Bottle fed her.",
+                "Anything else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Clover first found out what was going on when Stella did what?</span></div></span></div>",
+            "created":1600059600,
+            "id":2903084,
+            "title":"Clover"
+        },
         "1513333222":{
             "author_id":"kameron94",
             "author_name":"Kameron",
@@ -3612,6 +3866,32 @@
             "id":2871629,
             "title":"Sam oldest, Clover the middle, and Alex the you..."
         },
+        "15133332222212313213":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "yeah",
+                "yes, with a crib big enough for all 3",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>do the spies set up a nursery for themselves?</span></div></span></div>",
+            "created":1599886800,
+            "id":2901920,
+            "title":"SE"
+        },
+        "151333322222123132132":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Dressed each other in baby outfits.",
+                "Arranged rules, or SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>They did, including a crib, changing table and more big enough for all 3 of them. They next worked out ages for themselves when in baby mode at the house?</span></div></span></div>",
+            "created":1599886800,
+            "id":2901923,
+            "title":"yes, with a crib big enough for all 3"
+        },
         "1513333222221231322":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
@@ -3673,6 +3953,31 @@
             "created":1596344400,
             "id":2879761,
             "title":"they end up staying at a diaper themed camp"
+        },
+        "1513333222233":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Yep",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do the girls have a run it with a robot nanny?</span></div></span></div>",
+            "created":1600059600,
+            "id":2903151,
+            "title":"something else"
+        },
+        "15133332222331":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Sure.",
+                "A WOOHP gadget gone awry.",
+                "Hmm, SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>It's one a villain has created?</span></div></span></div>",
+            "created":1600059600,
+            "id":2903158,
+            "title":"Yep"
         },
         "152":{
             "author_id":"kameron94",
@@ -4279,6 +4584,31 @@
             "id":2857939,
             "title":"the spies adopt their mothers"
         },
+        "1523233113":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "yeah",
+                "someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>are all 3 of the spies mother's adopted by one of the girls?</span></div></span></div>",
+            "created":1599886800,
+            "id":2901914,
+            "title":"someone else"
+        },
+        "15232331131":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Alex.",
+                "Clover."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is it Sam that adopts all 3?</span></div></span></div>",
+            "created":1599886800,
+            "id":2901919,
+            "title":"yeah"
+        },
         "153":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
@@ -4783,8 +5113,8 @@
         "description":"<td align=\"left\" class=\"norm\">The girls, or their mothers, or other ladies are turned back into infants.<br>\r\nRules.<br>\r\nNo death, gore, sex, drugs and so on. Mental or physical regression is allowed. Anything gross stays in the diapers.<br>\r\n</td>",
         "id":2199597,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1596858300,
-        "modified":1596858300,
+        "last_full_update":1600139880,
+        "modified":1600139880,
         "pretty_title":"Totally Spies (Adult Babies.)"
     }
 }

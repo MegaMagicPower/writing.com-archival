@@ -54,6 +54,18 @@
             "id":2136881,
             "title":"6"
         },
+        "11111":{
+            "author_id":"martin8991",
+            "author_name":"Owlman",
+            "choices":[
+                "call him to pick you up",
+                "try to get out of the bedroom"
+            ],
+            "content":"<div class=\"\"><div> <span>You and your  cousin William, where stacking a tower of lego in his bedroom when suddenly you shrink to the size of a lego brick. You are so shocked by this event that you hide behind the nearest lego brick you see, so he can not see you.<br>\r\n<br>\r\nWhat will you do now?</span></div></div>",
+            "created":1598418000,
+            "id":2891834,
+            "title":"He is a boy!"
+        },
         "113":{
             "author_id":"endo12",
             "author_name":"Endo",
@@ -805,8 +817,8 @@
         "description":"<td align=\"left\" class=\"norm\">You and your cousin find two amulets, yours makes you indestructible, and hers/his gives the ability to shrink people.  You wind up getting swallowed but you are not harmed.  Now you live in your cousins stomach.</td>",
         "id":1946569,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1595860980,
-        "modified":1595860980,
+        "last_full_update":1598451780,
+        "modified":1598451780,
         "pretty_title":"Living in the stomach of your cousin"
     }
 }

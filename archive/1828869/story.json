@@ -384,6 +384,43 @@
             "id":2840857,
             "title":"The Lost Body-Exchange Move (Body Swapping)"
         },
+        "114311":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "...just go ahead and swap. Better that Tigress not find out about it!",
+                "...wait until Tigress comes out of meditation and then ask her for permission.",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>Eventually, Po decided to try out the move on Tigress. She was the best fighter of the Furious Five, very athletic, and very hardcore. She had also been Po's favorite hero, back before he had become the Dragon Warrior.<br>\r\nTo now have the power to actually BECOME her, was pretty much a dream come true for him!<br>\r\n<br>\r\nPo was practically giddy with anticipation as he quietly snuck outside to find Tigress. He knew that she usually got up very early to meditate before everyone else, exept maybe for Shifu, would wake up.<br>\r\nSure enough, Po found Tigress in deep meditation at her favorite spot behind the Palace, appearently having just arrived.<br>\r\n<br>\r\nBeing as stealthy as he could, (which was an impressive amount; especially because of his considerable gut), he carefully crept closer to have a better look at Tigress.<br>\r\n<br>\r\nPo had to fight the urge to squeal with delight as he recognized the position that Tigress was meditating in. It was known as \"The Stance of Focus\", and it was one that suited Po perfectly. This particular meditation pose put the user into such a deep state of meditation, that they were practically blind and deaf to anything else.<br>\r\n<br>\r\nPo knew this well; he had once, as a joke, tried to snap Tigress out of this state by setting off a firecracker right behind her, only to recieve no reaction from her whatsoever. Things had then escalated, with the result that Po had ended up lighting practically an entire arsenal of fireworks behind her and ending up with the same result.<br>\r\nIt was therefore extremely unlikely that Tigress would snap out of this state if he were to use the Body-Swapping Technique on her and likely wouldn't snap out of it for a while.<br>\r\n<br>\r\nPo was looking forward to becoming Tigress more and more. Sure; he would end up being a girl, which was a downside, but that was nothing compared to the upsides.<br>\r\nNot only would he be slim for once, but he would also be lighter and more flexible. Plus; Po had also been wondering what it would be like to be a different species, even if his target was the opposite gender.<br>\r\n<br>\r\nPo was just about to use the Technique, when a thought entered his mind. It really wasn't ethical to use a secret Kung-Fu move on Tigress without her approval. Maybe he should wait until she was done meditating and then ask her to try it out with him.<br>\r\nOn the other hand, perhaps he should go through with the swap right away. The move was supposed to be a secret, after all, so if he were to tell Tigress about it, she would likely disapprove of him using it. Plus, he doubted that Tigress would want to spend any time inside his own flabby body, even if it was only for a few moments.<br>\r\n<br>\r\nPo thought about it before deciding to...</span></div></div>",
+            "created":1599022800,
+            "id":2895989,
+            "title":"Find Tigress"
+        },
+        "11432":{
+            "author_id":"mindlessdog",
+            "author_name":"Draxus",
+            "choices":[
+                "The user",
+                "Anyone they choose"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who does it transform? Poe or someone else?</span></div></span></div>",
+            "created":1598936400,
+            "id":2895659,
+            "title":"The Secret Form-Alteration Move (Transformation..."
+        },
+        "114322":{
+            "author_id":"mindlessdog",
+            "author_name":"Draxus",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is Poe aware of this?</span></div></span></div>",
+            "created":1598936400,
+            "id":2895660,
+            "title":"Anyone they choose"
+        },
         "115":{
             "choices":[
                 "The following morning.",
@@ -1584,6 +1621,18 @@
             "created":1566363600,
             "id":2705523,
             "title":"Someone else"
+        },
+        "1253322":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "age change",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about a age change?</span></div></span></div>",
+            "created":1599022800,
+            "id":2895992,
+            "title":"No, choose something else"
         },
         "15":{
             "author_id":"kkduser100",
@@ -2788,8 +2837,8 @@
         "description":"<td align=\"left\" class=\"norm\">In this interactive, you take control of one of the Kung Fu Panda characters or an OC. Pretty much anything is fine within reason. Rules will be put in place if I feel like it. Read, Enjoy, ADD!</td>",
         "id":1828869,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1597430280,
-        "modified":1597430280,
+        "last_full_update":1599030420,
+        "modified":1599030420,
         "pretty_title":"Kung Fu Panda Interactive"
     }
 }

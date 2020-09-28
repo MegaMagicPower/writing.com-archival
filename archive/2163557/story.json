@@ -117,6 +117,18 @@
             "id":2564738,
             "title":"Totally Spies"
         },
+        "12521":{
+            "author_id":"yejdbdinsknsk8",
+            "author_name":"Yejdbdinsknsk8",
+            "choices":[
+                "Invite Clover in to Have Some \"Fun\" With Her And Get To Know Her",
+                "Help Clover Track Down Sam And Alex and Go on a adventure"
+            ],
+            "content":"<div class=\"\"><div> <span>You Are A Man Named James,21,avrage guy, You Were Watching Some Old Totally Spies DVD's You Found in the attic And were binge watching the series late at night<br>\r\n<br>\r\nWoah That Clover is as Hot as always you said, too bad she never gets a man, Just Then you hear a crash in the Backyard<br>\r\n as you went to investigate you see a Blonde Girl in a red Jumpsuit standing there<br>\r\n<br>\r\nClover you accidently said out loud<br>\r\n<br>\r\nwho goes there Clover said<br>\r\n<br>\r\nIm James,and why are you in my backyard<br>\r\n<br>\r\nMe,Sam and Alex were sent Through this Portal,along with Jerry,Mandy,And Tim Scam And we Got separated<br>\r\n<br>\r\nIve Always Wanted To Meet you James Said<br>\r\n<br>\r\nYou do look kinda Hot said Clover Drooling<br>\r\n <br>\r\nWhat Do James And Clover do next?</span></div></div>",
+            "created":1600923600,
+            "id":2909294,
+            "title":"Clover."
+        },
         "12523":{
             "author_id":"yejdbdinsknsk8",
             "author_name":"Yejdbdinsknsk8",
@@ -177,6 +189,18 @@
             "created":1587963600,
             "id":2825993,
             "title":"Rebecca Cunningham"
+        },
+        "1253312":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about Kit Cloudkicker?</span></div></span></div>",
+            "created":1601096400,
+            "id":2910620,
+            "title":"Someone else"
         },
         "125332":{
             "author_id":"batboyjw",
@@ -239,6 +263,21 @@
             "id":2565605,
             "title":"No"
         },
+        "1253322321":{
+            "author_id":"jobobo19",
+            "author_name":"carl.a.pruuitt",
+            "choices":[
+                "Sunni Gummi",
+                "Cubbi Gummi",
+                "Grammi Gummi",
+                "Princess Calla",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which character did you find on your back yard?</span></div></span></div>",
+            "created":1600923600,
+            "id":2909320,
+            "title":"Yes"
+        },
         "1253322322":{
             "author_id":"kameron94",
             "author_name":"Kameron",
@@ -293,6 +332,147 @@
             "created":1597813200,
             "id":2887771,
             "title":"Other choices"
+        },
+        "1253322322255":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about Tiny Toon Adventures?</span></div></span></div>",
+            "created":1601096400,
+            "id":2910618,
+            "title":"Another cartoons show"
+        },
+        "12533223222551":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have chosen Tiny Toon Adventures. Now, did you find Buster Bunny sleeping in your yard?</span></div></span></div>",
+            "created":1601096400,
+            "id":2910619,
+            "title":"Yes"
+        },
+        "125332232225512":{
+            "author_id":"jobobo19",
+            "author_name":"carl.a.pruuitt",
+            "choices":[
+                "Fifi la Fume",
+                "Babs Bunny",
+                "Furrball",
+                "Plucky Duck",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which character did you find on your back yard?</span></div></span></div>",
+            "created":1601182800,
+            "id":2911269,
+            "title":"No, someone else"
+        },
+        "13":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Calvin and Hobbes",
+                "Dennis the Menace",
+                "Garfield",
+                "Peanuts",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which comic book series will it be from?</span></div></span></div>",
+            "created":1601096400,
+            "id":2910594,
+            "title":"Comic Books"
+        },
+        "132":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "The American Version (Blonde Hair and Dog Named Ruff)",
+                "The British Version (Black Hair and Dog Named Gnasher)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Dennis the Menace it is, but which version?</span></div></span></div>",
+            "created":1601096400,
+            "id":2910595,
+            "title":"Dennis the Menace"
+        },
+        "1321":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Dennis Mitchell",
+                "George Wilson",
+                "Someone Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You've chosen the American version. Now, which Dennis the Menace character was asleep in your yard?</span></div></span></div>",
+            "created":1601096400,
+            "id":2910596,
+            "title":"The American Version (Blonde Hair and Dog Named..."
+        },
+        "13213":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was it Joey McDonald?</span></div></span></div>",
+            "created":1601096400,
+            "id":2910597,
+            "title":"Someone Else"
+        },
+        "132131":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about Margaret Wade?</span></div></span></div>",
+            "created":1601096400,
+            "id":2910598,
+            "title":"Yes"
+        },
+        "1321312":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about Ruff?</span></div></span></div>",
+            "created":1601096400,
+            "id":2910602,
+            "title":"No, someone else"
+        },
+        "134":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Charlie Brown",
+                "Snoopy",
+                "Someone Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have chosen Peanuts. Now, which character do you find asleep in your yard?</span></div></span></div>",
+            "created":1601096400,
+            "id":2910609,
+            "title":"Peanuts"
+        },
+        "1343":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Lucy Van Pelt",
+                "Linus Van Pelt",
+                "Someone Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about these characters?</span></div></span></div>",
+            "created":1601096400,
+            "id":2910610,
+            "title":"Someone Else"
         },
         "14":{
             "author_id":"redwolf12",
@@ -395,6 +575,18 @@
             "id":2868174,
             "title":"The Blue Devil"
         },
+        "142111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "The Video Games",
+                "The TV Series"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which version of Sonic will it be?</span></div></span></div>",
+            "created":1601096400,
+            "id":2910608,
+            "title":"Sonic from the game series/TV series"
+        },
         "14212":{
             "author_id":"tailziscool123",
             "author_name":"foxhound",
@@ -406,6 +598,42 @@
             "created":1539752400,
             "id":2564826,
             "title":"No someone else!"
+        },
+        "142122":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about Dr. Eggman?</span></div></span></div>",
+            "created":1601096400,
+            "id":2910604,
+            "title":"No someone else!"
+        },
+        "1421222":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about Knuckles the Echidna?</span></div></span></div>",
+            "created":1601096400,
+            "id":2910605,
+            "title":"No, someone else"
+        },
+        "14212222":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about Shadow the Hedgehog?</span></div></span></div>",
+            "created":1601096400,
+            "id":2910607,
+            "title":"No, someone else"
         },
         "1422":{
             "author_id":"redwolf12",
@@ -550,6 +778,42 @@
             "created":1597986000,
             "id":2889180,
             "title":"Other"
+        },
+        "145332":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about Rocket Knight Adventures?</span></div></span></div>",
+            "created":1601096400,
+            "id":2910599,
+            "title":"Another Fire Emblem Game/Something else"
+        },
+        "1453321":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have chosen Rocket Knight Adventures. Now, was it Sparkster who was sleeping in your yard?</span></div></span></div>",
+            "created":1601096400,
+            "id":2910600,
+            "title":"Yes"
+        },
+        "14533212":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about Axel Gear?</span></div></span></div>",
+            "created":1601096400,
+            "id":2910601,
+            "title":"No, someone else"
         },
         "15":{
             "author_id":"supreme123",
@@ -717,6 +981,18 @@
             "id":2825995,
             "title":"something else"
         },
+        "152331":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Kairel",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which character will you find?</span></div></span></div>",
+            "created":1601096400,
+            "id":2910351,
+            "title":"Yes"
+        },
         "152332":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
@@ -751,8 +1027,8 @@
         "description":"<td align=\"left\" class=\"norm\">Inspired by a friend of mine on Deviantart's RP starter, <br>\r\n<a class=\"blue2roll\" rel=\"nofollow\" href=\"https://www.deviantart.com/professorsodaman/journal/Fave-Character-Amnesia-RP-754020384\" target=\"_blank\">https://www.deviantart.com/professorsodaman/journal/Fave-Character-Amnesia-RP-75...</a><br>\r\n<br>\r\nYou're at home, late at night when you hear a crash outside. Outside happens to be a character from a tv show/movie/comic/any media unconcious in a crater in your yard<br>\r\n<br>\r\nWhat you do is up to you. If you leave them alone, you have less to explain but they are in more danger. If you bring them in, you could get them some warmth but you'd have to explain more to them.<br>\r\n<br>\r\nWHat happens from there is completely up to you.<br>\r\n<br>\r\nThe character can be anyone, a video game character, a cartoon character, an anime character, just about anyone.<br>\r\n<br>\r\nHave fun!</td>",
         "id":2163557,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1598057400,
-        "modified":1598057400,
+        "last_full_update":1601136360,
+        "modified":1601253360,
         "pretty_title":"Favorite Character sleeping in your yard"
     }
 }

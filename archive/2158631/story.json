@@ -2,7 +2,7 @@
     "chapters":{
         "1":{
             "author_id":"dannyboy101",
-            "author_name":"Trigger The Chu",
+            "author_name":"T-Dag",
             "choices":[
                 "Before Asriel met Chara.",
                 "During the time Asriel met Chara.",
@@ -17,7 +17,7 @@
         },
         "11":{
             "author_id":"dannyboy101",
-            "author_name":"Trigger The Chu",
+            "author_name":"T-Dag",
             "choices":[
                 "Story 1",
                 "Story 2",
@@ -254,7 +254,7 @@
         },
         "12":{
             "author_id":"dannyboy101",
-            "author_name":"Trigger The Chu",
+            "author_name":"T-Dag",
             "choices":[
                 "Story 1",
                 "Story 2",
@@ -522,7 +522,7 @@
         },
         "12111111122121112222111":{
             "author_id":"dannyboy101",
-            "author_name":"Trigger The Chu",
+            "author_name":"T-Dag",
             "choices":[
                 "Was slow, but definite.",
                 "Was faster than expected."
@@ -715,6 +715,18 @@
             "created":1580619600,
             "id":2781454,
             "title":"Instant gain spell"
+        },
+        "142211":{
+            "author_id":"juan_004",
+            "author_name":"Katagon",
+            "choices":[
+                "A hearty home-made feast.",
+                "An alchemical concoction to recover faster."
+            ],
+            "content":"<div class=\"\"><div> <span>In the mirror he saw a slightly pudgier goat. The results were not amazing, but were results nonetheless.<br>\r\nHe perhaps overestimated his own power, as without the unnatural aid of \"DT\" he was weaker than either of his parents.<br>\r\nNot to be discouraged after just one attempt the prince headed towards the kitchen.<br>\r\nDetermined to get better results on his next attempt, he takes out the ingredients to cook a grand meal in order to regain his strength.<br>\r\nWhen choosing his ingredients we went for...</span></div></div>",
+            "created":1600405200,
+            "id":2905475,
+            "title":"He's a weak caster, he barely managed a few..."
         },
         "142212":{
             "author_id":"juan_004",
@@ -958,6 +970,18 @@
             "id":2849211,
             "title":"Massive"
         },
+        "143331":{
+            "author_id":"juan_004",
+            "author_name":"Katagon",
+            "choices":[
+                "Stuck to his goal and asked only for a salad.",
+                "Accepted only some of the gifts, he didn't want to be rude."
+            ],
+            "content":"<div class=\"\"><div> <span>\"I'll start a diet right now!\" he thought out loud<br>\r\nProud of his decision he walked through the mostly empty halls when a sweet aroma caught his attention. Was that... butterscotch pie?<br>\r\nHis belly growled in anticipation, but true to his conviction, Asriel turned the other way to stay clear of the sweet temptation.<br>\r\n\"Focus, you overgrown marshmallow... \" But his train of thought was once again rudely interrupted by the clatter of the cafeteria's cutlery.<br>\r\n\"Great idea! I'll just get a salad or something light to calm down a bit.\"<br>\r\nAs he entered the hall filled with long tables, a portion of the castle's staff stood up in reverence, while another portion who knew the young prince a bit more personally approached him with gifts.<br>\r\n\"Good afternoon your highness, would you care for some casserole?\" \"what about roasted potatoes?\" \"We got some glam-burgers, light on the glitter, as usual\"<br>\r\nThe chatter of the room suddenly sparked up as the prince suddenly found himself surrounded by people offering him food. <br>\r\nAt any other time this would be greatly appreciated, but he realized his reputation preceded him, and he would have to deal with this if he hoped to ever lose some weight.<br>\r\nUsing all the willpower he had left he...</span></div></div>",
+            "created":1599109200,
+            "id":2897110,
+            "title":"The diet starts now!"
+        },
         "143332":{
             "author_id":"juan_004",
             "author_name":"Katagon",
@@ -1009,18 +1033,56 @@
             "created":1556427600,
             "id":2651865,
             "title":"Start as Immobile."
+        },
+        "1551":{
+            "author_id":"juan_004",
+            "author_name":"Katagon",
+            "choices":[
+                "Very thin",
+                "A bit fat",
+                "Enormous"
+            ],
+            "content":"<div class=\"\"><div> <span>The massive prince was sleeping after another one of his massive feasts in his favorite spot, a large patch of golden flowers in which he could almost see the light of the sun. But his relaxing nap was about to be interrupted, he suddenly woke up as he heard a scream quickly falling towards him and then suddenly it hit him... or rather, they hit him.<br>\r\nA short human, he could tell it was a kid, and they appeared hurt, but luckily for them, Asriel's huge belly took most of the hit.<br>\r\n\"Ouch! That really hurt, your know!\" The prince yelled at them but regained his composure.<br>\r\n\"Are you... okay? that was quite a fall.\" he said worried for them, stretched his arms as much as his padded body would allow and had the human rest on his chest.<br>\r\nThe human was...</span></div></div>",
+            "created":1599195600,
+            "id":2897259,
+            "title":"Sleeping."
+        },
+        "15513":{
+            "author_id":"juan_004",
+            "author_name":"Katagon",
+            "choices":[
+                "Frisk",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><div> <span>The human was incredibly fat and heavy, the prince was lucky their lard was so soft, because this was by far the biggest human Asriel had ever seen. In fact, they were almost as big as himself.<br>\r\n\"I've never seen a human as wide as you... no offense... I'm just used to being the biggest around.\"<br>\r\nWhile the blobby goat was talking the poor human was barely catching their breath. <br>\r\n\"I'm Asriel, it's nice to meet you!\" The prince exclaimed cheerfully, while the human still gasping just answered... \"My name is... \"</span></div></div>",
+            "created":1599454800,
+            "id":2898859,
+            "title":"Enormous"
+        },
+        "1553":{
+            "author_id":"juan_004",
+            "author_name":"Katagon",
+            "choices":[
+                "Toriel, Caretaker of the Ruins",
+                "Alphys, the Royal Scientist",
+                "Sans the skeleton"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>While the prince gladly stuffs himself with a neverending feast, we turn to...</span></div></span></div>",
+            "created":1600923600,
+            "id":2909301,
+            "title":"Someone else."
         }
     },
     "info":{
         "author_id":"dannyboy101",
-        "author_name":"Trigger The Chu",
+        "author_name":"T-Dag",
         "brief_description":"The goat boy from Undertale puts on some pounds. Or a lot.",
         "created":1526857620,
         "description":"<td align=\"left\" class=\"norm\">A WG interaction story with Asriel as the main character.<br>\r\n<br>\r\nRules:<br>\r\n<br>\r\nCan gain as much as you want. From chubby to the size of the underground and beyond.<br>\r\nNothing sexual.<br>\r\nNo disgusting stuff.<br>\r\nNo vore.<br>\r\n<br>\r\nOther than that, have fun<br>\r\n<br>\r\n</td>",
         "id":2158631,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1597485720,
-        "modified":1597485720,
+        "last_full_update":1600975440,
+        "modified":1600975440,
         "pretty_title":"Asriel Weight Gain"
     }
 }

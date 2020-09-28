@@ -351,6 +351,18 @@
             "id":1287917,
             "title":"next."
         },
+        "152332":{
+            "author_id":"bigboy420",
+            "author_name":"bigboy320",
+            "choices":[
+                "Scarless Zuko",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The last option didn't give you an other option so here's one</span></div></span></div>",
+            "created":1599022800,
+            "id":2896179,
+            "title":"Continue with scarless Zuko?"
+        },
         "153":{
             "author_id":"batboyjw",
             "author_name":"Jokermask18",
@@ -533,6 +545,30 @@
             "id":1340069,
             "title":"Something else."
         },
+        "15523121122":{
+            "author_id":"bigboy420",
+            "author_name":"bigboy320",
+            "choices":[
+                "Lets keep going with Yukone",
+                "Yeah lets go with book two or three"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Continue with Yukone or travel back during the events of book two or three</span></div></span></div>",
+            "created":1599022800,
+            "id":2896186,
+            "title":"Or..."
+        },
+        "155231211222":{
+            "author_id":"bigboy420",
+            "author_name":"bigboy320",
+            "choices":[
+                "Sometime during book two",
+                "Sometime during book three"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>which one then</span></div></span></div>",
+            "created":1599022800,
+            "id":2896187,
+            "title":"Yeah lets go with book two or three"
+        },
         "155232":{
             "choices":[
                 "Girly girl",
@@ -542,6 +578,30 @@
             "created":1509166800,
             "id":2407935,
             "title":"Toph the girly girl."
+        },
+        "1552321":{
+            "author_id":"bigboy420",
+            "author_name":"bigboy320",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So is Toph the only one who had their personality reversed or was it the whole gaang.</span></div></span></div>",
+            "created":1599022800,
+            "id":2896182,
+            "title":"What about everyone else"
+        },
+        "15523212":{
+            "author_id":"bigboy420",
+            "author_name":"bigboy320",
+            "choices":[
+                "That sounds good",
+                "No I think I have a better idea"
+            ],
+            "content":"<div class=\"\"><div> <span>So this is what I think their personalities reversed should look like<br>\r\n<br>\r\n<br>\r\nKatara - Tomboy (Pretty much just acts like toph)<br>\r\n<br>\r\nToph - Girly Girl (like katara but times 300)<br>\r\n<br>\r\nSokka - sensitive and shy<br>\r\n<br>\r\nAang - Pretty much always in a bad mood and very serious</span></div></div>",
+            "created":1599022800,
+            "id":2896185,
+            "title":"Does this sound good"
         },
         "1552322":{
             "author_id":"kameron94",
@@ -576,8 +636,8 @@
         "description":"<td align=\"left\" class=\"norm\">keep to main story line have fun</td>",
         "id":1355821,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1586416920,
-        "modified":1586416920,
+        "last_full_update":1599062040,
+        "modified":1599062040,
         "pretty_title":"Avatar the last air bender what if story"
     }
 }

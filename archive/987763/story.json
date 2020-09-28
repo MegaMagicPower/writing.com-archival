@@ -3055,6 +3055,18 @@
             "id":2886119,
             "title":"What happens"
         },
+        "114212121111111121":{
+            "author_id":"kaitlynchauhot",
+            "author_name":"Kaitlyn Chau",
+            "choices":[
+                "You had a Girls Week with your mom\u2019s friends",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>Sarah walked out of the swap machine surprised and then said \u201cI\u2019m okay with this actually.\u201d<br>\r\nThen you carried your mother and put her in Sarah\u2019s bed and you all went back to sleep. You woke up and your mom (in Sarah\u2019s body) said \u201cyour mom is picking up your kids and having them for the week.\u201d Later that day your Grandma picked up your mom and sister. <br>\r\nWhat did you decide to do for the week?</span></div></div>",
+            "created":1598850000,
+            "id":2895157,
+            "title":"Surprise Swap"
+        },
         "1142121211111112":{
             "author_id":"kaitlynchauhot",
             "author_name":"Kaitlyn Chau",
@@ -8857,6 +8869,16 @@
             "id":321006,
             "title":"two weeks later."
         },
+        "154122":{
+            "choices":[
+                "As Dad",
+                "As Yourself"
+            ],
+            "content":"<div class=\"\"><div> <span>You have safely returned to your body as had your father. You are more than relieved especially since it was getting annoying that he flaunting as you. When your father sees you he gets upset and walks away. Who knows where he went? You decide to work out until you are tired and close your eyes for a bit.<br>\r\n<br>\r\nUnbeknowest to you, your father secretly puts you back in the machine. By the time you wake up the machine has already activated.<br>\r\n<br>\r\n\"Hey!\" You shout.<br>\r\n<br>\r\nIt continues until it stops, by then you see yourself...</span></div></div>",
+            "created":1601096400,
+            "id":2910136,
+            "title":"You switch back"
+        },
         "1542":{
             "author_name":"paranormalfan",
             "choices":[
@@ -10328,8 +10350,8 @@
         "description":"<td align=\"left\" class=\"norm\">Your dad invents a body swapping machine. But when members of your family discover it, things get freaky.</td>",
         "id":987763,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1597538100,
-        "modified":1597538100,
+        "last_full_update":1598898120,
+        "modified":1601103360,
         "pretty_title":"Body Swap Machine"
     }
 }

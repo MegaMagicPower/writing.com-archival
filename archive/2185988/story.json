@@ -203,6 +203,104 @@
             "id":2880918,
             "title":"My hero academia"
         },
+        "1551":{
+            "author_id":"patwickersham",
+            "author_name":"rockysavannah",
+            "choices":[
+                "Females",
+                "Males",
+                "Both"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span><span style=\"font-family:times new roman, serif\">Who meets Frenchfry?</span></span></div></span></div>",
+            "created":1599886800,
+            "id":2901621,
+            "title":"Yes"
+        },
+        "15511":{
+            "author_id":"patwickersham",
+            "author_name":"rockysavannah",
+            "choices":[
+                "Ochaco Uraraka",
+                "Tsuyu Asui",
+                "Momo Yaoyorozu",
+                "Mina Ashido",
+                "Other Class 1-A Girls"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span><span style=\"font-family:times new roman, serif\">Which lucky lady will be fattened up?</span></span></div></span></div>",
+            "created":1599886800,
+            "id":2901625,
+            "title":"Females"
+        },
+        "155115":{
+            "author_id":"patwickersham",
+            "author_name":"rockysavannah",
+            "choices":[
+                "Kyoka Jiro",
+                "Toru Hagakure",
+                "Move on to Class 1-B"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span><span style=\"font-family:times new roman, serif\">Who else is available?</span></span></div></span></div>",
+            "created":1599886800,
+            "id":2901626,
+            "title":"Other Class 1-A Girls"
+        },
+        "1551153":{
+            "author_id":"patwickersham",
+            "author_name":"rockysavannah",
+            "choices":[
+                "Itsuka Kendo",
+                "Ibara Shiozaki",
+                "Pony Tsunotori",
+                "Kinoko Komori",
+                "Other Class 1-B Girls"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span><span style=\"font-family:times new roman, serif\">Who will be chosen?</span></span></div></span></div>",
+            "created":1599886800,
+            "id":2901628,
+            "title":"Move on to Class 1-B"
+        },
+        "15511535":{
+            "author_id":"patwickersham",
+            "author_name":"rockysavannah",
+            "choices":[
+                "Setsuna Tokage",
+                "Yui Kodai",
+                "Reiko Yanagi",
+                "Move on to other students"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span><span style=\"font-family:times new roman, serif\">Got anyone else in mind?</span></span></div></span></div>",
+            "created":1599886800,
+            "id":2901629,
+            "title":"Other Class 1-B Girls"
+        },
+        "155115354":{
+            "author_id":"patwickersham",
+            "author_name":"rockysavannah",
+            "choices":[
+                "Chikuchi Togeike",
+                "Mei Hatsume",
+                "Bibimi Kenranzaki",
+                "Nejire Hado",
+                "Other Students"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span><span style=\"font-family:times new roman, serif\">What other students are left?</span></span></div></span></div>",
+            "created":1599886800,
+            "id":2901632,
+            "title":"Move on to other students"
+        },
+        "1551153545":{
+            "author_id":"patwickersham",
+            "author_name":"rockysavannah",
+            "choices":[
+                "Yuyu Haya",
+                "Mawata Fuwa",
+                "Move on to other ladies"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span><span style=\"font-family:times new roman, serif\">These are the last female students at this point, so choose carefully.</span></span></div></span></div>",
+            "created":1599886800,
+            "id":2901633,
+            "title":"Other Students"
+        },
         "1552":{
             "author_id":"blackbeltii",
             "author_name":"pirate king",
@@ -238,8 +336,8 @@
         "description":"<td align=\"left\" class=\"norm\">Frenchfry from lilo and stitch hunger returns and as gained the power to teleport between TV shows and reality </td>",
         "id":2185988,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1596636660,
-        "modified":1596636660,
+        "last_full_update":1599909060,
+        "modified":1599909060,
         "pretty_title":"Frenchfry fattens up"
     }
 }
