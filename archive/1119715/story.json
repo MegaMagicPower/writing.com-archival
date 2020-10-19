@@ -391,6 +391,18 @@
             "id":2343477,
             "title":"A forest, full of prey"
         },
+        "113212":{
+            "author_id":"deemo24",
+            "author_name":"Deemorph2",
+            "choices":[
+                "Yeah I would",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do you want to be a feral coyote?</span></div></span></div>",
+            "created":1601874000,
+            "id":2915744,
+            "title":"Other"
+        },
         "115":{
             "choices":[
                 "yes",
@@ -1238,6 +1250,18 @@
             "created":1588741200,
             "id":2831566,
             "title":"You swallow but soon snap back"
+        },
+        "1251112":{
+            "author_id":"leon_wolf",
+            "author_name":"Leon Wolf",
+            "choices":[
+                "Research facility",
+                "Just wing it"
+            ],
+            "content":"<div class=\"\"><div> <span>You walked for a bit, leaving the city and finding somewhere quiet to think about everything. \"Darean.\" Korumu's voice got your attention. You bring the two lions up to eye level. \"I got this ominous feeling about the doctor. You sure you should go see him?\" Korumu asks, clearly nervous.<br>\r\n<br>\r\n\"Not gonna lie, I'm on edge myself. But we have no idea what else is or might happen to me. Doc is the only one with answers. But I don't fully trust him.\" You explain as you found a nice out of the clearing to sit down. <br>\r\n<br>\r\nYou set Korumu and Lissa down beside you and lean back, looking at the sky. It was hard to believe that in the blink of an eye your whole world changed. Korumu and Lissa were talking about what they were going to do next. You couldn't return to the apartment, heck you were about the size of the building. And they seemed eager to find somewhere where the three of you would be able to stay together. <br>\r\n<br>\r\nYour ears twitched causing you to look towards the city as night was coming. \"What do you two think? Should I get checked out and find out what other side effects there are? Or should I just wing it and see what happens?\" You said softly, nervousness in your voice. You look down as Lissa tried to hug you, it brought a faint smile to your face. Korumu looked like he was deep in thought.<br>\r\n<br>\r\n\"I don't think the doctor is being up front with us. Going to the research facility may not be the best option. But just winging it seems dangerous too.\" Korumu mumbled. He groaned then scratched his head. \"Whatever you decide, Darean, I'll support you as best I can. I still owe you my life.\" <br>\r\n<br>\r\nYou reached over and gently patted Korumu's shoulder with your index finger. \"You don't owe me. We're best friends and friends look out for one another.\" You said. <br>\r\n<br>\r\nLissa looked, try to see your face. \"I know I'm always sickly, but I'll support you as best I can too.\" She says in a very chipper tone. <br>\r\n<br>\r\nYou nod as you think everything over again.</span></div></div>",
+            "created":1601355600,
+            "id":2912294,
+            "title":"Just outside the city"
         },
         "13":{
             "choices":[
@@ -5879,8 +5903,8 @@
         "description":"<td align=\"left\" class=\"norm\">This story is a hands on free-for-all.  Start as either a giant furry looking for a good time, or a tiny furry (or human) trying to avoid (or find ^_^) the giant furries.  Some restrictions, please put in the title whenever you add anything naughty for the younger people to avoid this section.  Thanks!</td>",
         "id":1119715,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1599059220,
-        "modified":1601185440,
+        "last_full_update":1601955240,
+        "modified":1601955240,
         "pretty_title":"Rampage of the Giant Furries"
     }
 }

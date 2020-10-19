@@ -488,6 +488,18 @@
             "id":2176495,
             "title":"Have more pills"
         },
+        "11213":{
+            "author_id":"numerio",
+            "author_name":"Tex",
+            "choices":[
+                "Break down crying",
+                "Wait"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What do you do?</span></div></span></div>",
+            "created":1601355600,
+            "id":2912351,
+            "title":"Readers choice"
+        },
         "1122":{
             "author_id":"tnargraef",
             "author_name":"Tnar",
@@ -4155,8 +4167,8 @@
         "description":"<td align=\"left\" class=\"norm\">The bottle contains Red and Blue candy, with can turn someone into a female or male dragon regardless of their original sex<br>\r\nAnybody can take as many candy as they want.<br>\r\nThe more candy you take the more dragonish and massive you will become.<br>\r\nRed pills will improve the female dragon attributes.<br>\r\nBlue pills will give you massive dragon muscles.<br>\r\nBlack pills are a mystery, and may be or not in the bottle..but the effects sure are extreme!<br>\r\nDragons tend to be smarter than humans.<br>\r\n<br>\r\n<br>\r\nLets play!.</td>",
         "id":1679104,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1600919160,
-        "modified":1600919160,
+        "last_full_update":1601397420,
+        "modified":1601397420,
         "pretty_title":"Dragon candy"
     }
 }

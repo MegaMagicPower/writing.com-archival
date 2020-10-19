@@ -2475,6 +2475,18 @@
             "id":2812454,
             "title":"Wet"
         },
+        "115231211111211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Angelica relax as he changed her?</span></div></span></div>",
+            "created":1601787600,
+            "id":2915175,
+            "title":"Yup"
+        },
         "11523121111122":{
             "author_id":"johnny2",
             "author_name":"littlejohn",
@@ -3841,6 +3853,174 @@
             "created":1564808400,
             "id":2696526,
             "title":"Tiny Toon Adventures."
+        },
+        "115233412":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "The Potty Years",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which episode shall we alter?</span></div></span></div>",
+            "created":1601701200,
+            "id":2914706,
+            "title":"Let's try an episode."
+        },
+        "1152334121":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Reader's Choice 1",
+                "Reader's Choice 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have chosen <i>The Potty Years</i>. Now, what is different about this episode?</span></div></span></div>",
+            "created":1601787600,
+            "id":2915144,
+            "title":"The Potty Years"
+        },
+        "11523341211":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does somebody other than Plucky get potty-trained?</span></div></span></div>",
+            "created":1601787600,
+            "id":2915145,
+            "title":"Reader's Choice 1"
+        },
+        "115233412111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Buster Bunny",
+                "Someone Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who gets potty-trained?</span></div></span></div>",
+            "created":1601787600,
+            "id":2915147,
+            "title":"Yes"
+        },
+        "1152334121112":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about Babs Bunny?</span></div></span></div>",
+            "created":1601787600,
+            "id":2915156,
+            "title":"Someone Else"
+        },
+        "1152334122":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Ruffled Ruffee",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about this episode?</span></div></span></div>",
+            "created":1601787600,
+            "id":2914897,
+            "title":"Something Else"
+        },
+        "11523341221":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Reader's Choice 1",
+                "Reader's Choice 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have chosen <i>Ruffled Ruffee</i>. Now, what is different about this episode?</span></div></span></div>",
+            "created":1601787600,
+            "id":2914898,
+            "title":"Ruffled Ruffee"
+        },
+        "115233412211":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Babs join Buster in sabotaging Ruffee's concert?</span></div></span></div>",
+            "created":1601787600,
+            "id":2914901,
+            "title":"Reader's Choice 1"
+        },
+        "1152334122111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "The Beginning",
+                "When Ruffee First Yells at Buster"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where in the episode do we begin?</span></div></span></div>",
+            "created":1601787600,
+            "id":2914918,
+            "title":"Yes"
+        },
+        "11523341221112":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "When Babs Helps Buster Prepare His Revenge Scheme",
+                "When Ruffee Performs at His Concert"
+            ],
+            "content":"<div class=\"\"><div> <span>Buster was practicing his electric guitar, and Babs was watching from a short distance. Buster was quite oblivious to the fact that his electric guitar was interfering with a children's concert that Ruffee was hosting. As Ruffee angrily walked up to Buster, Buster tested his electric guitar. Ruffee was standing right near Buster's speakers, but Buster was quite oblivious to the damage he just caused to Ruffee's ears as he launched Ruffee into the air, causing him to hit the ground. Ruffee walked up to Buster again, and this time, he tapped him on the shoulder. Buster turned to face him.<br>\r\n<br>\r\n\"Pardon me, friend, but would you please... BE QUIET?!\" Ruffee asked Buster. This shocked Babs.<br>\r\n<br>\r\n\"Ah, a music lover, eh? Wanna hear <i>Stairway to Heaven</i>?\" Buster asked Ruffee.<br>\r\n<br>\r\n\"I am doing a concert for impressionable children, and I do not need that electric sewage destroying their minds.\" Ruffee said as he snatched Buster's electric guitar.<br>\r\n<br>\r\n\"It isn't nice, it isn't gentle...\" Ruffee continued as he grabbed Buster's speakers and tossed them into Buster's burrow, plugging it up.<br>\r\n<br>\r\n\"IT ISN'T RUFFEE!\" yelled Ruffee. He then breathed heavily and calmed down.<br>\r\n<br>\r\n\"Do we understand?\" He asked Buster, who pulled out a carrot and chomped on it.<br>\r\n<br>\r\n\"Mmm-hmm.\" said Buster.<br>\r\n<br>\r\n\"Good boy.\" said Ruffee, and he slapped Buster on the back, launching him into the air and causing him to hit the ground. Babs was horrified when she saw this, and ran up to Buster as Ruffee walked away.<br>\r\n<br>\r\n\"Why that no-good man! He has no right to do any of that to you! You shouldn't have to stand for that!\" Babs told Buster.<br>\r\n<br>\r\n\"Which is why I'm not going to. I'm going to give him an attitude adjustment!\" Buster told Babs.<br>\r\n<br>\r\n\"Oh. What exactly did you have in mind?\" Babs asked Buster, who whispered something in her ear.<br>\r\n<br>\r\n\"Oh! I like it, it's sneaky, and it just might work!\" exclaimed Babs.<br>\r\n<br>\r\n<b>Where do we go next in the story?</b></span></div></div>",
+            "created":1601787600,
+            "id":2914926,
+            "title":"When Ruffee First Yells at Buster"
+        },
+        "115233412211121":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "His Bonnet",
+                "His Diaper"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Come on, Buster, let's show that guy what for!\" Babs told Buster as they walked up to Buster's burrow. They both grabbed Buster's speakers plugging it up and pulled them out. Then they jumped into Buster's burrow and ran into Buster's bedroom. Buster lay down on his bed and pulled up his shirt as Babs looked through his dresser drawer. She pulled out a cloth diaper, a yellow safety pin, and a green bonnet. Buster told her his plan to attend the concert disguised as a baby.<br>\r\n<br>\r\n<b>What did Babs put on Buster first?</b></span></div></div>",
+            "created":1601787600,
+            "id":2915002,
+            "title":"When Babs Helps Buster Prepare His Revenge Scheme"
+        },
+        "1152334122111212":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "A Mother",
+                "A Baby"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Okay, Buster. Hold still.\" Babs said as she placed the diaper onto his bottom and pinned it together. Then Buster pulled his shirt up over his head and tossed it aside. Afterwards, Babs tied his bonnet on.<br>\r\n<br>\r\n\"There. Now you look just like a baby.\" Babs told Buster. Buster got off his bed and looked at himself in a mirror.<br>\r\n<br>\r\n\"Well done, Babs. I really do look like a baby!\" he told Babs.<br>\r\n<br>\r\n\"All right, Buster, now you do me!\" Babs told Buster.<br>\r\n<br>\r\n\"Oh, so you want to get in on the act, too? You want us to pull a fast one on Ruffee?\" Buster asked Babs.<br>\r\n<br>\r\n\"Uh-huh!\" Babs told Buster.<br>\r\n<br>\r\n\"Well, okay, then. What do you want to be disguised as?\" Buster asked Babs.<br>\r\n<br>\r\n<b>What disguise does Babs go for?</b></span></div></div>",
+            "created":1601787600,
+            "id":2915005,
+            "title":"His Diaper"
+        },
+        "11523341221112122":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Her Bonnet",
+                "Her Diaper"
+            ],
+            "content":"<div class=\"\"><div> <span>\"I'd like to look like a baby, just like you.\" Babs told Buster.<br>\r\n<br>\r\n\"Well all right, then.\" Buster told Babs. He went over to his dresser drawer and pulled out another cloth diaper, another yellow safety pin, and a purple bonnet. Babs lay down on Buster's bed as this happened.<br>\r\n<br>\r\n<b>What does Buster put on Babs first?</b></span></div></div>",
+            "created":1601787600,
+            "id":2915141,
+            "title":"A Baby"
+        },
+        "115233412211121222":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Buster and Babs Arrive at Ruffee's Concert",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Okay, Babs. Hold still.\" Buster told Babs. He took off her skirt, placed the diaper onto her bottom, and pinned it together. Then he tied her bonnet on.<br>\r\n<br>\r\n\"There. Now you look just like a baby.\" Buster told Babs. Babs got off Buster's bed and looked at herself in the mirror.<br>\r\n<br>\r\n\"I gotta say, Buster, you've done a great job. Now we both look like babies.\" Babs told Buster, who was now holding a lollipop in his left hand and a rattle in his right.<br>\r\n<br>\r\n\"Come on, Babs, let's go teach that Ruffee a lesson!\" Buster told Babs, and the two disguised bunnies hopped their way to Ruffee's concert in the park.<br>\r\n<br>\r\n<b>What happens next?</b></span></div></div>",
+            "created":1601787600,
+            "id":2915143,
+            "title":"Her Diaper"
         },
         "11523342":{
             "author_id":"mrhawlprime",
@@ -13023,6 +13203,18 @@
             "id":2728667,
             "title":"Which character will get Alter/what if"
         },
+        "1153322333322332243121":{
+            "author_id":"smike666",
+            "author_name":"Dovakin",
+            "choices":[
+                "Go with this ",
+                "Some thing else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about turning Jake into a female character of the show and his sister into a boy ?</span></div></span></div>",
+            "created":1601787600,
+            "id":2914937,
+            "title":"Jake Long"
+        },
         "1153322333322332243122":{
             "author_id":"mrhawlprime",
             "author_name":" mrhawkprime",
@@ -13330,6 +13522,18 @@
             "created":1601096400,
             "id":2910326,
             "title":"An episode"
+        },
+        "11533223333223322432232225121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Should we make an episode in which Little Bear gets a flea?</span></div></span></div>",
+            "created":1602219600,
+            "id":2918307,
+            "title":"Yes"
         },
         "115332233332233224322322252":{
             "author_id":"johnny2",
@@ -14153,6 +14357,19 @@
             "id":2798836,
             "title":"No underwear for Emma"
         },
+        "12533332212222212":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "yeah",
+                "tries to barrow underwear from someone else",
+                "tries to go commando or something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>does Emma really have to wear pull-ups because Gladys sold her underwear?</span></div></span></div>",
+            "created":1601787600,
+            "id":2914928,
+            "title":"Pull ups"
+        },
         "1253333221222222":{
             "author_id":"kameron94",
             "author_name":"Kameron",
@@ -14390,6 +14607,33 @@
             "created":1563685200,
             "id":2690164,
             "title":"More likely ideas."
+        },
+        "125333322232131":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will this be an alternate version of Gabe's subplot in \"Termite Queen\"?</span></div></span></div>",
+            "created":1601787600,
+            "id":2914948,
+            "title":"Charlie gets growth spurts! The incredible grow..."
+        },
+        "1253333222321312":{
+            "author_id":"gilligfan",
+            "author_name":"PrincessKooh",
+            "choices":[
+                "A growth ray ",
+                "Aliens",
+                "Growth serum",
+                "Something else ",
+                "Readers choice "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>No <br>\r\nCharlie\u2019s growth spurts will be caused<br>\r\nby____</span></div></span></div>",
+            "created":1602046800,
+            "id":2917187,
+            "title":"No, something else."
         },
         "125333322232133":{
             "author_id":"supreme123",
@@ -17885,8 +18129,8 @@
         "description":"<td align=\"left\" class=\"norm\">Each category is broken down into two sections <br>\r\nAlter = change anything i.e: TG TF AR AP etc<br>\r\nWhat if = change the story line i.e: Johnny Test stuck as a dog<br>\r\n<br>\r\nSo any series Live Action, Cartoon or Anime, you can do anything you want however there\u2019s two exceptions <br>\r\n<br>\r\n1) Sex is fine but don\u2019t get to graphic <br>\r\n2) NO Vore <br>\r\n<br>\r\n<br>\r\n</td>",
         "id":2174708,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1596061020,
-        "modified":1601170200,
+        "last_full_update":1602299100,
+        "modified":1602299100,
         "pretty_title":"Altering TV series or TV What if "
     }
 }

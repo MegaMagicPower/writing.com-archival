@@ -494,6 +494,55 @@
             "id":2838969,
             "title":"No, Emma and Jessie is hanging it for her"
         },
+        "11133332313":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "portal",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>is it a portal that has Jessie sent to an alternate reality?</span></div></span></div>",
+            "created":1602997200,
+            "id":2923996,
+            "title":"Portal, or SE"
+        },
+        "111333323131":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She finds the portal in a mirror she gets as a birthday gift?</span></div></span></div>",
+            "created":1602997200,
+            "id":2923997,
+            "title":"portal"
+        },
+        "1113333231312":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "yeah",
+                "somewhere else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>does she fall through the portal when it randomly opens up in her room?</span></div></span></div>",
+            "created":1602997200,
+            "id":2923999,
+            "title":"SE"
+        },
+        "11133332313121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "In a crib.",
+                "On a changing table.",
+                "Somewhere else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She found herself being pulled into the portal, soon landing...</span></div></span></div>",
+            "created":1602997200,
+            "id":2924003,
+            "title":"yeah"
+        },
         "1113333232":{
             "author_id":"kameron94",
             "author_name":"Kameron",
@@ -3305,6 +3354,31 @@
             "id":2837313,
             "title":"yep"
         },
+        "131111":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "put Jessie down for a nap",
+                "set Jessie down to play with her new toys",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what do Zuri and Emma do on seeing a crib and Baby things set up for Jessie?</span></div></span></div>",
+            "created":1602910800,
+            "id":2923360,
+            "title":"Yeah"
+        },
+        "1311111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Zuri.",
+                "Emma."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who of the girls does this, though?</span></div></span></div>",
+            "created":1602910800,
+            "id":2923366,
+            "title":"put Jessie down for a nap"
+        },
         "131113":{
             "author_id":"kameron94",
             "author_name":"Kameron",
@@ -3329,6 +3403,56 @@
             "created":1593579600,
             "id":2860095,
             "title":"yeah"
+        },
+        "1311133":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "yep",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>do Emma and Zuri check Jessie to see if she needs a diaper change after the long trip to camp?</span></div></span></div>",
+            "created":1602910800,
+            "id":2923363,
+            "title":"something else"
+        },
+        "13111331":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Dry.",
+                "Wet."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Emma was the one to check, finding her...</span></div></span></div>",
+            "created":1602910800,
+            "id":2923368,
+            "title":"yep"
+        },
+        "131113312":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Emma",
+                "Zuri",
+                "someone else"
+            ],
+            "content":"<div class=\"\"><div> <span>on lifting Jessie's skirt, Emma saw that the images on Jessie's diaper had faded, indicating that Jessie had wet her diaper during the trip to camp.<br>\r\n<br>\r\nEmma: \"uh oh, looks like someone here needs her diaper changed.\"<br>\r\n<br>\r\nwho changed Jessie into a new diaper?</span></div></div>",
+            "created":1602910800,
+            "id":2923400,
+            "title":"Wet."
+        },
+        "1311133122":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Struggled.",
+                "Talked with them as herself, or as a baby, though nervous about doing so."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Zuri was soon at work doing so. Jessie stayed still as it was done?</span></div></span></div>",
+            "created":1602910800,
+            "id":2923401,
+            "title":"Zuri"
         },
         "1312":{
             "author_id":"jd88237",
@@ -3552,7 +3676,7 @@
         "id":2217541,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
         "last_full_update":1599227280,
-        "modified":1599227280,
+        "modified":1603035960,
         "pretty_title":"Jessie and Bunk'd AB/DL."
     }
 }

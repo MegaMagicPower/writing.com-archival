@@ -66,6 +66,31 @@
             "id":2422873,
             "title":"3 years old"
         },
+        "111311":{
+            "author_id":"dragonknight52",
+            "author_name":"Sybriss3",
+            "choices":[
+                "Join the ball game.",
+                "Play with the blocks."
+            ],
+            "content":"<div class=\"\"><div> <span>I just sat there for a minute glancing around between the room and the kids. Most looked like my new toddler age. I briefly thought about escaping, but soon realized that it was impossible. I was stuck here. The daycare lady noticed I was just sitting there and gave me a look that made me shudder. Deciding I had no choice I stood and quickly toddled over to the group of boys. The toddlers, dressed in a variety of outfits were either playing alone but most were in groups doing various activities.<br>\r\n<br>\r\nAgain I decided on just sitting in a corner somewhere, but the ladies words came back and I groaned around the pacifier. Without much choice I reluctantly decided to join in, if only to keep out of trouble with the staff for now. Though mom was getting a piece of my mind when she gets back! Really only two groups caught your attention now.<br>\r\n<br>\r\nOne was a large group of toddlers kicking and chasing around a ball. There didn't seem to be any rules besides \"kick the ball hard\" but it looked surprisingly fun.<br>\r\nA much smaller group also caught your attention. These potential playmates were surrounded by large plastic and wood blocks, set pieces, and various toy vehicles. They appeared to be building something with them.<br>\r\n<br>\r\nAfter a moment you decide to</span></div></div>",
+            "created":1602478800,
+            "id":2919958,
+            "title":"Go to one of the boys"
+        },
+        "113":{
+            "author_id":"dragonknight52",
+            "author_name":"Sybriss3",
+            "choices":[
+                "5 year old.",
+                "4 year old.",
+                "Even younger."
+            ],
+            "content":"<div class=\"\"><div> <span>\"Uggg! This is soooo stupid!\" Ben shouted from back of his mothers van. The young boy was hunched over, arms crossed, hazel eyes burning from under a messy mop of brown hair. His whole body radiating anger. Ben had always had a temper, but ever since he turned thirteen just a few months ago it had gotten worse.  \"Why do I have to go anyway! A daycare is for babies and I'm a teenager! I can look after myself!\" He argued again.<br>\r\n<br>\r\n\"You are going because no-one will be here all day and I already paid!\" His mother shouted form the front seat. Normally the woman was even tempered, but her sons complaining had really grated on her nerves. Ben just \"harrumphed\" but didn't argue. His mom was notoriously stubborn when she maid up her mind and he knew arguing would only get him in trouble.<br>\r\n<br>\r\nThey soon arrived, and it looked surprisingly plain. The biggest feature was the name 'A.R Daycare\" painted in big bold letters above the door. Ben though ignored most of the details, stomping angerly behind his mother and not even bothering to get a good look at the receptionist or entrance.<br>\r\n<br>\r\nSoon his mom had all the paperwork signed and smiled patting him on the head. \"All right sweetie. Your all set. I'll come get you later today. Have fun!\" Ben just mumbled something and ducked away. \"Whatever! Lets just get this stupid thing over with.\" He grumbled as his mom left. \"Oh, my, my. Someone has a temper. Do you need a timeout.\" The receptionist said with a giggle.<br>\r\n<br>\r\nBen felt his temper flair. \"I, am not a baby! I am a teenager!\" He shouted stomping a foot. The woman though didn't flinch and just kept smiling. \"Sure you are sweetie, but your acting like a child. No worries though, we'll have that sorted soon.\" Ben only had a moment to look confused before he felt a prick in his arm. His vision became blurry and he felt the world change before he blacked out. <br>\r\n<br>\r\nWhen he regained his senses he saw that the receptionist was carrying him. \"How?\" Ben thought still groggy, before realizing just how, big everything looked. \"What?\" He thought looking around his mind trying to process what he was seeing. \"Oh, is someone awake?\" The lady asked smiling down at him. \"Just in time too. We're about to enter the play area. Looks like our little treatment worked well. Congrats sweetie, you're now a....\"</span></div></div>",
+            "created":1602910800,
+            "id":2923633,
+            "title":"Ben"
+        },
         "12":{
             "author_id":"karlmarx700",
             "author_name":"karlmarx700",
@@ -144,6 +169,56 @@
             "created":1601182800,
             "id":2911274,
             "title":"Yes"
+        },
+        "1211211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Were you given anything to wear first?</span></div></span></div>",
+            "created":1601960400,
+            "id":2916083,
+            "title":"Cookies and milk."
+        },
+        "12112112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did you actually want to stay naked for a little longer?</span></div></span></div>",
+            "created":1602046800,
+            "id":2916664,
+            "title":"No"
+        },
+        "1211213":{
+            "author_id":"wviewerdwj1421",
+            "author_name":"DJ Noah",
+            "choices":[
+                "Someone joins you.",
+                "You felt a pressure build up.",
+                "You felt odd.",
+                "Nothing happened."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0You just smile as a plate of Crackers and a glass of apple juice was set in front of you. The daycare lady gave a nod and you start to eat. Did something happen while you snack?</span></div></span></div>",
+            "created":1601960400,
+            "id":2916076,
+            "title":"Crackers and apple juice."
+        },
+        "12112134":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did you realize you were still naked?</span></div></span></div>",
+            "created":1601960400,
+            "id":2916099,
+            "title":"Nothing happened."
         },
         "12113":{
             "author_id":"karlmarx700",
@@ -443,6 +518,30 @@
             "id":2911276,
             "title":"You wait until you go to daycare tomorrow."
         },
+        "1221321221121153":{
+            "author_id":"wviewerdwj1421",
+            "author_name":"DJ Noah",
+            "choices":[
+                "She smile with approval.",
+                "She was disappointed."
+            ],
+            "content":"<div class=\"\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u201cSweetie why do you want to get younger?\u201d Asked your mother who was giving you a smile.<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u201cWell I enjoy wearing diapers but I\u2019m a child and can eventually not need them. I want to wear them constantly.\u201d You answer with a smile on your face. What was your mother\u2019s response.</span></div></div>",
+            "created":1601960400,
+            "id":2916081,
+            "title":"She asks why."
+        },
+        "12213212211211531":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does your mother say you can still use your diapers even at your current age?</span></div></span></div>",
+            "created":1601960400,
+            "id":2916088,
+            "title":"She smile with approval."
+        },
         "1221321221122":{
             "author_id":"johnny2",
             "author_name":"littlejohn",
@@ -673,6 +772,21 @@
             "id":2911281,
             "title":"You wanted Nana."
         },
+        "1241321143312151":{
+            "author_id":"wviewerdwj1421",
+            "author_name":"DJ Noah",
+            "choices":[
+                "The employee asked for more information.",
+                "You wet yourself ",
+                "You pooped yourself",
+                "You pee and pooped yourself ",
+                "Timeskip to the end of the day."
+            ],
+            "content":"<div class=\"\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0You giggled as Nana stops bouncing you then you try to snuggle in her arms.<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u201cSeem like this little one has grown attached to you.\u201d The employee teased Nana at the sight. Nana just shrugged as she hold you close.<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u201cIt happens at times why do you think other staff members takes maternity leave when we lose a \u2018bad\u2019 client?\u201d Asked Nana.</span></div></div>",
+            "created":1601960400,
+            "id":2916112,
+            "title":"Giggled."
+        },
         "1241322":{
             "author_id":"karlmarx700",
             "author_name":"karlmarx700",
@@ -764,6 +878,19 @@
             "id":2290814,
             "title":"Can I be back in my Mama's tummy?"
         },
+        "1312":{
+            "author_id":"dragonknight52",
+            "author_name":"Sybriss3",
+            "choices":[
+                "Yes. It might be fun to meet the other cubs.",
+                "No. You are not ready to meet the others just yet. And Rhea is comfy.",
+                "*yawn* Looks like your not fully awake yet. Nap time!"
+            ],
+            "content":"<div class=\"\"><div> <span>You let out a groan as you came to. Your head felt heavy, your body weak and your brain fuzzy. Blinking and trying to wake up the first thought that entered your head was \"What did they give me?\" With your senses returning you notice that you were on your back, lying on something soft, and something was spinning above you. \"Huh?\"<br>\r\n<br>\r\nYou blink finally waking up, and immediately noticing several things. The objects spinning above you was a mobile, like the ones placed above a babies crib. Which was fitting since you were in one! \"Why am I in a giant crib!?!\" You think sitting up, and immediately noticing just how, big everything was. At that moment Rhea, the kangaroo worker, appeared in your vision.<br>\r\n<br>\r\n\"Hey little Ronak, enjoy your nap?\" Her smile was warm and her voice soft, but you were more concerned by the fact that she was now a giant! You're eyes widen as you realize that everything was normal size, you were small! A quick glance showed you were dressed just like a little cub, complete with thick padding around your bottom.  You didn't really know how young you were, you just knew you were a little cub now!<br>\r\n<br>\r\n\"Wat appen ta me?\" You cry, before immediately covering your mouth at your childish voice. Rhea immediately picked you up, holding you to her chest trying to calm you. \"There, there. its ok little one, no need to worry. Its all ok.\" You feel your fear start to reside and you throw a questioning, almost pleading look at the worker. The kangaroo just smiles. 'I take it you have some questions, well let me answer them.\"<br>\r\n<br>\r\nA moment later saw the roo sitting down with you sitting in her lap. \"This is the A.R. Daycare, for Age regression daycare.\" Rhea explained. \"Every one of our \"guests\" get a shot of, well, call it youth serum. Don't ask how it works cause I don't know. I don't make it. All it know is that it requires a lot of paperwork and signatures before we can use it, and it turns everyone into cute cubs.\"<br>\r\n<br>\r\nShe ruffled your hair a bit at that. \"Everyone that comes in here gets to experience a second cubhood, or puppyhood in your case. Your mother saw how unhappy you were as a teen and has been going through the process of getting you enrolled here for weeks now, so welcome to your first day of a second puppyhood!\" She grins but your just look at her gobsmacked. Sure, your life wasn't great, but to become a cub again! And your mom could have at least told you what she had planned!<br>\r\n<br>\r\n\"Ow wong me wike tis?\" You manage to squeak out. Rhea frowns a bit. \"Well, at least the rest of the day. Your mother did pay for a full package so you are a cub until she come to pick you up this afternoon. After that, its up to you. We do have a serum that will reverse the effects of the youth shot that will let you grow back up, or you can stay like this and grow back up naturally, one day at a time.\"<br>\r\n<br>\r\nYou frown. Well at least you weren't a puppy forever, and the explanation did leave you feeling better. Still, as much as you missed your childhood you weren't sure about this. At the same time though, you were not sure you wanted to go back to your teenage life either. Right now though had no choice. You were a puppy until pickup so you might as well try to enjoy your second childhood. There were worse things after all.<br>\r\n<br>\r\nYou nod and Rhea beams down at you. \"That's a good puppy! Now sweetie, are you ready to meet the other cubs and play?\"<br>\r\nAfter thinking it over for a moment you say<br>\r\n<br>\r\n</span></div></div>",
+            "created":1601701200,
+            "id":2914514,
+            "title":"You were laying on your back, and everything lo..."
+        },
         "1313":{
             "author_id":"pinkielicious",
             "author_name":"Lightning Strike",
@@ -800,8 +927,8 @@
         "description":"<td align=\"left\" class=\"norm\">Okay, so you are a teenager, living in a small town. Today though your mom thinks you should be attending Daycare. You don't know why, you're old enough to look after yourself when she's gone. But your mother is stubborn when she makes a decision she thinks is best for you and there is no changing that. When you get to this new daycare called A.R. Daycare, you will find out why it is called that. (Hint hint, age regression story.)<br>\r\n<br>\r\nSo there will be no death in this story. No child abuse. Only vore allowed is unbirth. I want to keep the mention of diaper usage to a minimal. Don't make chapters that go into heavy detail about the main character (you) using the diaper. Oldest age for the main character once regressed will be 5 years old. Youngest will be to 8 months of the \"mother\" being pregnant with them. So no absorption/digestion chapters. There can be chapters that take place outside the daycare. Breastfeeding and grownups interacting lovingly with the main character is highly encouraged. Do not turn the mother or caretakers of the Daycare into control freaks that makes the main character do their bidding. Keep these chapters loving and caring chapters. I will allow lesbian women couples, but no gay men couples in this story. Gender swapping is allowed, but don't make it where the main character switches back and forth repeatedly. One more thing, do not make mental regression chapters. This will only be physical regression.<br>\r\n<br>\r\nAny chapter that goes against the rules stated above will be deleted. If you have any questions, feel free to ask me on my on site email. Have fun adding to the story. Help me to get at least 45 chapters up and continue after that...<b> Please.</b></td>",
         "id":2040521,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1600205100,
-        "modified":1601256060,
+        "last_full_update":1602072600,
+        "modified":1602977520,
         "pretty_title":"A.R. Daycare"
     }
 }

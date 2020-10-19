@@ -7557,6 +7557,21 @@
             "id":2361294,
             "title":"Chris and The Change Emerald"
         },
+        "155331122":{
+            "author_id":"rbm5",
+            "author_name":"RBM5",
+            "choices":[
+                "Tails",
+                "Knuckles",
+                "Eggman",
+                "Shadow",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>More options</span></div></span></div>",
+            "created":1602392400,
+            "id":2919251,
+            "title":"Someone else"
+        },
         "1553312":{
             "author_id":"adventchild",
             "author_name":"AdventChild",
@@ -9645,6 +9660,21 @@
             "created":1580360400,
             "id":2780332,
             "title":"No, choose someone else"
+        },
+        "1553322222222222222222222222222222222222":{
+            "author_id":"rbm5",
+            "author_name":"RBM5",
+            "choices":[
+                "Fire Force",
+                "Black Clover",
+                "Goblin Slayer",
+                "Overlord",
+                "Something else "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>More options</span></div></span></div>",
+            "created":1602997200,
+            "id":2924302,
+            "title":"or something else"
         }
     },
     "info":{
@@ -9655,8 +9685,8 @@
         "description":"<td align=\"left\" class=\"norm\">Transform the characters of your favorite anime. Physically, mentally, etc. Sex is allowed, but please try to keep it to a minimum, and don't make it descriptive. And don't end the story.<br>\r\n<br>\r\nHave fun.</td>",
         "id":1632037,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1584906300,
-        "modified":1584906300,
+        "last_full_update":1602455880,
+        "modified":1603074720,
         "pretty_title":"Anime Transform Story"
     }
 }

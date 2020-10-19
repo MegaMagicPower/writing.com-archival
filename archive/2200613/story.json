@@ -282,6 +282,30 @@
             "created":1569819600,
             "id":2725897,
             "title":"Other"
+        },
+        "1451":{
+            "author_id":"thepirate1",
+            "author_name":"The pirate",
+            "choices":[
+                "ap",
+                "ar "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>progression or regression?</span></div></span></div>",
+            "created":1601960400,
+            "id":2916363,
+            "title":"Age change"
+        },
+        "14512":{
+            "author_id":"thepirate1",
+            "author_name":"The pirate",
+            "choices":[
+                "12",
+                "other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what age does she become?</span></div></span></div>",
+            "created":1602219600,
+            "id":2917922,
+            "title":"age regression"
         }
     },
     "info":{
@@ -292,8 +316,8 @@
         "description":"<td align=\"left\" class=\"norm\">This is the basic gist of this story. Gravity falls characters. They get transformed. maybe someone uses them or something? who knows, I'll only be setting up a few pages of this, but I WILL be monitoring everything. If something happens in this story that I'm not okay with (which will be really specific, as I am ok with most things), it will be taken down. Regardless, have fun! (to those who are asking if I have an idea for the story, if I get one, I'll add it. Otherwise, just add to the story yourself!)</td>",
         "id":2200613,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1598907000,
-        "modified":1598907000,
+        "last_full_update":1602221160,
+        "modified":1602221160,
         "pretty_title":"Transformation Falls"
     }
 }

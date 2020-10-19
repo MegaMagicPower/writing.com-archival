@@ -461,7 +461,7 @@
                 "Tube Maze.",
                 "Shoe Rack."
             ],
-            "content":"<div class=\"\"><div> <span>You look around before deciding on the playground nearby. Not only is it a fairly crowded place but the police would also be wary to charge in there with so many young kids and risk scaring them all. All that's between you and the playground is a small fence meant to keep regular adults from walking in without a child but thankfully there's a small gap between the wall and the fence so you can slip through. You doubt a grown man could do the same which is probably why they didn't care to push it back.<br>\r\n<br>\r\nYou look around the playground and decide to go to...<br>\r\n<br>\r\nA: Bag Box, a box where kids store their bags and your ticket out of the mall.<br>\r\nB: Into the tube maze (Basically this but on a bigger scale:\t<script language=\"JavaScript\"><!--\n\t\tvar notex, thisx, mmove;\n\tfunction showPopNote2(notex, event, thisx, mmove) {  var thisxPosY = $(thisx).position();  var ccTop = 15;  if ($('#Content_Column_Wrapper').length) {  var ccPos = $('#Content_Column_Wrapper').position();  ccTop = ccPos.top;  }  var thisxBot = thisxPosY.top + $(thisx).height(); $('#bigPopNote' + notex).appendTo('#Content_Column_Wrapper'); $('#bigPopNote' + notex).css({'top':event.pageY-ccTop + 15, 'position':'absolute'});  if ($('#bigPopNote' + notex).width() < $('#bigPopNote' + notex).parent().width() - 50) { $('#bigPopNote' + notex).css({'left':event.pageX-50});  }  document.getElementById('bigPopNote' + notex).style.display = 'block';   if (mmove == 1) {  thisx.style.borderBottomStyle = 'solid'; }  thisx.clicked = 0;  }\n\tfunction clickPopNote2(thisx) {  thisx.clicked = 1;  }\n\tfunction hidePopNote2(notex, event, thisx) {  document.getElementById('popnote' + notex).style.borderBottomStyle = 'dotted';  if (thisx.clicked != 1) {  document.getElementById('bigPopNote' + notex).style.display = 'none';  }  }\n\t\t\t\t//--></script><span id=\"popnote16010897281\" onmouseover=\"showPopNote2('16010897281', event,this,1);\" onmouseout=\"hidePopNote2('16010897281',event,this);\" onclick=\"clickPopNote2(this);\" style=\"border-bottom:2px dotted ;\" title=\"\">This</span> <div id=\"bigPopNote16010897281\" style=\"position:absolute;display:none;z-index:200;\" onmouseover=\"$(this).show(); event.preventDefault(); return false;\" onmouseout=\"$(this).hide();\"><div align=\"center\">\n\t<table border=\"0\" class=\"shadowBox\" style=\"margin-top:5px;padding:15px;border-color:#000000;\"><tr><td align=\"left\"><a rel=\"nofollow\" href=\"https://media-cdn.tripadvisor.com/media/photo-s/02/2b/8a/bd/giant-tube-slide-and.jpg\" target=\"_blank\">https://media-cdn.tripadvisor.com/media/...</a></td></tr></table></div></div><br>\r\nC: Into the Shoe Rack</span></div></div>",
+            "content":"<div class=\"\"><div> <span>You look around before deciding on the playground nearby. Not only is it a fairly crowded place but the police would also be wary to charge in there with so many young kids and risk scaring them all. All that's between you and the playground is a small fence meant to keep regular adults from walking in without a child but thankfully there's a small gap between the wall and the fence so you can slip through. You doubt a grown man could do the same which is probably why they didn't care to push it back.<br>\r\n<br>\r\nYou look around the playground and decide to go to...<br>\r\n<br>\r\nA: Bag Box, a box where kids store their bags and your ticket out of the mall.<br>\r\nB: Into the tube maze (Basically this but on a bigger scale:\t<script language=\"JavaScript\"><!--\n\t\tvar notex, thisx, mmove;\n\tfunction showPopNote2(notex, event, thisx, mmove) {  var thisxPosY = $(thisx).position();  var ccTop = 15;  if ($('#Content_Column_Wrapper').length) {  var ccPos = $('#Content_Column_Wrapper').position();  ccTop = ccPos.top;  }  var thisxBot = thisxPosY.top + $(thisx).height(); $('#bigPopNote' + notex).appendTo('#Content_Column_Wrapper'); $('#bigPopNote' + notex).css({'top':event.pageY-ccTop + 15, 'position':'absolute'});  if ($('#bigPopNote' + notex).width() < $('#bigPopNote' + notex).parent().width() - 50) { $('#bigPopNote' + notex).css({'left':event.pageX-50});  }  document.getElementById('bigPopNote' + notex).style.display = 'block';   if (mmove == 1) {  thisx.style.borderBottomStyle = 'solid'; }  thisx.clicked = 0;  }\n\tfunction clickPopNote2(thisx) {  thisx.clicked = 1;  }\n\tfunction hidePopNote2(notex, event, thisx) {  document.getElementById('popnote' + notex).style.borderBottomStyle = 'dotted';  if (thisx.clicked != 1) {  document.getElementById('bigPopNote' + notex).style.display = 'none';  }  }\n\t\t\t\t//--></script><span id=\"popnote16025026931\" onmouseover=\"showPopNote2('16025026931', event,this,1);\" onmouseout=\"hidePopNote2('16025026931',event,this);\" onclick=\"clickPopNote2(this);\" style=\"border-bottom:2px dotted ;\" title=\"\">This</span> <div id=\"bigPopNote16025026931\" style=\"position:absolute;display:none;z-index:200;\" onmouseover=\"$(this).show(); event.preventDefault(); return false;\" onmouseout=\"$(this).hide();\"><div align=\"center\">\n\t<table border=\"0\" class=\"shadowBox\" style=\"margin-top:5px;padding:15px;border-color:#000000;\"><tr><td align=\"left\"><a rel=\"nofollow\" href=\"https://media-cdn.tripadvisor.com/media/photo-s/02/2b/8a/bd/giant-tube-slide-and.jpg\" target=\"_blank\">https://media-cdn.tripadvisor.com/media/...</a></td></tr></table></div></div><br>\r\nC: Into the Shoe Rack</span></div></div>",
             "created":1562043600,
             "id":2681556,
             "title":"Hidden in plain sight."
@@ -2969,6 +2969,33 @@
             "id":2907488,
             "title":"to my babysitting job!"
         },
+        "151232212121222":{
+            "author_id":"cartoon",
+            "author_name":"shadow",
+            "choices":[
+                "She brought Hannah",
+                "She brought Taylor ",
+                "She brought both",
+                "Lily comes back having forgotten something "
+            ],
+            "content":"<div class=\"\"><div> <span>\"I know that the girls are just going to love you,\" Amanda remarked. There was a nearby cradle for baby dolls which your sister promptly lowers you into. \"You wait right here Sweetie while Mommy goes and gets your playmates,\"  Amanda cooed.<br>\r\n<br>\r\nWhen Amanda returned...</span></div></div>",
+            "created":1602910800,
+            "id":2923424,
+            "title":"Show you off to the girls"
+        },
+        "1512322121212223":{
+            "author_id":"whateverelse",
+            "author_name":"whatever",
+            "choices":[
+                "Change a Diaper",
+                "Feed a Baby",
+                "Bathe a Baby"
+            ],
+            "content":"<div class=\"\"><div> <span>As you sat there in the doll cradle, terrified of what humiliating torture your sister and her charges would unknowingly put you through you tried to think of all the ways to escape. You know that their backyard is connected to your house's backyard, so maybe if they go outside you can sneak under the fence and to freedom. Or maybe you could sneak out the front door while the girls are distracted. Of course they'd have to leave the door open for you and you might run the risk of someone on the street seeing you. Unfortunately, your options were limited. <br>\r\n<br>\r\nSuddenly your thoughts were interrupted as you heard the unmistakable sounds of several footsteps walking down the steps. <br>\r\n<br>\r\n'Here goes,' you say, mentally prepping yourself for what comes next. <br>\r\n<br>\r\nAfter a few seconds you see your sister's face hover over you, her breasts once again hanging low for you to see them in all their glory. <br>\r\n<br>\r\n\"Here it is!\" she says, \"My fun little surprise for you girls today.\" <br>\r\n<br>\r\nAmanda gestures towards you as two more girls join her on either side. The first you notice is Taylor, the older of the two sisters. Both have the dark red hair as their mother but Taylor's hair cascades down her back and curls at the end. You see she is dressed in a pair of what look like volleyball shorts and a white tank top that shows off her young toned belly. Being only in her only teens you are surprised by her curviness as her clothes hug her body just right. You see her piercing green eyes only look down at you for a moment before returning to the small screen of the latest iPhone in her hand. <br>\r\n<br>\r\nThe other sister you see is Hannah. Her red hair is pulled back into long ponytail and you see she is wearing jeans and a pink top with frill along the neck and the hem. Her eyes go wide as she sees the 'new toy' in her doll cradle, and you can practically see the thoughts of all the ways she can play with you run through her mind. <br>\r\n<br>\r\n\"It's so cute!\" Hannah says, practically bursting with energy, \"Can I hold it? Please please please?\" <br>\r\n<br>\r\n\"Sure kiddo,\" your sister says, leaning over to pick you up before handing you over to the young girl, \"Just be careful, okay? I need to get a good grade.\" <br>\r\n<br>\r\nHannah squeals in delight as you are handed over to her as she hugs you tightly to her chest. Your eyes bulge, thankfully unnoticed, as you have a hard time breathing as she adorns over you. <br>\r\n<br>\r\n\"Taylor look!\" she says holding you up for her sister to see, \"Isn't it so cute!\" <br>\r\n<br>\r\nTaylor looks up rolling her eyes. For a second she tilts her head curiously before snapping a photo of you. <br>\r\n<br>\r\n\"Yeah...\" she says, hesitation in her voice, \"I guess it is kinda cute.\" <br>\r\n<br>\r\nInternally you are terrified she may have seen through your disguise but you don't have time to question it as Amanda interrupts. <br>\r\n<br>\r\n\"Now girls,\" Amanda says pulling you back into her arms, \"Since I'm supposed to take care of this doll for my class, I figured it might be fun for me to show you guys how to take care of a baby properly. Wouldn't that be fun?\"<br>\r\n<br>\r\n\"Yes!\" Hannah yelled. <br>\r\n<br>\r\n\"Whatever...\" Taylor weakly replied. <br>\r\n<br>\r\n\"Great,\" Amanda laughed slightly at the mixed levels of excitement, \"Well first, why don't I show you two how to...\" </span></div></div>",
+            "created":1602910800,
+            "id":2923611,
+            "title":"She brought both"
+        },
         "15123222":{
             "author_id":"ahh7921",
             "author_name":"Ahh",
@@ -4003,6 +4030,31 @@
             "id":2908985,
             "title":"Things get more sexually tense"
         },
+        "1553112122132111213111":{
+            "author_id":"albertobasalm",
+            "author_name":"albertobasalm",
+            "choices":[
+                "Continue",
+                "Continue"
+            ],
+            "content":"<div class=\"\"><div> <span>...the vibrations from the gigantic redhead entering her room intrudes on your current playtime with the housewife Barbie. Sadie promptly resumes a doll-state as she falls to the ground but leaves you exposed on the changing table. You were presented to Emma like a turkey on Thanksgiving. Your restraints left you powerless against an 11-year-old girl whose idea of makeup was over-plastering glitter on her face. You sought out any type of salvation but as you glanced through her room, from the multiple gymnastic photos of Emma to the various doll accessories and makeup items, you realized that you were in her world now. You were merely just a plaything to her.<br>\r\n<br>\r\n\"AND WHAT DO WE HAVE HERE?!?!? HAS BABY BECCA BEEN NAUGHTY AGAIN? DOES MOMMY EMMA HAVE TO PUNISH HER BABY AGAIN?\"<br>\r\n<br>\r\nYou could only lay limp and mentally prepare yourself for the punishment from this redhead tormentor.  </span></div></div>",
+            "created":1601528400,
+            "id":2913694,
+            "title":"Emma walks in!"
+        },
+        "15531121221321112131111":{
+            "author_id":"whateverelse",
+            "author_name":"whatever",
+            "choices":[
+                "You Yell in Pain - Busted!",
+                "You Stay Silent - Safe for Now",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>You're terrified of what is coming as Emma approaches the changing table, surprisingly not noticing how you are in a different spot from before. From your view you see her approach with a stark look on her face and her arms crossed angrily. <br>\r\n<br>\r\n\"Looks like someone was naughty for Sadie and needs to be punished,\" she says as she undoes the restraints on her hands and legs. She throws you over her shoulder and walks over to her bed before laying you roughly over her knees. <br>\r\n<br>\r\n\"Bad baby's get spanked,\" she says. <br>\r\n<br>\r\nSuddenly the girl releases a whirlwind of pain on your behind, slapping each cheek harshly for what feels like an eternity. <br>\r\n<br>\r\n\"Bad baby! Bad baby!\" the girl repeats as she aggressively punishes her 'doll.'<br>\r\n<br>\r\nAt one point it's almost too much to bear, and you fear breaking your silence in pain. <br>\r\n<br>\r\n\"Now for on last spank!\" she says as she raises her hand up high and brings it down harshly on your two red cheeks.</span></div></div>",
+            "created":1602219600,
+            "id":2918304,
+            "title":"Continue"
+        },
         "155312":{
             "author_id":"whateverelse",
             "author_name":"whatever",
@@ -4607,8 +4659,8 @@
         "description":"<td align=\"left\" class=\"norm\"> You're mistaken as a baby due to your stunted growth, the size of a newborn to be exact, to where little girls could pick you up with ease, much like a baby doll.<br>\r\n<br>\r\nMORE POINTS FOR WILLING BABIES. <br>\r\n<br>\r\n<br>\r\n<b><u>RULES! RULES! RULES</u></b><br>\r\n<br>\r\n1: I'll now allow other chapters.<br>\r\n<br>\r\n2: Don't write one sentence chapters like \"Rachel picked you up and brought you to her room... What happens?\"<br>\r\n<br>\r\n3: 2nd person story, please! Use \"You\" when referring to yourself.<br>\r\n<br>\r\n4: Write with proper grammar and spelling. If it's a small number of errors I'll either leave it be or edit it, probably the second, but if it's completely indecipherable I will notify you and then delete it, Auto-correct exists, and if you don't have that plug it into a word checker online.<br>\r\n<br>\r\n5: You don't have to be mistaken as a living baby, you could be hiding somewhere and be seen as a sex toy for women that looks like a baby (Wink Wink)<br>\r\n<br>\r\n6: You are male, 100% male, no questions<br>\r\n<br>\r\n<span style=\"text-decoration:line-through\">7: No older males in the story unless they're only in passing, like being chased by a male officer, etc.</span><br>\r\n<br>\r\n7. OLDER MALES ARE NOW OK.<br>\r\n<br>\r\n8: Seeing a child naked is ok, but raping them (Somehow at your size) is not, I don't want children being raped, other than you in the same \"Mistaken for a sex toy\" sense.<br>\r\n<br>\r\n9: Try to leave people clueless as to what you are, due to you either liking being treated like a baby or can't reveal it due to one way or another, burnt tongue, hiding etc, though the odd person knowing you from before is fine.<br>\r\n<br>\r\n10: Please add, and I will be sure to thank you personally.<br>\r\n<br>\r\n<b>Sorry for so many rules!</b><br>\r\n<br>\r\nBe warned, if these rules are broken beyond the point of being able to fix them, I will message you and then delete them, no exceptions, even if you give me infinite gift points.<br>\r\n<br>\r\nI'm gonna be extremely open in this story and all fetishes excluding the ones above (That means shrinking as well) will be allowed, scat, piss, do whatever you want.<br>\r\n  <br>\r\n</td>",
         "id":2166956,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1600915620,
-        "modified":1600915620,
+        "last_full_update":1602297900,
+        "modified":1602974940,
         "pretty_title":"Mistaken for a baby! (REWARDS)"
     }
 }

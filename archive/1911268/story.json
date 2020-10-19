@@ -14,6 +14,73 @@
             "created":1357102800,
             "id":1499991,
             "title":"First day"
+        },
+        "15":{
+            "author_id":"numerio",
+            "author_name":"Tex",
+            "choices":[
+                "Pichu, Pikachu or Raichu",
+                "Squirtle, Wartortle or Blastoise",
+                "Charmander, Charmeleon or Charizard",
+                "Bulbasaur, Ivysaur or Venusaur",
+                "Other (reader's choice)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about some favorite ones?</span></div></span></div>",
+            "created":1602046800,
+            "id":2917016,
+            "title":"Other ones."
+        },
+        "151":{
+            "author_id":"numerio",
+            "author_name":"Tex",
+            "choices":[
+                "Pichu",
+                "Pikachu",
+                "Raichu"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>..............</span></div></span></div>",
+            "created":1602046800,
+            "id":2917017,
+            "title":"Pichu, Pikachu or Raichu"
+        },
+        "152":{
+            "author_id":"numerio",
+            "author_name":"Tex",
+            "choices":[
+                "Squirtle",
+                "Wartortle",
+                "Blastoise"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>.......................</span></div></span></div>",
+            "created":1602046800,
+            "id":2917020,
+            "title":"Squirtle, Wartortle or Blastoise"
+        },
+        "153":{
+            "author_id":"numerio",
+            "author_name":"Tex",
+            "choices":[
+                "Charmander",
+                "Charmeleon",
+                "Charizard"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>............</span></div></span></div>",
+            "created":1602046800,
+            "id":2917022,
+            "title":"Charmander, Charmeleon or Charizard"
+        },
+        "154":{
+            "author_id":"numerio",
+            "author_name":"Tex",
+            "choices":[
+                "Bulbasaur",
+                "Ivysaur",
+                "Venusaur"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>..............</span></div></span></div>",
+            "created":1602046800,
+            "id":2917027,
+            "title":"Bulbasaur, Ivysaur or Venusaur"
         }
     },
     "info":{
@@ -24,8 +91,8 @@
         "description":"<td align=\"left\" class=\"norm\">Like the Brief Description says, You compete in a tournament and whoever loses gets eaten. I know this interactive USED to be called Riddle Me This but that sounded dumb.</td>",
         "id":1911268,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1451070420,
-        "modified":1451070420,
+        "last_full_update":1602108120,
+        "modified":1602108120,
         "pretty_title":"You lose you're lunch"
     }
 }

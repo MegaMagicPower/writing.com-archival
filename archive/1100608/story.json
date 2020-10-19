@@ -3001,6 +3001,44 @@
             "id":1234324,
             "title":"other"
         },
+        "144":{
+            "author_id":"dorkshove",
+            "author_name":"pain and suffering",
+            "choices":[
+                "Gender Swap",
+                "Age Stuff",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Cool, what transformation should happen?</span></div></span></div>",
+            "created":1602306000,
+            "id":2918448,
+            "title":"Cowboy Bebop"
+        },
+        "1442":{
+            "author_id":"dorkshove",
+            "author_name":"pain and suffering",
+            "choices":[
+                "Age Regression",
+                "Age Progression",
+                "Both"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So uh what kind?</span></div></span></div>",
+            "created":1602306000,
+            "id":2918449,
+            "title":"Age Stuff"
+        },
+        "14423":{
+            "author_id":"dorkshove",
+            "author_name":"pain and suffering",
+            "choices":[
+                "Ed and Faye",
+                "No, not them"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>But what group? It'd be interesting if Edward and Faye swapped ages, right? No? Okay.</span></div></span></div>",
+            "created":1602306000,
+            "id":2918451,
+            "title":"Both"
+        },
         "145":{
             "choices":[
                 "Negima",
@@ -3536,8 +3574,8 @@
         "description":"<td align=\"left\" class=\"norm\">Here is an interactive where you can write about your favourite anime and/or video game characters transforming into various things.<br>\r\nI won't delete much, but try to keep it PG 13...</td>",
         "id":1100608,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1600575840,
-        "modified":1600575840,
+        "last_full_update":1602323640,
+        "modified":1602323640,
         "pretty_title":"Anime/Video Game Transformations"
     }
 }

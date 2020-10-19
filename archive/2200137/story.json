@@ -1763,6 +1763,31 @@
             "id":2778839,
             "title":"another costume"
         },
+        "11521223":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Her face is covered in cake at her birthday",
+                "she and Chloe are playing in the mud",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What else is Max doing in the picture of when she was four?</span></div></span></div>",
+            "created":1601269200,
+            "id":2911621,
+            "title":"somethng else"
+        },
+        "115212231":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Sure.",
+                "Something else going on."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>It was her fourth birthday, and her face was covered with birthday cake. Chloe was there, and also had her face covered?</span></div></span></div>",
+            "created":1601269200,
+            "id":2911624,
+            "title":"Her face is covered in cake at her birthday"
+        },
         "11522":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
@@ -2849,6 +2874,55 @@
             "created":1568091600,
             "id":2716198,
             "title":"lost a bet"
+        },
+        "12421":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "yeah",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>was the bet in question where Max and Chloe both eat or drink something cold fast and the first to get brain freeze loses</span></div></span></div>",
+            "created":1602910800,
+            "id":2923702,
+            "title":"Sure."
+        },
+        "124211":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Drinking lemonade.",
+                "Anything else cold they were eating or drinking."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Both were eating ice cream?</span></div></span></div>",
+            "created":1602910800,
+            "id":2923724,
+            "title":"yeah"
+        },
+        "1242113":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Yep",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Were they drinking slushes?</span></div></span></div>",
+            "created":1602997200,
+            "id":2923791,
+            "title":"Anything else cold they were eating or drinking."
+        },
+        "12421131":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "At Chloe's."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>They were. Chloe eventually lost, having a brain freeze. Max diapered her at her house?</span></div></span></div>",
+            "created":1602997200,
+            "id":2923793,
+            "title":"Yep"
         },
         "1243":{
             "author_id":"kameron94",
@@ -4697,8 +4771,8 @@
         "description":"<td align=\"left\" class=\"norm\">Make the girls from the video game Life Is Strange into babies any way you like.<br>\r\nRules.<br>\r\n<br>\r\n1: No insulting religion.<br>\r\n2: No killing anyone off.<br>\r\n3: Make the chapters as long as you can.<br>\r\n4: No ending stories suddenly.<br>\r\n5: Have fun!.</td>",
         "id":2200137,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1598474460,
-        "modified":1598474460,
+        "last_full_update":1601301720,
+        "modified":1602999420,
         "pretty_title":"Life Is Strange (Adult babies.)"
     }
 }

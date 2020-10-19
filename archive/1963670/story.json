@@ -262,6 +262,19 @@
             "id":2380778,
             "title":"Check The Minus Room (Shrink)"
         },
+        "1122":{
+            "author_id":"scourge",
+            "author_name":"John G",
+            "choices":[
+                "The Jumbo Gro Bottle",
+                "The Book",
+                "The Tank"
+            ],
+            "content":"<div class=\"\"><div> <span>Fiona walked into the Plus room, where she came across an odd sight. Most of the furniture and objects, except for a table in the center, was incredibly big!. Almost as if everything was meant for a giant. This only made the vixen more confused given how small the tent<br>\r\n<br>\r\n\"Whoa, they really went all out on the novelty stuff...\"<br>\r\n<br>\r\nAs she approached the table, her eyes glanced over to three different objects. <br>\r\n<br>\r\nThe first object was a green bottle of \u201cJumbo Gro\u201d plant growth formula.<br>\r\n<br>\r\nThe second object looked more promising; an old book that seemed pretty old and ancient looking.<br>\r\n<br>\r\nThe last object was pretty odd. It was nothing more than a helium tank, with a rather odd label on it: depicting a small person standing next to a larger person...<br>\r\n<br>\r\n\"Hmm...what to choose...\"<br>\r\n<br>\r\nFiona thought and thought until she finally decided on....<br>\r\n</span></div></div>",
+            "created":1602306000,
+            "id":2918841,
+            "title":"Check The Plus Room (Growth)"
+        },
         "1123":{
             "author_id":"scourge",
             "author_name":"John G",
@@ -2697,17 +2710,41 @@
             "id":2304285,
             "title":"A \"Kiddie\" version of herself, dressed ..."
         },
+        "114332222211122112":{
+            "author_id":"ishtarru",
+            "author_name":"Ishtarru",
+            "choices":[
+                "\"Golly gee, it sure looks like a swell day!\"",
+                "\"AAAAAAAAAHHHHH!\""
+            ],
+            "content":"<div class=\"\"><div> <span>Fiona recoiled in shock at the sight of her reflection, though you wouldn't know it by her expression. Her head had swollen to three times its regular size, her mouth drawn up into a permanent smile and her eyes bulged to the point they almost seemed separate from her face entirely. Her clothes had even changed becoming a <span style=\"text-decoration:line-through\">fetching</span><br>\r\nlime-green sundress.<br>\r\n<br>\r\nEven her exposed limbs looked fake. Grasping her arm with one mitten-like hand, she confirmed it. \"Felt.\" she thought.<br>\r\n<br>\r\nFeeling compelled to speak, Fiona took a deep breath and called out...<br>\r\n<br>\r\nWhat does she say?</span></div></div>",
+            "created":1601960400,
+            "id":2916176,
+            "title":"A Big Mascot Suit, similar to Sesame Street."
+        },
         "11433222221112212":{
             "author_id":"scourge",
             "author_name":"John G",
             "choices":[
-                "Fitness Instructor",
+                "Sounds Fun!",
                 "Another choice"
             ],
-            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about a fitness instructor then?</span></div></span></div>",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about a TV/Movie Monster?</span></div></span></div>",
             "created":1471582800,
             "id":2198125,
             "title":"Something else"
+        },
+        "114332222211122121":{
+            "author_id":"scourge",
+            "author_name":"John G",
+            "choices":[
+                "Something Scary",
+                "Something Goofy"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of monster does she become?</span></div></span></div>",
+            "created":1602046800,
+            "id":2917181,
+            "title":"Monster Mash"
         },
         "114332222211122122":{
             "author_id":"scourge",
@@ -3655,6 +3692,36 @@
             "id":2817678,
             "title":"Fiona starts gaining Tails\u2019 memories alongsid..."
         },
+        "1143322222221221121":{
+            "author_id":"rbm5",
+            "author_name":"RBM5",
+            "choices":[
+                "Fiona makes it out and decided to leave the circus in her new form",
+                "Fiona makes it out of the tent turning back to normal and losing Tails\u2019 memories",
+                "Fiona begins to lose her own memories ",
+                "Fiona makes it out of the tent deciding to continue investigating the circus",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>Fiona was starting to see the positive side of things however as she started heading for the exit as now that she looked, sounded, and had access to all of Tails\u2019 memories he could pull off all sorts of crimes including proper payback on those she had grudges with.</span></div></div>",
+            "created":1602392400,
+            "id":2919400,
+            "title":"With this new knowledge Fiona plans on using Ta..."
+        },
+        "11433222222212211211":{
+            "author_id":"rbm5",
+            "author_name":"RBM5",
+            "choices":[
+                "Target Sonic first",
+                "Target Mighty first",
+                "Target Eggman first",
+                "Target Rouge first",
+                "Target Scourge first"
+            ],
+            "content":"<div class=\"\"><div> <span>Knowing that she could be transformed and gain the memories of another person Fiona decided she didn\u2019t need to investigate the circus anymore than \u2018he\u2019 already had in order to avoid something more dangerous happening to him. Thinking more on what to do he did have grudges toward Sonic, Mighty, Rouge, Eggman, and Scourge as becoming Tails made him no longer bear the grudge \u2018she\u2019 had toward the young fox.</span></div></div>",
+            "created":1602997200,
+            "id":2924325,
+            "title":"Fiona makes it out and decided to leave the cir..."
+        },
         "1143322222221222":{
             "author_id":"scourge",
             "author_name":"John G",
@@ -3737,6 +3804,21 @@
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about the pesky twin tailed anti Miles?</span></div></span></div>",
             "created":1586667600,
             "id":2817682,
+            "title":"Someone else"
+        },
+        "114332222222122222222":{
+            "author_id":"rbm5",
+            "author_name":"RBM5",
+            "choices":[
+                "Bean",
+                "Sally",
+                "Bark",
+                "Nic the Weasel",
+                "Someone else "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>More options</span></div></span></div>",
+            "created":1601874000,
+            "id":2915564,
             "title":"Someone else"
         },
         "1143322222222":{
@@ -4279,6 +4361,21 @@
             "id":2884094,
             "title":"The key is merely attached to her clothes, she&..."
         },
+        "115221221121222222":{
+            "author_id":"doctwisted",
+            "author_name":"Twisted Gear",
+            "choices":[
+                "A water gun and balloon game",
+                "A goldfish catching game",
+                "Ring toss",
+                "Bottle Pins",
+                "Something more  unique "
+            ],
+            "content":"<div class=\"\"><div> <span>Fionas clothes shifted into a black and yellow tuxedo with an unbuttoned front and exposed middrift. Her breast grew ever so slightly so there was cleavage she could use to distract older circus goers. Finally black lipstick coated her now smirking lips as her hair grew long and tied itself into a ponytail, \u201cMy my, Mezaro. My master wants his maidens Manipulative. Most Marvelous.\u201d She strung together the alliteration on the spot as her mind was filled with wordplay and other ways to distract customers from any sleight of hand she\u2019d be using to cheat them out of their money \u201cSo what game will I be running today?\u201d She licked her lips in anticipation.</span></div></div>",
+            "created":1602997200,
+            "id":2923881,
+            "title":"A manipulative carnival game host"
+        },
         "115221221121222225":{
             "author_id":"doctwisted",
             "author_name":"Twisted Gear",
@@ -4308,6 +4405,36 @@
             "created":1598850000,
             "id":2895071,
             "title":"Someone she knows spots her "
+        },
+        "11522122112122222541":{
+            "author_id":"doctwisted",
+            "author_name":"Twisted Gear",
+            "choices":[
+                "Fiona recognizes Rouge",
+                "Fiona doesn\u2019t recognize rouge",
+                "Fionas new personality pretends she doesn\u2019t know rouge",
+                "Rouge knows about the key and starts turning it",
+                "Rouge has a key too and also has a new personality "
+            ],
+            "content":"<div class=\"\"><div> <span>\u201cMy my, Fiona, what in the world are you doing here?\u201d Rouge teased as she leaned on the Key in Fionas back \u201cAnd in such a elaborate outfit... did you stuff your bra?\u201d She poked the foxes motherly chest, slightly surprised that the breasts felt real.</span></div></div>",
+            "created":1601442000,
+            "id":2912779,
+            "title":"Rouge the Bat"
+        },
+        "11522122112122222545":{
+            "author_id":"doctwisted",
+            "author_name":"Twisted Gear",
+            "choices":[
+                "Sally Acorn",
+                "Bunnie Rabbot",
+                "Nicole The Holo-Lynx ",
+                "Sonic the Hedgehog ",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who spots motherly wind up fiona? </span></div></span></div>",
+            "created":1602997200,
+            "id":2923878,
+            "title":"Someone else"
         },
         "115221221122":{
             "author_id":"rayton592",
@@ -6383,8 +6510,8 @@
         "description":"<td align=\"left\" class=\"norm\">Fiona Fox and Rouge the Bat team up, or head out on their own to investigate a mysterious circus tent that has mysteriously shown up in the great forest. Unbeknownst to them, what they find soon leads into hi-jinks that could alter them in various wild, wacky or reality bending ways. Will they make it out, or will they become the newest additions to the show? You decide.<br>\r\n<br>\r\nAnything goes but none of the following:<br>\r\nBlood<br>\r\nGore <br>\r\nDeath<br>\r\nAnything Overly Sexual (Implications are okay but nothing too Adult)<br>\r\nAny other things that maybe deemed as \"Inappropriate\"<br>\r\n<br>\r\nOther than that, just have fun with it!</td>",
         "id":1963670,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1598880660,
-        "modified":1601173440,
+        "last_full_update":1602475080,
+        "modified":1603077660,
         "pretty_title":"Mobius Circus of Change: Rouge & Fiona"
     }
 }

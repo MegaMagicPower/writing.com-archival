@@ -2365,6 +2365,18 @@
             "id":241540,
             "title":"Which person grows?"
         },
+        "12511":{
+            "author_id":"redwolf12",
+            "author_name":"wolfbood",
+            "choices":[
+                "By eating a mushroom",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How did Princess Peach get big?</span></div></span></div>",
+            "created":1601528400,
+            "id":2913362,
+            "title":"Princess Peach"
+        },
         "12512":{
             "choices":[
                 "HELL, YEAH!",
@@ -2787,6 +2799,21 @@
             "id":2768664,
             "title":"Sonic"
         },
+        "12522221112":{
+            "author_id":"jobobo19",
+            "author_name":"carl.a.pruuitt",
+            "choices":[
+                "Tails",
+                "Knuckles",
+                "Shadow",
+                "Silver",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Anyone else you like to have?</span></div></span></div>",
+            "created":1601614800,
+            "id":2913875,
+            "title":"other"
+        },
         "1252222112":{
             "author_id":"adventchild",
             "author_name":"AdventChild",
@@ -2810,6 +2837,19 @@
             "created":1327035600,
             "id":1262339,
             "title":"Other"
+        },
+        "125222211221":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Chaos Emerald ",
+                "Tails experiment",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does she grow?</span></div></span></div>",
+            "created":1601528400,
+            "id":2913586,
+            "title":"Cream the Rabbit"
         },
         "125222211222":{
             "author_id":"adventchild",
@@ -2974,8 +3014,8 @@
         "description":"<td align=\"left\" class=\"norm\">With the disappearence of some other stories, I've put together a brand-new anime and videogame growth story. Any kind of growth- female or male- is allowed, just don't get too much into the toilet stuff and we'll be fine. I'm going to focus at first on anime that I don't see covered in any other of these types of stories, but if you want to try a more traditional one, be my guest. Just please make sure to leave open the Other option at all times.<br>\r\n<br>\r\nUPDATE (5/7): Since apparently the word \"growth\" in the title rather than generic GTS/GT story wasn't enough of a hint to some people, this is strictly a growth-only story. THERE ARE NO SHRINKING ENTRIES ALLOWED, PERIOD. Any shrinking entries will be deleted by me personally as soon as I see them. I don't care if you think I'm a control freak, I hate shrinking and don't want it in my story. If you don't like that, tough, go make your own story and include all the shrinking you want. If you want to write in my story, it's gonna be growth only, and that's all there is to it.<br>\r\n<br>\r\nFollow the rules and we'll be fine. Thanks.</td>",
         "id":919506,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1581898200,
-        "modified":1581898200,
+        "last_full_update":1601622420,
+        "modified":1601622420,
         "pretty_title":"Anime and Videogame Growth"
     }
 }

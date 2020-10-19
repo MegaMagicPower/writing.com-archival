@@ -43,6 +43,81 @@
             "id":2696938,
             "title":"Once a upon a time "
         },
+        "115":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Looney Tunes",
+                "Tiny Toon Adventures",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about these shows?</span></div></span></div>",
+            "created":1602392400,
+            "id":2919259,
+            "title":"Something else "
+        },
+        "1152":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Babs and Buster Bunny (No relation)",
+                "Plucky Duck and Shirley the Loon",
+                "Someone Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have chosen <i>Tiny Toon Adventures</i>. Now, who will play the roles of Hansel and Gretel?</span></div></span></div>",
+            "created":1602392400,
+            "id":2919260,
+            "title":"Tiny Toon Adventures"
+        },
+        "11521":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have chosen Babs and Buster Bunny (No relation). Now, will this be an alternate version of \"Fit to Be Stewed\" (a double-length short from \"Buster's Directorial Debut\")?</span></div></span></div>",
+            "created":1602392400,
+            "id":2919261,
+            "title":"Babs and Buster Bunny (No relation)"
+        },
+        "1153":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Adventures of Sonic the Hedgehog",
+                "Dennis the Menace (1986)",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about these shows?</span></div></span></div>",
+            "created":1602392400,
+            "id":2919262,
+            "title":"Something else"
+        },
+        "11531":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Sonic and Tails",
+                "Someone Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have chosen <i>Adventures of Sonic the Hedgehog</i>. Now, who will play the roles of Hansel and Gretel?</span></div></span></div>",
+            "created":1602392400,
+            "id":2919265,
+            "title":"Adventures of Sonic the Hedgehog"
+        },
+        "115311":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have chosen Sonic and Tails. Is this going to be an alternate version of \"Hansel and Nettle\" from \"Sonically Ever After\"?</span></div></span></div>",
+            "created":1602392400,
+            "id":2919266,
+            "title":"Sonic and Tails"
+        },
         "13":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
@@ -627,6 +702,43 @@
             "id":2572071,
             "title":"Hmm, Lil."
         },
+        "1323":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Lil DeVille",
+                "Kimi Finster",
+                "Someone Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who else could be Cinderella?</span></div></span></div>",
+            "created":1602392400,
+            "id":2919238,
+            "title":"Other."
+        },
+        "13233":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Chuckie Finster",
+                "Someone Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Maybe instead of a girl, Cinderella could be a boy. Who do you think would be suitable for the role?</span></div></span></div>",
+            "created":1602392400,
+            "id":2919239,
+            "title":"Someone Else"
+        },
+        "132331":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have chosen Chuckie Finster. Will this be an alternate version of \"Finsterella\"?</span></div></span></div>",
+            "created":1602392400,
+            "id":2919242,
+            "title":"Chuckie Finster"
+        },
         "133":{
             "author_id":"magicdream",
             "author_name":"Abracadabra.",
@@ -847,6 +959,18 @@
             "id":2574485,
             "title":"Buster."
         },
+        "1513222":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about Montana Max?</span></div></span></div>",
+            "created":1602392400,
+            "id":2919253,
+            "title":"Open Choice Chapter."
+        },
         "15133":{
             "author_id":"magicdream",
             "author_name":"Abracadabra.",
@@ -859,6 +983,30 @@
             "created":1541480400,
             "id":2574193,
             "title":"Open Choice Chapter."
+        },
+        "151333":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about Thomas the Tank Engine?</span></div></span></div>",
+            "created":1602392400,
+            "id":2919244,
+            "title":"Other."
+        },
+        "1513331":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have chosen <i>Thomas the Tank Engine</i>. Now, will this be an alternate version of the \"Thomas and the Beanstalk\" Little Golden Book?</span></div></span></div>",
+            "created":1602392400,
+            "id":2919252,
+            "title":"Yes"
         },
         "152":{
             "author_id":"magicdream",
@@ -1976,6 +2124,43 @@
             "id":2572132,
             "title":"Goldilocks and the three bears."
         },
+        "1533":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Looney Tunes",
+                "Tiny Toon Adventures",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about these?</span></div></span></div>",
+            "created":1602392400,
+            "id":2919255,
+            "title":"Other."
+        },
+        "15332":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Elmyra Duff",
+                "Someone Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have chosen <i>Tiny Toon Adventures</i>. Now, who will play the role of Goldilocks?</span></div></span></div>",
+            "created":1602392400,
+            "id":2919257,
+            "title":"Tiny Toon Adventures"
+        },
+        "153321":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will this be an alternate version of \"Bear Necessities\" (a short from \"Fairy Tales For the 90's\")?</span></div></span></div>",
+            "created":1602392400,
+            "id":2919258,
+            "title":"Elmyra Duff"
+        },
         "154":{
             "author_id":"magicdream",
             "author_name":"Abracadabra.",
@@ -2064,8 +2249,8 @@
         "description":"<td align=\"left\" class=\"norm\">Much like how my interactive Children Learn Basic Skills was written because there was already one on the site about potty training, I'm writing this because I saw an Interactive about TV characters reenacting Hansel and Gretel, so I decided to do the other fairy tales.<br>\r\n<br>\r\nNote: The Hansel and Gretel story was focused on characters getting fat, but this one is not like that. Please leave characters as they are.<br>\r\n<br>\r\nRules:<br>\r\n1. Nothing too sexual unless it was part of the fairy tale, and even then, change it if the character is a kid. Also, getting married is fine as long as it doesn't break apart an existing couple, require children or related people to get married, or require an age gap.<br>\r\n2. Don't make characters OOC or kill them off, even if it was part of the fairy tale. (For example, even though Snow White's mother died, if you're parodying Snow White with The Loud House and Snow White is Lucy, don't kill off Rita or have her be the evil queen. And speaking of villains, if someone is playing a villain, don't have them do anything so evil it'd be OOC, for example, continuing with the above example, Lola Loud is a bit of a brat, but she wouldn't try to poison Lucy.)<br>\r\n<br>\r\nIf you have difficulty following the rules, remember that you can parody (for example, if someone is playing Snow White but a person who's not her love interest is playing the prince, you can have him act awkward about it).</td>",
         "id":2172608,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1564948500,
-        "modified":1564948500,
+        "last_full_update":1602456900,
+        "modified":1602456900,
         "pretty_title":"TV Characters Reenact Fairy Tales"
     }
 }

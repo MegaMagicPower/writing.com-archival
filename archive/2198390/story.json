@@ -2225,6 +2225,31 @@
             "id":2716112,
             "title":"Change Mal's diaper"
         },
+        "12532112113":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "ask Mal if she needed to go poo poo before she gets changed",
+                "call one of her and Mal's friends to come over",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what else does Evie decide to do?</span></div></span></div>",
+            "created":1601787600,
+            "id":2914891,
+            "title":"Something else"
+        },
+        "125321121132":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Jane.",
+                "Anyone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She ends up calling who, though?</span></div></span></div>",
+            "created":1601787600,
+            "id":2914924,
+            "title":"call one of her and Mal's friends to come over"
+        },
         "1253211212":{
             "author_id":"kameron94",
             "author_name":"Kameron",
@@ -6788,6 +6813,84 @@
             "id":2817431,
             "title":"Paige Guthrie"
         },
+        "1253323322":{
+            "author_id":"blackbeltii",
+            "author_name":"pirate king",
+            "choices":[
+                "Arthur",
+                "DC Superhero Girls (2019)",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about more shows?</span></div></span></div>",
+            "created":1602910800,
+            "id":2923414,
+            "title":"No"
+        },
+        "12533233222":{
+            "author_id":"blackbeltii",
+            "author_name":"pirate king",
+            "choices":[
+                "Supergirl (Kara Danvers)",
+                "Wonder Woman (Diana Prince)",
+                "Somebody else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who shall it be?</span></div></span></div>",
+            "created":1602910800,
+            "id":2923415,
+            "title":"DC Superhero Girls (2019)"
+        },
+        "125332332221":{
+            "author_id":"blackbeltii",
+            "author_name":"pirate king",
+            "choices":[
+                "Weight gain",
+                "Diapered",
+                "WG and Diapered"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What should happen here?</span></div></span></div>",
+            "created":1602997200,
+            "id":2923970,
+            "title":"Supergirl (Kara Danvers)"
+        },
+        "1253323322211":{
+            "author_id":"blackbeltii",
+            "author_name":"pirate king",
+            "choices":[
+                "Naturally",
+                "Force Fed",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How should Supergirl pack on the pounds?</span></div></span></div>",
+            "created":1602997200,
+            "id":2924136,
+            "title":"Weight gain"
+        },
+        "1253323322212":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "part of a new law that was passed",
+                "part of an internet challange",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what reason would Supergirl be in diapers?</span></div></span></div>",
+            "created":1602997200,
+            "id":2923983,
+            "title":"Diapered"
+        },
+        "12533233222123":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "dared",
+                "lost a bet",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what other reason would Supergirl be in diapers?</span></div></span></div>",
+            "created":1602997200,
+            "id":2923984,
+            "title":"something else"
+        },
         "13":{
             "author_id":"captainspraky",
             "author_name":"Captain",
@@ -7208,6 +7311,206 @@
             "created":1582347600,
             "id":2791318,
             "title":"Shadowcat"
+        },
+        "141111":{
+            "author_id":"blackbeltii",
+            "author_name":"pirate king",
+            "choices":[
+                "She likes them",
+                "Forced into them",
+                "Other reasons"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does she end up in diapers?</span></div></span></div>",
+            "created":1601701200,
+            "id":2914683,
+            "title":"Diapered"
+        },
+        "1411111":{
+            "author_id":"blackbeltii",
+            "author_name":"pirate king",
+            "choices":[
+                "Pampers",
+                "Luvs",
+                "More diapees"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which brand?</span></div></span></div>",
+            "created":1601701200,
+            "id":2914684,
+            "title":"She likes them"
+        },
+        "14111111":{
+            "author_id":"blackbeltii",
+            "author_name":"pirate king",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does anybody else know about this?</span></div></span></div>",
+            "created":1601701200,
+            "id":2914685,
+            "title":"Pampers"
+        },
+        "141111111":{
+            "author_id":"blackbeltii",
+            "author_name":"pirate king",
+            "choices":[
+                "Illyana",
+                "Storm",
+                "Rogue"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who knows?</span></div></span></div>",
+            "created":1601701200,
+            "id":2914686,
+            "title":"Yes"
+        },
+        "1411111111":{
+            "author_id":"blackbeltii",
+            "author_name":"pirate king",
+            "choices":[
+                "She walks in on Kitty wearing a thick diaper",
+                "Kitty poops her diaper while talking with Illyana",
+                "Kitty wets her diaper while hanging out with Illyana."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does Illyana find out about her best friend and roommates' diapers?</span></div></span></div>",
+            "created":1601701200,
+            "id":2914687,
+            "title":"Illyana"
+        },
+        "141112":{
+            "author_id":"blackbeltii",
+            "author_name":"pirate king",
+            "choices":[
+                "Natural WG",
+                "Force Fed",
+                "More options"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How should she become fat?</span></div></span></div>",
+            "created":1601701200,
+            "id":2914644,
+            "title":"Weight Gain"
+        },
+        "1411122":{
+            "author_id":"blackbeltii",
+            "author_name":"pirate king",
+            "choices":[
+                "The Brood",
+                "The Morlocks ",
+                "Karma"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who is she force fed by?</span></div></span></div>",
+            "created":1601701200,
+            "id":2914645,
+            "title":"Force Fed"
+        },
+        "14111222":{
+            "author_id":"blackbeltii",
+            "author_name":"pirate king",
+            "choices":[
+                "Issue #169",
+                "Issue #179"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>When does this occur?<br>\r\n<br>\r\nWhen the X-Men first meet the Morlocks (Issue #169)<br>\r\n<br>\r\nor<br>\r\n<br>\r\nWhen she's nearly forced to marry Caliban (Issue #179)</span></div></span></div>",
+            "created":1601701200,
+            "id":2914646,
+            "title":"The Morlocks "
+        },
+        "14111223":{
+            "author_id":"blackbeltii",
+            "author_name":"pirate king",
+            "choices":[
+                "While Karma is possessed by Shadow King",
+                "After Karma is freed from Shadow King"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>When does this happen? </span></div></span></div>",
+            "created":1601701200,
+            "id":2914649,
+            "title":"Karma"
+        },
+        "141112232":{
+            "author_id":"blackbeltii",
+            "author_name":"pirate king",
+            "choices":[
+                "Karma uses her powers to give part of her hunger to Kitty"
+            ],
+            "content":"<div class=\"\"><div> <span>Ororo Monroe, also known as \"Storm\", walked through the mansion, reflecting on recent events. New Mutants member Karma had been possessed by Xavier's old enemy, Shadow King. During this time, his overindulging habits rendered Karma immobility obese. The X-Men and New Mutants had successfully rescued and brought Karma home. Now Professor X and Fantastic Four member Reed Richards were trying to find a way to help Karma while the X-Men dealt with the rest of Shadow King's remaining forces.<br>\r\n<br>\r\nIn the kitchen, \"C'mon, Kitty! What's the harm in one more bite?\" Karma was complaining as Kitty \"Shadowcat\" Pryde held a large piece of pizza away from her while her body was being partially phased in Karma's gut and one hand phased in her cheek. <br>\r\n<br>\r\n\"Because the last four bites you've taken wiped out eight extra-large pizzas! I think that's enough snack time, Karma.\" Kitty explained gently. At that moment, Storm arrived.<br>\r\n<br>\r\n\"Kitty, the team is mobilizing to take on what's left of Shadow King's operations. I need you to stay here and look after Karma.\"  She said. \"Easier said than done!\" Kitty retorted as she and Karma kept struggling. <br>\r\n<br>\r\nOnce the others left, Karma stopped struggling. \"It's just not fair! I can't help it that I'm always hungry nowadays!\" She pointed out sadly. <br>\r\n<br>\r\n\"We got to find a way to curb your appetite somehow. I'm sure the Professor or Dr. Richards'll come up with a plan.\" Kitty said reassuringly as she walked away. Karma frowned as she did this.<br>\r\n<br>\r\n\"<i>She'll never understand. I'll just have to make her understand</i>!\" She decided.<br>\r\n<br>\r\nWhat next? <br>\r\n</span></div></div>",
+            "created":1601701200,
+            "id":2914653,
+            "title":"After Karma is freed from Shadow King"
+        },
+        "141113":{
+            "author_id":"blackbeltii",
+            "author_name":"pirate king",
+            "choices":[
+                "She decides to wear diapers and gain weight naturally",
+                "She's forced to do so by a villain ",
+                "Other ideas"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does Kitty end up both diapered and fat?</span></div></span></div>",
+            "created":1601701200,
+            "id":2914681,
+            "title":"Diapered and WG"
+        },
+        "1411132":{
+            "author_id":"blackbeltii",
+            "author_name":"pirate king",
+            "choices":[
+                "White Queen",
+                "The Morlocks ",
+                "Other villains"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which villains?</span></div></span></div>",
+            "created":1601787600,
+            "id":2914883,
+            "title":"She's forced to do so by a villain "
+        },
+        "14111322":{
+            "author_id":"blackbeltii",
+            "author_name":"pirate king",
+            "choices":[
+                "Yeah",
+                "Nope"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are you sure?</span></div></span></div>",
+            "created":1601787600,
+            "id":2914886,
+            "title":"The Morlocks "
+        },
+        "141113222":{
+            "author_id":"blackbeltii",
+            "author_name":"pirate king",
+            "choices":[
+                "An OC villain",
+                "Other Earth 616 bad guys"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who else could fatten and diaper Shadowcat?</span></div></span></div>",
+            "created":1601787600,
+            "id":2914887,
+            "title":"Nope"
+        },
+        "14111323":{
+            "author_id":"blackbeltii",
+            "author_name":"pirate king",
+            "choices":[
+                "Mojo and Spiral",
+                "An OC Villain",
+                "Other X-Men Foes"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who else could fatten and diaper the youngest X-Man?</span></div></span></div>",
+            "created":1601787600,
+            "id":2914885,
+            "title":"Other villains"
+        },
+        "1411133":{
+            "author_id":"blackbeltii",
+            "author_name":"pirate king",
+            "choices":[
+                "She's captured by aliens",
+                "Brainwashed"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How else does Kitty fatten up and end up in diapees?</span></div></span></div>",
+            "created":1601701200,
+            "id":2914682,
+            "title":"Other ideas"
         },
         "1413":{
             "author_id":"blackbeltii",
@@ -27845,8 +28148,8 @@
         "description":"<td align=\"left\" class=\"norm\">UPDATE FOR EVERYONE ADDING OR JUST VIEWING <br>\r\nWEIGHT GAIN MUST BE REALEST SO NO SUPER POWER INVOLVING WG OR SO AND SO GAINED 5000 POUNDS OVER NIGHT. Hope this might satisfy people adding or viewing enjoy. - your friendly neighborhood Alien.<br>\r\nThings that are allowed<br>\r\nAnime <br>\r\nCartoons<br>\r\nMovies/comic books<br>\r\nInternet shorts or things like RWBY <br>\r\nLive action TV shows that can go from full house to game of thrones<br>\r\nSex of all genders <br>\r\nThings that arent allowed<br>\r\nNo feithes that arent invloed with diapers/ABDL or weight (vores not allowed)<br>\r\nNo killing<br>\r\nBesides that have fun.</td>",
         "id":2198390,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1590783540,
-        "modified":1590783540,
+        "last_full_update":1601822520,
+        "modified":1603053960,
         "pretty_title":"Fandom of the weight gain and diapered."
     }
 }

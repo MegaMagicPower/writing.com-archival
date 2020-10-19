@@ -29,6 +29,32 @@
             "id":2910682,
             "title":"Spyro"
         },
+        "12":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "A New Beginning",
+                "Eternal Night",
+                "Dawn of the Dragon",
+                "after Dawn of the Dragon"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>When does it happen?</span></div></span></div>",
+            "created":1601442000,
+            "id":2913136,
+            "title":"Cynder"
+        },
+        "121":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "Evil",
+                "Good"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does it happen when she is still Evil or when she turns good?</span></div></span></div>",
+            "created":1601442000,
+            "id":2913137,
+            "title":"A New Beginning"
+        },
         "13":{
             "author_id":"kilokhan",
             "author_name":"Kilokhan",
@@ -43,6 +69,19 @@
             "created":1601096400,
             "id":2910441,
             "title":"One of the Guardians"
+        },
+        "131":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "Instead of dying he is made younger",
+                "a gem",
+                "more"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does it happen?</span></div></span></div>",
+            "created":1601442000,
+            "id":2913140,
+            "title":"Ignitus"
         },
         "132":{
             "author_id":"kilokhan",
@@ -61,7 +100,7 @@
             "author_id":"kilokhan",
             "author_name":"Kilokhan",
             "choices":[
-                "He finds Fountain of Youth",
+                "He finds the Fountain of Youth",
                 "Volteer causes it",
                 "more"
             ],
@@ -79,8 +118,8 @@
         "description":"<td align=\"left\" class=\"norm\">You can regress any character you want as far as you want.<br>\r\nOC are allowed.<br>\r\nBe descriptive with the transformation.</td>",
         "id":2233289,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1601176500,
-        "modified":1601176500,
+        "last_full_update":1601500560,
+        "modified":1601500560,
         "pretty_title":"The Legend of Spyro Interactive"
     }
 }

@@ -27,7 +27,7 @@
         "111":{
             "author_id":"dtk84934",
             "author_name":"yolo man",
-            "content":"<div class=\"\"><div> <span>THANK YOU FOR CHOOSING MEDIAPORT<br>\r\n<br>\r\nAll functions are means of entering your favorite worlds and interacting with them seamlessly! The provided watch is your comfortable companion to help you activate/control/adjust your experience!<br>\r\n<br>\r\nSet-up:<br>\r\n<br>\r\n1. Plug in the drive into any USB 2.0/USB 3.0 slot on your device of choice. Drivers will install automatically, then start the MediaPort.exe file located on the drive.<br>\r\n<br>\r\n2. Adjust the watch controller to your comfort and power it on by holding button on the top for at least 5 seconds.<br>\r\n<br>\r\n3. Link the devices via Bluetooth connection.<br>\r\n<br>\r\n<u>INSTRUCTIONS</u><br>\r\n<br>\r\nENTERING WORLDS:<br>\r\n<br>\r\nTo enter a world, simply play media on your primary device. A MediaPort icon will appear green in the bottom corner of your player when the software has recognized the media. Then simply, tap the top botton on your watch. You will be directly transported into the world in Nuetral Mode by default.<br>\r\n<br>\r\nWOLRD INTERACTION:<br>\r\n<br>\r\nThere are different modes of interaction while inside of Media Port. The default is Neutral Mode.<br>\r\n<br>\r\nNuetral Mode (default): <br>\r\nYou will appear transparent inside your world as a spectator.  You cannot interact with the world directly and vise-virsa.<br>\r\n<br>\r\nRegular Mode:<br>\r\nYou can interact with the world regularly as yourself.<br>\r\n<br>\r\nGhost Mode: Our newly added Posession Ability! Intetact with the world similar to Neutral Mode until your \"etheral\" form merges with a character, allowing you to completely control their body as them in the world.<br>\r\n<br>\r\nOTHER WATCH CONTROLS:<br>\r\n<br>\r\nReality-Change:<br>\r\nAllows you to change reality inside of the current instance of a world.<br>\r\nCharcter Control:<br>\r\nAllows you to control aspects/decisions/personality of a character in thr current instamce of a world.<br>\r\n<br>\r\n(Go back to previous chapter to begin story)</span></div></div>",
+            "content":"<div class=\"\"><div> <span>THANK YOU FOR CHOOSING MEDIAPORT<br>\r\n<br>\r\nAll functions are means of entering your favorite worlds and interacting with them seamlessly! The provided watch is your comfortable companion to help you activate/control/adjust your experience!<br>\r\n<br>\r\nSet-up:<br>\r\n<br>\r\n1. Plug in the drive into any USB 2.0/USB 3.0 slot on your device of choice. Drivers will install automatically, then start the MediaPort.exe file located on the drive.<br>\r\n<br>\r\n2. Adjust the watch controller to your comfort and power it on by holding button on the top for at least 5 seconds.<br>\r\n<br>\r\n3. Link the devices via Bluetooth connection.<br>\r\n<br>\r\n<u>INSTRUCTIONS</u><br>\r\n<br>\r\nENTERING WORLDS:<br>\r\n<br>\r\nTo enter a world, simply play media on your primary device. A MediaPort icon will appear green in the bottom corner of your player when the software has recognized the media. Then simply, tap the top botton on your watch. You will be directly transported into the world in Ghost Mode by default.<br>\r\n<br>\r\nWOLRD INTERACTION:<br>\r\n<br>\r\nThere are different modes of interaction while inside of Media Port. The default is Ghost Mode.<br>\r\n<br>\r\nNuetral Mode: <br>\r\nYou will appear transparent inside your world as a spectator.  You cannot interact with the world directly and vise-virsa.<br>\r\n<br>\r\nRegular Mode:<br>\r\nYou can interact with the world regularly as yourself.<br>\r\n<br>\r\nGhost Mode (Default):<br>\r\nOur newly added Posession Ability! Intetact with the world similar to Neutral Mode until your \"etheral\" form merges with a character, allowing you to completely control their body as them in the world.<br>\r\n<br>\r\nOTHER WATCH CONTROLS:<br>\r\n<br>\r\nReality-Change:<br>\r\nAllows you to change reality inside of the current instance of a world.<br>\r\nCharcter Control:<br>\r\nAllows you to control aspects/decisions/personality of a character in thr current instamce of a world.<br>\r\n<br>\r\n(Go back to previous chapter to begin story)</span></div></div>",
             "created":1600578000,
             "id":2906961,
             "title":"readme.txt (Device Functions Explained)"
@@ -70,6 +70,32 @@
             "created":1600750800,
             "id":2907875,
             "title":"Movies"
+        },
+        "112111":{
+            "author_id":"dtk84934",
+            "author_name":"yolo man",
+            "choices":[
+                "Original (4-6)",
+                "Prequels (1-3)",
+                "Modern (7-9, R1, Solo)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which Era?</span></div></span></div>",
+            "created":1602306000,
+            "id":2918676,
+            "title":"Star Wars"
+        },
+        "112112":{
+            "author_id":"dtk84934",
+            "author_name":"yolo man",
+            "choices":[
+                "Tangled",
+                "Frozen",
+                "Another Disney Animated Movie"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which Movie?</span></div></span></div>",
+            "created":1602306000,
+            "id":2918675,
+            "title":"Animated Disney Movie"
         },
         "11213":{
             "author_id":"dtk84934",
@@ -135,6 +161,97 @@
             "id":2907686,
             "title":"Video Games"
         },
+        "112211":{
+            "author_id":"dtk84934",
+            "author_name":"yolo man",
+            "choices":[
+                "Mario and Luigi",
+                "Peach",
+                "Another Character"
+            ],
+            "content":"<div class=\"\"><div> <span>You boot up a Mario game and the MediaPort icon blinks to inform a successful sync!<br>\r\n<br>\r\nYou press the button on the watch and begin to feel strange. You move your hands to your face, but something is off. Your hands are a transparent, blueish hue! You look down and see that you are separated from your body, and your etheral form is being pulled into the watch. It is impossible to fight the force at this point while your vision blurs.<br>\r\n<br>\r\nIn an instant you see that you are blasting down a wormhole that looks straight out of a Dr. Who episode. You see a colorful light ahead of you, and in an instant, you are ejected from the watch into another plane.<br>\r\n<br>\r\nYou regain your composure to find yourself in... The Mushroom Kingdom itself! You look down at the watch around your wrist to see that you are still in your etheral form. The watch reads \"Ghost Mode\". \"This is insane.\", you think to yourself, when all of a sudden... you see motion in the distance. Who is it?</span></div></div>",
+            "created":1602306000,
+            "id":2918653,
+            "title":"Mario"
+        },
+        "1122111":{
+            "author_id":"dtk84934",
+            "author_name":"yolo man",
+            "choices":[
+                "GM: Try to possess one of them.",
+                "RM: Materilize and introduce yourself.",
+                "NM: Follow them and see where they're going."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You see Mario walking down the path with Luigi.<br>\r\n<br>\r\nWhat do you do?</span></div></span></div>",
+            "created":1602306000,
+            "id":2918658,
+            "title":"Mario and Luigi"
+        },
+        "1122112":{
+            "author_id":"dtk84934",
+            "author_name":"yolo man",
+            "choices":[
+                "GM: Try to possess her.",
+                "RM: Materilize and introduce yourself.",
+                "NM: Follow her and see where she's going."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You see Princess Peach walking along the path in the distance on her own.<br>\r\n<br>\r\nWhat do you do?</span></div></span></div>",
+            "created":1602306000,
+            "id":2918656,
+            "title":"Peach"
+        },
+        "11221121":{
+            "author_id":"dtk84934",
+            "author_name":"yolo man",
+            "choices":[
+                "Explore your body",
+                "Explore this world",
+                "Find others to interact with"
+            ],
+            "content":"<div class=\"\"><div> <span>You approach from behind her in your etheral form, a little confused on how to use the ability. It is clear she can't see you or sense your presence at all. A little nervous, you try to tap her in the shoulder, and your finger goes straight through her arm! You see her shiver a bit and look around confused, but it seems she is still unaware of your presence.<br>\r\n<br>\r\nEnough messing around you thought, while you begin slipping yourself into her body. You stick your arms into place which feels like putting on tight gloves. Even though Peach is much smaller than you, you feel yourself condensing relative to her shape. She starts to convulse a bit before slipping away. You feel yourself filling in her legs and squeezing into her torso. Finally you feel your head being forcibly pulled into hers, no turning back now. Almost in an instant, you gasp for air feeling very different. <br>\r\n<br>\r\nYour breathing felt more constricted and much softer. You see blonde hairs in your face, then you begin to realize the situation. You look down, feeling your new long hair tickle your neck in motion. You see a very feminine princess gown, long hair resting gently on your shoulders. You reach your dainty, gloved hands up your curves, and eventually to the mounds petruding out of your new chest. Shifting your smooth legs together, you could feel the biggest change of all. <br>\r\n<br>\r\n\"I can't believe it!\", you say in your new high-pitch voice. You reach up to your throat, surprised by the voice coming out.<br>\r\n<br>\r\nYou're Princess Peach! What do you do?<br>\r\n<br>\r\n<br>\r\n<br>\r\n</span></div></div>",
+            "created":1602306000,
+            "id":2918826,
+            "title":"GM: Try to possess her."
+        },
+        "112212":{
+            "author_id":"dtk84934",
+            "author_name":"yolo man",
+            "choices":[
+                "Tails working on one of his inventions with Sonic",
+                "Rouge up to no good",
+                "Another Character"
+            ],
+            "content":"<div class=\"\"><div> <span>You boot up a Sonic game and the MediaPort icon blinks to inform a successful sync!<br>\r\n<br>\r\nYou press the button on the watch and begin to feel strange. You move your hands to your face, but something is off. Your hands are a transparent, blueish hue! You look down and see that you are separated from your body, and your etheral form is being pulled into the watch. It is impossible to fight the force at this point while your vision blurs.<br>\r\n<br>\r\nIn an instant you see that you are blasting down a wormhole that looks straight out of a Dr. Who episode. You see a colorful light ahead of you, and in an instant, you are ejected from the watch into another plane.<br>\r\n<br>\r\nYou regain your composure to find yourself in... the world of Sonic! You look down at the watch around your wrist to see that you are still in your etheral form. The watch reads \"Ghost Mode\". \"This is insane.\", you think to yourself, when all of a sudden... you hear some commotion in the same room.<br>\r\n<br>\r\nWho's there?</span></div></div>",
+            "created":1602306000,
+            "id":2918660,
+            "title":"Sonic"
+        },
+        "1122121":{
+            "author_id":"dtk84934",
+            "author_name":"yolo man",
+            "choices":[
+                "GM: Try to possess one of them.",
+                "RM: Materilize and introduce yourself.",
+                "NM: Watch them and see where they're up to."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You see tall machines connected with tubes and cables stretching all over this room, and its creator, Tails tinkering with the control panel. Sonic is fetching a tool for him in the other corner.<br>\r\n<br>\r\nWhat do you do?</span></div></span></div>",
+            "created":1602306000,
+            "id":2918664,
+            "title":"Tails working on one of his inventions with Sonic"
+        },
+        "1122122":{
+            "author_id":"dtk84934",
+            "author_name":"yolo man",
+            "choices":[
+                "GM: Try to possess her.",
+                "RM: Materilize and talk to her.",
+                "NM: Follow her and see what she is up to."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You see Rouge, oblivious to your presence, planning some sort of devious plot.<br>\r\n<br>\r\nWhat do you do?</span></div></span></div>",
+            "created":1602306000,
+            "id":2918662,
+            "title":"Rouge up to no good"
+        },
         "112213":{
             "author_id":"dtk84934",
             "author_name":"yolo man",
@@ -161,6 +278,84 @@
             "id":2908062,
             "title":"Other"
         },
+        "11221331":{
+            "author_id":"dtk84934",
+            "author_name":"yolo man",
+            "choices":[
+                "Crash",
+                "Coco",
+                "Another Character"
+            ],
+            "content":"<div class=\"\"><div> <span>You boot up Crash Bandicoot and the MediaPort icon blinks to inform a successful sync!<br>\r\n<br>\r\nYou press the button on the watch and begin to feel strange. You move your hands to your face, but something is off. Your hands are a transparent, blueish hue! You look down and see that you are separated from your body, and your etheral form is being pulled into the watch. It is impossible to fight the force at this point while your vision blurs.<br>\r\n<br>\r\nIn an instant you see that you are blasting down a wormhole that looks straight out of a Dr. Who episode. You see a colorful light ahead of you, and in an instant, you are ejected from the watch into another plane.<br>\r\n<br>\r\nYou regain your composure to find yourself in... the world of Crash Bandicoot! You look down at the watch around your wrist to see that you are still in your etheral form. The watch reads \"Ghost Mode\". \"This is insane.\", you think to yourself, when all of a sudden... you see motion in the distance. Who is it?</span></div></div>",
+            "created":1602306000,
+            "id":2918668,
+            "title":"Crash Bandicoot"
+        },
+        "112213311":{
+            "author_id":"dtk84934",
+            "author_name":"yolo man",
+            "choices":[
+                "GM: Try to possess him.",
+                "RM: Materilize and introduce yourself.",
+                "NM: Follow him and see what he is up to."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You see Crash, the titular character for this world!<br>\r\n<br>\r\nWhat do you do?</span></div></span></div>",
+            "created":1602306000,
+            "id":2918669,
+            "title":"Crash"
+        },
+        "112213312":{
+            "author_id":"dtk84934",
+            "author_name":"yolo man",
+            "choices":[
+                "GM: Try to possess her.",
+                "RM: Materilize and introduce yourself.",
+                "NM: Follow her and see what she is up to."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You see the younger sister of Crash, Coco Bandicoot!<br>\r\n<br>\r\nWhat's the plan?</span></div></span></div>",
+            "created":1602306000,
+            "id":2918670,
+            "title":"Coco"
+        },
+        "11221332":{
+            "author_id":"dtk84934",
+            "author_name":"yolo man",
+            "choices":[
+                "Spyro",
+                "Bianca",
+                "Another Character"
+            ],
+            "content":"<div class=\"\"><div> <span>You boot up a Mario game and the MediaPort icon blinks to inform a successful sync!<br>\r\n<br>\r\nYou press the button on the watch and begin to feel strange. You move your hands to your face, but something is off. Your hands are a transparent, blueish hue! You look down and see that you are separated from your body, and your etheral form is being pulled into the watch. It is impossible to fight the force at this point while your vision blurs.<br>\r\n<br>\r\nIn an instant you see that you are blasting down a wormhole that looks straight out of a Dr. Who episode. You see a colorful light ahead of you, and in an instant, you are ejected from the watch into another plane.<br>\r\n<br>\r\nYou regain your composure to find yourself in one of the homeworlds from Spyro! You look down at the watch around your wrist to see that you are still in your etheral form. The watch reads \"Ghost Mode\". \"This is insane.\", you think to yourself, when all of a sudden... you see motion in the distance. Who is it?</span></div></div>",
+            "created":1602306000,
+            "id":2918671,
+            "title":"Spyro the Dragon"
+        },
+        "112213321":{
+            "author_id":"dtk84934",
+            "author_name":"yolo man",
+            "choices":[
+                "GM: Try to possess him.",
+                "RM: Materilize and introduce yourself.",
+                "NM: Follow him and see what he is up to."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You see the titular character of this realm, Spyro the dragon!<br>\r\n<br>\r\nWhat do you do?</span></div></span></div>",
+            "created":1602306000,
+            "id":2918672,
+            "title":"Spyro"
+        },
+        "112213322":{
+            "author_id":"dtk84934",
+            "author_name":"yolo man",
+            "choices":[
+                "GM: Try to possess her.",
+                "RM: Materilize and introduce yourself.",
+                "NM: Follow her and see what she is up to."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You see magical/transforming rabbit, Bianca!<br>\r\n<br>\r\nWhat do you do?</span></div></span></div>",
+            "created":1602306000,
+            "id":2918673,
+            "title":"Bianca"
+        },
         "11221333":{
             "author_id":"dtk84934",
             "author_name":"yolo man",
@@ -173,6 +368,73 @@
             "created":1601269200,
             "id":2911454,
             "title":"Other choices"
+        },
+        "112213333":{
+            "author_id":"darthbane0908",
+            "author_name":"Mr.Y",
+            "choices":[
+                "Star Fox",
+                "The legend of zelda ",
+                "Metroid",
+                "NieR Automata",
+                "Other games"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about these games?</span></div></span></div>",
+            "created":1602392400,
+            "id":2918913,
+            "title":"Other"
+        },
+        "1122133331":{
+            "author_id":"dtk84934",
+            "author_name":"yolo man",
+            "choices":[
+                "Fox",
+                "Krystal",
+                "Another Character"
+            ],
+            "content":"<div class=\"\"><div> <span>You boot up Star Fox Adventures and the MediaPort icon blinks to inform a successful sync!<br>\r\n<br>\r\nYou press the button on the watch and begin to feel strange. You move your hands to your face, but something is off. Your hands are a transparent, blueish hue! You look down and see that you are separated from your body, and your etheral form is being pulled into the watch. It is impossible to fight the force at this point while your vision blurs.<br>\r\n<br>\r\nIn an instant you see that you are blasting down a wormhole that looks straight out of a Dr. Who episode. You see a colorful light ahead of you, and in an instant, you are ejected from the watch into another plane.<br>\r\n<br>\r\nYou regain your composure to find yourself in... The Dinosaur Planet, Sauria! You look down at the watch around your wrist to see that you are still in your etheral form. The watch reads \"Ghost Mode\". \"This is insane.\", you think to yourself, when all of a sudden... you see motion in the distance. Who is it?</span></div></div>",
+            "created":1602392400,
+            "id":2919270,
+            "title":"Star Fox"
+        },
+        "1122133332":{
+            "author_id":"dtk84934",
+            "author_name":"yolo man",
+            "choices":[
+                "Link",
+                "Zelda",
+                "Another Character"
+            ],
+            "content":"<div class=\"\"><div> <span>You boot up a Zelda game and the MediaPort icon blinks to inform a successful sync!<br>\r\n<br>\r\nYou press the button on the watch and begin to feel strange. You move your hands to your face, but something is off. Your hands are a transparent, blueish hue! You look down and see that you are separated from your body, and your etheral form is being pulled into the watch. It is impossible to fight the force at this point while your vision blurs.<br>\r\n<br>\r\nIn an instant you see that you are blasting down a wormhole that looks straight out of a Dr. Who episode. You see a colorful light ahead of you, and in an instant, you are ejected from the watch into another plane.<br>\r\n<br>\r\nYou regain your composure to find yourself in... the Kingdom of Hyrule! You look down at the watch around your wrist to see that you are still in your etheral form. The watch reads \"Ghost Mode\". \"This is insane.\", you think to yourself, when all of a sudden... you see motion in the distance. Who is it?</span></div></div>",
+            "created":1602392400,
+            "id":2919273,
+            "title":"The Legend of Zelda"
+        },
+        "1122133333":{
+            "author_id":"dtk84934",
+            "author_name":"yolo man",
+            "choices":[
+                "Samus Aran",
+                "Zero Suit Samus",
+                "Another Character (are there anymore? xD)"
+            ],
+            "content":"<div class=\"\"><div> <span>You boot up a Metroid game and the MediaPort icon blinks to inform a successful sync!<br>\r\n<br>\r\nYou press the button on the watch and begin to feel strange. You move your hands to your face, but something is off. Your hands are a transparent, blueish hue! You look down and see that you are separated from your body, and your etheral form is being pulled into the watch. It is impossible to fight the force at this point while your vision blurs.<br>\r\n<br>\r\nIn an instant you see that you are blasting down a wormhole that looks straight out of a Dr. Who episode. You see a colorful light ahead of you, and in an instant, you are ejected from the watch into another plane.<br>\r\n<br>\r\nYou regain your composure to find yourself in on a spaceship! You look down at the watch around your wrist to see that you are still in your etheral form. The watch reads \"Ghost Mode\". \"This is insane.\", you think to yourself, when all of a sudden... you see motion in the distance. Who is it?</span></div></div>",
+            "created":1602392400,
+            "id":2919274,
+            "title":"Metroid"
+        },
+        "1122133334":{
+            "author_id":"dtk84934",
+            "author_name":"yolo man",
+            "choices":[
+                "A2",
+                "2B",
+                "Another Character"
+            ],
+            "content":"<div class=\"\"><div> <span>You boot up NieR Automata and the MediaPort icon blinks to inform a successful sync!<br>\r\n<br>\r\nYou press the button on the watch and begin to feel strange. You move your hands to your face, but something is off. Your hands are a transparent, blueish hue! You look down and see that you are separated from your body, and your etheral form is being pulled into the watch. It is impossible to fight the force at this point while your vision blurs.<br>\r\n<br>\r\nIn an instant you see that you are blasting down a wormhole that looks straight out of a Dr. Who episode. You see a colorful light ahead of you, and in an instant, you are ejected from the watch into another plane.<br>\r\n<br>\r\nYou regain your composure to find yourself in the ruins of city.. You look down at the watch around your wrist to see that you are still in your etheral form. The watch reads \"Ghost Mode\". \"This is insane.\", you think to yourself, when all of a sudden... you see motion in the distance. Who is it?</span></div></div>",
+            "created":1602392400,
+            "id":2919278,
+            "title":"NieR Automata"
         },
         "11222":{
             "author_id":"dtk84934",
@@ -202,7 +464,7 @@
         "121":{
             "author_id":"dtk84934",
             "author_name":"yolo man",
-            "content":"<div class=\"\"><div> <span>THANK YOU FOR CHOOSING MEDIAPORT<br>\r\n<br>\r\nAll functions are means of entering your favorite worlds and interacting with them seamlessly! The provided watch is your comfortable companion to help you activate/control/adjust your experience!<br>\r\n<br>\r\nSet-up:<br>\r\n<br>\r\n1. Plug in the drive into any USB 2.0/USB 3.0 slot on your device of choice. Drivers will install automatically, then start the MediaPort.exe file located on the drive.<br>\r\n<br>\r\n2. Adjust the watch controller to your comfort and power it on by holding button on the top for at least 5 seconds.<br>\r\n<br>\r\n3. Link the devices via Bluetooth connection.<br>\r\n<br>\r\n<u>INSTRUCTIONS</u><br>\r\n<br>\r\nENTERING WORLDS:<br>\r\n<br>\r\nTo enter a world, simply play media on your primary device. A MediaPort icon will appear green in the bottom corner of your player when the software has recognized the media. Then simply, tap the top botton on your watch. You will be directly transported into the world in Nuetral Mode by default.<br>\r\n<br>\r\nWOLRD INTERACTION:<br>\r\n<br>\r\nThere are different modes of interaction while inside of Media Port. The default is Neutral Mode.<br>\r\n<br>\r\nNuetral Mode (default): <br>\r\nYou will appear transparent inside your world as a spectator.  You cannot interact with the world directly and vise-virsa.<br>\r\n<br>\r\nRegular Mode:<br>\r\nYou can interact with the world regularly as yourself.<br>\r\n<br>\r\nGhost Mode: Our newly added Posession Ability! Intetact with the world similar to Neutral Mode until your \"etheral\" form merges with a character, allowing you to completely control their body as them in the world.<br>\r\n<br>\r\nOTHER WATCH CONTROLS:<br>\r\n<br>\r\nReality-Change:<br>\r\nAllows you to change reality inside of the current instance of a world.<br>\r\nCharcter Control:<br>\r\nAllows you to control aspects/decisions/personality of a character in thr current instamce of a world.<br>\r\n<br>\r\n(Go back to previous chapter to begin story)</span></div></div>",
+            "content":"<div class=\"\"><div> <span>THANK YOU FOR CHOOSING MEDIAPORT<br>\r\n<br>\r\nAll functions are means of entering your favorite worlds and interacting with them seamlessly! The provided watch is your comfortable companion to help you activate/control/adjust your experience!<br>\r\n<br>\r\nSet-up:<br>\r\n<br>\r\n1. Plug in the drive into any USB 2.0/USB 3.0 slot on your device of choice. Drivers will install automatically, then start the MediaPort.exe file located on the drive.<br>\r\n<br>\r\n2. Adjust the watch controller to your comfort and power it on by holding button on the top for at least 5 seconds.<br>\r\n<br>\r\n3. Link the devices via Bluetooth connection.<br>\r\n<br>\r\n<u>INSTRUCTIONS</u><br>\r\n<br>\r\nENTERING WORLDS:<br>\r\n<br>\r\nTo enter a world, simply play media on your primary device. A MediaPort icon will appear green in the bottom corner of your player when the software has recognized the media. Then simply, tap the top botton on your watch. You will be directly transported into the world in Ghost Mode by default.<br>\r\n<br>\r\nWOLRD INTERACTION:<br>\r\n<br>\r\nThere are different modes of interaction while inside of Media Port. The default is Ghost Mode.<br>\r\n<br>\r\nNuetral Mode: <br>\r\nYou will appear transparent inside your world as a spectator.  You cannot interact with the world directly and vise-virsa.<br>\r\n<br>\r\nRegular Mode:<br>\r\nYou can interact with the world regularly as yourself.<br>\r\n<br>\r\nGhost Mode (Default): Our newly added Posession Ability! Intetact with the world similar to Neutral Mode until your \"etheral\" form merges with a character, allowing you to completely control their body as them in the world.<br>\r\n<br>\r\nOTHER WATCH CONTROLS:<br>\r\n<br>\r\nReality-Change:<br>\r\nAllows you to change reality inside of the current instance of a world.<br>\r\nCharcter Control:<br>\r\nAllows you to control aspects/decisions/personality of a character in thr current instamce of a world.<br>\r\n<br>\r\n(Go back to previous chapter to begin story)</span></div></div>",
             "created":1600578000,
             "id":2906964,
             "title":"readme.txt (Device Functions Explained)"
@@ -280,8 +542,8 @@
         "description":"<td align=\"left\" class=\"norm\">Summary:<br>\r\n<br>\r\nYour character (M or F, Age 20), orders a new media accessory that claims to let you \"experience your favorite media in a revolutionary and (definetly patented) new way\". Story begins on arrival of your new Media Port!<br>\r\n<br>\r\nRULES:<br>\r\n<br>\r\n1. Stick to formatting: Please use decent english and grammar.<br>\r\n<br>\r\n2. LGBTQ subject matter allowed and encouraged. <br>\r\n<br>\r\n3. Don't create extremely specific sub-choices AKA writer bait, or your entry will be deleted. If you want something added to the story, either write it yourself or request it.<br>\r\n<br>\r\n4. No gross-out fetishes</td>",
         "id":2232841,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1600785000,
-        "modified":1601286360,
+        "last_full_update":1602457920,
+        "modified":1602457920,
         "pretty_title":"Media Port: A Multimedia Possession Tale"
     }
 }

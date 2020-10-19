@@ -224,6 +224,42 @@
             "id":2882172,
             "title":"Jesus Leopard"
         },
+        "111321":{
+            "author_id":"gpgclean",
+            "author_name":"YugiohPKMN ",
+            "choices":[
+                "Boy",
+                "Girl"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are you a boy or a girl?</span></div></span></div>",
+            "created":1601787600,
+            "id":2914860,
+            "title":"Suicune!"
+        },
+        "1113212":{
+            "author_id":"gpgclean",
+            "author_name":"YugiohPKMN ",
+            "choices":[
+                "Adele",
+                "Another girl."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>We\u2019ll start off with a thin Suicune. Adele Pelleta, blue fur, purple crystal crest and long wavy hair, French accent. You can decide what her personality is.</span></div></span></div>",
+            "created":1601874000,
+            "id":2915439,
+            "title":"Girl 1"
+        },
+        "11132122":{
+            "author_id":"gpgclean",
+            "author_name":"YugiohPKMN ",
+            "choices":[
+                "Aurialis",
+                "Another girl."
+            ],
+            "content":"<div class=\"\"><div> <span>Alright, we\u2019ll go up to a more fatter \u2018Cune then, as in a tubby girl. Aurialis \u2018Auri\u2019 Aurora, light blue fur, white paws, green crystal crest and short purple hair, no accent. She works as a chef for a well regarded local restaurant, and she\u2019s been struggling with ditching her fatty frame, to the point where she\u2019s ready to ditch the diet. You could help her do that.</span></div></div>",
+            "created":1601874000,
+            "id":2915455,
+            "title":"Girl 2"
+        },
         "11133":{
             "author_id":"gpgclean",
             "author_name":"YugiohPKMN ",
@@ -358,6 +394,32 @@
             "created":1506661200,
             "id":2393988,
             "title":"Hold up a sec."
+        },
+        "114":{
+            "author_id":"gpgclean",
+            "author_name":"YugiohPKMN ",
+            "choices":[
+                "Dragon",
+                "Dark",
+                "Other Types"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Hey, there\u2019s like a bunch more types we\u2019ve missed! <br>\r\n<br>\r\nSo, Dragon, Dark or another type?</span></div></span></div>",
+            "created":1602133200,
+            "id":2917542,
+            "title":"Dragon types-Oi."
+        },
+        "1142":{
+            "author_id":"gpgclean",
+            "author_name":"YugiohPKMN ",
+            "choices":[
+                "Absol",
+                "Mightyena",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Alright, first two choices are between Absol and Mightyena, or you can pick a different Dark Type.</span></div></span></div>",
+            "created":1602392400,
+            "id":2919005,
+            "title":"Dark"
         },
         "115":{
             "choices":[
@@ -736,8 +798,8 @@
         "description":"<td align=\"left\" class=\"norm\">DA RULES:<br>\r\n<br>\r\n1.Grammar. Try and make it presentable.<br>\r\n2.Plot. Try and make it clear where the story is going.<br>\r\n3.Keep it consistent. make sure that you know everything about the story you're adding to before jumping in.<br>\r\n4.no scat, toilet humour, foot fetish or any other weird things.<br>\r\n5.always leave room for another pokemon or digimon with the term 'other' when introducing the one you are using, so people can always pick something else if they don't like yours.<br>\r\n7.Last one, expansion is part of the plot in every case, and any expansions are permanent, so choose wisely.<br>\r\n<br>\r\napart from those, just have fun!</td>",
         "id":1859630,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1600791300,
-        "modified":1600791300,
+        "last_full_update":1602414300,
+        "modified":1602414300,
         "pretty_title":"Anthro Pokemon and Digimon expansion."
     }
 }

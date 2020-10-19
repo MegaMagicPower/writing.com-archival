@@ -4340,6 +4340,33 @@
             "id":2901861,
             "title":"Yes"
         },
+        "115332222222112215":{
+            "author_id":"nemryn",
+            "author_name":"nemryn",
+            "choices":[
+                "Swap social status",
+                "Swap weapons",
+                "Swap reputations",
+                "Swap Urbosa with someone else",
+                "Some other possibility"
+            ],
+            "content":"<div class=\"\"><div> <span>Link could swap his social position with Urbosa. He would be Champion of the Gerudo, and their chieftain, while Urbosa would be a royal knight of Hyrule serving Zelda.<br>\r\n<br>\r\nHe could swap their weapons and fighting styles. Link had been wanting to get a closer look at the Scimitar of the Seven, and it would be interesting to try a more graceful more of combat.<br>\r\n<br>\r\nHe could swap their reputations. Link would still be himself, but he'd be able to take credit for all of Urbosa's deeds.<br>\r\n<br>\r\nHe didn't have to swap with himself, of course. Link could swap Urbosa with Princess Zelda, or one of his fellow knights, or whoever he could imagine.</span></div></div>",
+            "created":1602651600,
+            "id":2921512,
+            "title":"other"
+        },
+        "1153322222221122155":{
+            "author_id":"trollspud",
+            "author_name":"Hello",
+            "choices":[
+                "Swap clothes",
+                "A different conclusion"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Link could also swap their clothes, so he would end up wearing Urbosas Gerudo Garb, and Urbosa would don the vestments of the champion.</span></div></span></div>",
+            "created":1602738000,
+            "id":2921962,
+            "title":"Clothes?"
+        },
         "11533222222212":{
             "author_id":"somepersonguy",
             "author_name":"Someone",
@@ -9097,7 +9124,7 @@
         "id":1706735,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
         "last_full_update":1600818840,
-        "modified":1600818840,
+        "modified":1602745020,
         "pretty_title":"Legend of the Swap Wand"
     }
 }

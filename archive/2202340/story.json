@@ -402,6 +402,18 @@
             "id":2815659,
             "title":"Someone else"
         },
+        "1154121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Were Drew and Charlotte okay with Didi taking Angelica with her to school?</span></div></span></div>",
+            "created":1602046800,
+            "id":2916546,
+            "title":"Yes"
+        },
         "11544":{
             "author_id":"johnny2",
             "author_name":"littlejohn",
@@ -1486,6 +1498,342 @@
             "id":2904067,
             "title":"No"
         },
+        "122222":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about The Slide?</span></div></span></div>",
+            "created":1601442000,
+            "id":2913205,
+            "title":"No, something else."
+        },
+        "1222221":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Reader's Choice 1",
+                "Reader's Choice 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have chosen The Slide. Now, what is different about this episode?</span></div></span></div>",
+            "created":1601442000,
+            "id":2913224,
+            "title":"Yes"
+        },
+        "12222211":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will Kimi be included?</span></div></span></div>",
+            "created":1601442000,
+            "id":2913226,
+            "title":"Reader's Choice 1"
+        },
+        "122222111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Kimi Tries to Help Chuckie Overcome His Fear of the Slide",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Kimi will be included. How will she be incorporated into the story?</span></div></span></div>",
+            "created":1601874000,
+            "id":2915511,
+            "title":"Yes"
+        },
+        "1222221111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Sure.",
+                "Another way she tries to help."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She does this by going down it herself, to prove to him it's safe?</span></div></span></div>",
+            "created":1601960400,
+            "id":2916064,
+            "title":"Kimi Tries to Help Chuckie Overcome His Fear of..."
+        },
+        "12222211111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><div> <span>At the playground, Kimi decided to prove to her big brother that the slide at the playground was nothing to be afraid of.<br>\r\n<br>\r\n\"Chuckie, this slide isn't like the one at the Pizza Puppet Place. It's perfectly safe. I'll prove it to you.\" Kimi told Chuckie.<br>\r\n<br>\r\n\"I can't look!\" Chuckie quivered as he covered his eyes. Kimi climbed onto the top of the slide.<br>\r\n<br>\r\n\"Whee!\" she said as she slid down the slide. She then walked up to Chuckie.<br>\r\n<br>\r\n\"See, Chuckie, it's perfectly safe.\" she told him.<br>\r\n<br>\r\n\"Actually, Kimi, I didn't see you go down it.\" Chuckie told Kimi. Kimi sighed unhappily.<br>\r\n<br>\r\n\"Trust me, Chuckie. It's safe. Now you try.\" Kimi told Chuckie.<br>\r\n<br>\r\n<b>Does Chuckie decide to go down the slide?</b></span></div></div>",
+            "created":1601960400,
+            "id":2916070,
+            "title":"Sure."
+        },
+        "122222111111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup.",
+                "Not yet."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do the others help him, though?</span></div></span></div>",
+            "created":1601960400,
+            "id":2916075,
+            "title":"Yes"
+        },
+        "1222221111112":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Chuckie Overcomes His Fear and Goes Down the Slide",
+                "Chuckie Freezes Up and the Babies Have to Help Him"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Okay, Kimi. If you say it's safe, I'll do it.\" Chuckie told his little sister, and he walked up to the slide. He closed his eyes as he climbed up the ladder and soon made it to the top. Then he opened his eyes and gasped when he saw the other end. He was stricken with fear.<br>\r\n<br>\r\n<b>What happens next?</b></span></div></div>",
+            "created":1601960400,
+            "id":2916098,
+            "title":"Not yet."
+        },
+        "12222211111121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Something else that helped him conquer his fear."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>He did this as the others encouraged him?</span></div></span></div>",
+            "created":1601960400,
+            "id":2916104,
+            "title":"Chuckie Overcomes His Fear and Goes Down the Slide"
+        },
+        "122222111111212":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did he did it to prove Angelica wrong when she told him to give up and that he couldn't do it?</span></div></span></div>",
+            "created":1601960400,
+            "id":2916159,
+            "title":"Something else that helped him conquer his fear."
+        },
+        "1222221111112121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Somehow, was stuck half way."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is he able to go all the way to the end?</span></div></span></div>",
+            "created":1601960400,
+            "id":2916160,
+            "title":"Yes"
+        },
+        "1222222":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about Toy Palace?</span></div></span></div>",
+            "created":1601528400,
+            "id":2913624,
+            "title":"No, something else."
+        },
+        "12222221":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Reader's Choice 1",
+                "Reader's Choice 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have chosen Toy Palace. Now, what is different about this episode?</span></div></span></div>",
+            "created":1601528400,
+            "id":2913625,
+            "title":"Yes"
+        },
+        "122222211":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will Kimi be included?</span></div></span></div>",
+            "created":1601528400,
+            "id":2913626,
+            "title":"Reader's Choice 1"
+        },
+        "12222222":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is Chuckie Gets Skunked okay?</span></div></span></div>",
+            "created":1601614800,
+            "id":2914198,
+            "title":"No, something else."
+        },
+        "122222221":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Reader's Choice 1",
+                "Reader's Choice 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have chosen Chuckie Gets Skunked. Now, what is different about this episode?</span></div></span></div>",
+            "created":1601614800,
+            "id":2914205,
+            "title":"Yes"
+        },
+        "1222222211":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will Kimi be included?</span></div></span></div>",
+            "created":1601614800,
+            "id":2914207,
+            "title":"Reader's Choice 1"
+        },
+        "12222222111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is Kimi the one who gets skunked instead of Chuckie?</span></div></span></div>",
+            "created":1601614800,
+            "id":2914208,
+            "title":"Yes"
+        },
+        "122222222":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about The Big House?</span></div></span></div>",
+            "created":1601874000,
+            "id":2915509,
+            "title":"No, something else."
+        },
+        "1222222221":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Sure.",
+                "Other ways it's different."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>It's changed so Tommy isn't the only one there?</span></div></span></div>",
+            "created":1601960400,
+            "id":2916030,
+            "title":"Yes"
+        },
+        "12222222211":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Chuckie",
+                "Someone Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who joins Tommy?</span></div></span></div>",
+            "created":1601960400,
+            "id":2916051,
+            "title":"Sure."
+        },
+        "122222222112":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is it Phil and/or Lil?</span></div></span></div>",
+            "created":1601960400,
+            "id":2916052,
+            "title":"Someone Else"
+        },
+        "1222222221121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup.",
+                "Only one of them."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is it both of the twins?</span></div></span></div>",
+            "created":1601960400,
+            "id":2916058,
+            "title":"Yes"
+        },
+        "1222222221122":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is it Kimi?</span></div></span></div>",
+            "created":1601960400,
+            "id":2916059,
+            "title":"No, someone else"
+        },
+        "1222222222":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about The Shot?</span></div></span></div>",
+            "created":1602738000,
+            "id":2922439,
+            "title":"No, something else."
+        },
+        "12222222221":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Someone Other Than Tommy Gets a Booster Shot",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have chosen The Shot. Now, what's different about this episode?</span></div></span></div>",
+            "created":1602738000,
+            "id":2922440,
+            "title":"Yes"
+        },
+        "122222222211":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is it Chuckie who gets a booster shot?</span></div></span></div>",
+            "created":1602738000,
+            "id":2922441,
+            "title":"Someone Other Than Tommy Gets a Booster Shot"
+        },
+        "1222222222111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does this take place before the episode as the experience that Chuckie tells Tommy about?</span></div></span></div>",
+            "created":1602738000,
+            "id":2922442,
+            "title":"Yes"
+        },
         "13":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
@@ -1883,6 +2231,18 @@
             "created":1600750800,
             "id":2908333,
             "title":"No, something else."
+        },
+        "1311322":{
+            "author_id":"boogey615",
+            "author_name":"e",
+            "choices":[
+                "yes",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>she might decide go naked instant to dress up like a baby</span></div></span></div>",
+            "created":1602046800,
+            "id":2917169,
+            "title":"Something else"
         },
         "1312":{
             "author_id":"supreme123",
@@ -2715,6 +3075,42 @@
             "id":2904353,
             "title":"No"
         },
+        "1322111111222":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did she decide to let Tommy and Kimi have their fun?</span></div></span></div>",
+            "created":1601960400,
+            "id":2916056,
+            "title":"Something else"
+        },
+        "13221111112221":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "One of the other babies showed up",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What happens next?</span></div></span></div>",
+            "created":1602392400,
+            "id":2919077,
+            "title":"Yes"
+        },
+        "132211111122211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Chuckie",
+                "Phil and Lil"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which of the other babies dropped by for a visit?</span></div></span></div>",
+            "created":1602392400,
+            "id":2919324,
+            "title":"One of the other babies showed up"
+        },
         "1322111112":{
             "author_id":"johnny2",
             "author_name":"littlejohn",
@@ -2810,6 +3206,16 @@
             "created":1585112400,
             "id":2806780,
             "title":"She calmly gives Tommy a straight answer"
+        },
+        "13221111212":{
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Well, Tommy,\" Kimi started, \"This hole thingie I got is called a veejee.\"<br>\r\n<br>\r\n\"A veejee?\" Tommy replied.<br>\r\n<br>\r\n\"Uh-huh,\" Kimi answered, \"At least that's what my mommy calls it.<br>\r\nShe told me all girls have one of these just like all boys have one<br>\r\nof those wiggly thingies like you do.\"<br>\r\n<br>\r\n\"Really?\" Tommy then asked.<br>\r\n<br>\r\n\"Yup,\" Kimi said, \"My mommy calls it a peenie.\"<br>\r\n<br>\r\n\"So, boys have peenies and girls have veejees.\" Tommy said.<br>\r\n<br>\r\n\"That's right.\" Kimi replied.<br>\r\n<br>\r\n<b>Did Tommy accept this answer?</b></span></div></div>",
+            "created":1602478800,
+            "id":2919592,
+            "title":"Something else"
         },
         "13222":{
             "author_id":"johnny2",
@@ -3294,6 +3700,788 @@
             "id":2905370,
             "title":"Yes"
         },
+        "142121221112121211111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "He Found Them Soft and Comfortable",
+                "He Could Go Potty Wherever and Whenever He Wanted"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Why did Chuckie like the idea of wearing diapers again?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921305,
+            "title":"Yeah."
+        },
+        "1421212211121212111111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "To Phil and Lil.",
+                "All 3."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>He told this to Tommy?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921307,
+            "title":"He Found Them Soft and Comfortable"
+        },
+        "14212122111212121111113":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Tommy Makes it to His Bedroom",
+                "Tommy is Caught by One of the Adults"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Don't worry, Chuckie. I'll just get each of us a new diapie.\" Tommy told Chuckie.<br>\r\n<br>\r\n\"Thanks, Tommy. You know, now that I've decided to wear diapers again, I find them very soft and comforble.\" He told Tommy, Phil, and Lil.<br>\r\n<br>\r\n\"Glad you see things our way.\" Said Phil.<br>\r\n<br>\r\n\"Yeah, I knew someday you'd go back to wearing diapies.\" added Lil.<br>\r\n<br>\r\n\"I'll be right back, Chuckie.\" Tommy told Chuckie as he walked away. He walked into his house wearing only his blue shirt.<br>\r\n<br>\r\n<b>Does Tommy make it up to his bedroom, or does one of the adults catch him walking around diaperless?</b></span></div></div>",
+            "created":1602651600,
+            "id":2921508,
+            "title":"All 3."
+        },
+        "142121221112121211111131":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Nah, too far away for him to reach."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>He was able to make it, getting two diapers, but, was he able to get the powder and wipes?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921511,
+            "title":"Tommy Makes it to His Bedroom"
+        },
+        "1421212211121212111111312":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><div> <span>Since the baby wipes and baby powder were on top of the changing table and out of his reach, Tommy decided that for now, the two clean diapers were all that he needed. He went back outside with a diaper in each hand.<br>\r\n<br>\r\n<b>Did Tommy tell Chuckie, Phil, and Lil that he couldn't get the baby wipes and baby powder?</b></span></div></div>",
+            "created":1602651600,
+            "id":2921544,
+            "title":"Nah, too far away for him to reach."
+        },
+        "14212122111212121111113121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup.",
+                "Nope, got caught."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Phil and Lil offered to get them, but, were they successful?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921560,
+            "title":"Yes"
+        },
+        "142121221112121211111131211":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "Tommy and Chuckie re-diapered them, or SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Before Phil and Lil went into Tommy's house, did they put their diapers back on?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921603,
+            "title":"Yup."
+        },
+        "1421212211121212111111312111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Not quite, one or both was on backwards."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Were both able to do it properly?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921606,
+            "title":"Yes"
+        },
+        "14212122111212121111113121111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Phil",
+                "Lil"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which twin got their diaper back on first?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921609,
+            "title":"Yeah."
+        },
+        "142121221112121211111131211112":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "RC 1",
+                "RC 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Why was Lil the first to get hers on?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921614,
+            "title":"Lil"
+        },
+        "1421212211121212111111312112":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Tommy and Chuckie help Phil and Lil put their diapers back on?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921607,
+            "title":"Tommy and Chuckie re-diapered them, or SE"
+        },
+        "14212122111212121111113121121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "The other way around."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was it Tommy who diapered Lil, and Chuckie with Phil?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921610,
+            "title":"Yes"
+        },
+        "142121221112121211111131211211":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Lil Climbed on Top of Phil",
+                "Phil Climbed on Top of Lil"
+            ],
+            "content":"<div class=\"\"><div> <span>Before Phil and Lil could go inside Tommy's house, Chuckie stopped them. He noticed that they still weren't wearing their diapers.<br>\r\n<br>\r\n\"You know, guys, you should probably put your diapers back on before you go inside. You don't want to get in trouble with the growed-ups.\" Chuckie told Phil and Lil.<br>\r\n<br>\r\n\"Good idea, Chuckie.\" said Phil and Lil. The twins stood still and pulled up their shirts. Tommy picked up Phil's untaped diaper and Chuckie picked up Lil's. It wasn't long before Tommy taped Phil's diaper back onto his bottom and Chuckie taped Lil's back onto hers.<br>\r\n<br>\r\n\"There. Now you can go inside.\" Chuckie told the twins.<br>\r\n<br>\r\n\"Thanks, guys!\" said Phil and Lil, and they walked into Tommy's house. Now re-diapered, the twins made their way into Tommy's bedroom and got to Tommy's changing table, where they spotted the baby wipes and baby powder at the top.<br>\r\n<br>\r\nTo reach the baby wipes and baby powder, did Lil climb on top of Phil, or vice-versa?</span></div></div>",
+            "created":1602651600,
+            "id":2921644,
+            "title":"Yeah."
+        },
+        "1421212211121212111111312112111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Nope."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>They managed to get them, but, did one of the containers spill?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921666,
+            "title":"Lil Climbed on Top of Phil"
+        },
+        "14212122111212121111113121121112":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "They Did it Together",
+                "They Did it Separately"
+            ],
+            "content":"<div class=\"\"><div> <span>Lil managed to get the baby wipes and baby powder. She fell off of Phil, but fortunately, none of the containers managed to spill. She landed on her bottom, which was protected by the padding of her diaper.<br>\r\n<br>\r\n\"Phew. Good thing Tommy and Chuckie put or diapies back on afore we came here, or else my butt would be sore!\" said Lil.<br>\r\n<br>\r\n\"Come on, Lil, let's get back to Tommy and Chuckie!\" Phil told Lil, and the twins made their way to the backyard.<br>\r\n<br>\r\n\"We're back!\" said Lil.<br>\r\n<br>\r\n<b>Upon returning, did Phil and Lil diaper Tommy and change Chuckie's diaper together, or did they do it separately?</b></span></div></div>",
+            "created":1602651600,
+            "id":2921676,
+            "title":"Nope."
+        },
+        "142121221112121211111131211211121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Chuckie was diapered first."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Tommy was changed first?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921703,
+            "title":"They Did it Together"
+        },
+        "1421212211121212111111312112111212":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Phil and Lil Help Tommy Put His Diaper On",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Okay, Chuckie. It's time to change your diaper.\" said Phil. Chuckie lay down and pulled up his shirt. Phil untaped Chuckie's dirty diaper and slipped it off, amazed at how dirty it was.<br>\r\n<br>\r\n\"Whoa! Neat, Chuckie! You really had to poop!\" exclaimed Phil. He then wiped Chuckie's bottom clean. Chuckie was ticklish, so he giggled as Phil wiped his bottom. After that, Lil powdered Chuckie's bottom and taped a clean diaper on it.<br>\r\n<br>\r\n\"There you go, all changed.\" said Lil.<br>\r\n<br>\r\n\"Thanks, guys.\" said Chuckie.<br>\r\n<br>\r\n\"Happy to help.\" said Phil and Lil.<br>\r\n<br>\r\n<b>What happens next?</b></span></div></div>",
+            "created":1602651600,
+            "id":2921716,
+            "title":"Chuckie was diapered first."
+        },
+        "14212122111212121111113121121112121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Nah, but he did throw away his dirty one."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Chuckie also help along with them, though?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921725,
+            "title":"Phil and Lil Help Tommy Put His Diaper On"
+        },
+        "142121221112121211111131211211121212":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Lil Taped Up the Left Side, Phil Taped Up The Right",
+                "Lil Taped Up the Right Side, Phil Taped Up the Left"
+            ],
+            "content":"<div class=\"\"><div> <span>While Chuckie went inside to dispose of his dirty diaper, Phil and Lil walked up to Tommy.<br>\r\n<br>\r\n\"Okay, Tommy, now let's get your diapie on!\" said Lil.<br>\r\n<br>\r\n<b>Did Lil tape up the left side of Tommy's diaper and Phil tape up the right, or vice-versa?</b></span></div></div>",
+            "created":1602651600,
+            "id":2921726,
+            "title":"Nah, but he did throw away his dirty one."
+        },
+        "1421212211121212111111312112111212122":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Nope, something went wrong."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did they do it the right way, though?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921738,
+            "title":"Lil Taped Up the Right Side, Phil Taped Up the ..."
+        },
+        "14212122111212121111113121121112121222":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, Something Else happened."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Phil and Lil not tape the diaper tight enough and it fell down as a result?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921757,
+            "title":"Nope, something went wrong."
+        },
+        "142121221112121211111131211211121212222":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, Something Else happened."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Phil and Lil pull too hard and rip the tapes off the diaper, making it unusable as a result?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921761,
+            "title":"No, Something Else happened."
+        },
+        "1421212211121212111111312112111212122221":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Nah, anything else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\"Sorry.\" Did Tommy start crying?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921781,
+            "title":"Yes"
+        },
+        "14212122111212121111113121121112121222212":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Tommy just decide to get himself another new diaper?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921810,
+            "title":"Nah, anything else."
+        },
+        "142121221112121211111131211211121212222121":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Tommy Makes it to His Bedroom",
+                "Tommy is Caught by One of the Adults"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Don't worry, guys. I'll just get myself another new diapie.\" Tommy told Phil and Lil. He walked into his house wearing only his blue shirt.<br>\r\n<br>\r\n<b>Does Tommy make it to his bedroom, or does one of the adults catch him walking around diaperless?</b></span></div></div>",
+            "created":1602651600,
+            "id":2921815,
+            "title":"Yes"
+        },
+        "1421212211121212111111312112111212122221211":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Tommy Puts His Diaper On",
+                "Tommy Goes Back Outside Diaperless"
+            ],
+            "content":"<div class=\"\"><div> <span>Tommy soon made it up to his bedroom without being seen by Stu, Didi, or Chas. He found his clean diapers on his changing table, and took one.<br>\r\n<br>\r\nDid Tommy put his diaper on by himself before going back outside, or did he decide to go back outside without diapering himself first?</span></div></div>",
+            "created":1602651600,
+            "id":2921823,
+            "title":"Tommy Makes it to His Bedroom"
+        },
+        "14212122111212121111113121121112121222212111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup.",
+                "Nah, has it backwards."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does he manage to get it on successfully with no problems?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921833,
+            "title":"Tommy Puts His Diaper On"
+        },
+        "142121221112121211111131211211121212222121111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><div> <span>Not wanting to risk Phil and Lil messing up again or getting caught walking around diaperless by one of the adults, Tommy decided to put his own diaper on. He pulled it up to his waist and taped it on without any problems.<br>\r\n<br>\r\n<b>Did Tommy go back outside after diapering himself?</b></span></div></div>",
+            "created":1602651600,
+            "id":2921877,
+            "title":"Yup."
+        },
+        "1421212211121212111111312112111212122221212":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Stu or Didi",
+                "Chas"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who noticed that Tommy wasn't wearing his diaper?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921825,
+            "title":"Tommy is Caught by One of the Adults"
+        },
+        "14212122111212121111113121121112121222212121":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Stu",
+                "Didi"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was it Stu or Didi who caught Tommy walking around diaperless?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921831,
+            "title":"Stu or Didi"
+        },
+        "142121221112121211111131211211121212222121211":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>By the time Tommy got to the top of the stairs, Stu had just finished fixing the leak in the bathroom sink and was on his way out of the bathroom.<br>\r\n<br>\r\n<b>Did Stu freak out upon seeing Tommy diaperless?</b></span></div></span></div>",
+            "created":1602651600,
+            "id":2921834,
+            "title":"Stu"
+        },
+        "1421212211121212111111312112111212122221212111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Chas, Deed, I just want to check on the... Aaaah!\" Stu exclaimed upon seeing Tommy diaperless. Didi heard Stu's scream from the kitchen.<br>\r\n<br>\r\n\"Stu, what's wrong?\" Didi asked Stu.<br>\r\n<br>\r\n\"Oh, nothing. Tommy just took off his diaper.\" Stu told Didi.<br>\r\n<br>\r\n\"Well, put it back on!\" Didi told Stu.<br>\r\n<br>\r\n<b>Did Stu take Tommy to his bedroom to put a clean diaper on him?</b></span></div></div>",
+            "created":1602651600,
+            "id":2921863,
+            "title":"Yes"
+        },
+        "14212122111212121111113121121112121222212121111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><div> <span>Fortunately, Stu and Tommy weren't very far from Tommy's bedroom. Stu picked Tommy up, took him into his bedroom and lay him down on his changing table.<br>\r\n<br>\r\n\"Okay, Champ. Let's get this diaper on!\" Stu said to Tommy as he picked up one of Tommy's clean diapers.<br>\r\n<br>\r\n<b>Did Tommy hold still as Stu diapered him?</b></span></div></div>",
+            "created":1602651600,
+            "id":2921866,
+            "title":"Yes"
+        },
+        "142121221112121211111131211211121212222121211111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><div> <span>Tommy held still as Stu taped his diaper onto his bottom. He was actually glad Stu took him to his bedroom to diaper him, as he needed a clean diaper anyway.<br>\r\n<br>\r\n\"There you go, good as new.\" Stu told Tommy.<br>\r\n<br>\r\n<b>Did Stu take Tommy back outside after diapering him?</b></span></div></div>",
+            "created":1602651600,
+            "id":2921868,
+            "title":"Yes"
+        },
+        "1421212211121212111111312112111212122221212111111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Stu took Tommy back outside after diapering him. Did he notice Chuckie was now wearing a diaper?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921870,
+            "title":"Yes"
+        },
+        "14212122111212121111113121121112121222212121111112":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Somebody Disposes of the Ruined Diaper",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><div> <span>Fortunately for Chuckie, Stu didn't notice that he was now wearing a diaper. He placed Tommy outside.<br>\r\n<br>\r\n\"Now, just keep that diaper on this time and play nicely outside.\" Stu told Tommy, and he went back inside.<br>\r\n<br>\r\n<b>What happens next?</b></span></div></div>",
+            "created":1602651600,
+            "id":2921873,
+            "title":"No"
+        },
+        "142121221112121211111131211211122":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Phil Changed Chuckie's Diaper, Lil Re-diapered Tommy",
+                "Lil Changed Chuckie's Diaper, Phil Re-diapered Tommy"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Phil change Chuckie's diaper while Lil helped Tommy put his diaper on, or vice-versa?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921720,
+            "title":"They Did it Separately"
+        },
+        "1421212211121212111111312112111222":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Phil re-diapering Tommy."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>We follow Lil diapering Chuckie?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921735,
+            "title":"Lil Changed Chuckie's Diaper, Phil Re-diape..."
+        },
+        "142121221112121211111131212":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did they forget to put their diapers back on before going into Tommy's house?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921577,
+            "title":"Nope, got caught."
+        },
+        "1421212211121212111111312121":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Stu or Didi",
+                "Chas"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Don't worry, Tommy, we'll get em' for you!\" said Phil and Lil. They ran into Tommy's house, but they left their diapers that they had taken off behind. Chuckie noticed this, picked up the diapers, and called out to Phil and Lil.<br>\r\n<br>\r\n\"Wait! Phil, Lil, come back! You forgot to put your diapers back on!\" Chuckie called to Phil and Lil, but it was no use. By this time, Phil and Lil were already inside Tommy's house and out of earshot.<br>\r\n<br>\r\n<b>Who noticed Phil and Lil walking around diaperless?</b></span></div></div>",
+            "created":1602651600,
+            "id":2921581,
+            "title":"Yes"
+        },
+        "1421212211121212111112":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Tommy Makes it to His Bedroom",
+                "Tommy is Caught by One of the Adults"
+            ],
+            "content":"<div class=\"\"><div> <span>\"No problem, Chuckie I'll just get both of us a new diapie.\" Tommy told Chuckie.<br>\r\n<br>\r\n\"Thanks, Tommy. You know, now that I've decided to wear diapers again, I don't have to stop playing with you, Phil, and Lil. I can just go potty in my diaper and keep playing.\" Chuckie told Tommy.<br>\r\n<br>\r\n\"I'll be right back.\" Tommy told Chuckie as he walked away. He walked into his house wearing only his blue shirt.<br>\r\n<br>\r\n<b>Does Tommy make it up to his bedroom, or does one of the adults catch him walking around diaperless?</b></span></div></div>",
+            "created":1602651600,
+            "id":2921310,
+            "title":"He Could Go Potty Wherever and Whenever He Wanted"
+        },
+        "14212122111212121111121":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Baby Wipes and Baby Powder",
+                "Just the Diapers"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Tommy made it up to his bedroom without being noticed by Stu, Didi, or Chas. He found his clean diapers on the changing table and picked two up; one for Chuckie, and one for himself.<br>\r\n<br>\r\n<b>Did he take anything else?</b></span></div></span></div>",
+            "created":1602651600,
+            "id":2921311,
+            "title":"Tommy Makes it to His Bedroom"
+        },
+        "142121221112121211111211":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Chuckie diapered both himself and Tommy, or SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>He also took baby wipes and baby powder. On returning to the others, did Phil and Lil diaper and powder them both?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921313,
+            "title":"Baby Wipes and Baby Powder"
+        },
+        "1421212211121212111112111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Phil Diapered Tommy, Lil Diapered Chuckie",
+                "Lil Diapered Tommy, Phil Diapered Chuckie"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which twin diapered who?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921324,
+            "title":"Yeah."
+        },
+        "14212122111212121111121111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Nah."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did both boys stay still as they were diapered?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921331,
+            "title":"Phil Diapered Tommy, Lil Diapered Chuckie"
+        },
+        "1421212211121212111112112":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Tommy",
+                "Chuckie"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who was the first to get a new diaper?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921327,
+            "title":"Chuckie diapered both himself and Tommy, or SE"
+        },
+        "14212122111212121111121121":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Tommy Put His Own Diaper On",
+                "Chuckie Diapered Tommy"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Tommy put his own diaper on, or did Chuckie help him?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921329,
+            "title":"Tommy"
+        },
+        "142121221112121211111211212":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Nope."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Tommy held still as Chuckie got to work. Soon, it had been taped on.<br>\r\n\"There.\"<br>\r\nThen, it was Chuckie's turn for a diaper, but, did he diaper himself?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921333,
+            "title":"Chuckie Diapered Tommy"
+        },
+        "1421212211121212111112112122":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Tommy",
+                "Phil and/or Lil"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who changed Chuckie's diaper?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921349,
+            "title":"Nope."
+        },
+        "14212122111212121111121121222":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "It was Lil.",
+                "Both did."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Hmm, was it Phil that did it?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921361,
+            "title":"Phil and/or Lil"
+        },
+        "142121221112121211111211212223":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "They Did it Themselves",
+                "Tommy and Chuckie Helped Them"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Okay, Chuckie. Let's get you changed.\" said Phil. Chuckie lay down and pulled up his shirt. Phil untaped Chuckie's dirty diaper and slipped it off, amazed at how dirty it was.<br>\r\n<br>\r\n\"Whoa, neat! You really had to poop, Chuckie!\" he exclaimed. Chuckie blushed in embarrassment upon hearing this. Next, Phil wiped Chuckie's bottom clean. After that, Lil powdered Chuckie's bottom and taped the clean diaper onto it.<br>\r\n<br>\r\n\"There you go. All better.\" Said Lil.<br>\r\n<br>\r\n\"Thanks, guys.\" Said Chuckie.<br>\r\n<br>\r\n<b>Next, it was Phil and Lil's turn to put their diapers back on. Did they do it themselves, or did Tommy and Chuckie help them?</b></span></div></div>",
+            "created":1602651600,
+            "id":2921372,
+            "title":"Both did."
+        },
+        "1421212211121212111112112122232":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Tommy with Phil, Chuckie with Lil.",
+                "Other way around."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>They even re-powdered and re-wiped them, but, who did what with who?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921377,
+            "title":"Tommy and Chuckie Helped Them"
+        },
+        "14212122111212121111121122":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Chuckie Changed His Own Diaper",
+                "Tommy Changed Chuckie's Diaper"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Chuckie change his own diaper, or did Tommy help him?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921330,
+            "title":"Chuckie"
+        },
+        "142121221112121211111211222":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Phil and Lil entered.",
+                "Anything else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>As Tommy got to work doing so, what happened?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921334,
+            "title":"Tommy Changed Chuckie's Diaper"
+        },
+        "1421212211121212111112112222":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did one of the adults come outside to check on them?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921348,
+            "title":"Anything else."
+        },
+        "14212122111212121111121122221":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Stu or Didi",
+                "Chas"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who went outside to check on the babies?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921350,
+            "title":"Yes"
+        },
+        "142121221112121211111211222211":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Stu",
+                "Didi"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was it Stu or Didi who went outside to check on the babies?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921352,
+            "title":"Stu or Didi"
+        },
+        "142121221112121211111212":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Were the baby wipes and baby powder on top of the changing table, out of his reach?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921312,
+            "title":"Just the Diapers"
+        },
+        "1421212211121212111112121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Chuckie.",
+                "The twins."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>He told them this on coming back out, but, who offered to get them?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921316,
+            "title":"Yes"
+        },
+        "14212122111212121111121211":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Chuckie Makes it to Tommy's Bedroom",
+                "Chuckie is Caught by One of the Adults"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Don't worry, Tommy. I'll get them for you.\" said Chuckie. He pulled up his pants and underwear so nobody would notice him wearing a dirty diaper, then he walked into Tommy's house.<br>\r\n<br>\r\n<b>Did Chuckie make it to Tommy's bedroom, or did one of the adults notice he was wearing a dirty diaper?</b></span></div></div>",
+            "created":1602651600,
+            "id":2921340,
+            "title":"Chuckie."
+        },
+        "142121221112121211111212112":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "The Smell of the Dirty Diaper",
+                "The Sound of the Diaper Crinkling"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What gave Chuckie away?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921353,
+            "title":"Chuckie is Caught by One of the Adults"
+        },
+        "14212122111212121111121212":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Phil and Lil Went Inside Tommy's House Diaperless",
+                "Someone Put Phil and Lil's Diapers Back on Them"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Don't worry, we'll get em for you!\" said Phil and Lil.<br>\r\n<br>\r\n\"Thanks, guys.\" Tommy said to Phil and Lil.<br>\r\n<br>\r\n<b>Did Phil and Lil go inside Tommy's house diaperless, or did someone put their diapers back on them before they went in?</b></span></div></div>",
+            "created":1602651600,
+            "id":2921344,
+            "title":"The twins."
+        },
+        "142121221112121211111212122":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "They Did it Themselves",
+                "Tommy and Chuckie Helped Them"
+            ],
+            "content":"<div class=\"\"><div> <span>Before Phil and Lil could go inside Tommy's house, Chuckie stopped them. He noticed that they still weren't wearing their diapers.<br>\r\n<br>\r\n\"You know, guys, you should probably put your diapers back on before you go inside. You don't want to get in trouble with the growed-ups.\" Chuckie told Phil and Lil.<br>\r\n<br>\r\n\"Good idea, Chuckie.\" said the twins.<br>\r\n<br>\r\n<b>Did Phil and Lil put their diapers back on by themselves, or did Tommy and Chuckie help them?</b></span></div></div>",
+            "created":1602651600,
+            "id":2921345,
+            "title":"Someone Put Phil and Lil's Diapers Back on ..."
+        },
+        "1421212211121212111112121222":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Tommy Re-diapered Phil, Chuckie Re-diapered Lil",
+                "Tommy Re-diapered Lil, Chuckie Re-diapered Phil"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Tommy re-diaper Phil and Chuckie re-diaper Lil, or vice-versa?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921346,
+            "title":"Tommy and Chuckie Helped Them"
+        },
+        "14212122111212121111121212221":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Other way around."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Now re-diapered, the twins found what the others neded. On coming out and returning to the boys, did Phil diaper Tommy, and Lil Chuckie?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921360,
+            "title":"Tommy Re-diapered Phil, Chuckie Re-diapered Lil"
+        },
         "14212122111212121112":{
             "author_id":"bryanmchunter",
             "author_name":"FlyingDuckManGenesis",
@@ -3668,6 +4856,513 @@
             "id":2905314,
             "title":"Yeah."
         },
+        "142122":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Tommy, Phil, and Lil decide to get Chuckie's potty for him?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921264,
+            "title":"Something Else"
+        },
+        "1421221":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, He Had to Poop as Well."
+            ],
+            "content":"<div class=\"\"><div> <span>\"Don't worry, Chuckie. We'll get you your potty. That way, you don't have to go inside where the growed-ups can watch you.\" Tommy told Chuckie.<br>\r\n<br>\r\n\"You'd do that for me?\" asked Chuckie.<br>\r\n<br>\r\n\"Of course. We'll be right back.\" Tommy told Chuckie, and he, Phil, and Lil went into Tommy's house. They soon made their way to the bathroom, where they found Chuckie's potty. Fortunately for them, Stu was too busy trying to fix a leaky faucet to notice them. Tommy, Phil, and Lil picked up Chuckie's potty and carried it outside to where Chuckie was.<br>\r\n<br>\r\n\"Here you go, Chuckie.\" Tommy told Chuckie as he, Phil, and Lil set the potty down in front of him.<br>\r\n<br>\r\n\"Thanks, guys. Now, I really gotta go, so you guys gotta not look at me, okay?\" asked Chuckie.<br>\r\n<br>\r\n\"Okay, don't worry, Chuckie. We'll look at this flower!\" Tommy told Chuckie, and he, Phil, Lil all looked at a nearby flower. Chuckie pulled down his pants and underwear and sat on his potty. He sighed with relief as he peed in it. Soon, his bladder was empty and his potty was full.<br>\r\n<br>\r\n<b>Was Chuckie finished using his potty?</b></span></div></div>",
+            "created":1602651600,
+            "id":2921266,
+            "title":"Yes"
+        },
+        "14212212":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "\"Yes, Tommy. I like using my potty!\"",
+                "\"No, I kind of miss my diapers.\""
+            ],
+            "content":"<div class=\"\"><div> <span>After he finished peeing, Chuckie had to poop. He grunted, then he sighed with relief as he pooped in his potty. Now both his bladder and sphincter were empty and his potty was full. When he was all done, Chuckie climbed off his potty and pulled his pants and underwear back up.<br>\r\n<br>\r\n\"Okay, guys. I'm all done.\" Chuckie told Tommy, Phil, and Lil. They all looked into Chuckie's full potty and stared in awe.<br>\r\n<br>\r\n\"Wow, Chuckie. You really had to go!\" Tommy told Chuckie. He, Phil, and Lil all carried the full potty and emptied it into the bushes.<br>\r\n<br>\r\n\"So, Chuckie, do you feel proud of yourself for using your potty?\" Tommy asked Chuckie.<br>\r\n<br>\r\n<b>What does Chuckie say?</b></span></div></div>",
+            "created":1602651600,
+            "id":2921269,
+            "title":"No, He Had to Poop as Well."
+        },
+        "142122122":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\"No, I kind of miss my diapers.\" Chuckie told Tommy.<br>\r\n<br>\r\n<b>Does Tommy offer to get Chuckie one of his clean diapers?</b></span></div></span></div>",
+            "created":1602651600,
+            "id":2921270,
+            "title":"\"No, I kind of miss my diapers.\""
+        },
+        "1421221221":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Tommy Helped Chuckie Put His Diaper On",
+                "Chuckie Put His Own Diaper On"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Don't worry, Chuckie, you can have one of my diapies.\" Tommy told Chuckie.<br>\r\n<br>\r\n\"Thanks, Tommy.\" Chuckie told Tommy. Tommy went back into his house and walked up to his bedroom, where he found his clean diapers on his changing table. He took one, then went back outside to Chuckie.<br>\r\n<br>\r\n\"Here you go.\" Tommy told Chuckie.<br>\r\n<br>\r\nDid Tommy put the diaper on Chuckie, or did Chuckie do it himself?</span></div></div>",
+            "created":1602651600,
+            "id":2921272,
+            "title":"Yes"
+        },
+        "14212212211":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Chuckie Pulls His Pants and Underwear Back Up",
+                "Chuckie Takes Off His Pants and Underwear"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Okay, Chuckie. Let's get this diapie on!\" Tommy told Chuckie. Chuckie pulled down his pants and underwear and pulled up his shirt. He held still as Tommy taped the diaper onto his bottom. Soon, it was on.<br>\r\n<br>\r\n\"There you go, Chuckie.\" Tommy told Chuckie.<br>\r\n<br>\r\n<b>Did Chuckie pull his pants and underwear back up so nobody would notice he was now wearing a diaper, or did he decide to take his pants and underwear off so everyone could see his diaper?</b></span></div></div>",
+            "created":1602651600,
+            "id":2921281,
+            "title":"Tommy Helped Chuckie Put His Diaper On"
+        },
+        "142122122111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Didi Calls the Babies Inside For a Snack",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><div> <span>After Tommy taped his diaper onto his bottom, Chuckie pulled his pants and underwear back up. He didn't want anyone to notice that he was now wearing a diaper. Now that he was wearing a diaper again, Chuckie felt happy. He found his diaper soft and comfortable, and even though he didn't have to go potty right now since he already peed and pooped in his potty, he knew that he could use his diaper the next time he needed to go potty so that he didn't have to stop playing with his friends.<br>\r\n<br>\r\n\"Thanks, Tommy. I feel so much better now.\" Chuckie told Tommy.<br>\r\n<br>\r\n\"Happy to help, Chuckie.\" Tommy assured Chuckie.<br>\r\n<br>\r\n<b>What happens next?</b></span></div></div>",
+            "created":1602651600,
+            "id":2921286,
+            "title":"Chuckie Pulls His Pants and Underwear Back Up"
+        },
+        "1421221221111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Susie.",
+                "Anyone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Didis oon called the kids in for a snack. Besides Phil and Lil, who else had joined Chuckie and Tommy inside?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921290,
+            "title":"Didi Calls the Babies Inside For a Snack"
+        },
+        "14212212211111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "Not Right This Moment"
+            ],
+            "content":"<div class=\"\"><div> <span>Susie had come to Tommy's house because both her parents had to work today. Her mom had to work at the hospital, her dad was submitting a new script for <i>The Dummi Bears</i>, and her brothers and sister were all at school. Susie joined Tommy, Chuckie, Phil, and Lil for their snack.<br>\r\n<br>\r\n\"Hi, guys.\" Susie said to the babies.<br>\r\n<br>\r\n\"Hi, Susie.\" replied the babies.<br>\r\n<br>\r\n<b>Did Susie notice that Chuckie was wearing a diaper under his pants?</b></span></div></div>",
+            "created":1602651600,
+            "id":2921529,
+            "title":"Susie."
+        },
+        "142122122111111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Another way she noticed it."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She noticed the outline of it?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921532,
+            "title":"Yes"
+        },
+        "1421221221111112":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did she hear the crinkling sound the diaper made?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921543,
+            "title":"Another way she noticed it."
+        },
+        "14212212211111121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Tommy did."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She heard what sounded to her like a crinkling sound.<br>\r\n\"What's going on?\"<br>\r\nDid Chuckie tell her what was going on?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921558,
+            "title":"Yes"
+        },
+        "142122122111112":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Somewhere else when she spotted it."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She didn't spot it until later, when all 5 were playing. All 5 were in the playpen?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921533,
+            "title":"Not Right This Moment"
+        },
+        "1421221221111122":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Chuckie's Pants Fell Down",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><div> <span>Tommy, Chuckie, Phil, Lil, and Susie were all outside, playing with Tommy's ball. They were having such a good time that Chuckie had forgotten he was wearing a diaper under his pants.<br>\r\n<br>\r\n<b>How did Susie find out that Chuckie was wearing a diaper?</b></span></div></div>",
+            "created":1602651600,
+            "id":2921549,
+            "title":"Somewhere else when she spotted it."
+        },
+        "14212212211111221":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Were they pulled down after they were caught on something?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921564,
+            "title":"Chuckie's Pants Fell Down"
+        },
+        "142122122111112211":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "A Branch",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What did Chuckie's pants get caught on?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921574,
+            "title":"Yeah."
+        },
+        "1421221221111122111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "No, someone else did."
+            ],
+            "content":"<div class=\"\"><div> <span>Susie was helping them climb a tree, when Chuckie's pants caught on a branch. She managed to pull him free, without his pants. She felt him to see if he was alright, feeling the diaper through his underwear.<br>\r\n\"Chuckie?\"<br>\r\n\"Huh?\"<br>\r\n\"What's going on here?\"<br>\r\nDid Chuckie explain what had happened earlier?</span></div></div>",
+            "created":1602651600,
+            "id":2921578,
+            "title":"A Branch"
+        },
+        "14212212211111221111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Reader's Choice 1",
+                "Reader's Choice 2"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Well, Susie. it's kind of like this; Earlier today, I had to go potty, but I didn't want to go inside where the growed-ups could see me, so Tommy, Phil, and Lil brought my potty out here. I peed and pooped in it, but it didn't feel right to me. I missed wearing diapers, so Tommy went inside, got one of his clean diapers, and put it on me. I didn't want anyone to notice I was wearing a diaper, so I pulled my pants back up. Soon, I forgetted I was even wearing a diaper, until my pants came off.\" Chuckie told Susie.<br>\r\n<br>\r\n<b>What did Susie think of Chuckie's decision to start wearing diapers again?</b></span></div></div>",
+            "created":1602651600,
+            "id":2921612,
+            "title":"Yeah."
+        },
+        "142122122111112211111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Politely explained that he was too old for them, or anything else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did she want to try it herself?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921618,
+            "title":"Reader's Choice 1"
+        },
+        "1421221221111122111112":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Explain to Chuckie That He's Too Old For Diapers",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What did Susie do?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921621,
+            "title":"Politely explained that he was too old for them..."
+        },
+        "14212212211111221111121":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Chuckie, I understand your feelings, but you're potty-trained now. You can't go back to wearing diapers.\" Susie told Chuckie.<br>\r\n<br>\r\n\"Why not?\" Chuckie asked Susie.<br>\r\n<br>\r\n\"Well, if you want to be a big kid like me, you gotta keep going forward. You can't spend the rest of your life being held back by baby things like wearing diapers. Once you're potty-trained, you don't have to worry about being dirty or wet or having to wait for someone to change you.  You can just use your potty whenever you have to pee or poop. Sure, before I came here, I wasn't sure I wanted to be potty-trained, either, especially when my mommy, daddy, brothers and sister all watched me, but once I started using my potty, I was glad to be wearing big-girl underwear, and now I don't ever want to go back to wearing diapers. What's more, once you get good at using the potty, the growed-ups stop watching you, so it'll be much easier.\" Susie told Chuckie.<br>\r\n<br>\r\n<b>Did Susie's speech inspire Chuckie to take off his diaper and go back to being potty-trained?</b></span></div></div>",
+            "created":1602651600,
+            "id":2921622,
+            "title":"Explain to Chuckie That He's Too Old For Di..."
+        },
+        "142122122111112211111211":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "RC 1",
+                "RC 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>He hugged her.<br>\r\n\"Thanks.\"<br>\r\n\"Any time.\"<br>\r\nHow else did she help him?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921624,
+            "title":"Yes"
+        },
+        "1421221221111122111112111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Susie help Chuckie put his pants and underwear back on after he took off his diaper?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921625,
+            "title":"RC 1"
+        },
+        "14212212211111221111121111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "Not Right This Moment"
+            ],
+            "content":"<div class=\"\"><div> <span>Chuckie untaped his diaper, which was still dry, and let it fall to the ground. Then he picked it up. After he did this, Susie brought him his pants and underwear and helped him put them back on.<br>\r\n<br>\r\n\"Thanks, Susie.\" said Chuckie.<br>\r\n<br>\r\n\"Anytime.\" said Susie, and Chuckie walked up to Tommy.<br>\r\n<br>\r\n\"You know, Tommy. Wearing this diaper was fun, but I think I'm ready to go back to being-potty trained now.\" Chuckie said to Tommy.<br>\r\n<br>\r\n\"Okay, Chuckie.\" said Tommy. Tommy still preferred to wear diapers, but was fully supportive of Chuckie's decision to be potty-trained. Likewise, Chuckie was fully supportive of Tommy's decision to keep wearing diapers even though he preferred to be potty-trained.<br>\r\n<br>\r\n\"Here, Tommy. You can have your diaper back. You need it more than I do.\" Chuckie told Tommy as he handed him his diaper.<br>\r\n<br>\r\n\"Thanks, Chuckie.\" said Tommy.<br>\r\n<br>\r\n<b>Did Tommy need a diaper change?</b></span></div></div>",
+            "created":1602651600,
+            "id":2921632,
+            "title":"Yes"
+        },
+        "142122122111112211111211111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Chuckie.",
+                "Susie.",
+                "Phil, Lil, or all 4 helped get him changed."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>He was a bit wet, but, who got him changed?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921633,
+            "title":"Yes"
+        },
+        "1421221221111122111112111111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><div> <span>Tommy looked down and saw that he had wet his diaper. He felt a little embarrassed.<br>\r\n<br>\r\n\"You were right, Chuckie. I do need that diapie more than you do.\" Tommy told Chuckie.<br>\r\n<br>\r\n\"Don't worry, Tommy. I'll get you changed.\" Chuckie told Tommy.<br>\r\n<br>\r\n\"You'd do that for me?\" Tommy asked Chuckie.<br>\r\n<br>\r\n\"Sure, Tommy. You helped me today, now it's my turn to help you.\" Chuckie assured Tommy.<br>\r\n<br>\r\n<b>Before Chuckie removed Tommy's wet diaper, did he make his way to Tommy's bedroom to get baby wipes and baby powder?</b></span></div></div>",
+            "created":1602651600,
+            "id":2921663,
+            "title":"Chuckie."
+        },
+        "14212212211111221111121111111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Nope."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Chuckie soon returned with baby wipes and baby powder. Did Susie and the twins help hold Tommy still, but gently, as he got to work?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921673,
+            "title":"Yes"
+        },
+        "1421221221111122111112111113":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Phil and/or Lil",
+                "Chuckie, Phil, Lil, and Susie"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who helped change Tommy's diaper?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921647,
+            "title":"Phil, Lil, or all 4 helped get him changed."
+        },
+        "14212212211111221111121111132":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><div> <span>Tommy looked down and saw that he had wet his diaper. He felt a little embarrassed.<br>\r\n<br>\r\n\"You're right, Chuckie. I do need that diapie more than you do.\" Tommy told Chuckie.<br>\r\n<br>\r\n\"Don't worry, Tommy. We'll get you changed.\" Chuckie assured Tommy.<br>\r\n<br>\r\n\"Thanks, guys.\" Tommy told Chuckie, Phil, Lil, and Susie.<br>\r\n<br>\r\n<b>Before they removed Tommy's wet diaper, did Chuckie, Phil, Lil, and Susie make their way to Tommy's bedroom to get baby wipes and baby powder?</b></span></div></div>",
+            "created":1602651600,
+            "id":2921655,
+            "title":"Chuckie, Phil, Lil, and Susie"
+        },
+        "142122122111112211111211111321":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Other ways the 4 worked together."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>They soon had what they neded.<br>\r\nDid Chuckie get off the old diaper, Lil wipe him, Susie powder him, and Phil get the new diaper on?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921669,
+            "title":"Yes"
+        },
+        "1421221221111122111112111113212":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was it Chuckie who removed Tommy's wet diaper, Phil who wiped Tommy's bottom, Lil who powdered it, and Susie who taped the clean diaper on it?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921719,
+            "title":"Other ways the 4 worked together."
+        },
+        "14212212211111221111121111132122":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was it Susie who removed Tommy's wet diaper, Phil who wiped his bottom, Lil who powdered it, and Chuckie who taped the clean diaper on it?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921723,
+            "title":"No, something else."
+        },
+        "142122122111112211111211111321221":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "RC 1",
+                "RC 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Soon, he was good as new. Next to happen was...</span></div></span></div>",
+            "created":1602651600,
+            "id":2921730,
+            "title":"Yes"
+        },
+        "1421221221111122111112111113212211":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was it time for the babies to take a nap?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921763,
+            "title":"RC 1"
+        },
+        "14212212211111221111121111132122111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "RC 1",
+                "RC 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Susie helped get them to sleep, but how?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921787,
+            "title":"Yes"
+        },
+        "142122122111112211111211111321221111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did she sing them a lullaby?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921826,
+            "title":"RC 1"
+        },
+        "1421221221111122111112111113212211112":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did she read them a bedtime story?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921828,
+            "title":"No, something else."
+        },
+        "14212212211111221111121111132122111121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "No, got herself something to drink, and watched some TV quietly.",
+                "Something else afterward."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She was soon reading a bed time story to them. When all 4 were fas asleep, did she join them in their nap?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921839,
+            "title":"Yes"
+        },
+        "142122122111112211111211111321221111212":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Juice",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Since Susie was a little bit older than the babies, Didi allowed her to stay up past nap time, provided she didn't wake the babies up.<br>\r\n<br>\r\n<b>What did Didi get Susie to drink?</b></span></div></span></div>",
+            "created":1602651600,
+            "id":2921876,
+            "title":"No, got herself something to drink, and watched..."
+        },
+        "1421221221111122111112111113212211112122":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "iced tea.",
+                "Milk."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>It was ice water?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921886,
+            "title":"Something Else"
+        },
+        "14212212211112":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was it Angelica?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921304,
+            "title":"Anyone else."
+        },
+        "142122122112":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Anyone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>First to see him in his diaper were Phil and Lil?</span></div></span></div>",
+            "created":1602651600,
+            "id":2921284,
+            "title":"Chuckie Takes Off His Pants and Underwear"
+        },
         "14213":{
             "author_id":"bryanmchunter",
             "author_name":"FlyingDuckManGenesis",
@@ -3849,6 +5544,18 @@
             "id":2907302,
             "title":"Reader's Choice 2"
         },
+        "142332":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about Angelica Nose Best?</span></div></span></div>",
+            "created":1602910800,
+            "id":2923509,
+            "title":"No, something else."
+        },
         "15":{
             "author_id":"nicholas1998",
             "author_name":"Nick98",
@@ -3877,6 +5584,561 @@
             "id":2905664,
             "title":"Season 5"
         },
+        "1511":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Susie Looks After Fluffy Instead of Chuckie",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have chosen <i>Babysitting Fluffy</i>. Now, what is different about this episode?</span></div></span></div>",
+            "created":1601960400,
+            "id":2916053,
+            "title":"Babysitting Fluffy"
+        },
+        "15111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup.",
+                "Nah, the others came to help."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Having a cat of her own, she figured she was up for it. Was she alone in watching Fluffy though?</span></div></span></div>",
+            "created":1601960400,
+            "id":2916060,
+            "title":"Susie Looks After Fluffy Instead of Chuckie"
+        },
+        "151111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Reader's Choice 1",
+                "Reader's Choice 2"
+            ],
+            "content":"<div class=\"\"><div> <span>Inside Susie's bedroom, Angelica was telling Susie how to take care of Fluffy.<br>\r\n<br>\r\n\"And this is Fluffy's pretty kitty brush. Member', you gotta brush her at least a zillion times a day. And be sure to pet her for two whole hours. And don't forget to tell her she's beautiful. That's her favoritest thing.\" Angelica told Susie.<br>\r\n<br>\r\n\"Angelica, I have my own cat. I'm pretty sure I know how to take care of yours.\" said Susie begrudgingly.<br>\r\n<br>\r\n\"Bye, Fluffy! I know you're gonna take extra-special good care of my beautiful kitty! Right?!\" Angelica snarled at Susie.<br>\r\n<br>\r\n\"Yes, Angelica.\" replied Susie begrudgingly, and Angelica left.<br>\r\n<br>\r\n<b>What happens next?</b></span></div></div>",
+            "created":1601960400,
+            "id":2916067,
+            "title":"Yup."
+        },
+        "1511111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup.",
+                "Anything else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Susie try her hand at feeding Fluffy cat food?</span></div></span></div>",
+            "created":1601960400,
+            "id":2916074,
+            "title":"Reader's Choice 1"
+        },
+        "1511112":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Susie try to get Fluffy and Chowder to play together?</span></div></span></div>",
+            "created":1601960400,
+            "id":2916092,
+            "title":"Reader's Choice 2"
+        },
+        "15111121":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Chowder, come here!\" Susie called to her cat, and he crawled into the room.<br>\r\n<br>\r\n\"Angelica brought a new friend for you to play with. Her name is Fluffy. She's going to be staying with us for a few days.\" Susie told Chowder.<br>\r\n<br>\r\n<b>Did Fluffy and Chowder get along with each other?</b></span></div></div>",
+            "created":1601960400,
+            "id":2916094,
+            "title":"Yes"
+        },
+        "151111212":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Fortunitly, no."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The trouble started with Fluffy hissing at Chowder, who hissed back. Soon, a cat fight broke out, but, was Susie cought in the line of fire?</span></div></span></div>",
+            "created":1601960400,
+            "id":2916097,
+            "title":"No"
+        },
+        "1511112121":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Susie was not happy when she saw Chowder and Fluffy hissing and clawing at each other.<br>\r\n<br>\r\n<b>Did she try to separate them?</b></span></div></span></div>",
+            "created":1601960400,
+            "id":2916229,
+            "title":"Yeah."
+        },
+        "15111121211":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Susie get hurt trying to separate Chowder and Fluffy?</span></div></span></div>",
+            "created":1601960400,
+            "id":2916230,
+            "title":"Yes"
+        },
+        "151111212111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Fluffy.",
+                "Chowder."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She got hurt by which cat?</span></div></span></div>",
+            "created":1601960400,
+            "id":2916236,
+            "title":"Yes"
+        },
+        "151111212112":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Chowder",
+                "Fluffy"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Susie wasn't hurt, but she was cross with one of the cats. Which cat was it?</span></div></span></div>",
+            "created":1601960400,
+            "id":2916232,
+            "title":"No"
+        },
+        "1511112121122":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Another reason."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She was mad at Fluffy for causing the trouble in the first place.</span></div></span></div>",
+            "created":1601960400,
+            "id":2916239,
+            "title":"Fluffy"
+        },
+        "15111121211221":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><div> <span>Susie was not happy with Fluffy for trying to attack Chowder.<br>\r\n<br>\r\n\"Now, listen, Fluffy. Just because you're a guest here doesn't mean you can hurt Chowder.\" Susie told Fluffy.<br>\r\n<br>\r\n\"Now, I want both of you to play nicely together, or I'm gonna have to separate you for the rest of the day. Understand?\" Susie asked Chowder and Fluffy.<br>\r\n<br>\r\n<b>Did Chowder and Fluffy listen to Susie?</b></span></div></div>",
+            "created":1601960400,
+            "id":2916269,
+            "title":"Yeah."
+        },
+        "151111212112211":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Not yet."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Both nodded, as if they did understand her. Did the others drop by later?</span></div></span></div>",
+            "created":1601960400,
+            "id":2916270,
+            "title":"Yes"
+        },
+        "1511112121122111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "All of Them",
+                "Just One"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did all of the babies arrive or just one?</span></div></span></div>",
+            "created":1601960400,
+            "id":2916278,
+            "title":"Yeah."
+        },
+        "15111121211221111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup.",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did one of them come up with the idea to try to diaper Fluffy?</span></div></span></div>",
+            "created":1601960400,
+            "id":2916280,
+            "title":"All of Them"
+        },
+        "15111121211221112":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Tommy",
+                "Someone Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Just one baby came to Susie's house. Who was it?</span></div></span></div>",
+            "created":1601960400,
+            "id":2916290,
+            "title":"Just One"
+        },
+        "151111212112211121":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><div> <span>Just then, the doorbell rang.<br>\r\n<br>\r\n\"I\"ll get it!\" said Lucy, and she walked up to the front door. Stu had arrived with Tommy.<br>\r\n<br>\r\n\"Hi, Stu. Hi, Tommy.\" said Lucy.<br>\r\n<br>\r\n\"Hi, Lucy. Is Randy home? I want to talk to him about that lost episode of <i>The Dummi Bears</i>.\" Stu told Lucy.<br>\r\n<br>\r\n\"Sure. He's in the kitchen.\" Lucy told Stu.<br>\r\n<br>\r\n\"Okay. I'll be right there. I just gotta drop Tommy off.\" Stu told Lucy. He set Tommy down near Susie.<br>\r\n<br>\r\n\"Okay, Tommy. Play nicely with Susie. Daddy will be in the kitchen if you need him.\" Stu told Tommy, and he went into the kitchen.<br>\r\n<br>\r\n\"Hi, Tommy.\" said Susie.<br>\r\n<br>\r\n\"Hi, Susie. Whatcha doin' today?\" Tommy asked Susie.<br>\r\n<br>\r\n\"Well, Angelica and her mommy and daddy are going away for the weekend, so I'm looking after Fluffy until they get back.\" Susie told Tommy.<br>\r\n<br>\r\n<b>Was Tommy shocked when he heard this?</b></span></div></div>",
+            "created":1601960400,
+            "id":2916292,
+            "title":"Tommy"
+        },
+        "1511112121122111211":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><div> <span>Tommy was shocked when he heard what Susie said.<br>\r\n<br>\r\n\"I'm glad I'm not looking after Fluffy.\" Tommy told Susie.<br>\r\n<br>\r\n\"How come?\" Susie asked Tommy.<br>\r\n<br>\r\n\"Because she and Spike don't get along. When Fluffy first came to my house, she caused trouble. She broke a few things and Angelica blamed it all on Spike.\" Tommy told Susie.<br>\r\n<br>\r\n\"Oh, dear!\" said Susie in shock.<br>\r\n<br>\r\n\"Me and Phil and Lil had to prove Spike was innocent. It wasn't easy for us, since we can't talk to the growed-ups.\" Tommy told Susie.<br>\r\n<br>\r\n\"Fluffy's caused trouble for me, too. A few minutes ago, she was trying to attack Chowder. I soon stopped their fight, so I'm sure she can't be too much trouble.\" Susie told Tommy.<br>\r\n<br>\r\n<b>As Susie and Tommy shared their stories about Fluffy, was Fluffy causing trouble behind their backs?</b></span></div></div>",
+            "created":1601960400,
+            "id":2916295,
+            "title":"Yes"
+        },
+        "15111121211221112111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Trying to jump from the couch.",
+                "Anything else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She was eating Chowder's leftover catfood?</span></div></span></div>",
+            "created":1601960400,
+            "id":2916298,
+            "title":"Yes"
+        },
+        "151111212112211121113":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was Fluffy on top of the fireplace, trying to knock down Alisa, Buster, and Edwin's trophies?</span></div></span></div>",
+            "created":1601960400,
+            "id":2916310,
+            "title":"Anything else."
+        },
+        "1511112121122111211131":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup.",
+                "Nah."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Were they able to get her down before she knocked down any of them?</span></div></span></div>",
+            "created":1601960400,
+            "id":2916312,
+            "title":"Yes"
+        },
+        "15111121211221112111312":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><div> <span>Fluffy was on top of the fireplace, near Alisa, Buster, and Edwin's trophies. When Susie turned around, she was shocked when she saw Fluffy trying to knock them down.<br>\r\n<br>\r\n\"Come on, Tommy! We gots to save my brothers' and sister's trophies!\" she told Tommy, and the two toddlers ran towards the fireplace.<br>\r\n<br>\r\n<b>Did they catch the trophies before they fell to the floor and broke?</b></span></div></div>",
+            "created":1601960400,
+            "id":2916320,
+            "title":"Nah."
+        },
+        "151111212112211121113122":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><div> <span>Tommy and Susie got to the fireplace too late. The trophies fell to the floor and broke. Stu, Lucy, and Randy were in the kitchen nearby and heard a crash.<br>\r\n<br>\r\n\"What was that?\" Lucy asked. She, Stu, and Randy went into the living room and saw the trophies in pieces on the floor, and Tommy and Susie standing near them.<br>\r\n<br>\r\n<b>Did the adults think Tommy and Susie were the ones who broke them?</b></span></div></div>",
+            "created":1601960400,
+            "id":2916322,
+            "title":"No"
+        },
+        "1511112121122111211131222":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Lucy.",
+                "Stu or Randy."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>They at first thought they had knocked into them somehow, but, who noticed Fluffy first?</span></div></span></div>",
+            "created":1601960400,
+            "id":2916326,
+            "title":"No"
+        },
+        "15111121211221112111312221":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes, They Needed All the Help They Could Get",
+                "No, They Thought it Too Dangerous For Susie"
+            ],
+            "content":"<div class=\"\"><div> <span>Lucy noticed Fluffy on top of the fireplace.<br>\r\n<br>\r\n\"Bad girl, Fluffy. You may be a guest at our house, but that doesn't mean you can knock down our trophies and break them.\" scolded Lucy. Lucy couldn't understand why Fluffy was so badly behaved, as Chowder, Susie's own cat was a very well-behaved one. Meanwhile, Stu's first instinct upon seeing Tommy near the broken trophies was to get him away from them. He didn't want Tommy to get hurt by them, especially since he wasn't wearing any shoes.<br>\r\n<br>\r\n\"Come on, Champ. Let's get you somewhere safe while Mr. and Mrs. Carmichael clean up this mess.\" Stu told Tommy as he picked him up. Shortly afterwards, Lucy and Randy came back to pick up the broken pieces of the trophies.<br>\r\n<br>\r\n<b>Did they let Susie help them pick them up?</b></span></div></div>",
+            "created":1601960400,
+            "id":2916332,
+            "title":"Lucy."
+        },
+        "151111212112211121113122211":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "RC 1",
+                "RC 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How did Susie help them out?</span></div></span></div>",
+            "created":1601960400,
+            "id":2916349,
+            "title":"Yes, They Needed All the Help They Could Get"
+        },
+        "1511112121122111211131222111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did she help glue the pieces of the trophies back together?</span></div></span></div>",
+            "created":1601960400,
+            "id":2916366,
+            "title":"RC 1"
+        },
+        "15111121211221112111312221111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Not quite."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did she manage to glue them the right way?</span></div></span></div>",
+            "created":1601960400,
+            "id":2916370,
+            "title":"Yes"
+        },
+        "151111212112211121113122212":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup.",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Though they thought Susie's offer to help was nice, they thought it might be too dangerous. They put her with Tommy. Both talked over what happened?</span></div></span></div>",
+            "created":1601960400,
+            "id":2916352,
+            "title":"No, They Thought it Too Dangerous For Susie"
+        },
+        "1511112121122111211131222122":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did another parent and their child stop by to visit?</span></div></span></div>",
+            "created":1601960400,
+            "id":2916368,
+            "title":"SE"
+        },
+        "15111121211221112111312221221":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Chas With Chuckie",
+                "Betty with Phil and Lil"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Another parent stopped by with their children. Who was it?</span></div></span></div>",
+            "created":1601960400,
+            "id":2916371,
+            "title":"Yes"
+        },
+        "151111212112211121113122212211":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Lucy did."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Susie greet them at the door?</span></div></span></div>",
+            "created":1601960400,
+            "id":2916373,
+            "title":"Chas With Chuckie"
+        },
+        "15111121211221112111312221222":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup.",
+                "She fed him.",
+                "Anything else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>When Tommy neded a change, did Susie help to change his diaper?</span></div></span></div>",
+            "created":1601960400,
+            "id":2916372,
+            "title":"No, something else."
+        },
+        "151111212112211121113122212221":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Susie Puts Tommy's Clean Diaper on His Bottom",
+                "Fluffy Tears Tommy's Clean Diaper to Pieces"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Are you okay, Tommy?\" Susie asked Tommy.<br>\r\n<br>\r\n\"Yeah, I'm fine. Boy, it was real scary when those trophies broked. I was so a-scared, I...\" Tommy said, then he paused and looked down, and found that he had wet his diaper.<br>\r\n<br>\r\n\"I think I need a new diapie.\" Tommy told Susie.<br>\r\n<br>\r\n\"Don't worry, Tommy, I'll get you changed. Don't move, I'll be right back.\" Susie told Tommy.<br>\r\n<br>\r\n\"Thanks, Susie.\" said Tommy, and he stayed where he was. Susie went into the kitchen and reached into Tommy's diaper bag. She pulled out one of Tommy's clean diapers, as well as some baby wipes and a bottle of baby powder. Fortunately for her, Stu, Lucy, and Randy were too busy trying to fix the trophies to notice her. She returned to Tommy shortly afterwards.<br>\r\n<br>\r\n\"Okay, Tommy, I'm back. Now let's get that diaper off.\" Susie told Tommy. Tommy lay down and pulled up his shirt. Susie untaped Tommy's wet diaper and slipped it off, then she balled it up so it could be disposed of and set it aside. After that, she wiped Tommy's bottom clean. Tommy was ticklish, so he giggled as Susie wiped him. After that, Susie powdered Tommy's bottom.<br>\r\n<br>\r\n<b>What happens next?</b></span></div></div>",
+            "created":1601960400,
+            "id":2916385,
+            "title":"Yup."
+        },
+        "1511112121122111211131222122211":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup.",
+                "Anything else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She got it on him no problem.<br>\r\n\"Good as new.\"<br>\r\n\"Thanks.\"<br>\r\n\"Any time.\"<br>\r\nDid both then start playing with some toys that had been brought over?</span></div></span></div>",
+            "created":1601960400,
+            "id":2916393,
+            "title":"Susie Puts Tommy's Clean Diaper on His Bottom"
+        },
+        "1511112121122111211131222122212":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><div> <span>As Susie changed Tommy's diaper, she was unaware that Fluffy was causing trouble again. Fluffy snuck up behind Susie as she had just finished powdering Tommy's bottom.<br>\r\n<br>\r\n\"There you go, all clean. Now let's get your diaper on.\" Susie told Tommy. Susie picked up Tommy's clean diaper, but just before she could tape it on, Fluffy tore the diaper to pieces, leaving Tommy naked from the waist down.<br>\r\n<br>\r\n\"No, Fluffy! Bad girl!\" scolded Susie. Pieces of Tommy's clean diaper flew everywhere. Susie's scolding got the attention of Stu, Lucy, and Randy, who went into the living room to check on Tommy and Susie. They were shocked upon seeing Tommy diaperless and pieces of his diaper all over the living room.<br>\r\n<br>\r\n\"What's going on here, Susie? I want the truth!\" Randy told Susie.<br>\r\n<br>\r\n\"Tommy had an accident, so I tried to change his diaper, and I nearly succeeded, but then Fluffy tore the clean diaper to pieces.\" Susie told her parents.<br>\r\n<br>\r\n<b>Did Susie's parents believe her?</b></span></div></div>",
+            "created":1601960400,
+            "id":2916386,
+            "title":"Fluffy Tears Tommy's Clean Diaper to Pieces"
+        },
+        "15111121211221112111312221222121":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Another Parent Stops By With Their Children",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><div> <span>Lucy and Randy were proud of Susie for being so responsible in both trying to help her friend and telling them exactly what happened. Since Fluffy had earlier broken the trophies, they believed Susie when she told them what happened to Tommy's clean diaper.<br>\r\n<br>\r\n\"Fluffy, what are we going to do with you?\" Lucy asked Fluffy as she picked her up. Fluffy pretended to act innocent, but Lucy wasn't fooled.<br>\r\n<br>\r\n\"I think you need a little time outside the house.\" Lucy told Fluffy as she carried her outside. Randy then picked up Tommy's wet diaper and went into the kitchen to dispose of it. He was at least relieved to find that Fluffy hadn't torn it apart yet.<br>\r\n<br>\r\n\"Come on, Champ. Let's get you a clean diaper.\" Stu said as he picked Tommy up, and went into the kitchen to get his diaper bag.<br>\r\n<br>\r\n<b>What happens next?</b></span></div></div>",
+            "created":1601960400,
+            "id":2916387,
+            "title":"Yes"
+        },
+        "151111212112211121113122212221211":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Chas With Chuckie",
+                "Betty with Phil and Lil"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Another parent stopped by with their children. Who was it?</span></div></span></div>",
+            "created":1601960400,
+            "id":2916390,
+            "title":"Another Parent Stops By With Their Children"
+        },
+        "1511112121122111211131222122212112":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "No, but thanked for for wanting to help."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Susie greeted them, even offering to carry the twins diaper bag. Did Betty let her?</span></div></span></div>",
+            "created":1601960400,
+            "id":2916394,
+            "title":"Betty with Phil and Lil"
+        },
+        "15111121211221112111312221222121122":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Hi, Mrs. Deville.\" Susie said as she greeted Betty, who was carrying Phil and Lil in one arm and their diaper bag in the other.<br>\r\n<br>\r\n\"Hi, Susie.\" Betty said as she walked into the house.<br>\r\n<br>\r\n\"Your hands seem a little full. Could I please carry that diaper bag for you?\" Susie asked Betty.<br>\r\n<br>\r\n\"No thanks, Susie, I've got it. Nice of you to offer, though.\" Betty said as she went inside the house. When she got to the living room,she was surprised to see pieces of Tommy's diaper all over it.<br>\r\n<br>\r\n\"Whoa, what happened here?\" Betty asked Susie.<br>\r\n<br>\r\n\"I'm looking after Fluffy today. I tried to change Tommy's diaper, but Fluffy tore it to pieces before I could put it on him.\" Susie told Betty.<br>\r\n<br>\r\n\"I see. I'd like to talk to Tommy's daddy. Do you know where he is?.\" Betty asked Susie.<br>\r\n<br>\r\n\"Yes, Mrs. DeVille. He's in the kitchen, putting a clean diaper on Tommy.\" Susie told Betty.<br>\r\n<br>\r\n\"Thank you, Susie.\" said Betty, and she went into the kitchen.<br>\r\n<br>\r\n\"You're welcome, Mrs. DeVille.\" said Susie.<br>\r\n<br>\r\n<b>By the time Betty got to the kitchen, had Stu put a clean diaper on Tommy's bottom?</b></span></div></div>",
+            "created":1601960400,
+            "id":2916404,
+            "title":"No, but thanked for for wanting to help."
+        },
+        "151111212112211121113122212221211221":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Reader's Choice 1",
+                "Reader's Choice 2"
+            ],
+            "content":"<div class=\"\"><div> <span>Once Betty got into the Carmichaels' kitchen, Stu had just finished taping a clean diaper on Tommy's bottom.<br>\r\n<br>\r\n\"There you go, good as new.\" Stu told Tommy, who giggled happily. Stu then set Tommy down on the floor, where Betty set Phil and Lil down.<br>\r\n<br>\r\n\"Now you three go play with Susie. Mommy has something to discuss with Tommy's daddy.\" Betty told Phil, Lil, and Tommy, and the three toddlers went into the living room to talk to Susie.<br>\r\n<br>\r\n<b>What happens next?</b></span></div></div>",
+            "created":1601960400,
+            "id":2916405,
+            "title":"Yes"
+        },
+        "1511112121122111211131222122212112211":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Susie does.",
+                "Tommy does."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do both explain what happened so far with Fluffy?</span></div></span></div>",
+            "created":1601960400,
+            "id":2916417,
+            "title":"Reader's Choice 1"
+        },
+        "151111212112211121113122212221211222":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Stu find out that Tommy had run out of clean diapers, and that Fluffy had just torn up the last one?</span></div></span></div>",
+            "created":1601960400,
+            "id":2916406,
+            "title":"No"
+        },
+        "1511112121122111211131222122212112221":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><div> <span>To Stu's horror, there were no more clean diapers in Tommy's diaper bag. When Betty got into the kitchen, she noticed that Stu looked unhappy.<br>\r\n<br>\r\n\"Hey, Stu. What's wrong?\" Betty asked Stu.<br>\r\n<br>\r\n\"Tommy just ran out of clean diapers. Fluffy tore up the last one he had.\" Stu told Betty.<br>\r\n<br>\r\n\"I see.\" said Betty.<br>\r\n<br>\r\n\"What am I gonna do, Betty? I can't let Tommy walk around without a diaper. What if he has another accident?\" Stu asked Betty.<br>\r\n<br>\r\n<b>Does Betty give Stu one of Phil and Lil's clean diapers from their diaper bag?</b></span></div></div>",
+            "created":1601960400,
+            "id":2916410,
+            "title":"Yes"
+        },
+        "15111121211221112111312221222121122211":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Reader's Choice 1",
+                "Reader's Choice 2"
+            ],
+            "content":"<div class=\"\"><div> <span>Betty set Phil and Lil down. Then she reached into their diaper bag and pulled out one of their clean diapers, which she handed to Stu.<br>\r\n<br>\r\n\"Here, Stu. You can have one of Phil and Lil's clean diapers. Right now, I've got so many, their diaper bag's heavy.\" Betty told Stu.<br>\r\n<br>\r\n\"Thanks, Betty. You're a lifesaver.\" Stu told Betty.<br>\r\n<br>\r\n\"Anytime, Stu boy.\" said Betty.<br>\r\n<br>\r\n\"Okay, Champ. Let's get this diaper on!\" Stu told Tommy as he taped the diaper onto his bottom.<br>\r\n<br>\r\n\"There you go, good as new.\" Stu told Tommy, and he set him down next to Phil and Lil.<br>\r\n<br>\r\n\"Now you three play with Susie. Mommy has something to discuss with Tommy's daddy.\" Betty told Phil, Lil, and Tommy, and the three toddlers went into the living room to talk to Susie.<br>\r\n<br>\r\n<b>What happens next?</b></span></div></div>",
+            "created":1601960400,
+            "id":2916430,
+            "title":"Yes"
+        },
         "1513":{
             "author_id":"bryanmchunter",
             "author_name":"FlyingDuckManGenesis",
@@ -3889,6 +6151,18 @@
             "created":1600405200,
             "id":2905665,
             "title":"Something else"
+        },
+        "15131":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Someone Other Than Tommy Gets a Cut",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have chosen The First Cut. Now, what is different about this episode?</span></div></span></div>",
+            "created":1602910800,
+            "id":2923470,
+            "title":"The First Cut"
         },
         "15132":{
             "author_id":"supreme123",
@@ -4072,6 +6346,18 @@
             "created":1600405200,
             "id":2905662,
             "title":"Yes"
+        },
+        "15232111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, Another Toy."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Susie work on Superthing, Kimi's favorite superhero doll?</span></div></span></div>",
+            "created":1602824400,
+            "id":2922994,
+            "title":"RC 1"
         },
         "153":{
             "author_id":"bryanmchunter",
@@ -4293,6 +6579,548 @@
             "created":1600405200,
             "id":2905679,
             "title":"Yes"
+        },
+        "15333":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is Finsterella okay?</span></div></span></div>",
+            "created":1602392400,
+            "id":2919310,
+            "title":"Something else"
+        },
+        "153331":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Lil is, or something else different."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Susie is the Fairy Godmother-like character in Chuckie's imagination?</span></div></span></div>",
+            "created":1602392400,
+            "id":2919330,
+            "title":"Yes"
+        },
+        "153332":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about My Fair Babies?</span></div></span></div>",
+            "created":1602824400,
+            "id":2922928,
+            "title":"No, something else."
+        },
+        "1533321":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "RC 1",
+                "RC 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Now, what to change about this episode?</span></div></span></div>",
+            "created":1602824400,
+            "id":2922931,
+            "title":"Yes"
+        },
+        "15333211":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, Sometime Later."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do we start at the beginning?</span></div></span></div>",
+            "created":1602824400,
+            "id":2922942,
+            "title":"RC 1"
+        },
+        "153332112":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, Sometime Later."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about when Susie tries to teach the babies how to tell a joke?</span></div></span></div>",
+            "created":1602824400,
+            "id":2922943,
+            "title":"No, Sometime Later."
+        },
+        "1533321122":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, Sometime Later."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about when Susie tries to teach the babies how to talk properly?</span></div></span></div>",
+            "created":1602824400,
+            "id":2922945,
+            "title":"No, Sometime Later."
+        },
+        "15333211221":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "All at once."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does she teach them one at a time, though?</span></div></span></div>",
+            "created":1602824400,
+            "id":2922946,
+            "title":"Yes"
+        },
+        "15333211222":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, Later Still."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about when Susie comes to Alisa for fashion advice?</span></div></span></div>",
+            "created":1602824400,
+            "id":2922955,
+            "title":"No, Sometime Later."
+        },
+        "153332112221":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><div> <span>Susie looked at the clock. It was now 10:15.<br>\r\n<br>\r\n\"Uh-oh. We still gotta get you dressed up, and I know just who to talk to about fashion; my sister!\" Susie said to the babies. Inside her bedroom, Alisa was talking to one of her friends on her cell phone.<br>\r\n<br>\r\n\"And then she said that I said that you said that he said that...\" Alisa began to say, when Susie and the babies walked into her bedroom. Alisa stopped when she saw them.<br>\r\n<br>\r\n\"Ugh! Call you later.\" Alisa said to her friend, and then she hung up. She looked angrily at Susie.<br>\r\n<br>\r\n\"I was talking on the phone!\" Alisa complained to Susie.<br>\r\n<br>\r\n\"Alisa, how do I make them look dressed up?\" Susie asked Alisa.<br>\r\n<br>\r\n\"What? Why would you want to dress them up?\" Alisa asked Susie.<br>\r\n<br>\r\n\"Come on, I need your help! Please?\" Susie asked Alisa. Alisa sighed heavily. She then eyed the diapers that Tommy and Kimi were wearing.<br>\r\n<br>\r\n\"First of all, lose the diapers. Big fashion no-no!\" said Alisa. Tommy and Kimi looked down unhappily at the diapers they were wearing.<br>\r\n<br>\r\n<b>Upon hearing what Alisa said, did Tommy and Kimi decide to take off their diapers?</b></span></div></div>",
+            "created":1602824400,
+            "id":2922975,
+            "title":"Yes"
+        },
+        "1533321122211":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Somebody Tries to Re-diaper Tommy and Kimi",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Well, Kimi, if we want to go to that muncheon, then we'll just have to take off our diapies!\" Tommy told Kimi. Susie was shocked when she heard that.<br>\r\n<br>\r\n\"You really don't have to do that, Tommy.\" Susie told Tommy<br>\r\n<br>\r\n\"Nonsense, Susie. We want to go to that muncheon, and if your big sister tells us to lose our diapies, then off they go!\" said Tommy. He and Kimi then untaped their diapers and let them fall to the floor.<br>\r\n<br>\r\n<b>What happens next?</b></span></div></div>",
+            "created":1602824400,
+            "id":2922976,
+            "title":"Yes"
+        },
+        "15333211222111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was it Susie who tried to re-diaper Tommy and Kimi?</span></div></span></div>",
+            "created":1602824400,
+            "id":2922977,
+            "title":"Somebody Tries to Re-diaper Tommy and Kimi"
+        },
+        "153332112221111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Tommy.",
+                "Kimmy."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She attempted to re-diaper who first?</span></div></span></div>",
+            "created":1602824400,
+            "id":2922982,
+            "title":"Yes"
+        },
+        "1533321122211111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Reader's Choice 1",
+                "Reader's Choice 2"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Tommy, Kimi, I'm gonna have to put your diapers back on.\" Susie told Tommy and Kimi.<br>\r\n<br>\r\n\"But Susie, your sister told us to lose our diapies.\" Tommy told Susie.<br>\r\n<br>\r\n\"Yeah, she said they was a big fashion no-no!\" added Kimi.<br>\r\n<br>\r\n\"Okay, first of all, it's 'She said they were a big fashion no-no', and second, I know what she said, but you're babies. You need your diapers. What if you have to pee?\" asked Susie.<br>\r\n<br>\r\n\"Oh.\" said Tommy meekly.<br>\r\n<br>\r\n\"Gee, we never thinked about that afore.\" said Kimi.<br>\r\n<br>\r\n\"Okay, first of all, it's...\" Susie started to say, but stopped herself upon realizing how serious the current situation was.<br>\r\n<br>\r\n\"Oh, never mind. Let's just get your diapers back on before you have an accident.\" Susie told Tommy and Kimi.<br>\r\n<br>\r\n\"Okay, Susie.\" said Tommy.<br>\r\n<br>\r\n\"First, let's get your diaper back on, Tommy.\" Susie told Tommy. Tommy pulled up his shirt and held still as Susie taped his diaper back onto his bottom.<br>\r\n<br>\r\n\"Thank you, Tommy. Kimi, now it's your turn.\" Susie told Kimi. Kimi pulled up her dress and held still as Susie taped her diaper back onto her bottom.<br>\r\n<br>\r\n\"There you go. Now you two just keep your diapers on this time.\" Susie told Tommy and Kimi.<br>\r\n<br>\r\n\"Okay, Susie.\" Tommy and Kimi said in unison.<br>\r\n<br>\r\n<b>What happens next?</b></span></div></div>",
+            "created":1602824400,
+            "id":2922996,
+            "title":"Tommy."
+        },
+        "153332112221112":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was it Chuckie?</span></div></span></div>",
+            "created":1602824400,
+            "id":2922998,
+            "title":"No, someone else"
+        },
+        "1533321122211121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Kimi.",
+                "Tommy.",
+                "Susie helps with one, Chuckie the other."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>He tries his hand at re-diapering who first?</span></div></span></div>",
+            "created":1602824400,
+            "id":2923000,
+            "title":"Yes"
+        },
+        "15333211222111213":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Chuckie Re-diapered Tommy, Susie Re-diapered Kimi",
+                "Chuckie Re-diapered Kimi, Susie Re-diapered Tommy"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Come on, Chuckie. We'd better get Tommy and Kimi's diapers back on before they have an accident!\" Susie told Chuckie.<br>\r\n<br>\r\n\"Good idea, Susie.\" said Chuckie.<br>\r\n<br>\r\n\"Tommy, Kimi, we're gonna have to put your diapers back on.\" Chuckie said to his best friend and his little sister.<br>\r\n<br>\r\n\"But Susie, your sister told us to lose our diapies.\" Tommy told Susie.<br>\r\n<br>\r\n\"Yeah, she said they was a real fashion no-no.\" added Kimi.<br>\r\n<br>\r\n\"Okay, first off, it's 'She said they <i>were</i> a real fashion no-no.', and second, I know what she said, but you're babies. You need your diapers.\" Susie told Tommy and Kimi.<br>\r\n<br>\r\n\"Yeah, Susie's right. Asides, I don't think it's such a good idea to take off your diapers. What if you have to pee?\" Chuckie asked Tommy and Kimi.<br>\r\n<br>\r\n\"Oh.\" said Tommy meekly.<br>\r\n<br>\r\n\"Gee, we never thinked about that afore.\" added Kimi.<br>\r\n<br>\r\n\"Okay, first of all, it's...\" Susie started to say, but Chuckie interrupted her.<br>\r\n<br>\r\n\"Uh, Susie?\" Chuckie said as he tapped Susie's shoulder with one hand and pointed to the diaperless Tommy and Kimi with the other. Realizing how serious the current situation was, Susie decided to help Chuckie re-diaper Tommy and Kimi.<br>\r\n<br>\r\n\"Oh, that's not important. What is important is that we get your diapers back on before you have an accident.\" said Susie.<br>\r\n<br>\r\n\"Okay, guys.\" said Tommy.<br>\r\n<br>\r\n<b>Did Chuckie help Tommy put his diaper back on and Susie help Kimi with hers, or vice-versa?</b></span></div></div>",
+            "created":1602824400,
+            "id":2923015,
+            "title":"Susie helps with one, Chuckie the other."
+        },
+        "153332112221112132":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "RC 1",
+                "RC 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Chuckie soon had Kimi's diaper back on, and Susie with Tommy.<br>\r\n\"Thanks.\"<br>\r\n\"No problem.\"<br>\r\nThat done, what was next?</span></div></span></div>",
+            "created":1602824400,
+            "id":2923023,
+            "title":"Chuckie Re-diapered Kimi, Susie Re-diapered Tommy"
+        },
+        "1533321122211121321":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Susie Tries to Get the Babies Properly Dressed",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Now, you two just keep your diapers on this time.\" Susie told Tommy and Kimi.<br>\r\n<br>\r\n\"Okay, Susie.\" Tommy and Kimi said in unison.<br>\r\n<br>\r\n\"See, Alisa? My friends still need their diapers.\" Susie said to Alisa.<br>\r\n<br>\r\n\"Okay. Well, dress em' in black. Boys wear ties, girls wear sparkly dresses. And hello? Have they ever heard of a comb?\" Alisa asked upon seeing Chuckie and Kimi's hairstyles.<br>\r\n<br>\r\n<b>What happens next?</b></span></div></div>",
+            "created":1602824400,
+            "id":2923026,
+            "title":"RC 1"
+        },
+        "15333211222112":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, Something Else happened."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Upon seeing Tommy and Kimi take off their diapers, did Phil and Lil decide to do the same?</span></div></span></div>",
+            "created":1602824400,
+            "id":2922980,
+            "title":"Something Else"
+        },
+        "153332112221121":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Susie Tries to Re-diaper the Babies",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Hey, if Tommy and Kimi don't gots to wear their diapies, then neither do we!\" exclaimed Phil.<br>\r\n<br>\r\n\"Phillip, are you thinking what I'm thinking?\" Lil asked Phil.<br>\r\n<br>\r\n\"Yeah, Lillian! Let's take off our diapies, too!\" exclaimed Phil. He pulled down his pants and untaped his diaper, letting it fall to the floor. Lil then untaped her diaper and let it fall to the floor as well. As soon as their diapers were off, the twins giggled. Susie, however, was less than pleased.<br>\r\n<br>\r\n\"What have I gotten myself into?\" she asked herself.<br>\r\n<br>\r\n<b>What happens next?</b></span></div></div>",
+            "created":1602824400,
+            "id":2923017,
+            "title":"Yes"
+        },
+        "1533321122211211":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, Somebody Helped Her"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Not wanting the babies to have an accident, Susie decided to re-diaper them, but was she alone in doing so?</span></div></span></div>",
+            "created":1602824400,
+            "id":2923018,
+            "title":"Susie Tries to Re-diaper the Babies"
+        },
+        "15333211222112112":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Chuckie decide to help Susie re-diaper the babies?</span></div></span></div>",
+            "created":1602824400,
+            "id":2923019,
+            "title":"No, Somebody Helped Her"
+        },
+        "153332112221121121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "With Tommy and Kimi."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>He decided to help with Phil and Lil?</span></div></span></div>",
+            "created":1602824400,
+            "id":2923025,
+            "title":"Yes"
+        },
+        "1533321122211211212":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Chuckie Re-diapered Tommy, Susie Re-diapered Phil",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Susie, I'm going to help you. I'm going to re-diaper my bestest friend and my little sister. You can re-diaper the twins.\" said Chuckie.<br>\r\n<br>\r\n\"Okay, first off, it's 'best', not 'bestest', and second, thank you, Chuckie.\" said Susie.<br>\r\n<br>\r\n\"Guys, could Susie and I talk to you for a minute?\" Chuckie asked Tommy, Kimi, Phil, and Lil.<br>\r\n<br>\r\n\"What's wrong, Chuckie?\" asked Tommy.<br>\r\n<br>\r\n\"Me and Susie are gonna has to put your diapers back on.\" said Chuckie.<br>\r\n<br>\r\n\"It's '<i>Susie and I</i> are going to <i>have</i> to put your diapers back on.'\" corrected Susie.<br>\r\n<br>\r\n\"But Susie, your sister told us to lose our diapies.\"<br>\r\n<br>\r\n\"Yeah, she said they was a real fashion no-no!\" added Kimi.<br>\r\n<br>\r\n\"Okay, First off, it's 'She said they <i>were</i> a real fashion no-no!', and second, I know what she said, but you're all babies, you still need your diapers.\" Susie told the babies.<br>\r\n<br>\r\n\"Yeah, Susie's right. Asides, I don't think it's such a good idea to take off your diapers. What if you have to pee?\" Chuckie asked the babies.<br>\r\n<br>\r\n\"Oh.\" Tommy said meekly.<br>\r\n<br>\r\n\"Gee, we never thinked about that afore.\" added Kimi.<br>\r\n<br>\r\n\"Okay, first off, it's..\" Susie started to say, but Chuckie interrupted her.<br>\r\n<br>\r\n\"Uh, Susie?\" Chuckie asked Susie, tapping her on the shoulder with one hand and pointing at the diaperless babies with the other.<br>\r\n<br>\r\n\"Oh, that's not important. What is important is that we get your diapers back on before you have an accident.\" Susie told the babies.<br>\r\n<br>\r\n\"Okay, Susie.\" said Tommy.<br>\r\n<br>\r\n<b>Does Chuckie first try to re-diaper Tommy while Susie re-diapers Phil, or do they do it another way?</b></span></div></div>",
+            "created":1602824400,
+            "id":2923028,
+            "title":"With Tommy and Kimi."
+        },
+        "15333211222112112121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Nope."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Chuckie managed to re-diaper Tommy, but, did Phil try to run away when Susie tried to diaper him?</span></div></span></div>",
+            "created":1602824400,
+            "id":2923031,
+            "title":"Chuckie Re-diapered Tommy, Susie Re-diapered Phil"
+        },
+        "153332112221121121211":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Chuckie Decided to Help Susie Re-diaper Phil",
+                "Chuckie Was Too Busy Re-diapering Kimi"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Okay, Tommy. Let's get your diaper back on!\" Chuckie said to Tommy. Tommy pulled up his shirt and held still as Chuckie taped his diaper back onto his bottom.<br>\r\n<br>\r\n\"There you go. Good as new.\" said Chuckie.<br>\r\n<br>\r\n\"Thanks, Chuckie.\" said Tommy. Susie, on the other hand, wasn't having great luck with trying to get Phil's diaper back on him. Phil didn't want to wear his diaper, so he tried to run away from Susie. She chased him all across Alisa's bedroom.<br>\r\n<br>\r\n\"Come on, Phil! You have to let me put your diaper back on!\" Susie said to Phil.<br>\r\n<br>\r\n\"No way, Susie! I don't want to wear my diapie! Asides, your sister said...\" Phil started to say.<br>\r\n<br>\r\n\"I know what she said, but you're a baby! You need to wear your diaper! You don't want to have an accident!\" said Susie.<br>\r\n<br>\r\n\"I don't care, I'm not wearing my diapie and that's final!\" said Phil.<br>\r\n<br>\r\n<b>Did Chuckie decide to help Susie re-diaper Phil, or was he too busy trying to re-diaper Kimi?</b></span></div></div>",
+            "created":1602824400,
+            "id":2923051,
+            "title":"Yeah."
+        },
+        "1533321122211211212111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Ask Tommy to Re-diaper Kimi",
+                "Re-diaper Kimi and Then Help Susie"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Chuckie was about to re-diaper Kimi when he saw Susie struggling with trying to re-diaper Phil. He could tell that Susie needed his help, but he didn't want to leave his sister diaperless.<br>\r\n<br>\r\n<b>What does Chuckie do?</b></span></div></span></div>",
+            "created":1602824400,
+            "id":2923063,
+            "title":"Chuckie Decided to Help Susie Re-diaper Phil"
+        },
+        "15333211222112112121111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Chuckie Held Phil Down, Susie Re-diapered Him",
+                "Susie Held Phil Down, Chuckie Re-diapered Him"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Tommy, Susie needs my help, but I can't leave my sister diaperless. Could you please put her diaper on while I help Susie?\" Chuckie asked Tommy.<br>\r\n<br>\r\n\"Sure, Chuckie. Since you helped me, now it's my turn to help you.\" said Tommy.<br>\r\n<br>\r\n\"Thanks, Tommy.\" said Chuckie, and he ran off to help Susie. Tommy picked up Kimi's untaped diaper.<br>\r\n<br>\r\n\"Okay, Kimi. Let's get your diaper back on!\" Tommy said to Kimi. Kimi pulled up her dress and held still as Tommy taped her diaper back onto her bottom.<br>\r\n<br>\r\n\"There you go.\" said Tommy.<br>\r\n<br>\r\n\"Thanks, Tommy.\" said Kimi. Meanwhile, Chuckie caught up to Susie.<br>\r\n<br>\r\n\"Chuckie, am I glad to see you! Phil doesn't want to wear his diaper!\" Susie told Chuckie.<br>\r\n<br>\r\n\"Don't worry, Susie, I'm going to help you.\" said Chuckie.<br>\r\n<br>\r\n<b>Did Chuckie hold Phil down while Susie re-diapered him, or the other way around?</b></span></div></div>",
+            "created":1602824400,
+            "id":2923064,
+            "title":"Ask Tommy to Re-diaper Kimi"
+        },
+        "153332112221121121211111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Nah, Susie was able to get her diaper on no problem."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Chuckie soon had Phil held down, as Susie set to work. Soon, it was done.<br>\r\n\"There.\"<br>\r\nDid both help with Lil?</span></div></span></div>",
+            "created":1602824400,
+            "id":2923071,
+            "title":"Chuckie Held Phil Down, Susie Re-diapered Him"
+        },
+        "1533321122211211212111111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Chuckie Held Lil Down, Susie Re-diapered Her",
+                "Susie held Lil Down, Chuckie Re-diapered Her"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Okay, Lil. Now it's time to put your diaper back on!\" Susie said as she picked up Lil's untaped diaper. Unfortunately for her, like Phil, Lil did not want to wear her diaper.<br>\r\n<br>\r\n\"No way!\" said Lil, and she ran away.<br>\r\n<br>\r\n\"Here we go again.\" said Susie.<br>\r\n<br>\r\n\"Don't worry, Susie. We got Phil's diaper back on him, we can do the same with Lil.\" said Chuckie.<br>\r\n<br>\r\n\"Thanks, Chuckie.\" said Susie.<br>\r\n<br>\r\n<b>Did Chuckie hold Lil down while Susie re-diapered her, or vice-versa?</b></span></div></div>",
+            "created":1602824400,
+            "id":2923077,
+            "title":"Yeah."
+        },
+        "15333211222112112121111112":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Alisa helping Susie to dress them.",
+                "Anything else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Soon, Susie had ahold of Lil, and Chuckie got her diaper back on.<br>\r\n<br>\r\nNext was...</span></div></span></div>",
+            "created":1602824400,
+            "id":2923081,
+            "title":"Susie held Lil Down, Chuckie Re-diapered Her"
+        },
+        "153332112221121121211111122":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, Something Else happened."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>After Chuckie and Susie got Phil and Lil's diapers back on, did the twins take them off again?</span></div></span></div>",
+            "created":1602824400,
+            "id":2923086,
+            "title":"Anything else."
+        },
+        "1533321122211211212111111221":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Let Chuckie and Susie re-diaper Them So They Could Go to the Luncheon",
+                "Keep Their Diapers Off And Decide Not to Go to the Luncheon"
+            ],
+            "content":"<div class=\"\"><div> <span>Unfortunately for Chuckie and Susie, Phil and Lil took off their diapers again and tossed them. Phil's landed on Chuckie's head and Lil's landed on Susie's. Phil and Lil giggled, as they thought this funny, but neither Chuckie nor Susie were amused.<br>\r\n<br>\r\n\"Look, guys, you have to keep your diapers on!\" Susie told Phil and Lil.<br>\r\n<br>\r\n\"How come?\" Phil asked Susie.<br>\r\n<br>\r\n\"Because if you don't, you can't go to the muncheon!\" Susie told Phil and Lil.<br>\r\n<br>\r\n<b>What did Phil and Lil do upon hearing this?</b></span></div></div>",
+            "created":1602824400,
+            "id":2923092,
+            "title":"Yes"
+        },
+        "15333211222112112121111112211":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Chuckie Re-diapered Phil, Susie Re-diapered Lil",
+                "Chuckie Re-diapered Lil, Susie Re-diapered Phil"
+            ],
+            "content":"<div class=\"\"><div> <span>Phil and Lil didn't want to wear their diapers, but they also really wanted to go to the luncheon, and they knew that the only way to do so was to let Chuckie and Susie re-diaper them.<br>\r\n<br>\r\n\"Okay. Me and Lillian really do want to go to that muncheon, so we'll let you put our diapies back on.\" said a reluctant Phil.<br>\r\n<br>\r\n\"Thanks, guys.\" said Susie.<br>\r\n<br>\r\n<b>Did Chuckie re-diaper Phil and Susie re-diaper Lil, or vice-versa?</b></span></div></div>",
+            "created":1602824400,
+            "id":2923104,
+            "title":"Let Chuckie and Susie re-diaper Them So They Co..."
+        },
+        "15333211222112112121111112212":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Reader's Choice 1",
+                "Reader's Choice 2"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Actually, me and Lillian are going to keep our diapies off today.\" Phil told Susie.<br>\r\n<br>\r\n\"Yeah. Asides, me and Phillip didn't really want to go to the muncheon anyway.\" added Lil.<br>\r\n<br>\r\n\"Asides, Angelica probably don't want us there anyway.\" concluded Phil.<br>\r\n<br>\r\n\"Are you sure?\" Susie asked Phil and Lil.<br>\r\n<br>\r\n\"Yes!\" the twins said in unison. Admittedly, Susie wasn't very comfortable with the idea of Phil and Lil walking around diaperless, but she knew it was no use trying to argue with them. Besides, they didn't really want to go to the luncheon anyway, so she thought it best not to force them to go.<br>\r\n<br>\r\n\"Very well, guys. I'll just tell Angelica you couldn't make it.\" Susie told the twins.<br>\r\n<br>\r\n\"In the meantime, could you please tell your friends to get out of my room? If they're going to walk around diaperless, I don't want them making a mess on my clean floor!\" Alisa told Susie.<br>\r\n<br>\r\n\"Okay.\" said Susie, and she and the babies left Alisa's bedroom.<br>\r\n<br>\r\n<b>What happens next?</b></span></div></div>",
+            "created":1602824400,
+            "id":2923185,
+            "title":"Keep Their Diapers Off And Decide Not to Go to ..."
+        },
+        "1533321122211211212111112":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, At Least One of Them Took Theirs Off Again"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Okay, Lil. Now it's time to put your diaper back on!\" Susie said as she picked up Lil's untaped diaper. Lil didn't want to wear her diaper, but she also didn't want Chuckie and Susie to chase her or hold her down like they did to Phil, so she decided to let Susie tape her diaper back onto her bottom.<br>\r\n<br>\r\n\"Okay, Susie.\" said Lil reluctantly. She pulled up her dress and held still as Susie taped her diaper back onto her bottom.<br>\r\n<br>\r\n\"There. Now, everyone, just keep your diapers on this time.\" Susie told the babies.<br>\r\n<br>\r\n<b>Did all of the babies obey Susie and keep their diapers on?</b></span></div></div>",
+            "created":1602910800,
+            "id":2923562,
+            "title":"Nah, Susie was able to get her diaper on no pro..."
+        },
+        "1533321122211212":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Susie scold Alisa for giving the babies the idea to take off their diapers?</span></div></span></div>",
+            "created":1602910800,
+            "id":2923555,
+            "title":"Something Else"
+        },
+        "15333211222112121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Tommy and Chuckie.",
+                "Phil and Lil.",
+                "Kimi."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\"Not one of my better ideas.\"<br>\r\n\"WEll, we can still make them look nice.\"<br>\r\n\"You got it.\"<br>\r\nWho is dressed first?</span></div></span></div>",
+            "created":1602910800,
+            "id":2923559,
+            "title":"Yes"
+        },
+        "153332112221121211":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Tommy",
+                "Chuckie"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who does Susie try to get dressed up first?</span></div></span></div>",
+            "created":1602910800,
+            "id":2923572,
+            "title":"Tommy and Chuckie."
+        },
+        "1533321122211212111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Susie decides to get Tommy dressed up first. Does she start by putting his diaper back on him?</span></div></span></div>",
+            "created":1602910800,
+            "id":2923574,
+            "title":"Tommy"
+        },
+        "153332112221121212":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Susie start be re-diapering the twins?</span></div></span></div>",
+            "created":1602910800,
+            "id":2923565,
+            "title":"Phil and Lil."
+        },
+        "1533321122211212121":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Phil",
+                "Lil"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which twin did she try to put back in their diaper first?</span></div></span></div>",
+            "created":1602910800,
+            "id":2923571,
+            "title":"Yes"
+        },
+        "153332112221121213":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Susie start by putting Kimi's diaper back on?</span></div></span></div>",
+            "created":1602910800,
+            "id":2923564,
+            "title":"Kimi."
+        },
+        "1533321122212":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Susie tell Alisa that the babies still need to wear their diapers?</span></div></span></div>",
+            "created":1602824400,
+            "id":2923189,
+            "title":"No"
         }
     },
     "info":{
@@ -4303,8 +7131,8 @@
         "description":"<td align=\"left\" class=\"norm\">There are a some rules that You must obey.<br>\r\n<br>\r\n<br>\r\n1. keep it clean.<br>\r\n2. Diaper changes are allowed.<br>\r\n3. Nothing rude.<br>\r\n4. Every chapter must be appropriate.<br>\r\n5. Their must never be a mean chapter or it will be deleted.<br>\r\n6. This is the only way the story can stay alive.<br>\r\n7. No Weight gain.<br>\r\n8. If you want to Have the characters get age regressed, You must have excellent grammar with details.<br>\r\n9. No age Progression.<br>\r\n10. Potty training is allowed as well as well as if in alternate episodes that must appropriate.<br>\r\n11. The Rugrats can remove their clothes only if they take a bath or go nakie like in Naked Tommy. But, that must never be inappropriate.<br>\r\n11. This series have had nine seasons. So Keep in that 9 seasoned universe<br>\r\n12. Strange things can happen as well.<br>\r\n13. No age Progression (Which means no all grown up)<br>\r\n14.  No Violence or any thing that is wrong.<br>\r\n15. Anywhere around the world is perfect for The Rugrats to go to on adventures.<br>\r\n16. They can meet the thornberrys family again.<br>\r\n17. Have fun!<br>\r\n<br>\r\n<br>\r\n</td>",
         "id":2202340,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1590209580,
-        "modified":1601227620,
+        "last_full_update":1602124920,
+        "modified":1602971580,
         "pretty_title":"Rugrats: The Alternate Series"
     }
 }

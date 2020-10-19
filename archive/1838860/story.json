@@ -3354,6 +3354,18 @@
             "id":2080459,
             "title":"The giant doesn't see Stan "
         },
+        "1311122121":{
+            "author_id":"akatheguy",
+            "author_name":"akatheguy",
+            "choices":[
+                "Jump down",
+                "Shimmy down the leg"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Stan weighed up his options. He could simply jump to the ground - maybe with his weight being so negligible, he could actually survive a fall like that. Or he could try to shimmy down one of the legs of the counter.</span></div></span></div>",
+            "created":1602997200,
+            "id":2924033,
+            "title":"Stan begins to look for a way down."
+        },
         "1311122122":{
             "author_id":"akatheguy",
             "author_name":"akatheguy",
@@ -4509,7 +4521,7 @@
         "id":1838860,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
         "last_full_update":1600770120,
-        "modified":1600770120,
+        "modified":1603038120,
         "pretty_title":"Tiny Stan"
     }
 }

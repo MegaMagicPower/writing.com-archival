@@ -153,6 +153,18 @@
             "id":1446613,
             "title":"Clothes swap."
         },
+        "111311211":{
+            "author_id":"kuribandit",
+            "author_name":"No",
+            "choices":[
+                "They still think they are yugi",
+                "They think they are dark magician girl "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do people think you are the dark magician girl or do they think they are still yugi</span></div></span></div>",
+            "created":1601787600,
+            "id":2914856,
+            "title":"Everyone thinks this is normal"
+        },
         "111312":{
             "author_id":"hydress",
             "author_name":"Stardust",
@@ -5565,6 +5577,47 @@
             "id":2235036,
             "title":"Yuya"
         },
+        "15113":{
+            "author_id":"starfighter364",
+            "author_name":"Starfighter364",
+            "choices":[
+                "He runs into Zuzu, and the card swaps their bodies",
+                "He runs into Zuzu, and the card swaps Odd-Eyes and her",
+                "More choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What happens?</span></div></span></div>",
+            "created":1601787600,
+            "id":2914861,
+            "title":"something else"
+        },
+        "151131":{
+            "author_id":"starfighter364",
+            "author_name":"Starfighter364",
+            "choices":[
+                "They swap bodies, but keep their lives, except everyone knows their new genders",
+                "Same as above, but Zuzu doesn't realize they swapped either",
+                "They swap bodies and lives",
+                "As above, but Zuzu thinks she's Yuya",
+                "More choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What is the result?</span></div></span></div>",
+            "created":1601787600,
+            "id":2914865,
+            "title":"He runs into Zuzu, and the card swaps their bodies"
+        },
+        "1513":{
+            "author_id":"maxamps",
+            "author_name":"Maxamps",
+            "choices":[
+                "Declan Akaba ",
+                "Sora Perse",
+                "someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Declan Akaba or Sora Perse?</span></div></span></div>",
+            "created":1602910800,
+            "id":2923276,
+            "title":"Someone else"
+        },
         "155":{
             "author_id":"finalfan",
             "author_name":"Final Fan",
@@ -5586,8 +5639,8 @@
         "description":"<td align=\"left\" class=\"norm\">A card called \"Swap frog\" posses a powerful spirit that swaps anything between two or more people. The frog's name is Swapp.<br>\r\n<br>\r\nUse the English dub names when possible,<br>\r\nKeep it age appropriate.<br>\r\nKeep all paths open.<br>\r\nhave it third person. </td>",
         "id":1897185,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1577762520,
-        "modified":1577762520,
+        "last_full_update":1601811600,
+        "modified":1602917760,
         "pretty_title":"Yugioh: Journey of the swap frog."
     }
 }

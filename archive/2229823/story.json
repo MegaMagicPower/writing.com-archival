@@ -287,6 +287,21 @@
             "id":2888207,
             "title":"Come Visit The Woods"
         },
+        "1113":{
+            "author_id":"thetickler",
+            "author_name":"Icy yet Warm",
+            "choices":[
+                "Ronnie Anne Santiago",
+                "Maria Santiago",
+                "Carlota Casagrande",
+                "Frida Casagrande",
+                "More choices por favor."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So instead of Royal Woods, you would rather go to Great Lakes City?  Sounds like a reasonable decision.  Perhaps you would like to tickle one of the city's more well-known inhabitants?</span></div></span></div>",
+            "created":1602738000,
+            "id":2922242,
+            "title":"The City of Great Lakes"
+        },
         "112":{
             "author_id":"thetickler",
             "author_name":"Icy yet Warm",
@@ -593,6 +608,21 @@
             "id":2889130,
             "title":"Hello Nurse"
         },
+        "1123":{
+            "author_id":"thetickler",
+            "author_name":"Icy yet Warm",
+            "choices":[
+                "Ronnie Anne Santiago",
+                "Maria Santiago",
+                "Carlota Casagrande",
+                "Frida Casagrande",
+                "No bueno, amigo.  \u00a1Vamos!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Hola!  Welcome to the ever beautiful metropolis we call <span style=\"text-decoration:line-through\">Detroit</span> Great Lakes City!  Here you will have many opportunities - to be tickled.  Maybe the residents from the Casagrandes' apartment will be more than happy to accommodate you?</span></div></span></div>",
+            "created":1602738000,
+            "id":2922243,
+            "title":"Life In The Big City with the Casagrandes"
+        },
         "12":{
             "author_id":"thetickler",
             "author_name":"Icy yet Warm",
@@ -868,6 +898,21 @@
             "id":2888211,
             "title":"Come Play In The Woods"
         },
+        "1213":{
+            "author_id":"thetickler",
+            "author_name":"Icy yet Warm",
+            "choices":[
+                "Ronnie Anne Santiago",
+                "Maria Santiago",
+                "Carlota Casagrande",
+                "Frida Casagrande",
+                "As they say in Mexico, \"El No-go\"."
+            ],
+            "content":"<div class=\"\"><div> <span>It's a big place - bigger than Royal Woods, at least - so that equates to a bigger recreation space.  Well, if tickling can be called recreational.  In any case, the Casagrandes' apartment is a suitable first choice.  Care to pay somebody in this family a visit?</span></div></div>",
+            "created":1602738000,
+            "id":2922250,
+            "title":"Great Lakes, Great Lakes"
+        },
         "122":{
             "author_id":"thetickler",
             "author_name":"Icy yet Warm",
@@ -1130,6 +1175,21 @@
             "created":1597899600,
             "id":2888275,
             "title":"In This Neck Of The (Royal) Woods"
+        },
+        "1223":{
+            "author_id":"thetickler",
+            "author_name":"Icy yet Warm",
+            "choices":[
+                "Ronnie Anne Santiago",
+                "Maria Santiago",
+                "Carlota Casagrande",
+                "Frida Casagrande",
+                "No.  Let's go; v\u00e1monos! (Ugh)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Since you've chosen Great Lakes City over the town of Royal Woods, that means you belong to it just as it belongs to you.  And while we're still on the subject of possession, do you belong to one of the Casagrandes or to another tickler?</span></div></span></div>",
+            "created":1602738000,
+            "id":2922251,
+            "title":"I Love GLC"
         }
     },
     "info":{
@@ -1141,7 +1201,7 @@
         "id":2229823,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
         "last_full_update":1600392300,
-        "modified":1600392300,
+        "modified":1602778860,
         "pretty_title":"Loud House girl tickling"
     }
 }

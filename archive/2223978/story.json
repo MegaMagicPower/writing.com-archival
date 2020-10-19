@@ -36,7 +36,9 @@
             "choices":[
                 "Gravity Falls",
                 "Star vs The Forces of Evil",
-                "More choices"
+                "More choices",
+                "RESERVED",
+                "Reserved"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So you are in a Disney tv show.... But what one?</span></div></span></div>",
             "created":1591678800,
@@ -49,7 +51,9 @@
             "choices":[
                 "Shake it Up",
                 "Kickin' It",
-                "More choices"
+                "More choices",
+                "RESERVED",
+                "Reserved"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>More shows</span></div></span></div>",
             "created":1591678800,
@@ -62,7 +66,9 @@
             "choices":[
                 "Austin and Ally",
                 "Wizards of Waverly Place",
-                "More choices"
+                "More choices",
+                "RESERVED",
+                "Reserved"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>More names</span></div></span></div>",
             "created":1591678800,
@@ -75,7 +81,9 @@
             "choices":[
                 "Kim Possible",
                 "Phineas and Ferb",
-                "More choices"
+                "More choices",
+                "RESERVED",
+                "Reserved"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>More!!!...</span></div></span></div>",
             "created":1591678800,
@@ -88,7 +96,9 @@
             "choices":[
                 "Lab Rats",
                 "Amphibia",
-                "More choices"
+                "More choices",
+                "RESERVED",
+                "Reserved"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>More......</span></div></span></div>",
             "created":1591678800,
@@ -101,7 +111,9 @@
             "choices":[
                 "The Replacements",
                 "Tangled: The Series",
-                "More choices"
+                "More choices",
+                "RESERVED",
+                "Reserved"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>And more...</span></div></span></div>",
             "created":1591678800,
@@ -112,14 +124,31 @@
             "author_id":"worker1398",
             "author_name":"Clear Diamond",
             "choices":[
-                "Z.O.M.B.I.E.S",
+                "Z.O.M.B.I.E.S 1-2",
                 "Camp Rock",
-                "More choices"
+                "More choices",
+                "RESERVED",
+                "Reserved"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So you are in a Disney movie.. what one?</span></div></span></div>",
             "created":1591678800,
             "id":2848801,
             "title":"Movie"
+        },
+        "1121":{
+            "author_id":"worker1398",
+            "author_name":"Clear Diamond",
+            "choices":[
+                "1",
+                "2",
+                "Both",
+                "RESERVED",
+                "Reserved"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What will it be?</span></div></span></div>",
+            "created":1601355600,
+            "id":2912521,
+            "title":"Z.O.M.B.I.E.S 1-2"
         },
         "1123":{
             "author_id":"worker1398",
@@ -127,7 +156,9 @@
             "choices":[
                 "Adventures in Babysitting",
                 "Jump In",
-                "More choices"
+                "More choices",
+                "RESERVED",
+                "Reserved"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>More choices</span></div></span></div>",
             "created":1591678800,
@@ -140,7 +171,9 @@
             "choices":[
                 "Onward",
                 "High school musical",
-                "More choices"
+                "More choices",
+                "RESERVED",
+                "Reserved"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>More choices</span></div></span></div>",
             "created":1591678800,
@@ -153,7 +186,9 @@
             "choices":[
                 "How to build a better boy",
                 "Frozen 1 & 2",
-                "More choices"
+                "More choices",
+                "RESERVED",
+                "Reserved"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>More choices</span></div></span></div>",
             "created":1591678800,
@@ -165,7 +200,10 @@
             "author_name":"Clear Diamond",
             "choices":[
                 "Frozen 1",
-                "Frozen 2"
+                "Frozen 2",
+                "Both",
+                "RESERVED",
+                "Reserved"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What one? </span></div></span></div>",
             "created":1591678800,
@@ -178,7 +216,9 @@
             "choices":[
                 "Princess Protection Program",
                 "Wizards of Waverly Place: The Movie",
-                "More choices"
+                "More choices",
+                "RESERVED",
+                "Reserved"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>More choices</span></div></span></div>",
             "created":1591678800,
@@ -191,7 +231,9 @@
             "choices":[
                 "Kim Possible (new live action one)",
                 "Big Hero 6",
-                "More choices"
+                "More choices",
+                "RESERVED",
+                "Reserved"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>More choices</span></div></span></div>",
             "created":1591678800,
@@ -202,22 +244,56 @@
             "author_id":"worker1398",
             "author_name":"Clear Diamond",
             "choices":[
-                "Descendants 1",
-                "Descendants 2",
-                "More choices"
+                "Descendants 1-3",
+                "RESERVED",
+                "More choices",
+                "RESERVED",
+                "Reserved"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>More choices</span></div></span></div>",
             "created":1591678800,
             "id":2848811,
             "title":"More choices"
         },
+        "1123333331":{
+            "author_id":"worker1398",
+            "author_name":"Clear Diamond",
+            "choices":[
+                "Descendants 1",
+                "Descendants 2",
+                "Descendants 3",
+                "Mix",
+                "All"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What will it be?</span></div></span></div>",
+            "created":1601355600,
+            "id":2912518,
+            "title":"Descendants 1-3"
+        },
+        "11233333314":{
+            "author_id":"worker1398",
+            "author_name":"Clear Diamond",
+            "choices":[
+                "1 and 2",
+                "1 and 3",
+                "2 and 3",
+                "RESERVED",
+                "Reserved"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What mix would you like?</span></div></span></div>",
+            "created":1601355600,
+            "id":2912519,
+            "title":"Mix"
+        },
         "1123333333":{
             "author_id":"worker1398",
             "author_name":"Clear Diamond",
             "choices":[
-                "Descendants 3",
+                "Reserved",
                 "Invisible Sister",
-                "More choices"
+                "More choices",
+                "RESERVED",
+                "Reserved"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>More choices</span></div></span></div>",
             "created":1591678800,
@@ -230,7 +306,9 @@
             "choices":[
                 "Geek Charming",
                 "Cloud 9",
-                "More choices"
+                "More choices",
+                "RESERVED",
+                "Reserved"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>More choices</span></div></span></div>",
             "created":1591678800,
@@ -243,7 +321,9 @@
             "choices":[
                 "Avalon High",
                 "The Swap",
-                "More choices"
+                "More choices",
+                "RESERVED",
+                "Reserved"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>More choices</span></div></span></div>",
             "created":1591678800,
@@ -256,12 +336,39 @@
             "choices":[
                 "Meet The Robinsons",
                 "StarStruck",
-                "More choices"
+                "More choices",
+                "RESERVED",
+                "Reserved"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>More choices</span></div></span></div>",
             "created":1591678800,
             "id":2848817,
             "title":"More choices"
+        },
+        "11233333333333":{
+            "author_id":"jcmsrules",
+            "author_name":"Gentle Giantess's Rule",
+            "choices":[
+                "Aladdin 1-3",
+                "More Choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about Aladdin?</span></div></span></div>",
+            "created":1602824400,
+            "id":2923129,
+            "title":"More choices"
+        },
+        "112333333333331":{
+            "author_id":"worker1398",
+            "author_name":"Clear Diamond",
+            "choices":[
+                "1",
+                "2",
+                "3"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What one? </span></div></span></div>",
+            "created":1602910800,
+            "id":2923382,
+            "title":"Aladdin 1-3"
         }
     },
     "info":{
@@ -272,8 +379,8 @@
         "description":"<td align=\"left\" class=\"norm\">You are yourself and you goto bed dreading the next day knowing its gonna be hell because you got fired from your job and haven't told your family. But when you wake up you relize you are shrunk and in a Disney show/movie.<br>\r\n<br>\r\n*I RESERVE THE RIGHT TO REMOVE/EDIT ANY CHAPTERS I FEEL NEED IT*<br>\r\n<br>\r\nRules:<br>\r\n* No Death. You are immortal and indestructible.<br>\r\n* No scat<br>\r\n* No Male interaction (only male is the tiny if you pick to be a male as yourself)<br>\r\n* No interaction with anyone younger than 12 years old. (In other words only interact with girls 12+)<br>\r\n* No toilet stuff<br>\r\n* If u want to add pics email me first and I will see if I will allow it.<br>\r\n* Always leave a choice to have a different path. (If needed I will edit them to make it so.)<br>\r\n* </td>",
         "id":2223978,
         "image_url":"https://www.Writing.Com/main/images/action/display_cover/id/101983.jpg",
-        "last_full_update":1598773260,
-        "modified":1598773260,
+        "last_full_update":1601855520,
+        "modified":1602946980,
         "pretty_title":"Shrunk in Disney shows/movies"
     }
 }

@@ -1325,6 +1325,21 @@
             "id":2266549,
             "title":"Mighty or Ray"
         },
+        "1221322":{
+            "author_id":"rbm5",
+            "author_name":"RBM5",
+            "choices":[
+                "Silver",
+                "Antoine D\u2019Coolette",
+                "Rotor the Walrus",
+                "Jet the Hawk",
+                "Someone else "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>More options</span></div></span></div>",
+            "created":1602392400,
+            "id":2919268,
+            "title":"No"
+        },
         "1222":{
             "author_id":"mariods01",
             "author_name":"MarioDS01",
@@ -2937,6 +2952,32 @@
             "id":2824912,
             "title":"Other"
         },
+        "13112313333":{
+            "author_id":"thej12345",
+            "author_name":"mr.dod",
+            "choices":[
+                "Chimera",
+                "Taur",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What did the genie turn Amy into?</span></div></span></div>",
+            "created":1601528400,
+            "id":2913705,
+            "title":"Other"
+        },
+        "131123133332":{
+            "author_id":"thej12345",
+            "author_name":"mr.dod",
+            "choices":[
+                "Normal Taur (Torso X species, Legs Y species)",
+                "Full-body Taur (Torso and Legs X species)",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of Taur?</span></div></span></div>",
+            "created":1601528400,
+            "id":2913774,
+            "title":"Taur"
+        },
         "1311232":{
             "author_id":"thej12345",
             "author_name":"mr.dod",
@@ -3476,6 +3517,18 @@
             "id":2846105,
             "title":"Something casual "
         },
+        "13233":{
+            "author_id":"rbm5",
+            "author_name":"RBM5",
+            "choices":[
+                "Sure",
+                "Nah"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about a female Mobian is turned into a male for Amy?</span></div></span></div>",
+            "created":1602997200,
+            "id":2924303,
+            "title":"readers choice"
+        },
         "133":{
             "author_id":"readers23",
             "author_name":"movieman",
@@ -3646,6 +3699,60 @@
             "created":1596430800,
             "id":2880291,
             "title":"Bean the Dynamite Duck"
+        },
+        "1333111122122112":{
+            "author_id":"rbm5",
+            "author_name":"RBM5",
+            "choices":[
+                "\u201cI can make anyone shiny with a single thought!\u201d Starting to get power hungry",
+                "Something else "
+            ],
+            "content":"<div class=\"\"><div> <span>Knowing he could save Bark he decided to make sure he knew it work as intended by making a vague wish that if it worked as intended would make things very beneficial to the duck. \u201cGenie for my first wish I want to be able to own anything that happens to be shiny by simply saying I own it.\u201d This certainly was an odd wish to make but the wish maker did as commanded with a snap of his fingers, \u201cit has been done my master.\u201d The duck decided to test how effective it was as he made his way outside where Nack was polishing bike, \u201cI see you love my bike!\u201d The weasel would\u2019ve been angry but it was as if a switch suddenly came on in his head, \u201cOh yeah it\u2019s great I\u2019m glad you let me drive it.\u201d Bean smirked as he began to think up a second wish... </span></div></div>",
+            "created":1601355600,
+            "id":2912061,
+            "title":"Bean saves that for the final wish"
+        },
+        "13331111221221121":{
+            "author_id":"rbm5",
+            "author_name":"RBM5",
+            "choices":[
+                "Bean decides to continue messing with Nack",
+                "Bean decides to move on and try claiming more things and people"
+            ],
+            "content":"<div class=\"\"><div> <span>The genie nodded as he snapped his fingers, \u201cIt has been done.\u201d The weasel was confused as he didn\u2019t see the genie however his confusion only increase as he started to glisten when Bean looked at him, \u201cWell letting something I own drive something I own isn\u2019t a problem for me.\u201d The figurative switch flipped again as Nack now thought of himself as one of Bean\u2019s possessions. \u201cWhatever you say Master!\u201d</span></div></div>",
+            "created":1601701200,
+            "id":2914321,
+            "title":"\u201cI can make anyone shiny with a single though..."
+        },
+        "13331111221221122":{
+            "author_id":"doctwisted",
+            "author_name":"Twisted Gear",
+            "choices":[
+                "Claim Chaos emeralds infront of rouge",
+                "Claim badniks infront of Eggman ",
+                "Claim the crown of acorns infront of Naugus",
+                "Claim the genies lamp\u2014 wait no!",
+                "Claim something else somewhere"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Maybe before he makes another wish he claims some more shiny things?</span></div></span></div>",
+            "created":1601442000,
+            "id":2912774,
+            "title":"Something else "
+        },
+        "133311112212211225":{
+            "author_id":"doctwisted",
+            "author_name":"Twisted Gear",
+            "choices":[
+                "Claim Mordred hoods limbs",
+                "Claim cloves legs",
+                "Claim Conquering storms eyes",
+                "Claim Maws... Maw",
+                "Claim something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Wait eggbosses have shiny parts, he could see if he could claim them?</span></div></span></div>",
+            "created":1601442000,
+            "id":2912776,
+            "title":"Claim something else somewhere"
         },
         "13331111222":{
             "author_id":"rbm5",
@@ -5849,8 +5956,8 @@
         "description":"<td align=\"left\" class=\"norm\">EDIT: The rules have changed.<br>\r\n<br>\r\nSonic and/or his friends find a Genie Lamp that grant's them any number of wishies, but each wish has a drawback that you decide.<br>\r\n<br>\r\nRules:<br>\r\nThe following are allowed:<br>\r\nSex<br>\r\nSwearing<br>\r\nTG(Transgender)<br>\r\nAR(age regression)<br>\r\nAP(Age Progression).<br>\r\nHomosexuality<br>\r\nUSE Proper Grammar.(it should be readable and understandable)<br>\r\n<br>\r\nI will remove Chapters I get complaints about as long as one of the above rules are broken, in order for me to do so Please tell me what Chapter in question.<br>\r\n<br>\r\nbesides that go nuts.</td>",
         "id":1915883,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1596494340,
-        "modified":1596494340,
+        "last_full_update":1602457140,
+        "modified":1603075020,
         "pretty_title":"Sonic & Co find a Genie Lamp."
     }
 }

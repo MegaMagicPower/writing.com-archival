@@ -232,6 +232,46 @@
             "id":2869307,
             "title":"stay in Maria's body"
         },
+        "11113222":{
+            "author_id":"dragon47",
+            "author_name":"Dragon47",
+            "choices":[
+                "The stone is gone!  (Stuck as Maria 2.0!)",
+                "Stone is still there",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Who are you and what are you doing with my stuff!\" yells the other Maria<br>\r\n<br>\r\n\"Um...  Maria\" Jake says, perplexed by the presence of the other Maria.  \"Shouldn't Maria be showing up in my body?\" He thought<br>\r\n<br>\r\n\"Liar, I'm Maria!\" the other Maria says<br>\r\n<br>\r\nJake tries to take the stone out of his pocket...</span></div></div>",
+            "created":1602565200,
+            "id":2920803,
+            "title":"Maria as herself - wait what?"
+        },
+        "111132222":{
+            "author_id":"dragon47",
+            "author_name":"Dragon47",
+            "choices":[
+                "Stay as Maria's twin",
+                "Try to change back to your body",
+                "Let Maria use the stone real quick"
+            ],
+            "content":"<div class=\"\"><div> <span>To Jake's relief, the stone was still in his pockets.  He pulls the stone out of his pocket, catching the other Maria's eye<br>\r\n<br>\r\n\"What's that?\" She says<br>\r\n<br>\r\nJake chuckles nervously.  \"You're not gonna believe this but...  it's me, Jake\"<br>\r\n<br>\r\n\"Jake's my big brother, not twin sister\"<br>\r\n<br>\r\n\"This stone, it was supposed to swap our bodies, but it looks like it only made me into you\" Jake explains<br>\r\n<br>\r\n\"Prove it\" Maria says<br>\r\n<br>\r\nJake comes up to Maria and whispers something into her ear.<br>\r\n<br>\r\nMaria reacts with intense shock, \"No way!\"</span></div></div>",
+            "created":1602565200,
+            "id":2920805,
+            "title":"Stone is still there"
+        },
+        "1111322221":{
+            "author_id":"dragon47",
+            "author_name":"Dragon47",
+            "choices":[
+                "Meeting everyone else as \"Maria 2\"",
+                "Jake prefers if he and Maria had fun alone",
+                "Maria asks if she can be \"Jake\"",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>Suddenly Maria hugs Jake very tightly.<br>\r\n<br>\r\n\"Oh my god, I always wanted a twin sister!\" She says<br>\r\n<br>\r\nJake tries to break free from his sister's hold, \"Wait, I never agreed to anything, and it'smy birthday\"<br>\r\n<br>\r\nMaria releases Jake, and looks down sadly.  Jake hated seeing Maria sad.<br>\r\n<br>\r\n\"I guess we can be twins for a little bit - but only for today\" Jake says<br>\r\n<br>\r\nMaria jumps up in joy and hugs Jake, who returns the gesture this time.  Maria says thank 10 times before releasing her \"twin\".<br>\r\n<br>\r\n\"But we need to tell everyone about this though\" Jake chuckles nervously \"Gonna be hard to explain this\"<br>\r\n<br>\r\nMaria takes Jake's hand and giggles, \"We'll figure something out\", and pulls him out of the room to meet everyone else.</span></div></div>",
+            "created":1602565200,
+            "id":2920809,
+            "title":"Stay as Maria's twin"
+        },
         "11113223":{
             "author_id":"dragon47",
             "author_name":"Dragon47",
@@ -510,6 +550,21 @@
             "created":1566104400,
             "id":2704254,
             "title":"Other"
+        },
+        "111331":{
+            "author_id":"dragon47",
+            "author_name":"Dragon47",
+            "choices":[
+                "Friends swapped with adults",
+                "Friends swapped with the dogs",
+                "Pets swapped with Parents",
+                "Maria swapped with Mom",
+                "Maria swapped one of Jake's friends"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Holy shit!\" Jake says - in his sister Maria's voice.  Jake looked at his arms and legs, they were more slender and smoother.  He was also much shorter, but his hair was much longer.<br>\r\n<br>\r\nYep, he was definitely in Maria's body.<br>\r\n<br>\r\n\"I wonder what happened with everyone else?\" Jake says aloud.<br>\r\n<br>\r\nLooking around he finds...<br>\r\n</span></div></div>",
+            "created":1602565200,
+            "id":2920801,
+            "title":"he was in his sister's body"
         },
         "111332":{
             "author_id":"dragon47",
@@ -861,7 +916,7 @@
         "id":2194489,
         "image_url":"https://www.Writing.Com/main/images/action/display_cover/id/102192.jpg",
         "last_full_update":1596070680,
-        "modified":1596070680,
+        "modified":1602633780,
         "pretty_title":"The Magical Body swap Stone"
     }
 }

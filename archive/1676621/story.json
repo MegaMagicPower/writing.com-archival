@@ -111,6 +111,19 @@
             "id":2910576,
             "title":"Go To The Mall"
         },
+        "1111111221":{
+            "author_id":"animecsi",
+            "author_name":"Archie Comics Lover",
+            "choices":[
+                "Someone on the street",
+                "An advertisement ",
+                "A mannequin "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What or who did you switch with </span></div></span></div>",
+            "created":1601960400,
+            "id":2915784,
+            "title":"Yes "
+        },
         "111112":{
             "author_id":"sailorotaku",
             "author_name":"SailorOtaku",
@@ -1648,6 +1661,47 @@
             "id":2875431,
             "title":"Wearing a costume "
         },
+        "1222322212":{
+            "author_id":"cooling999",
+            "author_name":"cooling999",
+            "choices":[
+                "A Furry Costume (fursuit)",
+                "Reader\u2019s Choice",
+                "Reader\u2019s Choice",
+                "Reader\u2019s Choice",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of cosplay costume?</span></div></span></div>",
+            "created":1601701200,
+            "id":2914776,
+            "title":"A Cosplay"
+        },
+        "12223222122":{
+            "author_id":"animecsi",
+            "author_name":"Archie Comics Lover",
+            "choices":[
+                "Sailor Moon ",
+                "Cardcaptor Sakura (Cardcaptors)",
+                "More choices "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The outfit belongs to which Magical Girl series</span></div></span></div>",
+            "created":1601960400,
+            "id":2915786,
+            "title":"Magical Girl outfit "
+        },
+        "12223222123":{
+            "author_id":"animecsi",
+            "author_name":"Archie Comics Lover",
+            "choices":[
+                "Marvel or DC",
+                "Archie",
+                "Any other companies or something else "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What comic book company is the character from</span></div></span></div>",
+            "created":1601960400,
+            "id":2915788,
+            "title":"Comic book character"
+        },
         "122232222":{
             "author_id":"animecsi",
             "author_name":"Archie Comics Lover",
@@ -2022,6 +2076,18 @@
             "created":1375160400,
             "id":1636630,
             "title":"a friend saw you"
+        },
+        "1322121":{
+            "author_id":"cooling999",
+            "author_name":"cooling999",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is it the woman that the bikini that you are currently wearing originally belonged to?</span></div></span></div>",
+            "created":1601787600,
+            "id":2914779,
+            "title":"A woman approaches you."
         },
         "13222":{
             "author_id":"selfiesmith",
@@ -6227,8 +6293,8 @@
         "description":"<td align=\"left\" class=\"norm\">Your name is Phillip Parker and one day you gain the ability to swap the clothes you are wearing with the clothes that a girl you know is wearing just by thinking about it. Other people don't notice the change except for those you swapped with. The only exception to this rule is if you really want to you can allow someone else to see the changes.<br>\r\n<br>\r\n<b>Basic Rules: </b><br>\r\n1. No personality changes<br>\r\n2. No killing characters<br>\r\n3. The main character gains no other powers<br>\r\n4. the swap must be with someone you know (no celebrities)<br>\r\n<br>\r\nPlease add and <b>Enjoy!</b><br>\r\n<br>\r\nP.S. The clothes adjust size (but not proportions) to fit you and people think that it is normal for you to wear the clothes you gain in the swap</td>",
         "id":1676621,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1599765420,
-        "modified":1601221680,
+        "last_full_update":1601965860,
+        "modified":1601965860,
         "pretty_title":"Outfit Swaps"
     }
 }

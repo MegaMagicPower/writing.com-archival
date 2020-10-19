@@ -90,7 +90,7 @@
                 "A text is sent to your sister",
                 "The computer reruns the software and sees you as a thief"
             ],
-            "content":"<div class=\"\"><div> <span>s you walk around her room a little bit before turning around to leave you hear the door closed behind you. As you walk up you notice you are locked in as you try to open the door robotic arms come out of the walls and start to grab you. <br>\r\n<br>\r\nYou are lift into the air as your trying to figure out what is going on. Unknown to you your sister had a security system installed in her room just in case someone broke into the house but the programming was flawed.<br>\r\n<br>\r\nIt was made to try to identify the person responsible of the break in now since you look a lot like your sister except for the hair the system thinks your her but wearing weird clothes.<br>\r\n<br>\r\nwhat dose it do next?</span></div></div>",
+            "content":"<div class=\"\"><div> <span>As you walk around her room a little bit before turning around to leave you hear the door closed behind you. As you walk up you notice you are locked in as you try to open the door robotic arms come out of the walls and start to grab you. <br>\r\n<br>\r\nYou are lift into the air as your trying to figure out what is going on. Unknown to you your sister had a security system installed in her room just in case someone broke into the house but the programming was flawed.<br>\r\n<br>\r\nIt was made to try to identify the person responsible of the break in now since you look a lot like your sister except for the hair the system thinks your her but wearing weird clothes.<br>\r\n<br>\r\nwhat dose it do next?</span></div></div>",
             "created":1572498000,
             "id":2740634,
             "title":"Leave the Room to see that the door is now lock..."
@@ -360,7 +360,8 @@
                 "Spa room",
                 "Pool room",
                 "Play room",
-                "Utility Room"
+                "Utility Room",
+                "The Attic"
             ],
             "content":"<div class=\"\"><div> <span>You decide to go downstairs and just hang out in the living room.<br>\r\n<br>\r\n After you get down there you sit on the couch and turn on the TV and start to watch some anime. A hour goes by and you got bored so you decide to go to the .......... room. <br>\r\n<br>\r\nWhat room did you go to?</span></div></div>",
             "created":1550638800,
@@ -429,6 +430,32 @@
             "created":1584421200,
             "id":2802699,
             "title":"Dresser (Dress up)"
+        },
+        "155":{
+            "author_id":"downhill",
+            "author_name":"Big99brother",
+            "choices":[
+                "Pink chair",
+                "Chest",
+                "Personal Heaven "
+            ],
+            "content":"<div class=\"\"><div> <span>You decided to head to the attic and see what can entertain you for a little while. When you get up there you can hardly see anything as you move around you feel like something was watching you. As you continue looking around moving boxes you notice some strange things a pink girly chair whit robot arms, a chest near a mirror that has a curtain near it, And last a old looking door labeled \"Personal Heaven\".<br>\r\n<br>\r\nWhat do you do?</span></div></div>",
+            "created":1602219600,
+            "id":2917984,
+            "title":"The Attic"
+        },
+        "1551":{
+            "author_id":"downhill",
+            "author_name":"Big99brother",
+            "choices":[
+                "Tomboy fixer",
+                "Princess maker",
+                "Man slayer "
+            ],
+            "content":"<div class=\"\"><div> <span>As you look at the pink chair you notice the arms, there was some behind the chair on the sides and near the base where theirs a foot rest. Theirs also a dial on the side but time had erase the words on it.<br>\r\n<br>\r\nAfter looking you found the cord near a wall socket and decided to see if it still works. As you plug it in, it comes to life moving a bit then settleds down after a second still humming.<br>\r\n<br>\r\nAs you come closer you accidentally trip and landed in the chair as it springs to life.  As metal restraints binds your hands and feet you hear \"Hello Ma'am thank you for choosing the auto make over 9000. For you safely you will be restraint into the make over is done.\" As the arm then begins to rip off your clothes \"Please rest assured you will receive a new hand made out at the end of the makeover you have selected  ____________ .\"<br>\r\n<br>\r\nWhat was the Dial on when you fell?</span></div></div>",
+            "created":1602219600,
+            "id":2917987,
+            "title":"Pink chair"
         }
     },
     "info":{
@@ -439,8 +466,8 @@
         "description":"<td align=\"left\" class=\"norm\">The boy is 16 and his name is Austin. He has two sisters one is 18 name Hazel and one that is 1 year old. And the mother is single (the dad died in a car crash). The house is fully equipped whit maid bots, auto closet, a spa, a pool, baby room, and a lab for the mother (who is a Scientists).<br>\r\n<br>\r\nRules<br>\r\nNo killing<br>\r\nTry to check your spelling<br>\r\nNo racism or sexism<br>\r\nAnd have fun</td>",
         "id":2181073,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1584452280,
-        "modified":1584452280,
+        "last_full_update":1602238500,
+        "modified":1602238500,
         "pretty_title":"Auto Disaster"
     }
 }

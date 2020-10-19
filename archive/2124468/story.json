@@ -464,6 +464,21 @@
             "id":2559021,
             "title":"Shark!!!....Girl???"
         },
+        "135132212211":{
+            "author_id":"nemryn",
+            "author_name":"nemryn",
+            "choices":[
+                "Unmerge the girl and the shark",
+                "Approach the shark-girl and attempt to talk to her",
+                "Let the lifeguards handle things",
+                "Do another merge",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>The calm lasts only a moment before panic sets in again, although a little more subdued. The brunette snarls and begins stalking across the beach. People scramble to get away as the shark-girl wades through the water, gnashing her teeth at anyone who gets too near.<br>\r\n<br>\r\nPuzzled, you turn to the device, and see a slider marked \"Merged Role\". It's set at \"75% Target B\", and you realized what must have happened: the merged shark-girl ended up being mostly considered a shark. Despite her sexy humanoid body, the beachgoers are still reacting to her like a dangerous predator.<br>\r\n<br>\r\nYou wonder whether she really is that dangerous, though. Her teeth seem to be normal human ones instead of serrated shark teeth, and you realize that while you've been watching her, she had mostly been thrashing around fruitlessly in the water, not posing any real threat. It's actually kind of cute, rather than menacing. The beach staff certainly seem to be taking her seriously, though, as out of the corner of your eye you see a pair of lifeguards assembling some kind of net. If you want to do something, it'll have to be now, before she gets captured.</span></div></div>",
+            "created":1602651600,
+            "id":2921600,
+            "title":"The shark girl and onlookers are shocked and pa..."
+        },
         "135132212212":{
             "author_id":"sgtmikey",
             "author_name":"Mikey",
@@ -522,7 +537,7 @@
         "id":2124468,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
         "last_full_update":1570692480,
-        "modified":1570692480,
+        "modified":1602719460,
         "pretty_title":"The Merge Device"
     }
 }
