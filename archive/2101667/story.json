@@ -60,7 +60,7 @@
                 "Female"
             ],
             "content":"<div class=\"\"><div> <span>That would explain her mismatching body. Though you instantly have a ton of questions that need answering, your first thought is to what bodies they have.<br>\r\n\"So, how does this all work? What do we do off shift, and what if we don't want to?\" You try getting a few basics out of the way.<br>\r\n\"Well off-shift heads either stay in our head dorms or some of our server bodies volunteer to take so many home, but that'll be your choice. As for if you don't want to, I can tell you its the best job I've ever had, but otherwise we'll just sell you to the nearby head shop. Anything else?\" she replies as entering the kitchen with you on her tray.<br>\r\n\"So the bodies are fine on their own? Why do they need heads for waiting?\"<br>\r\n\"Eh, I'm not the brains of that, I think its just for fun and show. How many places hire like us?\" she asks back.<br>\r\n\"Fair\" you reply as you see other mismatched servers heading in and out, \"What about that body then?\" you gesture as much you can to a suited up headless woman, checking things off her clipboard.<br>\r\n\"Oh, she's not a server. That's Maria, she's the afternoon manager\"<br>\r\n\"Then where's her head?\" <br>\r\n\"Funny you ask, she's the head of marketing, all this head business was her idea, she grew this company like crazy\"<br>\r\n<br>\r\nYou are a bit surprised, but think it won't hurt to work here for awhile at least.<br>\r\n\"So, when do I start?\"<br>\r\n\"Next shift\" she says before setting you down on a shelf among several other heads. She then spins around and heads back out.<br>\r\n<br>\r\n----<br>\r\n<br>\r\nYou chat with some of the other heads for a little while, learning their former lives and bodies while waiting for your shift.<br>\r\nFinally though it was time. All the servers came back in, one by one, taking their heads off and placing them on the shelf above yours. Then the bodies went to grab their new heads. It seemed completely random, or at least the bodies' preference. The body that grabs and attaches your head is...</span></div></div>",
-            "created":1586235600,
+            "created":1586291460,
             "id":2815041,
             "title":"Employee them, like me. We have a few server bo..."
         },
@@ -72,7 +72,7 @@
                 "Prefer something else"
             ],
             "content":"<div class=\"\"><div> <span>\"Normally we would either donate your head to the nearest head shop or make you pay us back through employment, but you clearly are an outsider. That means that there are another options since you did not know any better,\" she said.<br>\r\n<br>\r\n\"Do tell,\" you said.<br>\r\n<br>\r\n\"There is pay in full but that might be difficult. Or perhaps you could find another head to take your place,\" she said.<br>\r\n<br>\r\n\"How can I do that without a body?\" you asked.<br>\r\n<br>\r\n\"Don't worry, I'll help out. Just find a head, buy said head, and we'll employ it while you get your body back. How does that sound?\" she said.<br>\r\n<br>\r\nYou tried to consider your options a bit further and decided to...</span></div></div>",
-            "created":1586235600,
+            "created":1586313300,
             "id":2815194,
             "title":"More choices"
         },
@@ -129,7 +129,7 @@
                 "Fight you"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The thief, holding your head, sees you and freezes.<br>\r\nThey then...</span></div></span></div>",
-            "created":1586235600,
+            "created":1586308680,
             "id":2815173,
             "title":"There is a dead end behind the corner, and the ..."
         },
@@ -141,7 +141,7 @@
                 "Your head is dormant "
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The thief drops your head before running off. They're too fast for you to catch, but your head is your main concern.<br>\r\n<br>\r\nYou run over to your head, laying in the alley. You pick it up to see that... </span></div></span></div>",
-            "created":1589950800,
+            "created":1590009480,
             "id":2838610,
             "title":"Drop your head and run off"
         },
@@ -229,7 +229,7 @@
                 "I'm a newly headless body"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So you just traded heads with another guy. At least your new head/body will match better.<br>\r\nBut are you your body or your head?</span></div></span></div>",
-            "created":1590037200,
+            "created":1590095160,
             "id":2839180,
             "title":"The trader is male"
         },
@@ -241,7 +241,7 @@
                 "I'm a newly headless body"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Well then, you just traded your head for a woman's.<br>\r\nBut are you your head or your body?</span></div></span></div>",
-            "created":1586235600,
+            "created":1586308980,
             "id":2815175,
             "title":"The trader is female"
         },
@@ -319,7 +319,7 @@
                 "\"Sorry, sir, you can't buy your own head\""
             ],
             "content":"<div class=\"\"><div> <span>Not just any male body you note, its actually your own body.<br>\r\n<br>\r\n\"Hey!\" you call out to your body from your new spot on the shelf.<br>\r\nYour body waves before coming over, picking you up and bringing you to the counter.<br>\r\n<br>\r\n\"Sweet\" you thought, glad you got the whole headless thing and get to keep with your body.<br>\r\n<br>\r\nYour body places you on the counter. The cashier looks at you before saying...</span></div></div>",
-            "created":1589950800,
+            "created":1590009420,
             "id":2838607,
             "title":"Male"
         },
@@ -344,6 +344,19 @@
             "created":1478926800,
             "id":2235824,
             "title":"\"I'll take a new head\""
+        },
+        "111312211":{
+            "author_id":"dayaman",
+            "author_name":"dayaman",
+            "choices":[
+                "male",
+                "female",
+                "gender-fluid"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\"Very well,\" the girl says. \"Which sex?\"<br>\r\n<br>\r\nYou pick...</span></div></span></div>",
+            "created":1603131840,
+            "id":2924818,
+            "title":"\"...take a very unique head\""
         },
         "111312212":{
             "author_id":"ariek99",
@@ -389,7 +402,7 @@
                 "go to a different head store to shop"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where else may you spend your headless time?</span></div></span></div>",
-            "created":1592629200,
+            "created":1592657220,
             "id":2853997,
             "title":"Somewhere else"
         },
@@ -401,7 +414,7 @@
                 "Other (play some games, check out the services, etc)"
             ],
             "content":"<div class=\"\"><div> <span>As you wander around, you realize that you fit in pretty well, now that you're lacking a head. Perhaps not as much as if you were carrying it around or if you had a mismatched one, but you fit in nonetheless. Something about that made you happy - you had barely been in this town for an hour and you already looked just like most of the people here. You could adapt pretty well! Of course, it'd be a bit hard to fit in with other places now considering this was just about the only place you knew where detached heads were the norm, but for now you didn't care about that, it's not going to affect your trip here.<br>\r\n<br>\r\nSnapping out of your thoughts, you notice a nice-looking club nearby, and figure you could stop there. Tilting your neck up as you walk towards it, you see the name \"Icha-bod's Lounge\" hanging up above the entrance.  Looking back down, you notice some stickers on the glass door entrance. There's the standard \"no shirt, no shoes, no service\" notice, but the one above it catches your non-existent eye - \"No heads allowed beyond this point\". That was a new one, though in the end it didn't surprise you, considering what kind of town this was. It'd explain the \"bod\" part of the name, too - a club just for headless folks. Waving a hand above your empty neck, you're a perfect fit for this club.<br>\r\n<br>\r\nOpening the door, you can hear some quiet jazz playing over some speakers to set the mood, plenty of chairs to sit and chill in - a good deal of which were already occupied, natch - and some game tables for stuff like pool, card games, that sort of thing. There were also a few doors in the back for some services, but you couldn't make out what they said from where you stood. And aside from the jazz, there wasn't much noise aside from footsteps, sounds from the game tables like the clacking of pool balls, and maybe the tapping of phone keys or pens writing on paper if you listened hard enough. It made sense, as there were no heads to fill the air with voices. It was calming, if a bit unusual compared to the hustling and bustling rest of the town.<br>\r\n<br>\r\nSo, what will you do here?<br>\r\n</span></div></div>",
-            "created":1592629200,
+            "created":1592710920,
             "id":2854331,
             "title":"FORE! ...oh, you meant THAT kind of club"
         },
@@ -454,7 +467,7 @@
                 "Female"
             ],
             "content":"<div class=\"\"><div> <span>Just as the employee begins to head back with you a customer hails them down. They spin around to reveal a group of about 5 friends, 1 of them headless.<br>\r\n\"Can you set us up for a game?\" the one in the front asks.<br>\r\n<br>\r\n\"Sure thing, let me just put this ball back\" the employee explains.<br>\r\n<br>\r\n\"Actually, one of our buddies here needs a ball, we can just take him\"<br>\r\n<br>\r\n\"Alright, easier for me\" the employee says before looking down to you, \"guess you get to have some fun quicker\".<br>\r\n<br>\r\nYou are then handed over to the headless player as they all register a lane.<br>\r\n<br>\r\nAs they head over, the rest of the group detaches their heads and prepares to use them as balls.<br>\r\n<br>\r\nThe headless member is...</span></div></div>",
-            "created":1588050000,
+            "created":1588108020,
             "id":2826409,
             "title":"your head"
         },
@@ -566,7 +579,7 @@
                 "go pick your head up"
             ],
             "content":"<div class=\"\"><div> <span>\"So are you going to go get your head?\" she asked.<br>\r\n<br>\r\nYou shrugged again, starting to like being headless.<br>\r\n<br>\r\n\"You wouldn't leave me, right\" she looked up, trying to see her body, who also shrugged in response, \"Wow, what's with you bodies?\"<br>\r\nHer body then took out her phone and typed, \"I did get you, I like heads\" it responded to her.<br>\r\n\"Ugh, fine\" she says before turning her attention back to you, \"So, is your head still there or did you do anything with it?\"<br>\r\n<br>\r\nYou finally pulled out your phone to tell her it was still there.<br>\r\nHer body starts getting a little excited, she then typed in and asked you, \"Can I have your head if you don't want it?\"<br>\r\nHer head looked surprised but approving.<br>\r\n<br>\r\nYou decide...</span></div></div>",
-            "created":1589950800,
+            "created":1590007860,
             "id":2838592,
             "title":"She ponders for a while"
         },
@@ -2302,7 +2315,7 @@
                 "after Olivia left the restroom"
             ],
             "content":"<div class=\"\"><div> <span>Olivia went towards the restrooms. As expected in most establishments, there were two: one for males and one for females. What was different was that there were arches that resembled metal detectors that one would find at airports. But instead of detecting metal, they detected the gender of the body. So Olivia went through the detector in front of the men's room, and it examined her body from the neck down. As soon as it detected her body to be male, Olivia went into the room.<br>\r\n<br>\r\nTrue enough, the restroom contained other male-bodied beings, some with female heads, some with multiple heads, and some with no head at all. Olivia went into one of the stalls to... relieve herself. She pulled down her pants, sat down on the toilet, and looked at the throbbing penis between her hairy legs. Her feminine mind was aroused at how delicious it looked. If her head was not attached, she would suck it. And then...</span></div></div>",
-            "created":1588482000,
+            "created":1588547820,
             "id":2829523,
             "title":"Olivia decides to... 'relieve her tension..."
         },
@@ -2641,7 +2654,7 @@
                 "other"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>More options...</span></div></span></div>",
-            "created":1592024400,
+            "created":1592106480,
             "id":2850945,
             "title":"More"
         },
@@ -2653,7 +2666,7 @@
                 "No"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is the person\u2019s original body using a sports ball for a head?</span></div></span></div>",
-            "created":1592110800,
+            "created":1592112900,
             "id":2850968,
             "title":"a head being used as a sports ball"
         },
@@ -3784,7 +3797,7 @@
         "id":2101667,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
         "last_full_update":1592710920,
-        "modified":1592710920,
+        "modified":1603131840,
         "pretty_title":"Welcome to Head Town"
     }
 }

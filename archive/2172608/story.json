@@ -30,6 +30,18 @@
             "id":2696936,
             "title":"Hansel and Gretel (the non-fat version)."
         },
+        "111":{
+            "author_id":"vpromise",
+            "author_name":"Violet Brenner",
+            "choices":[
+                "Add more characters to the story since it's a parody",
+                "Continue to the plot of the story "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Going about the original story, the revised characters would be:<br>\r\n<br>\r\nHansel and Gretel - Sam and Dean Winchester<br>\r\nTheir parents - John and Mary Winchester<br>\r\nThe witch - Rowena<br>\r\n</span></div></span></div>",
+            "created":1603273260,
+            "id":2926087,
+            "title":"Supernatural"
+        },
         "112":{
             "author_id":"jken",
             "author_name":"dfff",
@@ -65,7 +77,7 @@
                 "Someone Else"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have chosen <i>Tiny Toon Adventures</i>. Now, who will play the roles of Hansel and Gretel?</span></div></span></div>",
-            "created":1602392400,
+            "created":1602456660,
             "id":2919260,
             "title":"Tiny Toon Adventures"
         },
@@ -77,7 +89,7 @@
                 "No, something else."
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have chosen Babs and Buster Bunny (No relation). Now, will this be an alternate version of \"Fit to Be Stewed\" (a double-length short from \"Buster's Directorial Debut\")?</span></div></span></div>",
-            "created":1602392400,
+            "created":1602456780,
             "id":2919261,
             "title":"Babs and Buster Bunny (No relation)"
         },
@@ -90,7 +102,7 @@
                 "Something else"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about these shows?</span></div></span></div>",
-            "created":1602392400,
+            "created":1602456780,
             "id":2919262,
             "title":"Something else"
         },
@@ -102,7 +114,7 @@
                 "Someone Else"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have chosen <i>Adventures of Sonic the Hedgehog</i>. Now, who will play the roles of Hansel and Gretel?</span></div></span></div>",
-            "created":1602392400,
+            "created":1602456840,
             "id":2919265,
             "title":"Adventures of Sonic the Hedgehog"
         },
@@ -114,9 +126,45 @@
                 "No, something else."
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have chosen Sonic and Tails. Is this going to be an alternate version of \"Hansel and Nettle\" from \"Sonically Ever After\"?</span></div></span></div>",
-            "created":1602392400,
+            "created":1602456900,
             "id":2919266,
             "title":"Sonic and Tails"
+        },
+        "11533":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about <i>Rugrats</i>?</span></div></span></div>",
+            "created":1603495260,
+            "id":2927711,
+            "title":"Something else"
+        },
+        "115331":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Phil and Lil DeVille",
+                "Someone Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have chosen <i>Rugrats</i>. Now, who takes on the roles of Hansel and Gretel?</span></div></span></div>",
+            "created":1603495320,
+            "id":2927712,
+            "title":"Yes"
+        },
+        "1153311":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Angelica take on the role of The Witch?</span></div></span></div>",
+            "created":1603495500,
+            "id":2927713,
+            "title":"Phil and Lil DeVille"
         },
         "13":{
             "author_id":"supreme123",
@@ -2227,6 +2275,54 @@
             "id":2622542,
             "title":"Aladdin."
         },
+        "155323":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is <i>Tiny Toon Adventures</i> okay?</span></div></span></div>",
+            "created":1603335120,
+            "id":2926596,
+            "title":"Other."
+        },
+        "1553231":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Buster Bunny play the role of Aladdin?</span></div></span></div>",
+            "created":1603335360,
+            "id":2926599,
+            "title":"Yes"
+        },
+        "15532311":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Babs Bunny play the role of Jasmine?</span></div></span></div>",
+            "created":1603336440,
+            "id":2926605,
+            "title":"Yes"
+        },
+        "155323111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Gogo Dodo play the role of the Genie?</span></div></span></div>",
+            "created":1603336680,
+            "id":2926607,
+            "title":"Yes"
+        },
         "15533":{
             "author_id":"magicdream",
             "author_name":"Abracadabra.",
@@ -2239,6 +2335,36 @@
             "created":1550984400,
             "id":2622544,
             "title":"The Little Mermaid."
+        },
+        "15534":{
+            "author_id":"gilligfan",
+            "author_name":"PrincessKooh",
+            "choices":[
+                "Alice In WonderLand ",
+                "Gullivers Travels",
+                "Readers choice ",
+                "Something else ",
+                "Another choice "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about a parody or re-enactment <br>\r\nOf one of these?</span></div></span></div>",
+            "created":1603485840,
+            "id":2927606,
+            "title":"Other."
+        },
+        "155341":{
+            "author_id":"gilligfan",
+            "author_name":"PrincessKooh",
+            "choices":[
+                "Rugrats in Wonderland ",
+                "Arthur ( cartoon ) in Wonderland ",
+                "Dragon Tales Wonderland ",
+                "Good luck in Wonderland Charlie",
+                "More choices "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Now that the choice is made<br>\r\nWhat Cast Of Characters shall<br>\r\nDo a parody, re-enactment or retelling of<br>\r\nAlice In Wonderland?</span></div></span></div>",
+            "created":1603534860,
+            "id":2927912,
+            "title":"Alice In WonderLand "
         }
     },
     "info":{
@@ -2250,7 +2376,7 @@
         "id":2172608,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
         "last_full_update":1602456900,
-        "modified":1602456900,
+        "modified":1603534860,
         "pretty_title":"TV Characters Reenact Fairy Tales"
     }
 }

@@ -1714,6 +1714,18 @@
             "id":2644454,
             "title":"A group "
         },
+        "115332":{
+            "author_id":"dorkshove",
+            "author_name":"pain and suffering",
+            "choices":[
+                "Sure",
+                "Non"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about JoJo's?</span></div></span></div>",
+            "created":1603356600,
+            "id":2926759,
+            "title":"No."
+        },
         "12":{
             "author_id":"crocodile",
             "author_name":"Crocodile",
@@ -1728,6 +1740,66 @@
             "created":1409979600,
             "id":1853169,
             "title":"Western Animated TV Shows/Movies"
+        },
+        "121":{
+            "author_id":"bigboy420",
+            "author_name":"bigboy320",
+            "choices":[
+                "ATLA",
+                "LOK"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did it appear in the<br>\r\nATLA (Avatar the Last Airbender)<br>\r\nOr<br>\r\nLOK (Legend of Korra)<br>\r\nUniverse</span></div></span></div>",
+            "created":1603170000,
+            "id":2925973,
+            "title":"ATLA or LOK"
+        },
+        "1211":{
+            "author_id":"bigboy420",
+            "author_name":"bigboy320",
+            "choices":[
+                "Book 3",
+                "The other options"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What book (or season) did it happen in<br>\r\n<br>\r\nBook 1<br>\r\nBook 2<br>\r\nBook 3<br>\r\nThe Comics</span></div></span></div>",
+            "created":1603170000,
+            "id":2925975,
+            "title":"Which book"
+        },
+        "12112":{
+            "author_id":"bigboy420",
+            "author_name":"bigboy320",
+            "choices":[
+                "Book 2",
+                "The other options"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about Book 2?</span></div></span></div>",
+            "created":1603170000,
+            "id":2925976,
+            "title":"Book 2?"
+        },
+        "121122":{
+            "author_id":"bigboy420",
+            "author_name":"bigboy320",
+            "choices":[
+                "Book 1",
+                "The other choice"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about Book 1</span></div></span></div>",
+            "created":1603252020,
+            "id":2925977,
+            "title":"Book 1?"
+        },
+        "1211222":{
+            "author_id":"bigboy420",
+            "author_name":"bigboy320",
+            "choices":[
+                "Comics",
+                "Something else I didn\u2019t think of"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about the Comics</span></div></span></div>",
+            "created":1603252080,
+            "id":2925978,
+            "title":"The Comics?"
         },
         "122":{
             "author_id":"maccar110",
@@ -1853,6 +1925,21 @@
             "created":1519707600,
             "id":2458369,
             "title":"She meets Scooby-Doo"
+        },
+        "125312":{
+            "author_id":"spunky",
+            "author_name":"Ace Jones",
+            "choices":[
+                "Littlest Pet Shop A World Of Our Own.",
+                "101 Dalmatians the series.",
+                "101 Dalmatian Street.",
+                "Paw Patrol.",
+                "Your choice."
+            ],
+            "content":"<div class=\"\"><div> <span>Since it seems this author can't even show some respect or be nice to anyone, this writer's options will now be taken away ergo if you can't respect or be nice towards your fellow authors you don't belong here.<br>\r\n<br>\r\nNow then what western animated cartoon show will you choose from as there's plenty of choices and whatnot?<br>\r\n<br>\r\n</span></div></div>",
+            "created":1603366440,
+            "id":2926788,
+            "title":"Something Else"
         },
         "12532":{
             "author_id":"firstlastname",
@@ -2133,6 +2220,18 @@
             "id":1867775,
             "title":"Other"
         },
+        "151":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Goosebumps.",
+                "Any others."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which book universe does the rift end up in?</span></div></span></div>",
+            "created":1603459740,
+            "id":2927437,
+            "title":"Books"
+        },
         "152":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
@@ -2158,6 +2257,30 @@
             "created":1565931600,
             "id":2703326,
             "title":"Buffy: The Vampire Slayer."
+        },
+        "15211":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "A Graveyard while out on patrol",
+                "Somewhere Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where does Buffy find the rift?</span></div></span></div>",
+            "created":1603454520,
+            "id":2927404,
+            "title":"Buffy"
+        },
+        "152111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "No way."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does she open it by mistake?</span></div></span></div>",
+            "created":1603456080,
+            "id":2927418,
+            "title":"A Graveyard while out on patrol"
         },
         "15212":{
             "author_id":"supreme123",
@@ -2259,6 +2382,30 @@
             "id":2703054,
             "title":"Pretty Little Liars"
         },
+        "152312":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Her Home",
+                "Somewhere Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where is Hanna at when she discovers the rift?</span></div></span></div>",
+            "created":1603454640,
+            "id":2927405,
+            "title":"Hanna."
+        },
+        "1523121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Another part of the house."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She finds the rift in her home, in her bedroom?</span></div></span></div>",
+            "created":1603455420,
+            "id":2927412,
+            "title":"Her Home"
+        },
         "15232":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
@@ -2272,6 +2419,31 @@
             "id":2703056,
             "title":"The Big Bang Theory"
         },
+        "152321":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "The Cheesecake Factory",
+                "Somewhere Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where is Penny at when she finds the rift?</span></div></span></div>",
+            "created":1603454760,
+            "id":2927408,
+            "title":"Sure."
+        },
+        "1523212":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup.",
+                "Leonard's place.",
+                "Anywhere else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Hmm, at her apartment?</span></div></span></div>",
+            "created":1603456020,
+            "id":2927416,
+            "title":"Somewhere Else"
+        },
         "15233":{
             "author_id":"jd88237",
             "author_name":"jdawg1985",
@@ -2283,6 +2455,44 @@
             "created":1565845200,
             "id":2703029,
             "title":"Another Show"
+        },
+        "152331":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Emma Swan",
+                "Someone Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who from One A Time finds the rift?</span></div></span></div>",
+            "created":1603454820,
+            "id":2927409,
+            "title":"Once Upon A Time"
+        },
+        "1523311":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "the sheriffs office ",
+                "Granny's diner",
+                "somewhere else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>where does Emma find this rift?</span></div></span></div>",
+            "created":1603457580,
+            "id":2927424,
+            "title":"Emma Swan"
+        },
+        "1523312":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Ruby",
+                "Regina Mills",
+                "someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>who else finds the rift?</span></div></span></div>",
+            "created":1603457520,
+            "id":2927423,
+            "title":"Someone Else"
         },
         "152332":{
             "author_id":"supreme123",
@@ -2296,6 +2506,18 @@
             "created":1565845200,
             "id":2703059,
             "title":"Another Show"
+        },
+        "1523321":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Claire",
+                "Someone Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who from How I Met Your Mother finds the rift?</span></div></span></div>",
+            "created":1603454940,
+            "id":2927410,
+            "title":"Yeah."
         },
         "1523323":{
             "author_id":"kameron94",
@@ -2483,7 +2705,7 @@
         "id":2008244,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
         "last_full_update":1586814120,
-        "modified":1586814120,
+        "modified":1603459740,
         "pretty_title":"Dimensional Rift"
     }
 }

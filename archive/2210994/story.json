@@ -647,7 +647,7 @@
                 "Not taking it seriously she turns the music box on"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Hanna opened the note and read it and it stated that warning to whoever plays this music box. Listening to this will have serious side effects.<br>\r\n<br>\r\nWhat does Hanna do next?</span></div></span></div>",
-            "created":1601787600,
+            "created":1601819100,
             "id":2914908,
             "title":"Yeah."
         },
@@ -660,7 +660,7 @@
                 "Anything else."
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>When she turns it on, what happens first?</span></div></span></div>",
-            "created":1601787600,
+            "created":1601819280,
             "id":2914911,
             "title":"Not taking it seriously she turns the music box on"
         },
@@ -972,7 +972,7 @@
                 "No."
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>1: Spencer would call Hanna auntie. 2: She'd punish Spencer if she misbehaved, and call Veronica if she had to. Any other rules?</span></div></span></div>",
-            "created":1601787600,
+            "created":1601818800,
             "id":2914903,
             "title":"Reader's Choice 1"
         },
@@ -1307,7 +1307,7 @@
                 "Something else she did."
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>As Emily got Hanna undressed, did Hanna start to talk like a baby?</span></div></span></div>",
-            "created":1601787600,
+            "created":1601818680,
             "id":2914900,
             "title":"Yes"
         },
@@ -1358,7 +1358,7 @@
                 "SE"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Veronica took Hanna in. Spencer offered to help as well, something Hanna was great ful for. First things first. Hanna was...</span></div></span></div>",
-            "created":1601787600,
+            "created":1601819220,
             "id":2914909,
             "title":"Veronica"
         },
@@ -1370,7 +1370,7 @@
                 "No, Spencer"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Veronica give Hanna a bath?</span></div></span></div>",
-            "created":1601787600,
+            "created":1601839500,
             "id":2914996,
             "title":"given a bath."
         },
@@ -1382,7 +1382,7 @@
                 "SE"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Spencer bathed her new little sister, giving Veronica time to set up the nursery. Did Hanna play around with her new big sister?</span></div></span></div>",
-            "created":1601787600,
+            "created":1601839800,
             "id":2915000,
             "title":"No, Spencer"
         },
@@ -1469,7 +1469,7 @@
                 "Nah."
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Hanna stay still as Ali dressed her?</span></div></span></div>",
-            "created":1601787600,
+            "created":1601819100,
             "id":2914907,
             "title":"a babyish dress with her diaper somewhat visibl..."
         },
@@ -1481,9 +1481,82 @@
                 "Other rooms."
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>They dressed her in Ali's house, but, in which room?</span></div></span></div>",
-            "created":1601787600,
+            "created":1601818980,
             "id":2914904,
             "title":"They wait until they get home to dress Hanna"
+        },
+        "11533223":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "A prank",
+                "Something involving Halloween",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Hanna end up in diapers as the result of a prank?</span></div></span></div>",
+            "created":1603297440,
+            "id":2926264,
+            "title":"something else"
+        },
+        "115332232":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Hmm, other ideas."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Somehow, she ends up choosing a baby as her costume?</span></div></span></div>",
+            "created":1603297980,
+            "id":2926276,
+            "title":"Something involving Halloween"
+        },
+        "1153322321":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "It was the only costume available",
+                "Another Reason"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does Hanna end up choosing a baby as her costume?</span></div></span></div>",
+            "created":1603308600,
+            "id":2926365,
+            "title":"Yeah."
+        },
+        "11533223211":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Nah, Ashley or someone else was with her."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was she alone when she found it?</span></div></span></div>",
+            "created":1603308720,
+            "id":2926369,
+            "title":"It was the only costume available"
+        },
+        "115332232112":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No, Someone Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was it Ashley who was with her?</span></div></span></div>",
+            "created":1603308900,
+            "id":2926373,
+            "title":"Nah, Ashley or someone else was with her."
+        },
+        "1153322321121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Nope, Ashley does."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>On getting home, does Hanna dress herself in the costume?</span></div></span></div>",
+            "created":1603309260,
+            "id":2926379,
+            "title":"Yes"
         },
         "12":{
             "author_id":"supreme123",
@@ -2854,7 +2927,7 @@
         "id":2210994,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
         "last_full_update":1601839800,
-        "modified":1601839800,
+        "modified":1603309260,
         "pretty_title":"pretty little liars girls in diapers"
     }
 }

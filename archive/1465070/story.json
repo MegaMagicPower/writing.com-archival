@@ -47,7 +47,7 @@
                 "Ino Yamanaka"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span><a name=\"freturn1\"></a><a href=\"#footnote1\" class=\"footnote\" title=\"Footnote 1: *LinkTextHere*\">1</a><div align=\"justify\">{/just ify}<p align=\"left\"><u>Footnotes</u><br><a name=\"footnote1\"></a><a href=\"#freturn1\" class=\"footnote\" title=\"Return from Footnote 1\">1</a>\u00a0 \t<script language=\"JavaScript\"><!--\n\t\tvar notex, thisx, mmove;\n\tfunction showPopNote2(notex, event, thisx, mmove) {  var thisxPosY = $(thisx).position();  var ccTop = 15;  if ($('#Content_Column_Wrapper').length) {  var ccPos = $('#Content_Column_Wrapper').position();  ccTop = ccPos.top;  }  var thisxBot = thisxPosY.top + $(thisx).height(); $('#bigPopNote' + notex).appendTo('#Content_Column_Wrapper'); $('#bigPopNote' + notex).css({'top':event.pageY-ccTop + 15, 'position':'absolute'});  if ($('#bigPopNote' + notex).width() < $('#bigPopNote' + notex).parent().width() - 50) { $('#bigPopNote' + notex).css({'left':event.pageX-50});  }  document.getElementById('bigPopNote' + notex).style.display = 'block';   if (mmove == 1) {  thisx.style.borderBottomStyle = 'solid'; }  thisx.clicked = 0;  }\n\tfunction clickPopNote2(thisx) {  thisx.clicked = 1;  }\n\tfunction hidePopNote2(notex, event, thisx) {  document.getElementById('popnote' + notex).style.borderBottomStyle = 'dotted';  if (thisx.clicked != 1) {  document.getElementById('bigPopNote' + notex).style.display = 'none';  }  }\n\t\t\t\t//--></script><span id=\"popnote15916133971\" onmouseover=\"showPopNote2('15916133971', event,this,1);\" onmouseout=\"hidePopNote2('15916133971',event,this);\" onclick=\"clickPopNote2(this);\" style=\"border-bottom:2px dotted ;\" title=\"\">LinkTextHere</span> </p><div id=\"bigPopNote15916133971\" style=\"position:absolute;display:none;z-index:200;\" onmouseover=\"$(this).show(); event.preventDefault(); return false;\" onmouseout=\"$(this).hide();\"><div align=\"center\">\n\t<table border=\"0\" class=\"shadowBox\" style=\"margin-top:5px;padding:15px;border-color:#000000;\"><tr><td align=\"left\"></td></tr></table></div></div></div></span></div></span></div>",
-            "created":1575608400,
+            "created":1575664440,
             "id":2756279,
             "title":"Hinata "
         },
@@ -120,7 +120,7 @@
                 "Tsundae barges in. "
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Sakura fell to the floor, her legs suddenly like jelly. She began to cry, her mind unable to understand just what had happened. Suddenly</span></div></span></div>",
-            "created":1336280400,
+            "created":1336333740,
             "id":1330825,
             "title":"sakura turns into a baby"
         },
@@ -132,7 +132,7 @@
                 "Sasuke"
             ],
             "content":"<div class=\"\"><div> <span>Tsundae slowly entered Nauto's house until she caught sight of the crying Sakura. After seeing this, she rushed in, picking up Sakura and hushing her.<br>\r\n<br>\r\n\"Don't cry, Sakura-chan! Mama's here,\" she said as she rubbed the crying's girl's back. She sent calming  bursts of chakra into Sakura's body, causing the girl to quiet and fall into a deep sleep. Tsunade grinned evilly as she laid Sakura on the carpet. Her plan had worked! The potion she had put into their breakfasts had finally taken effect!<br>\r\n<br>\r\nShe quickly changed Sakura out of her clothes and into a diaper before going to check on Naruto and Sasuke, who were asleep and dry. <br>\r\n<br>\r\nFinally! She could be a mommy! At least until the potion wore off...<br>\r\n<br>\r\nSoon, she heard a cry, and rushed to check on...</span></div></div>",
-            "created":1366952400,
+            "created":1367006520,
             "id":1578998,
             "title":"Mama Tsundae "
         },
@@ -144,7 +144,7 @@
                 "need a change?"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does little Sasuke...</span></div></span></div>",
-            "created":1369544400,
+            "created":1369602060,
             "id":1597246,
             "title":"Sasuke"
         },
@@ -156,7 +156,7 @@
                 "No, just the three."
             ],
             "content":"<div class=\"\"><div> <span>Sasuke was crying on his back, flailing his arms and legs, whimpering. Naruto wad curled in a ball by the crib, drool trailing down his chin as he snored softly in nothing but his diaper. Tsunade smirked and shook her head. <i>Some things never change...</i><br>\r\n<br>\r\nShe carefully stepped over him to get to Sasuke. She carefully pulled him into her arms. His whimpering softened as she carried him to the living room before sitting on his couch.<br>\r\n<br>\r\n\"Shh, it's okay, Sasu-Chan. Mama has just what you need.\"<br>\r\n<br>\r\nShe undid her shirt, releasing her swollen breast. She had been taking hormone supplements to start her milk production, and was happy to see how Sasuke would like it.<br>\r\n<br>\r\n\"It's supposed to be a little addictive, and it'll get you nice and plump!\" she said, rubbing his belly as he suckled. Sasuke giggled, but latched on again, sucking vigorously. Soon, he was done. She burped him, careful of any spit-up. <br>\r\n<br>\r\n\"Now, let's get your new brother and sister ready and get you to your new home!\"<br>\r\n<br>\r\n<div align=\"center\">XXX</div><br>\r\n<br>\r\nAll of her babies were asleep she took them to the Hokage Tower. She smiled in delight as she laid Sakura on the couch of her office before carrying the boys to their new room. Does Tsunade have another baby boy?<br>\r\n</span></div></div>",
-            "created":1369544400,
+            "created":1369603680,
             "id":1597265,
             "title":"want milk?"
         },
@@ -168,7 +168,7 @@
                 "Other..."
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who else is there?</span></div></span></div>",
-            "created":1369544400,
+            "created":1369603740,
             "id":1597266,
             "title":"Yes!"
         },
@@ -180,7 +180,7 @@
                 "Other?"
             ],
             "content":"<div class=\"\"><div> <span>The boys' room was powder blue, with three large cribs off to the far wall. One was already occupied; Kakashi laid inside peacefully. He was in a large oncy, though it did nothing to hide the fact that he gained a little weight since finding himself in Tsunade's care. <br>\r\n<br>\r\n\"Mama?\"<br>\r\n<br>\r\nTsunade turned.<br>\r\n<br>\r\nWho called her?</span></div></div>",
-            "created":1369544400,
+            "created":1369604100,
             "id":1597270,
             "title":"Kakashi?"
         },
@@ -192,7 +192,7 @@
                 "She's Tsunade's helper?"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How has she been changed?</span></div></span></div>",
-            "created":1369544400,
+            "created":1369604160,
             "id":1597271,
             "title":"Shizune?"
         },
@@ -204,7 +204,7 @@
                 "No"
             ],
             "content":"<div class=\"\"><div> <span>\"There you are, Shizune! Help me get them dressed!\"<br>\r\n<br>\r\nShizune nodded, and waddled into the room. She had been Tsunade's guinea pig, and had suffered for it. Her breasts huge and constantly dripping milk through her shirt, and her belly was large and swollen.<br>\r\n<br>\r\n\"Feed Naruto while I changed Sasuke.\"<br>\r\n<br>\r\n\"Yes, Mama,\" Shizune saidly slowly. She was also under a strong genjutsu that kept her in line with Tsunade's plan.<br>\r\n<br>\r\nShizune undid her shirt and put Naruto's head beside her large, veiny nipple. He opened his mouth and began to suckle, his eyes opened slightly. After he ate, Shizune helped Tsunade put him in his pjs and put him to bed.<br>\r\n<br>\r\nNow for Sakura. Do they keep her a baby?</span></div></div>",
-            "created":1369544400,
+            "created":1369605360,
             "id":1597278,
             "title":"She's Tsunade's helper?"
         },
@@ -287,7 +287,7 @@
                 "other"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>These two?</span></div></span></div>",
-            "created":1345611600,
+            "created":1345659360,
             "id":1410504,
             "title":"other"
         },
@@ -350,7 +350,7 @@
                 "saw that hinata pissed on her"
             ],
             "content":"<div class=\"\"><div> <span>Hanabi started to undo the bounds on her sister but only for a moment and turned the helpless girl over her knee. Hanabi raised her hand and ir hit right on her left ass cheak leaving a slight pink hand print. Hanabi continued to spank her sister and by the time she was done Hinata was a sobbling mess and Hanabi</span></div></div>",
-            "created":1355029200,
+            "created":1355066820,
             "id":1484594,
             "title":"spanked her"
         },
@@ -362,7 +362,7 @@
                 "Baby food"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Fed her what?...<br>\r\n</span></div></span></div>",
-            "created":1382936400,
+            "created":1382986800,
             "id":1685576,
             "title":"fed her"
         },
@@ -375,7 +375,7 @@
                 "other"
             ],
             "content":"<div class=\"\"><div> <span>\"Aw doesn't baby Hinata look so cute.\" as she tickled Hinata's tummy lightly.<br>\r\nHinata was so confused. What was her former teacher doing here? She'd retired and left the Leaf with Asuma ages ago. There was no way Kurenai could've kidnapped her, right?<br>\r\nKurenai smiled at her \"I missed you sweetheart. I told you not to run yourself dry and what do I find? You've been taking mission after mission and all on your own too. So I decided because your not mature enough to take care of your own health I'll take care of it for you...\"<br>\r\nKurenai picked her up from the crib as if she weighed nothing and rocked her gently after seeing Hinata's distressed face.<br>\r\n\"As I could never hurt my precious baby Asuma will be doing the disciplining for me when you are naughty. We told Tsunade we'd take you in for an indefinite holiday so we can have all the time we want. I will make sure you have the childhood you never had. You call me Mama and Asuma Papa.\"<br>\r\nKurenai then brought her to a rocking chair in the corner of the nursery. She then took off her shirt showing off her breasts and took out Hinata's pacifier but before Hinata could speak her mouth was pushed towards Kurenai's breast. Hinata involuntarily began to suck and was surprised by the actual taste of Kurenai's milk. It tasted nice, but there was something else to it.<br>\r\nOnce Hinata had relaxed Kurenai admitted \"Precious the jutsu I used to make me breastfeed makes you loose motary and chakra control. It is also quite addictive.\"<br>\r\nHinata tried to move her head away but Kurenai put it back in place. Kurenai looked down guiltily at the betrayed face of her former student.<br>\r\n\"This is the only way I could think of that you wouldn't hurt yourself that doesn't have long-term effects besides getting a bit on the chubby side because you wont be exercising. We'll ween you off it when I think your ready to be a big girl.\"<br>\r\nSlowly Hinata began to fall asleep. She knew her teacher- no her Mama only wanted the best for her. She felt safe in her arms and her last thoughts before drifting to sleep was 'this might end up a nice holiday'.</span></div></div>",
-            "created":1364014800,
+            "created":1364084100,
             "id":1556579,
             "title":"Kurenai"
         },
@@ -387,7 +387,7 @@
                 "Dress up!"
             ],
             "content":"<div class=\"\"><div> <span>Some later, Hinata awoke to a strange feeling surrounding her crouch and butt. She couldn't name it, but she didn't like it. She tried to scratch it, but found that her hands couldn't reach it. She didn't feel right...she felt messy and uncoordinated. Without knowing what to do, she began to cry, first just sniffling before crying loudly. Before long, a light came on, and she opened her eyes to find Kurenai above her. <br>\r\n<br>\r\n\"Did my little girl have an accident? Here, let me help.\"<br>\r\n<br>\r\nShe once again picked up as if she was nothing. The next thing she knew she was on something soft, her legs held above her as something cold wiped against her private areas. But then she felt clean, especially after a new, clean diaper was put on. She was still sniffling when Kurenai picked her back up and brought her to the rocking chair, where she positioned Hinata in her lap and undid her shirt.<br>\r\n<br>\r\n\"Is Hina-chan hungry?\" She pushed Hinata against her breast until Hinata, somewhat reluctantly, took the nipple in her mouth and suckled. <br>\r\n<br>\r\n\"Good girl! Just a little bit longer and Mommy won't even have to ask!\"<br>\r\n<br>\r\nHinata, however, was barely listening. The milk tasted even better than last time! She half closed her eyes as she suckled. Kurenai soothingly caressed her hair. Hinata didn't stop sucking until the milk was, sadly, all gone. <br>\r\n<br>\r\nWhat happens now! </span></div></div>",
-            "created":1366952400,
+            "created":1367007420,
             "id":1579002,
             "title":"wet/mess herself in the middle of the night"
         },
@@ -451,7 +451,7 @@
                 "Schizune eats to get rid the stress Tsunade caused "
             ],
             "content":"<div class=\"\"><div> <span>Schizune chose to ignore the strange comment from Tsunade, and began to walk back to the village.<br>\r\n<br>\r\n\"Shizune, don't tell anyone about the mean snakes thing, okay?\" Tsunade asked abruptly.<br>\r\n<br>\r\n\"Yes Hokage.\" Schizune said, glad Tsunade seemed to be out of...whatever that was...\"<br>\r\n<br>\r\nAs the walked, Tsunade got a strange feeling, nothing intolerable but, just, something. What neither of them noticed is that Tsunade was actually gaining about an ounce with every step. Slowly but surly, her weight slowly went up, by the time she was halfway back to the village, she had gained 25 pounds, her outfit was rather louse fitting, so she didn't notice.<br>\r\n<br>\r\n\"Schizune, did we take the wrong path? My legs are starting to get tired...\"<br>\r\n<br>\r\n\"Uh, no...this is the same path.\"<br>\r\n<br>\r\nTsunade turned around to look at Schizune, to Shizune, Tsunade look slightly more plump than usual... Her belly was beginning to push out on her belt, her thighs were looking a bit more plump, her arms had gained some, but was not visible due to her coat. Her face had also rounded out a bit.<br>\r\n<br>\r\n\"Schizune, why are you looking at me like that?\" Tsunade asked, wondering why Schizune was giver her a funny look.<br>\r\n<br>\r\nSchizune wanted to say something, but she decided not to. \"It's probably nothing, and if it isnt, it might just be the vennom making her swell, Orochimaru would do somthing like that.\" She thought to herself as she passed it off as nothing and continued to walk with Tsunade.<br>\r\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br>\r\nWhen they were almost back to the Village, Tsunade's weight gain has shot up to 100 pounds heavier. She was about 204 pounds. She was fat. Not like Schizune or Tsunade herself could see that. Her pace had been reduced to a slight waddle.<br>\r\n<br>\r\nSchizuneeeeee, I'm tiiiiiierd.....<br>\r\n<br>\r\nSchizune was just ignoring her, tired of the constant complaining.<br>\r\n<br>\r\nTsunade had taken off her jacket, and the bands around her stomach. Her now fatty body showing to all who could see. Her belly seemed to hold the most weight, pushing out half a foot and peaking out slightly under her shirt. Her butt and thighs had gained a considerable amount as well. Her thighs were at least 50 inches in circumference. She had a slight second chin, and fatty cheeks. Her breasts had gone up to a good D-cup. Her arms had also fattened up as well.<br>\r\n<br>\r\nThey walked back to the village, ignoring the funny looks they get, they head back to the Hokages building. Tsunade's gain seems to be speed up, already gaining another 50 pounds.<br>\r\n<br>\r\n <br>\r\n</span></div></div>",
-            "created":1375678800,
+            "created":1375740660,
             "id":1640935,
             "title":"Schizune takes Tsunade back to the village...no..."
         }

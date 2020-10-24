@@ -1834,6 +1834,585 @@
             "id":2922442,
             "title":"Yes"
         },
+        "12222222222":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is Chuckie Loses His Glasses okay?</span></div></span></div>",
+            "created":1603551120,
+            "id":2927986,
+            "title":"No, something else."
+        },
+        "122222222221":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Hmm, any other differences."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is Kimi part of this episode?</span></div></span></div>",
+            "created":1603551420,
+            "id":2927991,
+            "title":"Yes"
+        },
+        "1222222222211":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "The Beginning",
+                "Sometime Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Kimi will be included. Where in the episode do we begin?</span></div></span></div>",
+            "created":1603558740,
+            "id":2928055,
+            "title":"Yeah."
+        },
+        "12222222222112":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, Sometime Later."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do we begin when Angelica plays hide-and-seek and chooses Chuckie as the seeker?</span></div></span></div>",
+            "created":1603559760,
+            "id":2928061,
+            "title":"Sometime Else"
+        },
+        "122222222221121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Kimi.",
+                "Any of the others."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who picks a hiding spot first?</span></div></span></div>",
+            "created":1603559760,
+            "id":2928062,
+            "title":"Yes"
+        },
+        "1222222222211212":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Reader's Choice 1",
+                "Reader's Choice 2"
+            ],
+            "content":"<div class=\"\"><div> <span>As Chuckie began counting, Tommy, Phil, Lil, Kimi, and Angelica all looked for places to hide. Tommy hid behind a potted plant, and Phil and Lil hid under the couch.<br>\r\n<br>\r\n\"One, two, three, four... um, seven, six, eight, two, three, six, eight, seven, three, five, ten!\" Chuckie counted as Angelica took his glasses.<br>\r\n<br>\r\n<b>Where did Kimi hide?</b></span></div></div>",
+            "created":1603559880,
+            "id":2928063,
+            "title":"Any of the others."
+        },
+        "12222222222112121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup.",
+                "In the bathroom."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She hid in Tommy's room?</span></div></span></div>",
+            "created":1603560180,
+            "id":2928066,
+            "title":"Reader's Choice 1"
+        },
+        "122222222221121211":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Under Tommy's Crib",
+                "Somewhere Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where in Tommy's room did she hide?</span></div></span></div>",
+            "created":1603515600,
+            "id":2928122,
+            "title":"Yup."
+        },
+        "1222222222211212111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Anything else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She was soon under Tommy's crib. Later, did Angelica come in, find her and put her in it, and try to put her to sleep?</span></div></span></div>",
+            "created":1603515600,
+            "id":2928191,
+            "title":"Under Tommy's Crib"
+        },
+        "1222222222211212112":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Inside the crib.",
+                "Anywhere else inside the bedroom."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She hid under the changing table?</span></div></span></div>",
+            "created":1603515600,
+            "id":2928123,
+            "title":"Somewhere Else"
+        },
+        "12222222222112121123":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, somewhere else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did she hide in the closet?</span></div></span></div>",
+            "created":1603515600,
+            "id":2928129,
+            "title":"Anywhere else inside the bedroom."
+        },
+        "122222222221121211231":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "RC 1",
+                "RC 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She found her way into the closet, and hid there. Next to happen was what?</span></div></span></div>",
+            "created":1603515600,
+            "id":2928132,
+            "title":"Yes"
+        },
+        "1222222222211212112311":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Phil and Lil",
+                "Tommy, or SE"
+            ],
+            "content":"<div class=\"\"><div> <span>Back downstairs, Chuckie couldn't find his glasses, and without them, he couldn't see very well. He visualized the playpen as a set of sharp fangs trying to eat him. He ran outside them, panting heavily.<br>\r\n<br>\r\n\"Okay, I didn't see that.\" said Chuckie. He looked around, visualizing a potted plant as a giant slug monster. He was scared.<br>\r\n<br>\r\n\"Help! Where are you, Tommy? Phil, Lil, Kimi, Angelica? Come out here, I need help!\" shouted Chuckie.<br>\r\n<br>\r\n<b>Who heard Chuckie calling for help?</b></span></div></div>",
+            "created":1603515600,
+            "id":2928174,
+            "title":"RC 1"
+        },
+        "12222222222112121123111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Come Out From Under the Couch to Help Chuckie",
+                "Stay Hidden Under the Couch"
+            ],
+            "content":"<div class=\"\"><div> <span>Phil and Lil were still hiding under the couch when they heard Chuckie calling for help.<br>\r\n<br>\r\n\"Hey, Phil, it sounds like Chuckie's in trouble! Maybe we should help him!\" Lil whispered to Phil.<br>\r\n<br>\r\n\"No, Lil! Chuckie's trying to trick us!\" Phil whispered to Lil.<br>\r\n<br>\r\n<b>What do the twins do?</b></span></div></div>",
+            "created":1603515600,
+            "id":2928190,
+            "title":"Phil and Lil"
+        },
+        "122222222221121211231111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Not yet."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\"He sounds like he really is in trouble.\" Lil pointed out.<br>\r\n\"Okay.\"<br>\r\nPhil was annoyed, but didn't want his friend to be hurt or anything, if he actually was in trouble. On coming out, did they find him right away?</span></div></span></div>",
+            "created":1603515600,
+            "id":2928199,
+            "title":"Come Out From Under the Couch to Help Chuckie"
+        },
+        "1222222222211212112311111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><div> <span>As soon as Phil and Lil got up from under the couch, Chuckie found them.<br>\r\n<br>\r\n\"Phil! Lil! Boy, am I glad to see you! I mean, I wish I <i>could</i> see you.\" Chuckie said to Phil and Lil.<br>\r\n<br>\r\n\"Why aren't you wearing your glasses, Chuckie?\" Lil asked Chuckie.<br>\r\n<br>\r\n\"My glasses went missing.\" Chuckie told the twins.<br>\r\n<br>\r\n\"That's awful!\" said Phil.<br>\r\n<br>\r\n\"I know. Without my glasses, I can't see! Well, I can see a little.\" Chuckie told the twins.<br>\r\n<br>\r\n<b>Do Phil and Lil decide to help Chuckie find his glasses?</b></span></div></div>",
+            "created":1603569420,
+            "id":2928215,
+            "title":"Yeah."
+        },
+        "12222222222112121123111111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "The living room.",
+                "Tommy's bedroom.",
+                "Any place else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>They first checked where?</span></div></span></div>",
+            "created":1603569600,
+            "id":2928219,
+            "title":"Yes"
+        },
+        "12222222222112121123112":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Kimi.",
+                "Angelica."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was it Tommy that heard him?</span></div></span></div>",
+            "created":1603515600,
+            "id":2928183,
+            "title":"Tommy, or SE"
+        },
+        "122222222221121212":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "In the Bathtub",
+                "Somewhere Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where in the bathroom did she hide?</span></div></span></div>",
+            "created":1603515600,
+            "id":2928126,
+            "title":"In the bathroom."
+        },
+        "1222222222211212121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Nah, something else that ended up happening."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She managed to find her way to the bath tub, and got in. Later, did someone accidentally turn the water on when she was in it?</span></div></span></div>",
+            "created":1603515600,
+            "id":2928130,
+            "title":"In the Bathtub"
+        },
+        "12222222222112121211":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Stu or Didi",
+                "Someone Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who turned on the water?</span></div></span></div>",
+            "created":1603515600,
+            "id":2928135,
+            "title":"Yeah."
+        },
+        "122222222221121212112":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, Someone Else Did."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was it Angelica who turned the water on on purpose?</span></div></span></div>",
+            "created":1603515600,
+            "id":2928160,
+            "title":"Someone Else"
+        },
+        "1222222222211212121121":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Delighted",
+                "Scared"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>When Angelica saw Kimi hiding in the bathtub, she decided to make things more fun in her game. She turned on the faucet, and the bathtub began to fill with water.<br>\r\n<br>\r\n<b>How did Kimi feel about the water filling up the bathtub?</b></span></div></span></div>",
+            "created":1603515600,
+            "id":2928162,
+            "title":"Yes"
+        },
+        "12222222222112121211211":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><div> <span>Kimi was delighted when water began to fill the bathtub. She felt as though she was going to take a bath. She loved baths, because she liked to get all clean and play with bath toys. It was also the only time she was allowed to take off her clothes.<br>\r\n<br>\r\n<b>Did Kimi take off her clothes while in the bathtub?</b></span></div></div>",
+            "created":1603515600,
+            "id":2928163,
+            "title":"Delighted"
+        },
+        "122222222221121212112111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Reader's Choice 1",
+                "Reader's Choice 2"
+            ],
+            "content":"<div class=\"\"><div> <span>Since Kimi thought she was going to take a bath, she decided to take off her clothes before they got too wet. She pulled off her dress, boots and socks and untaped her diaper. She then tossed them all out of the bathtub, causing them to land on the floor outside it. She was now naked, and was having a wonderful time playing in the bathtub.<br>\r\n<br>\r\n<b>What happens next?</b></span></div></div>",
+            "created":1603515600,
+            "id":2928166,
+            "title":"Yes"
+        },
+        "1222222222211212121121111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>As Kimi continues to play in the bathtub, do we follow Chuckie, who's looking for his friends downstairs?</span></div></span></div>",
+            "created":1603575900,
+            "id":2928283,
+            "title":"Reader's Choice 1"
+        },
+        "12222222222112121211212":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Wet her diaper, or another reaction."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She was scared enough she started crying?</span></div></span></div>",
+            "created":1603515600,
+            "id":2928171,
+            "title":"Scared"
+        },
+        "122222222221121212112121":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Kimi was scared when water began to fill the bathtub. She felt as if someone was trying to drown her. She began to cry for help.<br>\r\n<br>\r\n<b>Did Chuckie hear her cry for help from downstairs?</b></span></div></span></div>",
+            "created":1603515600,
+            "id":2928180,
+            "title":"Yeah."
+        },
+        "1222222222211212121121211":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "No, but someone else got to her first."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>He heard her cries for help. Was he able to make it there, despite not having his glasses?</span></div></span></div>",
+            "created":1603515600,
+            "id":2928186,
+            "title":"Yes"
+        },
+        "12222222222112121211212112":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was it Tommy who got up to the bathroom?</span></div></span></div>",
+            "created":1603515600,
+            "id":2928195,
+            "title":"No, but someone else got to her first."
+        },
+        "122222222221121212112121121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Something else he first did."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Tommy made his way to the bathroom. He first shut off the water?</span></div></span></div>",
+            "created":1603515600,
+            "id":2928201,
+            "title":"Yes"
+        },
+        "1222222222211212121121211211":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><div> <span>Tommy shut off the water just in time. He then pulled the drain plug and drained the water. Kimi was saved, but she was now soaking wet.<br>\r\n<br>\r\n\"Thanks for saving me, Tommy.\" said Kimi.<br>\r\n<br>\r\n\"Are you okay, Kimi?\" Tommy asked Kimi.<br>\r\n<br>\r\n\"Yeah, I'm fine, but I'm all wet now.\" said Kimi.<br>\r\n<br>\r\n\"We'd better get you dried off afore you catch cold.\" Tommy told Kimi.<br>\r\n<br>\r\n<b>Before Tommy dried Kimi off, did he take off her wet clothes?</b></span></div></div>",
+            "created":1603515600,
+            "id":2928211,
+            "title":"Yeah."
+        },
+        "12222222222112121211212112111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "She Did It Herself",
+                "Tommy Helped Her"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\"Firstest of all, we better get these wet clothes off.\" said Tommy.<br>\r\n<br>\r\n<b>Did Kimi take off her wet clothes by herself, or did Tommy help her?</b></span></div></span></div>",
+            "created":1603515600,
+            "id":2928212,
+            "title":"Yes"
+        },
+        "122222222221121212112121121112":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "A Dry Shirt",
+                "A Dry Diaper"
+            ],
+            "content":"<div class=\"\"><div> <span>Tommy pulled Kimi's wet boots and socks off as Kimi pulled up her wet dress and tossed it aside. Then she untaped her wet diaper and tossed it aside as well. Once she was naked, Tommy dried her off with a towel. Kimi was soon dry, but she was now naked, and she felt cold.<br>\r\n<br>\r\n\"Don't worry, Kimi. I'll get you some dry clothes.\" said Tommy.<br>\r\n<br>\r\n\"Thanks, Tommy.\" said Kimi.<br>\r\n<br>\r\n<b>What article of clothing did Tommy get Kimi first?</b></span></div></div>",
+            "created":1603515600,
+            "id":2928213,
+            "title":"Tommy Helped Her"
+        },
+        "1222222222211212121121211211122":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "She did it herself."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>He soon found one of his clean diapers, but, did he put it on her?</span></div></span></div>",
+            "created":1603515600,
+            "id":2928214,
+            "title":"A Dry Diaper"
+        },
+        "12222222222112121211212112111221":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, Something Else happened."
+            ],
+            "content":"<div class=\"\"><div> <span>\"Okay, Kimi. Hold still.\" said Tommy. Kimi held still and Tommy taped the dry diaper on her.<br>\r\n<br>\r\n\"There you go.\" said Tommy.<br>\r\n<br>\r\n\"Thanks, Tommy.\" said Kimi.<br>\r\n<br>\r\n<b>Did Tommy get Kimi a dry shirt next?</b></span></div></div>",
+            "created":1603569540,
+            "id":2928217,
+            "title":"Yeah."
+        },
+        "122222222221121212112121121112211":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup.",
+                "Nah, she wanted to try herself."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did he help her into it?</span></div></span></div>",
+            "created":1603569720,
+            "id":2928223,
+            "title":"Yes"
+        },
+        "1222222222211212121121211211122112":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, They Did Something Else"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Here's your new shirt, Kimi.\" said Tommy.<br>\r\n<br>\r\n\"Thanks, Tommy.\" said Kimi.<br>\r\n<br>\r\n\"You need any help getting it on?\" Tommy asked Kimi.<br>\r\n<br>\r\n\"No thanks, I can do it myself.\" said Kimi. She was able to get her new dry shirt on without any problems.<br>\r\n<br>\r\n\"There you go, good as new, Kimi.\" Tommy told Kimi.<br>\r\n<br>\r\n<b>After Kimi was dressed again, did she and Tommy decide to look for new hiding places?</b></span></div></div>",
+            "created":1603571640,
+            "id":2928255,
+            "title":"Nah, she wanted to try herself."
+        },
+        "12222222222112121211212112111221121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "They split up once more."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Both hid in Tommy's bedroom?</span></div></span></div>",
+            "created":1603571700,
+            "id":2928257,
+            "title":"Yes"
+        },
+        "122222222221121212112121121112211211":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Reader's Choice 1",
+                "Reader's Choice 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where did they hide?</span></div></span></div>",
+            "created":1603573140,
+            "id":2928263,
+            "title":"Yeah."
+        },
+        "1222222222211212121121211211122112111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Under it."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Both hid in the crib?</span></div></span></div>",
+            "created":1603573440,
+            "id":2928266,
+            "title":"Reader's Choice 1"
+        },
+        "1222222222211212121121211211122112112":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, somewhere else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did one of them hide in the crib while the other hid under it?</span></div></span></div>",
+            "created":1603573740,
+            "id":2928267,
+            "title":"Reader's Choice 2"
+        },
+        "12222222222112121211212112111221121121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup.",
+                "Other way around."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was Tommy in the crib, Kimi under it?</span></div></span></div>",
+            "created":1603573920,
+            "id":2928270,
+            "title":"Yes"
+        },
+        "122222222221121212112121121112211211211":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Come Out From Under the Couch to Help Chuckie",
+                "Stay Hidden Under the Couch"
+            ],
+            "content":"<div class=\"\"><div> <span>Tommy climbed into his crib and hid inside it, while Kimi hid underneath it. Meanwhile, Chuckie was still downstairs, looking for his friends, but without his glasses, he could hardly see anything. Everything he saw looked scary to him; the playpen looked like a pair of fangs trying to eat him, and a potted plant looked like a giant slug monster.<br>\r\n<br>\r\n\"Help! Where are you, Tommy? Phil, Lil, Kimi, Angelica? Come out here, I need help!\" shouted Chuckie. Phil and Lil were still hiding under the couch when they heard Chuckie calling for help.<br>\r\n<br>\r\n\"Hey, Phil, it sounds like Chuckie's in trouble! Maybe we should help him!\" Lil whispered to Phil.<br>\r\n<br>\r\n\"No, Lil! Chuckie's trying to trick us!\" Phil whispered to Lil.<br>\r\n<br>\r\n<b>What do Phil and Lil decide to do?</b></span></div></div>",
+            "created":1603574280,
+            "id":2928273,
+            "title":"Yup."
+        },
+        "1222222222211212121121211211122112112111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>They soon found him, and he explained what had happened.<br>\r\nDid Angelica come out of her hiding place to \"help?\"</span></div></span></div>",
+            "created":1603574700,
+            "id":2928276,
+            "title":"Come Out From Under the Couch to Help Chuckie"
+        },
+        "12222222222112121211212112111221121121112":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Phil and Lil decide to help Chuckie look for his glasses?</span></div></span></div>",
+            "created":1603575780,
+            "id":2928281,
+            "title":"Something else."
+        },
+        "122222222221121212112121121112211211211121":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, They All Searched the Same Room Together"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\"Don't worry, Chuckie. We'll help you find your glasses.\" Lil told Chuckie.<br>\r\n<br>\r\n\"Thanks, guys.\" said Chuckie.<br>\r\n<br>\r\n<b>Did each of them search in a different room of the house?</b></span></div></span></div>",
+            "created":1603576440,
+            "id":2928292,
+            "title":"Yes"
+        },
+        "1222222222212":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Anything else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is Susie included in this version?</span></div></span></div>",
+            "created":1603515600,
+            "id":2928194,
+            "title":"Hmm, any other differences."
+        },
         "13":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
@@ -3444,6 +4023,42 @@
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The Last Babysitter?</span></div></span></div>",
             "created":1600664400,
             "id":2907345,
+            "title":"No, something else."
+        },
+        "1323222":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is The Odd Couple okay?</span></div></span></div>",
+            "created":1603150620,
+            "id":2924946,
+            "title":"Hmm, others."
+        },
+        "13232221":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Tommy Stays at Phil and Lil's House For the Weekend",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have chosen The Odd Couple. Now, what is different about this episode?</span></div></span></div>",
+            "created":1603150680,
+            "id":2924947,
+            "title":"Yes"
+        },
+        "13232222":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about The Mega Diaper Babies?</span></div></span></div>",
+            "created":1603419720,
+            "id":2927182,
             "title":"No, something else."
         },
         "14":{
@@ -6176,6 +6791,42 @@
             "id":2905668,
             "title":"Angelica For a Day"
         },
+        "15133":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is Word of the Day okay?</span></div></span></div>",
+            "created":1603083600,
+            "id":2924646,
+            "title":"Something else"
+        },
+        "151332":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about Jonathan Babysits?</span></div></span></div>",
+            "created":1603083600,
+            "id":2924647,
+            "title":"No, something else."
+        },
+        "1513322":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about Fugitive Tommy?</span></div></span></div>",
+            "created":1603309440,
+            "id":2926382,
+            "title":"No, something else."
+        },
         "152":{
             "author_id":"bryanmchunter",
             "author_name":"FlyingDuckManGenesis",
@@ -6311,6 +6962,18 @@
             "id":2905657,
             "title":"Hand Me Downs"
         },
+        "152312":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will this episode take place after Kimi becomes part of the Finster family, and Angelica tells her lie about older children disappearing to Chuckie?</span></div></span></div>",
+            "created":1603145280,
+            "id":2924915,
+            "title":"SE"
+        },
         "15232":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
@@ -6358,6 +7021,42 @@
             "created":1602824400,
             "id":2922994,
             "title":"RC 1"
+        },
+        "15233":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is Cooking With Susie okay?</span></div></span></div>",
+            "created":1603144860,
+            "id":2924912,
+            "title":"Something else"
+        },
+        "152331":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Reader's Choice 1",
+                "Reader's Choice 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have chosen Cooking With Susie. Now, what is different about this episode?</span></div></span></div>",
+            "created":1603144920,
+            "id":2924913,
+            "title":"Yes"
+        },
+        "1523311":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do we make it so that the babies actually like Susie's homemade Reptar cereal bars?</span></div></span></div>",
+            "created":1603334220,
+            "id":2926589,
+            "title":"Reader's Choice 1"
         },
         "153":{
             "author_id":"bryanmchunter",
@@ -7132,7 +7831,7 @@
         "id":2202340,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
         "last_full_update":1602124920,
-        "modified":1602971580,
+        "modified":1603576440,
         "pretty_title":"Rugrats: The Alternate Series"
     }
 }

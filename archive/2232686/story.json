@@ -982,6 +982,104 @@
             "id":2910318,
             "title":"Yes"
         },
+        "1151122":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is Tori with her sister Trina when she ends up in an embarrassing situation at the Asphalt Cafe?</span></div></span></div>",
+            "created":1603256400,
+            "id":2926174,
+            "title":"At the Asphalt Cafe."
+        },
+        "11511222":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No, She's Alone"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is Tori with one of her other friends?</span></div></span></div>",
+            "created":1603256400,
+            "id":2926179,
+            "title":"No"
+        },
+        "115112221":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Jade.",
+                "Cat.",
+                "Both of them, or one of the others."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who of them is she with, though?</span></div></span></div>",
+            "created":1603256400,
+            "id":2926187,
+            "title":"Yes"
+        },
+        "1151123":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No, Anywhere Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is Tori at her house?</span></div></span></div>",
+            "created":1603256400,
+            "id":2926160,
+            "title":"Her house, or anywhere else."
+        },
+        "11511231":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Just Cat.",
+                "Only Jade, or anyone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Cat and Jade are with her when the embarrassing thing happens?</span></div></span></div>",
+            "created":1603256400,
+            "id":2926163,
+            "title":"Yes"
+        },
+        "115112313":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No, Anyone Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is she only with Jade?</span></div></span></div>",
+            "created":1603256400,
+            "id":2926180,
+            "title":"Only Jade, or anyone else."
+        },
+        "1151123131":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup.",
+                "Hmm, anything else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Tori lose a bet to Jade?</span></div></span></div>",
+            "created":1603256400,
+            "id":2926191,
+            "title":"Yes"
+        },
+        "1151123132":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No, Home Alone"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is Tori with anyone else?</span></div></span></div>",
+            "created":1603256400,
+            "id":2926182,
+            "title":"No, Anyone Else"
+        },
         "11512":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
@@ -1119,6 +1217,31 @@
             "created":1601442000,
             "id":2913225,
             "title":"an embarrassing secret of hers is revealed"
+        },
+        "11513123":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Yeah",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is Jade given an embarrassing punishment by someone?</span></div></span></div>",
+            "created":1603256400,
+            "id":2926196,
+            "title":"something else"
+        },
+        "115131231":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Tori.",
+                "Cat.",
+                "Anyone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The one giving said punishment is...</span></div></span></div>",
+            "created":1603256400,
+            "id":2926198,
+            "title":"Yeah"
         },
         "115133":{
             "author_id":"supreme123",
@@ -4273,6 +4396,31 @@
             "id":2915472,
             "title":"Evie, daughter of the evil queen"
         },
+        "1213":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "The Jungle Book (1967)",
+                "Aladdin (1992)",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about these?</span></div></span></div>",
+            "created":1603393560,
+            "id":2926999,
+            "title":"Another Disney movie"
+        },
+        "12133":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is <i>The Lion King (1994)</i> okay?</span></div></span></div>",
+            "created":1603393560,
+            "id":2927000,
+            "title":"Something else"
+        },
         "124":{
             "author_id":"jd88237",
             "author_name":"jdawg1985",
@@ -6507,6 +6655,18 @@
             "id":2908305,
             "title":"Something else"
         },
+        "141313":{
+            "author_id":"jazzerh20",
+            "author_name":"Sally",
+            "choices":[
+                "Kale",
+                "Hokusai"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about kale or goku</span></div></span></div>",
+            "created":1603170000,
+            "id":2925882,
+            "title":"Someone else"
+        },
         "142":{
             "author_id":"tiggers",
             "author_name":"Dale Gibson ",
@@ -8064,6 +8224,44 @@
             "id":2906148,
             "title":"Clover"
         },
+        "1533322122":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Sam",
+                "Alex",
+                "Mandy or someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who does Clover lose a bet with?</span></div></span></div>",
+            "created":1603256400,
+            "id":2926201,
+            "title":"She loses a bet with someone."
+        },
+        "15333221221":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Another bet."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The bet she had with Sam was a test Clover had to pass?</span></div></span></div>",
+            "created":1603256400,
+            "id":2926203,
+            "title":"Sam"
+        },
+        "15333221223":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup.",
+                "Hmm, both Sam and Alex.",
+                "Her mother, Stella, or anybody else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She loses a bet with Mandy, of all people?</span></div></span></div>",
+            "created":1603256400,
+            "id":2926208,
+            "title":"Mandy or someone else"
+        },
         "153332213":{
             "author_id":"kameron94",
             "author_name":"Kameron",
@@ -8945,6 +9143,186 @@
             "id":2923755,
             "title":"Yes"
         },
+        "15333222212211111211211":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "We Follow Chuckie",
+                "We Follow Angelica"
+            ],
+            "content":"<div class=\"\"><div> <span>Chuckie was taller than Tommy, so he was able to reach the baby wipes and baby powder without any problems. He gathered them, then went downstairs to put a clean diaper on Tommy.<br>\r\n<br>\r\n\"Okay, Tommy. Let's get your diaper on.\" Tommy told Chuckie.<br>\r\n<br>\r\n<b>Do we follow Chuckie as he puts a clean diaper on Tommy, or do we follow Angelica?</b></span></div></div>",
+            "created":1603170000,
+            "id":2925875,
+            "title":"Yeah."
+        },
+        "153332222122111112112111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "RC 1",
+                "RC 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What happens as Chuckie diapers Tommy?</span></div></span></div>",
+            "created":1603170000,
+            "id":2925877,
+            "title":"We Follow Chuckie"
+        },
+        "1533322221221111121121111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, Something Went Wrong"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was Chuckie able to get Tommy's diaper on without any problems?</span></div></span></div>",
+            "created":1603170000,
+            "id":2925891,
+            "title":"RC 1"
+        },
+        "15333222212211111211211111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>That done, did both confront Angelica over her lie?</span></div></span></div>",
+            "created":1603170000,
+            "id":2925898,
+            "title":"Yes"
+        },
+        "153332222122111112112111111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Susie and Tommy decided to confront Angelica about the lie she told.<br>\r\n<br>\r\n<b>Upon finding her, was Angelica wearing Tommy's diaper on her own bottom just for fun?</b></span></div></span></div>",
+            "created":1603170000,
+            "id":2925915,
+            "title":"Yeah."
+        },
+        "1533322221221111121121111111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "No, had some fun of their own, or anything else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did they get it off her?</span></div></span></div>",
+            "created":1603170000,
+            "id":2925930,
+            "title":"Yes"
+        },
+        "15333222212211111211211111112":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did they decide to treat Angelica like a baby?</span></div></span></div>",
+            "created":1603170000,
+            "id":2925933,
+            "title":"No, had some fun of their own, or anything else."
+        },
+        "153332222122111112112111111121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Try to get her down for a nap, or anything else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>They start to do this by feeding her like a baby?</span></div></span></div>",
+            "created":1603170000,
+            "id":2925938,
+            "title":"Yes"
+        },
+        "1533322221221111121121111111211":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did they feed her baby food from a jar?</span></div></span></div>",
+            "created":1603170000,
+            "id":2925944,
+            "title":"Yeah."
+        },
+        "15333222212211111211211111112111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Sure.",
+                "Nah, just one."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did both feed her, though?</span></div></span></div>",
+            "created":1603170000,
+            "id":2925962,
+            "title":"Yes"
+        },
+        "1533322221221111121121112":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, Something Else happened."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>As Chuckie was diapering Tommy, did Tommy have to pee?</span></div></span></div>",
+            "created":1603170000,
+            "id":2925890,
+            "title":"RC 2"
+        },
+        "15333222212211111211211121":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was Chuckie able to get Tommy's diaper on before Tommy started peeing?</span></div></span></div>",
+            "created":1603170000,
+            "id":2925892,
+            "title":"Yes"
+        },
+        "153332222122111112112111211":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Chuckie.",
+                "Both."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>He managed to get it on before Tommy started to pee in it.<br>\r\n\"Now I need another one.\"<br>\r\nDid Chuckie get one, or did both he and Tommy do it?</span></div></span></div>",
+            "created":1603170000,
+            "id":2925897,
+            "title":"Yes"
+        },
+        "1533322221221111121121112112":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Tommy decided to help Chuckie get a new diaper from his bedroom, as he felt bad that he almost peed on his best friend.<br>\r\n<br>\r\n<b>On their way, did they run into Angelica?</b></span></div></span></div>",
+            "created":1603170000,
+            "id":2925917,
+            "title":"Both."
+        },
+        "15333222212211111211211121121":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>On their way to Tommy's bedroom, Tommy and Chuckie ran into Angelica.<br>\r\n<br>\r\n<b>Was Angelica wearing Tommy's diaper on her own bottom just for fun?</b></span></div></span></div>",
+            "created":1603170000,
+            "id":2925919,
+            "title":"Yes"
+        },
         "15333222212211111212":{
             "author_id":"bryanmchunter",
             "author_name":"FlyingDuckManGenesis",
@@ -9537,6 +9915,306 @@
             "id":2923737,
             "title":"No, someone else"
         },
+        "1533322221221111121222":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><div> <span>Since Randy was submitting a new script for The Dummi Bears, Lucy had to work at the hospital, and Alisa, Buster, and Edwin were all at school, Lucy dropped Susie off at Tommy's house.<br>\r\n<br>\r\n\"Hi, Susie.\" said Tommy.<br>\r\n<br>\r\n\"Hi, Tommy.\" said Susie. She looked down, and was shocked when she saw Tommy diaperless.<br>\r\n<br>\r\n\"Why aren't you wearing your diaper?\" Susie asked Tommy.<br>\r\n<br>\r\n\"Angelica told me her mommy's having a new baby and she's going to be a big sister. She wanted to practice changing diapies on me. My diapie was clean since my Mommy just changed me, but me and Angelica pretended it was dirty. She left to go get me a clean diapie, but she never came back.\" Tommy told Susie. Susie knew Angelica liked to lie to the babies, and she also knew that if Charlotte was going to have a new baby, she would have told Lucy about it, and Lucy would have told her, so she came to the conclusion that Angelica lied to Tommy.<br>\r\n<br>\r\n\"Tommy, I think Angelica lied to you.\" Susie told Tommy.<br>\r\n<br>\r\n\"I should have knowed.\" said Tommy, feeling embarrassed.<br>\r\n<br>\r\n<b>Did Susie decide to get Tommy a clean diaper?</b></span></div></div>",
+            "created":1603170000,
+            "id":2925844,
+            "title":"Just Susie."
+        },
+        "15333222212211111212221":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\"Don't worry, Tommy. I'll get you a new diaper.\" Susie told Tommy.<br>\r\n<br>\r\n\"Thanks, Susie, and good luck.\" Tommy told Susie as she set off to his bedroom.<br>\r\n<br>\r\n<b>Did Susie make it?</b></span></div></span></div>",
+            "created":1603170000,
+            "id":2925846,
+            "title":"Yes"
+        },
+        "153332222122111112122211":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "No."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She managed to find one, and was she able to get the wipes and powder?</span></div></span></div>",
+            "created":1603170000,
+            "id":2925858,
+            "title":"Yes"
+        },
+        "1533322221221111121222111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "We Follow Susie",
+                "We Follow Angelica"
+            ],
+            "content":"<div class=\"\"><div> <span>Because Susie was a little older than Tommy, she was able to reach the baby wipes and baby powder without any problems. She gathered them, then came downstairs to put a clean diaper on Tommy.<br>\r\n<br>\r\n\"Okay, Tommy. Let's get your diaper on.\" said Susie.<br>\r\n<br>\r\n<b>Do we follow Susie as she puts Tommy's new diaper on, or do we follow Angelica?</b></span></div></div>",
+            "created":1603170000,
+            "id":2925871,
+            "title":"Yeah."
+        },
+        "15333222212211111212221111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Anything else that happened."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>As Susie got to work at diapering Tommy, did he giggle and move like a real baby did some times?</span></div></span></div>",
+            "created":1603170000,
+            "id":2925876,
+            "title":"We Follow Susie"
+        },
+        "153332222122111112122212":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, Something Else happened."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Susie run into Angelica?</span></div></span></div>",
+            "created":1603170000,
+            "id":2925848,
+            "title":"No"
+        },
+        "1533322221221111121222121":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Susie ran into Angelica.<br>\r\n<br>\r\n<b>Was Angelica now wearing Tommy's diaper on her bottom, just for fun?</b></span></div></span></div>",
+            "created":1603170000,
+            "id":2925849,
+            "title":"Yes"
+        },
+        "15333222212211111212221211":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Susie notice Angelica wearing Tommy's diaper?</span></div></span></div>",
+            "created":1603170000,
+            "id":2925850,
+            "title":"Yes"
+        },
+        "153332222122111112122212111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup.",
+                "Something else she did."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She spotted it. Did she try to get it off her?</span></div></span></div>",
+            "created":1603170000,
+            "id":2925859,
+            "title":"Yes"
+        },
+        "1533322221221111121222121111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\"Come on, Angelica. Let's get that diaper off.\" Susie told Angelica.<br>\r\n<br>\r\n<b>Does Angelica let Susie take the diaper she's wearing off?</b></span></div></span></div>",
+            "created":1603170000,
+            "id":2925870,
+            "title":"Yup."
+        },
+        "1533322221221111121222121112":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Susie tease Angelica for wearing a diaper?</span></div></span></div>",
+            "created":1603170000,
+            "id":2925869,
+            "title":"Something else she did."
+        },
+        "15333222212211111212221211121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Talks to her like she's a baby.",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She couldn't resist, finding it hilarious, and teases her how?</span></div></span></div>",
+            "created":1603170000,
+            "id":2925873,
+            "title":"Yes"
+        },
+        "153332222122111112122212111212":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Susie decide to get Angelica a baby bottle to drink from?</span></div></span></div>",
+            "created":1603170000,
+            "id":2925894,
+            "title":"Something else."
+        },
+        "1533322221221111121222121112121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Warm milk.",
+                "juice, or something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She soon gave Angelica a baby bottle filled with...</span></div></span></div>",
+            "created":1603170000,
+            "id":2925899,
+            "title":"Yes"
+        },
+        "15333222212211111212221211121211":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Susie gave Angelica a bottle filled with warm milk. Upon drinking it, did Angelica fall asleep?</span></div></span></div>",
+            "created":1603170000,
+            "id":2925913,
+            "title":"Warm milk."
+        },
+        "153332222122111112122212111212111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, Something Went Wrong"
+            ],
+            "content":"<div class=\"\"><div> <span>After drinking the warm milk, Angelica fell asleep. Susie took Angelica to Tommy's bedroom and made her take a nap in Tommy's crib.<br>\r\n<br>\r\n\"Sweet dreams, Angelica.\" said Susie. With Angelica out of the way, Susie was able to get Tommy a clean diaper. She then went back downstairs to Tommy.<br>\r\n<br>\r\n\"Okay, Tommy. I'm back. Let's get your diaper on.\" said Susie.<br>\r\n<br>\r\n<b>Was Susie able to get Tommy's diaper on without any problems?</b></span></div></div>",
+            "created":1603170000,
+            "id":2925914,
+            "title":"Yes"
+        },
+        "1533322221221111121222121112121111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Anything else that happened."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>When she was done diapering him, did he ask her where she learned how to do it?</span></div></span></div>",
+            "created":1603170000,
+            "id":2925928,
+            "title":"Yes"
+        },
+        "1533322221221111121222121112121112":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Tommy have to pee?</span></div></span></div>",
+            "created":1603170000,
+            "id":2925920,
+            "title":"No, Something Went Wrong"
+        },
+        "15333222212211111212221211121211121":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was Susie able to get Tommy's diaper on before he started to pee?</span></div></span></div>",
+            "created":1603170000,
+            "id":2925921,
+            "title":"Yes"
+        },
+        "153332222122111112122212111212111211":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Angelica Was Still Asleep",
+                "Angelica Woke Up"
+            ],
+            "content":"<div class=\"\"><div> <span>Susie had taped Tommy's diaper onto his bottom just as he started to pee.<br>\r\n<br>\r\n\"Phew! That was a close one.\" said Susie.<br>\r\n<br>\r\n\"Thanks, Susie. I'm sorry I almost peed on you.\" said Tommy.<br>\r\n<br>\r\n\"Oh, never mind that. Come on, Tommy. I'll get you changed again.\" said Susie, and she took Tommy to his bedroom, where Angelica was sleeping in his crib.<br>\r\n<br>\r\n<b>Was Angelica still sleeping, or did she wake up?</b></span></div></div>",
+            "created":1603170000,
+            "id":2925922,
+            "title":"Yes"
+        },
+        "1533322221221111121222121112121112111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "No."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Tommy ask about Angelica in his crib, as Susie found what she neded?</span></div></span></div>",
+            "created":1603170000,
+            "id":2925932,
+            "title":"Angelica Was Still Asleep"
+        },
+        "15333222212211111212221211121211121111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "The Bathroom",
+                "Somewhere Else"
+            ],
+            "content":"<div class=\"\"><div> <span>As Tommy and Susie went into Tommy's bedroom, Tommy found Angelica sleeping in his crib. He wondered why she was doing that.<br>\r\n<br>\r\n\"Susie, why is Angelica sleeping in my crib?\" Tommy asked Susie in a quiet voice. He didn't want to wake Angelica.<br>\r\n<br>\r\n\"Because I gave her a bottle of warm milk and put her there.\" Susie told Tommy in an equally-quiet voice as she gathered a clean diaper, baby wipes, and baby powder.<br>\r\n<br>\r\n\"Why did you do that?\" asked Tommy.<br>\r\n<br>\r\n\"Because she's wearing your diaper.\" Susie told Tommy. Tommy had to admit he found the idea of Angelica wearing a diaper funny, though he tried not to laugh, because he didn't want to wake her up.<br>\r\n<br>\r\n\"Come on, Tommy. Let's get you changed somewhere else. We don't want to wake up Angelica. She gets real cranky if she's woken up.\" Susie told Tommy.<br>\r\n<br>\r\n\"Good idea.\" said Tommy, and the two left Tommy's bedroom.<br>\r\n<br>\r\n<b>Where did Susie decide to change Tommy's diaper?</b></span></div></div>",
+            "created":1603170000,
+            "id":2925943,
+            "title":"Yeah."
+        },
+        "153332222122111112122212111212111211111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "On the floor.",
+                "The bath tub."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She changed him where in the bathroom?</span></div></span></div>",
+            "created":1603170000,
+            "id":2925961,
+            "title":"The Bathroom"
+        },
+        "1533322221221111121222121112121112111111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Reader's Choice 1",
+                "Reader's Choice 2"
+            ],
+            "content":"<div class=\"\"><div> <span>Susie took Tommy into the bathroom.<br>\r\n<br>\r\n\"Okay, Tommy, lay down.\" Susie said to Tommy. Tommy lay down on the bath mat and pulled up his shirt. Susie untaped his wet diaper, then slipped it off, then she wiped his bottom clean. Tommy was ticklish, so he giggled as he was wiped. Then, Susie powdered Tommy's bottom and taped the clean diaper on it.<br>\r\n<br>\r\n\"There, good as new.\" Susie told Tommy.<br>\r\n<br>\r\n\"Thanks, Susie.\" said Tommy.<br>\r\n<br>\r\n\"You're welcome, Tommy.\" said Susie. She disposed of the wet diaper in a nearby wastebasket.<br>\r\n<br>\r\n<b>What happens next?</b></span></div></div>",
+            "created":1603256400,
+            "id":2926212,
+            "title":"On the floor."
+        },
+        "15333222212211111212221211121211121111111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah",
+                "Angelica woke up, and Susie and Tommy treated her like a baby, or anything else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Some of the other babies were dropped off?</span></div></span></div>",
+            "created":1603256400,
+            "id":2926213,
+            "title":"Reader's Choice 1"
+        },
         "1533322221221111122":{
             "author_id":"bryanmchunter",
             "author_name":"FlyingDuckManGenesis",
@@ -9864,6 +10542,414 @@
             "id":2924011,
             "title":"Yes"
         },
+        "1533322222121121211":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><div> <span>Chuckie knew that Angelica was a bully, and although he didn't really like being put in a diaper, he knew that if he tried to resist, Angelica would make things worse for him, so he held still while she taped the diaper onto his bottom.<br>\r\n<br>\r\n\"Okay, Angelica. You got the diaper on me. Can I please have my pants back? I don't want anybody to see me wearing a diaper. They might think I'm not potty-trained no mores.\" Chuckie asked Angelica.<br>\r\n<br>\r\n<b>Did Angelica give Chuckie his pants back?</b></span></div></div>",
+            "created":1603083600,
+            "id":2924977,
+            "title":"Reader's choice A."
+        },
+        "15333222221211212112":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Reader's Choice 1",
+                "Reader's Choice 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\"No way, Finster. If you're going to wear a diaper, you're going to let everybody see it!\" Angelica told Chuckie. She took Chuckie's pants away.<br>\r\n<br>\r\n<b>What happens next?</b></span></div></span></div>",
+            "created":1603083600,
+            "id":2924979,
+            "title":"No"
+        },
+        "153332222212112121121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Having him drink from a baby bottle.",
+                "Anything else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She continued to baby him, this time via...</span></div></span></div>",
+            "created":1603083600,
+            "id":2924983,
+            "title":"Reader's Choice 1"
+        },
+        "1533322222121121211211":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Milk",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Next, Angelica made Chuckie drink from a baby bottle. What was in it?</span></div></span></div>",
+            "created":1603083600,
+            "id":2924986,
+            "title":"Having him drink from a baby bottle."
+        },
+        "15333222221211212112111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Nah."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was it warm milk that eventually put him to sleep?</span></div></span></div>",
+            "created":1603083600,
+            "id":2924987,
+            "title":"Milk"
+        },
+        "153332222212112121121111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Chuckie Woke Up Wet",
+                "Chuckie Woke Up Dry But Desperate"
+            ],
+            "content":"<div class=\"\"><div> <span>After he drank all the milk, Chuckie fell asleep. Angelica then took him up to Tommy's bedroom and made him take a nap in Tommy's crib. Now feeling satisfied with herself, Angelica decided to watch some TV downstairs. About an hour later, Chuckie woke up.<br>\r\n<br>\r\n<b>Did Chuckie wake up wet, or did he wake up dry but found himself needing to pee?</b></span></div></div>",
+            "created":1603083600,
+            "id":2924990,
+            "title":"Yeah."
+        },
+        "1533322222121121211211112":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Pee in His Diaper",
+                "Make a Run For the Bathroom"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Chuckie woke up dry, but he found himself needing to pee. What did he do?</span></div></span></div>",
+            "created":1603083600,
+            "id":2924991,
+            "title":"Chuckie Woke Up Dry But Desperate"
+        },
+        "15333222221211212112111122":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Chuckie decided to prove that he was still potty-trained, and made a run for the bathroom.<br>\r\n<br>\r\n<b>Did he make it there?</b></span></div></span></div>",
+            "created":1603083600,
+            "id":2924992,
+            "title":"Make a Run For the Bathroom"
+        },
+        "153332222212112121121111221":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, He Had to Poop as Well."
+            ],
+            "content":"<div class=\"\"><div> <span>Chuckie was relieved to find that the bathroom door was open and no one was inside, and that his potty was sitting next to the toilet. He ran inside and closed the door, then he untaped his diaper, letting it fall to the floor, and sat down on his potty. As soon as his cheeks touched the seat, he started peeing and sighed with relief. Fortunately for him, Angelica was downstairs watching TV and didn't hear him peeing in his potty. Soon, his bladder was empty and his potty was full.<br>\r\n<br>\r\n<b>Was Chuckie finished using his potty?</b></span></div></div>",
+            "created":1603083600,
+            "id":2924993,
+            "title":"Yes"
+        },
+        "1533322222121121211211112211":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Chuckie Puts His Diaper Back On",
+                "Chuckie Keeps His Diaper Off"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>After Chuckie was finished using his potty, did he decide to put his diaper back on and wear it until he got his pants and underwear back, or did he decide to keep it off because he really didn't want to wear it?</span></div></span></div>",
+            "created":1603083600,
+            "id":2924995,
+            "title":"Yes"
+        },
+        "15333222221211212112111122111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Something else that happened."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Chuckie soon had his diaper back on.<br>\r\nDid the other kids come by later?</span></div></span></div>",
+            "created":1603083600,
+            "id":2924997,
+            "title":"Chuckie Puts His Diaper Back On"
+        },
+        "153332222212112121121111221111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Phil and Lil come over?</span></div></span></div>",
+            "created":1603083600,
+            "id":2925002,
+            "title":"Yeah."
+        },
+        "153332222212112121121111221112":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Chuckie decide to look for his pants and underwear without being noticed by Angelica?</span></div></span></div>",
+            "created":1603083600,
+            "id":2925005,
+            "title":"Something else that happened."
+        },
+        "1533322222121121211211112211121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "No, Angelica caught him."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was he able to find them?</span></div></span></div>",
+            "created":1603083600,
+            "id":2925021,
+            "title":"Yes"
+        },
+        "15333222221211212112111122111211":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Reader's Choice 1",
+                "Reader's Choice 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where did Chuckie find his pants and underwear?</span></div></span></div>",
+            "created":1603083600,
+            "id":2925061,
+            "title":"Yeah."
+        },
+        "15333222221211212112111122111212":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Finster! What are you doing out of bed?\" Angelica asked Chuckie.<br>\r\n<br>\r\n\"Oh, nothing, Angelica.\" said Chuckie.<br>\r\n<br>\r\n\"You're not trying to get your pants and underwear back, are you?\" Angelica asked Chuckie.<br>\r\n<br>\r\n\"No, of course not.\" said Chuckie.<br>\r\n<br>\r\n<b>Did Angelica believe Chuckie's lie?</b></span></div></div>",
+            "created":1603083600,
+            "id":2925025,
+            "title":"No, Angelica caught him."
+        },
+        "153332222212112121121111221112121":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Chuckie Runs into Tommy",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><div> <span>Fortunately for Chuckie, Angelica believed his lie.<br>\r\n<br>\r\n\"Good. Now leave me alone. I want to watch TV.\" said Angelica. Chuckie sighed with relief, then he went to continue to look for his pants and underwear.<br>\r\n<br>\r\n<b>What happens next?</b></span></div></div>",
+            "created":1603083600,
+            "id":2925027,
+            "title":"Yes"
+        },
+        "1533322222121121211211112211121211":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "No, Tommy noticed the diaper."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Chuckie eventually ran into Tommy. Did he explain what was going on?</span></div></span></div>",
+            "created":1603083600,
+            "id":2925030,
+            "title":"Chuckie Runs into Tommy"
+        },
+        "15333222221211212112111122111212112":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, Tommy Sticks by Chuckie the Entire Time"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Tommy, boy am I glad to see you!\" said Chuckie.<br>\r\n<br>\r\n\"Hi, Chuckie. Um, why are you wearing a diapie?\" Tommy asked Chuckie.<br>\r\n<br>\r\n\"Angelica made me wear it. She started treating me like a baby. She also made me drink milk from a bottle, take a nap in your crib, and she took my pants and underwear and hid them.\" Chuckie told Tommy.<br>\r\n<br>\r\n\"That's awful! Don't worry, Chuckie. I'll help you get them back. If Angelica tries to pick on you, I won't let her!\" said Tommy.<br>\r\n<br>\r\n\"Thanks, Tommy.\" said Chuckie.<br>\r\n<br>\r\n\"You're welcome, Chuckie. By the way, if you don't want to wear your diapie, why don't you just take it off?\" asked Tommy.<br>\r\n<br>\r\n\"Cause' I don't like being half-nakie! It's just not natural! Asides, if Angelica caught me without a diaper, she'd probably torture me even more.\" Chuckie told Tommy.<br>\r\n<br>\r\n\"Oh.\" said Tommy.<br>\r\n<br>\r\n<b>Do Tommy and Chuckie decide to split up in their search for Chuckie's pants and underwear?</b></span></div></div>",
+            "created":1603083600,
+            "id":2925032,
+            "title":"No, Tommy noticed the diaper."
+        },
+        "153332222212112121121111221112121121":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Tommy and Chuckie decided to split up and search for Chuckie's missing pants and underwear.<br>\r\n<br>\r\n<b>Did one of them find them?</b></span></div></span></div>",
+            "created":1603170000,
+            "id":2925628,
+            "title":"Yes"
+        },
+        "1533322222121121211211112211121211211":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Tommy",
+                "Chuckie"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who found Chuckie's missing pants and underwear?</span></div></span></div>",
+            "created":1603170000,
+            "id":2925631,
+            "title":"Yes"
+        },
+        "15333222221211212112111122111212112111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Reader's Choice 1",
+                "Reader's Choice 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>It was Tommy. Where did he find them?</span></div></span></div>",
+            "created":1603170000,
+            "id":2925721,
+            "title":"Tommy"
+        },
+        "153332222212112121122":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Chuckie need to use the bathroom?</span></div></span></div>",
+            "created":1603083600,
+            "id":2924982,
+            "title":"Reader's Choice 2"
+        },
+        "1533322222121121211221":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup.",
+                "Anything else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Soon, he felt the need to pee, but, did Angelica point out he should use the diaper she'd put him into?</span></div></span></div>",
+            "created":1603083600,
+            "id":2924985,
+            "title":"Yes"
+        },
+        "15333222221211212112211":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Angelica, I gotta go potty!\" Chuckie told Angelica as he pressed his hands against the front of his diaper.<br>\r\n<br>\r\n\"So go already, Finster. You're wearing a diaper, you can just go in it.\" Angelica told Chuckie.<br>\r\n<br>\r\n<b>Does Chuckie decide to pee in his diaper?</b></span></div></div>",
+            "created":1603083600,
+            "id":2924998,
+            "title":"Yup."
+        },
+        "153332222212112121122111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "No, Angelica did it for him."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>After doing so, did he change himself?</span></div></span></div>",
+            "created":1603083600,
+            "id":2925001,
+            "title":"Yes"
+        },
+        "153332222212112121122112":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Chuckie Makes it to the Bathroom",
+                "Angelica Holds Him Back"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Chuckie didn't want to pee in his diaper, and he wanted to prove to Angelica that he was still potty-trained, so he decided to make a run for the bathroom.<br>\r\n<br>\r\n<b>Does he make it, or does Angelica hold him back?</b></span></div></span></div>",
+            "created":1603083600,
+            "id":2925060,
+            "title":"No"
+        },
+        "1533322222121121211221121":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, Something Else happened."
+            ],
+            "content":"<div class=\"\"><div> <span>Chuckie ran to the bathroom, but Angelica chased him. He was relieved to find that the door was open and no one was inside, and that his potty was sitting right next to the toilet. He ran inside, closed the door, and locked it. Then he untaped his diaper, letting it fall to the floor, and sat on his potty. As soon as his cheeks touched the seat, he started peeing in his potty and sighed with relief. Outside, Angelica was banging on the bathroom door.<br>\r\n<br>\r\n\"Chuckie! Open up!\" shouted Angelica, but Chuckie didn't open the door. He was too busy peeing in his potty. He peed in it until his bladder was empty.<br>\r\n<br>\r\n<b>Did Angelica's loud banging get the attention of one or both of Tommy's parents?</b></span></div></div>",
+            "created":1603083600,
+            "id":2925079,
+            "title":"Chuckie Makes it to the Bathroom"
+        },
+        "15333222221211212112211211":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Both",
+                "Just One"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did both of Tommy's parents hear Angelica banging on the door or just one?</span></div></span></div>",
+            "created":1603083600,
+            "id":2925083,
+            "title":"Yes"
+        },
+        "153332222212112121122112112":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Stu",
+                "Didi"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was it Stu or Didi?</span></div></span></div>",
+            "created":1603083600,
+            "id":2925093,
+            "title":"Just One"
+        },
+        "1533322222121121211221121121":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Stu mistake Angelica banging on the door for her needing to use the bathroom?</span></div></span></div>",
+            "created":1603083600,
+            "id":2925095,
+            "title":"Stu"
+        },
+        "1533322222121121211221121122":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Didi mistake Angelica banging on the door for her needing to use the bathroom?</span></div></span></div>",
+            "created":1603083600,
+            "id":2925094,
+            "title":"Didi"
+        },
+        "1533322222121121211221122":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "RC 1",
+                "RC 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She manages to hold him back how?</span></div></span></div>",
+            "created":1603083600,
+            "id":2925067,
+            "title":"Angelica Holds Him Back"
+        },
+        "1533322222121121211222":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do the tapes of Chuckie's diaper come undone, causing it to fall off and leave him naked from the waist down?</span></div></span></div>",
+            "created":1603083600,
+            "id":2924984,
+            "title":"No, something else."
+        },
         "153332222212112122":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
@@ -9924,6 +11010,176 @@
             "created":1600578000,
             "id":2906740,
             "title":"Yeah."
+        },
+        "153332222223":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Phil or lil",
+                "Charlotte pickles",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is it one of the twins that gets embarrassed?</span></div></span></div>",
+            "created":1603256400,
+            "id":2926232,
+            "title":"Phil, Lil, or anyone else."
+        },
+        "1533322222231":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Sure.",
+                "Phil.",
+                "How about both of them."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is it Lil?</span></div></span></div>",
+            "created":1603256400,
+            "id":2926233,
+            "title":"Phil or lil"
+        },
+        "15333222222313":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "The Twins Have to Take a Bath",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have chosen both Phil and Lil. Now, why are they feeling embarrassed?</span></div></span></div>",
+            "created":1603256400,
+            "id":2926273,
+            "title":"How about both of them."
+        },
+        "153332222223131":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Their House",
+                "Somewhere Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where were the twins taking a bath?</span></div></span></div>",
+            "created":1603256400,
+            "id":2926367,
+            "title":"The Twins Have to Take a Bath"
+        },
+        "1533322222231311":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was Betty bathing the twins?</span></div></span></div>",
+            "created":1603256400,
+            "id":2926400,
+            "title":"Their House"
+        },
+        "15333222222313111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "They Were Dirty",
+                "Another Reason"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Why was Betty bathing the twins?</span></div></span></div>",
+            "created":1603256400,
+            "id":2926401,
+            "title":"Yes"
+        },
+        "153332222223131112":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does this take place after Phil and Lil's events in \"Naked Tommy\", and Betty gives the twins a bath as punishment for taking off their clothes at Tommy's house?</span></div></span></div>",
+            "created":1603256400,
+            "id":2926402,
+            "title":"Another Reason"
+        },
+        "1533322222231311121":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, They Fussed and Splashed About"
+            ],
+            "content":"<div class=\"\"><div> <span>After Betty left Didi's house, taking Phil, Lil, and their clothes with her, she was very upset that the twins took their clothes off at Tommy's house, so she decided to enforce some rules.<br>\r\n<br>\r\n\"Now Phil, Lil, you two know better than to take off your clothes, especially at someone else's house. From now on, Mommy's going to lay down some ground rules. From now on, you can't play outside until you decide to wear your clothes again. You can't play with your Reptar doll, either. Since Mommy knows you two don't like taking baths, you're going to have to take one as punishment for taking your clothes off.\" Betty told the twins. Phil and Lil screamed and cried upon hearing this.<br>\r\n<br>\r\n\"Too bad, pups. If you're going to be naked, you're going to take baths, since bath time is the only time you're supposed to be naked!\" Betty told the twins, and she took them upstairs to bathe them. She turned on the bathwather to the right temperature, then put the twins in the tub.<br>\r\n<br>\r\n<b>Did the twins hold still as Betty tried to bathe them?</b></span></div></div>",
+            "created":1603256400,
+            "id":2926427,
+            "title":"Yes"
+        },
+        "1533322222231312":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, somewhere else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about at Tommy's house?</span></div></span></div>",
+            "created":1603256400,
+            "id":2926368,
+            "title":"Somewhere Else"
+        },
+        "15333222222313121":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The twins were at Tommy's house when they had to take a bath. Was it Didi who tried to bathe them?</span></div></span></div>",
+            "created":1603256400,
+            "id":2926393,
+            "title":"Yes"
+        },
+        "153332222223131211":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Both at once."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did she try it one at a time?</span></div></span></div>",
+            "created":1603256400,
+            "id":2926397,
+            "title":"Yes"
+        },
+        "1533322222231312112":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Didi tried bathing both twins at once.<br>\r\n<br>\r\n<b>Did the twins try to hide from her?</b></span></div></span></div>",
+            "created":1603256400,
+            "id":2926403,
+            "title":"Both at once."
+        },
+        "15333222222313121121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Some place else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Both attempted to hide in Tommy's room?</span></div></span></div>",
+            "created":1603256400,
+            "id":2926404,
+            "title":"Yes"
+        },
+        "153332222223131211212":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did the twins decide to hide in separate rooms?</span></div></span></div>",
+            "created":1603256400,
+            "id":2926409,
+            "title":"Some place else."
         },
         "15333223":{
             "author_id":"johnny2",
@@ -10422,6 +11678,488 @@
             "created":1603083600,
             "id":2924483,
             "title":"Kim Possible"
+        },
+        "153332232222222331":{
+            "author_id":"sapphireninja",
+            "author_name":"Secptor",
+            "choices":[
+                "kim Possible",
+                "Another Character"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So who get embarrassed  ?</span></div></span></div>",
+            "created":1603083600,
+            "id":2924812,
+            "title":"Yes"
+        },
+        "1533322322222223311":{
+            "author_id":"sapphireninja",
+            "author_name":"Secptor",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So how about Kim made a bet with Bonnie, with the loser being taken to the middle of Middletown,then stripping completely naked and being force walk home ?</span></div></span></div>",
+            "created":1603170000,
+            "id":2925520,
+            "title":"kim Possible"
+        },
+        "1533322322222223312":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Bonnie",
+                "Shego",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who else from the Kim possible show gets embarrassed?</span></div></span></div>",
+            "created":1603083600,
+            "id":2924817,
+            "title":"Another Character"
+        },
+        "15333223222222233121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "A bet she loses.",
+                "Anything else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Kim's rival is embarrassed how?</span></div></span></div>",
+            "created":1603083600,
+            "id":2924825,
+            "title":"Bonnie"
+        },
+        "154":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, Another Original Work"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have decided to go with original works.<br>\r\n<br>\r\nWill it be <i>Toddlerhood</i>, an original creation by FDMG Productions?</span></div></span></div>",
+            "created":1603256400,
+            "id":2926259,
+            "title":"Original"
+        },
+        "1541":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Ryan McHiggins",
+                "Brad Hunter",
+                "Someone Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have chosen <i>Toddlerhood</i>. Now, which character will be embarrassed?</span></div></span></div>",
+            "created":1603256400,
+            "id":2926262,
+            "title":"Yes"
+        },
+        "15411":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "His Diaper Falls off and Leaves Him Naked From the Waist Down",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have chosen Ryan McHiggins. Now, what happens to him?</span></div></span></div>",
+            "created":1603256400,
+            "id":2926377,
+            "title":"Ryan McHiggins"
+        },
+        "154111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "His House",
+                "Somewhere Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where was Ryan when this happened?</span></div></span></div>",
+            "created":1603256400,
+            "id":2926430,
+            "title":"His Diaper Falls off and Leaves Him Naked From ..."
+        },
+        "1541111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ryan was at his house when his diaper fell down.<br>\r\n<br>\r\n<b>Did it fall down because the tapes came undone?</b></span></div></span></div>",
+            "created":1603256400,
+            "id":2926510,
+            "title":"His House"
+        },
+        "15411111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did he try to put it back on?</span></div></span></div>",
+            "created":1603256400,
+            "id":2926511,
+            "title":"Yes"
+        },
+        "154111111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, It Fell Down Again"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was he able to get it back on?</span></div></span></div>",
+            "created":1603323300,
+            "id":2926513,
+            "title":"Yes"
+        },
+        "154111112":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does somebody try to help him get it back on?</span></div></span></div>",
+            "created":1603323360,
+            "id":2926514,
+            "title":"No, something else."
+        },
+        "1541111121":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Brad",
+                "Someone Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who tried to help Ryan put his diaper back on?</span></div></span></div>",
+            "created":1603323360,
+            "id":2926515,
+            "title":"Yes"
+        },
+        "15411111212":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was it Alice?</span></div></span></div>",
+            "created":1603323480,
+            "id":2926517,
+            "title":"Someone Else"
+        },
+        "154111112122":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about Mike?</span></div></span></div>",
+            "created":1603323480,
+            "id":2926518,
+            "title":"No, someone else"
+        },
+        "1541111121222":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about one of his parents, Walter or Wendy?</span></div></span></div>",
+            "created":1603323540,
+            "id":2926520,
+            "title":"No, someone else"
+        },
+        "15411111212221":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Walter",
+                "Wendy"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which of Ryan's parents helped him put his diaper back on?</span></div></span></div>",
+            "created":1603323600,
+            "id":2926521,
+            "title":"Yes"
+        },
+        "154112":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does he have to go to the bathroom, but can't make it and has an accident?</span></div></span></div>",
+            "created":1603256400,
+            "id":2926378,
+            "title":"Something Else"
+        },
+        "1541121":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Pee",
+                "Poop"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Ryan pee in his diaper or poop in it?</span></div></span></div>",
+            "created":1603256400,
+            "id":2926380,
+            "title":"Yes"
+        },
+        "15411211":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, Something Else happened."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ryan peed in his diaper.<br>\r\n<br>\r\n<b>Did Butch tease him for this?</b></span></div></span></div>",
+            "created":1603256400,
+            "id":2926381,
+            "title":"Pee"
+        },
+        "1541122":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is he being teased by Butch?</span></div></span></div>",
+            "created":1603256400,
+            "id":2926384,
+            "title":"No, something else."
+        },
+        "15412":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "He Gets a Splinter and Has to Get it Removed",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have chosen Brad Hunter. What happens to him?</span></div></span></div>",
+            "created":1603256400,
+            "id":2926451,
+            "title":"Brad Hunter"
+        },
+        "154121":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, somewhere else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was Brad at the park when this happened?</span></div></span></div>",
+            "created":1603256400,
+            "id":2926464,
+            "title":"He Gets a Splinter and Has to Get it Removed"
+        },
+        "1541211":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Brad get a splinter from a playground structure?</span></div></span></div>",
+            "created":1603327560,
+            "id":2926549,
+            "title":"Yes"
+        },
+        "15412111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Brad Tells Ryan and Alice About His Splinter",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><div> <span>At the park, Brad was climbing up a wooden ladder on the jungle gym. As he climbed, he didn't see the slit in the wood as a piece of it was sticking up. When Brad put his right index finger into the slit, it went into it and it really hurt.<br>\r\n<br>\r\n\"Mommy!\" Brad shouted, and he began to cry. Ashley rushed over to Brad.<br>\r\n<br>\r\n\"Oh, Bradley, my poor baby!\" she exclaimed. She knew Brad was an adventurous toddler, and worried that someday he would be seriously hurt. This was why she carried a first aid kit with her whenever she left the house with Brad.<br>\r\n<br>\r\n\"Don't worry, honey, Mommy knew this day would come.\" Ashley told Brad as she carried him to the park bench and sat him down in her lap. She opened up her first-aid kit and pulled out a pair of tweezers, which she used to remove the splinter. It really hurt Brad when Ashley pulled the splinter out, but Brad stayed as brave as he could.<br>\r\n<br>\r\n\"Now, this may sting a little.\" Ashley told Brad as she sprayed some disinfectant over his wound. Then she wrapped a bandage around the wound so it could heal.<br>\r\n<br>\r\n\"There you go, Bradley. All better now. You were a very brave boy.\" Ashley told Brad, then she kissed his forehead. After that, she took Brad to the sandbox to play with Ryan and Alice.<br>\r\n<br>\r\n<b>What happens next?</b></span></div></div>",
+            "created":1603329960,
+            "id":2926559,
+            "title":"Yes"
+        },
+        "154121111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, He Doesn't Want to Risk Getting Another Splinter"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Are you okay, Brad?\" Ryan asked Brad.<br>\r\n<br>\r\n\"Yeah, I'm fine. I just had a splinter is all. My Mommy had to take it out because it really hurt.\" Brad told Ryan.<br>\r\n<br>\r\n\"You were really brave, Brad. If it were me who got that splinter, I'd be crying like a baby.\" Ryan told Brad.<br>\r\n<br>\r\n\"But you <i>are</i> a baby.\" Brad told Ryan.<br>\r\n<br>\r\n\"I know.\" said Ryan.<br>\r\n<br>\r\n\"So are you still going to play on the jungle gym?\" Alice asked Brad.<br>\r\n<br>\r\n<b>Does Brad decide to continue playing on the jungle gym?</b></span></div></div>",
+            "created":1603330020,
+            "id":2926560,
+            "title":"Brad Tells Ryan and Alice About His Splinter"
+        },
+        "15413":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about Alice Finklemeyer?</span></div></span></div>",
+            "created":1603256400,
+            "id":2926263,
+            "title":"Someone Else"
+        },
+        "154131":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "A bet she ends up losing.",
+                "Anything else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Now then, something embarrassing for her...</span></div></span></div>",
+            "created":1603256400,
+            "id":2926274,
+            "title":"Yes"
+        },
+        "154132":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about Butch Ironhammer?</span></div></span></div>",
+            "created":1603256400,
+            "id":2926265,
+            "title":"No, someone else"
+        },
+        "1541321":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "He is Forced to Be Dressed Like a Baby Somehow",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have chosen Butch Ironhammer. Now, what happens to him?</span></div></span></div>",
+            "created":1603256400,
+            "id":2926277,
+            "title":"Yes"
+        },
+        "15413211":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "He Loses a Bet",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does he end up dressed like a baby?</span></div></span></div>",
+            "created":1603256400,
+            "id":2926279,
+            "title":"He is Forced to Be Dressed Like a Baby Somehow"
+        },
+        "154132111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did he make a deal with Mike that he had to dress like a baby if he couldn't be nice to Ryan, Brad, and Alice for a day?</span></div></span></div>",
+            "created":1603256400,
+            "id":2926280,
+            "title":"He Loses a Bet"
+        },
+        "1541321111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><div> <span>One day, Mike was walking through the park, when he saw Butch holding Orville, Alice's favorite teddy bear, out of the reach of Alice, Ryan, and Brad.<br>\r\n<br>\r\n\"Hey, Butch! That's my teddy bear!\" Alice told Butch.<br>\r\n<br>\r\n\"Well, too bad. It's <i>mine</i> now!\" Butch snarled, and he laughed wickedly.<br>\r\n<br>\r\n\"Hey, leave my friends alone!\" Mike said as he ran up to Butch.<br>\r\n<br>\r\n\"Well, well, if it ain't Skinny.\" Butch said as he turned to Mike.<br>\r\n<br>\r\n\"I'm ashamed of you, Butch. I bet you couldn't be nice to Ryan and his friends, even for one day!\" Mike told Butch.<br>\r\n<br>\r\n\"I can, too!\" snarled Butch.<br>\r\n<br>\r\n\"Ha! If you were nice to them for just one day, I'd dress up like a baby!\" Mike told Butch.<br>\r\n<br>\r\n\"I'd like to see that! You got yourself a deal, Skinny!\" said Butch.<br>\r\n<br>\r\n\"Not so fast! If you lose, then you have to dress up like a baby.\" Mike told Butch. Butch probably shouldn't have taken Mike's bet, but he couldn't resist the idea of Mike dressing up like a baby, and he also knew that he would never let Mike live it down.<br>\r\n<br>\r\n\"I said 'You got yourself a deal, Skinny!'\" Butch told Mike.<br>\r\n<br>\r\n\"Good. Then the bet starts now.\" said Mike. Butch turned to Ryan, Brad, and Alice.<br>\r\n<br>\r\n\"Gee, Alice. I'm sorry I took your teddy bear. Here, you can have it back.\" Butch said as he handed Alice her teddy bear.<br>\r\n<br>\r\n\"Uh, thanks, Butch.\" said a confused Alice. Ryan, Brad, and Alice were surprised. It wasn't like Butch to give back the things he took.<br>\r\n<br>\r\n\"Are you feeling okay, Butch?\" Ryan asked Butch.<br>\r\n<br>\r\n\"Oh, I feel fine. You three are my best friends, and there ain't nothin' I like to do more than play with my friends.\" Butch told Ryan, Brad, and Alice. The three toddlers were unsure if they should trust Butch, because they knew whenever Butch tried to act nice, it was usually part of a ruse to be mean to them when their backs were turned.<br>\r\n<br>\r\n<b>Do Ryan, Brad, and Alice decide to play along with Butch's new demeanor?</b></span></div></div>",
+            "created":1603416600,
+            "id":2927172,
+            "title":"Yes"
+        },
+        "15413212":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Butch have a potty accident in front of Ryan, Brad, and Alice despite being toilet-trained?</span></div></span></div>",
+            "created":1603545900,
+            "id":2927949,
+            "title":"Something Else"
+        },
+        "154132121":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Pee",
+                "Poop"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Butch pee his pants or poop them?</span></div></span></div>",
+            "created":1603545960,
+            "id":2927950,
+            "title":"Yes"
+        },
+        "1541322":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about Mike Martindale?</span></div></span></div>",
+            "created":1603256400,
+            "id":2926266,
+            "title":"No, someone else"
+        },
+        "15413221":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "He Rips His Pants and People Can See His Underwear",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have chosen Mike Martindale. Now, how does he get embarrassed?</span></div></span></div>",
+            "created":1603256400,
+            "id":2926283,
+            "title":"Yes"
+        },
+        "154132211":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "The Park",
+                "Somewhere Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where is Mike when this happens?</span></div></span></div>",
+            "created":1603256400,
+            "id":2926370,
+            "title":"He Rips His Pants and People Can See His Underwear"
+        },
+        "1541322111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Brad",
+                "Someone Else"
+            ],
+            "content":"<div class=\"\"><div> <span>One day, Mike was playing baseball in the park with Ryan, Brad, and Alice. Ryan tossed the baseball, and Brad hit it. The ball flew through the air and landed in the grass.<br>\r\n<br>\r\n\"I'll get it!\" said Mike. He walked up to the baseball, but as he bent down to pick it up, his pants ripped, leaving a big hole in them that exposed his underwear. Mike blushed when he heard his pants rip.<br>\r\n<br>\r\n<b>Who noticed the hole in Mike's pants?</b></span></div></div>",
+            "created":1603256400,
+            "id":2926371,
+            "title":"The Park"
+        },
+        "15413221111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Reader's Choice 1",
+                "Reader's Choice 2"
+            ],
+            "content":"<div class=\"\"><div> <span>Brad was the first to notice the hole in the back of Mike's pants.<br>\r\n<br>\r\n\"Hey, I didn't know you wore <i>Super Marquez Bros.</i> underwear!\" Brad said to Mike.<br>\r\n<br>\r\n\"Could you please stop looking at my underwear?\" Mike asked Brad.<br>\r\n<br>\r\n\"Well, It's kind of hard not to.\" said Brad as Mike used his hands to cover the hole.<br>\r\n<br>\r\n\"Didn't your mom pack an extra pair of pants?\" Alice asked Mike.<br>\r\n<br>\r\n\"No, because this doesn't usually happen to me. What am I gonna do? I can't let Butch see me like this, he's never going to let me live it down!\" Mike told his friends.<br>\r\n<br>\r\n<b>What happens next?</b></span></div></div>",
+            "created":1603256400,
+            "id":2926372,
+            "title":"Brad"
         },
         "155":{
             "author_id":"supreme123",
@@ -11904,7 +13642,7 @@
         "id":2232686,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
         "last_full_update":1602331200,
-        "modified":1603101720,
+        "modified":1603545960,
         "pretty_title":"Embarrassing situations "
     }
 }
