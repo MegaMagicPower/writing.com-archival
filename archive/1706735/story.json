@@ -4082,6 +4082,19 @@
             "id":2908366,
             "title":"Something else"
         },
+        "11533222212222222222222222222211225":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "His shield",
+                "One of Zelda's outfits",
+                "Other choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What other inanimate objects could Link try to use the Swap Wand on?</span></div></span></div>",
+            "created":1604829780,
+            "id":2936586,
+            "title":"Something else"
+        },
         "1153322222":{
             "author_id":"le_swappr",
             "author_name":"clockworkMelody",
@@ -4378,6 +4391,18 @@
             "created":1602745020,
             "id":2921962,
             "title":"Clothes?"
+        },
+        "11533222222211222":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Link use the Swap Wand on the Rito Champion and warrior, Revali?</span></div></span></div>",
+            "created":1606035180,
+            "id":2943966,
+            "title":"Revali?"
         },
         "11533222222212":{
             "author_id":"somepersonguy",
@@ -5223,6 +5248,56 @@
             "id":2719552,
             "title":"Revali, the Rito"
         },
+        "1153322222221221222222222111":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "He ends up in Revali's spirit form, while Revali has Link's physical body!",
+                "He ends up having a physical version of Revali's body!",
+                "Anything else?"
+            ],
+            "content":"<div class=\"\"><div> <span>After carefully thinking it over, Link decided to try and see what would happen if he swapped bodies with Revali.<br>\r\n<br>\r\nIn spite of the Rito's somewhat arrogant nature, Link was fairly certain that if he did end up as a spirit, Revali wouldn't let him stay that way for too long.<br>\r\nRevali was a proud Rito, so it seemed unlikely that he would actually keep Link's Hylian body, if he were to end up in it.<br>\r\n<br>\r\nOf course, there was also the possibillity that Link would end up having Revali's physical body, in which case he didn't need to worry at all.<br>\r\n<br>\r\nHaving made up his mind, Link thought about swapping bodies with Revali, swinging he wand as he did so. As a bright light shone from the Wand and engulfed him, Link began to feel strange.<br>\r\n<br>\r\nWhat happens to Link?</span></div></div>",
+            "created":1606036680,
+            "id":2943980,
+            "title":"He chooses to try and swap bodies with Revali"
+        },
+        "11533222222212212222222221112":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "Yes; Link gets both Revali's body and his clothes to go with it.",
+                "No; Link keeps his own clothes. But they don't really fit his new Rito body..."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>One more thing; when Link gets Revali's physical body, does he get Revali's clothes as well?</span></div></span></div>",
+            "created":1606049280,
+            "id":2944026,
+            "title":"One More Thing..."
+        },
+        "11533222222212212222222223":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "Swap with either Riju, or Teba",
+                "Swap with either Sidon, or Yunobo",
+                "Swap with someone else"
+            ],
+            "content":"<div class=\"\"><div> <span>After thinking it over, Link decided not to attempt a swap with the fallen champions. Even if it was possible for him to actually swap with them, he didn't want to disturb them in their afterlives. He respected them too much to really want to try it.<br>\r\n<br>\r\nAs such, Link's thoughts then turned towards the current champions; Riju, the Gerudo Child of Lightning, Teba, the High-Flying Rito Warrior, Sidon, the Zora with the Winning Smile, and Yunobo, the Goron Diamond in the Rough. Those four heroes had been instrumental in defeating Calamity Ganon once and for all and Link counted them all as being really good friends. There was also the fact that they were all still alive, unlike the past champions, which meant that Link would have a much easier time finding them, just in case something were to go wrong.<br>\r\n<br>\r\nThis certainly seemed to be a more sensible choice to Link at the moment; but he was equally certain that he could think of someone else to swap with as well.<br>\r\n<br>\r\nWhat did he decide to do?</span></div></div>",
+            "created":1606228500,
+            "id":2945260,
+            "title":"More Choices for who to swap with"
+        },
+        "115332222222122122222222232":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "Sidon, the Zora",
+                "Yunobo, the Goron"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who did Link decide to use the Swap Wand on?</span></div></span></div>",
+            "created":1606228560,
+            "id":2945264,
+            "title":"Swap with either Sidon, or Yunobo"
+        },
         "1153322222222":{
             "author_id":"dayaman",
             "author_name":"dayaman",
@@ -5313,9 +5388,21 @@
             "id":2428284,
             "title":"someone else"
         },
+        "11533222222222":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "Go with this choice",
+                "Any other choices?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about the Link from Hyrule Warriors: Age of Calamity?</span></div></span></div>",
+            "created":1606035360,
+            "id":2943968,
+            "title":"Age of Calamity Link?"
+        },
         "12":{
             "author_id":"n8han",
-            "author_name":"n8han11",
+            "author_name":"Mr. Amazo",
             "choices":[
                 "Wind Waker",
                 "One of the Links from Four Swords",
@@ -8877,6 +8964,19 @@
             "id":2926544,
             "title":"Breath of the Wild?"
         },
+        "1353322222222223":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "Revali, the Rito",
+                "Daruk, the Goron",
+                "Other choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who else could end up with the Swap Wand?</span></div></span></div>",
+            "created":1606036800,
+            "id":2943981,
+            "title":"Other BotW characters"
+        },
         "14":{
             "author_id":"nemryn",
             "author_name":"nemryn",
@@ -9149,8 +9249,8 @@
         "description":"<td align=\"left\" class=\"norm\">Read the first chapter for some information on the wand, the setup, and so on. Let's try to keep the number of branches in this one down. There's no need to pick a game before choosing a character; all the toon games cross over with each other, and so do all the non-toon ones.</td>",
         "id":1706735,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1600818840,
-        "modified":1603326780,
+        "last_full_update":1603326780,
+        "modified":1606228560,
         "pretty_title":"Legend of the Swap Wand"
     }
 }

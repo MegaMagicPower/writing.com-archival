@@ -4378,6 +4378,19 @@
             "id":723979,
             "title":"You introduce yourself."
         },
+        "1431":{
+            "author_id":"fatboy580",
+            "author_name":"Fatboy580",
+            "choices":[
+                "The couple seem spooked and tell you that the house is abandoned/not to go there",
+                "Drew says that it's nothing special, used to be the mayor's mansion",
+                "You're suddenly ravenous and don't catch what they say about it, gotta eat"
+            ],
+            "content":"<div class=\"\"><div> <span>You flinch back, clutching your arm against your chest. \"Wh-what the hell was that!?\" You cry out, staring wildly at the corpulent man you'd just tried to shake hands with. <br>\r\n<br>\r\nThe man stares at you, seeming confused, \"What are you talking about dude?\" <br>\r\n<br>\r\nYou stand there, and force yourself to get control of your breathing again. You look at your hand and see there's nothing wrong with it, and then look back at the pair and see how they're regarding you like you're a potentially dangerous crazy person. You wipe your brow and force your face into a pleasant expression. <br>\r\n<br>\r\n\"I'm sorry about that...it must have been a static jolt.\" You say, extending your hand again. The man is still regarding you dubiously but takes it in his own pudgy mitt and shakes hands. <br>\r\n<br>\r\nThis time there's no sudden jolt but there is a slight tingling sensation, which you put down to the after effects of the initial shock. \"I'm new in town, and I was hoping to get some help from locals in knowing what the best places to get the pulse of the people so to speak. I was just at the U-Haul and the guy there said this was the best place in town for a burger.\" <br>\r\n<br>\r\nThe man, seeming much more relieved, smiles a little, \"Yeah, Fatty Patties is the best! The burgers are huge and the prices are really affordable.\" He pats the side of his gut with one meaty hand and you see ripples track side to side through his plump form. \"I come here every day, and my girl here is always telling me I should make sure to get my fill since she don't like cookin'\" <br>\r\n<br>\r\n\"Andrew!\" The woman says, but her expression suggests that she's more amused than irritated. \"Well yeah, I guess that's true. I'd rather my big man satisfy his appetite here than have to slave over a stove. It takes so much to get him full anyway, I'd be cooking all day!\" <br>\r\n<br>\r\n\"Ginny! Gosh, you're embarrassing me!\" Andrew said, gently bumping his girlfriend with his hip. \"Anyway, yeah, this here's the best place for a burger. There's Big Bubba Blubba's Shake Shack down the street for ice cream, and the bakery across town is great too!\" <br>\r\n<br>\r\n\"And what about that big Victorian house on the hill over there?\" You say, hooking your thumb over your shoulder. </span></div></div>",
+            "created":1605556260,
+            "id":2941179,
+            "title":"An arcane jolt"
+        },
         "144":{
             "author_id":"that_guy",
             "author_name":"too much free time",
@@ -5148,7 +5161,7 @@
         "id":1044201,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
         "last_full_update":1513435080,
-        "modified":1513435080,
+        "modified":1605556260,
         "pretty_title":"Fat Witches"
     }
 }

@@ -1,0 +1,525 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"jken",
+            "author_name":"dfff",
+            "choices":[
+                "Footballers ",
+                "American football ",
+                "Tennis ",
+                "Gymnastics ",
+                "More "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Hmmm what kind of sport stars </span></div></span></div>",
+            "created":1605934800,
+            "id":2943634,
+            "title":"Which sports "
+        },
+        "11":{
+            "author_id":"jken",
+            "author_name":"dfff",
+            "choices":[
+                "Male ",
+                "Female ",
+                "Both "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Hmmm what about </span></div></span></div>",
+            "created":1605934800,
+            "id":2943635,
+            "title":"Footballers "
+        },
+        "111":{
+            "author_id":"jken",
+            "author_name":"dfff",
+            "choices":[
+                "cristiano ronaldo",
+                "Sergio aguero ",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which one </span></div></span></div>",
+            "created":1605934800,
+            "id":2943636,
+            "title":"Male "
+        },
+        "1111":{
+            "author_id":"jken",
+            "author_name":"dfff",
+            "choices":[
+                "Overeating and laziness ",
+                "Gets fatten by someone ",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How dose he get fat </span></div></span></div>",
+            "created":1606003560,
+            "id":2943768,
+            "title":"cristiano ronaldo"
+        },
+        "11111":{
+            "author_id":"jken",
+            "author_name":"dfff",
+            "choices":[
+                "Trying to bulk ",
+                "Comfort eats ",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What causes him to overeat  and become lazy </span></div></span></div>",
+            "created":1606007940,
+            "id":2943793,
+            "title":"Overeating and laziness "
+        },
+        "111113":{
+            "author_id":"jken",
+            "author_name":"dfff",
+            "choices":[
+                "He retires from football ",
+                "He try to win a bet made with a another footballer ",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What else </span></div></span></div>",
+            "created":1606008060,
+            "id":2943795,
+            "title":"More"
+        },
+        "11112":{
+            "author_id":"jken",
+            "author_name":"dfff",
+            "choices":[
+                "By a jealous teammate ",
+                "By a manager ",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who fatten him up </span></div></span></div>",
+            "created":1606003800,
+            "id":2943771,
+            "title":"Gets fatten by someone "
+        },
+        "111123":{
+            "author_id":"jken",
+            "author_name":"dfff",
+            "choices":[
+                "Cannibal",
+                "aliens",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What about </span></div></span></div>",
+            "created":1606004100,
+            "id":2943772,
+            "title":"More"
+        },
+        "1113":{
+            "author_id":"jken",
+            "author_name":"dfff",
+            "choices":[
+                "philippe coutinho",
+                "paulo dybala",
+                "More "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Hmmm who else </span></div></span></div>",
+            "created":1605934800,
+            "id":2943638,
+            "title":"More"
+        },
+        "11133":{
+            "author_id":"jken",
+            "author_name":"dfff",
+            "choices":[
+                "leo messi",
+                "Eden Hazard",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Hmmm who else </span></div></span></div>",
+            "created":1605989580,
+            "id":2943683,
+            "title":"More "
+        },
+        "111333":{
+            "author_id":"jken",
+            "author_name":"dfff",
+            "choices":[
+                "Mesut \u00d6zil",
+                "Kevin De Bruyne",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Hmmm what about </span></div></span></div>",
+            "created":1606427880,
+            "id":2946525,
+            "title":"More"
+        },
+        "112":{
+            "author_id":"amatteroftrust",
+            "author_name":"AMatterofTrust",
+            "choices":[
+                "Megan Rapinoe",
+                "Alex Morgan",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Maybe some USWNT gals?</span></div></span></div>",
+            "created":1606086420,
+            "id":2944303,
+            "title":"Female "
+        },
+        "12":{
+            "author_id":"amatteroftrust",
+            "author_name":"AMatterofTrust",
+            "choices":[
+                "Patrick Mahomes",
+                "Cam Newton",
+                "Rob Gronkowski",
+                "JJ Watt",
+                "Someone else?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who gets fatter first?</span></div></span></div>",
+            "created":1606008300,
+            "id":2943797,
+            "title":"American football "
+        },
+        "123":{
+            "author_id":"cloakedzex",
+            "author_name":"Zex",
+            "choices":[
+                "Bulking gone wrong",
+                "Early Retirement and Laziness",
+                "Revenge",
+                "Magic",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How will Rob Gronkowski gain weight?</span></div></span></div>",
+            "created":1606011060,
+            "id":2943817,
+            "title":"Rob Gronkowski"
+        },
+        "13":{
+            "author_id":"amatteroftrust",
+            "author_name":"AMatterofTrust",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Male or female stars set to plump up?</span></div></span></div>",
+            "created":1606008360,
+            "id":2943798,
+            "title":"Tennis "
+        },
+        "14":{
+            "author_id":"amatteroftrust",
+            "author_name":"AMatterofTrust",
+            "choices":[
+                "Aly Raisman",
+                "Simone Biles",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about some Olympic stars?</span></div></span></div>",
+            "created":1606169820,
+            "id":2944928,
+            "title":"Gymnastics "
+        },
+        "15":{
+            "author_id":"jken",
+            "author_name":"dfff",
+            "choices":[
+                "Rugby ",
+                "formula 1",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Hmm what about those sports </span></div></span></div>",
+            "created":1605976920,
+            "id":2943640,
+            "title":"More "
+        },
+        "151":{
+            "author_id":"jken",
+            "author_name":"dfff",
+            "choices":[
+                "Male ",
+                "Female ",
+                "Both "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which one </span></div></span></div>",
+            "created":1605976920,
+            "id":2943641,
+            "title":"Rugby "
+        },
+        "1511":{
+            "author_id":"jken",
+            "author_name":"dfff",
+            "choices":[
+                "Owen Farrell",
+                "Beauden Barrett",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ok but who </span></div></span></div>",
+            "created":1605977040,
+            "id":2943643,
+            "title":"Male "
+        },
+        "152":{
+            "author_id":"amatteroftrust",
+            "author_name":"AMatterofTrust",
+            "choices":[
+                "Lewis Hamilton",
+                "Max Verstappen",
+                "Someone else?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which top star finds his car a tighter fit?</span></div></span></div>",
+            "created":1606008660,
+            "id":2943802,
+            "title":"formula 1"
+        },
+        "153":{
+            "author_id":"spunky",
+            "author_name":"Ace Jones",
+            "choices":[
+                "Pro Wrestling.",
+                "Sumo Wrestling.",
+                "Basketball.",
+                "Hockey.",
+                "Other."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay how about these sports?</span></div></span></div>",
+            "created":1605982560,
+            "id":2943656,
+            "title":"More"
+        },
+        "1531":{
+            "author_id":"spunky",
+            "author_name":"Ace Jones",
+            "choices":[
+                "Male",
+                "Female",
+                "Both"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Now then will the males or females gain weight or will both genders gain weight?</span></div></span></div>",
+            "created":1606069140,
+            "id":2944196,
+            "title":"Pro Wrestling."
+        },
+        "1533":{
+            "author_id":"amatteroftrust",
+            "author_name":"AMatterofTrust",
+            "choices":[
+                "Men of the NBA",
+                "Women of the WNBA"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will it be stars from the NBA or the WNBA?</span></div></span></div>",
+            "created":1606169880,
+            "id":2944929,
+            "title":"Basketball."
+        },
+        "1535":{
+            "author_id":"amatteroftrust",
+            "author_name":"AMatterofTrust",
+            "choices":[
+                "Baseball",
+                "NASCAR",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>More for your consideration?</span></div></span></div>",
+            "created":1606008600,
+            "id":2943800,
+            "title":"Other."
+        },
+        "15353":{
+            "author_id":"shadowreader",
+            "author_name":"Shadow",
+            "choices":[
+                "Bodybuilding",
+                "Swimming",
+                "more"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about these sports?</span></div></span></div>",
+            "created":1606111020,
+            "id":2944461,
+            "title":"Other"
+        },
+        "153531":{
+            "author_id":"spunky",
+            "author_name":"Ace Jones",
+            "choices":[
+                "Male",
+                "Female",
+                "Both"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Now then will the men or women gain weight, or will both sides gain weight?</span></div></span></div>",
+            "created":1606130460,
+            "id":2944598,
+            "title":"Bodybuilding"
+        },
+        "153533":{
+            "author_id":"jken",
+            "author_name":"dfff",
+            "choices":[
+                "diving",
+                "cricket",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Hmm what about </span></div></span></div>",
+            "created":1606131120,
+            "id":2944602,
+            "title":"more"
+        },
+        "1535331":{
+            "author_id":"jken",
+            "author_name":"dfff",
+            "choices":[
+                "Male ",
+                "Female ",
+                "Both "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which one </span></div></span></div>",
+            "created":1606131240,
+            "id":2944606,
+            "title":"diving"
+        },
+        "15353311":{
+            "author_id":"jken",
+            "author_name":"dfff",
+            "choices":[
+                "tom daley",
+                " jack laugher",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ok but who </span></div></span></div>",
+            "created":1606131300,
+            "id":2944607,
+            "title":"Male "
+        },
+        "153533111":{
+            "author_id":"cloakedzex",
+            "author_name":"Zex",
+            "choices":[
+                "New Training regiment gone wrong",
+                "Force fed by a jealous rival",
+                "Fattened by his husband Dustin",
+                "Overeating and Laziness",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How will the famous diver gain weight?</span></div></span></div>",
+            "created":1606168980,
+            "id":2944923,
+            "title":"Tom Daley"
+        },
+        "1535331112":{
+            "author_id":"jken",
+            "author_name":"dfff",
+            "choices":[
+                "Force feed by jealous rival ",
+                "Tricked into getting fat by a jealous GB teammate "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Dose he get force feed by  a jealous rival or dose he get tricked into getting fat by a jealous teammate </span></div></span></div>",
+            "created":1606215300,
+            "id":2945126,
+            "title":"Force fed by a jealous rival"
+        },
+        "15353311122":{
+            "author_id":"jken",
+            "author_name":"dfff",
+            "choices":[
+                "Tom speedo looking pretty tight",
+                "Jack confused Tom hadn't gained any weight yet he needs to step up his game",
+                "Writer choice "
+            ],
+            "content":"<div class=\"\"><div> <span>Jack Laugher was sitting on a bench near the pool watching his fellow Diver Tom Daley dive off the diving board doing a excellent dive Jack admits Tom is a fantastic diver and a good friend but Jack couldn't help but feel jealous he felt like Tom got more cheers from the fans and more prise from the coaches no matter how well  Jack performed. At why last night Jack had came up with a plan to trick his friend into getting fat looking at the brown paper bag under the bench Jack was brought out of his thoughts by Tom placing a hand on  his shoulder <br>\r\n<br>\r\n\"Are you ok Jack I been calling your name since I got out of the pool \"said Tom looking at his teammate and friend with a concerned look still dripping with water this almost made Jack feel bad about what he was about to do almost <br>\r\n<br>\r\n\"Yeah am fine was just having a daydream \" replied Jack with a fake laugh and quickly changed the subject \" I got us something to eat \" said Jack pulling out the brown paper bag from under the bench and taking out two burgers and a  two packs of fries Tom just looked at Jack confused <br>\r\n<br>\r\n\"You sure about that at not part of are diet the coaches will be really mad if they catch us eating that stuff plus we dont want get fat \" said Tom a little worried as he placed a hand on his six pack through he had to admit it had been a long time since he had burger and fries and they smelt really nice almost making Tom drool  a bit he quickly blushed a little for even thinking of eating them <br>\r\n<br>\r\n\"It fine their vegan completely healthy trust me you wont be able to tell the different taste just like the real thing \"lied Jack trying to hid his smirk he had actually gotten them from McDonald's and just placed the burgers and fries in a  plain brown paper bag Jack felt himself become nervous as he waited for Tom to make a  decision hoping that he didn't over sell how good the burger was. Tom looked to his friend and to burger and fries and decided to eat it after all why would Jack lie to him about them  being vegan Tom took the offered burger from Jack hand and quickly unwrapped it  and carefully took a  bite his eyes widened as he tasted it Jack was right this tasted just like the real thing Tom quickly took another bite <br>\r\n<br>\r\n\"Man your right this is amazing \"said Tom his mouth still full Jack just smiled and nodded to his friend happy that his plan was off to a great start as he only eat a couple of fries ten minutes later Tom had devoured his burger and fries while Jack still had his burger and most of his fries \" Aren't you going to eat yours ?\"asked Tom placing a  hand on his belly feeling full <br>\r\n<br>\r\n\"Nah am not hungry as I thought I was you can have it \"replied  Jack pushing the burger and fries over to Tom who quickly grabbed it and started to eat it hating letting food go to waste he quickly eat the burger and fries leaving Tom bloated his bloated belly going over his speedos <br>\r\n<br>\r\n\"At was so good wish I could eat that every day \"said Tom rubbing his bloated belly and licking a bit of sauces from  his fingers <br>\r\n<br>\r\n\"Why dont you they are healthy after all and I will make sure you can get them just come to me or text me when you want one \"said Jack happy imagining what Tom would look like when he was fat <br>\r\n<br>\r\n\"Am definitely going to do that \"said Tom smiling as he was already thinking about eating the burgers for his next meal <br>\r\n<br>\r\nA week later </span></div></div>",
+            "created":1606219920,
+            "id":2945195,
+            "title":"Tricked into getting fat by a jealous GB teammate "
+        },
+        "153533111221":{
+            "author_id":"cloakedzex",
+            "author_name":"Zex",
+            "choices":[
+                "Both of them were greeted by Dustin who also looked like he gained weight",
+                "Tom decided they should go to a resturant",
+                "Tom mentions that Jack has been looking a little pudgy",
+                "Tom grabs from of those \"vegan\" meals",
+                "Jack starts slipping weight gain supplements into Tom's food"
+            ],
+            "content":"<div class=\"\"><div> <span>A week had passed since Jack had decided to deceive his friend Tom into eating McDonald's making him think that it was actually vegan food. And he was now seeing the consequences in Tom trusting him. Tom's speedo looked like a second layer of skin as it hugged his thighs, any more weight added there and Jack was sure that they would rip off. Jack could also see that a small belly was now forming at Tom's midsection. He was surprised that Tom seemed to have added so much weight to his frame in such a short time time, it had only bee a week after all. He was wondering if Tom had been eating them religiously since he told them that it was vegan food. But then again wouldn't have Tom know that they weren't vegan if had been eating them religiously because of his added weight, Jack was in a bind of what was happening, the only conclusion that he could come to that Tom was oblivious to his weight gain. Nonetheless Jack decided to poke the bear. \"Hey those shorts looking kinda snug on you Tom\" Jack suggested.<br>\r\n<br>\r\nTom sighed, \"Yeah I know what you mean, I think they shrunk in the wash.\"<br>\r\n<br>\r\nThat decided it, Tom was oblivious to his weight gain. \"Yeah it looks like it, you have to be care with those washer settings, so they won't shrink. Jack said playing along<br>\r\n<br>\r\n\"Tell me about and its just not these shorts its also a lot of my regular clothes' to have been getting kind of snug.<br>\r\n<br>\r\n\"No way\" Jack said, doing everything he could to hide his sarcasm. <br>\r\n<br>\r\n\"Yeah, Dustin went out shopping today to make sure I have clothes to wear, what would I do without him\" Tom said.<br>\r\n<br>\r\nNow that Tom mentioned it, he wondered what Dustin thought of all of this, there was no way he was as clueless as Tom or he could be, Tom's small was just a small bump at this point, maybe some little sympathy weight he assumed would go away.  \"Yeah you're a lucky guy to have him\" Jack said. <br>\r\n<br>\r\nthe two divers got dressed back in their regular clothes as they made their way out of the changing room it was then...</span></div></div>",
+            "created":1606293240,
+            "id":2945669,
+            "title":"Tight Speedo"
+        },
+        "1535331112211":{
+            "author_id":"jken",
+            "author_name":"dfff",
+            "choices":[
+                "Tom even fatter",
+                "Tom mentions that Jack been looking a little tubby lately ",
+                "Tom and Dustin decided that Jack is to skinny and make a  plan to fatten him up "
+            ],
+            "content":"<div class=\"\"><div> <span>It was then that they were both greated by Dustin Jack instantly noticed that Dustin seemed to put on a little weight a tiny bit of his belly was highlighted by his t shirt and his jeans looked a little snug  by the clothes Dustin was wearing it was clear that Dustin hasn't noticed his own weight gain \"Hey \"Dustin \" greeted Jack before he was pulled into a hug by Dustin letting Jack be able to feel Dustin new soft belly be pressed against him <br>\r\n<br>\r\n\"Hello Jack \"said Dustin letting go off Jack and turing to give Tom a  quick peck on the lips \"I also got you your new clothes we will have to sort that washing machine out soon it even messing with my clothes \"said Dustin confirming Jack suspicion that Dustin didn't know about his own weight gain but this also made Jack wonder if Tom had noticed his husband weight gain or was oblivious to it just as Tom was to his own weight gain <br>\r\n<br>\r\n\"Thanks honey your a live saver \"said Tom as all three made their way outside Jack made sure Dustin was a few feet a head of them before turning to his friend <br>\r\n<br>\r\n\"Is it just me or as Dustin put on a few?\"asked Jack acting unsure of course he had noticed Dustin weight but he didn't want to make himself sound suspicious or for Tom to find out what he been doing <br>\r\n<br>\r\n\"Yeah I guess so I been feeling so hungry lately and Dustin been cooking for me which as to him gaining a bit of weight since he eats with me through unlike him I burn it of during training and exercise \"replied Tom lifting up his shirt still thinking he had a six pack when in fact he a small belly. Jack just nodded in understanding before they reached Dustin and Tom but before they could go their separate ways Dustin suddenly turned  around to face them <br>\r\n<br>\r\n\"Jack why dont you come over for dinner I always end up making way to much for me and Tom to mange on are own \"said Dustin with a warm smile <br>\r\n<br>\r\n\"Sure \"said Jack instantly wanting to see what Dustin and Tom were actually eating later on Tom went to try on the new clothes Dustin had gotten him Jack took this opportunity to ask Duran about Tom weight gain \"Have you noticed at Tom putting on a little weight?\"asked Jack wanting to see Dustin reaction <br>\r\n<br>\r\n\"Oh yes but am pretty sure he just bulking and will and will work it off a eventually \" replied Dustin as he went to make dinner Jack smiled to himself that his plan for Tom was working Dustin getting fat as well is just a side effect.  An hour later all three sat down around the dining room table Tom in much looser clothes than before seeing the food in front of Jack could understand why the two were getting fat there was a large plate of frues and steak covered in gravy a bowl of soup and  home made sundaes Jack managed to eat half of it before he started to feel full as he looked over both Tom and Dustin were still going eating until all their plates were clean and rubbing their bloated beiles <br>\r\n<br>\r\n\"I better be off \"said Jack saying good by to his friends and leaving rubbing his own stomach<br>\r\n<br>\r\nWhen next training day came </span></div></div>",
+            "created":1606331460,
+            "id":2945881,
+            "title":"Both of them were greeted by Dustin who also lo..."
+        },
+        "15353311122112":{
+            "author_id":"cloakedzex",
+            "author_name":"Zex",
+            "choices":[
+                "A few weeks later",
+                "Switch to Tom's point of view",
+                "Dustin takes Tom out to an expansive resturant",
+                "Jack decides its time to speed up the gaining process",
+                "Both Jack and Tom get scolded for their current weight gain"
+            ],
+            "content":"<div class=\"\"><div> <span>Jack and Tom yet again encountered each other back in the locker room, this time getting ready for practice. Jack could see that Tom had a new speedo, probably bought by Dustin to make sure that Tom had no embarrassing accidents when his old ones would burst due to his now slightly puffier form. He couldn't believe that both Tom and Dustin had been gaining weight and there seemed to be no alarm between the two of them, they both just seemed to be ignorant of their own and had casual opinions about their significant other's weight gain. But if this continued  it wouldn't be long till Tom's weight began to affect his performance, and Jack wasn't sure what was going to happen with Tom when that happened. But Jack soon pushed that thought out of his head, he was here to practice and sow his coach how he wasn't a lazy ass like Tom was.<br>\r\n<br>\r\nJack slid on his speedo, but noticing some resistance it came up to his thighs. Jack was surprised it usually didn't get snug like this, maybe it had shrunk in the wash or something but he wasn't sure.<br>\r\n<br>\r\n\"looks like someone's been porking out\" Tom teased, noticing his friend struggling to put on his speedo. <br>\r\n<br>\r\nJack gave him an annoyed glare.<br>\r\n<br>\r\n\"What its the truth I'm afraid\" There was no hint of malice in Tom's voice as he said it. To him he was just playfully messing around with his friend and rival on the diving team. But to Jack this was personal after all he went ahead trying to encourage Tom to gain weight so Jack could finally get the spotlight on the team he deserved and everything seemed to be going into motion, and to have Tom declare that Jack was gaining weight, well it have Jack a twinge of annoyance. <br>\r\n<br>\r\n\"Yeah right\" Most likely shrank in the wash, you know like yours\" Jack said.<br>\r\n<br>\r\nTom shrugged \"I dunno, you got a little belly poking out there Jack.\"<br>\r\n<br>\r\nJack instinctively ran his hands on his midsection. He could feel his belly poking out and a tad of softness where it used to be . \"Damn it\" he thought to himself. \"Just how the hell did this....\" Then it hit him. He had been hanging out with Tom way too much. After all he had been making sure to Tom had been eating more rich and fattening food, and when Jack was with Tom he did eat a little more than he should, not to mention Dustin's cooking that he had last night. \"Well its hard to stay in top shape, when I'm always around you, you're like a black hole, you never stop eating sometimes\".<br>\r\n<br>\r\n\"What no way\" Tom retorted.<br>\r\n<br>\r\n\"Yeah, I saw that spread you and Dustin ate yesterday, if I continuing hanging out with the two of you I'm going to get fat I just know it\"<br>\r\n<br>\r\n\"Well I guess you just don't train as hard as me\" Tom said getting cocky.<br>\r\n<br>\r\nJack was annoyed by the jab that Tom had hit him with, but then his irritation turned into deviousness, after all, he was going to enjoy fattening Tom. </span></div></div>",
+            "created":1606376280,
+            "id":2946202,
+            "title":"Weight by Assoication"
+        },
+        "153533111221121":{
+            "author_id":"jken",
+            "author_name":"dfff",
+            "choices":[
+                "Dustin show up to take them to an all you can eat buffet",
+                "The coach comes to scold them about their  weight gain ",
+                "Tom struggling to fit into his normal clothes"
+            ],
+            "content":"<div class=\"\"><div> <span>Two weeks  had passed since Tom had mentioned at Jack was getting fat currently Jack was getting changed for practice he was trying to get his speedoup past his slightly thicker tighs finally managing to get them up feeling skin tight sighing Jack looked at himself in the mirror looking  at his new bigger  belly he had gained a bit more weight he had tried to workout to get rid of the weight but thanks to being around Tom making sure Tom was eating and Dustin inviting him over for dinner almost every day plus he was always hungry after practice and after what little workouts he managed to do just as he finshed looking himself over Tom walked over to him \"Might want to stay back after practice for a while  to work off that belly \"joked Tom poking Jack in the belly <br>\r\n<br>\r\n\"Am just a little bloated from breakfast and it doesn't help that I am around you so much with how much you eat \" said Jack glaring at his friend Tom had gotten even bigger over the last two weeks it was clear that Dustin had replaced his speedo once again and even at was starting to look snug and his belly poking out over it and his tighs looking fuller<br>\r\n<br>\r\n\"Hey I don't eat that much and your just jealous I still got abs unlike you tubby \"said Tom putting a hand on his belly still thinking he had a six pack Jack snorted at the fact Tom thought he had a six pack and the lie that he didn't eat that much Jack himself couldn't eat half of what Tom could Tom was like a black hole consuming every bit of food that was placed in front of him. Through Jack was wanting to give a come back about how fat Tom was getting he was wanting to keep Tom in deinal about his weight as long as possible until Tom was to fat to perform Jack himself was confident he could lose the weight he had put from being around Tom and then he could be the star  of the team <br>\r\n<br>\r\n\"Whatever we better start practicing \"said Jack looking at himself one more time in the mirror <br>\r\n<br>\r\n\"Cool try to keep up with me and you a probably going to make a bigger splash than before \" joked Tom in a teasing way give Jack belly one more poke before heading out to the pool Jack just shook his head and followed his fatter friend <br>\r\n<br>\r\nAfter practice </span></div></div>",
+            "created":1606413420,
+            "id":2946425,
+            "title":"A few weeks later"
+        },
+        "1535331112211211":{
+            "author_id":"cloakedzex",
+            "author_name":"Zex",
+            "choices":[
+                "Tom starts feeding Dustin",
+                "Tom mentions he thinks he's going to retire early",
+                "Jack wonders if he wants to get fatter",
+                "Dustin and Tom let Jack crash at their place",
+                "Jack encourages the couple to eat more"
+            ],
+            "content":"<div class=\"\"><div> <span>The two divers were exhausted after practice as they changed back into their civilian clothes after they had showered. The two of them then left the changing room idlily chatting as Jack had forgotten Tom poking fun of his weight gain when they were getting ready for practice. As they left the building Dustin was here yet again to pick up his lover Tom, The two of them briefly embraced each other before exchanging a pecks on each other's cheeks and smiling at each other as their eyes were locked on the other. <br>\r\n<br>\r\nJack spied that Dustin too had been gaining weight, it was no question since he was Tom's husband. Dustin's belly pooled in his lap, without a rigorous training exercise like he and Tom had, it was easier for Dustin to put on weight. Though Jack wasn't sure if was bigger than his lover.<br>\r\n<br>\r\n\"You know what, why don't we go out to a buffet today?\" Dustin suggested. <br>\r\n<br>\r\n\"Seriously?!' Tom said excited.<br>\r\n<br>\r\nDustin smiled. \"Of course\"<br>\r\n<br>\r\nIt had been sometime since Tom had been to a buffet given with his intensive training and strict diet, but he believed that one day at the buffet wouldn't hurt too much, after all, at least in his mind he had been doing a good job at keeping his figure. <br>\r\n<br>\r\nDustin looked over to Jack, \"Would you like to join us, if you aren't too busy?\" Dustin asked him.<br>\r\n<br>\r\n\"Sure...\" Jack said, he was a little wary because he knew that he had been gaining weight and now he needed to watch what he ate but seeing Tom pig out was too good to turn down.<br>\r\n<br>\r\nDustin smiled. \"Excellent just follow me to the car then, as all three of them headed to the family car. <br>\r\n<br>\r\n<br>\r\n***<br>\r\n<br>\r\nThe three of them made there way to their seats, Tom and Dustin balancing all the food they had put on their plates. Jack was amazed just how much they had fit, and it was all fried stuff, crab rangoon, french fries, mozzarella sticks, chicken tenders, and more. Just looking at it all made Jack's stomach growly as he looked at his measly plate, in his effort to not gain anymore weight, but he felt out done by the two of them. <br>\r\n<br>\r\n\"Come on Jack that's all your eating?\" Tom asked as he sat down and took a bite of one of the chicken tenders. <br>\r\n<br>\r\nJack raised his eyebrow annoyed with Tom saying how he had been teasing him about his weight gain earlier and now goading him into eating more. \"If I recall correctly, weren't you saying I was looking chubby not to long ago\" Jack retorted with.<br>\r\n<br>\r\nTom chuckled, \"Oh come on, you're still on about that? I was just teasing, its just one day.\"<br>\r\n<br>\r\nJack rolled his eyes. \"Fine\"<br>\r\n<br>\r\n\"We aren't trying to force you, we just want you to have a good time as well\" Dustin said after he swallowed the tender he was eating. <br>\r\n<br>\r\nJack appreciated how nice the two of them were being to him, maybe just for today he would let himself go, just this once, after all it was only one night.  Jack went back to the buffet table and loaded his tray up just how Dustin and Tom had and made his way back dug into his meal. The three of them ate without a care in the world.</span></div></div>",
+            "created":1606450260,
+            "id":2946656,
+            "title":"Three Way Buffet"
+        },
+        "15353311122112114":{
+            "author_id":"jken",
+            "author_name":"dfff",
+            "choices":[
+                "The next morning Jack is greeted by a large breakfast ",
+                "A few weeks later the media start commenting on Tom and Jack growing waistlines ",
+                "At practice the coach scolds them for being fat ",
+                "Change to Dustin point of view ",
+                "Writer choice"
+            ],
+            "content":"<div class=\"\"><div> <span>Jack leaned back against his chair rubbing his bloated belly he pulled out his phone to look at the time and was shocked to see the time the three of them had been eating for the last two hours he had managed to eat three  over filled plates in that span of time while Tom and Dustin had managed to eat four plates full of food looking over Jack saw that Tom and Dustin where also bloated and rubbing their own beiles Tom had even had to unbuttoned his jeans to give his belly more room \"I can't believe you guys let me eat that much \"groaned Jack rubbing his belly and feeling a little disappointed with himself as he rubbed his stuffed belly <br>\r\n<br>\r\n\"Relax man it fine we didn't eat that much and we can burn it off in training \"replied Tom seeming to be obvious to how much he had actually eaten Dustin seemed to be just as clueless about how much they had eaten as well <br>\r\n<br>\r\n\"Well we should probably leave now it looks like they are about to close up \"said Jack getting feeling the weight of his bloated belly with all the food packed inside of it Tom and Dustin both got up as well placing a hand on their own bloated beiles rubbing them <br>\r\n<br>\r\n\"Jack why dont you crash at are place tonight since it pretty late and we live a lot closer suggested Dustin Jack took a few seconds to consider it he was feeling pretty tried  and he didn't think he could make it home without falling sleep thanks to his bloated belly  <br>\r\n<br>\r\n\"Sure \"said Jack as they quickly left the building and to Tom and Dustin car once in the car Jack felt great discomfort as he felt the seatbelt press against his belly and from the look of Tom and Dustin faces they were feeling the discomfort as well when they arrived at Tom and Dustin home  Tom and Dustin quickly got changed into their Pyjamas which Jack noticed where looking pretty tight after awhile of watching tv together they said good night to each while Tom and Dustin went to their rooms while Jack went to crash in the guest room. Later that night Jack was woken up by a sound he quickly check his phone to see it was midnight getting out of bed and heading to the kitchen where the noise was coming from he found Tom and Dustin there eating junk food \"What are you guys doing?\"asked Jack rising an eyebrow at the fact they where eating after having such a large meal the the all you can eat place through Jack didn't mention it since he wanted Tom to get fat <br>\r\n<br>\r\n\"Having a midnight snack \"replied Tom taking a bite out of a cookie \"come and join us \"said Tom smiling at his friend before returning to his cookie <br>\r\n<br>\r\n\"Nah am fine \"said Jack not wanting to eat anymore food and get even fatter through the junk food did look good  <br>\r\n<br>\r\n\"Oh come on a join us \"said Tom seeing as Jack was going to refuse again Dustin quickly grabbed a cookie and shoved it in to Jack opened mouth cutting off whatever he was going to say having no choice Jack bite the cookie and swallowing it before taking the rest of the cookie out of his mouth <br>\r\n<br>\r\n\"Tom you can't do that if he doesn't want  to eat he doesn't have to \" said Dustin scolding his husband Tom just shrugged and gave a cheeky smile  Jack had to admit the cookie did taste amazing <br>\r\n<br>\r\n\"I guess I can have a bit since I already took a bite out of one the cookies \"said Jack giving in and joining them they spent the next half hour eating before heading back to their beds<br>\r\n</span></div></div>",
+            "created":1606514700,
+            "id":2947009,
+            "title":"Dustin and Tom let Jack crash at their place"
+        }
+    },
+    "info":{
+        "author_id":"jken",
+        "author_name":"dfff",
+        "brief_description":"sport  stars gain weight by anyway you want ",
+        "created":1605976140,
+        "description":"<td align=\"left\" class=\"norm\">sport  stars gain weight by anyway you want and anything is allowed </td>",
+        "id":2238186,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":null,
+        "modified":1606514700,
+        "pretty_title":"sport  stars weight gain"
+    }
+}

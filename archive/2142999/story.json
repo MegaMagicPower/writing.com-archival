@@ -7022,7 +7022,7 @@
                 "Nope."
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Amy get help from Bernadette, though?</span></div></span></div>",
-            "created":1603560060,
+            "created":1603515600,
             "id":2928065,
             "title":"Yeah"
         },
@@ -7071,7 +7071,7 @@
                 "Bernadette"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who else has the idea for Priya to babysit Penny?</span></div></span></div>",
-            "created":1603557780,
+            "created":1603515600,
             "id":2928045,
             "title":"Someone else's."
         },
@@ -7083,7 +7083,7 @@
                 "Some other reason."
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She feels this could help them get along?</span></div></span></div>",
-            "created":1603558020,
+            "created":1603515600,
             "id":2928048,
             "title":"Amy"
         },
@@ -7107,7 +7107,7 @@
                 "Someone Else"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Missy agrees to babysit Penny after hearing how she acts like a baby, but who told her how Penny acts?</span></div></span></div>",
-            "created":1603557900,
+            "created":1603515600,
             "id":2928047,
             "title":"RC 1"
         },
@@ -7119,7 +7119,7 @@
                 "Nah."
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Would Amy and Bernadette help her watch Penny?</span></div></span></div>",
-            "created":1603558140,
+            "created":1603515600,
             "id":2928049,
             "title":"Sheldon"
         },
@@ -7253,7 +7253,7 @@
                 "Someone else"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Stacey from the 2020 babysitters club babysit Penny?</span></div></span></div>",
-            "created":1603562460,
+            "created":1603515600,
             "id":2928079,
             "title":"No, Someone Else"
         },
@@ -7265,7 +7265,7 @@
                 "Reader's Choice 2"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Why would Stacey from the 2020 Babysitters Club be babysitting Penny?</span></div></span></div>",
-            "created":1603562640,
+            "created":1603515600,
             "id":2928082,
             "title":"Yeah"
         },
@@ -7277,7 +7277,7 @@
                 "Hmm, some other reason."
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She was staying in California for a vacation, and thought this would be an interesting experience.</span></div></span></div>",
-            "created":1603562760,
+            "created":1603515600,
             "id":2928084,
             "title":"Reader's Choice 1"
         },
@@ -7313,7 +7313,7 @@
                 "Reader's Choice 2"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What were the rules Stacey was given for babysitting Penny?</span></div></span></div>",
-            "created":1603575960,
+            "created":1603515600,
             "id":2928286,
             "title":"Yeah."
         },
@@ -7325,7 +7325,7 @@
                 "Nah, dressing time, or SE"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>1: She would have to act like a baby as long as Stacey was in charge of her. 2: She'd have to be punished is she misbehaved. Any more rules?</span></div></span></div>",
-            "created":1603576200,
+            "created":1603515600,
             "id":2928290,
             "title":"Reader's Choice 1"
         },
@@ -7337,7 +7337,7 @@
                 "No, Something Else"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was it dressing time?</span></div></span></div>",
-            "created":1603576500,
+            "created":1603515600,
             "id":2928293,
             "title":"Nah, dressing time, or SE"
         },
@@ -7349,9 +7349,33 @@
                 "Stacey offered to try."
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Bernadette dress Penny in her baby outfit?</span></div></span></div>",
-            "created":1603576560,
+            "created":1603515600,
             "id":2928295,
             "title":"Yes"
+        },
+        "11533223212332111111212":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "A Onesie",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Stacey wanted to try and dress her knew charge, but what did she have to get Penny dressed in?</span></div></span></div>",
+            "created":1603602000,
+            "id":2928605,
+            "title":"Stacey offered to try."
+        },
+        "115332232123321111112121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Struggled."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Penny stay still, noting how gentle Stacey was being with her?</span></div></span></div>",
+            "created":1603602000,
+            "id":2928614,
+            "title":"A Onesie"
         },
         "115332232123322":{
             "author_id":"jd88237",
@@ -7361,7 +7385,7 @@
                 "Reader's Choice 2"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Why would Sam and Cat be babysitting Penny?</span></div></span></div>",
-            "created":1603562760,
+            "created":1603515600,
             "id":2928083,
             "title":"Sam and Cat(from Sam and Cat)"
         },
@@ -7373,7 +7397,7 @@
                 "Something else."
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Both were hired by either Amy or Bernadette?</span></div></span></div>",
-            "created":1603562820,
+            "created":1603515600,
             "id":2928085,
             "title":"Reader's Choice 1"
         },
@@ -7473,7 +7497,7 @@
                 "SE"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Sam and Cat arrived. First, Bernadette took them through rules she'd come up with?</span></div></span></div>",
-            "created":1603568340,
+            "created":1603515600,
             "id":2928203,
             "title":"The door bell rings signaling Sam and Cat have ..."
         },
@@ -7486,7 +7510,7 @@
                 "Readers choice 3"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The rules in question were?</span></div></span></div>",
-            "created":1603568520,
+            "created":1603515600,
             "id":2928205,
             "title":"Yeah."
         },
@@ -7498,7 +7522,7 @@
                 "RC 2"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>1: Penny could talk like herself if she wanted, but otherwise, had to act like a baby.<br>\r\n2: She'd have to be punished if she misbehaved. Other rules were...</span></div></span></div>",
-            "created":1603568640,
+            "created":1603515600,
             "id":2928208,
             "title":"Readers choice 1"
         },
@@ -7524,7 +7548,7 @@
                 "Anyone else."
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>For Home Economics, she was a baby, and her parent was...</span></div></span></div>",
-            "created":1603555260,
+            "created":1603515600,
             "id":2928029,
             "title":"Class assignment."
         },
@@ -7536,7 +7560,7 @@
                 "Hmm, other ideas."
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Hmm. Does she miss being a baby?</span></div></span></div>",
-            "created":1603555200,
+            "created":1603515600,
             "id":2928027,
             "title":"Any other reasons."
         },
@@ -8795,7 +8819,7 @@
                 "Hmm, anything else."
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>More ways Penny helps. Putting her down for a nap?</span></div></span></div>",
-            "created":1603288260,
+            "created":1603256400,
             "id":2926194,
             "title":"something else"
         },
@@ -8861,6 +8885,30 @@
             "created":1599714000,
             "id":2900753,
             "title":"Penny"
+        },
+        "1253322321123":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Yep",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Penny enroll Bernadette into pre-school?</span></div></span></div>",
+            "created":1605031740,
+            "id":2937954,
+            "title":"SE"
+        },
+        "12533223211231":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Anything else that happened."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Bernadette soon found she wasn't alone, that others had been adopted and were being re-raised?</span></div></span></div>",
+            "created":1605032100,
+            "id":2937956,
+            "title":"Yep"
         },
         "12533223212":{
             "author_id":"kameron94",
@@ -8931,7 +8979,7 @@
                 "Any other reasons."
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Hmmm. Ends up having a babysitter?</span></div></span></div>",
-            "created":1603570380,
+            "created":1603515600,
             "id":2928241,
             "title":"Any other reasons."
         },
@@ -8944,7 +8992,7 @@
                 "Someone else"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who babysits Bernadette?</span></div></span></div>",
-            "created":1603571520,
+            "created":1603515600,
             "id":2928254,
             "title":"Sure."
         },
@@ -8956,7 +9004,7 @@
                 "She didn't mind at all, or SE"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was Bernadette furious over the idea of Penny babysitting her?</span></div></span></div>",
-            "created":1603571640,
+            "created":1603515600,
             "id":2928256,
             "title":"Penny"
         },
@@ -8968,7 +9016,7 @@
                 "Nah."
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Penny offer to help with her?</span></div></span></div>",
-            "created":1603572180,
+            "created":1603515600,
             "id":2928258,
             "title":"Amy"
         },
@@ -19137,7 +19185,7 @@
                 "Something Else"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The three end up getting into a fight and Mary decided if they were going to act like babies she would treat them like babies, but what causes the fight?</span></div></span></div>",
-            "created":1603575780,
+            "created":1603515600,
             "id":2928280,
             "title":"RC 1"
         },
@@ -19150,7 +19198,7 @@
                 "Anything else."
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>All three fought over who called shotgun. Penny won, but Mary was appalled at their behavior. Did she pick up baby supplies for all 3 on the way to her house?</span></div></span></div>",
-            "created":1603576080,
+            "created":1603515600,
             "id":2928289,
             "title":"They fight over who is going to sit in the fron..."
         },
@@ -19162,7 +19210,7 @@
                 "No"
             ],
             "content":"<div class=\"\"><div> <span>As they were headed back to Mary's Mary announced she needed to stop at the store and pick up a few things. What she didn't tell them was what she was picking up was baby supplies she was going to use on them.<br>\r\n<br>\r\nDo the three go into the store with Mary?</span></div></div>",
-            "created":1603576320,
+            "created":1603515600,
             "id":2928291,
             "title":"Yeah."
         },
@@ -19174,9 +19222,485 @@
                 "Got them to help her set things up, or anything else."
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>They stayed in the car, keeping cool as she got what she neded.<br>\r\nOn getting to the house. did Mary lay down the law?</span></div></span></div>",
-            "created":1603576500,
+            "created":1603515600,
             "id":2928294,
             "title":"No"
+        },
+        "14533333322233111122":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No, Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Mary get them to help set things up?</span></div></span></div>",
+            "created":1603602000,
+            "id":2928607,
+            "title":"Got them to help her set things up, or anything..."
+        },
+        "145333333222331111221":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Amy.",
+                "Penny.",
+                "Bernadette."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She managed to get them to help her set up the supplies, claiming they were for kids she was watching. Soon, she made her first move, against...</span></div></span></div>",
+            "created":1603602000,
+            "id":2928610,
+            "title":"Yes"
+        },
+        "1453333332223311112211":{
+            "author_id":"themaster223",
+            "author_name":"MASTER234",
+            "choices":[
+                "She put Amy in the crib",
+                "She took Amy back to the living room",
+                "Penny and Bernadette talked in the living room",
+                "Mary fed her",
+                "SE"
+            ],
+            "content":"<div class=\"\"><div> <span>Penny, Amy and Bernadette all sat in the living room, Mary figure this would be her next move, she wlked up and said, 'Amy dear, you seem to be messy, you can take a bath'<br>\r\n<br>\r\nAmy thought tjis was weird, but agree so she stood up and walked to the bathroom, mary left the girls with more wine and followed. They enter the bathroom with the tub already filled with warm water and bath toys. Mary started to strip Amy of her clothes, Amy thought to argue but it feels nice, soon Mary had her nude like a newborn baby.<br>\r\n<br>\r\nAmy step into the tu  and sat in the warm water. 'Thanks i can take it from here' said Amy<br>\r\n<br>\r\n'Nonsense, ill clean you up' mary knealt down and started to bathe her. Amy shrugged, feeling an odd comfort from this, so she let the older woman wash her. The bath felt so relaxing, with Mary humming a tune for her. Soon Amy found herself out of the tub, the towel around her as Mary led her towards the nursery that they set up for the kids.<br>\r\n<br>\r\nWhen they entered the nursery, Mary led her to the change table, where she pick her jp and laid Amy on the soft surface. Amy found herself staring up at the cealing, her legs held high and the towel on the ground as Mary started applying baby powder to her private area.<br>\r\n<br>\r\n'There we go' said Mary<br>\r\n<br>\r\nAmy sat up on tne table, her legs over the edge as she look down to the thickest adult diaper she has ever seen. Amy tried to process this but a line of drool started dripping from her lips. Mary picked her up and held her on her hip. 'Ok, now Baby Amy has her diaper on' said Mary<br>\r\n<br>\r\nThen.....</span></div></div>",
+            "created":1603947600,
+            "id":2931517,
+            "title":"Amy."
+        },
+        "14533333322233111122111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "A lullaby playing.",
+                "Mary rocking her in her arms.",
+                "By something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Amy was soon placed into a crib.<br>\r\n\"Mary, mind telling me what's-\" Amy began, confused, but was stopped by...</span></div></span></div>",
+            "created":1603947600,
+            "id":2931518,
+            "title":"She put Amy in the crib"
+        },
+        "145333333222331111221111":{
+            "author_id":"themaster223",
+            "author_name":"MASTER234",
+            "choices":[
+                "Go to Bernadette",
+                "Stay with Penny",
+                "Penny could hear crying",
+                "Bernadette finished on the phone",
+                "SE"
+            ],
+            "content":"<div class=\"\"><div> <span>'Hush little one' said Mary turning on the mobile, which began plying a lullaby.<br>\r\n<br>\r\nAmy was about to argue but the sound of the soff lullaby is making her sleepy. Mary place a pacifier in her lips and turn down the lights. Amy suckle the paci as she turn on her side, closing her eyes as the sounds of the lullaby and the crinkle from her diaper filled the room.<br>\r\n<br>\r\nWith her sound asleep Mary left and walked back to tbe living room. Penny was watching tv, 'hey wheres Amy?' She asked<br>\r\n<br>\r\n'She is asleep' said Mary, 'what happen to Bernadette?'<br>\r\n<br>\r\n'She talking to Howard in the kitchen' said Penny pointing to the kitchen where Bernadette was on the phone, trying to explain how to take care of two babies. <br>\r\n<br>\r\n'Seriously, how hard is it to take care of a couple of babies?' Said Bernadette<br>\r\n<br>\r\nMary giggled, she decided to.....</span></div></div>",
+            "created":1603947600,
+            "id":2931522,
+            "title":"A lullaby playing."
+        },
+        "1453333332223311112211112":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Feed her like one.",
+                "Anything else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How did Mary begin to baby Penny?</span></div></span></div>",
+            "created":1603947600,
+            "id":2931528,
+            "title":"Stay with Penny"
+        },
+        "1453333332223311112211114":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "A sleeping pill.",
+                "Chloroform.",
+                "Anything else."
+            ],
+            "content":"<div class=\"\"><div> <span>Bernadette came back in.<br>\r\n\"Ugh, Howard's overwhelmed.\"<br>\r\n\"He'll manage.\" Mary told her.<br>\r\n\"You think so?\"<br>\r\n\"Of course, sweetie. You must feel thirsty after that long drive.<br>\r\nBernadette was soon in the kitchen, having tea. Mary had put what in it, though?</span></div></div>",
+            "created":1603947600,
+            "id":2931527,
+            "title":"Bernadette finished on the phone"
+        },
+        "14533333322233111122111143":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Laxatives",
+                "Muscle relaxers",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What else could Mary have put in Bernadettes tea?</span></div></span></div>",
+            "created":1603947600,
+            "id":2931529,
+            "title":"Anything else."
+        },
+        "145333333222331111221111432":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "The nursery to change her into her new clothes."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Bernadette soon felt strange, as the pills took effect. Soon, Mary gently had her on her hip, and was taking her to the bathroom to bathe her?</span></div></span></div>",
+            "created":1603947600,
+            "id":2931532,
+            "title":"Muscle relaxers"
+        },
+        "145333333222331111221111433":{
+            "author_id":"themaster223",
+            "author_name":"MASTER234",
+            "choices":[
+                "Play with pots and pans",
+                "Crawled to the living room",
+                "Penny spots Mary leaving the kitchen",
+                "Amy woke up in her crib",
+                "SE"
+            ],
+            "content":"<div class=\"\"><div> <span>Mary and Bernadette sat in the kitchen table, Penny was still on the couch drinking the wine bottle. 'You must be so tired taking care of two wonderful babies' said Mary. <br>\r\n<br>\r\n'You bave no idea, or maybe you do with three kids' said Bernadette, 'i am quite thirsty though'<br>\r\n<br>\r\nMary smile, she motion Bernadette closer then took the small o to her lap, before she could argue Mary had a breast out, 'drink up little one' she said<br>\r\n<br>\r\n'What the hell are you' before Bernadette couod finish Mary force her lips onto the nipple. Bernadette got a taste of the warm milk, then started to suckle. Mary cooed and nursed her, rocking her and patting her back while she drink. Soon Mary took her off then drape her over her shoulder, giving her back a few pats. Bernadette let out a big burp. 'Good girl' said Mary, then she sniffed. Pulling up Bernadettes dress she spots her messy panties. 'Looks like someone needs a change' lucky she has some changing supplies in the kitchen<br>\r\n<br>\r\nShe laid Bernadette on the ground then remove her clothes. Bernadette was now laying on tje cold floor, naked and kicking while Mary cleaned up her butt. Bernadette heard the crinkle and the aroma of baby powder as Mary tapee her up. 'You are so adorable' said Mary.<br>\r\n<br>\r\nBernadette sat up, drool and bits of milk running down her chin as she sat on ner giant padded rear. Mary took her clothes and messy panties and left the kitchen leaving her alone.<br>\r\n<br>\r\nBernadette drooled as she....</span></div></div>",
+            "created":1603947600,
+            "id":2931530,
+            "title":"Something else"
+        },
+        "1453333332223311112211114331":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Caused Penny to enter.",
+                "Woke up Amy."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Spotting several pots and pans, she soon had the strong urge to play with them, to bang them together. Soon, the urge was too great. The noise...</span></div></span></div>",
+            "created":1603947600,
+            "id":2931535,
+            "title":"Play with pots and pans"
+        },
+        "14533333322233111122111143312":{
+            "author_id":"themaster223",
+            "author_name":"MASTER234",
+            "choices":[
+                "Go to the kitchen",
+                "Go to the nursery",
+                "Mary came back"
+            ],
+            "content":"<div class=\"\"><div> <span>Bernadette sat as she bang the pots and pans, Penny cpuld hear the noise from the living room,'what are they doing in their?' She sigh, not caring enough to go and look.<br>\r\n<br>\r\nBut the noise was loud. Amy toss and turn in her crib, sobbing and chewing her pacifier, soon she sat up, pacifier falling out of her soaked lips and she started to cry. Her wail louder then the banging.<br>\r\n<br>\r\nPenny sat up, 'god somebody shut the baby up!' She said, then realized, there isnt a baby here. She look to the source of the loud banging to the crying from the nursery. She got up and.....</span></div></div>",
+            "created":1603947600,
+            "id":2931541,
+            "title":"Woke up Amy."
+        },
+        "145333333222331111221111433122":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Tried to calm her down, asking what was going on.",
+                "Amy managed to play the lullaby, or put the paci in Penny's mouth.",
+                "Mary found them, or something else happened."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Penny soon fuond the nursery. Seeing Amy in the crib, she...</span></div></span></div>",
+            "created":1603947600,
+            "id":2931543,
+            "title":"Go to the nursery"
+        },
+        "1453333332223311112211114331221":{
+            "author_id":"themaster223",
+            "author_name":"MASTER234",
+            "choices":[
+                "Mary caught her",
+                "Amy wants a change now",
+                "Penny tried to snap her out of it",
+                "Amy put a pacifier in her mouth"
+            ],
+            "content":"<div class=\"\"><div> <span>'Amy what are you doing?' Aske Penny going to crib<br>\r\n<br>\r\nBut Amy continued to cry, tears and drool running down to her breasts, Penny try not to look, especially to the adult diaper she is wearing, and pull down the bars, 'its ok' she cooed, 'dont cry' Amy hug her, Penny hug back and rock her, feeling the drool on her shlulder. 'Ewwww, there there' she pat her bare back, Amy calm down.<br>\r\n<br>\r\n'Good, now take off the diaper...' before Penny could finish, Amy let out a big sigh. Then she noticed a foul smell. 'Ewwww did you crap yourself?' Said Penny shocked. She reach down and pull back her diaper. 'Ewwwwwww' Penny said again pushing Amy off. Amy lean back on the bars and drooled, Penny could see she is either drunk or got stupid, maybe Bernadette can change her.<br>\r\n<br>\r\nBut as she turn....</span></div></div>",
+            "created":1603947600,
+            "id":2931548,
+            "title":"Tried to calm her down, asking what was going on."
+        },
+        "14533333322233111122111143312212":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Bernadette did, or anything else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>'No, now!.' Amy yelled.<br>\r\n\"Okay, okay, relax.\"<br>\r\nSoon, she found what she was looking for, and began. Did Mary enter, then?</span></div></span></div>",
+            "created":1603947600,
+            "id":2931553,
+            "title":"Amy wants a change now"
+        },
+        "145333333222331111221111433122121":{
+            "author_id":"themaster223",
+            "author_name":"MASTER234",
+            "choices":[
+                "Mary smell another dirty diaper",
+                "Penny leave to find Bernadette",
+                "It was Penny's nap time",
+                "SE"
+            ],
+            "content":"<div class=\"\"><div> <span>Penny picked up her friend, and manage to lay her on the change table, Amy lift up her legs and suck her thumb, Penny nearly gag, 'ok, time to change my friends diaper, my supposely smart friend' said Penny<br>\r\n<br>\r\nBut she just stared at the tabs, unable to figure put how they work, maybe Bernadette knows how to do this, she is the mother, unaware that she is still banging the pots in the kitchen.<br>\r\n<br>\r\nThen Mary entered the room, 'there you are, I see you are helping your sister' she said going over to them, 'allow me Penny' she said movong Penny away then turning to change Amy.<br>\r\n<br>\r\nPenny watch her, amazed at how she is very good at changeing a huge diaper. Soon Amy was on Marys arms, a fresh diaper and a big drooly smile as Mary took her to the crib. Then.....</span></div></div>",
+            "created":1604032260,
+            "id":2931560,
+            "title":"Yeah."
+        },
+        "1453333332223311112211114331221213":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Another lullaby came on.",
+                "Something else that had her asleep."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\"Sister? Mary, what-\" Penny started to say, but...</span></div></span></div>",
+            "created":1604032560,
+            "id":2931563,
+            "title":"It was Penny's nap time"
+        },
+        "14533333322233111122111143312212131":{
+            "author_id":"themaster223",
+            "author_name":"MASTER234",
+            "choices":[
+                "They woke up the next morning",
+                "Penny climb out of the crib",
+                "Mary came in during the night to check thier diapers",
+                "SE"
+            ],
+            "content":"<div class=\"\"><div> <span>Penny was about to leave when the lullaby came on, suddenly her head feels fuzzy as Mary came to her, 'now lets get you ready for bed'<br>\r\n<br>\r\nPenny found herself laying on the change table, Mary taking off her pants, 'shes turning me into a baby' penny sobbed, she turn her head to tje door, 'bernadette help!' She called out, hoping her friend will help. But Bernadette soon crawled into the nursery, nude and diapered just like Amy, with a wooden spoon in her mouth as she drooled over it.<br>\r\n<br>\r\nMary then remove her cute top, Penny laid helpless as she was soon naked, legs in the air and getting her ass powdered. Mary then got her taped up i  a very thick diaper, thicker then Amys or Bernadettes. Mary put her in the crib, Amy drooling next to her as soon Bernadette was laid on her other side.<br>\r\n<br>\r\n'Sleep tight girls' said Mary pulling up the bars, then she close the lights and left the room<br>\r\n<br>\r\nPenny laid there, being cuddle by her friends as the drooled on her shoulders, Penny whimpered as she close her eyes, hoping this was all a dream<br>\r\n<br>\r\nThen....</span></div></div>",
+            "created":1604033040,
+            "id":2931569,
+            "title":"Another lullaby came on."
+        },
+        "145333333222331111221111433122121311":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "She felt a wet diaper.",
+                "Bernadette crawled into her lap, or SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>All 3 soon awoke next morning.<br>\r\n\"Ugh, what happened last night?\" Penny managed. Did Amy give her a toy?</span></div></span></div>",
+            "created":1604033400,
+            "id":2931572,
+            "title":"They woke up the next morning"
+        },
+        "1453333332223311112211114331221213112":{
+            "author_id":"themaster223",
+            "author_name":"MASTER234",
+            "choices":[
+                "Demand to get changed",
+                "Demand to be turn back",
+                "Cried",
+                "SE"
+            ],
+            "content":"<div class=\"\"><div> <span>Penny sat up in the crib, her hand feeling a wet diaper, 'ewwwwww tell me I didnt' she said looking to see she had her hand on Amys wet diaper. She quickly move her hand, Amy was busy sucking her thumb, Penny turn to see Bernadette shaking a rattle and sitting against the bars of their crib<br>\r\n<br>\r\n'Thats right, that crazy bitch turn us into babies, lucky i didnt use my diaper' she sniffed the air, clutching the back of her own diaper she could feel the mess squishing against her cute ass. 'Ewwwwww i made boom boom!' She cried<br>\r\n<br>\r\nSoon the door open, Penny kneel up in the crib and....</span></div></div>",
+            "created":1604033640,
+            "id":2931573,
+            "title":"She felt a wet diaper."
+        },
+        "14533333322233111122111143312212131123":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Anything else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Mary gently picked her up, and got her and Amy changed, Penny first. Next, all 3 were fed breakfast?</span></div></span></div>",
+            "created":1604033760,
+            "id":2931575,
+            "title":"Cried"
+        },
+        "145333333222331111221111433122121311231":{
+            "author_id":"themaster223",
+            "author_name":"MASTER234",
+            "choices":[
+                "Daycare",
+                "The Park",
+                "A birthday party",
+                "SE"
+            ],
+            "content":"<div class=\"\"><div> <span>Penny is glad to be in a new clean diaper, but still a bit mad she is trapped, with her supposly smart friends drooling and shitting themselves. Mary then took her and Bernadette and Amy out of the nursery<br>\r\n<br>\r\nSoon, she found herself sitting in a high chair, her friends with their own high chairs as Mary tied bibs around their necks. 'time for breakfest' said Mary sitting infront of them. She has a jar of baby food and started taking one spoonful. Penny shook her head as the spoon came close to her lips. Not wanting that mush near her. But mary tickle her bare belly, making the blond laugh and have the spoon shoved into her mouth.<br>\r\n<br>\r\nPenny gag, but she chewed and shallowed just as Bernadette got a spoonful, once Amy had her turn it was back to Penny, who gave in and took another bite. The three girls continued to eat, Penny wishing it was a burger.<br>\r\n<br>\r\nSoon, Mary had fed them three jars, Penny groaned as her face is a mess, Mary wiped her chin then remove her bib, same with Amy and Bernadette. 'Ok, now we start the day' said Mary picking them up one by one.<br>\r\n<br>\r\nPenny wanted to tell this crazy bitch that they are not babies, but Mary refuse to let her speak since they are going to....</span></div></div>",
+            "created":1604153400,
+            "id":2932203,
+            "title":"Yeah."
+        },
+        "1453333332223311112211114331221213112313":{
+            "author_id":"themaster223",
+            "author_name":"MASTER234",
+            "choices":[
+                "Lily's party (how i met your mother)",
+                "Claire's party (modern family)",
+                "Betty' party (Riverdale)",
+                "Another"
+            ],
+            "content":"<div class=\"\"><div> <span>'Ok time to get dressed' said mary<br>\r\n<br>\r\nPenny whined, Mary took out some stupid baby clothes fit for adults, she started with Amy, who was droolingband kicking as Mary got her dressed in a white footed onsie, showing off her thick bulge and a flap for easy diaper changes.<br>\r\n<br>\r\nNext is Bernadette, the ting scientist was busy crawling around. With Amy chewing on her covered hands in the carriage, Mary came and got Bernadette in a cute pink dress, that if she bend over everyone will see her diaper. With Bernadette in the carriage with Amy, Mary came go Penny.<br>\r\n<br>\r\nPenny decide to fight, kicking her oegs but Mary is a strong woman. She had Penny on her back and started dressing her. Penny was then lifted up, looking in the mirror to see what clothes shes in. She was wearing a small shirt only, her diaper still exposed. 'Hey i want something to cover my diaper!' Whined Penny<br>\r\n<br>\r\n'Now ypu look so cute' said Mary<br>\r\n<br>\r\n'Everyone will laugh at me!'<br>\r\n<br>\r\nMary ignore her cries and put her in the carriage. Penny sat between Amy and Bernadette as Mary push them out of the hpuse. Today they are going to a birthday party in the park, Penny figures it would be a stupids kids party but it was....</span></div></div>",
+            "created":1604283240,
+            "id":2932927,
+            "title":"A birthday party"
+        },
+        "14533333322233111122111143312212131123132":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "A Pizza Restaurant",
+                "Somewhere Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Mary was taking them to Claire's birthday party, but where was the location of the party?</span></div></span></div>",
+            "created":1605104280,
+            "id":2938394,
+            "title":"Claire's party (modern family)"
+        },
+        "1453333332223311112211114331221213112314":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "To a doctor's appointment ",
+                "To get Halloween costumes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where else does Mary take the three?</span></div></span></div>",
+            "created":1604154840,
+            "id":2932210,
+            "title":"SE"
+        },
+        "14533333322233111122111143312212131123143":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No, Somewhere Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Mary take the three to church?</span></div></span></div>",
+            "created":1604156520,
+            "id":2932222,
+            "title":"Something else"
+        },
+        "145333333222331111221111433122121311231432":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Yeah",
+                "Somewhere else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Mary get the 3 enrolled in pre-school?</span></div></span></div>",
+            "created":1605031920,
+            "id":2937955,
+            "title":"No, Somewhere Else"
+        },
+        "1453333332223311112211114331221213112314322":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No, Somewhere Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Mary take the three to daycare?</span></div></span></div>",
+            "created":1605104580,
+            "id":2938399,
+            "title":"Somewhere else"
+        },
+        "1453333332223311112211114331222":{
+            "author_id":"themaster223",
+            "author_name":"MASTER234",
+            "choices":[
+                "She took it out and put it in Pennys mouth",
+                "Penny hears the lullaby"
+            ],
+            "content":"<div class=\"\"><div> <span>Amy cried in the crib, Penny couldnt take it so she went to the crib, 'oh my god, shut up you big baby' she said<br>\r\n<br>\r\nBut that made her cry louder, Penny saw the pacifier and shove it in her lips, Amy suckle it, her crying stopped but then....</span></div></div>",
+            "created":1603947600,
+            "id":2931554,
+            "title":"Amy managed to play the lullaby, or put the pac..."
+        },
+        "14533333322233111122111143312222":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup.",
+                "No, but she was rocking her in her arms, cooing to Amy."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She was soon asleep in the crib with Amy?</span></div></span></div>",
+            "created":1603947600,
+            "id":2931558,
+            "title":"Penny hears the lullaby"
+        },
+        "1453333332223311112211114332":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Mary.",
+                "Penny."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She soon made her way to the living room, but, who did she crawl to?</span></div></span></div>",
+            "created":1603947600,
+            "id":2931537,
+            "title":"Crawled to the living room"
+        },
+        "1453333332223311112211114333":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Made Penny drink breast milk.",
+                "Anything else she did."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\"How's Bernie?\"<br>\r\n\"She'll be fine.\"<br>\r\nMary then...</span></div></span></div>",
+            "created":1603947600,
+            "id":2931534,
+            "title":"Penny spots Mary leaving the kitchen"
+        },
+        "14533333322233111122111143332":{
+            "author_id":"themaster223",
+            "author_name":"MASTER234",
+            "choices":[
+                "Went to the kitchen",
+                "Went to the nursery",
+                "Followed Mary"
+            ],
+            "content":"<div class=\"\"><div> <span>'Im just need to put these in the laundry, be right back' smiled Mary as she left<br>\r\n<br>\r\nPenny frown, wondering why she had bernadettes clothes, is Bernie naked right now? Feeling like there is something going on, penny got up and.....</span></div></div>",
+            "created":1603947600,
+            "id":2931538,
+            "title":"Anything else she did."
+        },
+        "145333333222331111221111433322":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "No, climbed in beside her to keep her company.",
+                "Anything else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She soon found the nursery. She soon found Amy, and woke her up by accident?</span></div></span></div>",
+            "created":1603947600,
+            "id":2931539,
+            "title":"Went to the nursery"
+        },
+        "14533333322233111122112":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Were furious.",
+                "Cooed over her.",
+                "Laughed."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Mary soon returned, Amy in her arms. On seeing their friend, the two blondes...</span></div></span></div>",
+            "created":1603947600,
+            "id":2931531,
+            "title":"She took Amy back to the living room"
+        },
+        "14533333322233112":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "No, over who'd help Mary with chores around the house, or over anything else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>They fought over who'd stay in which room of the house?</span></div></span></div>",
+            "created":1603947600,
+            "id":2931519,
+            "title":"Something Else"
+        },
+        "1453333332223312":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Sure.",
+                "Hmm, anything else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>All 3 see her as the type of mother they never had growing up, so, agree to be her daughters?</span></div></span></div>",
+            "created":1603602000,
+            "id":2928613,
+            "title":"RC 2"
         },
         "15":{
             "author_id":"torux99",
@@ -19561,7 +20085,7 @@
                 "Amy's, or anyone else's."
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>This idea was Penny's?</span></div></span></div>",
-            "created":1603556220,
+            "created":1603515600,
             "id":2928036,
             "title":"Yeah"
         },
@@ -19733,7 +20257,7 @@
                 "Other reasons."
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Both are babied by Bernadette?</span></div></span></div>",
-            "created":1603556160,
+            "created":1603515600,
             "id":2928035,
             "title":"Just Penny and Amy"
         }
@@ -19746,8 +20270,8 @@
         "description":"<td align=\"left\" class=\"norm\">MAKE THE CHAPTERS AS LONG AS POSSIBLE! THANK YOU!<br>\r\n<br>\r\nNow you can put any girl back into diapers, it could be Penny, Bernadette or Amy or any other girl of your choosing<br>\r\n<br>\r\nMental Regression, accidents, forces, sexual content and others you can think of you can do<br>\r\n<br>\r\nSo have fun!</td>",
         "id":2142999,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1599783480,
-        "modified":1603576560,
+        "last_full_update":1605104580,
+        "modified":1605104580,
         "pretty_title":"The Big Bang Theory [Adult Babies]"
     }
 }

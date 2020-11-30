@@ -4161,6 +4161,18 @@
             "id":2427438,
             "title":"Lunala"
         },
+        "15411":{
+            "author_id":"janton",
+            "author_name":"Janton",
+            "choices":[
+                "Continue with this storyline",
+                "A different pokemon"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Hol up you didn't get a choice for a different Alola pokemon so here's one</span></div></span></div>",
+            "created":1606153260,
+            "id":2944849,
+            "title":"Stay in her mouth"
+        },
         "15412":{
             "author_id":"xxx13000",
             "author_name":"Kilometrico",
@@ -4179,7 +4191,7 @@
         "id":1866203,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
         "last_full_update":1545979620,
-        "modified":1598035380,
+        "modified":1606153260,
         "pretty_title":"Your Pokemon mate."
     }
 }

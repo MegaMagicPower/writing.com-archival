@@ -5592,6 +5592,19 @@
             "id":1550099,
             "title":"Densuke's going to read the Eronomicon!"
         },
+        "15522222222222212":{
+            "author_id":"ryguy0228",
+            "author_name":"Ryguy0228",
+            "choices":[
+                "The right way to grope a girl without making her mad.",
+                "How to make girls obey your every command without noticing.",
+                "He read something else "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span> What did he read first?</span></div></span></div>",
+            "created":1606261320,
+            "id":2945491,
+            "title":"More choices "
+        },
         "1552222222222222":{
             "author_id":"novahamm",
             "author_name":"Hamn8r",
@@ -10485,6 +10498,18 @@
             "created":1600132860,
             "id":2903085,
             "title":"Cards of Chance"
+        },
+        "15522222222222222222222222222222222222222222222222222222222222332222":{
+            "author_id":"ryguy0228",
+            "author_name":"Ryguy0228",
+            "choices":[
+                "Yes  Meliodas",
+                "No another show"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about the already perverted demon prince and leader the seven deadly sins Meliodas from the Seven Deadly Sins anime/manga?</span></div></span></div>",
+            "created":1606261920,
+            "id":2945495,
+            "title":"No"
         }
     },
     "info":{
@@ -10496,7 +10521,7 @@
         "id":1908539,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
         "last_full_update":1600132860,
-        "modified":1600132860,
+        "modified":1606261920,
         "pretty_title":"The Eronomicon"
     }
 }

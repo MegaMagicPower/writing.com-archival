@@ -43,6 +43,34 @@
             "id":2892420,
             "title":"Your Sister's body"
         },
+        "1223":{
+            "author_id":"thestranger28",
+            "author_name":"The_Unknown",
+            "choices":[
+                "Your Mother comes crying for \"her\" body Back",
+                "Your Father comes crying for \"his\" body Back",
+                "More Options"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Here are some more Options</span></div></span></div>",
+            "created":1605499020,
+            "id":2940668,
+            "title":"Other Options"
+        },
+        "13":{
+            "author_id":"hobbitking90",
+            "author_name":"Hobbitking",
+            "choices":[
+                "See a new dog",
+                "Find a mannequin",
+                "Discover confused old man in your house",
+                "Get transformed",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><div> <span>There had been a strange mood around the house, lately. Something felt off, like you were being watched but there was never anyone there. You were also having strange dreams, all of which involved a shadowy figure out to get you and the members of your family. In the dream you always woke up just before the shadow caught you and your family, until this morning, where it swallowed the five of you whole. You didn't know what it meant but you knew something was different this morning and you weren't able to put your finger on it.<br>\r\n<br>\r\nYou had slept in this morning it was already 9am. Normally you could here others around the house but today you didn't hear anything. You went downstairs to see if you could find anyone when you....</span></div></div>",
+            "created":1606134960,
+            "id":2944650,
+            "title":"Transformation"
+        },
         "15":{
             "author_id":"yejdbdinsknsk8",
             "author_name":"Yejdbdinsknsk8",
@@ -94,7 +122,7 @@
         "id":2204956,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
         "last_full_update":1598531520,
-        "modified":1598531520,
+        "modified":1606134960,
         "pretty_title":"Manipulated family "
     }
 }

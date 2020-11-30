@@ -7,7 +7,8 @@
                 "Home ",
                 "Beach ",
                 "Mall ",
-                "Vacation "
+                "Vacation ",
+                "With your Friend at her house"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>In which scenario will Jake be shrunk? </span></div></span></div>",
             "created":1582065360,
@@ -26,6 +27,18 @@
             "created":1582067400,
             "id":2789329,
             "title":"Home "
+        },
+        "15":{
+            "author_id":"alenkolenovic1",
+            "author_name":"Alen",
+            "choices":[
+                "Aware",
+                "Unaware "
+            ],
+            "content":"<div class=\"\"><div> <span>In this scenario, the interaction will be told from the second person perspective. <br>\r\n<br>\r\nYou decide that you want to hang out with your best friend Emily at her house. Emily is 21 years old, with black hair, weighs 170 pounds, and is white. She is also 5\u201911\u201d.<br>\r\n<br>\r\nYou knock on Emily\u2019s door and wait. Emily opens up the door and invites you in. She is wearing a mini skirt and only a blue bra. She is also barefoot. <br>\r\n<br>\r\n\u201cHey, Jake! How\u2019s it going?\u201d Emily asks you. <br>\r\n<br>\r\n\u201cI\u2019m doing fine, Emily! What about you?\u201d You respond as both of you go to her room.<br>\r\n<br>\r\n\u201cI\u2019m doing great!\u201d Emily says. \u201cI\u2019ll be right back. I need to go pee really badly\u201d <br>\r\n<br>\r\nYou decide to just sit on Emily\u2019s bed and wait for her to return. Out of nowhere, you shrink to 3 inches tall.<br>\r\n<br>\r\nEverything looks so humongous and you hear Emily come back into her room. <br>\r\n<br>\r\n\u201cThat\u2019s strange. Where did Jake go?\u201d Emily asks. <br>\r\n<br>\r\nEmily then looks at her bed. <br>\r\n<br>\r\nIs she aware or unaware of your shrunken form?</span></div></div>",
+            "created":1604713380,
+            "id":2935793,
+            "title":"With your Friend at her house"
         }
     },
     "info":{
@@ -36,8 +49,8 @@
         "description":"<td align=\"left\" class=\"norm\">You are a 21 year old man named Jake. You are 6\u20194 and weigh 210 pounds. You have dark brown hair and green eyes. You have just graduated college and now it is summer. Take on different scenarios in which Jake will shrink. </td>",
         "id":2213353,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1582067400,
-        "modified":1582067400,
+        "last_full_update":1604713380,
+        "modified":1604713380,
         "pretty_title":"Shrinking Stories"
     }
 }

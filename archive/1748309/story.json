@@ -939,6 +939,78 @@
             "id":2608019,
             "title":"Third Person"
         },
+        "142122112":{
+            "author_id":"zeroithzenith",
+            "author_name":"Zeroth Zenith",
+            "choices":[
+                "Established",
+                "Original"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is Zelda torturing an established character or an original character?</span></div></span></div>",
+            "created":1605240480,
+            "id":2939354,
+            "title":"Epilogue (Royal Dress Zelda)"
+        },
+        "1421221122":{
+            "author_id":"zeroithzenith",
+            "author_name":"Zeroth Zenith",
+            "choices":[
+                "First/Second Person",
+                "Third Person"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is this first/second person perspective or third person perspective?</span></div></span></div>",
+            "created":1605242100,
+            "id":2939362,
+            "title":"Original"
+        },
+        "14212211221":{
+            "author_id":"zeroithzenith",
+            "author_name":"Zeroth Zenith",
+            "choices":[
+                "First",
+                "Second"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>First or Second Person?</span></div></span></div>",
+            "created":1605242340,
+            "id":2939364,
+            "title":"First/Second Person"
+        },
+        "142122112211":{
+            "author_id":"zeroithzenith",
+            "author_name":"Zeroth Zenith",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was I male or female?</span></div></span></div>",
+            "created":1605242400,
+            "id":2939365,
+            "title":"First Person"
+        },
+        "142122112212":{
+            "author_id":"zeroithzenith",
+            "author_name":"Zeroth Zenith",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are you a male or female?</span></div></span></div>",
+            "created":1605242400,
+            "id":2939366,
+            "title":"Second Person"
+        },
+        "14212211222":{
+            "author_id":"zeroithzenith",
+            "author_name":"Zeroth Zenith",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is this character a male or female?</span></div></span></div>",
+            "created":1605242280,
+            "id":2939363,
+            "title":"Third Person"
+        },
         "14212212":{
             "author_id":"zeroithzenith",
             "author_name":"Zeroth Zenith",
@@ -4196,7 +4268,7 @@
                 "Mai Shiranui Is"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Am I telling the story or is it Mai Shiranui?</span></div></span></div>",
-            "created":1576815420,
+            "created":1576731600,
             "id":2761897,
             "title":"First Person"
         },
@@ -4208,7 +4280,7 @@
                 "Female"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are you male or female?</span></div></span></div>",
-            "created":1576815600,
+            "created":1576731600,
             "id":2761902,
             "title":"You Are"
         },
@@ -4220,7 +4292,7 @@
                 "Female"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is Mai Shiranui torturing a male or female?</span></div></span></div>",
-            "created":1576815720,
+            "created":1576731600,
             "id":2761903,
             "title":"Mai Shiranui Is"
         },
@@ -4232,7 +4304,7 @@
                 "Mai Shiranui Is"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are you telling the story or is it Mai Shiranui?</span></div></span></div>",
-            "created":1576815420,
+            "created":1576731600,
             "id":2761898,
             "title":"Second Person"
         },
@@ -4268,7 +4340,7 @@
                 "Established Character"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is Mai Shiranui torturing an original or established character?</span></div></span></div>",
-            "created":1576815300,
+            "created":1576731600,
             "id":2761895,
             "title":"Third Person"
         },
@@ -4280,7 +4352,7 @@
                 "Female"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is this character male or female?</span></div></span></div>",
-            "created":1576815540,
+            "created":1576731600,
             "id":2761900,
             "title":"Original Character"
         },
@@ -4355,8 +4427,8 @@
         "description":"<td align=\"left\" class=\"norm\">This story is about Girls from your Favorite Games, be it Metroid, Final Fantasy, Prince of Persia and others wanting to take a shit or fart or pee on you or other characters from their respective games.<br>\r\n<br>\r\nRules:<br>\r\n-Any fetish is allowed, but please keep it relevant to farting, peeing or scatplay.<br>\r\n-Giant Females are allowed, but no Giant Males. In addition, only the females can dominate the males. They can also dominate other females as well, but no Male on Male/Male on Female.<br>\r\n-Unless it is exclusively to a choice of scenario, do not write one sentence posts. I want to have at least one paragraph, no less than 300 words per chapter. It frustrates some people, me included, to have to read one sentence chapters that have no depth whatsoever.<br>\r\n-Have fun and keep writing!</td>",
         "id":1748309,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1588143780,
-        "modified":1588143780,
+        "last_full_update":1605242400,
+        "modified":1605242400,
         "pretty_title":"VG Farting and Toilet Torture"
     }
 }

@@ -396,6 +396,19 @@
             "id":2223394,
             "title":"Look for D.W."
         },
+        "11121111112212":{
+            "author_id":"benz02",
+            "author_name":"HedgeOvrlrd",
+            "choices":[
+                "The Tibble Family",
+                "Reid Family",
+                "More Families"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Option # 1<br>\r\n<br>\r\nThe Tibbles<br>\r\n<br>\r\nOption # 2<br>\r\n<br>\r\nThe Reids<br>\r\n<br>\r\n<br>\r\n<br>\r\nOther Families</span></div></span></div>",
+            "created":1606035660,
+            "id":2943970,
+            "title":"A Fatter Elwood City"
+        },
         "1112111112":{
             "author_id":"fadude",
             "author_name":"Fatdude",
@@ -1206,7 +1219,8 @@
             "author_name":"Fatdude",
             "choices":[
                 "The fat ray activated and was slowly getting fatter and fatter",
-                "She ran into Fern"
+                "She ran into Fern",
+                "She somehow hit a button on it and was transforming into a big fat baby"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Sue Ellen grabbed the fat ray out of the Brains pocket and stuck it in between her large cleavage to hide it,  as she was waddling home...</span></div></span></div>",
             "created":1287982800,
@@ -1837,8 +1851,9 @@
             "author_id":"fadude",
             "author_name":"Fatdude",
             "choices":[
-                "Panda",
-                "Elephant"
+                "hippo",
+                "Elephant",
+                "cow"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What sort of figurine was it?</span></div></span></div>",
             "created":1489035600,
@@ -4447,8 +4462,8 @@
         "description":"<td align=\"left\" class=\"norm\">This is just a weight gain and transformation story set in the Arthur series. You can add Transformation if you want.<br>\r\n<br>\r\nDon't go overboard with the adult stuff, non descriptive stuff is fine.</td>",
         "id":1361521,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1583873400,
-        "modified":1602947580,
+        "last_full_update":1602947580,
+        "modified":1606035660,
         "pretty_title":"Arthur weight gain and transformation"
     }
 }

@@ -208,16 +208,18 @@
     </script>
 
     <script type="text/x-template" id="single-chapter-template">
-        <div class="pb-3">
-            <div class="card-body py-0">
+        <section class="pb-3">
+            <header class="card-body py-0">
                 <div class="d-flex justify-content-between">
                     <h4><small>Chapter {{current_index.length}}:</small> {{ chapter.title }}</h4>
 
-                    <router-link v-if="current_index != '1'" v-bind:to="{ name: 'history', params: {current_index : current_index} }" class="btn btn-link">
-                        <svg class="bi bi-clock-fill" width="1em" height="1em" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-                            <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zM8 3.5a.5.5 0 00-1 0V9a.5.5 0 00.252.434l3.5 2a.5.5 0 00.496-.868L8 8.71V3.5z" clip-rule="evenodd"/>
-                        </svg>
-                    </router-link>
+                    <nav>
+                        <router-link v-if="current_index != '1'" v-bind:to="{ name: 'history', params: {current_index : current_index} }" class="btn btn-link">
+                            <svg class="bi bi-clock-fill" width="1em" height="1em" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                                <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zM8 3.5a.5.5 0 00-1 0V9a.5.5 0 00.252.434l3.5 2a.5.5 0 00.496-.868L8 8.71V3.5z" clip-rule="evenodd"/>
+                            </svg>
+                        </router-link>
+                    </nav>
                 </div>
                 <h5>
                     <template v-if="chapter.author_id">
@@ -232,9 +234,12 @@
 
                     <small class="text-muted"> on {{ created }} </small>
                 </h5>
-            </div>
+            </header>
 
-            <div class="card-body" v-html="chapter.content"></div>
+            <div class="card-body">
+                <p v-html="chapter.content">
+                </p>
+            </div>
 
             <div class="list-group list-group-flush">
 
@@ -264,7 +269,9 @@
                     </h6>
                 </div>
 
+                <article>
                 <single-chapter v-for="chapter in show_chapters" v-bind:selected="chapter.selected" v-bind:key="chapter.index" v-bind:current_index="chapter.index"></single-chapter>
+                </article>
 
             </div>
         </div>

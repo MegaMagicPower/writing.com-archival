@@ -15,6 +15,62 @@
             "id":2729138,
             "title":"The start."
         },
+        "11":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Spike From Rugrats",
+                "Spunky From Rocko's Modern Life",
+                "Dog from CatDog",
+                "Ren Hoek from The Ren and Stimpy Show",
+                "More Choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have chosen Nickelodeon. Now, which Nickelodeon cartoon dog gains weight?</span></div></span></div>",
+            "created":1605675600,
+            "id":2941988,
+            "title":"Nickelodeon"
+        },
+        "115":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Dudley Puppy from T.U.F.F. Puppy",
+                "Charles from The Loud House",
+                "More Choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about these choices?</span></div></span></div>",
+            "created":1605675600,
+            "id":2941990,
+            "title":"More Choices"
+        },
+        "1153":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Blue from Blue's Clues",
+                "Duke from Back at the Barnyard",
+                "More Choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about these choices?</span></div></span></div>",
+            "created":1605711360,
+            "id":2941991,
+            "title":"More Choices"
+        },
+        "11533":{
+            "author_id":"spunky",
+            "author_name":"Ace Jones",
+            "choices":[
+                "Chase from Paw Patrol.",
+                "Marshall from Paw Patrol.",
+                "Rocky from Paw Patrol",
+                "Zuma from Paw Patrol.",
+                "Your choice."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay how about these choices?</span></div></span></div>",
+            "created":1605715980,
+            "id":2942035,
+            "title":"More Choices"
+        },
         "12":{
             "author_id":"ryguy0228",
             "author_name":"Ryguy0228",
@@ -212,6 +268,73 @@
             "id":2741061,
             "title":"Television show"
         },
+        "13":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Looney Tunes",
+                "Tiny Toon Adventures",
+                "Animaniacs",
+                "Scooby-Doo",
+                "More Choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have chosen Warner Bros.. Now, which Warner Bros. franchise shall we go with?</span></div></span></div>",
+            "created":1605711480,
+            "id":2941993,
+            "title":"Warner Bros"
+        },
+        "131":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Sam Sheepdog",
+                "Charlie Dog",
+                "More Choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have chosen <i>Looney Tunes</i>. Now, which dog character from that franchise gains weight?</span></div></span></div>",
+            "created":1605711720,
+            "id":2941996,
+            "title":"Looney Tunes"
+        },
+        "1313":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Marc Antony",
+                "Barnyard Dawg",
+                "More Choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about these choices?</span></div></span></div>",
+            "created":1605711780,
+            "id":2941997,
+            "title":"More Choices"
+        },
+        "132":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Byron Basset",
+                "Barky Marky",
+                "More Choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have chosen <i>Tiny Toon Adventures</i>. Now, which dog character from that show gains weight?</span></div></span></div>",
+            "created":1605711600,
+            "id":2941995,
+            "title":"Tiny Toon Adventures"
+        },
+        "133":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Runt",
+                "Buttons",
+                "More Choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have chosen <i>Animaniacs</i>. Now, which dog character from that show gains weight?</span></div></span></div>",
+            "created":1605711540,
+            "id":2941994,
+            "title":"Animaniacs"
+        },
         "14":{
             "author_id":"rana-mcneil",
             "author_name":"Thunder",
@@ -391,6 +514,108 @@
             "created":1580101200,
             "id":2779187,
             "title":"Yes "
+        },
+        "143":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Pal From Arthur",
+                "Martha From Martha Speaks",
+                "More Choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Perhaps we could go with a dog from a PBS animated series. Which one will it be?</span></div></span></div>",
+            "created":1605747780,
+            "id":2942197,
+            "title":"More Choices!"
+        },
+        "15":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Peanuts",
+                "Dennis the Menace",
+                "Garfield",
+                "Marmaduke",
+                "More Choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about we go with comic strips? Which comic strip should we choose?</span></div></span></div>",
+            "created":1605712020,
+            "id":2942000,
+            "title":"Your Choice"
+        },
+        "151":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Snoopy",
+                "One of Snoopy's Siblings",
+                "More Choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have chosen <i>Peanuts</i>. Now, which dog from that franchise will gain weight?</span></div></span></div>",
+            "created":1605712080,
+            "id":2942002,
+            "title":"Peanuts"
+        },
+        "1512":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Spike, His Skinny Brother",
+                "Belle, His Sister",
+                "More Choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which of Snoopy's siblings will gain weight?</span></div></span></div>",
+            "created":1605712320,
+            "id":2942007,
+            "title":"One of Snoopy's Siblings"
+        },
+        "152":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "The American Version (Blonde Hair and Dog Named Ruff)",
+                "The British Version (Black Hair and Dog Named Gnasher)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span><i>Dennis the Menace</i> it is, but which version?</span></div></span></div>",
+            "created":1605712140,
+            "id":2942003,
+            "title":"Dennis the Menace"
+        },
+        "1521":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, Another Dog From That Franchise"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have chosen the American version. Now, is it Dennis' dog Ruff who gains weight?</span></div></span></div>",
+            "created":1605712200,
+            "id":2942004,
+            "title":"The American Version (Blonde Hair and Dog Named..."
+        },
+        "1522":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, Another Dog From That Franchise"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have chosen the British version. Now, is it Dennis' dog Gnasher who gains weight?</span></div></span></div>",
+            "created":1605712260,
+            "id":2942006,
+            "title":"The British Version (Black Hair and Dog Named G..."
+        },
+        "153":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, Another Dog From That Franchise"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have chosen <i>Garfield</i>. Now, is it Odie who gains weight?</span></div></span></div>",
+            "created":1605712440,
+            "id":2942008,
+            "title":"Garfield"
         }
     },
     "info":{
@@ -402,7 +627,7 @@
         "id":2202427,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
         "last_full_update":1601479140,
-        "modified":1601479140,
+        "modified":1605747780,
         "pretty_title":"Fat Cartoon Dogs."
     }
 }

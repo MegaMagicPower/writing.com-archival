@@ -402,6 +402,33 @@
             "id":2911023,
             "title":"Naptime"
         },
+        "1111213211112112131":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Nathan Wakes Up Dry But Desperate",
+                "Nathan Wakes Up Wet"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>About an hour later, Nathan woke up.<br>\r\n<br>\r\n<b>Did he wake up dry but needed to use the potty, or did he wake up wet and needed to be changed?</b></span></div></span></div>",
+            "created":1603656120,
+            "id":2928772,
+            "title":"Reader's Choice 1"
+        },
+        "11112132111121121311":{
+            "author_id":"rm6932",
+            "author_name":"Danshi",
+            "choices":[
+                "Deliberately pee his diaper.",
+                "Try to find Mrs Winters again.",
+                "Try to find the potty on his own.",
+                "Find some place else to pee.",
+                "Try to hold it."
+            ],
+            "content":"<div class=\"\"><div> <span>Nathan was dreaming. He was walking along the shore of a huge lake. He could hear a giant waterfall in the distance. Somehow, it gave him a tingly-queasy feeling in his tummy, but no matter which direction he turned, he seemed to be getting closer and closer to the waterfall. Then he suddenly reached the waterfall and he stood atop of it. The whole lake was draining down into nothing in a huge cascade.<br>\r\n<br>\r\nHis tummy prickled even stronger now and he realised the sensation was coming from his wee-wee and it was trying to tell him that he had to pee! Suddenly Nathan could see where all the water went down below, it fell into a giant potty chair! Nathan shuddered, overcome with an unbearable need to pee. He remembered that he was supposed to pee in the potty. So he hurriedly turned towards the chasm and the giant potty below and pulled down his pants. But beneath them was another pair of pants and when Nathan ripped those down, again another pair and another and another.<br>\r\n<br>\r\nThat was when Nathan woke up. He blinked once, twice in confusion before he remembered. He was at the daycare. It had just been a weird dream\u2026 <i>except</i>, the intense need to pee came rushing back to him. Nathan moaned and hurriedly grabbed himself, desperately pressing his legs together. In his frantic and still half sleep-addled state he tried to remember the way Mrs Winters had taken him to the potty on. He thought he kinda remembered but not really. He also remembered how happy Mrs Winters had been when he had used the potty before.<br>\r\n<br>\r\n<b>What did Nathan do?</b></span></div></div>",
+            "created":1606523700,
+            "id":2947104,
+            "title":"Nathan Wakes Up Dry But Desperate"
+        },
         "1111213212":{
             "author_id":"bryanmchunter",
             "author_name":"FlyingDuckManGenesis",
@@ -752,6 +779,34 @@
             "created":1584507600,
             "id":2803247,
             "title":"\u2026building a giant castle in the sandbox. It w..."
+        },
+        "11223411":{
+            "author_id":"rm6932",
+            "author_name":"Danshi",
+            "choices":[
+                "\u2026continues building his sandcastle, his messy pull-up undetected.",
+                "\u2026continues building his sandcastle, but his mom notices and comes over.",
+                "\u2026feels uncomfortable in his messy pull-up and asks his mom to change him.",
+                "\u2026feels uncomfortable in his messy pull-up and takes it off himself.",
+                "\u2026finishes his sandcastle and goes to play somewhere else."
+            ],
+            "content":"<div class=\"\"><div> <span>Dimitri was happily sitting in the sandbox and expanding his castle when he became aware of a heavy feeling in his tummy. He knew it meant he had to make a doo-doo. However, he did not want to interrupt his important build project. So Dimitri decided to hold it. Maybe the urge would go away again if he ignored it.<br>\r\n<br>\r\nAlas, it did not. The little urge soon became a bigger and bigger need and his tummy demanded release. Dimitri still did not want to stop playing. So when the need became too distracting, he simply shifted into a kneeling position. He didn\u2019t even have to push, the second he relaxed, he felt his poo start to slip out all by itself. Then the rather solid poop touched the fabric of his pull-up and stopped. He had to reach back and pull down its seat a bit with his hand to make room for the huge poo and push after all to get it out all the way. As he did so, he inadvertently forced out a little pee, too. When he was done, a sizeable lump filled the back of his pull-up and the front was a little warm and damp.<br>\r\n<br>\r\nLuckily (or unluckily?) for Dimitri, his mom had been chatting amicably with another mother and hadn\u2019t seen any of what he\u2019d done. It could be a while before anyone noticed. Dimitri\u2026</span></div></div>",
+            "created":1606501860,
+            "id":2946931,
+            "title":"While playing in the sandbox"
+        },
+        "112234114":{
+            "author_id":"diokno44",
+            "author_name":"Filipino4-ever",
+            "choices":[
+                "Yes, a kid playing with him",
+                "Yes, his mom",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Dmitri shifted. While he was normally fine sitting in used padding, the big poo inside mushing against him made him feel weird. He took off his Pull-Up. Does anyone notice?</span></div></span></div>",
+            "created":1606517580,
+            "id":2947047,
+            "title":"\u2026feels uncomfortable in his messy pull-up and..."
         },
         "11224":{
             "author_id":"diokno44",
@@ -1258,7 +1313,7 @@
                 "Poop"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What potty accident did Jean have?</span></div></span></div>",
-            "created":1601999400,
+            "created":1601960400,
             "id":2916108,
             "title":"Just One"
         },
@@ -2805,8 +2860,8 @@
         "description":"<td align=\"left\" class=\"norm\">Welcome to Sunny Skies! Here at this prestigious institution they aim to help boys and girls ditch the diapers and move on to the toilet ane big kid underwear. Follow the ups snd downs of training with the staff and students.</td>",
         "id":2198300,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1602034740,
-        "modified":1602965760,
+        "last_full_update":1603656120,
+        "modified":1606523700,
         "pretty_title":"Sunny Skies Potty Training Academy"
     }
 }

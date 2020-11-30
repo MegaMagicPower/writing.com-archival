@@ -7099,6 +7099,103 @@
             "id":2796577,
             "title":"Punishment"
         },
+        "12333311222":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do Tommy, Phil, and/or Lil try to convince him that wearing diapers can be fun?</span></div></span></div>",
+            "created":1604701080,
+            "id":2935686,
+            "title":"Other reasons."
+        },
+        "123333112221":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "All of Them",
+                "Just One"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do all three of them convince Chuckie, or just one?</span></div></span></div>",
+            "created":1604717700,
+            "id":2935836,
+            "title":"Yes"
+        },
+        "1233331122211":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "RC 1",
+                "RC 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Hmm, how do they do this?</span></div></span></div>",
+            "created":1604718180,
+            "id":2935841,
+            "title":"All of Them"
+        },
+        "123333112222":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Chuckie decide to try wearing diapers for a day just to see what it feels like?</span></div></span></div>",
+            "created":1604701140,
+            "id":2935692,
+            "title":"No, something else."
+        },
+        "1233331122221":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "From Kimi.",
+                "Anyone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>He gets the idea from Tommy?</span></div></span></div>",
+            "created":1604701620,
+            "id":2935706,
+            "title":"Yes"
+        },
+        "12333311222211":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>As Chuckie wanted to know what it felt like to wear diapers, did Tommy want to know what it felt like to be potty-trained and wearing underwear?</span></div></span></div>",
+            "created":1604702340,
+            "id":2935711,
+            "title":"Yeah."
+        },
+        "123333112222112":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Tommy did it for him."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Tommy felt he wasn't ready for that yet, but, was willing to help out hhis friend out with diapering. Boht soon got a clean diaper for Chuckie and baby powder. Did Chuckie powder and diaper himself?</span></div></span></div>",
+            "created":1604702520,
+            "id":2935713,
+            "title":"No"
+        },
+        "1233331122221122":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Chuckie Pulls His Pants and Underwear Back Up",
+                "Chuckie Takes Off His Pants and Underwear"
+            ],
+            "content":"<div class=\"\"><div> <span>Chuckie pulled down his pants and underwear and pulled up his shirt. He held still as Tommy powdered his bottom and taped the clean diaper on it.<br>\r\n<br>\r\n<b>Once his diaper was on, did Chuckie pull his pants and underwear back up so no one would see him wearing a diaper, or did he take off his pants and underwear so everyone could see his diaper?</b></span></div></div>",
+            "created":1604709000,
+            "id":2935761,
+            "title":"Tommy did it for him."
+        },
         "12333312":{
             "author_id":"johnny2",
             "author_name":"littlejohn",
@@ -7107,7 +7204,7 @@
                 "Someone else"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about Angelica?</span></div></span></div>",
-            "created":1586149200,
+            "created":1604702580,
             "id":2814084,
             "title":"Someone else if you like"
         },
@@ -7640,6 +7737,21 @@
             "created":1514437200,
             "id":2433627,
             "title":"Or someone else"
+        },
+        "124232":{
+            "author_id":"ghostdog1235",
+            "author_name":"TheFriendlyReviewer",
+            "choices":[
+                "100% Wolf",
+                "Zootopia",
+                "Secret Life of Pets",
+                "Sing (2016)",
+                "Other choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about some animated movies</span></div></span></div>",
+            "created":1606291500,
+            "id":2945660,
+            "title":"or something else"
         }
     },
     "info":{
@@ -7651,7 +7763,7 @@
         "id":1955761,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
         "last_full_update":1601242440,
-        "modified":1601242440,
+        "modified":1606360260,
         "pretty_title":"Toon diapers "
     }
 }

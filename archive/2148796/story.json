@@ -2060,6 +2060,19 @@
             "id":2813488,
             "title":"Age regression"
         },
+        "132332":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Taffy, the babysitter",
+                "Charlotte pickles",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who else from Rugrats do we go with?</span></div></span></div>",
+            "created":1606227060,
+            "id":2945252,
+            "title":"Someone else"
+        },
         "133":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
@@ -4470,6 +4483,54 @@
             "id":2834932,
             "title":"Certainly, to Acme Acres we go!"
         },
+        "13523332323222211":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Someone Treats Her the Way She Treats Them",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Why does Elmyra end up in a diaper?</span></div></span></div>",
+            "created":1606194000,
+            "id":2945153,
+            "title":"Elmyra."
+        },
+        "135233323232222111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Babs and/or Buster Bunny (No relation)",
+                "Someone Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who does this to Elmyra?</span></div></span></div>",
+            "created":1606194000,
+            "id":2945154,
+            "title":"Someone Treats Her the Way She Treats Them"
+        },
+        "1352333232322221111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Both",
+                "Just One"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do both bunnies treat Elmyra like a baby or just one?</span></div></span></div>",
+            "created":1606194000,
+            "id":2945156,
+            "title":"Babs and/or Buster Bunny (No relation)"
+        },
+        "13523332323222211111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Nah."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do both get help with this, though?</span></div></span></div>",
+            "created":1606223220,
+            "id":2945232,
+            "title":"Both"
+        },
         "13523332323222212":{
             "author_id":"jd88237",
             "author_name":"jdawg1985",
@@ -4503,7 +4564,7 @@
                 "No thanks, some other choice"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Perhaps its her mother who thinks she needs a bit of self control</span></div></span></div>",
-            "created":1599877620,
+            "created":1599800400,
             "id":2901426,
             "title":"Nah, it's somebody else."
         },
@@ -4515,7 +4576,7 @@
                 "Nah, she has help."
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does her mother act along, however?</span></div></span></div>",
-            "created":1599878460,
+            "created":1599800400,
             "id":2901432,
             "title":"Mother angle, I like it"
         },
@@ -4530,7 +4591,7 @@
                 "Rebel against the punishment (Accidentally adding onto her punishment)"
             ],
             "content":"<div class=\"\"><div> <span>Babs Bunny is always an impressionable teen and often times can get a little out of control. Mrs. Bunny had trouble keeping her in check, so she decided to check the internet for solutions. She found one article called \u2018Babying your rebellious Bunny\u2019 causing the mother to smirk. Afterwards, we see Mrs. Bunny informing Babs of her punishment in front of her dozens of baby siblings. <br>\r\n<br>\r\n\u201cWait, you\u2019re putting me in diapers?\u201d Babs questioned her mom\u2019s logic.<br>\r\n<br>\r\n\u201cIf you can\u2019t show a little restraint in school, then maybe you need a little control at home.\u201d Mrs. Bunny scolded. \u201cYou\u2019ll be wearing diapers at home for exactly one week, act up and a week will be added.\u201d<br>\r\n<br>\r\n\u201cSo, add another baby bunny to the amount of diapers you need to change-wait will I have to use them?\u201d Babs questioned with a blush.<br>\r\n<br>\r\n\u201cYou\u2019re not wearing them to look cute that\u2019s for sure.\u201d Mrs. Bunny snarked, pulling out a diaper around Babs size. \u201cNow, I\u2019m giving you a choice first. Let me diaper you or try to do it yourself.\u201d Babs thought about this since she had no choice in this or than the ones given to her.<br>\r\n</span></div></div>",
-            "created":1599891960,
+            "created":1599886800,
             "id":2901496,
             "title":"Babs Baby Punishment"
         },
@@ -4542,7 +4603,7 @@
                 "Nah."
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>As her mother works, did Babs start babbling like a baby?</span></div></span></div>",
-            "created":1599917160,
+            "created":1599886800,
             "id":2901689,
             "title":"Let her diaper Babs (Babs decides to not anger ..."
         },
@@ -4554,7 +4615,7 @@
                 "Anything else."
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Babs made an attempt herself, baby powder and all, eventually figuring it out. As she did so, did her mother start cooing at her like she was a baby again?</span></div></span></div>",
-            "created":1599921240,
+            "created":1599886800,
             "id":2901717,
             "title":"Tries to put it on (She succeeds)"
         },
@@ -4595,6 +4656,54 @@
             "id":2834970,
             "title":"Anyone else that comes to mind."
         },
+        "135233323232222132":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is Buster Bunny okay?</span></div></span></div>",
+            "created":1606194000,
+            "id":2945149,
+            "title":"nope, someone else. "
+        },
+        "1352333232322221321":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "He Gets Caught By Elmyra",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Why does Buster end up in a diaper?</span></div></span></div>",
+            "created":1606194000,
+            "id":2945150,
+            "title":"Yes"
+        },
+        "1352333232322221322":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, then. How about Plucky Duck?</span></div></span></div>",
+            "created":1606194000,
+            "id":2945158,
+            "title":"No, someone else"
+        },
+        "13523332323222213221":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "He Gets Caught By Elmyra",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does Plucky Duck end up in a diaper?</span></div></span></div>",
+            "created":1606194000,
+            "id":2945160,
+            "title":"Yes"
+        },
         "1352333232322222":{
             "author_id":"hyperdonut",
             "author_name":"Hyperdonut",
@@ -4630,7 +4739,7 @@
                 "Other choices"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about these list of characters<br>\r\n<br>\r\n</span></div></span></div>",
-            "created":1599877740,
+            "created":1599800400,
             "id":2901427,
             "title":"Hmm, anyone else."
         },
@@ -5247,6 +5356,102 @@
             "created":1596690000,
             "id":2881482,
             "title":"nope, different comic."
+        },
+        "14535":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, then. How about <i>Dennis the Menace</i>?</span></div></span></div>",
+            "created":1606262280,
+            "id":2945497,
+            "title":"Other choices"
+        },
+        "145351":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "The American Version (Blonde Hair and Dog Named Ruff)",
+                "The British Version (Black Hair and Dog Named Gnasher)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span><i>Dennis the Menace</i> it is, but which version?</span></div></span></div>",
+            "created":1606262340,
+            "id":2945499,
+            "title":"Yes"
+        },
+        "1453511":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Dennis Mitchell",
+                "Someone Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have chosen the American version. Now, who gets put in a diaper?</span></div></span></div>",
+            "created":1606262880,
+            "id":2945502,
+            "title":"The American Version (Blonde Hair and Dog Named..."
+        },
+        "14535111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is it Margaret who puts a diaper on Dennis?</span></div></span></div>",
+            "created":1606263060,
+            "id":2945506,
+            "title":"Dennis Mitchell"
+        },
+        "145351111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup.",
+                "Hmm, other reason ideas."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She's punishing him for damaging one of her dolls?</span></div></span></div>",
+            "created":1606265340,
+            "id":2945521,
+            "title":"Yes"
+        },
+        "14535112":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, then. Is it Margaret Wade?</span></div></span></div>",
+            "created":1606262940,
+            "id":2945504,
+            "title":"Someone Else"
+        },
+        "145351121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Sure thing.",
+                "Hmm, anyone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The person who diapers her is Dennis?</span></div></span></div>",
+            "created":1606265220,
+            "id":2945519,
+            "title":"Yes"
+        },
+        "145351122":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about Joey McDonald?</span></div></span></div>",
+            "created":1606263000,
+            "id":2945505,
+            "title":"No, someone else"
         },
         "15":{
             "author_id":"supreme123",
@@ -20900,6 +21105,32 @@
             "id":2460367,
             "title":"Harley"
         },
+        "15422":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Punishment ",
+                "Part of a new law that was passed",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What reason is Rachel Diaz in diapers?</span></div></span></div>",
+            "created":1606222320,
+            "id":2945218,
+            "title":"rachel"
+        },
+        "154221":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Harley.",
+                "Anyone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is her mother punishing her?</span></div></span></div>",
+            "created":1606222620,
+            "id":2945223,
+            "title":"Punishment "
+        },
         "15423":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
@@ -21001,6 +21232,56 @@
             "created":1596862800,
             "id":2882401,
             "title":"Harley"
+        },
+        "1542331313":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Georgie",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who else is Suzy Diaz given to in the assignment?</span></div></span></div>",
+            "created":1606222140,
+            "id":2945215,
+            "title":"someone else"
+        },
+        "15423313131":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Suzy is dressed as a baby.",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are the rules worked out first?</span></div></span></div>",
+            "created":1606222860,
+            "id":2945226,
+            "title":"Georgie"
+        },
+        "154233132":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Lost a bet",
+                "Secretly likes them",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What other reason does Suzy Diaz end up in diapers?</span></div></span></div>",
+            "created":1606194000,
+            "id":2945214,
+            "title":"Any other reasons."
+        },
+        "1542331322":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "More reasons she'd like them."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does she like to be babied?</span></div></span></div>",
+            "created":1606222920,
+            "id":2945228,
+            "title":"Secretly likes them"
         },
         "1543":{
             "author_id":"jd88237",
@@ -63690,6 +63971,233 @@
             "id":2869211,
             "title":"orange is the new black"
         },
+        "1543332323223222233323222223333":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "2 broke girls",
+                "Cory in the house",
+                "Another show"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about these shows?</span></div></span></div>",
+            "created":1603774800,
+            "id":2930190,
+            "title":"another show"
+        },
+        "15433323232232222333232222233331":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup",
+                "Caroline.",
+                "Both of them, or other characters."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>WE focus on Max, here?</span></div></span></div>",
+            "created":1603774800,
+            "id":2930195,
+            "title":"2 broke girls"
+        },
+        "154333232322322223332322222333311":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Secretly likes to be babied due to not having a childhood",
+                "Part of a new law that was passed",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What reason does Max black end up in diapers?</span></div></span></div>",
+            "created":1603774800,
+            "id":2930196,
+            "title":"Yup"
+        },
+        "1543332323223222233323222223333111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup.",
+                "Anybody else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Her mother figure here is Caroline?</span></div></span></div>",
+            "created":1603849560,
+            "id":2930204,
+            "title":"Secretly likes to be babied due to not having a..."
+        },
+        "15433323232232222333232222233331111":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Yep",
+                "Feeding her",
+                "Giving Max a bath or something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do we see Caroline diapering Max?</span></div></span></div>",
+            "created":1603849920,
+            "id":2930211,
+            "title":"Yup."
+        },
+        "154333232322322223332322222333311111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Thanked her as herself.",
+                "Talked like a baby."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>As Caroline helped Max out of her clothes and got to work, Max...</span></div></span></div>",
+            "created":1603850580,
+            "id":2930222,
+            "title":"Yep"
+        },
+        "154333232322322223332322222333311112":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Sure.",
+                "Tries breast feeding.",
+                "Bottle feeding."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Caroline first feeds Max via baby food in a jar?</span></div></span></div>",
+            "created":1603903080,
+            "id":2930673,
+            "title":"Feeding her"
+        },
+        "1543332323223222233323222223333111122":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Yeah",
+                "Reluctant",
+                "Nope"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is Max okay with Caroline breastfeeding her</span></div></span></div>",
+            "created":1603903500,
+            "id":2930677,
+            "title":"Tries breast feeding."
+        },
+        "15433323232232222333232222233331111221":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "RC 1",
+                "RC 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What has Max agreeing to the idea?</span></div></span></div>",
+            "created":1603903800,
+            "id":2930681,
+            "title":"Yeah"
+        },
+        "15433323232232222333232222233331111222":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup",
+                "Another reason."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is she afraid of hurting Caroline by accident if she bites her while trying it?</span></div></span></div>",
+            "created":1603903800,
+            "id":2930680,
+            "title":"Reluctant"
+        },
+        "154333232322322223332322222333311113":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Putting her down for a nap.",
+                "Anything else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is Caroline giving Max a bath?</span></div></span></div>",
+            "created":1603851420,
+            "id":2930233,
+            "title":"Giving Max a bath or something else"
+        },
+        "1543332323223222233323222223333111132":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Yep",
+                "She wants to cuddle up with Caroline in her \"Mommy's\" bed"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is Max put down for a nap in her own bed?</span></div></span></div>",
+            "created":1603901460,
+            "id":2930664,
+            "title":"Putting her down for a nap."
+        },
+        "15433323232232222333232222233331111321":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "A toddler bed.",
+                "Her normal bed."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Caroline gently put Max into a crib in her size?</span></div></span></div>",
+            "created":1603901700,
+            "id":2930667,
+            "title":"Yep"
+        },
+        "15433323232232222333232222233331111322":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Nah."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Caroline allow this?</span></div></span></div>",
+            "created":1603901640,
+            "id":2930666,
+            "title":"She wants to cuddle up with Caroline in her ..."
+        },
+        "1543332323223222233323222223333112":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>This particular law allows those without a childhood, or other reasons, to be adopted and re-raised as babies?</span></div></span></div>",
+            "created":1603849620,
+            "id":2930205,
+            "title":"Part of a new law that was passed"
+        },
+        "15433323232232222333232222233331121":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Caroline",
+                "Peach",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who adopts Max due to this new Law?</span></div></span></div>",
+            "created":1603849800,
+            "id":2930208,
+            "title":"Yup"
+        },
+        "154333232322322223332322222333311211":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Went over rules with Max.",
+                "Anything else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>After getting the papers signed, Caroline first got supplies?</span></div></span></div>",
+            "created":1603850280,
+            "id":2930218,
+            "title":"Caroline"
+        },
+        "1543332323223222233323222223333113":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "A punishment.",
+                "A bet she loses.",
+                "Any more ideas."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Other reasons Max is diapered...</span></div></span></div>",
+            "created":1603850820,
+            "id":2930224,
+            "title":"Something else"
+        },
         "155":{
             "author_id":"kameron94",
             "author_name":"Kameron",
@@ -64236,7 +64744,7 @@
                 "Hmm, anyone else."
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Sabrina Mason's parent during this assignment for Home Economics class is Carly Beth?</span></div></span></div>",
-            "created":1597496340,
+            "created":1597467600,
             "id":2885927,
             "title":"Class assignment."
         },
@@ -64249,7 +64757,7 @@
                 "something else"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what other reason would Sabrina be in diapers?</span></div></span></div>",
-            "created":1597418040,
+            "created":1597381200,
             "id":2885556,
             "title":"Other ideas."
         },
@@ -64262,7 +64770,7 @@
                 "Anyone else."
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who is she babysitting?</span></div></span></div>",
-            "created":1597418700,
+            "created":1597381200,
             "id":2885560,
             "title":"tables are turned on her while babysitting"
         },
@@ -64274,7 +64782,7 @@
                 "Hmm, anything else it could do."
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>This lets her be adopted and re-raised as a baby?</span></div></span></div>",
-            "created":1597418760,
+            "created":1597381200,
             "id":2885561,
             "title":"part of a new law that was passed"
         },
@@ -64352,7 +64860,7 @@
                 "a combo of even more characters"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>are all 4 of them in diapers?</span></div></span></div>",
-            "created":1597413120,
+            "created":1597381200,
             "id":2885536,
             "title":"All 4 of them, or only 3 of them."
         },
@@ -64365,7 +64873,7 @@
                 "SE"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>This happens due to a new law that's past letting them be adopted and re-raised?</span></div></span></div>",
-            "created":1597413300,
+            "created":1597381200,
             "id":2885537,
             "title":"all four"
         },
@@ -64378,7 +64886,7 @@
                 "SE"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which three will be the lucky or unlucky \"babies?\"</span></div></span></div>",
-            "created":1597414140,
+            "created":1597381200,
             "id":2885541,
             "title":"3 of them"
         },
@@ -65298,7 +65806,7 @@
                 "someone else"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>who else from descendants ends up in diapers?</span></div></span></div>",
-            "created":1599790620,
+            "created":1599714000,
             "id":2900812,
             "title":"Someone else"
         },
@@ -65311,7 +65819,7 @@
                 "Other reason ideas."
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>This is due to her liking being babied by someone?</span></div></span></div>",
-            "created":1599790740,
+            "created":1599714000,
             "id":2900813,
             "title":"Mal"
         },
@@ -65730,7 +66238,7 @@
         "id":2148796,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
         "last_full_update":1599921240,
-        "modified":1599921240,
+        "modified":1606265340,
         "pretty_title":"Diaperbutts in fiction"
     }
 }

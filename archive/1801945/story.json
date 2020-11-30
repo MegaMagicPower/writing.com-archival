@@ -127,6 +127,21 @@
             "created":1596381720,
             "id":2879658,
             "title":"Hoshido\u2019s Royal Valkyire "
+        },
+        "15":{
+            "author_id":"obbo12",
+            "author_name":"geroge",
+            "choices":[
+                "Mystery of the Emblem/New Mystery",
+                "Gaiden/Shadows of Valentia",
+                "Three Houses",
+                "The Binding Blade/The Blazing Blade",
+                "How About Something Else?"
+            ],
+            "content":"<div class=\"\"><div> <span>Perhaps we should look to some of the other lands in Fire Emblem? Go older with Mystery of the Emblem/New Mystery in Archanea?<br>\r\n<br>\r\nOr try Gaiden/Shadows of Valentia in...Well, Valentia.<br>\r\n<br>\r\nOn the Contrary. Try the most recent installment:Three Houses? Plenty of options there for bigger ladies.<br>\r\n<br>\r\nFinally, there's the duology of The Binding Blade/The Blazing Blade on the GBA.</span></div></div>",
+            "created":1605864420,
+            "id":2942966,
+            "title":"More Game Options"
         }
     },
     "info":{
@@ -138,7 +153,7 @@
         "id":1801945,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
         "last_full_update":1596381720,
-        "modified":1596381720,
+        "modified":1605864420,
         "pretty_title":"Fire Emblem: Fats"
     }
 }

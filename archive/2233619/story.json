@@ -30,6 +30,19 @@
             "id":2913191,
             "title":"To the other side of the park"
         },
+        "111":{
+            "author_id":"themicroboy",
+            "author_name":"The Mystical Explorer",
+            "choices":[
+                "Timothy sees the light ",
+                "Timothy remains lost",
+                "Something else happens"
+            ],
+            "content":"<div class=\"\"><div> <span>Timothy screams as he is falling at a rapid speed as he sees where he is heading. Timothy embraces for impact as he falls into the wavy short brown hair of a young boy who\u2019s currently running around playing with the kids his age. From above you remember that this boy looked about 11 or 12 you figured you wouldn\u2019t want to spend the beginning of your adventure trapped in the brown forest that is this kid\u2019s hair. \u201cI need to find a way out of here\u201d you start venturing through the forest lost.<br>\r\nAfter a while you hear the child\u2019s voice saying \u201cokay Dad I\u2019m on my way\u201d which used to guide yourself out of the forest.<br>\r\n<br>\r\nDoes Timothy finds his way out or will he be lost in this kid\u2019s hair for quite a while.</span></div></div>",
+            "created":1603779000,
+            "id":2929669,
+            "title":"The Hair of the Young Boy"
+        },
         "112":{
             "author_id":"akatheguy",
             "author_name":"akatheguy",
@@ -103,8 +116,8 @@
                 "Maybe check out the bar",
                 "Enter an apartment window",
                 "A Store/Restaurant",
-                "Venue",
-                "A Club"
+                "A club",
+                "Your choice"
             ],
             "content":"<div class=\"\"><div> <span>Tumothy had laid back to relax letting the fly take control but once he heard the bustling sounds of the the big streets he instantly got up and looked around. When he was young Timothy was raised far away frok the big city but now that his whole life is finally in his own full control he looks around to see where he should begin.<br>\r\n<br>\r\nThere's many venues and stores and even apartments in this city he can literally to anywhere he want and thanks to his puny size he won't get caught. <br>\r\nHe looks around and wonders what to do next.</span></div></div>",
             "created":1603375140,
@@ -115,13 +128,13 @@
     "info":{
         "author_id":"themicroboy",
         "author_name":"The Mystical Explorer",
-        "brief_description":"A Tiny Human in a realm filled of giants tries to survive his life while also having fun",
+        "brief_description":"A Tiny Human in a world filled of giants tries to survive his life while also having fun",
         "created":1601490360,
         "description":"<td align=\"left\" class=\"norm\">This story is about the adventure of a miniature 18 year old boy who is the size of a mere ant. He was born in this way and had always lived with his family but one day he got a bit too careless and ended up being whisk away by the strong wind and taken on an adventure he never would've predicted. <br>\r\n<br>\r\nnow ofc as this is my first story ima lay down some ground rules<br>\r\n1-  No female interactions and I will for sure will delete<br>\r\n2- keep the sexual interactions at a minimal they can still happen just don't be too detailed<br>\r\n3- no toilet fetishes<br>\r\n4- if possible keep Timothy unaware, if you want him to be spotted by a giant then go-ahead just add in an option to keep the unaware story going. <br>\r\n5- Timothy is immortal and can only die from old age<br>\r\n6-have fun<br>\r\n</td>",
         "id":2233619,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1602345840,
-        "modified":1603470240,
+        "last_full_update":1603779000,
+        "modified":1605940740,
         "pretty_title":"Timothy's Great Adventure"
     }
 }

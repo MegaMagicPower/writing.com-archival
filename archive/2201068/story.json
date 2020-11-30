@@ -395,6 +395,92 @@
             "id":2758030,
             "title":"Regina mills"
         },
+        "1113":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Zelena",
+                "Ruby",
+                "Someone Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who else could punish Emma with diapers?</span></div></span></div>",
+            "created":1606482840,
+            "id":2946830,
+            "title":"Someone Else"
+        },
+        "11131":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Upset by something Emma did while babysitting Robyn",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What reason does Zelena punish Emma?</span></div></span></div>",
+            "created":1606483260,
+            "id":2946835,
+            "title":"Zelena"
+        },
+        "111311":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Gave Robyn a piece of chocolate",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What did Emma do while babysitting Robyn to upset Zelena?</span></div></span></div>",
+            "created":1606483380,
+            "id":2946838,
+            "title":"Upset by something Emma did while babysitting R..."
+        },
+        "1113111":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Yep",
+                "She turned Emma's panties into a diaper using magic",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did someone give Zelena the idea to punish her with diapers after this?</span></div></span></div>",
+            "created":1606483740,
+            "id":2946840,
+            "title":"Gave Robyn a piece of chocolate"
+        },
+        "11131111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Someone else's."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>It was Regina's idea?</span></div></span></div>",
+            "created":1606484220,
+            "id":2946841,
+            "title":"Yep"
+        },
+        "111311112":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No, Someone Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does she get the idea from Belle?</span></div></span></div>",
+            "created":1606499580,
+            "id":2946922,
+            "title":"Someone else's."
+        },
+        "11133":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Ashley(Storybrooke's Cinderella)",
+                "Someone Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who else could punish Emma with diapers?</span></div></span></div>",
+            "created":1606482900,
+            "id":2946831,
+            "title":"Someone Else"
+        },
         "112":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
@@ -1002,7 +1088,7 @@
                 "Something Else"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was Emma wearing a Snow White pajama top with matching pants that had a noticeable bulge from a diaper?</span></div></span></div>",
-            "created":1590845520,
+            "created":1590814800,
             "id":2843156,
             "title":"something else"
         },
@@ -1075,7 +1161,7 @@
                 "Another Way"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does Henry turn the tables on Emma?</span></div></span></div>",
-            "created":1598188380,
+            "created":1598158800,
             "id":2889949,
             "title":"Yup"
         },
@@ -1087,7 +1173,7 @@
                 "From someone else."
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>He gets the idea to do this from Regina?</span></div></span></div>",
-            "created":1598189760,
+            "created":1598158800,
             "id":2889955,
             "title":"Dares her to wear diapers"
         },
@@ -1112,7 +1198,7 @@
                 "something else"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>how else does Emma Swan end up in diapers?</span></div></span></div>",
-            "created":1593097680,
+            "created":1593061200,
             "id":2856677,
             "title":"No, Another Reason"
         },
@@ -1125,7 +1211,7 @@
                 "Someone Else"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who alerted Emma about the mysterious new daycare?</span></div></span></div>",
-            "created":1593097980,
+            "created":1593061200,
             "id":2856682,
             "title":"investigates a mysterious new daycare"
         },
@@ -1138,7 +1224,7 @@
                 "Emma finishes her lunch before investigating"
             ],
             "content":"<div class=\"\"><div> <span>Ruby came into the sheriff's office with Emma's lunch one day. Emma was at her desk doing paperwork when Ruby sits the picnic basket down on the desk.<br>\r\n<br>\r\nEmma (looking up at Ruby) \"Hey lunch is finally here.\"<br>\r\n<br>\r\nRuby: \"Yeah sorry we got a little backed up. Apparently some new people have joined us from another realm. They have opened a daycare to look after the town's kids.\"<br>\r\n<br>\r\nEmma: \"Must make Gold happy getting new tenants.\"<br>\r\n<br>\r\nRuby: \"That's the thing the daycare just appeared at the edge of town last night along with the new people.\"<br>\r\n<br>\r\nWhat happens next?</span></div></div>",
-            "created":1593100260,
+            "created":1593061200,
             "id":2856705,
             "title":"Ruby"
         },
@@ -1151,7 +1237,7 @@
                 "she asks something else"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>does Emma ask if anyone in storybrooke has applied to send their kids to the daycare?</span></div></span></div>",
-            "created":1593100680,
+            "created":1593061200,
             "id":2856708,
             "title":"Emma asks more questions"
         },
@@ -1163,7 +1249,7 @@
                 "No"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Emma: \"Has anyone we know applied to send their kids to the daycare?\"<br>\r\n<br>\r\nWhat is Ruby's answer?</span></div></span></div>",
-            "created":1593101220,
+            "created":1593061200,
             "id":2856714,
             "title":"yep"
         },
@@ -1176,7 +1262,7 @@
                 "something else"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ruby: \"Yeah, from what I've seen so far, a quite a few people have applied including Ashley, Zelena and your mom Mary Margaret.\"<br>\r\n<br>\r\nafter Ruby told Emma this and got her lunch....</span></div></span></div>",
-            "created":1593101940,
+            "created":1593061200,
             "id":2856718,
             "title":"Yes"
         },
@@ -1189,7 +1275,7 @@
                 "Another Period of Time"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How long did it take Emma to eat her lunch before going to check out the daycare?</span></div></span></div>",
-            "created":1593102480,
+            "created":1593061200,
             "id":2856723,
             "title":"she ate her lunch and went to check out the day..."
         },
@@ -1202,9 +1288,632 @@
                 "someone else"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>who else alerted about the new daycare to Emma?</span></div></span></div>",
-            "created":1593098340,
+            "created":1593061200,
             "id":2856690,
             "title":"Someone Else"
+        },
+        "1153322":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "New adoption law",
+                "Baby license",
+                "Something else about the new law"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does this new law involve being adopted and re-raised, or could there be a new kind of license that allows those who apply for it to be legally considered a baby?</span></div></span></div>",
+            "created":1603602000,
+            "id":2928653,
+            "title":"part of a new law that was passed"
+        },
+        "11533221":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup.",
+                "By someone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Emma finds herself adopted by Regina?</span></div></span></div>",
+            "created":1603639920,
+            "id":2928660,
+            "title":"New adoption law"
+        },
+        "115332211":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Emma's",
+                "Regina's",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was it Emma's idea for Regina to adopt her?</span></div></span></div>",
+            "created":1603646520,
+            "id":2928707,
+            "title":"Yup."
+        },
+        "1153322111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Not yet."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Regina agree to it right away?</span></div></span></div>",
+            "created":1603646700,
+            "id":2928709,
+            "title":"Emma's"
+        },
+        "115332212":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Ashley (Storybook's Cinderella)",
+                "Someone Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who else could Emma find herself adopted by?</span></div></span></div>",
+            "created":1603640640,
+            "id":2928664,
+            "title":"By someone else."
+        },
+        "1153322121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Nah, Emma's.",
+                "Someone else's."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does this turn out to be Ashley's idea, though?</span></div></span></div>",
+            "created":1603644180,
+            "id":2928697,
+            "title":"Ashley (Storybook's Cinderella)"
+        },
+        "11533221213":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Ruby",
+                "Someone Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who else had the idea of Ashley adopting Emma?</span></div></span></div>",
+            "created":1603644360,
+            "id":2928699,
+            "title":"Someone else's."
+        },
+        "115332212131":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "RC 1",
+                "RC 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What gave her this idea?</span></div></span></div>",
+            "created":1603644480,
+            "id":2928700,
+            "title":"Ruby"
+        },
+        "1153322122":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Ruby",
+                "Zelena",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who else could Emma be adopted by?</span></div></span></div>",
+            "created":1603640940,
+            "id":2928668,
+            "title":"Someone Else"
+        },
+        "11533221221":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Ruby's",
+                "Emma's"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who's idea was it for Ruby to adopt Emma?</span></div></span></div>",
+            "created":1603642500,
+            "id":2928683,
+            "title":"Ruby"
+        },
+        "115332212212":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Granny's diner",
+                "The sheriffs office",
+                "Somewhere else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where are the Emma and Ruby when she comes up with this idea?</span></div></span></div>",
+            "created":1603646340,
+            "id":2928705,
+            "title":"Emma's"
+        },
+        "1153322122121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "RC 1",
+                "RC 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What has Emma come up with this idea?</span></div></span></div>",
+            "created":1603646580,
+            "id":2928708,
+            "title":"Granny's diner"
+        },
+        "1153322122122":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><div> <span>Emma was at her desk in the sheriff's office reading over the new adoption law. As she read about it she thought about how she could use it to have the childhood she missed out on. Just then Ruby entered bringing Emma's lunch, but Emma was so caught up in her daydream she didn't notice. Ruby sat the lunch on the desk and tapped Emma on the shoulder getting her attention.<br>\r\n<br>\r\nDid Emma call Ruby mommy then?</span></div></div>",
+            "created":1603646820,
+            "id":2928711,
+            "title":"The sheriffs office"
+        },
+        "11533221221221":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Nah."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did it slip out?</span></div></span></div>",
+            "created":1603647360,
+            "id":2928714,
+            "title":"Yes"
+        },
+        "115332212212211":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Emma was still in her daydream about being adopted due to the new law when she felt Ruby shaking her and spoke without thinking.<br>\r\n<br>\r\nEmma: \"Yes mommy?\"<br>\r\n<br>\r\nDoes Ruby start laughing?</span></div></span></div>",
+            "created":1603658700,
+            "id":2928789,
+            "title":"Yeah."
+        },
+        "1153322122122111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "No, apologizes.",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Emma join in laughing after realizing what she said?</span></div></span></div>",
+            "created":1603658880,
+            "id":2928792,
+            "title":"Yes"
+        },
+        "11533221223":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Mary Margaret",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Mary Margaret decide to adopt and re-raise Emma due to not getting the chance to raise her when Emma was a baby?</span></div></span></div>",
+            "created":1606500360,
+            "id":2946924,
+            "title":"Someone else"
+        },
+        "115332212231":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Shopping for supplies",
+                "Anything else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Emma soon agreed to the idea. Rules were first set?</span></div></span></div>",
+            "created":1606500540,
+            "id":2946925,
+            "title":"Mary Margaret"
+        },
+        "1153323":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Class assignment",
+                "Blackmailed",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Emma get called into Henry's school to be part of a new assignment the school is trying?</span></div></span></div>",
+            "created":1606194000,
+            "id":2945222,
+            "title":"something else"
+        },
+        "11533231":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Another student."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Would Henry be her parent here?</span></div></span></div>",
+            "created":1606194000,
+            "id":2945225,
+            "title":"Class assignment"
+        },
+        "115332312":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No, Another Student"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is the student playing Emma's mom Violet from Camelot?</span></div></span></div>",
+            "created":1606194000,
+            "id":2945244,
+            "title":"Another student."
+        },
+        "1153323121":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Henry",
+                "Someone Else"
+            ],
+            "content":"<div class=\"\"><div> <span>When Violet's family had decided to stay in Storybook instead of going back to Camelot she joined Henry's class in school. Everything went fine until one day in Home Economics the teacher decided to split the class in two. Half the students would be parents and half would be babies. Unfortunately the addition of Violet gave them an uneven number so Violet was left with no one to play her baby.<br>\r\n<br>\r\nWho got the idea to call Emma?</span></div></div>",
+            "created":1606226100,
+            "id":2945245,
+            "title":"Yes"
+        },
+        "11533231211":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup.",
+                "Some other reason."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Henry did this due to feeling as if his mother hadn't had a real childhood?</span></div></span></div>",
+            "created":1606226220,
+            "id":2945248,
+            "title":"Henry"
+        },
+        "115332312111":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No, calls Emma telling her when Emma gets to the school"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Henry thinking about his mom Emma not having a real childhood came up with the idea of having Emma come in and play Violet's baby.<br>\r\n<br>\r\nDoes Henry tell the teacher his idea?</span></div></span></div>",
+            "created":1606228080,
+            "id":2945253,
+            "title":"Yup."
+        },
+        "1153323121112":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Nope, took some convincing."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was Emma open to this idea right away?</span></div></span></div>",
+            "created":1606228320,
+            "id":2945257,
+            "title":"No, calls Emma telling her when Emma gets to th..."
+        },
+        "11533231211121":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Wanting a real childhood",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What made Emma open to the idea right away?</span></div></span></div>",
+            "created":1606230720,
+            "id":2945277,
+            "title":"Yeah."
+        },
+        "115332312111211":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Rules were arranged.",
+                "Anything else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>First things first. Emma was dressed as a baby?</span></div></span></div>",
+            "created":1606230840,
+            "id":2945278,
+            "title":"Wanting a real childhood"
+        },
+        "115332312111212":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No, Another Reason"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Emma agree to it to help Henry out with his crush on Violet?</span></div></span></div>",
+            "created":1606231920,
+            "id":2945283,
+            "title":"Something Else"
+        },
+        "1153323121112121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Dressing.",
+                "Henry agreeing to be the daddy figure.",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She smiled, knowing about his crush on Violet, and agreed. Next to happen was...</span></div></span></div>",
+            "created":1606232100,
+            "id":2945284,
+            "title":"Yes"
+        },
+        "11533231211121213":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Reader's Choice 1",
+                "Reader's Choice 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Emma went over to Violet telling her she was going to play her baby. Violet handed Emma the paper for the assignment that had the rules on it.<br>\r\n<br>\r\nWhat were the rules?</span></div></span></div>",
+            "created":1606234680,
+            "id":2945293,
+            "title":"SE"
+        },
+        "115332312111212131":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Nope."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>1: Emma would be a baby when at Violet's house. 2: She'd be punished if she misbehaved. 3: This would be for the weekend. Other rules?</span></div></span></div>",
+            "created":1606235040,
+            "id":2945297,
+            "title":"Reader's Choice 1"
+        },
+        "1153323121112121311":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Yep",
+                "Nope"
+            ],
+            "content":"<div class=\"\"><div> <span>Rule 4: the assignment would last a whole week.<br>\r\n<br>\r\nRule 5: the menu in the school cafeteria has been changed to include food items for \"babies\" such as baby food, bottles of milk or baby formula, and baby safe food such as cut up hotdogs, peeled grape and so on.<br>\r\n<br>\r\nRule 6: some locations around town have been informed of the assignment so the \"parents\" can take their \"babies\" out in public.<br>\r\n<br>\r\nAny more rules?</span></div></div>",
+            "created":1606236300,
+            "id":2945300,
+            "title":"Yeah."
+        },
+        "11533231211121213112":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Anything else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>With the rules put in place, was Emma dressed in her first outfit for the assignment?</span></div></span></div>",
+            "created":1606236480,
+            "id":2945304,
+            "title":"Nope"
+        },
+        "115332312111212131121":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "A Onesie",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What was Emma's first outfit for the assignment?</span></div></span></div>",
+            "created":1606236660,
+            "id":2945306,
+            "title":"Yeah."
+        },
+        "1153323121112121311212":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "A baby dress",
+                "Just a shirt and diaper",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What else could be Emma outfit Emma wears first?</span></div></span></div>",
+            "created":1606236780,
+            "id":2945308,
+            "title":"Something Else"
+        },
+        "11533231211121213112122":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "No."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Henry help Violet with dressing her in it?</span></div></span></div>",
+            "created":1606236900,
+            "id":2945311,
+            "title":"Just a shirt and diaper"
+        },
+        "115332312111212131121222":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No, Somewhere Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Violet changes Emma on her own but do they do it in the classroom?</span></div></span></div>",
+            "created":1606401120,
+            "id":2946345,
+            "title":"No."
+        },
+        "1153323121112121311212221":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Emma, wanting to have fun, starts talking like a baby, or SE."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>As Violet goes to work, does she coo at Emma like she's a baby?</span></div></span></div>",
+            "created":1606401300,
+            "id":2946348,
+            "title":"Yes"
+        },
+        "11533231211121213112122212":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No, Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Emma wanting to have fun start cooing like a baby as she is dressed?</span></div></span></div>",
+            "created":1606405080,
+            "id":2946373,
+            "title":"Emma, wanting to have fun, starts talking like ..."
+        },
+        "115332312111212131121222121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Tells her she doesn't have to do that."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Violet reacts by cooing back at her?</span></div></span></div>",
+            "created":1606406220,
+            "id":2946383,
+            "title":"Yes"
+        },
+        "1153323121112121311212221211":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Emma goes to class with Violet",
+                "Violet goes back to the sheriff's office to watch Emma there"
+            ],
+            "content":"<div class=\"\"><div> <span>Violet laughs at Emma and coos back at her. With the t-shirt on Emma. Emma got out of her boots and pants. Emma then took off her panties and got down on a changing mat. Violet kneeled down and Emma lifted her legs and allowed Violet to put a clean diaper under her. With the clean diaper in place Violet powdered Emma and fastened the diaper.<br>\r\n<br>\r\nWhat happens after Emma's diapered?</span></div></div>",
+            "created":1606412940,
+            "id":2946422,
+            "title":"Yeah."
+        },
+        "11533231211121213112122212111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Violet, and some other \"parents.\""
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>We follow Emma meeting other \"babies?\"</span></div></span></div>",
+            "created":1606413300,
+            "id":2946424,
+            "title":"Emma goes to class with Violet"
+        },
+        "115332312111212131121222121111":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is Henry one of the \"babies\" Emma meets?</span></div></span></div>",
+            "created":1606415280,
+            "id":2946442,
+            "title":"Yeah."
+        },
+        "1153323121112121311212221211111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup.",
+                "Younger."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>As a \"baby\", is he older than her during the assignment?</span></div></span></div>",
+            "created":1606415460,
+            "id":2946444,
+            "title":"Yes"
+        },
+        "11533231211121213112122212111111":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Being that Henry was older was he in pull-ups instead of diapers?</span></div></span></div>",
+            "created":1606420260,
+            "id":2946471,
+            "title":"Yup."
+        },
+        "115332312111212131121222121112":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is Henry one of the other \"parents\" Emma meets?</span></div></span></div>",
+            "created":1606415220,
+            "id":2946440,
+            "title":"Violet, and some other \"parents.\""
+        },
+        "1153323121112121311212221211121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "He couldn't having his own \"baby.\""
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Henry offer to help Violet with Emma?</span></div></span></div>",
+            "created":1606415340,
+            "id":2946443,
+            "title":"Yes"
+        },
+        "11533231211121213112122212111211":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Since he lives with Emma he will keep her in diapers at home",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does Henry offer to help with Emma?</span></div></span></div>",
+            "created":1606427280,
+            "id":2946517,
+            "title":"Yeah."
+        },
+        "115332312111212131121222121112111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Nah."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was Violet okay with this arrangement?</span></div></span></div>",
+            "created":1606431180,
+            "id":2946533,
+            "title":"Since he lives with Emma he will keep her in di..."
+        },
+        "115332312111212131121222122":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Yeah",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is it time for lunch after class?</span></div></span></div>",
+            "created":1606422240,
+            "id":2946485,
+            "title":"No, Something Else"
+        },
+        "1153323121112121311212221221":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "In Violet's lap."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is Emma put into a high chair at the table?</span></div></span></div>",
+            "created":1606422360,
+            "id":2946487,
+            "title":"Yeah"
         },
         "12":{
             "author_id":"supreme123",
@@ -1377,7 +2086,7 @@
                 "something else"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>does Regina lose a bet with someone?</span></div></span></div>",
-            "created":1602167220,
+            "created":1602133200,
             "id":2917436,
             "title":"Anything else reason wise."
         },
@@ -1389,7 +2098,7 @@
                 "Someone Else"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who does Regina lose a bet with?</span></div></span></div>",
-            "created":1602168420,
+            "created":1602133200,
             "id":2917460,
             "title":"lost a bet"
         },
@@ -1401,7 +2110,7 @@
                 "SE"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The bet was she couldn't get into trouble with Henry?</span></div></span></div>",
-            "created":1602168780,
+            "created":1602133200,
             "id":2917466,
             "title":"Emma Swan"
         },
@@ -1413,7 +2122,7 @@
                 "It means something else."
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>This new law means Regina is adopted and re-raised by someone?</span></div></span></div>",
-            "created":1602167340,
+            "created":1602133200,
             "id":2917440,
             "title":"part of a new law that was passed"
         },
@@ -1647,6 +2356,18 @@
             "created":1569906000,
             "id":2726366,
             "title":"someone else"
+        },
+        "1552":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Other reasons."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Both the sisters are adopted thanks to a new law past?</span></div></span></div>",
+            "created":1606503660,
+            "id":2946936,
+            "title":"Both sisters."
         },
         "1553":{
             "author_id":"supreme123",
@@ -2053,8 +2774,8 @@
         "description":"<td align=\"left\" class=\"norm\">the girls from once upon a time end up in diapers, why is up to you.<br>\r\n<br>\r\nRule 1. no killing off characters.<br>\r\nRule 2. no ending the story paths before they actually start. I will delete those<br>\r\nRule 3. no insulting religion.<br>\r\nRule 4. no sex<br>\r\nRule 5. no weight gain<br>\r\n<br>\r\nhave fun :)</td>",
         "id":2201068,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1602168780,
-        "modified":1602168780,
+        "last_full_update":1603658880,
+        "modified":1606503660,
         "pretty_title":"once upon a time girls in diapers"
     }
 }

@@ -188,6 +188,21 @@
             "id":2603614,
             "title":"First party (Nintendo, Sony, or Microsoft)"
         },
+        "15522":{
+            "author_id":"mysterio",
+            "author_name":"FFtheSnake",
+            "choices":[
+                "Capcom",
+                "Ubisoft",
+                "Namco",
+                "SNK",
+                "Just pick one"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>From which company?</span></div></span></div>",
+            "created":1605739680,
+            "id":2942152,
+            "title":"Third Party (Capcom, Ubisoft, etc)"
+        },
         "1553":{
             "choices":[
                 "Disney",
@@ -360,7 +375,7 @@
         "id":1166788,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
         "last_full_update":1548912420,
-        "modified":1548912420,
+        "modified":1605739680,
         "pretty_title":"Ultimate Vore/Weight Gain Interactive"
     }
 }

@@ -356,7 +356,7 @@
                 "Another deviate from end of story"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Stay with this option or go with another choice</span></div></span></div>",
-            "created":1596551640,
+            "created":1596517200,
             "id":2880550,
             "title":"Hypnoitzed(or brainwashed) her into loving him"
         },
@@ -369,7 +369,7 @@
                 "Other"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>After Bling Bling gets Johnny to the M.O.S.O prize presentation <br>\r\nJohnny and the twins head back to the lab where </span></div></span></div>",
-            "created":1596552720,
+            "created":1596517200,
             "id":2880553,
             "title":"Another deviate from end of story"
         },
@@ -1223,6 +1223,33 @@
             "created":1476939600,
             "id":2226208,
             "title":"something else"
+        },
+        "145332":{
+            "author_id":"theroux3105",
+            "author_name":"Umbra Sombra",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Something with the episode \"Jumbo Johnny\"</span></div></span></div>",
+            "created":1604090400,
+            "id":2931881,
+            "title":"Something else"
+        },
+        "1453321":{
+            "author_id":"spunky",
+            "author_name":"Ace Jones",
+            "choices":[
+                "Yes.",
+                "No.",
+                "Other.",
+                "Your choice.",
+                "You decide."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What if an original character say yours truly replaced Johnny Bravo in this episode?</span></div></span></div>",
+            "created":1604091840,
+            "id":2931890,
+            "title":"Yes"
         },
         "15":{
             "author_id":"cartoon",
@@ -5141,7 +5168,7 @@
         },
         "15532222222222221":{
             "author_id":"andrewisback",
-            "author_name":"AndrewTheWolf2020",
+            "author_name":"AndrewTheWolf2021",
             "choices":[
                 "Became Fat?",
                 "More."
@@ -5165,7 +5192,7 @@
         },
         "155322222222222212":{
             "author_id":"andrewisback",
-            "author_name":"AndrewTheWolf2020",
+            "author_name":"AndrewTheWolf2021",
             "choices":[
                 "Gained Muscles?",
                 "More."
@@ -5240,7 +5267,7 @@
         },
         "1553222222222222122":{
             "author_id":"andrewisback",
-            "author_name":"AndrewTheWolf2020",
+            "author_name":"AndrewTheWolf2021",
             "choices":[
                 "Became Humans?",
                 "More."
@@ -5874,7 +5901,7 @@
         },
         "15532222222222222221":{
             "author_id":"andrewisback",
-            "author_name":"AndrewTheWolf2020",
+            "author_name":"AndrewTheWolf2021",
             "choices":[
                 "Fat?",
                 "More."
@@ -13584,8 +13611,8 @@
         "description":"<td align=\"left\" class=\"norm\">Charaecter:<br>\r\nthe ones from the TV show you like<br>\r\n<br>\r\n<br>\r\nRules:<br>\r\ngood language<br>\r\nno killing <br>\r\nkeep to the story<br>\r\nNO SEX!!!!</td>",
         "id":1635007,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1601022780,
-        "modified":1601022780,
+        "last_full_update":1604091840,
+        "modified":1604091840,
         "pretty_title":"TV What if "
     }
 }

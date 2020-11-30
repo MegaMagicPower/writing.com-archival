@@ -162,7 +162,7 @@
                 "No, Something Else"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does she tell Gloria after getting drunk?</span></div></span></div>",
-            "created":1595338380,
+            "created":1595307600,
             "id":2872525,
             "title":"SE"
         },
@@ -174,7 +174,7 @@
                 "Nah, has help."
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>On hearing this, does Gloria act alone in babying her stepdaughter?</span></div></span></div>",
-            "created":1595338500,
+            "created":1595307600,
             "id":2872526,
             "title":"Yes"
         },
@@ -568,7 +568,7 @@
                 "A spare room set up as a nursery, or somewhere else."
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Haley chose to diaper her former mother in the living room?</span></div></span></div>",
-            "created":1593104040,
+            "created":1593061200,
             "id":2856729,
             "title":"time to diaper Claire"
         },
@@ -697,6 +697,18 @@
             "id":2817151,
             "title":"someone else"
         },
+        "122":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Other reasons she likes to be babied."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She feels her parents set expectations for her too high?</span></div></span></div>",
+            "created":1603732680,
+            "id":2929360,
+            "title":"She likes being babied."
+        },
         "123":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
@@ -747,6 +759,55 @@
             "created":1586408400,
             "id":2816214,
             "title":"She find it hard being the mother of twins"
+        },
+        "13111":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Haley tells her mother",
+                "Finds diapers in Haley's size hidden in the closet with the twins diapers",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does Claire find out about this?</span></div></span></div>",
+            "created":1603730460,
+            "id":2929345,
+            "title":"Claire"
+        },
+        "131111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "RC 1",
+                "RC 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Haley tells her, but when?</span></div></span></div>",
+            "created":1603732140,
+            "id":2929358,
+            "title":"Haley tells her mother"
+        },
+        "131112":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Claire asked Haley about it, on finding the diapers. Haley's reaction was to start crying.</span></div></span></div>",
+            "created":1603731120,
+            "id":2929349,
+            "title":"Finds diapers in Haley's size hidden in the..."
+        },
+        "13112":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Finds diapers in haley's size in the closet.",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Her little sister finds this out how?</span></div></span></div>",
+            "created":1603733400,
+            "id":2929363,
+            "title":"Alex"
         },
         "1312":{
             "author_id":"supreme123",
@@ -925,7 +986,7 @@
                 "Something else about the new law"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does this new Law involve people getting adopted by others and re-raised? Or maybe the law could have a new kind of license that allows people who apply for it to be treated like and viewed as a baby in public?</span></div></span></div>",
-            "created":1595341860,
+            "created":1595307600,
             "id":2872550,
             "title":"part of a new law that was passed"
         },
@@ -937,7 +998,7 @@
                 "Haley, or someone else."
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Gloria is adopted by Claire?</span></div></span></div>",
-            "created":1595341920,
+            "created":1595307600,
             "id":2872553,
             "title":"New adoption laws"
         },
@@ -1050,8 +1111,8 @@
         "description":"<td align=\"left\" class=\"norm\">Bringing back this story. Had to get rid of it after it was cluttered with chapters I felt went no where. Try to make chapters as long and as detailed as you can. Nothing to over the top. No insulting characters, sex, drugs, humiliation.</td>",
         "id":2217537,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1596804360,
-        "modified":1603546200,
+        "last_full_update":1603733400,
+        "modified":1603733400,
         "pretty_title":"Modern Family AB/DL"
     }
 }

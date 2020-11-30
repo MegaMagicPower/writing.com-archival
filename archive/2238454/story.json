@@ -1,0 +1,641 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "One of the Younger Kids",
+                "One of the Older Kids",
+                "One of the Parents",
+                "Someone Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which character shall we start with?</span></div></span></div>",
+            "created":1606343820,
+            "id":2945997,
+            "title":"Select A Character"
+        },
+        "11":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Ryan McHiggins",
+                "Brad Hunter",
+                "Alice Finklemeyer",
+                "Someone Else"
+            ],
+            "content":"<div class=\"\"><div> <span>Which of the younger kids do we focus on?<br>\r\n<br>\r\n<b>Ryan McHiggins</b>, age 2.5. The son of Walter and Wendy, and a smart and kind but cowardly toddler. His fears include bullies, thunder and lightning, and the rabbit who sells batteries on television. Nonetheless, if one of his friends is being bullied, he will put aside his cowardice long enough to save them. His goals in life are to be a brave hero and to be toilet-trained before his third birthday. Ryan takes after his father, Walter, in both looks and personality.<br>\r\n<br>\r\n<b>Brad Hunter</b>, age 2.5. The son of Stephen and Ashley, and an adventurous toddler who is Ryan's best friend. Brad is a lot more adventurous than Ryan is, and often tries to talk him into going on dangerous adventures. He does care a lot about Ryan, though, and is often quick to defend him if someone is trying to hurt him physically or emotionally. Brad's interests include sports, video games, and sports-themed video games. Brad takes after his father, Stephen, in personality, but his mother, Ashley, in looks.<br>\r\n<br>\r\n<b>Alice Finklemeyer</b>, age 2.5. The daughter of Hector and Helen. Alice is beautiful as she is kind. Her favorite toy is Orville, a teddy bear she got from the mall in her old home on her second birthday. When she first moved in next to the McHiggins' house, she won the hearts of Ryan and Brad with her beauty, but the three settled on being just really good friends with each other for the time being. Ryan and Brad are extremely loyal to Alice, and will protect her from Butch at any costs. Alice is afraid of spiders, and will freak out if one gets near her.</span></div></div>",
+            "created":1606344240,
+            "id":2946002,
+            "title":"One of the Younger Kids"
+        },
+        "111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "His House",
+                "A Friend's House",
+                "The Park",
+                "The Beach",
+                "Somewhere Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where will Ryan be spending the day?</span></div></span></div>",
+            "created":1606344540,
+            "id":2946005,
+            "title":"Ryan McHiggins"
+        },
+        "1111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ryan was spending the day at his house.<br>\r\n<br>\r\n<b>Did he have any friends come to visit him?</b></span></div></span></div>",
+            "created":1606598640,
+            "id":2947700,
+            "title":"His House"
+        },
+        "11111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Brad",
+                "Alice",
+                "Luke",
+                "Brad and Alice",
+                "Someone Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which friend or friends came to visit Ryan?</span></div></span></div>",
+            "created":1606598700,
+            "id":2947701,
+            "title":"Yes"
+        },
+        "111111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Ryan's Wooden Blocks",
+                "Ryan's Toy Trains",
+                "Video Games",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Brad came to visit Ryan.<br>\r\n<br>\r\n<b>What did the two toddlers play with?</b></span></div></span></div>",
+            "created":1606598760,
+            "id":2947702,
+            "title":"Brad"
+        },
+        "1111112":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "One or More of Them Needed to Use the Bathroom",
+                "Another of Ryan's Friends Came Over",
+                "Wendy Called Them into the Kitchen For a Snack",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><div> <span>Ryan and Brad decided to play with Ryan's toy trains. Before long, the two toddlers built an oval-shaped layout that had a stone bridge, a tunnel, a water tower, and a level crossing. Ryan chose to play with the blue train to match his blue shirt, while Brad chose the green one to match his green shirt.<br>\r\n<br>\r\n<b>As the two toddlers played with their trains, what happened?</b></span></div></div>",
+            "created":1606599360,
+            "id":2947712,
+            "title":"Ryan's Toy Trains"
+        },
+        "11111121":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Both",
+                "Just One"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did both toddlers need to use the bathroom or just one?</span></div></span></div>",
+            "created":1606613100,
+            "id":2947797,
+            "title":"One or More of Them Needed to Use the Bathroom"
+        },
+        "111111212":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Ryan",
+                "Brad"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who needed to use the bathroom?</span></div></span></div>",
+            "created":1606613580,
+            "id":2947802,
+            "title":"Just One"
+        },
+        "11111122":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Alice",
+                "Luke",
+                "Someone Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The doorbell rang. Another of Ryan's friends came over to play. Who was it?</span></div></span></div>",
+            "created":1606599420,
+            "id":2947713,
+            "title":"Another of Ryan's Friends Came Over"
+        },
+        "111113":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Ryan's Wooden Blocks",
+                "Ryan's Toy Trains",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Luke had come to visit Ryan.<br>\r\n<br>\r\n<b>What did the two toddlers play with?</b></span></div></span></div>",
+            "created":1606626000,
+            "id":2948242,
+            "title":"Luke"
+        },
+        "1111131":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "One or More of Them Needed to Use the Bathroom",
+                "Another of Ryan's Friends Came Over",
+                "Wendy Called Them into the Kitchen For a Snack",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><div> <span>Ryan and Luke decided to play with Ryan's wooden blocks. Ryan was an expert at building things, whether it was block towers, wooden train tracks, or sandcastles. Before long, the two toddlers had built an amazing tower.<br>\r\n<br>\r\n<b>As the two toddlers continued to build, what happened?</b></span></div></div>",
+            "created":1606626000,
+            "id":2948245,
+            "title":"Ryan's Wooden Blocks"
+        },
+        "11111311":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Both",
+                "Just One"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did both toddlers need to use the bathroom or just one?</span></div></span></div>",
+            "created":1606626000,
+            "id":2948246,
+            "title":"One or More of Them Needed to Use the Bathroom"
+        },
+        "111113112":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Ryan",
+                "Luke"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who needed to use the bathroom?</span></div></span></div>",
+            "created":1606700880,
+            "id":2948248,
+            "title":"Just One"
+        },
+        "112":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "His House",
+                "A Friend's House",
+                "The Park",
+                "The Beach",
+                "Somewhere Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where will Brad be spending the day today?</span></div></span></div>",
+            "created":1606344600,
+            "id":2946008,
+            "title":"Brad Hunter"
+        },
+        "113":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Her House",
+                "A Friend's House",
+                "The Park",
+                "The Beach",
+                "Somewhere Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where will Alice be spending the day today?</span></div></span></div>",
+            "created":1606344720,
+            "id":2946009,
+            "title":"Alice Finklemeyer"
+        },
+        "1131":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do any friends visit her?</span></div></span></div>",
+            "created":1606701660,
+            "id":2948259,
+            "title":"Her House"
+        },
+        "11311":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Ryan",
+                "Brad",
+                "The Johnson Sisters",
+                "Ryan and Brad",
+                "Someone Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which friend or friends visit Alice?</span></div></span></div>",
+            "created":1606701720,
+            "id":2948260,
+            "title":"Yes"
+        },
+        "113111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "House",
+                "Hide and Seek",
+                "Tag",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ryan came to visit.<br>\r\n<br>\r\n<b>What did the two toddlers play?</b></span></div></span></div>",
+            "created":1606702260,
+            "id":2948267,
+            "title":"Ryan"
+        },
+        "1131111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "One or More of Them Needed to Use the Bathroom",
+                "Another of Alice's Friends Came Over",
+                "Helen Called Them into the Kitchen for a Snack",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The two toddlers decided to play house. Alice got out her Tiny Townspeople dollhouse so she and Ryan could play with it. The two toddlers enjoyed acting out the various family roles.<br>\r\n<br>\r\n<b>As they played, what happened?</b></span></div></span></div>",
+            "created":1606702380,
+            "id":2948269,
+            "title":"House"
+        },
+        "11311112":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Anyone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was it one of the Johnson sisters?</span></div></span></div>",
+            "created":1606702980,
+            "id":2948273,
+            "title":"Another of Alice's Friends Came Over"
+        },
+        "113111122":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Brad",
+                "Mike and/or Melanie",
+                "Someone Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who else could it be?</span></div></span></div>",
+            "created":1606704900,
+            "id":2948289,
+            "title":"Anyone else."
+        },
+        "1131111222":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup",
+                "Both."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Turns out it's only one of them?</span></div></span></div>",
+            "created":1606705080,
+            "id":2948292,
+            "title":"Mike and/or Melanie"
+        },
+        "113113":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "One at a time."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Doo all 3 enter the house at the same time, however?</span></div></span></div>",
+            "created":1606702140,
+            "id":2948265,
+            "title":"The Johnson Sisters"
+        },
+        "113115":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Mike and Sigrid.",
+                "Mike and Melanie, or anyone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is it Melanie?</span></div></span></div>",
+            "created":1606702140,
+            "id":2948264,
+            "title":"Someone Else"
+        },
+        "1132":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "At someone else's house."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She ends up at Mike's house?</span></div></span></div>",
+            "created":1606527960,
+            "id":2947134,
+            "title":"A Friend's House"
+        },
+        "11322":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Ryan's House",
+                "Brad's House",
+                "The Johnson Sisters' House",
+                "Somewhere Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Whose house could Alice go to?</span></div></span></div>",
+            "created":1606539600,
+            "id":2947679,
+            "title":"At someone else's house."
+        },
+        "114":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Luke O'Reilly",
+                "Winston Bixby",
+                "Melanie Martindale",
+                "Someone Else"
+            ],
+            "content":"<div class=\"\"><div> <span>Okay, then. How about:<br>\r\n<br>\r\n<b>Luke O'Reilly</b>, age 2.5. The son of Colleen and Connor. Luke is an Irish toddler who's shy but friendly. He has made friends with other toddlers his age, namely Ryan McHiggins, Brad Hunter, Alice Finklemeyer, and Winston Bixby. Like many toddlers his age, he still wears diapers, but is getting used to being potty-trained. His pet is a cat named Lucky.<br>\r\n<br>\r\n<b>Winston Bixby</b>, age 2.5. The son of Albert and Geraldine, and the younger brother of Amanda (age 6), and Jonathan (age 4). Like most toddlers his age, Winston still wears diapers, but is getting used to using the potty. Winston was the nicest of the three Bixby children. He hated whenever Amanda and Jonathan fought with each other, and he didn't want to be like them. He became friends with other toddlers his age, namely Ryan McHiggins, Brad Hunter, Alice Finklemeyer, and Luke O'Reilly.<br>\r\n<br>\r\n<b>Melanie Martindale</b>, age 1. The daughter of Morgan and Mallory, and the younger sister of Mike. Melanie is younger than the other toddlers, who can all run around and talk. She is also too young to be potty-trained, so as a result, she still wears diapers. She also sleeps in a crib and drinks from a baby bottle. Mike is very glad to have Melanie as his little sister, and he is very protective of her as well. Melanie's goals in life are to walk all by herself and say her first words.</span></div></div>",
+            "created":1606353120,
+            "id":2946066,
+            "title":"Someone Else"
+        },
+        "1141":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "His House",
+                "A Friend's House",
+                "The Park",
+                "The Beach",
+                "Somewhere Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where will Luke be spending the day today?</span></div></span></div>",
+            "created":1606701180,
+            "id":2948255,
+            "title":"Luke O'Reilly"
+        },
+        "11411":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do any friends come to visit him?</span></div></span></div>",
+            "created":1606701240,
+            "id":2948256,
+            "title":"His House"
+        },
+        "1143":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Her House",
+                "The Park",
+                "The Beach",
+                "Somewhere Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where will Melanie be spending the day?</span></div></span></div>",
+            "created":1606701120,
+            "id":2948251,
+            "title":"Melanie Martindale"
+        },
+        "11431":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Someone was feeding her.",
+                "Hmm, anything else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She was at her house. She was being changed by Mike?</span></div></span></div>",
+            "created":1606702020,
+            "id":2948263,
+            "title":"Her House"
+        },
+        "1144":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will we focus on the Johnson sisters, a trio of girls that Alice has a \"frenemy\" relationship with?</span></div></span></div>",
+            "created":1606597440,
+            "id":2947683,
+            "title":"Someone Else"
+        },
+        "11441":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "All Three",
+                "Just One"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will we focus on all three Johnson sisters or just one?</span></div></span></div>",
+            "created":1606597500,
+            "id":2947684,
+            "title":"Yes"
+        },
+        "114411":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Their house.",
+                "Alice's.",
+                "Any place else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>All three are where when this story begins?</span></div></span></div>",
+            "created":1606597740,
+            "id":2947688,
+            "title":"All Three"
+        },
+        "1144113":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "The Park",
+                "The Beach",
+                "The Library",
+                "A Store",
+                "Somewhere Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where else could they be?</span></div></span></div>",
+            "created":1606597980,
+            "id":2947691,
+            "title":"Any place else."
+        },
+        "114412":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Jillian",
+                "Jane",
+                "Janet"
+            ],
+            "content":"<div class=\"\"><div> <span>Which Johnson sister will we focus on?<br>\r\n<br>\r\n* <b>Jillian</b> - The brawn. She's the eldest sister, being three minutes older than Jane and six minutes older than Janet. She's the meanest of the sisters, as he is constantly in a bad mood. She hates boys, and thinks that girls are superior to them in any way. She also delights in picking on her sisters, but she objects to anybody else doing it. Both she and Alice truly want to be friends with each other, but feel that can only happen if one of them changes their ways. Alice thinks Jillian should be nicer to boys, while Jillian thinks Alice should stop spending so much time around them.<br>\r\n<br>\r\n* <b>Jane</b> - The brains. She's the middle sister, being three minutes younger than Jillian and three minutes older than Janet. She's the smartest of the sisters, as she knows how to read, use the potty by herself, and play a toy piano. Like Jillian, she thinks that girls are superior to boys in every way (with the exception of Janet).<br>\r\n<br>\r\n* <b>Janet</b> - The beauty. She's the youngest sister, being six minutes younger than Jillian and three minutes younger than Jane. She's the nicest of the sisters, as she has no animosity towards boys whatsoever. She has an unrequited crush on Brad, who unfortunately sees her as annoying and crazy.</span></div></div>",
+            "created":1606597920,
+            "id":2947690,
+            "title":"Just One"
+        },
+        "1144122":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "At her house.",
+                "Somewhere else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Jane is where when we start?</span></div></span></div>",
+            "created":1606598220,
+            "id":2947694,
+            "title":"Jane"
+        },
+        "11441222":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "The Park",
+                "The Beach",
+                "The Library",
+                "A Store",
+                "Somewhere Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where else could Jane go?</span></div></span></div>",
+            "created":1606700940,
+            "id":2948249,
+            "title":"Somewhere else."
+        },
+        "12":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Butch Ironhammer",
+                "Mike Martindale",
+                "Someone Else"
+            ],
+            "content":"<div class=\"\"><div> <span>Which of the older kids do we focus on?<br>\r\n<br>\r\n<b>Butch Ironhammer</b>, age 4.5. The son of Harold and Maxine. Butch is big, strong, and mean, and has given himself a reputation for being a big bully. He hates babies, and is not nice to kids his own age, either. In fact, he's been kicked out of preschool several times for his violent behavior. Butch rules the playground and tries to keep \"stupid babies\" off of it, but what he has in muscle, he lacks in brains. Thanks in part to being a preschool drop-out, he can't read or even count to three. He loves meats and sweets, but hates vegetables, as he thinks they're only for girls and rabbits. Butch's pets include a bulldog named Meathook and a spider named Trapper.<br>\r\n<br>\r\n<b>Mike Martindale</b>, age 6. The son of Morgan and Mallory, and the older brother of Melanie. Mike is good at many different things, such as rollerblading, skateboarding, baseball, and video games, but he also has a soft spot for children under the age of three, namely due to having a baby sister of his own. He has a crush on Sigrid Silverman, is fully supportive of Ryan and Brad's crushes on Alice, and isn't afraid to stand up to bullies like Butch.</span></div></div>",
+            "created":1606344480,
+            "id":2946004,
+            "title":"One of the Older Kids"
+        },
+        "122":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "His House",
+                "A Friend's House",
+                "The Park",
+                "The Beach",
+                "Somewhere Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where will Mike be spending the day today?</span></div></span></div>",
+            "created":1606344780,
+            "id":2946010,
+            "title":"Mike Martindale"
+        },
+        "1221":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Mike was spending the day at his house.<br>\r\n<br>\r\n<b>Did any friends come to visit him?</b></span></div></span></div>",
+            "created":1606598040,
+            "id":2947692,
+            "title":"His House"
+        },
+        "12211":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Alice.",
+                "The Johnson sisters, or anyone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who came by to see him, Sigrid?</span></div></span></div>",
+            "created":1606598340,
+            "id":2947698,
+            "title":"Yes"
+        },
+        "1222":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "At someone else's house."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is he at Alice's, helping to babysit her with one of his friends?</span></div></span></div>",
+            "created":1606487280,
+            "id":2946864,
+            "title":"A Friend's House"
+        },
+        "1225":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "School",
+                "A Store",
+                "Somewhere Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where else could Mike be spending the day?</span></div></span></div>",
+            "created":1606402860,
+            "id":2946363,
+            "title":"Somewhere Else"
+        },
+        "123":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Sigrid Silverman",
+                "Amanda Bixby",
+                "Someone Else"
+            ],
+            "content":"<div class=\"\"><div> <span>Okay, then. How about...<br>\r\n<br>\r\n<b>Sigrid Silverman</b>, age 6. The daughter of Sidney and Sandra. Sigrid is a kind and beautiful girl. She has a crush on Mike, who likewise, returns her affections. She is Amanda's best friend and often acts as a voice of reason for her. Her pet is a black cat named Jasmine.<br>\r\n<br>\r\n<b>Amanda Bixby</b>, age 6. The daughter of Albert and Geraldine, and the older sister of Jonathan (age 4) and Winston (age 2.5). Amanda is very bossy and likes to assert her position as both the eldest child and the only daughter. She resents having two younger brothers, and wishes she had a little sister instead. She and Jonathan are constantly at each other's throats, and although Amanda takes delight in bossing her brothers about, she objects to anyone else doing it. She is best friends with Sigrid, who often acts as a voice of reason for her, but Mike finds it hard to get along with her, and wishes she would treat her brothers the way he treats his little sister. Amanda is jealous of Mike for having a little sister.</span></div></div>",
+            "created":1606357200,
+            "id":2946098,
+            "title":"Someone Else"
+        },
+        "13":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Walter McHiggins",
+                "Wendy McHiggins",
+                "Stephen Hunter",
+                "Ashley Hunter",
+                "Someone Else"
+            ],
+            "content":"<div class=\"\"><div> <span>Which parent do we focus on?<br>\r\n<br>\r\n<b>Walter McHiggins</b>, age 25. Ryan's father. Walter resembles an adult version of Ryan in both looks and personality. He works as a stockman at the local Mega Mart. Walter is actually very good at his job and is willing to help out his wife and son whenever he can, but he's still a child at heart. Ryan takes after him in both looks and personality.<br>\r\n<br>\r\n<b>Wendy McHiggins</b>, age 24. Ryan's mother. Wendy spends a lot of her time taking care of Ryan, but in her spare time, she likes to pursue her passion of writing. Although she only has one son, she sometimes feels like she has two. The other one? Walter.<br>\r\n<br>\r\n<b>Stephen Hunter</b>, age 25. Brad's father and Walter's best friend. Stephen has an extensive knowledge of video games, which makes him the ideal employee at the local GameShop. Although he's very good at his job and he's willing to help out his wife and son whenever he can, he spends a lot of his spare time playing video games, and is also more of a softy when it comes to disciplining Brad. Stephen and Walter have been best friends since childhood, and their friendship lives on through their sons, Brad and Ryan.<br>\r\n<br>\r\n<b>Ashley Hunter</b>, age 24. Brad's mother. She spends a lot of her time taking care of Brad, and she's also much more strict than Stephen is when it comes to disciplining him. Underneath her motherly exterior, she enjoys video games and is always happy to be Stephen's second player.</span></div></div>",
+            "created":1606395720,
+            "id":2946308,
+            "title":"One of the Parents"
+        }
+    },
+    "info":{
+        "author_id":"bryanmchunter",
+        "author_name":"FlyingDuckManGenesis",
+        "brief_description":"A series of interactive stories based on Toddlerhood, a series by FDMG Productions.",
+        "created":1606343580,
+        "description":"<td align=\"left\" class=\"norm\">A series of interactive stoies based on <i>Toddlerhood</i>, a future animated series by FDMG Productions.<br>\r\n<br>\r\n<b>Rules:</b><br>\r\n<br>\r\n1. No vore, gore or deaths.<br>\r\n2. Diaper changes are allowed.<br>\r\n3. No age progression/Age regression.<br>\r\n4. Please keep each chapter E-rated. Offensive language should be limited to implications, and sexual content is strictly prohibited.<br>\r\n5. Keep it realistic. Unrealistic situations should be limited to imagine spots and dream sequences.<br>\r\n6. Nudity should be limited to bathtime and potty-training.<br>\r\n7. Enjoy and have fun!</td>",
+        "id":2238454,
+        "image_url":"https://www.writing.com/main/images/action/display/ver/1606705139/item_id/2238454.jpeg",
+        "last_full_update":null,
+        "modified":1606705080,
+        "pretty_title":"Toddlerhood Interactive"
+    }
+}

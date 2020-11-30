@@ -3376,6 +3376,119 @@
             "id":2850237,
             "title":"Someone Else"
         },
+        "115333332":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "New adoption law",
+                "Baby license",
+                "Something else about the new law"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does this new law allow people to be adopted and re-raised? Or maybe there could be a new kind of license that allows those who apply for it to be legally considered babies?</span></div></span></div>",
+            "created":1606570320,
+            "id":2947473,
+            "title":"New law that was passed"
+        },
+        "1153333321":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Evie.",
+                "By someone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Mal finds herself being adopted by Jane?</span></div></span></div>",
+            "created":1606570740,
+            "id":2947485,
+            "title":"New adoption law"
+        },
+        "11533333213":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Fairy godmother",
+                "Audrey",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who else could Mal be adopted by?</span></div></span></div>",
+            "created":1606571640,
+            "id":2947499,
+            "title":"By someone else."
+        },
+        "115333332131":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Jane dresses her new little sister.",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are rules arranged?</span></div></span></div>",
+            "created":1606571820,
+            "id":2947500,
+            "title":"Fairy godmother"
+        },
+        "115333332133":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Yes",
+                "No, Someone Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is Mal adopted by Aurora?</span></div></span></div>",
+            "created":1606573860,
+            "id":2947510,
+            "title":"Someone else"
+        },
+        "1153333321331":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Yeah",
+                "Audrey dresses her new little sister",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>After signing the papers, does Aurora go over the rules with her new daughter?</span></div></span></div>",
+            "created":1606581480,
+            "id":2947541,
+            "title":"Yes"
+        },
+        "11533333213312":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Mal finds herself being put into a baby dress?</span></div></span></div>",
+            "created":1606582680,
+            "id":2947550,
+            "title":"Audrey dresses her new little sister"
+        },
+        "115333332133122":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "A Onesie",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What else could Mal find herself being put in?</span></div></span></div>",
+            "created":1606589640,
+            "id":2947592,
+            "title":"Something else."
+        },
+        "1153333321331221":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Finds she can't."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Mal try to fight back?</span></div></span></div>",
+            "created":1606590060,
+            "id":2947597,
+            "title":"A Onesie"
+        },
         "115333333":{
             "author_id":"jd88237",
             "author_name":"jdawg1985",
@@ -3563,6 +3676,31 @@
             "id":2889977,
             "title":"Mal"
         },
+        "122313":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Audrey",
+                "Dizzy",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which of the other girls treats Evie like a baby?</span></div></span></div>",
+            "created":1606563720,
+            "id":2947377,
+            "title":"someone else"
+        },
+        "1223132":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Sure.",
+                "Nah."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does she have help, though?</span></div></span></div>",
+            "created":1606539600,
+            "id":2947401,
+            "title":"Dizzy"
+        },
         "123":{
             "author_id":"abdwb",
             "author_name":"Jake",
@@ -3700,6 +3838,31 @@
             "created":1586494800,
             "id":2816601,
             "title":"she wants to be Dizzy's little sister"
+        },
+        "12412112":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Instantly",
+                "Gradually"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The spell would take full effect, how long?</span></div></span></div>",
+            "created":1606516860,
+            "id":2947029,
+            "title":"4 years old"
+        },
+        "124121121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Being fed by Dizzy.",
+                "Anything else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Evie soon found herself dressed as a 4 year old?</span></div></span></div>",
+            "created":1606517220,
+            "id":2947039,
+            "title":"Instantly"
         },
         "1241212":{
             "author_id":"supreme123",
@@ -4070,6 +4233,117 @@
             "created":1583125200,
             "id":2795794,
             "title":"Lonnie,daughter of Mulan"
+        },
+        "12532":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Blackmail",
+                "Part of a new law that was passed",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What other reason does Evie end up in diapers?</span></div></span></div>",
+            "created":1606564080,
+            "id":2947383,
+            "title":"Any other reasons."
+        },
+        "125321":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "Audrey",
+                "Someone Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who is blackmailing Evie into wearing diapers?</span></div></span></div>",
+            "created":1606539600,
+            "id":2947451,
+            "title":"Blackmail"
+        },
+        "1253211":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Evie wears childish underwear",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What embarrassing thing about Evie does Audrey find out about?</span></div></span></div>",
+            "created":1606569900,
+            "id":2947461,
+            "title":"Audrey"
+        },
+        "12532111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup.",
+                "Another design."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Said underwear has a Snow White design on it?</span></div></span></div>",
+            "created":1606570560,
+            "id":2947478,
+            "title":"Evie wears childish underwear"
+        },
+        "125321111":{
+            "author_id":"jd88237",
+            "author_name":"jdawg1985",
+            "choices":[
+                "A pair found in the laundry room with Evie's name on the tag",
+                "Another Way"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How is it found out Evie wears Snow White panties?</span></div></span></div>",
+            "created":1606573980,
+            "id":2947511,
+            "title":"Yup."
+        },
+        "1253212":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup.",
+                "Hmm, anyone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is it Mal that's doing it?</span></div></span></div>",
+            "created":1606570200,
+            "id":2947469,
+            "title":"Someone Else"
+        },
+        "125322":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "A new license."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>This results in her being adopted?</span></div></span></div>",
+            "created":1606539600,
+            "id":2947403,
+            "title":"Part of a new law that was passed"
+        },
+        "1253221":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Mal ",
+                "Jane",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who adopts Evie through this new law?</span></div></span></div>",
+            "created":1606570020,
+            "id":2947467,
+            "title":"Yeah."
+        },
+        "12532212":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Jane dressed her and Carlos's new daughter.",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>First, after getting the papers signed, Jane and Carlos went over rules with Evie?</span></div></span></div>",
+            "created":1606570680,
+            "id":2947483,
+            "title":"Jane"
         },
         "13":{
             "author_id":"kameron94",
@@ -5733,7 +6007,7 @@
         "id":2199435,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
         "last_full_update":1600368420,
-        "modified":1600368420,
+        "modified":1606590060,
         "pretty_title":"Disney descendants girls diapered"
     }
 }

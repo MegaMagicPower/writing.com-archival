@@ -43,6 +43,19 @@
             "id":2512875,
             "title":"Aang"
         },
+        "1212":{
+            "author_id":"hptheb",
+            "author_name":"HPB",
+            "choices":[
+                "Toph?",
+                "Azula?",
+                "Ty Lee or Mai?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who else would it be with?</span></div></span></div>",
+            "created":1604277540,
+            "id":2932897,
+            "title":"Romance (Other)"
+        },
         "1213":{
             "author_id":"imageveiwer",
             "author_name":"Imageviewer",
@@ -76,7 +89,7 @@
                 "no someother place"
             ],
             "content":"<div class=\"\"><div> <span>Aang didn't know where to begin.<br>\r\n<br>\r\none moment he was in his Avatar state in the Earth kingdom city of Ba-sing-sa, and now he was drifting in the void.<br>\r\n<br>\r\nHe remember the paralysing pain that coursed through his body and he remembered Roku's words about what happens should he die in the Avatar State, yet as he drifts he thought that since he's the avatar that he shouldn't even be existing or feeling anything in his blue glowing form.<br>\r\n<br>\r\nso what was he now.<br>\r\n<br>\r\na spirit, and if so where was the spirit world.<br>\r\n<br>\r\nbefore he think more about it, a bright light swallowed his being, Aang was blinded for a moment before it all cleared up and when it did he found himself in...<br>\r\n<br>\r\nWhere was he.</span></div></div>",
-            "created":1530213900,
+            "created":1530162000,
             "id":2512962,
             "title":"Spirit form exploration"
         },
@@ -88,7 +101,7 @@
                 "no someone else"
             ],
             "content":"<div class=\"\"><div> <span>Aang found himself surrounded by red tapestries with the familiar, fear educing symbol that has haunted him everywhere he goes.<br>\r\n<br>\r\nFire nation symbols and fire symbols surrounded him along with some armour, \"I'm in the fire nation!\" he exclaimed before noticing a large bed behind him \"but where in fire nation am I?\" he asked himself before hearing  footsteps approach.<br>\r\n<br>\r\nThe doors to the room opened to reveal.<br>\r\n<br>\r\nwho was it?</span></div></div>",
-            "created":1530214140,
+            "created":1530162000,
             "id":2512964,
             "title":"Fire nation palace "
         },
@@ -115,6 +128,18 @@
             "created":1530218100,
             "id":2513000,
             "title":"he can touch her?"
+        },
+        "1213211122":{
+            "author_id":"hptheb",
+            "author_name":"HPB",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Can she see him?</span></div></span></div>",
+            "created":1604619900,
+            "id":2935227,
+            "title":"She sees him"
         },
         "122":{
             "author_id":"imageveiwer",
@@ -636,8 +661,8 @@
         "description":"<td align=\"left\" class=\"norm\">keep to main story line have fun</td>",
         "id":1355821,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1599062040,
-        "modified":1599062040,
+        "last_full_update":1604619900,
+        "modified":1604619900,
         "pretty_title":"Avatar the last air bender what if story"
     }
 }

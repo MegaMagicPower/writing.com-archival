@@ -27,6 +27,57 @@
             "id":2923380,
             "title":"Go check out the \"surprise\" room"
         },
+        "132":{
+            "author_id":"hjerry2000",
+            "author_name":"hryjry",
+            "choices":[
+                "It's a nursery",
+                "Nothing, room \"appears\" to be empty",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>Considering your small stature, it has been necessary to keep stools at each door to help you reach the doorknob. This one however, was the one door in the house without one. You went over to another door and came back with its stool to check this door, and found that it actually wasn't locked. You open the door completely and see inside.</span></div></div>",
+            "created":1604758620,
+            "id":2936143,
+            "title":"No"
+        },
+        "1321":{
+            "author_id":"whateverelse",
+            "author_name":"whatever",
+            "choices":[
+                "Baby Boy",
+                "Baby Girl"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is it a nursery for a baby boy or a baby girl? </span></div></span></div>",
+            "created":1605820800,
+            "id":2942724,
+            "title":"It's a nursery"
+        },
+        "1322":{
+            "author_id":"hjerry2000",
+            "author_name":"hryjry",
+            "choices":[
+                "A hidden door",
+                "A button",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>You enter the room, and it appears to be empty. Why did Mom try to keep this room a secret? Is it not finished? <br>\r\n<br>\r\nWhat's really strange is that you could swear you saw her bringing boxes into this room. Did she take everything out when you weren't here?<br>\r\n<br>\r\nYou investigate further and think you see something.</span></div></div>",
+            "created":1604758800,
+            "id":2936146,
+            "title":"Nothing, room \"appears\" to be empty"
+        },
+        "13222":{
+            "author_id":"hjerry2000",
+            "author_name":"hryjry",
+            "choices":[
+                "Gas puts you to sleep",
+                "Robot arms come out of the walls",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You see what looks like a button on the wall. It's too high up for you, but with your stool again, you manage to reach it. You don't know what the button does, but curiosity gets the better of you, and you decide to press it. </span></div></span></div>",
+            "created":1604758980,
+            "id":2936147,
+            "title":"A button"
+        },
         "14":{
             "author_id":"hjerry2000",
             "author_name":"hryjry",
@@ -117,7 +168,7 @@
         "id":2235499,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
         "last_full_update":1602963120,
-        "modified":1602963120,
+        "modified":1605820800,
         "pretty_title":"A man of Small Stature"
     }
 }

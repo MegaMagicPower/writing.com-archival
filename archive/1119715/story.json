@@ -1131,6 +1131,30 @@
             "id":2506333,
             "title":"Choose another Animal."
         },
+        "1243321":{
+            "author_id":"leon_wolf",
+            "author_name":"Leon Wolf",
+            "choices":[
+                "Male Wolf",
+                "Female Wolf"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>One big Wolf. Let's get a couple of details out of the way though, shall we?</span></div></span></div>",
+            "created":1604922600,
+            "id":2937161,
+            "title":"Wolf"
+        },
+        "12433212":{
+            "author_id":"leon_wolf",
+            "author_name":"Leon Wolf",
+            "choices":[
+                "Male human (leads the fan club you didn't know you had)",
+                "Female human (a friend whom you've known since childhood)"
+            ],
+            "content":"<div class=\"\"><div> <span>You are a massive female silver wolf with deep brown eyes. You lived in a large forest that's outside a fairly large city. The city was filled with several humans and other anthros. While you rarely associated yourself with anyone in the city, you protected the city from other less than friendly furries. <br>\r\n<br>\r\nYou had been the protector of the city since your early teen years. At this point you were in your early twenties. Today was like any other day, you went for a walk through your forest and coming out to the forest's edge. As with the past, the city folk had left an offering for your continued protection. You smiled as you collected the offering, various foods that you enjoyed. <br>\r\n<br>\r\nWith a yawn, you sat at the edge of the forest, looking into the city. It was still early morning hours and you knew things would be quiet for awhile. Or so you thought. <br>\r\n<br>\r\nRushing into the city was a gargantuan feral lion. With a disgruntled growl, you got up and chased him down. Despite the lion being bigger than you, you were still able to put him down easily from years of practice. <br>\r\n<br>\r\nYou had some gashes from his claws, and a few bite wounds but nothing serious. As you sat back down at the forests edge, you saw a human approaching you. It was rare that anyone from the city came out to your forest, unless they were leaving an offering of some kind. </span></div></div>",
+            "created":1605132960,
+            "id":2938589,
+            "title":"Female Wolf"
+        },
         "1243322":{
             "author_id":"tntdmd",
             "author_name":"TnTdmd",
@@ -2305,6 +2329,67 @@
             "created":1588914000,
             "id":2832335,
             "title":"A normal-sized human or fur who causes another ..."
+        },
+        "1511":{
+            "author_id":"bananen1",
+            "author_name":"John",
+            "choices":[
+                "Regular dog breeds.",
+                "Wild canines",
+                "Other types of canines.."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which type of canine are you looking for exactly?</span></div></span></div>",
+            "created":1605429600,
+            "id":2940290,
+            "title":"A canine."
+        },
+        "15112":{
+            "author_id":"bananen1",
+            "author_name":"John",
+            "choices":[
+                "Wolves.",
+                "Other canine creatures."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So you've chosen for a undomesticated type of canine. But which specific kind of wild canine are you actually looking for?</span></div></span></div>",
+            "created":1605429780,
+            "id":2940292,
+            "title":"Wild canines"
+        },
+        "151121":{
+            "author_id":"bananen1",
+            "author_name":"John",
+            "choices":[
+                "Male wolf.",
+                "Female wolf."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which gender will this wolf be?</span></div></span></div>",
+            "created":1605429900,
+            "id":2940293,
+            "title":"Wolves."
+        },
+        "151122":{
+            "author_id":"bananen1",
+            "author_name":"John",
+            "choices":[
+                "Foxes.",
+                "Other canine creatures."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ok, so wolves weren't your thing all that much, how about some more options that could suit your taste a bit more?</span></div></span></div>",
+            "created":1605430080,
+            "id":2940294,
+            "title":"Other canine creatures."
+        },
+        "1511221":{
+            "author_id":"bananen1",
+            "author_name":"John",
+            "choices":[
+                "Foxes.",
+                "Vixens."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>It seems you picked foxes for this story line. But this can go two ways when choosing a specific gender. Do you pick for a male or female fox?</span></div></span></div>",
+            "created":1605430380,
+            "id":2940296,
+            "title":"Foxes."
         },
         "1512":{
             "author_id":"bananen1",
@@ -4289,6 +4374,44 @@
             "id":2414096,
             "title":"Pit bull"
         },
+        "154232222":{
+            "author_id":"sgtmikey",
+            "author_name":"Mikey",
+            "choices":[
+                "Yes",
+                "No, Something Else..."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Husky/Malamute </span></div></span></div>",
+            "created":1606102260,
+            "id":2944410,
+            "title":"No, something else"
+        },
+        "1542322221":{
+            "author_id":"sgtmikey",
+            "author_name":"Mikey",
+            "choices":[
+                "Kota, Speak of the Devil (or Angle?)",
+                "Another Anthro....",
+                "One of the Anthros from Earlier"
+            ],
+            "content":"<div class=\"\"><div> <span>You needed to get home quickly! You don\u2019t know what started all this, one moment you just got off work in your office about to head home, then you remember hearing a faint ringing in your ear, and that's when you started seeing the changes. Animals start to change, you saw cats and dogs all of a sudden walk on two legs and looked like a weird amalgamation of human and their respective species. And from what you could tell based on their body shape and the few animals that seemed to remain in their original state, that what ever happened only seemed to change females. You managed to make it to your car thanks to most of the transformed animals focused on their new changes and the people surrounding them. You saw a man who was walking his dog now on the ground in shock as his companion now stood on two legs. As you keeped driving through the city you continued to watch the chaos unfold, though it seemed that most of the transformed animals, well the ones that were of domesticated animals like dogs and cats seemed not to be causing any harm and seemed confused as others around them. However that wouldn\u2019t last for long. <br>\r\n<br>\r\nAs you got stuck at a light next to the onramp for the highway, you looked to your right and spotted what seemed to be a transformed calico cat, enjoying her new stature to who you assumed was her owner. Enjoying it a bit more intimately than you expected, pleasuring herself on her helpless own who seemed to be attempting to rationalize the whole situation and calm her down. However what you saw shocked you, you noticed the cat begin to expand upward in size as she continued to pleasure herself on her owner. The cat who was just below the height of the man, now found herself closing in on twice his size, now easily pinning him to the ground and continuing her pounding on the poor man. This day went from strange to stranger. As you looked back forward in your car, honking for the cars in front to move, you soon found out why they had stopped. Suddenly you felt the car shake, and could hear distant thuds and crashes. Looking over deeper in town your skin went pale at what you saw. <br>\r\n<br>\r\nThree wolfesses, with bodies that you knew any man would die for and make any woman jealous. Walking through the city, each one as large as the surrounding skyscrapers, making them close to 500 to 700 feet in size by your estimates. You watched as they giggled and spoke to each other about their surroundings and all the cute \u201clittle ones\u201d. The larger of the three walked down the street playfully poking and prodding at buildings and cars below her. The other two followed suit and played with bystanders and even began to eat those unlucky enough to be in their sight, all the while still acting like curious and innocent children.<br>\r\n<br>\r\nThrowing your car in gear, you managed to speed past those in front and get onto the highway overpass. At first you thought you had made a mistake, seeing a city bus wrecked on the highway blocking traffic. However it wasn\u2019t but a few seconds before a familiar furry hand/paw reached from out of view and lifted the bus up, with those unable to escape still inside. Seeing your opening you sped past down the highway towards your home. Looking in your mirror, you see the cat from earlier holding the bus and inspecting it before lowering it to her neithers. Putting your focus back on the road in front you continued to speed back home. <br>\r\n<br>\r\nLeaving the city limits, you saw this was widespread, you still saw \u201canthros\u201d as you had decided to call them spread about. Some still relatively normal sized compared to people, while other towered over the nearby landscape enjoying their new found scale. As you got close to the exit for your home your thoughts go to Kota, your loyal Husky/Malamute companion you had recused three years ago from the local shelter. If everything you believed about what was going on was true, would Kota be changed as well. You didn\u2019t have to long to contemplate as suddenly a paw landing in front of your car up ahead causing you to press your brakes hard and looking up to see...<br>\r\n</span></div></div>",
+            "created":1606102380,
+            "id":2944411,
+            "title":"Day Zero"
+        },
+        "15423222211":{
+            "author_id":"sgtmikey",
+            "author_name":"Mikey",
+            "choices":[
+                "She still Follows your Commands without Question",
+                "She Smirks, Not Wanting to Listen to You ",
+                "Is Oblivious to your Plea, Still Excited to see You"
+            ],
+            "content":"<div class=\"\"><div> <span>Stopping the car, managing to avoid hitting the massive gray paw/foot in front of you. You attempt to look up from your front windshield, only to see the gray and white fur stretch up the leg to out of your view. Before you can gather your thoughts all of a sudden you hear a gasp above you, likely from the massive anthro in front of you. Multiple fur covered fingers suddenly surround your car before you begin to feel it being lifted off the ground. You get thrown around in your set as you're lifted up to the face of the giant before you. You look forward out the front windshield and see a large yellow-brownish eye staring back at you, before suddenly being shifted into front of what you could now assume canine anthro and its nose, it quickly sniffs your car. What you heard next confirm your suspicions from earlier, \u201c*gasp* Master? Is that you in there ?!\u201d<br>\r\n<br>\r\nThis towering anthro in front of you holding your car like a plaything was your Kota. Pulling your car away from her face, you soon get a view of her full face, and its patterns of black, browns, and whites. Though somewhat thankful that it was Kota and not some random giant anthro that had found you, you still had a bit of hesitation, not knowing what Kota was doing or if she would listen to you. Winding down your window you speak to your now towering canine companion, \u201cKota! Ummm can you please put master down\u2026..?\u201d Hoping Kota would still listen to you, even though being begin enough to crush you and your car, you waited for her next action.<br>\r\n</span></div></div>",
+            "created":1606196640,
+            "id":2945049,
+            "title":"Kota, Speak of the Devil (or Angle?)"
+        },
         "1543":{
             "author_id":"infinity421",
             "author_name":"infinity421",
@@ -5904,7 +6027,7 @@
         "id":1119715,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
         "last_full_update":1601955240,
-        "modified":1601955240,
+        "modified":1606196640,
         "pretty_title":"Rampage of the Giant Furries"
     }
 }

@@ -226,7 +226,7 @@
         },
         "113":{
             "author_id":"dannyboy101",
-            "author_name":"T-Dag",
+            "author_name":"RizingBlade",
             "choices":[
                 "Too much honey.",
                 "Overboard on sweets.",
@@ -249,6 +249,34 @@
             "created":1430456400,
             "id":1972059,
             "title":"Too much junkfood."
+        },
+        "12":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Story 5"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What story shall we go with?</span></div></span></div>",
+            "created":1604956200,
+            "id":2937432,
+            "title":"Grunty the Witch "
+        },
+        "121":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "A Magic Potion",
+                "A Magical Spell",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><div> <span>One day, the evil and ugly witch Gruntilda Winkybunion was in her lair, thinking up an evil plan to destroy Banjo and Kazooie and take over Spiral Mountain. She found it really hard to concentrate with her stomach rumbling, and she knew it wouldn't stop until she had something to eat. She called for Klungo, her ogre minion who was a mad scientist and an expert at mechanical engineering.<br>\r\n<br>\r\n\"Klungo, get here right away! I need your assistance today!\" yelled Grunty. Klungo came rushing up the stairs.<br>\r\n<br>\r\n\"Yessss, Misssstressss Grunty? What can Klungo do for you?\" Klungo asked Grunty.<br>\r\n<br>\r\n\"I'm hungry, I want something to eat, something with lots of cheese and meat!\" Grunty told Klungo.<br>\r\n<br>\r\n\"What sssspecificaly doessss Misssstressss Grunty have in mind?\" Klungo asked Grunty.<br>\r\n<br>\r\n\"I'd love a meal of burgers and fries, but fatty foods go right to my thighs!\" said Grunty. She loved to eat junk food, but she wasn't very fond of being fat, and with her metabolism, weight was easy to gain but hard to lose.<br>\r\n<br>\r\n\"How I long to be much thinner, then I can enjoy my dinner!\" she said to Klungo as she held up a picture of her dream body, which was of her being thin.<br>\r\n<br>\r\n\"Perhapssss ssssuch a thing issss possssible.\" said Klungo.<br>\r\n<br>\r\n\"Tell me, Klungo, I'd like to know! This flabby body's got to go!\" Grunty said to Klungo.<br>\r\n<br>\r\n\"Have you ever conssssidered eating more vegetablessss and lessss junk food?\" Klungo asked Grunty. This infuriated Grunty, as she didn't like the idea of eating healthy.<br>\r\n<br>\r\n\"Don't question my eating habits! Vegetables are just for rabbits!\" snarled Grunty.<br>\r\n<br>\r\n\"Ssssorry, Misssstressss Grunty.\" said Klungo meekly.<br>\r\n<br>\r\n\"Oh, how I hate to eat my greens, though I understand what you mean; A lovely body isn't easy when your favorite foods are greasy.\" lamented Grunty.<br>\r\n<br>\r\n\"Klungo undersssstandssss.\" said Klungo.<br>\r\n<br>\r\n\"There's got to be a better way to a thinner body today.\" Grunty said to Klungo.<br>\r\n<br>\r\n\"Maybe there issss, Misssstressss Grunty.\" said Klungo.<br>\r\n<br>\r\n\"Then what else do you have in mind? A better option I must find!\" said Grunty.<br>\r\n<br>\r\n<b>What does Klungo suggest?</b></span></div></div>",
+            "created":1604956500,
+            "id":2937433,
+            "title":"Story 1"
         },
         "13":{
             "author_id":"koro-chan",
@@ -415,7 +443,7 @@
                 "\"I don't like your fat.\""
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Kazooie can't decide on her opinion. So she asked Banjo to do it. \"Banjo, I can't decide whether I like myself being fat or not. What do you think?\" Banjo replied...</span></div></span></div>",
-            "created":1442367000,
+            "created":1442293200,
             "id":2035083,
             "title":"she wants Banjo's opinion"
         },
@@ -626,7 +654,7 @@
                 "Free Choice"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>More choices</span></div></span></div>",
-            "created":1442367120,
+            "created":1442293200,
             "id":2035085,
             "title":"other"
         },
@@ -742,8 +770,8 @@
         "description":"<td align=\"left\" class=\"norm\">Hello! This is a WG interactive where any character from the Banjo Kazooie franchise can...well, you know... GAIN WEIGHT! <br>\r\n<br>\r\nAnything is allowed except:<br>\r\nGay<br>\r\nlesbian<br>\r\ngains over 500 per chapter.<br>\r\n<br>\r\nI prefer it not to go sexually... but hell, if you want, go for it!<br>\r\n<br>\r\nPLEASE ADD!!!!</td>",
         "id":1846495,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1601185620,
-        "modified":1601185620,
+        "last_full_update":1604956500,
+        "modified":1604956500,
         "pretty_title":"Banjo Kazooie WG"
     }
 }

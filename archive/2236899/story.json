@@ -1,0 +1,46 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"smart_dude",
+            "author_name":"Clever_man",
+            "choices":[
+                "Scales",
+                "Feathers",
+                "Actually, how about a video game one.",
+                "Make a hybrid dinosaur.",
+                "Actually what about Synapsids?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do you want it to have scales or feathers? Or maybe make your own?</span></div></span></div>",
+            "created":1604371140,
+            "id":2933515,
+            "title":"First things first."
+        },
+        "12":{
+            "author_id":"smart_dude",
+            "author_name":"Clever_man",
+            "choices":[
+                "Psittacosaurus",
+                "Utahraptor",
+                "Therizinosaurus",
+                "Archaeopteryx",
+                "Others"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, what about these?</span></div></span></div>",
+            "created":1604371560,
+            "id":2933520,
+            "title":"Feathers"
+        }
+    },
+    "info":{
+        "author_id":"smart_dude",
+        "author_name":"Clever_man",
+        "brief_description":"Ride the dinosaur of your dreams.",
+        "created":1604370780,
+        "description":"<td align=\"left\" class=\"norm\">You get to pick which Dino you get to ride.</td>",
+        "id":2236899,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1604371560,
+        "modified":1604371560,
+        "pretty_title":"My Dinosaur"
+    }
+}

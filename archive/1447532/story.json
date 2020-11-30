@@ -5,21 +5,27 @@
             "author_name":"Fitzroy Clement",
             "choices":[
                 "Male",
-                "Female"
+                "Female",
+                "Other ",
+                "Other ",
+                "Other"
             ],
-            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>First things first.Whats your current gender?</span></div></span></div>",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>First things first. What is your current gender?</span></div></span></div>",
             "created":1215406800,
             "id":552844,
-            "title":"First things first"
+            "title":"First Things First"
         },
         "11":{
             "author_id":"darkluke",
             "author_name":"Fitzroy Clement",
             "choices":[
                 "A real person",
-                "A fictional person"
+                "A fictional person",
+                "Something else",
+                "Something else",
+                "Something else"
             ],
-            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will you be an actual person(yourself included),or a fictional character?</span></div></span></div>",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will you be an actual person, or a fictional character?</span></div></span></div>",
             "created":1215406800,
             "id":552845,
             "title":"Male"
@@ -72,12 +78,15 @@
             "author_name":"Fitzroy Clement",
             "choices":[
                 "A Presidential address",
-                "New reports"
+                "New reports",
+                "Something else",
+                "Something else",
+                "Something else"
             ],
             "content":"<div class=\"\"><div> <span>\"Um, yes?\" <br>\r\n<br>\r\nMarkus never had the fortitude to say hi to her in normal circumstances, and this situation did not encourage a friendly exchange.<br>\r\n<br>\r\n\"I heard a noise, is everything ok?\"<br>\r\n<br>\r\nThe man had a look of panic on his when he opened the door, and it turned to annoyance when he was being bothered. He looked kind of hot angry.<br>\r\n<br>\r\n\"NO! Are you kidding? Look at you!\"<br>\r\n<br>\r\nHe slammed the door with a force that startled Markus.<br>\r\n<br>\r\nHe went back home and turned on the TV.<br>\r\n</span></div></div>",
             "created":1236229200,
             "id":656364,
-            "title":"a man opens"
+            "title":"A Man Opens"
         },
         "11112111":{
             "choices":[
@@ -4020,9 +4029,12 @@
             "author_name":"Fitzroy Clement",
             "choices":[
                 "A real person",
-                "A fictional person"
+                "A fictional person",
+                "Something else",
+                "Something else",
+                "Something else"
             ],
-            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>WIll you choose to be an actual person(yourself included),or a fictional character?</span></div></span></div>",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>WIll you choose to be an actual person, or a fictional character?</span></div></span></div>",
             "created":1215406800,
             "id":552847,
             "title":"Female"
@@ -4318,11 +4330,11 @@
         "author_name":"Fitzroy Clement",
         "brief_description":"Every person in the world, without exception, has switched genders simultaneously.",
         "created":1215368220,
-        "description":"<td align=\"left\" class=\"norm\">Imagine if everyone in the world suddenly and without warning,swaped genders. There is no explanation and no long term solutions.Scientists are trying to understand and make sense of the situation,but so far have come up short.There are no other effects except for the swapping of your current gender.</td>",
+        "description":"<td align=\"left\" class=\"norm\">Imagine if everyone in the world suddenly and without warning swapped genders. There is no explanation and no long term solutions. Scientists are trying to understand and make sense of the situation, but so far have come up short. </td>",
         "id":1447532,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1602245700,
-        "modified":1602245700,
+        "last_full_update":1605385920,
+        "modified":1605385920,
         "pretty_title":"What's going on?!"
     }
 }

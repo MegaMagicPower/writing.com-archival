@@ -212,6 +212,18 @@
             "id":2425017,
             "title":"Different breeds"
         },
+        "111111222":{
+            "author_id":"toybonbon",
+            "author_name":"Toybonbon",
+            "choices":[
+                "Yes!",
+                "Other breeds"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What about a Chow Chow?</span></div></span></div>",
+            "created":1605554460,
+            "id":2941160,
+            "title":"No something else"
+        },
         "11112":{
             "author_id":"infinity421",
             "author_name":"infinity421",
@@ -6273,6 +6285,68 @@
             "id":2402217,
             "title":"Owl"
         },
+        "132311":{
+            "author_id":"user474",
+            "author_name":"publicanonymity",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So, are they a guy or a girl?</span></div></span></div>",
+            "created":1604354160,
+            "id":2933413,
+            "title":"Gender?"
+        },
+        "1323111":{
+            "author_id":"user474",
+            "author_name":"publicanonymity",
+            "choices":[
+                "Anthro, you\u2019re the owl",
+                "Anthro, you\u2019re a human",
+                "Feral, you\u2019re the owl",
+                "Feral, you\u2019re a human"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Combining 2 choices here, is the owl anthro/what perspective? (the owl can become anthro later)</span></div></span></div>",
+            "created":1604774520,
+            "id":2936224,
+            "title":"Last prompt, anthro/perspective?"
+        },
+        "13231111":{
+            "author_id":"user474",
+            "author_name":"publicanonymity",
+            "choices":[
+                "Maybe a little more of that crystal...",
+                "Maybe a LOT more of that crystal!"
+            ],
+            "content":"<div class=\"\"><div> <span>You\u2019re an owl. Of course you were. What you also were, however, was almost 3 feet tall and anthropomorphic. That tended to scare a lot of campers, but it\u2019s pretty funny! You meet a lot of strange humans, sometimes you\u2019ve even met some other animals that look like you, only taller, with strange, bright colors, and these weird giant heads they can take off! Humans could do weird things, huh?<br>\r\n<br>\r\nBut that didn\u2019t matter, you could soar above humans, and swoop down on the stupid ones who left food outside at night. They\u2019d blame it on the raccoons, anyway. That\u2019s really all that ever happened in your life, but many would love to live it. You were the biggest bird you\u2019d ever met, and you were larger than almost every animal you met. You found a sign outside your home once that said \u201cYellowstone National Park\u201d but that was a silly name for a home, too many words!<br>\r\n<br>\r\nAs you thought about this, you swooped onto the ground to search for some food. You walked around, checking under rocks, trees, and really anything an animal would want to hide under. Without realizing it, you entered a cave with a bear that didn\u2019t look happy to see you. The bear rose to its full height of almost 7 feet tall, and immediately slashed at you, slicing your chest and knocking you out.<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\nWhen you woke up, you felt cold water rushing against your face with a soft, echoey rumble. When you opened your eyes and felt the telltale greying sign of night vision, you realized you had been carried into a cave via a waterfall of some form. As you turned around though, you saw a bluish glow coming from further into the cave. You followed the light as it grew brighter, until you found a gigantic crystal almost 5 times your size! You gave it a curious peck with your beak, but jumped back, shocked as a large fragment broke off and stuck to your beak. The light slowly drained from it until it turned a dull grey, and fell to the floor, dissolving upon contact. As you walked out of the cave, worried about what that may have done to you, you felt an odd sensation. You were growing! From that one chunk alone, you had easily doubled in size, and you looked much stronger too! You looked like some of the stronger humans you had seen before, and as tall as them, as well! Now what?</span></div></div>",
+            "created":1605665760,
+            "id":2941786,
+            "title":"Anthro, you\u2019re the owl"
+        },
+        "132311112":{
+            "author_id":"user474",
+            "author_name":"publicanonymity",
+            "choices":[
+                "5 times as big",
+                "10 times as big"
+            ],
+            "content":"<div class=\"\"><div> <span>You walked back up to the crystal, eager to be even bigger. Sure, you had grown, but wouldn\u2019t it be funny to be even bigger than the bear? You took the biggest peck you could, then felt a chunk the size of a watermelon stick to it. You might\u2019ve miscalculated... But did that matter? Being this big is fun! The color drained from the crystal like it had before, and you felt that funny feeling again. Once it had turned the same color as before, it fell off your face, to the ground, and dissolved. You were growing again, albeit much, much faster and for longer. Weirdly, the room of the cave you were in was growing with you? The only way you could tell you were growing was that a feather that had fallen off you was getting smaller by the second. The room had grown with you, but that luxury was lost quickly. While before the ceiling of the cave felt far away, now you could almost touch it if you jumped high enough. You got a good sense of your height when you went outside, you looked to be...</span></div></div>",
+            "created":1606533060,
+            "id":2947171,
+            "title":"Bigger is better!"
+        },
+        "1323111122":{
+            "author_id":"user474",
+            "author_name":"publicanonymity",
+            "choices":[
+                "The military arrived, and wanted to capture you",
+                "Something rumbled from within the crystal cave"
+            ],
+            "content":"<div class=\"\"><div> <span>Almost 10 times as tall! You couldn\u2019t quite explain it, but you had gotten much smarter, and could tell that you were nearly 60 feet tall. Your muscles, you just learned what they were called, had gotten bigger as well. You felt so powerful! The only things bigger than you were some of the biggest trees and the mountains. You set your sights on those as something to outgrow. For now, you wanted to show off to some of the other animals and humans. However...</span></div></div>",
+            "created":1606537920,
+            "id":2947208,
+            "title":"10 times as big"
+        },
         "133":{
             "author_id":"infinity421",
             "author_name":"infinity421",
@@ -6405,6 +6479,21 @@
             "created":1508130000,
             "id":2402262,
             "title":"Blob monster"
+        },
+        "1411":{
+            "author_id":"spunky",
+            "author_name":"Ace Jones",
+            "choices":[
+                "Yours truly heads into town.",
+                "Yours truly runs into trouble along the way.",
+                "Nothing happens for now.",
+                "Different story.",
+                "Open choice chapter."
+            ],
+            "content":"<div class=\"\"><div> <span>Greetings fellow earthlings for I come in peace as you're about to hear the true story about how yours truly a friendly sweet gentle and heroic anthropomorphic Dalmatian blob dog from outer space came to planet Earth grew bigger by constantly eating lots of food instead of humans or fellow animals and rescues a beautiful lady dog earthling from certain doom. <br>\r\n<br>\r\nIt all began one beautiful starry night as yours truly traveled to planet Earth in a UFO as I carefully landed my UFO a few miles away from a quaint little town as I stepped on out of my UFO as I admired the starry night sky itself.<br>\r\n<br>\r\n\"Even at night the stars themselves shine like diamonds in the sky as it's truly beautiful.\" I said as I admired the night sky itself.<br>\r\n<br>\r\nAs I was admiring the starry night sky, the heavenly scent of delicious food filled the air as I sniffed the heavenly scent of delicious food which got my senses tingling and my stomach rumbling.<br>\r\n<br>\r\n\"Where is that heavenly scent of delicious food coming from as my senses are tingling and my stomach's rumbling?\" I asked myself.<br>\r\n<br>\r\nAs it turns out that scent was coming from a nearby trailer as nobody was home at the time as I walked over to where the trailer was at as I opened the trailer's door with ease as I walked on into the trailer's kitchen whereas there was plenty of food to eat.<br>\r\n<br>\r\n\"I'd say this trailer's got plenty of food for me to eat as it's chow time for me.\" I said as I started to eat everything there was in the trailer's refrigerator as I slowly grew bigger as there was nothing left in the refrigerator as I now heavily waddled on out of the trailer itself.<br>\r\n<br>\r\nNow what will happen next?<br>\r\n<br>\r\n</span></div></div>",
+            "created":1605290940,
+            "id":2939590,
+            "title":"The blob"
         },
         "1412":{
             "author_id":"infinity421",
@@ -6749,6 +6838,60 @@
             "created":1508130000,
             "id":2401778,
             "title":"What is this dumb ol' animal selection I wa..."
+        },
+        "151":{
+            "author_id":"dragonkiller21",
+            "author_name":"Dragonkiller21 ",
+            "choices":[
+                "Real",
+                "Mythical"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>But what type of animal or animals do you own?<br>\r\n<br>\r\nReal or Mythical</span></div></span></div>",
+            "created":1606252740,
+            "id":2945434,
+            "title":"Growing pets"
+        },
+        "1511":{
+            "author_id":"spunky",
+            "author_name":"Ace Jones",
+            "choices":[
+                "A canine.",
+                "A feline.",
+                "A reptile.",
+                "A rodent.",
+                "Your choice."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Now then which real type of animal is your pet?</span></div></span></div>",
+            "created":1606252920,
+            "id":2945436,
+            "title":"Real"
+        },
+        "1512":{
+            "author_id":"dragonkiller21",
+            "author_name":"Dragonkiller21 ",
+            "choices":[
+                "Dragon",
+                "Gryphon",
+                "Naga",
+                "Chimera ",
+                "More Mythical"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which Mythical animal is your Pet?</span></div></span></div>",
+            "created":1606264980,
+            "id":2945515,
+            "title":"Mythical"
+        },
+        "15121":{
+            "author_id":"dragonkiller21",
+            "author_name":"Dragonkiller21 ",
+            "choices":[
+                "Continue ",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>Now owning a dragon as a pet has its ups and downs as with any pet, but with dragons, they can be a bit pushy when they want their master to stay like taking an engine out of a car and not fix it until you call out of work. Luckily that hasn't happened lately due to your deal with your dragon a bit more playfully activities like catch or like. Your dragons' favorite activity was hide and seek, he was still a predator and needed to get his hunting instinct out by playing with you, but you know he would never hurt you.  <br>\r\n<br>\r\nDragon were bigger than humans, but not that much as a reference a human's average height was 5.6 a dragons average height was 7.10</span></div></div>",
+            "created":1606321080,
+            "id":2945831,
+            "title":"Dragon"
         },
         "152":{
             "author_id":"infinity421",
@@ -8458,6 +8601,47 @@
             "id":2881399,
             "title":"They were a bit bigger than yesterday "
         },
+        "155332222222222211121211":{
+            "author_id":"dragonkiller21",
+            "author_name":"Dragonkiller21 ",
+            "choices":[
+                "Grandparents",
+                "freinds",
+                "No I'm not ready"
+            ],
+            "content":"<div class=\"\"><div> <span>After your answer your mom put you down and drew a small circle around you and then cast some magic to raise the earth a bit about 2 feet. The magic did use the surrounding area to raise the ground around you but it wasn't that deep yet. She used more magic to deepen it further 15 feet and 4 feet wide and the earth was next to her. Now Alexander bent down and you could see in his maw his fire breath. He let out his breath and it fill the hole almost enterally and then Crystal joined in with her own flame and now you could see how there flames different with Crystal's flame was mostly golden and Alexander's flame was pure red. The you father put his paws into both of the flames and pulled out too small balls and start moiled them together into on ball that had the gold and red with orange border but he left it die out and roared and then both the flame were snuffed out. The your mom put the earth back.<br>\r\n<br>\r\nYour mom picked you back up and asked you if hungry. you said yes, \"<span class=\"cbyellow\"> oh good we can go to our favorite place </span>\". \"<span class=\"cred\"> I'm going back to bed for a bit </span>\". Your mother and you when to a market and got something to eat and you mom asked \" <span class=\"cbyellow\"> If your up to it we could see your grandparents on my side or some of my freinds </span></span></div></div>",
+            "created":1604268540,
+            "id":2932853,
+            "title":"together"
+        },
+        "1553322222222222111212111":{
+            "author_id":"dragonkiller21",
+            "author_name":"Dragonkiller21 ",
+            "choices":[
+                "None of them",
+                "some of them (4)",
+                "all of them "
+            ],
+            "content":"<div class=\"\"><div> <span>(changed Crystal's text color because it got too hard to read) <br>\r\n   I would like my grandparents or I guess your parents' Mom. \"<span class=\"cyellow\"> Very good my child, but I should warn you that my entire family could be there so prepare your self </span>\". Ok thank you for the warning mommy, but I have noticed from the other dragon in the town you and dad are bigger than them why is that? you asked. \"<span class=\"cyellow\"> Oh that me and your father were born with gigantism </span>.\"<br>\r\n<br>\r\nYour mom did grow a little bit, but with some warning to get to your destination faster. \"<span class=\"cyellow\"> My mother name <span class=\"cindigo\"> Irene </span></span> and try not to be afraid because she is a black dragon and they can look quite freighting to humans and as for my father his name is <span class=\"cborange\"> Maxwell </span> and he is a gold-like me.\" you had to ask how many siblings did your mother have? \"<span class=\"cyellow\"> seven, but they should give you there names if there here and your fatherr has 4 </span>\" (where your mother sibling in you grandparents cave)</span></div></div>",
+            "created":1605909120,
+            "id":2943206,
+            "title":"Grandparents"
+        },
+        "15533222222222221112121111":{
+            "author_id":"dragonkiller21",
+            "author_name":"Dragonkiller21 ",
+            "choices":[
+                "A place with volcanoes (Red Kingdom)",
+                "Ice almost every where (Blue/White kingdom)",
+                "A earthy place with many tunnels  (Brown/Black Kingdom)",
+                "Metal spires every where (Metal/Silver kingdom)",
+                "Werid and wacky (The Consoles Plaice)"
+            ],
+            "content":"<div class=\"\"><div> <span>As you enter the cave your mother set you down and searched the cave for a bit. You noticed that the cave wasn't as well lit as your parents cave. It wasn't hard to see but you could definitely tell that there was large dark spots.<br>\r\n<br>\r\n\"<span class=\"cyellow\"> I'm sorry my child but my parents aren't here,  Although maybe I could show you more of our world and come back with <span class=\"cred\"> Alexander </span>\"<br>\r\n<br>\r\nNow It was something you were down for this but were you two heading </span></span></div></div>",
+            "created":1606524300,
+            "id":2947108,
+            "title":"None of them"
+        },
         "155332222222222213":{
             "author_id":"redwolf12",
             "author_name":"wolfbood",
@@ -8537,6 +8721,32 @@
             "id":2829028,
             "title":"The tiny T Rex and the Embiggening Meat"
         },
+        "155332222222222221111":{
+            "author_id":"shayminlover",
+            "author_name":"Galio",
+            "choices":[
+                "Your growth is only starting, going up!",
+                "Your friend has a MAJOR spurt, surging over you!",
+                "The adult who gifted the meat shows up...and he's HUGE!"
+            ],
+            "content":"<div class=\"\"><div> <span>You know your friend got it for you, so you might as well eat whatever is left. While he moans and grows slowly but surely taller and more hyper, you gobble down the rest of it as quick as you can. Just as your friend shivered and shook when the growth began, so too did you. It was an incredibly pleasurable feeling, you can't help but let out a pleased moan of your own. You huff as you grow past your originally small size of 9 feet, up to 10 feet already.<br>\r\n<br>\r\n\"There, ssseeeee? Told you it'd woooorrrrkkk!\" Your friend moans as he grows to 19 feet tall, and you can't help but feel envious. He was already so much bigger than you, and that gap is just widening even more. You don't want him to be hurt, but you want to be bigger than him for once. So, you do what other dinosaurs would do: Attempt to assert dominance. At 12 feet tall, you stand up as straight as you can, dick pushing out of its sheathe and growing too. You puff out your chest, to try and make yourself seem tougher. \"Yooouuu w-won't be bigger than mmmmeeeee for long!\" You proclaim.<br>\r\n<br>\r\nHe laughs happily, seeming like he's just enjoying this. \"You'reeeeee gonna geeeet so biiiiiig!\" He says growing to 21 feet tall, while you approach 15 feet. Meanwhile, your cock is almost as big as his, in spite of the size difference. You can't help but grunt and snort in pleasure, the feeling of being so big and strong for once was immensely pleasing. Your cock so heavy and large, you can't help but sway it side to side. Eventually, you and your friend meet each other in size at 25 feet tall. But your cock is clearly the larger of the two, almost twice the size of your friend's. You can't help but growl in a pleasured victory over this larger bit of you.</span></div></div>",
+            "created":1605503760,
+            "id":2940699,
+            "title":"Extra nutritious!"
+        },
+        "1553322222222222211113":{
+            "author_id":"infinity421",
+            "author_name":"infinity421",
+            "choices":[
+                "You find the meat first, beginning to tower over your friend!",
+                "Your friend finds the meat first, beginning to tower over you!",
+                "The Brontosaurus already has all of the meat - and he's about to grow even more!"
+            ],
+            "content":"<div class=\"\"><div> <span>You can barely even believe how good all of this feels - you'd always been a bit of a runt, so used to looking up at all of your peers; being able to look down on not just your own former height, but your friend's former height - to finally look him in the eyes as your huge, thick members nudge and pulse at each other, with yours being easily twice the length and girth of his - well, it's all you can do to stay standing, as your overgrown, overfilled balls weigh you down; muscular thighs spread wide to hold so much additional weight! Your chest heaves in and out as you huff and snort in deep, primal satisfaction - hold on, was your chest quite that big, just a moment ago? Now that you think about it, your arms and legs seem a little bulkier than before, even discounting your hugely increased size... Were you growing stronger as well as bigger and more well-hung? You definitely don't dislike the idea - in fact, if that's really what's happening, you'd like it to continue! Not only can you look down on everyone you know - but you can dwarf them in every way possible!<br>\r\n<br>\r\nYou grin sharply, letting out a happy snort as you look for friend in the eyes... You're about to talk when you pause, blinking - a small noise at the edge of your hearing making itself known; just barely loud enough to be perceived, but rapidly getting louder and louder - it's a deep, booming rumbling, now loud enough to hear without concentration! What could it be? An Earthquake? A volcano?<br>\r\n<br>\r\nYour friend's jaw drops as he looks up behind you, shock apparent on his face. You wonder what could cause such a look, and turn to see for yourself, feeling a similar level of shock. It was ridiculous, and should be impossible, but it was clear that whatever happened to you two wasn't just a one time thing, nor a thing just for you two. Because towering over both of you and much of the area around you, you can see a huge Brontosaurus with a huge grin on its face as it looks down at you two. You thought 25 feet was big, but this Bronto was about 500 feet tall, at the least! His muscles on his legs were huge also, thick enough to crack mountains! They'd need to be of course, to hold and walk with that massive dick of his! He had a dick of at least 1000 feet in length, and maybe half as much in width! The fact he was still able to move was outright astonishing.<br>\r\n<br>\r\n\"Ah, I see you two enjoyed the meat! Good, I was worried your pallet's wouldn't find it enjoyable.\" He says with a booming voice as he looms over you two, long head and neck leaning down to get a better look. \"Though, I don't think either of you will get as big as I am.\" He says with a deep chuckle.<br>\r\n<br>\r\nYou can't help but stare up at the gigantic, monstrous Brontosaurus in mingling shock and fear and awe - you'd thought you were huge at twenty-five feet tall, felt stronger and more powerful than you'd ever imagined... But this new grower didn't just make you look small, he made you look downright insignificant! Even compared to his body alone, you were smaller compared to him than an insect was to you - and that was without considering just how terrifyingly musclebound he was... He must have truly gorged on whatever this odd meat was, to have grown so titanic! He was almost as wide as he was tall - if not even wider than that! And yet even this size and mass paled in comparison to his cock... You can't help but look down at your own - it's huge, thick, almost as long as one of your legs, and yet it suddenly feels inadequate and pathetic in the face of such overwhelming masculinity! <br>\r\n<br>\r\nThe Brontosaurus' head looms above you and your friend, his chuckling shaking the earth... It's a miracle he doesn't seem to be hostile to the two of you - unbelievably huge and smug, yes, but not hostile! You can feel his overgrown cock throb and pulse, the vibrations cascading towards through the ground in every direction as the titanic dinosaur's member alone looms over the entire landscape! His balls are even more vast, churning and gurgling audibly with what must be millions of gallons of seed - considering they're nearly half a mile in size, each, you can't even begin to imagine the eruption that would result from his climax!<br>\r\n<br>\r\nYou and your friend finally recover from your shock somewhat, but one thought dominates your mind - you need to grow even bigger. Bigger. If the Brontosaurus could grow to such a ludicrous size, was there any limit on what that meat could do? Your friend seems to be having the exact same thought process, as the two of you begin to look around yourself, sniffing at the air and licking at your lips...</span></div></div>",
+            "created":1605549060,
+            "id":2941116,
+            "title":"Overshadowed"
+        },
         "155332222222222222":{
             "author_id":"dragonkiller21",
             "author_name":"Dragonkiller21 ",
@@ -8559,7 +8769,7 @@
         "id":2137905,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
         "last_full_update":1601429820,
-        "modified":1601429820,
+        "modified":1606537920,
         "pretty_title":"Giant Friendly Animals: Reborn!"
     }
 }

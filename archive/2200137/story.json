@@ -412,7 +412,7 @@
                 "Nope"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is baby Chloe eating cake with her?</span></div></span></div>",
-            "created":1595092020,
+            "created":1595048400,
             "id":2871126,
             "title":"Eating birthday cake."
         },
@@ -424,7 +424,7 @@
                 "Nope."
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are they trying to feed each other the cake?</span></div></span></div>",
-            "created":1595092140,
+            "created":1595048400,
             "id":2871130,
             "title":"Yeah"
         },
@@ -436,7 +436,7 @@
                 "Something else"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Were both eating birthday cake with their bare hands?</span></div></span></div>",
-            "created":1595094660,
+            "created":1595048400,
             "id":2871144,
             "title":"Nope."
         },
@@ -449,7 +449,7 @@
                 "Both."
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who cleaned them up afterwards?</span></div></span></div>",
-            "created":1595095080,
+            "created":1595048400,
             "id":2871145,
             "title":"Yes"
         },
@@ -462,7 +462,7 @@
                 "SE"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Baby Chloe is getting a new diaper put on?</span></div></span></div>",
-            "created":1595092080,
+            "created":1595048400,
             "id":2871128,
             "title":"Nope"
         },
@@ -475,7 +475,7 @@
                 "SE"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The picture she uses is her first sleepover with Chloe?</span></div></span></div>",
-            "created":1595091900,
+            "created":1595048400,
             "id":2871123,
             "title":"Something else"
         },
@@ -1772,7 +1772,7 @@
                 "Something else"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What else is Max doing in the picture of when she was four?</span></div></span></div>",
-            "created":1601301480,
+            "created":1601269200,
             "id":2911621,
             "title":"somethng else"
         },
@@ -1784,7 +1784,7 @@
                 "Something else going on."
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>It was her fourth birthday, and her face was covered with birthday cake. Chloe was there, and also had her face covered?</span></div></span></div>",
-            "created":1601301720,
+            "created":1601269200,
             "id":2911624,
             "title":"Her face is covered in cake at her birthday"
         },
@@ -3637,6 +3637,18 @@
             "id":2715906,
             "title":"Kate Marsh"
         },
+        "131":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Sure.",
+                "By someone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She likes to be babied by Max?</span></div></span></div>",
+            "created":1604069460,
+            "id":2931767,
+            "title":"Yeah."
+        },
         "132":{
             "author_id":"kameron94",
             "author_name":"Kameron",
@@ -4008,7 +4020,7 @@
                 "Something esle they notice on entering it."
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>On entering, do theynotice their beds are cribs?</span></div></span></div>",
-            "created":1595091960,
+            "created":1595048400,
             "id":2871124,
             "title":"Yep"
         },
@@ -4343,7 +4355,7 @@
                 "something else"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>how much younger did Max regress herself and Chloe to go to an earlier grade?</span></div></span></div>",
-            "created":1598474280,
+            "created":1598418000,
             "id":2891939,
             "title":"More ages."
         },
@@ -4355,7 +4367,7 @@
                 "Some place else."
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Both were soon in a pre-school room?</span></div></span></div>",
-            "created":1598474460,
+            "created":1598418000,
             "id":2891944,
             "title":"4 years old"
         },
@@ -4761,6 +4773,220 @@
             "created":1570510800,
             "id":2730017,
             "title":"Taylor, or others."
+        },
+        "1553":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Sure.",
+                "Chloe, Rachel and Kate.",
+                "Any more."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Hmm, both Kate and Chloe?</span></div></span></div>",
+            "created":1604070900,
+            "id":2931775,
+            "title":"Kate and Chloe, or others."
+        },
+        "15531":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "They like them",
+                "Part of a new law that was passed",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How do Kate and Chloe end up in diapers?</span></div></span></div>",
+            "created":1604927640,
+            "id":2937186,
+            "title":"Sure."
+        },
+        "155311":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Max's mother, Vanessa, or anyone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Both liked to be babied, after what they went through, Kate in particular. Their mother figure, and protector was Max?</span></div></span></div>",
+            "created":1604927940,
+            "id":2937189,
+            "title":"They like them"
+        },
+        "155312":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yup.",
+                "Other things it does for them."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>As a result of this law, both are adopted?</span></div></span></div>",
+            "created":1604927880,
+            "id":2937188,
+            "title":"Part of a new law that was passed"
+        },
+        "1553121":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Max",
+                "Rachel Amber",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who adopts Kate and Chloe due to this law?</span></div></span></div>",
+            "created":1604929200,
+            "id":2937193,
+            "title":"Yup."
+        },
+        "15531211":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "It was worked out who'd be oldest and youngest.",
+                "Other things."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>After signing the papers, and getting her new daughters home, supplies being set up already, were rules put in place?</span></div></span></div>",
+            "created":1604929500,
+            "id":2937194,
+            "title":"Max"
+        },
+        "155312112":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Kate is oldest",
+                "Chloe is oldest",
+                "The girls would be twins"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who ended up being the oldest of the two?</span></div></span></div>",
+            "created":1604930700,
+            "id":2937200,
+            "title":"It was worked out who'd be oldest and young..."
+        },
+        "1553121121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Kate was dressed as a baby.",
+                "Chloe was dressed.",
+                "Both were given a bath, or SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Kate would be the oldest, Chloe youngest. That done, next to happen was...</span></div></span></div>",
+            "created":1604930940,
+            "id":2937205,
+            "title":"Kate is oldest"
+        },
+        "1553121122":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Dressing Kate.",
+                "Helping with her bath.",
+                "Other ways."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>It was arranged for Chloe to be the oldest. She soon began to help Max by...</span></div></span></div>",
+            "created":1604932620,
+            "id":2937218,
+            "title":"Chloe is oldest"
+        },
+        "15531211222":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Yeah",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Chloe get in the bath with Kate?</span></div></span></div>",
+            "created":1606489860,
+            "id":2946879,
+            "title":"Helping with her bath."
+        },
+        "155312112221":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "It was Chloe."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Chloe soon helped Kate to relax as both were bathed. Afterwards, was Kate dressed first?</span></div></span></div>",
+            "created":1606490160,
+            "id":2946880,
+            "title":"Yeah"
+        },
+        "1553121122211":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "A onesie",
+                "A baby dress",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What does Kate get dressed in?</span></div></span></div>",
+            "created":1606491900,
+            "id":2946885,
+            "title":"Yeah."
+        },
+        "15531211222111":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "A diaper and baby dress.",
+                "Anything else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She was dressed in that, as well as a diaper. Chloe was soon in the same outfit?</span></div></span></div>",
+            "created":1606492020,
+            "id":2946888,
+            "title":"A onesie"
+        },
+        "1553121122212":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "A onesie",
+                "A baby dress",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What is Chloe dressed in?</span></div></span></div>",
+            "created":1606492020,
+            "id":2946887,
+            "title":"It was Chloe."
+        },
+        "15531211222122":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Nah."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Chloe fight as her new mommy dresses her?</span></div></span></div>",
+            "created":1606492140,
+            "id":2946889,
+            "title":"A baby dress"
+        },
+        "155312112222":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Yeah.",
+                "Anything else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She helped to wash her sister's hair?</span></div></span></div>",
+            "created":1606490160,
+            "id":2946882,
+            "title":"Something else"
+        },
+        "155313":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Sure.",
+                "Hmm, any more ideas."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Hmmm. Max uses her time powers to turn both back into babies so she can mother them?</span></div></span></div>",
+            "created":1604930520,
+            "id":2937198,
+            "title":"Something else"
         }
     },
     "info":{
@@ -4771,8 +4997,8 @@
         "description":"<td align=\"left\" class=\"norm\">Make the girls from the video game Life Is Strange into babies any way you like.<br>\r\nRules.<br>\r\n<br>\r\n1: No insulting religion.<br>\r\n2: No killing anyone off.<br>\r\n3: Make the chapters as long as you can.<br>\r\n4: No ending stories suddenly.<br>\r\n5: Have fun!.</td>",
         "id":2200137,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1601301720,
-        "modified":1602999420,
+        "last_full_update":1602999420,
+        "modified":1606492140,
         "pretty_title":"Life Is Strange (Adult babies.)"
     }
 }

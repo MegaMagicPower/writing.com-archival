@@ -77,7 +77,7 @@
                 "Someone Else"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have chosen <i>Tiny Toon Adventures</i>. Now, who will play the roles of Hansel and Gretel?</span></div></span></div>",
-            "created":1602456660,
+            "created":1602392400,
             "id":2919260,
             "title":"Tiny Toon Adventures"
         },
@@ -89,7 +89,7 @@
                 "No, something else."
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have chosen Babs and Buster Bunny (No relation). Now, will this be an alternate version of \"Fit to Be Stewed\" (a double-length short from \"Buster's Directorial Debut\")?</span></div></span></div>",
-            "created":1602456780,
+            "created":1602392400,
             "id":2919261,
             "title":"Babs and Buster Bunny (No relation)"
         },
@@ -102,7 +102,7 @@
                 "Something else"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about these shows?</span></div></span></div>",
-            "created":1602456780,
+            "created":1602392400,
             "id":2919262,
             "title":"Something else"
         },
@@ -114,7 +114,7 @@
                 "Someone Else"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have chosen <i>Adventures of Sonic the Hedgehog</i>. Now, who will play the roles of Hansel and Gretel?</span></div></span></div>",
-            "created":1602456840,
+            "created":1602392400,
             "id":2919265,
             "title":"Adventures of Sonic the Hedgehog"
         },
@@ -165,6 +165,54 @@
             "created":1603495500,
             "id":2927713,
             "title":"Phil and Lil DeVille"
+        },
+        "115332":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, Let's Continue with TV Shows"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Instead of a TV show, how about a video game?</span></div></span></div>",
+            "created":1604956620,
+            "id":2937434,
+            "title":"No, something else."
+        },
+        "1153321":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Banjo-Kazooie",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What video game do you have in mind?</span></div></span></div>",
+            "created":1604956620,
+            "id":2937435,
+            "title":"Yes"
+        },
+        "11533211":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, someone else does."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have chosen <i>Banjo-Kazooie</i>, a classic Nintendo 64 game about a honey bear and breegull.<br>\r\n<br>\r\n<b>Do Banjo and Kazooie take on the respective roles of Hansel and Gretel?</b></span></div></span></div>",
+            "created":1604956740,
+            "id":2937436,
+            "title":"Banjo-Kazooie"
+        },
+        "115332111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, someone else does."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay. Then does Gruntilda \"Grunty\" Winkybunion take on the role of the witch?</span></div></span></div>",
+            "created":1604956800,
+            "id":2937437,
+            "title":"Yes"
         },
         "13":{
             "author_id":"supreme123",
@@ -2375,8 +2423,8 @@
         "description":"<td align=\"left\" class=\"norm\">Much like how my interactive Children Learn Basic Skills was written because there was already one on the site about potty training, I'm writing this because I saw an Interactive about TV characters reenacting Hansel and Gretel, so I decided to do the other fairy tales.<br>\r\n<br>\r\nNote: The Hansel and Gretel story was focused on characters getting fat, but this one is not like that. Please leave characters as they are.<br>\r\n<br>\r\nRules:<br>\r\n1. Nothing too sexual unless it was part of the fairy tale, and even then, change it if the character is a kid. Also, getting married is fine as long as it doesn't break apart an existing couple, require children or related people to get married, or require an age gap.<br>\r\n2. Don't make characters OOC or kill them off, even if it was part of the fairy tale. (For example, even though Snow White's mother died, if you're parodying Snow White with The Loud House and Snow White is Lucy, don't kill off Rita or have her be the evil queen. And speaking of villains, if someone is playing a villain, don't have them do anything so evil it'd be OOC, for example, continuing with the above example, Lola Loud is a bit of a brat, but she wouldn't try to poison Lucy.)<br>\r\n<br>\r\nIf you have difficulty following the rules, remember that you can parody (for example, if someone is playing Snow White but a person who's not her love interest is playing the prince, you can have him act awkward about it).</td>",
         "id":2172608,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1602456900,
-        "modified":1603534860,
+        "last_full_update":1604956800,
+        "modified":1604956800,
         "pretty_title":"TV Characters Reenact Fairy Tales"
     }
 }

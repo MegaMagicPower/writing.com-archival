@@ -37,6 +37,19 @@
             "id":1303253,
             "title":"Wolf"
         },
+        "1112":{
+            "author_id":"redwolf12",
+            "author_name":"wolfbood",
+            "choices":[
+                "I don't know what's happening",
+                "I don't know what you're talking about",
+                "Son there is something I need to talk to you about"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>To yoursurprise to see that your father has become a anthro wolf too. <br>\r\nYou ask what happened but your father just look....</span></div></span></div>",
+            "created":1606246740,
+            "id":2945378,
+            "title":"Dad's an anthro wolf too!"
+        },
         "112":{
             "author_id":"maccar110",
             "author_name":"Fanfic T-Mac",
@@ -267,6 +280,18 @@
             "id":2887671,
             "title":"Go with a Different Storyline"
         },
+        "115332125":{
+            "author_id":"redwolf12",
+            "author_name":"wolfbood",
+            "choices":[
+                "Cow",
+                "Another anthro"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of anthro did she became?</span></div></span></div>",
+            "created":1606245960,
+            "id":2945368,
+            "title":"Another anthro"
+        },
         "1153322":{
             "author_id":"jobobo19",
             "author_name":"carl.a.pruuitt",
@@ -411,7 +436,7 @@
         "id":1649319,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
         "last_full_update":1597795500,
-        "modified":1597795500,
+        "modified":1606246740,
         "pretty_title":"Animal Transform"
     }
 }

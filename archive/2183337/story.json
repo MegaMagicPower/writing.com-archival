@@ -116,6 +116,18 @@
             "id":2783966,
             "title":"Scar kidnaps Simba as a cub"
         },
+        "115532":{
+            "author_id":"mindlessdog",
+            "author_name":"Draxus",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about a completely altered universe? Same characters, different set-up?</span></div></span></div>",
+            "created":1606354320,
+            "id":2946080,
+            "title":"Other"
+        },
         "12":{
             "author_id":"mindlessdog",
             "author_name":"Draxus",
@@ -192,6 +204,30 @@
             "id":2889935,
             "title":"Yes"
         },
+        "12321211":{
+            "author_id":"mindlessdog",
+            "author_name":"Draxus",
+            "choices":[
+                "Cub",
+                "Same age as Zira"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>And how old will she be as Zira's clone?</span></div></span></div>",
+            "created":1606226160,
+            "id":2945246,
+            "title":"Cub"
+        },
+        "123212112":{
+            "author_id":"mindlessdog",
+            "author_name":"Draxus",
+            "choices":[
+                "Copy pasted",
+                "Distinguishable"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will they be absolutely identical in every way or just very similar but still differentiable?</span></div></span></div>",
+            "created":1606355340,
+            "id":2946087,
+            "title":"Same age as Zira"
+        },
         "125":{
             "author_id":"mindlessdog",
             "author_name":"Draxus",
@@ -265,7 +301,7 @@
         "id":2183337,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
         "last_full_update":1598186460,
-        "modified":1598186460,
+        "modified":1606355340,
         "pretty_title":"Lion King AU"
     }
 }

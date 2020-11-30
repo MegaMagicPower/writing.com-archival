@@ -2587,6 +2587,78 @@
             "id":2849098,
             "title":"Detroit: Becoming Human"
         },
+        "15433222112222222233":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about someone from <i>Rocket Knight Adventures</i>?</span></div></span></div>",
+            "created":1606071060,
+            "id":2944212,
+            "title":"More"
+        },
+        "154332221122222222331":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Sparkster",
+                "Someone Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have chosen <i>Rocket Knight Adventures</i>, a Sega Genesis game about Sparkster, an opossum knight with a jet pack and a magical sword.<br>\r\n<br>\r\n<b>Which character from the series gains weight?</b></span></div></span></div>",
+            "created":1606071120,
+            "id":2944213,
+            "title":"Yes"
+        },
+        "1543322211222222223311":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Princess Sherry Cooks Him a Smorgasbord",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does Sparkster gain weight?</span></div></span></div>",
+            "created":1606071240,
+            "id":2944216,
+            "title":"Sparkster"
+        },
+        "15433222112222222233112":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Sparkster compete in an eating contest against Axel Gear?</span></div></span></div>",
+            "created":1606071300,
+            "id":2944217,
+            "title":"Something Else"
+        },
+        "1543322211222222223312":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about Axel Gear, Sparkster's arch-rival and evil counterpart?</span></div></span></div>",
+            "created":1606071120,
+            "id":2944214,
+            "title":"Someone Else"
+        },
+        "15433222112222222233122":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, then. How about Princess Sherry, the daughter of King El Zebulos?</span></div></span></div>",
+            "created":1606071180,
+            "id":2944215,
+            "title":"No, someone else"
+        },
         "1543322212":{
             "author_id":"deadman123",
             "author_name":"tincan",
@@ -5662,7 +5734,7 @@
         "id":1276668,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
         "last_full_update":1591806660,
-        "modified":1591806660,
+        "modified":1606071300,
         "pretty_title":"Video Game Weight Gain"
     }
 }

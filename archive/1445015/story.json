@@ -6397,6 +6397,44 @@
             "id":2632201,
             "title":"last T.M.N.T"
         },
+        "1253122222":{
+            "author_id":"lacus121",
+            "author_name":"Micke",
+            "choices":[
+                "Inflating mystery!",
+                "Yoinks, nope."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about Velma and Daphne in Scooby-Doo! Mystery Incorporated?<br>\r\n</span></div></span></div>",
+            "created":1605974700,
+            "id":2943616,
+            "title":"Scooby Doo"
+        },
+        "12531222221":{
+            "author_id":"lacus121",
+            "author_name":"Micke",
+            "choices":[
+                "A haunted mansion.",
+                "A amusement park.",
+                "Some place else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where is the gang investigating a ghost mystery?<br>\r\n</span></div></span></div>",
+            "created":1605974820,
+            "id":2943618,
+            "title":"Inflating mystery!"
+        },
+        "125312222213":{
+            "author_id":"lacus121",
+            "author_name":"Micke",
+            "choices":[
+                "A balloon factory.",
+                "At a beach.",
+                "Other places?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where else is the gang checking out mysteries?</span></div></span></div>",
+            "created":1605974940,
+            "id":2943619,
+            "title":"Some place else"
+        },
         "12532":{
             "author_id":"nicholas1998",
             "author_name":"Nick98",
@@ -9416,7 +9454,7 @@
         "id":1445015,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
         "last_full_update":1601147640,
-        "modified":1601147640,
+        "modified":1605974940,
         "pretty_title":"Anime/Cartoon/game females go boom!"
     }
 }

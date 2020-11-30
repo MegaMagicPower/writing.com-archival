@@ -115,7 +115,7 @@
                 "other"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>As charles was heading to megans location he saw two lads running away from the _____ out of his garden </span></div></span></div>",
-            "created":1594366080,
+            "created":1594357200,
             "id":2865256,
             "title":"He noticed two kids running away from his garden."
         },
@@ -465,7 +465,7 @@
                 "Something else."
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What should happen?</span></div></span></div>",
-            "created":1595499000,
+            "created":1595480400,
             "id":2873450,
             "title":"Sam Manson."
         },
@@ -925,6 +925,18 @@
             "id":2798184,
             "title":"Individuals."
         },
+        "124332222211122":{
+            "author_id":"ehock",
+            "author_name":"Writers",
+            "choices":[
+                "Lori Loud.",
+                "Somebody else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about the oldest sibling?</span></div></span></div>",
+            "created":1604315160,
+            "id":2933149,
+            "title":"Someone else."
+        },
         "13":{
             "choices":[
                 "Mental",
@@ -1018,7 +1030,7 @@
                 "Someone else"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which character do you want regressed first?</span></div></span></div>",
-            "created":1589953020,
+            "created":1589950800,
             "id":2838337,
             "title":"Arthur"
         },
@@ -1030,7 +1042,7 @@
                 "Someone else"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who else do you want regressed?</span></div></span></div>",
-            "created":1593527400,
+            "created":1593493200,
             "id":2859078,
             "title":"Someone else"
         },
@@ -1042,7 +1054,7 @@
                 "Other ages"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How young will D.W. become?</span></div></span></div>",
-            "created":1594366320,
+            "created":1594357200,
             "id":2865258,
             "title":"D.W. "
         },
@@ -1132,9 +1144,33 @@
                 "No"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Tommy want to go naked again?</span></div></span></div>",
-            "created":1589950380,
+            "created":1589864400,
             "id":2838326,
             "title":"Take it off"
+        },
+        "14321122":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does he take it off to try to pee on the tree like Spike?</span></div></span></div>",
+            "created":1604669580,
+            "id":2935461,
+            "title":"No"
+        },
+        "143211221":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Tommy Puts His Diaper Back On",
+                "Tommy Keeps His Diaper Off"
+            ],
+            "content":"<div class=\"\"><div> <span>When Tommy saw Spike peeing on the tree, he thought it looked like fun and he wanted to try it. He untaped his diaper, which was still dry, and let it fall to the ground. Shortly after taking his diaper off, Tommy started peeing on the tree and sighed with relief.<br>\r\n<br>\r\n\"It feels nice not to need my diapie changed.\" Tommy said as he continued going pee. He peed on the tree until his bladder was empty.<br>\r\n<br>\r\n<b>When Tommy was all done peeing, did he put his diaper back on, or did he decide to keep it off?</b></span></div></div>",
+            "created":1604697720,
+            "id":2935666,
+            "title":"Yes"
         },
         "143212":{
             "author_id":"johnny2",
@@ -1144,9 +1180,57 @@
                 "Someone else"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who else do you want to focus on?</span></div></span></div>",
-            "created":1593527520,
+            "created":1593493200,
             "id":2859080,
             "title":"Someone else"
+        },
+        "1432121":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Keep it On",
+                "Take it Off"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What does Kimi decide to do with her diaper?</span></div></span></div>",
+            "created":1604670120,
+            "id":2935465,
+            "title":"Kimi Finster"
+        },
+        "1432122":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about Chuckie Finster?</span></div></span></div>",
+            "created":1604670120,
+            "id":2935466,
+            "title":"Someone else"
+        },
+        "14321221":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Since Chuckie is potty-trained and wearing pants and underwear, does somebody put him in a diaper?</span></div></span></div>",
+            "created":1604670180,
+            "id":2935468,
+            "title":"Yes"
+        },
+        "143212211":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Tommy",
+                "Someone Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who was it who put a diaper on Chuckie?</span></div></span></div>",
+            "created":1604697780,
+            "id":2935667,
+            "title":"Yes"
         },
         "15":{
             "author_id":"cblackthorn",
@@ -1181,8 +1265,8 @@
         "description":"<td align=\"left\" class=\"norm\">no rules</td>",
         "id":1864449,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1601773560,
-        "modified":1601773560,
+        "last_full_update":1604697780,
+        "modified":1604697780,
         "pretty_title":"random story"
     }
 }

@@ -2179,6 +2179,19 @@
             "id":321738,
             "title":"Safe landing....but for how long?"
         },
+        "1521":{
+            "author_id":"ncc-1701",
+            "author_name":"T34/85",
+            "choices":[
+                "They agree to help you",
+                "They decide to keep you as a pet ",
+                "They plan to sell you"
+            ],
+            "content":"<div class=\"\"><div> <span>\"You'll never guess what I just found, Sally!\" exclaims the Asian girl to her friend. <br>\r\n<br>\r\n\"What is it?\" Sally asks, curiously.<br>\r\n<br>\r\nThe Asian girl quickly wraps her fingers around you and traps you in her closed fist with just your head and shoulders sticking out. The girl shoves you in front of her friend's face. <br>\r\n<br>\r\n\"Aren't you a little old to be playing with dolls, Reiko?\" teases Sally.<br>\r\n<br>\r\n\"No really, look! He's real, he's like a tiny man or something.\" insists Reiko.<br>\r\n<br>\r\nSally looks you over carefully. Her bright blue eyes scan your tiny form as she moves her straight blonde hair away from her eyes. Suddenly her eyes get wide and she covers her mouth in shock.<br>\r\n<br>\r\n\"Oh my God! He is real\" whispers Sally. <br>\r\n<br>\r\n\"Yes, I am real\" you reply. \"Can you please help me?\"<br>\r\n<br>\r\n\"And he talks too\" squeals Reiko.<br>\r\n<br>\r\nYou roll your eyes and try to ask again.<br>\r\n<br>\r\n\"Look, I was shrunk somehow and landed in your car after flying off the roller coaster in the amusement park! Can you please help me?\" you ask again.<br>\r\n<br>\r\n\"He's so cute!\" squeals Sally, ignoring your pleas.<br>\r\n<br>\r\n\"I know right?\" agrees Reiko.<br>\r\n<br>\r\n\"Can I hold him?\" asks Sally, holding out her cupped hands.<br>\r\n<br>\r\n\"Of course!\" she says, dropping you into Sally's hands.<br>\r\n<br>\r\nYou look up and see Sally smiling down at you as if you were some sort of puppy.<br>\r\n<br>\r\n\"Hey!\" you shout. \"Please help me!\"<br>\r\n<br>\r\nAt last the two girls seem to acknowledge what you said. Sally sets you in the cup holder and both she and Reiko smile down at you.<br>\r\n<br>\r\nWhat happens next?<br>\r\n<br>\r\n<br>\r\n</span></div></div>",
+            "created":1606481700,
+            "id":2946825,
+            "title":"She shows you to her blond friend"
+        },
         "1522":{
             "choices":[
                 "\"Sure!  Why not?\"",
@@ -2188,6 +2201,32 @@
             "created":1201582800,
             "id":492226,
             "title":"She keeps you to herself...close...to herself"
+        },
+        "15221":{
+            "author_id":"ncc-1701",
+            "author_name":"T34/85",
+            "choices":[
+                "Sally pulls over and kicks her friend out of the car",
+                "Sally suspects something's up",
+                "You scream for help and Sally hears you"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Wait, really?\" Sally asks, sounding a bit surprised.<br>\r\n<br>\r\n\"Yes, really.\" replies Reiko. \"I want to get out and walk. You're driving like a maniac and it's a nice day for a walk!\"<br>\r\n<br>\r\nHow does Sally respond?</span></div></div>",
+            "created":1606482480,
+            "id":2946828,
+            "title":"\"Sure!  Why not?\""
+        },
+        "152211":{
+            "author_id":"ncc-1701",
+            "author_name":"T34/85",
+            "choices":[
+                "Boyfriend ",
+                "Pet ",
+                "Slave "
+            ],
+            "content":"<div class=\"\"><div> <span>\"Ok fine!\" replies Sally, pulling over. \"I don't know why you're being such a jerk but If you think I drive so bad you can get out.\"<br>\r\n<br>\r\nWithout another word, Reiko discreetly cups you in her hands trapping you against her soft flesh and gets out. Her friend drives away and she opens her hands to look at you. You look around and see you're in some sort of residential neighborhood but most of your frontal vison is blocked by the Asian beauty smiling at you.<br>\r\n<br>\r\n\"Well, now that we're alone we can get better acquainted\" says Reiko smiling down at you. \"My name's Reiko. What's yours?\"<br>\r\n<br>\r\nYou shyly tell her your name. <br>\r\n<br>\r\n\"I see, how did you get so tiny?\" she asks.<br>\r\n<br>\r\n\"I have no idea. I shrunk while I was on the roller coaster at the amusement park and I flew off and landed in your friends car.\" you reply. <br>\r\n<br>\r\n\"So nobody else knows you're tiny?\" asks Rieko with an unsettling smile.<br>\r\n<br>\r\n\"N-no\" you reply, noticing her smile.<br>\r\n<br>\r\n\"Well then, it looks like you're all mine\" says Rieko <br>\r\n<br>\r\nYou can't believe what you're hearing. You had an uneasy feeling about this girl the moment she grabbed you but you still can't believe what she's saying.<br>\r\n<br>\r\n\"What do you mean?\" you ask with fear in your voice.<br>\r\n<br>\r\n\"You're going to be my new...\" </span></div></div>",
+            "created":1606483200,
+            "id":2946834,
+            "title":"Nice day for a walk..."
         },
         "15222":{
             "author_id":"swp1",
@@ -2263,7 +2302,7 @@
         "id":857285,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
         "last_full_update":1597933020,
-        "modified":1597933020,
+        "modified":1606483200,
         "pretty_title":"Shrunk in an Amusement Park"
     }
 }

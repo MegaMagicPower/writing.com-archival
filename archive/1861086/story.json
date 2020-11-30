@@ -185,6 +185,49 @@
             "id":2429154,
             "title":"Tweet-tweet, sucka!"
         },
+        "1413":{
+            "author_id":"smart_dude",
+            "author_name":"Clever_man",
+            "choices":[
+                "An eagle",
+                "A pigeon",
+                "A peacock",
+                "A raven",
+                "Other birds"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Other Birds?</span></div></span></div>",
+            "created":1604897220,
+            "id":2936951,
+            "title":"Something else."
+        },
+        "14133":{
+            "author_id":"smart_dude",
+            "author_name":"Clever_man",
+            "choices":[
+                "You try to fly.",
+                "You visit other scientists who had the same accident as you.",
+                "You just continue on with your work.",
+                "You go out and meet some other anthro animal people.",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><div> <span>You gaze surprised at your new body. Your now a giant peacock man; you flap open your big tail fan and almost knock something over and gaze at your hand wings and feel your new beak \"Well, this isn't TOO bad\" you say to yourself before closing your big tail fan. You start walking around, your talon feet clicking on the ground and your tail lightly dragging behind you. You lift one of your feet up and look at it \"Geez that looks scary\" you say with an uneasy voice before putting it down. \"what to do next though\" you think while rubbing the bottom of your beak with one of your wing hands.</span></div></div>",
+            "created":1604898840,
+            "id":2936958,
+            "title":"A peacock"
+        },
+        "141331":{
+            "author_id":"smart_dude",
+            "author_name":"Clever_man",
+            "choices":[
+                "You just flop on the ground.",
+                "You successfully achieve flight!!!",
+                "Another anthro animal is watching you."
+            ],
+            "content":"<div class=\"\"><div> <span>You look at your wing hands and think to yourself \"Hmm, Maybe i can attempt to fly, just not here\" so you go to a big open unit nearby the labs that JUST so happens to test the flight patterns in animals. It's not being used at the moment but you're just going to test and see if you can achieve flight or not. You go up one of the small ramps for now. You don't dare try the big ones quite yet.<br>\r\n<br>\r\nYou stand on the platform, jump off, open your wings and start flapping...</span></div></div>",
+            "created":1604939520,
+            "id":2937311,
+            "title":"You try to fly."
+        },
         "144":{
             "author_id":"maccar110",
             "author_name":"Fanfic T-Mac",
@@ -246,6 +289,21 @@
             "id":2260788,
             "title":"Other"
         },
+        "1551":{
+            "author_id":"spunky",
+            "author_name":"Ace Jones",
+            "choices":[
+                "Ice Hound.",
+                "Earth Hound.",
+                "Sky Hound.",
+                "Bounce Hound.",
+                "Your choice"
+            ],
+            "content":"<div class=\"\"><div> <span>Amid the smoke and rubble you looked down at yourself as you now had fur and a tail on your butt as you looked at your reflection as you've transformed into a furry dog like superhero of some sort as you're wearing a spandex suit that came with a belt gloves and mask as there was a symbol on your spandex suit as you're also incredibly obese and huge as well.<br>\r\n<br>\r\n\"What have I transformed into?\" You asked yourself.<br>\r\n<br>\r\nIce Hound: a Dalmatian like superhero whose superpowers include being able to freeze people in mere seconds along with creating ice based weapons with ease as you also have a healing factor too as your spandex body suit's color is bright blue with a cyan colored belt and gloves as your suit's symbol is an ice cube.<br>\r\n<br>\r\nEarth Hound: Earth Hound a husky dog like superhero whose superpowers include the ability to levitate rocks with your paws and launch them at your enemies as you're also super fast and have a healing factor as well as your spandex suit is brown along with a green belt gloves and mask as your spandex suit's symbol is cracked ground.<br>\r\n<br>\r\nSky Hound: another Dalmatian like superhero whose superpowers include manipulating air flying and a healing factor as your spandex's suit is red with an orange belt gloves and a green mask as your spandex suit's symbol happens to be clouds.<br>\r\n<br>\r\nBounce Hound: a Dalmatian like superhero whose superpowers consist of bouncing to great heights changing both your weight and height at will inflation and a healing factor too as your spandex suit's color is dark blue with a yellow belt gloves and mask as your spandex suit's symbol is a bouncy ball.<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n </span></div></div>",
+            "created":1604948520,
+            "id":2937383,
+            "title":"A furry?"
+        },
         "1553":{
             "author_id":"yejdbdinsknsk8",
             "author_name":"Yejdbdinsknsk8",
@@ -275,13 +333,13 @@
     "info":{
         "author_id":"smart_dude",
         "author_name":"Clever_man",
-        "brief_description":"You transform into a monster from a lab experiment gone wrong.",
+        "brief_description":"You transform into a monster or just an anthro from a lab experiment gone wrong.",
         "created":1334278140,
         "description":"<td align=\"left\" class=\"norm\">You were doing a test on defferent types of creatures when a freak accident made you transform into a vicious monster.<br>\r\n<br>\r\nHairy, Scaly, Slimy, anything goes except sex and extreme gore (ex: Guts splattering everywhere, heads blowing up) vore IS one of the things i will allow. Terror and screaming maybe. Have fun.<br>\r\n<br>\r\nIf you seen The Were Experiment(<a class=\"blue2roll\" rel=\"nofollow\" href=\"http://www.writing.com/main/interact/item_id/1836768-The-Were-Experiment\" target=\"_blank\">http://www.writing.com/main/interact/item_id/1836768-The-Were-Experiment</a>) it's like that one except you do the transformation to yourself.</td>",
         "id":1861086,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
         "last_full_update":1577024760,
-        "modified":1577024760,
+        "modified":1605547020,
         "pretty_title":"Bad Science Experimenting"
     }
 }

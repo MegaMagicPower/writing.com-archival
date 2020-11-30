@@ -450,6 +450,44 @@
             "id":2926334,
             "title":"Yeah."
         },
+        "121112":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "baby food",
+                "a bottle",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what does Carly Beth feed baby Hannah?</span></div></span></div>",
+            "created":1604242320,
+            "id":2932714,
+            "title":"Fed her."
+        },
+        "1211121":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Peaches.",
+                "Anything else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She fed her baby food from a jar, but what did she feed her?</span></div></span></div>",
+            "created":1604242500,
+            "id":2932719,
+            "title":"baby food"
+        },
+        "1211122":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Milk.",
+                "Baby formula.",
+                "Anything else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She was able to get a bottle ready for her, but what was in it?</span></div></span></div>",
+            "created":1604242440,
+            "id":2932718,
+            "title":"a bottle"
+        },
         "121113":{
             "author_id":"kameron94",
             "author_name":"Kameron",
@@ -785,7 +823,7 @@
                 "Reader's Choice 2"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Why does Hannah prefer diapers instead of panties?</span></div></span></div>",
-            "created":1603453500,
+            "created":1603429200,
             "id":2927399,
             "title":"she prefers diapers instead of panties"
         },
@@ -797,7 +835,7 @@
                 "Hmm, other ideas."
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Not having a real childhood, she prefers dressing like a baby.</span></div></span></div>",
-            "created":1603453680,
+            "created":1603429200,
             "id":2927400,
             "title":"Reader's Choice 1"
         },
@@ -1249,7 +1287,7 @@
                 "Carly Beth will be Hannah's big sister",
                 "Carly Beth will be Hannah's little sister, due to their current ages"
             ],
-            "content":"<div class=\"\"><div> <span>deciding on Carly Beth, Stine went over to his typewriter to write a new book to get Carly Beth out without letting out the rest of the monsters like he did with Hannah.<br>\r\n<br>\r\nonce the book was finished, he opened the book and Carly Beth wearing the haunted came out in a blueish light and swirling ink.<br>\r\n<br>\r\nfor the symbol of love, Hannah quickly grabbed her new sister and embraced her in a hug. Stine then took the opportunity to pulled the Mask off of Carly Beth and carefully put the mask back in the book.<br>\r\n<br>\r\nhow was it later decided which of them would be older, now that both girls would be given a real childhood?</span></div></div>",
+            "content":"<div class=\"\"><div> <span>deciding on Carly Beth, Stine went over to his typewriter to write a new book to get Carly Beth out without letting out the rest of the monsters like he did with Hannah.<br>\r\n<br>\r\nonce the book was finished, he opened the book and Carly Beth wearing the haunted came out in a blueish light and swirling ink.<br>\r\n<br>\r\nfor the symbol of love, Hannah quickly grabbed her new sister and embraced her in a hug. Stine then took the opportunity to pull the Mask off of Carly Beth and carefully put the mask back in the book.<br>\r\n<br>\r\nhow was it later decided which of them would be older, now that both girls would be given a real childhood?</span></div></div>",
             "created":1603256400,
             "id":2926437,
             "title":"Carly Beth."
@@ -1311,7 +1349,7 @@
                 "treated as a her normal age(12)"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>since Carly Beth is Hannah's little sister and Hannah is being given a real childhood, is Carly Beth be treated like a baby with Hannah despite being dressed as her normal age?</span></div></span></div>",
-            "created":1603318740,
+            "created":1603256400,
             "id":2926456,
             "title":"Yeah."
         },
@@ -1323,7 +1361,7 @@
                 "Other ways."
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Carly soon agreed to this. Hannah offered to help, but, how?</span></div></span></div>",
-            "created":1603318980,
+            "created":1603256400,
             "id":2926458,
             "title":"yep"
         },
@@ -1372,7 +1410,7 @@
                 "another age"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>does Lorraine decide to Dress Carly Beth like a baby?</span></div></span></div>",
-            "created":1603318920,
+            "created":1603256400,
             "id":2926457,
             "title":"A different age."
         },
@@ -1385,7 +1423,7 @@
                 "Other baby ages."
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She opted to dress her like a newborn, as she'd been \"born\" so to speak?</span></div></span></div>",
-            "created":1603319100,
+            "created":1603256400,
             "id":2926461,
             "title":"yep"
         },
@@ -1397,7 +1435,7 @@
                 "No"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>After it was decided that Carly Beth will be dressed as a newborn, due to being born so to speak, did Hannah decide to help Lorraine dress her baby sister?</span></div></span></div>",
-            "created":1603401780,
+            "created":1603342800,
             "id":2927058,
             "title":"Yeah."
         },
@@ -1409,7 +1447,7 @@
                 "Helped her into another part of her outfit."
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>After the clothes were ordered in the right sizes, Hannah started with diapering Carly Beth?</span></div></span></div>",
-            "created":1603402740,
+            "created":1603342800,
             "id":2927073,
             "title":"Yes"
         },
@@ -1487,6 +1525,19 @@
             "id":2887722,
             "title":"Samantha Byrd(be careful what you wish for)"
         },
+        "132":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "A resurrected Hannah.",
+                "Carly Beth.",
+                "By someone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>With everything she has to deal with, she likes to be babied, but by who?</span></div></span></div>",
+            "created":1604339580,
+            "id":2933291,
+            "title":"Likes being babied."
+        },
         "133":{
             "author_id":"kameron94",
             "author_name":"Kameron",
@@ -1536,6 +1587,57 @@
             "created":1598072400,
             "id":2889522,
             "title":"Something else"
+        },
+        "13331":{
+            "author_id":"kameron94",
+            "author_name":"Kameron",
+            "choices":[
+                "Carly Beth",
+                "Sabrina Mason",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who does Samantha Byrd end up being adopted by due to this law?</span></div></span></div>",
+            "created":1604344200,
+            "id":2933343,
+            "title":"Sure."
+        },
+        "133311":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Diapers her.",
+                "Feeds her.",
+                "Goes over rules, or anything else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Carly Beth Caldwell first does what with her new daughter?</span></div></span></div>",
+            "created":1604344560,
+            "id":2933352,
+            "title":"Carly Beth"
+        },
+        "133312":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Dresses her.",
+                "Takes her through rules.",
+                "Anything else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Carly Beth's friend first does what first with her new daughter?</span></div></span></div>",
+            "created":1604412900,
+            "id":2933830,
+            "title":"Sabrina Mason"
+        },
+        "133313":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "Hannah Fairchild, or Stein.",
+                "Others."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Others that adopt her because of this law?</span></div></span></div>",
+            "created":1604348220,
+            "id":2933377,
+            "title":"Someone else"
         },
         "14":{
             "author_id":"supreme123",
@@ -2998,8 +3100,8 @@
         "description":"<td align=\"left\" class=\"norm\">since most of the franchise are stand alones, this will be an expanded universe.<br>\r\n<br>\r\nhere are the rules for this.<br>\r\n<br>\r\n Rule 1. always leave a \"something else\" option to keep the reasons going.<br>\r\n<br>\r\nRule 2. no weight gain.<br>\r\n<br>\r\nRule 3. no killing off characters.<br>\r\n<br>\r\nRule 4. no instant or quick ends on the paths(I will delete those)<br>\r\n<br>\r\nRule 5. no insulting religion.<br>\r\n<br>\r\nRule 6. absolutely no troll chapters, or you will be blocked<br>\r\n<br>\r\nRule 7. there are currently hundreds of books, so just because any of you don't know any other characters doesn't mean that's all of them.<br>\r\n<br>\r\notherwise have fun. :)</td>",
         "id":2229799,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1602334440,
-        "modified":1603549740,
+        "last_full_update":1604412900,
+        "modified":1604412900,
         "pretty_title":"goosebumps diaper girls "
     }
 }

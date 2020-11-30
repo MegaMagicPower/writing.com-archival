@@ -1189,6 +1189,30 @@
             "id":2837625,
             "title":"Now full, let's find a job..."
         },
+        "132132121":{
+            "author_id":"spots",
+            "author_name":"Spots",
+            "choices":[
+                "Find some entertainment...",
+                "Get into your work..."
+            ],
+            "content":"<div class=\"\"><div> <span>Your alarm goes off in the morning, and you yawn and stretch, getting up and showering before putting on your clothes. You are hungry, still realizing you haven't gone grocery shopping, a few slices of cold pizza fill in, and you make the mental note to get some shopping done after work. Things go swimmingly, you man the front counter and dish out pizza without incident. Lio even gives you a free slice for lunch. Not much, but good enough. <br>\r\n<br>\r\nAfter work, you look for a grocery store, eager to stock your pantry. The first one you find is B&amp;L(Bulk and Large) which seems good enough. The prices are pretty good for a bulk store, allowing you to get almost 3 times the amounts you would have expected. Waiting in line you can't help but notice that the other customers more often hen not seem... uh hum... 'Horizontally challenged'. The guy in front of you is so wide you would not even be able to see the line... if not for the even fatter guy in front of him. You guess some people have moderation issues with the low prices here. When your items are scanned, the cashier offers you a store card, which would save you even more money, which you eagerly sign up for. When you get to your apartment, you stock your shelves and finish off the last of the pizza for dinner. Then you head to bed for the next day.<br>\r\n<br>\r\nThe rest of the week seems uneventful, you go to work, now with lunch in tow. The pizza place becomes more popular with you behind the counter, just as Lio expected, and you and he get along just fine as you spend afternoons familiarizing yourself with the area before going home and preparing your dinner from one of the frozen microwave meals you got from the store. Despite being tasty, it doesn't seem particularly filling at times, leading you to sometimes dip into a second one, or top yourself off with some of the snacks. But by the end of the week, you feel pretty much settled in and ready to make this a fresh start...</span></div></div>",
+            "created":1606355280,
+            "id":2946086,
+            "title":"Work week"
+        },
+        "1321321211":{
+            "author_id":"spots",
+            "author_name":"Spots",
+            "choices":[
+                "Well, you DO like food...",
+                "Games, obviously..."
+            ],
+            "content":"<div class=\"\"><div> <span>With a steady income at your back and food sorted, you feel like you should be able to indulge in some hobbies. Work is great and all, but you would get bored with just that. So you go out on the town to see what else you can do in this city. Your explorations into the surrounding area have yielded one thing... people here are really into food. The number of restaurants, grocery stores, and food stalls around here means you can't cross a street without being offered a free sample, not that that is a bad thing. If you had known this beforehand, you wouldn't have been so worried about food, because a free lunch is easy to find. But more evidence of the love of food here is the sheer amount of 'ample' individuals, the store owners who obviously sample their own wares a bit too often, and the customers who are more often than not munching on something as they buy something else to start on. <br>\r\n<br>\r\nAs such the most obvious pastimes around here revolve around food. Eating competitions, restaurant sampling, cooking competitions, and other such events are practically plastered on every billboard. Of course, this also seems to mean gyms are sparse, as the calorie enriched denizens seem to indicate. You'll have to be careful if you don't want to end up spoiling your figure.<br>\r\n<br>\r\nBut then, aside from this, you find another avenue in which you could spend your energy, as you find a small street of video game stores. Obviously, this doesn't seem as popular as all the food-related events, but it's something that you can easily enjoy. Though not as prevalent, they do have the latest in games and gaming consoles, which cries out to your inner geek as you see they even have virtual reality headsets for sale. <br>\r\n<br>\r\nIn the end, you seem left with two options, the only question is will you dive into the more prevalent culture, or into the gaming one...</span></div></div>",
+            "created":1606356720,
+            "id":2946096,
+            "title":"Find some entertainment..."
+        },
         "132132122":{
             "author_id":"spots",
             "author_name":"Spots",
@@ -2441,7 +2465,7 @@
         "id":1770993,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
         "last_full_update":1601580120,
-        "modified":1601580120,
+        "modified":1606356720,
         "pretty_title":"Zaftig City 2"
     }
 }
